@@ -1,6 +1,36 @@
 [
   {
     "region": "Europe",
+    "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+    "summary": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
+    "link": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 15 Jun 2026 23:40:31 GMT",
+    "source": "BBC News",
+    "id": "dbe5fa0a2935fa7c3a044b05b4f84982",
+    "fetched_at": "2026-06-16T02:59:37.701501+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia linked to arson attacks on properties connected to UK PM Keir Starmer, police say",
+    "summary": "Russia allegedly linked to arson attacks on U.K. Prime Minister Keir Starmer&apos;s properties, with a reported diplomat accused of recruiting Ukrainian nationals.",
+    "link": "https://www.foxnews.com/world/russia-linked-arson-attacks-properties-connected-uk-pm-keir-starmer-police-say",
+    "published": "Mon, 15 Jun 2026 21:39:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f5eb8310950a69d9db1e2f7caa69e65c",
+    "fetched_at": "2026-06-16T02:59:36.578230+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+    "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+    "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 15 Jun 2026 14:26:28 GMT",
+    "source": "BBC News",
+    "id": "8221ae7e4b03ed54fe111c04dc88b56e",
+    "fetched_at": "2026-06-16T02:59:35.443247+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
     "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
     "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
@@ -568,35 +598,5 @@
     "source": "BBC News",
     "id": "f57253ff7880094bc66919fea51b6e40",
     "fetched_at": "2026-06-15T20:30:14.989116+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'They didn't have time to jump' -   Witnesses recall skydiving plane crash",
-    "summary": "Eleven skydivers and a pilot were killed after the aircraft spun out of control and crashed shortly after takeoff in Missouri.",
-    "link": "https://www.bbc.com/news/articles/c9w2pvq9yy5o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 15 Jun 2026 17:21:22 GMT",
-    "source": "BBC News",
-    "id": "b66339117f95f0d1b38b53682849f055",
-    "fetched_at": "2026-06-15T20:30:13.857210+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "SpaceX IPO raised $10bn more than thought",
-    "summary": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
-    "link": "https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 15 Jun 2026 18:53:48 GMT",
-    "source": "BBC News",
-    "id": "07e08ed84d769b519026b3bd1343bc78",
-    "fetched_at": "2026-06-15T20:30:12.726531+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Air Force B-52 bomber plane crashes after take off in California",
-    "summary": "Officials did not say if anyone was injured in the crash, but the aircraft typically carry a crew of five.",
-    "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 15 Jun 2026 20:19:59 GMT",
-    "source": "BBC News",
-    "id": "c05f768980406e9b9f3997bb377fd5bb",
-    "fetched_at": "2026-06-15T20:30:11.594848+00:00"
   }
 ]
