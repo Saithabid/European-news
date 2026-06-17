@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+    "summary": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
+    "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 16 Jun 2026 07:05:54 GMT",
+    "source": "BBC News",
+    "id": "8b67e88fd566717e5f9bf3731320098c",
+    "fetched_at": "2026-06-17T02:56:59.357363+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "FBI foils plot targeting White House UFC event, five arrested across multiple states",
+    "summary": "Five suspects from Ohio, Missouri and California are in custody after the FBI learned of the threat four days before the South Lawn event.",
+    "link": "http://www.euronews.com/2026/06/17/fbi-foils-plot-targeting-white-house-ufc-event-five-arrested-across-multiple-states",
+    "published": "Wed, 17 Jun 2026 01:22:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1b9dcee1a4bf570232c1f4abccacdb43",
+    "fetched_at": "2026-06-17T02:56:58.229925+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+    "summary": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+    "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 01:27:26 GMT",
+    "source": "BBC News",
+    "id": "0027d3f294a6fae04db467c5ad7344ad",
+    "fetched_at": "2026-06-17T02:56:57.103924+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: California wildfires rage near passing vehicles",
+    "summary": "The fires in Riverside County cover over 2,000 acres, say authorities.",
+    "link": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 16 Jun 2026 09:30:13 GMT",
+    "source": "BBC News",
+    "id": "5f16c3ce340d2099cc4009df55647549",
+    "fetched_at": "2026-06-17T02:56:55.964635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+    "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+    "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 16 Jun 2026 23:17:46 GMT",
+    "source": "BBC News",
+    "id": "b1c11c2bd998de63d4dd46aaf85a9d33",
+    "fetched_at": "2026-06-17T02:56:54.830397+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Eight dead after US Air Force B-52 bomber crashes in California",
     "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
     "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "99f10373f03182c20baab27f0637e438",
     "fetched_at": "2026-06-16T14:56:47.714826+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "3 Brazilian men charged after woman tossed from bridge without safety rope",
-    "summary": "A 21-year-old woman died after instructors launched her from a bridge without attaching safety ropes during a rope-jumping event near São Paulo, Brazil.",
-    "link": "https://www.foxnews.com/world/3-brazilian-men-charged-woman-tossed-bridge-without-safety-rope",
-    "published": "Tue, 16 Jun 2026 10:04:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1c4a598cdefedcd3f0391e9e6a1e8938",
-    "fetched_at": "2026-06-16T14:56:47.714823+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former American businessman detained in Myanmar after alleged financial misconduct",
-    "summary": "Adam Castillo, founder of AGS Myanmar, was detained Thursday at Yangon International Airport. The U.S. State Department is aware of a reported detention but hasn't commented further.",
-    "link": "https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct",
-    "published": "Mon, 15 Jun 2026 08:45:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "9cc670148412211eb17b4ade13ac2b16",
-    "fetched_at": "2026-06-16T14:56:47.714820+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lead negotiator on 2015 Iran nuclear deal weighs in on what's next for Trump's deal",
-    "summary": "NPR's Ailsa Chang talks with Wendy Sherman, the lead U.S. negotiator on the 2015 Iran nuclear agreement, about the road ahead for U.S. negotiators aiming to strike a new deal to end the Iran war.",
-    "link": "https://www.npr.org/2026/06/15/nx-s1-5858933/lead-negotiator-on-2015-iran-nuclear-deal-weighs-in-on-whats-next-for-trumps-deal",
-    "published": "Mon, 15 Jun 2026 16:21:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "699c168546ee4519eb84de2641f69c37",
-    "fetched_at": "2026-06-16T14:56:47.714818+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli ambassador to U.S. says Israel is 'not going to withdraw from South Lebanon'",
-    "summary": "NPR's Steve Inskeep asks Israel's ambassador to the U.S. Michael Leiter about the peace deal the Trump administration says it's made with Iran.",
-    "link": "https://www.npr.org/2026/06/16/nx-s1-5858937/israels-ambassador-to-the-u-s-talks-about-u-s-iran-deal-to-end-war",
-    "published": "Tue, 16 Jun 2026 06:41:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "1c97d592150146b5fedc02717a13c67d",
-    "fetched_at": "2026-06-16T14:56:47.714814+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
-    "summary": "Israel has been sidelined in the agreement between the U.S. and Iran. It could spoil peace negotiations. And, it's been a thrilling start to the World Cup.",
-    "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
-    "published": "Tue, 16 Jun 2026 06:53:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "26729f7ea488c085a03d61ca5f7b6eb4",
-    "fetched_at": "2026-06-16T14:56:47.714787+00:00"
   }
 ]
