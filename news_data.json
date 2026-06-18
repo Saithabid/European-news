@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+    "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+    "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 21:47:25 GMT",
+    "source": "BBC News",
+    "id": "fc8071e4773470f84534159bb0c72756",
+    "fetched_at": "2026-06-18T23:30:00.549777+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cuba's President Miguel Díaz-Canel admits 'urgent changes' needed to overcome crisis",
+    "summary": "The oil blockade imposed by President Donald Trump in January has brought the island's already moribund economy to the brink of collapse, marked by power cuts sometimes lasting over 30 hours.",
+    "link": "http://www.euronews.com/2026/06/18/cubas-president-miguel-diaz-canel-admits-urgent-changes-needed-to-overcome-crisis",
+    "published": "Thu, 18 Jun 2026 22:20:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f9b9dca97c76cd6a39c73c27f399f0a8",
+    "fetched_at": "2026-06-18T23:30:00.549773+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
+    "summary": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
+    "link": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
+    "published": "Thu, 18 Jun 2026 01:56:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "c743c43b4c449de2d0df6a5d1d99703a",
+    "fetched_at": "2026-06-18T23:30:00.549745+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FIFA hydration breaks have sparked criticism. But what do they actually do?",
+    "summary": "For the first time in World Cup history, FIFA is mandating all soccer players take hydration breaks to protect them from the threats of extreme heat. But the new rule has sparked criticism.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5862575/fifa-hydration-breaks",
+    "published": "Thu, 18 Jun 2026 02:26:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "abd634c43af64cd791720bbfa2fb4093",
+    "fetched_at": "2026-06-18T23:29:59.429671+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a 'NATO 3.0'",
+    "summary": "U.S. Defense Secretary Pete Hegseth lashed out at NATO allies on Thursday, announcing a review of American forces in Europe, and calling for a reboot of the organization to turn it into a \"NATO 3.0.\"",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+    "published": "Thu, 18 Jun 2026 04:59:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "2f2901cf326058294484bf9680e3b299",
+    "fetched_at": "2026-06-18T23:29:58.304591+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+    "summary": "Trump signed a preliminary agreement with Iran yesterday to end the war and open the Strait of Hormuz. And, the president's approval rating has hit a record low, according to a new NPR poll.",
+    "link": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+    "published": "Thu, 18 Jun 2026 07:11:34 -0400",
+    "source": "NPR Topics: World",
+    "id": "3749f5fd47fbbb67d8b22d9a8f49479e",
+    "fetched_at": "2026-06-18T23:29:57.180243+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+    "summary": "The U.S. is allowing ships to enter and exit Iranian ports and coastal areas as the countries move to a new phase of negotiations over the next 60 days.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
+    "published": "Thu, 18 Jun 2026 17:28:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "405bbdd028b96d8356b691794dd00d40",
+    "fetched_at": "2026-06-18T23:29:56.076601+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Secretary of Defense Hegseth scolds NATO allies — again",
+    "summary": "Defense Secretary Pete Hegseth blasts NATO allies as a \"paper tiger\" while launching a six-month review of U.S. troop deployments in Europe and pressing for Europe to take the lead on its own defense.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5862847/secretary-of-defense-hegseth-scolds-nato-allies-again",
+    "published": "Thu, 18 Jun 2026 17:50:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "825c4b982e666b82a4c7255f776c537a",
+    "fetched_at": "2026-06-18T23:29:54.954708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teenager dies in horse-drawn carriage accident in New York",
+    "summary": "The horse bolted and toppled over after the carriage driver stepped down to take a picture of the passengers.",
+    "link": "https://www.bbc.com/news/articles/c20yxwjn873o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 02:39:28 GMT",
+    "source": "BBC News",
+    "id": "bc9dd47f07488ecc4920eac6f2b33b18",
+    "fetched_at": "2026-06-18T23:29:53.837269+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An ultra-rare Star Wars Lego collection went missing - it's sparked viral conspiracies",
+    "summary": "Bricks & Figs shops around the US have been receiving threats due to the missing Star Wars Lego set, the company says.",
+    "link": "https://www.bbc.com/news/articles/c39yn3r32yko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 19:53:41 GMT",
+    "source": "BBC News",
+    "id": "e89dd97b79b99fd53be5d959ad5c7e57",
+    "fetched_at": "2026-06-18T23:29:52.719272+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
     "summary": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
     "link": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "fb09e7a3166f659217a0e088fe5b5c10",
     "fetched_at": "2026-06-18T12:47:12.575811+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel says one soldier killed and several injured in clashes following latest strikes in Lebanon",
-    "summary": "Israeli officials close to Netanyahu say the Likud leader has no intention to give up positions in Lebanon and are engaged in negotiations with the US following the announcement of an initial deal with Iran to halt hostilities.",
-    "link": "http://www.euronews.com/2026/06/18/israel-says-one-soldier-killed-and-several-injured-in-clashes-following-latest-strikes-in-",
-    "published": "Thu, 18 Jun 2026 12:00:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "eed34cc53915868b724ff3ffe8366c2b",
-    "fetched_at": "2026-06-18T12:47:12.575809+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and Iran sign deal, but who really won? Here's what to know",
-    "summary": "Trump signed the framework deal at Versailles while Pezeshkian signed in Tehran, pledging to reopen the Strait of Hormuz and triggering 60 days of further talks. Analysts say the terms leave Tehran in a stronger position than the deal's framing suggests.",
-    "link": "http://www.euronews.com/2026/06/18/us-and-iran-sign-deal-but-who-really-won-heres-what-to-know",
-    "published": "Thu, 18 Jun 2026 12:34:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "34b1e21c30d85fc543e084aa12513033",
-    "fetched_at": "2026-06-18T12:47:12.575806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kaja Kallas responds after Israeli foreign minister says he will 'sever all contact' with her",
-    "summary": "Kallas said she valued \"dialogue and engagement\" with Israel, but she made no mention of the reported apartheid comment.",
-    "link": "http://www.euronews.com/2026/06/18/kaja-kallas-responds-after-israeli-foreign-minister-says-he-will-sever-all-contact-with-he",
-    "published": "Thu, 18 Jun 2026 13:05:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ebccb0a7a3a12506bce19cb6cdf17fc8",
-    "fetched_at": "2026-06-18T12:47:12.575803+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brussels rally presses EU to curb trade with settlements",
-    "summary": "Hundreds of demonstrators gathered in Brussels on 17 June ahead of a European Union summit. Protesters call for sanctions on Israel and a ban on goods produced in Israeli settlements.",
-    "link": "http://www.euronews.com/video/2026/06/18/brussels-rally-presses-eu-to-curb-trade-with-settlements",
-    "published": "Thu, 18 Jun 2026 14:38:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9e0c2712b7d640846ff6cf0d74adf9b3",
-    "fetched_at": "2026-06-18T12:47:12.575800+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Record-breaking heatwave develops across Europe",
-    "summary": "An intense heatwave is building across the continent, with Paris possibly seeing 40C by Sunday. Simon King reports.",
-    "link": "https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 14:59:16 GMT",
-    "source": "BBC News",
-    "id": "d19a599281eb2895c2918cd25b85142f",
-    "fetched_at": "2026-06-18T12:47:12.575796+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
-    "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
-    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 13:41:21 GMT",
-    "source": "BBC News",
-    "id": "f635c21708cc8620041838cb6733315d",
-    "fetched_at": "2026-06-18T12:47:12.575770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dáil passes abortion bill to remove three-day wait",
-    "summary": "The proposal is to remove the three-day wait for an abortion in early pregnancy in the Republic of Ireland.",
-    "link": "https://www.bbc.com/news/articles/cm2d5rdl85ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 21:06:27 GMT",
-    "source": "BBC News",
-    "id": "5b9e594fa7d797ca36248f15f477ce7a",
-    "fetched_at": "2026-06-18T12:47:11.487150+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British man dies in paragliding accident in Spain",
-    "summary": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
-    "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 11:54:23 GMT",
-    "source": "BBC News",
-    "id": "68615b4299c985facb282e7dcbfb4eee",
-    "fetched_at": "2026-06-18T12:47:10.388270+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
-    "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 11:50:15 GMT",
-    "source": "BBC News",
-    "id": "c1f19a6abe06411db8b0433e2206e7c1",
-    "fetched_at": "2026-06-18T12:47:09.185465+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-    "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 09:47:47 GMT",
-    "source": "BBC News",
-    "id": "bbe2b4911b5b906c9155717b6d0b76fd",
-    "fetched_at": "2026-06-18T12:47:08.080009+00:00"
   }
 ]
