@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Gunfire heard at Niger capital's airport",
+    "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+    "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 08:30:00 GMT",
+    "source": "BBC News",
+    "id": "fc8071e4773470f84534159bb0c72756",
+    "fetched_at": "2026-06-18T08:42:29.985729+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump signs initial deal to end Iran war and open Strait of Hormuz as nuclear talks continue",
+    "summary": "Trump signed an initial framework deal to restore the pre-war status quo between Iran and the United States, inking an initial agreement towards ending a war he started with Israel on 28 February.",
+    "link": "http://www.euronews.com/2026/06/18/trump-signs-initial-deal-to-end-iran-war-and-open-strait-of-hormuz-as-nuclear-talks-contin",
+    "published": "Thu, 18 Jun 2026 05:39:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "572de5d1197b47fbd9a13963ad67f513",
+    "fetched_at": "2026-06-18T08:42:29.985727+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment Trump signs US-Iran deal at Palace of Versailles",
+    "summary": "Video released by the French presidency shows Donald Trump signing an agreement aimed at ending the war with Iran during a dinner at Versailles, with French President Emmanuel Macron seated beside him.",
+    "link": "http://www.euronews.com/video/2026/06/18/moment-trump-signs-us-iran-deal-at-palace-of-versailles",
+    "published": "Thu, 18 Jun 2026 06:51:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cc769bcc2048cafac664292f50e472c2",
+    "fetched_at": "2026-06-18T08:42:29.985723+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 18th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/18/latest-news-bulletin-june-18th-2026-morning",
+    "published": "Thu, 18 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "770f3b1531d202da9f3e42ee07051979",
+    "fetched_at": "2026-06-18T08:42:29.985721+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK: Tommy Robinson’s Oxford Union debate sparks protests and free speech backlash",
+    "summary": "Tommy Robinson’s appearance at the Oxford Union prompts large protests and reignites the UK debate over free expression and platforms for extremists.",
+    "link": "http://www.euronews.com/video/2026/06/18/uk-tommy-robinsons-oxford-union-debate-sparks-protests-and-free-speech-backlash",
+    "published": "Thu, 18 Jun 2026 09:13:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b8a6d4d086a5511c87bdd5777d53d041",
+    "fetched_at": "2026-06-18T08:42:29.985717+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Moment Trump signs US-Iran agreement at Versailles",
+    "summary": "US President Donald Trump signed a memorandum of understanding with Iran at the Palace of Versailles on 18 June, marking a significant diplomatic step aimed at easing the Middle East conflict that has unsettled the region since February.",
+    "link": "http://www.euronews.com/video/2026/06/18/watch-moment-trump-signs-us-iran-agreement-at-versailles",
+    "published": "Thu, 18 Jun 2026 10:07:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8f7ce19541bbebd1c934309034d08129",
+    "fetched_at": "2026-06-18T08:42:29.985686+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Maputo, Mozambique's capital, shaped by a modernist architecture",
+    "summary": "An impromptu tour of Mozambique's capital city reveals a unique imprint left by architect Amâncio \"Pancho\" Guedes.",
+    "link": "https://www.npr.org/2026/06/17/nx-s1-5853087/maputo-mozambique-modernist-architecture",
+    "published": "Wed, 17 Jun 2026 12:32:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "47dea6900957478f9157f7e9389d12c3",
+    "fetched_at": "2026-06-18T08:42:28.842340+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
+    "summary": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
+    "link": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
+    "published": "Thu, 18 Jun 2026 01:56:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "c743c43b4c449de2d0df6a5d1d99703a",
+    "fetched_at": "2026-06-18T08:42:27.713739+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FIFA hydration breaks have sparked criticism. But what do they actually do?",
+    "summary": "For the first time in World Cup history, FIFA is mandating all soccer players take hydration breaks to protect them from the threats of extreme heat. But the new rule has sparked criticism.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5862575/fifa-hydration-breaks",
+    "published": "Thu, 18 Jun 2026 02:26:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "abd634c43af64cd791720bbfa2fb4093",
+    "fetched_at": "2026-06-18T08:42:26.555708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump pauses spy chief confirmation in Congress",
+    "summary": "The US Senate Intelligence Committee chair said Jay Clayton's hearing is \"unfortunately postponed\".",
+    "link": "https://www.bbc.com/news/articles/c33yzmjln1mo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 17:19:03 GMT",
+    "source": "BBC News",
+    "id": "71e6ff1c2b6f1beacb4a281089c2624b",
+    "fetched_at": "2026-06-18T08:42:25.410467+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione's lawyers plan psychiatric defence in state murder trial",
+    "summary": "They will argue he was suffering from \"extreme emotional disturbance\" at the time UnitedHealth CEO Brian Thompson was killed.",
+    "link": "https://www.bbc.com/news/articles/c1lym76jyymo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 15:52:47 GMT",
+    "source": "BBC News",
+    "id": "51dcf9add5e8b6b2fbf8bf9958539da2",
+    "fetched_at": "2026-06-18T08:42:24.276224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An ultra-rare Star Wars Lego collection went missing - it's sparked viral conspiracies",
+    "summary": "Bricks & Figs shops around the US have been receiving threats due to the missing Star Wars Lego set, the company says.",
+    "link": "https://www.bbc.com/news/articles/c39yn3r32yko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 00:15:54 GMT",
+    "source": "BBC News",
+    "id": "e89dd97b79b99fd53be5d959ad5c7e57",
+    "fetched_at": "2026-06-18T08:42:23.153680+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Get him out of here': Judge sends Gilgo Beach killer to prison for rest of life",
+    "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
+    "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 17:45:54 GMT",
+    "source": "BBC News",
+    "id": "23b9ecba4d400035127d250dced45d13",
+    "fetched_at": "2026-06-18T08:42:22.022410+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN experts demand Iranians free Foremans",
     "summary": "They said proceedings against Lindsay and Craig Foreman had been marked by grave irregularities.",
     "link": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "1918be2c243c0c2b39a9d68e7a56eada",
     "fetched_at": "2026-06-17T16:52:25.291530+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran sends tankers loaded with oil past US military blockade",
-    "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
-    "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 13:27:47 GMT",
-    "source": "BBC News",
-    "id": "20a8cd9c2e065cc7526a23f40f29a230",
-    "fetched_at": "2026-06-17T16:52:25.291528+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump jokes ‘I’m the boss’ as he arrives for G7 meeting",
-    "summary": "Donald Trump joked that he was “the boss” as he arrived for a G7 meeting in France on Wednesday. The light-hearted remark came before leaders gathered for talks on trade, economic challenges and global financial stability alongside representatives from partner nations.",
-    "link": "http://www.euronews.com/video/2026/06/17/trump-jokes-im-the-boss-as-he-arrives-for-g7-meeting",
-    "published": "Wed, 17 Jun 2026 14:49:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6e45283cf097517664262fc1be232534",
-    "fetched_at": "2026-06-17T16:52:25.291526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netherlands hosts Japan’s emperor Naruhito to boost 400-year ties",
-    "summary": "The Netherlands welcomed Japanese Emperor Naruhito and Empress Masako to Amsterdam on 17 June during an official visit aimed at celebrating the long-standing relationship between the two countries.",
-    "link": "http://www.euronews.com/video/2026/06/17/netherlands-hosts-japans-emperor-naruhito-to-boost-400-year-ties",
-    "published": "Wed, 17 Jun 2026 15:51:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "69acff1d3772d5e81b864c0b89438a80",
-    "fetched_at": "2026-06-17T16:52:25.291524+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Afghan government staff told to abandon smartphones or face prison sentence",
-    "summary": "How widely the rule is being implemented across Afghanistan and the scale of its impact were not entirely clear.",
-    "link": "http://www.euronews.com/2026/06/17/afghan-government-staff-told-to-abandon-smartphones-or-face-prison-sentence",
-    "published": "Wed, 17 Jun 2026 16:05:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d5e50090152dde6d781475a43a954258",
-    "fetched_at": "2026-06-17T16:52:25.291522+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Read the full text of the leaked 14-point US-Iran draft agreement",
-    "summary": "It remains unclear whether the 14-point draft that was circulated at G7 meetings in France will be the version formalised at a ceremony in Switzerland on Friday.",
-    "link": "http://www.euronews.com/2026/06/17/read-the-full-text-of-the-leaked-14-point-us-iran-draft-agreement",
-    "published": "Wed, 17 Jun 2026 16:55:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6d74498def3bc49aeea9c7920863209b",
-    "fetched_at": "2026-06-17T16:52:25.291520+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From regime change to regime deal? How Tehran's political camps are reacting to leaked US-Iran deal",
-    "summary": "Iran's hardliners have framed the framework deal as a victory, even as Trump dismissed reports of a $300bn reconstruction fund and warned he would resume strikes if Tehran did not comply.",
-    "link": "http://www.euronews.com/2026/06/17/from-regime-change-to-regime-deal-how-irans-political-camps-are-reacting-to-leaked-us-iran",
-    "published": "Wed, 17 Jun 2026 16:57:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9c441a7ad390b96ce70c33be75766443",
-    "fetched_at": "2026-06-17T16:52:25.291518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel continues strikes on Lebanon ahead of anticipated US-Iran framework deal",
-    "summary": "While violence has declined in Lebanon since a US-Iran agreement to end the Middle East war was announced on Monday, Israeli strikes on the south have killed at least five people since the deal, according to Lebanese state media.",
-    "link": "http://www.euronews.com/2026/06/17/israel-continues-strikes-on-lebanon-ahead-of-anticipated-us-iran-peace-deal",
-    "published": "Wed, 17 Jun 2026 17:24:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c569fef9ae530a3cce0b986a3bccb19e",
-    "fetched_at": "2026-06-17T16:52:25.291516+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 17th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/17/latest-news-bulletin-june-17th-2026-evening",
-    "published": "Wed, 17 Jun 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0445ad51ac0c866e28e113c27f0bef3b",
-    "fetched_at": "2026-06-17T16:52:25.291514+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Luigi Mangione to use psychiatric defence in health CEO murder trial, judge says",
-    "summary": "Brian Thompson was killed in December 2024 as he walked to a Manhattan hotel for UnitedHealth Group’s annual investor conference.",
-    "link": "http://www.euronews.com/2026/06/17/luigi-mangione-to-use-psychiatric-defence-in-health-ceo-murder-trial-judge-says",
-    "published": "Wed, 17 Jun 2026 18:10:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "72c8929aba56bd6f985a754452747450",
-    "fetched_at": "2026-06-17T16:52:25.291512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norwegian crown princess's son found guilty of two counts of rape",
-    "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
-    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 15 Jun 2026 17:10:30 GMT",
-    "source": "BBC News",
-    "id": "dd4054ce766e31a9d833b57bb293ba5a",
-    "fetched_at": "2026-06-17T16:52:25.291510+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
-    "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
-    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 13:41:21 GMT",
-    "source": "BBC News",
-    "id": "f635c21708cc8620041838cb6733315d",
-    "fetched_at": "2026-06-17T16:52:25.291508+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
-    "summary": "Germany pledges to become Europe&apos;s strongest conventional army inside NATO, with ambassador saying Berlin is ready to assume greater defense role.",
-    "link": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure",
-    "published": "Sun, 14 Jun 2026 06:00:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c8bd125d2d585ff266e3929deeba703f",
-    "fetched_at": "2026-06-17T16:52:25.291504+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
-    "summary": "Albania's government has given preliminary approval to plans for the luxury resort along a stretch of coastline, prompting daily protests and legal challenges by environmental groups.",
-    "link": "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump",
-    "published": "Tue, 16 Jun 2026 13:10:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "4ff22276d6d47e930d6787a339013e53",
-    "fetched_at": "2026-06-17T16:52:25.291502+00:00"
   }
 ]
