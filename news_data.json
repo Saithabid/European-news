@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Record-breaking heatwave develops across Europe",
+    "summary": "An intense heatwave is building across the continent, with Paris possibly seeing 40C by Sunday. Simon King reports.",
+    "link": "https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 14:59:16 GMT",
+    "source": "BBC News",
+    "id": "d19a599281eb2895c2918cd25b85142f",
+    "fetched_at": "2026-06-19T03:37:53.099951+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
+    "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 13:41:21 GMT",
+    "source": "BBC News",
+    "id": "f635c21708cc8620041838cb6733315d",
+    "fetched_at": "2026-06-19T03:37:53.099917+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dáil passes abortion bill to remove three-day wait",
+    "summary": "The proposal is to remove the three-day wait for an abortion in early pregnancy in the Republic of Ireland.",
+    "link": "https://www.bbc.com/news/articles/cm2d5rdl85ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 17 Jun 2026 21:06:27 GMT",
+    "source": "BBC News",
+    "id": "5b9e594fa7d797ca36248f15f477ce7a",
+    "fetched_at": "2026-06-19T03:37:51.974538+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British man dies in paragliding accident in Spain",
+    "summary": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
+    "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 11:54:23 GMT",
+    "source": "BBC News",
+    "id": "68615b4299c985facb282e7dcbfb4eee",
+    "fetched_at": "2026-06-19T03:37:50.845682+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+    "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 14:02:52 GMT",
+    "source": "BBC News",
+    "id": "c1f19a6abe06411db8b0433e2206e7c1",
+    "fetched_at": "2026-06-19T03:37:49.716577+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+    "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 15:46:36 GMT",
+    "source": "BBC News",
+    "id": "bbe2b4911b5b906c9155717b6d0b76fd",
+    "fetched_at": "2026-06-19T03:37:48.583154+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+    "summary": "The defence team reverse course a day after saying they would argue he suffered \"extreme emotional disturbance\".",
+    "link": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 00:13:45 GMT",
+    "source": "BBC News",
+    "id": "739bdb10d01bf7c61cd9c114aeb2fe6a",
+    "fetched_at": "2026-06-19T03:37:47.454935+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Even the Coke is big' - Foreign World Cup fans take in American culture",
+    "summary": "Large portion sizes, tasty food, and a basketball championship welcome international World Cup fans to the US.",
+    "link": "https://www.bbc.com/news/articles/cvgj731r38xo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 01:16:55 GMT",
+    "source": "BBC News",
+    "id": "ee0e9d4dec52346b36eb8eb29b46bdc0",
+    "fetched_at": "2026-06-19T03:37:46.316106+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In Trump's shadow, Vance becomes face of Iran deal",
+    "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+    "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 02:12:13 GMT",
+    "source": "BBC News",
+    "id": "96376aa683c12af33193a31d39b54847",
+    "fetched_at": "2026-06-19T03:37:45.191936+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
     "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
     "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "557a82407cd5517417ab1e0c0c6683d9",
     "fetched_at": "2026-06-18T16:53:02.540696+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Should the US impose a teen social media ban like the UK?",
-    "summary": "The UK is enforcing a social media ban for children under the age of 16. The BBC asked Americans of different ages if they thought it was a good idea.",
-    "link": "https://www.bbc.com/news/videos/c5yzgxd428qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 14:45:11 GMT",
-    "source": "BBC News",
-    "id": "8feeab3aaf217acb7ecb7197eef572d3",
-    "fetched_at": "2026-06-18T16:53:01.404656+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's in the US-Iran agreement?",
-    "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-    "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 01:28:02 GMT",
-    "source": "BBC News",
-    "id": "f782b8e89db447a5132c2bcb6d3349e9",
-    "fetched_at": "2026-06-18T16:53:00.266612+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-    "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-    "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 15:53:55 GMT",
-    "source": "BBC News",
-    "id": "bcee081fe300c2cd091b4cd0fd12426f",
-    "fetched_at": "2026-06-18T16:52:59.119720+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Apple to raise prices as AI boom pushes up chip costs",
-    "summary": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
-    "link": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 07:27:21 GMT",
-    "source": "BBC News",
-    "id": "8988e113d4628de4194a34a8507ef252",
-    "fetched_at": "2026-06-18T12:47:12.575826+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
-    "summary": "Uganda's military chief had boasted of \"the hurt and pain\" he would inflict on Erias Lukwago, who was arrested earlier this week.",
-    "link": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 09:35:29 GMT",
-    "source": "BBC News",
-    "id": "d8457a5029f9cff017d722748b06885e",
-    "fetched_at": "2026-06-18T12:47:12.575823+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-    "summary": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
-    "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 09:26:16 GMT",
-    "source": "BBC News",
-    "id": "73a9d3f6e675217553092a57049966c0",
-    "fetched_at": "2026-06-18T12:47:12.575820+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mass protest by ultra-Orthodox Jews in Israel over army conscription",
-    "summary": "Thousands of ultra-Orthodox Jews protest near Netanya against mandatory army service, demanding release of draft refusers amid Israel’s wartime strains.",
-    "link": "http://www.euronews.com/video/2026/06/18/mass-protest-by-ultra-orthodox-jews-in-israel-over-army-conscription",
-    "published": "Thu, 18 Jun 2026 10:36:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ad09d9f373378d1e364d3b357b3551ac",
-    "fetched_at": "2026-06-18T12:47:12.575817+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video: Hundreds of drones target Russia in major Ukrainian attack",
-    "summary": "Russian officials said Ukraine launched one of its largest drone attacks of the war. Images and video released by the Russian media showed massive fires raging at the Moscow Oil Refinery, located about 15 kilometers from the Kremlin. Thick black clouds of smoke rose over the city.",
-    "link": "http://www.euronews.com/2026/06/18/video-hundreds-of-drones-target-russia-in-major-ukrainian-attack",
-    "published": "Thu, 18 Jun 2026 10:58:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6970e155b8104c84fd251bcfc3b383a8",
-    "fetched_at": "2026-06-18T12:47:12.575814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/18/latest-news-bulletin-june-18th-2026-midday",
-    "published": "Thu, 18 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fb09e7a3166f659217a0e088fe5b5c10",
-    "fetched_at": "2026-06-18T12:47:12.575811+00:00"
   }
 ]
