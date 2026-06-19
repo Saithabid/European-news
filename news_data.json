@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+    "summary": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+    "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 17:02:02 GMT",
+    "source": "BBC News",
+    "id": "b2552986d9a7ea3c337b02e7e5983112",
+    "fetched_at": "2026-06-19T19:29:46.652134+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+    "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+    "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 19:27:12 GMT",
+    "source": "BBC News",
+    "id": "ae591aa00ce8b93053e5c756fea7859f",
+    "fetched_at": "2026-06-19T19:29:45.538341+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+    "summary": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
+    "link": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 18:36:19 GMT",
+    "source": "BBC News",
+    "id": "b77e337e89d6df23e7412f86a58d07bb",
+    "fetched_at": "2026-06-19T19:29:44.416728+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
+    "summary": "The man was allegedly struck by his 81-year-old opponent, who has since been arrested, the public prosecutor says.",
+    "link": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 17:30:24 GMT",
+    "source": "BBC News",
+    "id": "04ddc303f8b0ddaeef73830c3f9cb1c1",
+    "fetched_at": "2026-06-19T19:29:43.295875+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+    "summary": "The U.S. is allowing ships to enter and exit Iranian ports and coastal areas as the countries move to a new phase of negotiations over the next 60 days.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
+    "published": "Thu, 18 Jun 2026 17:28:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "405bbdd028b96d8356b691794dd00d40",
+    "fetched_at": "2026-06-19T19:29:42.181082+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Secretary of Defense Hegseth scolds NATO allies — again",
+    "summary": "Defense Secretary Pete Hegseth blasts NATO allies as a \"paper tiger\" while launching a six-month review of U.S. troop deployments in Europe and pressing for Europe to take the lead on its own defense.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5862847/secretary-of-defense-hegseth-scolds-nato-allies-again",
+    "published": "Thu, 18 Jun 2026 17:50:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "825c4b982e666b82a4c7255f776c537a",
+    "fetched_at": "2026-06-19T19:29:41.057252+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+    "summary": "The defence team reverse course a day after saying they would argue he suffered \"extreme emotional disturbance\".",
+    "link": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 00:13:45 GMT",
+    "source": "BBC News",
+    "id": "739bdb10d01bf7c61cd9c114aeb2fe6a",
+    "fetched_at": "2026-06-19T19:29:39.912099+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In Trump's shadow, Vance becomes face of Iran deal",
+    "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+    "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 04:12:07 GMT",
+    "source": "BBC News",
+    "id": "96376aa683c12af33193a31d39b54847",
+    "fetched_at": "2026-06-19T19:29:38.792253+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
     "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
     "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "501418e1439fcbb14d7f5eff5ab8615c",
     "fetched_at": "2026-06-19T09:02:12.161172+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-    "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-    "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 15:53:55 GMT",
-    "source": "BBC News",
-    "id": "bcee081fe300c2cd091b4cd0fd12426f",
-    "fetched_at": "2026-06-19T09:02:10.957235+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's in the US-Iran agreement?",
-    "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-    "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 01:28:02 GMT",
-    "source": "BBC News",
-    "id": "f782b8e89db447a5132c2bcb6d3349e9",
-    "fetched_at": "2026-06-19T09:02:09.808307+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Record-breaking heatwave develops across Europe",
-    "summary": "An intense heatwave is building across the continent, with Paris possibly seeing 40C by Sunday. Simon King reports.",
-    "link": "https://www.bbc.com/news/videos/cg4w1g4eydno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 14:59:16 GMT",
-    "source": "BBC News",
-    "id": "d19a599281eb2895c2918cd25b85142f",
-    "fetched_at": "2026-06-19T03:37:53.099951+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
-    "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
-    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 13:41:21 GMT",
-    "source": "BBC News",
-    "id": "f635c21708cc8620041838cb6733315d",
-    "fetched_at": "2026-06-19T03:37:53.099917+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dáil passes abortion bill to remove three-day wait",
-    "summary": "The proposal is to remove the three-day wait for an abortion in early pregnancy in the Republic of Ireland.",
-    "link": "https://www.bbc.com/news/articles/cm2d5rdl85ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 17 Jun 2026 21:06:27 GMT",
-    "source": "BBC News",
-    "id": "5b9e594fa7d797ca36248f15f477ce7a",
-    "fetched_at": "2026-06-19T03:37:51.974538+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British man dies in paragliding accident in Spain",
-    "summary": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
-    "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 11:54:23 GMT",
-    "source": "BBC News",
-    "id": "68615b4299c985facb282e7dcbfb4eee",
-    "fetched_at": "2026-06-19T03:37:50.845682+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-    "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 14:02:52 GMT",
-    "source": "BBC News",
-    "id": "c1f19a6abe06411db8b0433e2206e7c1",
-    "fetched_at": "2026-06-19T03:37:49.716577+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-    "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 15:46:36 GMT",
-    "source": "BBC News",
-    "id": "bbe2b4911b5b906c9155717b6d0b76fd",
-    "fetched_at": "2026-06-19T03:37:48.583154+00:00"
   }
 ]
