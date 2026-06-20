@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+    "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+    "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 03:12:47 GMT",
+    "source": "BBC News",
+    "id": "1f9c196689ce68e42ce2e2131a566e5c",
+    "fetched_at": "2026-06-20T07:44:47.926014+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+    "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+    "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 02:33:30 GMT",
+    "source": "BBC News",
+    "id": "fc012d37e341f3dd194b5669dec993d5",
+    "fetched_at": "2026-06-20T07:44:47.926011+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+    "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+    "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 03:13:18 GMT",
+    "source": "BBC News",
+    "id": "3b2782611aa55a476a0fc9f782d8b677",
+    "fetched_at": "2026-06-20T07:44:47.925984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 20th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-morning",
+    "published": "Sat, 20 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f0036caf8aa24214777c1629421e950c",
+    "fetched_at": "2026-06-20T07:44:46.815475+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lebanon says Israel has carried out a wave of fresh strikes, killing at least five people",
+    "summary": "It comes less than a day after US officials said Israel and the Iran-backed militant group Hezbollah had agreed to a renewed ceasefire.",
+    "link": "http://www.euronews.com/2026/06/20/lebanon-says-israel-has-carried-out-a-wave-of-fresh-strikes-killing-at-least-five-people",
+    "published": "Sat, 20 Jun 2026 08:02:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "27158f94d4bd5fa336a69133fdd3b66f",
+    "fetched_at": "2026-06-20T07:44:45.701876+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's $300B Iran investment fund may be 'close to impossible' due to IRGC sanctions law, expert warns",
+    "summary": "Trump&apos;s $300B Iran investment fund faces legal roadblocks as expert warns IRGC-controlled construction sector creates sanctions risks under existing law.",
+    "link": "https://www.foxnews.com/world/trumps-300b-iran-investment-fund-may-close-impossible-due-irgc-sanctions-law-expert-warns",
+    "published": "Fri, 19 Jun 2026 06:00:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6a5cc652373c1b4b6db123bb8a4c7f67",
+    "fetched_at": "2026-06-20T07:44:44.585103+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+    "summary": "Ukraine launched a wave of drone attacks on Russia early Thursday — one of the largest attacks on Russia's capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
+    "link": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
+    "published": "Thu, 18 Jun 2026 12:12:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "eda2d7e8ebf2aada4b7ee5c953f02bc0",
+    "fetched_at": "2026-06-20T07:44:43.481496+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
+    "summary": "Here is the text of the memorandum of understanding that was signed Wednesday by President Trump and Iranian President Masoud Pezeshkian, as well as Pakistan's prime minister.",
+    "link": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
+    "published": "Thu, 18 Jun 2026 12:31:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "9a2ca425a2da56834436683ed11d9a77",
+    "fetched_at": "2026-06-20T07:44:42.364190+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
+    "summary": "Here's a look at the preliminary agreement between the U.S. and Iran, and the challenges that remain to find lasting peace.",
+    "link": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
+    "published": "Fri, 19 Jun 2026 06:30:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "b42826ded2b8b5d05816694b93e89cad",
+    "fetched_at": "2026-06-20T07:44:41.239568+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
+    "summary": "The U.S.-Iran talks that were set to happen in Switzerland have been canceled. And, the Department of Homeland Security has plans to give some local police access to ICE facial recognition technology.",
+    "link": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
+    "published": "Fri, 19 Jun 2026 07:27:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "fe53803749417bf9bca7a885378171c4",
+    "fetched_at": "2026-06-20T07:44:40.113809+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zimbabwe MPs pass bill to extend president's time in power",
     "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
     "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "a6950a119577ff71a79c54ecb9aa70ad",
     "fetched_at": "2026-06-19T13:30:08.313335+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lebanon air raids kill 18 as residents flee southern villages",
-    "summary": "Lebanon reported 18 deaths on 19 June after Israeli airstrikes hit several locations in the country's south and east, raising fresh concerns about the durability of a regional peace initiative announced earlier this week.",
-    "link": "http://www.euronews.com/video/2026/06/19/lebanon-air-raids-kill-18-as-residents-flee-southern-villages",
-    "published": "Fri, 19 Jun 2026 12:43:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c60a07b00660ae10408ad21694fa29cd",
-    "fetched_at": "2026-06-19T13:30:08.313333+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Confusion in Strait of Hormuz amid reports Iran has reclosed the waterway",
-    "summary": "The Persian Gulf Strait Authority has announced that ships that submit \"compliant transit requests\" would be allowed to transit the Strait.",
-    "link": "http://www.euronews.com/2026/06/19/confusion-in-strait-of-hormuz-amid-reports-iran-has-reclosed-the-waterway",
-    "published": "Fri, 19 Jun 2026 14:13:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a5b2f99f0a84aeaf139e968c166260c6",
-    "fetched_at": "2026-06-19T13:30:08.313330+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
-    "summary": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
-    "link": "http://www.euronews.com/video/2026/06/19/new-russian-strikes-hit-kharkiv-and-odesa-killing-one-and-injuring-children",
-    "published": "Fri, 19 Jun 2026 14:15:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b1f9944ab2aebd03b29b222663ac2534",
-    "fetched_at": "2026-06-19T13:30:08.313328+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-    "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
-    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:27:31 GMT",
-    "source": "BBC News",
-    "id": "dce07c63efd69a808f10f6aa6fd73ce8",
-    "fetched_at": "2026-06-19T13:30:08.313325+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia linked to arson attacks on properties connected to UK PM Keir Starmer, police say",
-    "summary": "Russia allegedly linked to arson attacks on U.K. Prime Minister Keir Starmer&apos;s properties, with a reported diplomat accused of recruiting Ukrainian nationals.",
-    "link": "https://www.foxnews.com/world/russia-linked-arson-attacks-properties-connected-uk-pm-keir-starmer-police-say",
-    "published": "Mon, 15 Jun 2026 21:39:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f5eb8310950a69d9db1e2f7caa69e65c",
-    "fetched_at": "2026-06-19T13:30:08.313323+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "3 Brazilian men charged after woman tossed from bridge without safety rope",
-    "summary": "A 21-year-old woman died after instructors launched her from a bridge without attaching safety ropes during a rope-jumping event near São Paulo, Brazil.",
-    "link": "https://www.foxnews.com/world/3-brazilian-men-charged-woman-tossed-bridge-without-safety-rope",
-    "published": "Tue, 16 Jun 2026 10:04:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1c4a598cdefedcd3f0391e9e6a1e8938",
-    "fetched_at": "2026-06-19T13:30:08.313321+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Elon Musk demands prison for politicians who 'turned a blind eye' to grooming gangs as new report released",
-    "summary": "Elon Musk amplified a citizen-funded report accusing the British state of failing to protect children from organized grooming gang exploitation across England.",
-    "link": "https://www.foxnews.com/world/elon-musk-demands-prison-politicians-who-turned-blind-eye-grooming-gangs-new-report-released",
-    "published": "Wed, 17 Jun 2026 14:22:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8df149711d7fa5ccd0a0a947e5313aad",
-    "fetched_at": "2026-06-19T13:30:08.313319+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel launches 'Biblical Highway' amid campaign to erase Jewish history",
-    "summary": "Israel&apos;s government brands Route 60 as the Biblical Highway, aiming to strengthen heritage tourism and the nation&apos;s identity as the land of the Bible.",
-    "link": "https://www.foxnews.com/world/israel-launches-biblical-highway-amid-campaign-erase-jewish-history",
-    "published": "Wed, 17 Jun 2026 14:50:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "641b484c4412fd189f04160c8547c5a1",
-    "fetched_at": "2026-06-19T13:30:08.313315+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombian military neutralizes five terrorists accused in bus bombing that killed 20, injured 45 civilians",
-    "summary": "Colombian military forces neutralized five members of the militant group allegedly responsible for the bus bombing that killed 20 civilians in Cauca.",
-    "link": "https://www.foxnews.com/world/colombian-military-neutralizes-five-terrorists-accused-bus-bombing-killed-20-injured-45-civilians",
-    "published": "Wed, 17 Jun 2026 15:37:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f69cea7a52ececdb0522700dafd965af",
-    "fetched_at": "2026-06-19T13:30:08.313312+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
-    "summary": "Ukraine launched one of its largest drone attacks on Moscow, striking a major oil refinery and sending thick black smoke over parts of the Russian capital.",
-    "link": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
-    "published": "Thu, 18 Jun 2026 12:14:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c057b6b4bb00bc844f40d51ecd6484c9",
-    "fetched_at": "2026-06-19T13:30:08.313309+00:00"
   }
 ]
