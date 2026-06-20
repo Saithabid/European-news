@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+    "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+    "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 02:33:30 GMT",
+    "source": "BBC News",
+    "id": "fc012d37e341f3dd194b5669dec993d5",
+    "fetched_at": "2026-06-20T23:00:47.563344+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+    "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+    "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 03:12:47 GMT",
+    "source": "BBC News",
+    "id": "1f9c196689ce68e42ce2e2131a566e5c",
+    "fetched_at": "2026-06-20T23:00:47.563341+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+    "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+    "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 21:57:36 GMT",
+    "source": "BBC News",
+    "id": "214a536955d8b0ab250b7815b243c9aa",
+    "fetched_at": "2026-06-20T23:00:47.563338+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 20th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-morning",
+    "published": "Sat, 20 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f0036caf8aa24214777c1629421e950c",
+    "fetched_at": "2026-06-20T23:00:47.563314+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "16 dead and 12 injured following Israeli strikes, Lebanon's civil defence agency says",
+    "summary": "It comes less than a day after US officials said Israel and the Iran-backed militant group Hezbollah had agreed to a renewed ceasefire.",
+    "link": "http://www.euronews.com/2026/06/20/lebanon-says-israel-has-carried-out-a-wave-of-fresh-strikes-killing-at-least-five-people",
+    "published": "Sat, 20 Jun 2026 08:02:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "27158f94d4bd5fa336a69133fdd3b66f",
+    "fetched_at": "2026-06-20T23:00:46.469074+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man charged with attempted murder, released after allegedly forcing toddler into crocodile enclosure at zoo",
+    "summary": "A man was charged with attempted murder after allegedly forcing a 3-year-old boy into a crocodile enclosure at a zoo in Huntingdon, England.",
+    "link": "https://www.foxnews.com/world/man-charged-attempted-murder-released-allegedly-forcing-toddler-crocodile-enclosure-zoo",
+    "published": "Sat, 20 Jun 2026 06:00:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "23f3bd2916d6e494269213f2bc443656",
+    "fetched_at": "2026-06-20T23:00:45.347121+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Counterterrorism officials investigating after suspect goes on rampage in alleged hate attack: report",
+    "summary": "Counterterrorism officials investigate after a suspect allegedly went on an anti-Muslim rampage in Edinburgh, leaving five men injured near a mosque and anohter location.",
+    "link": "https://www.foxnews.com/world/counterterrorism-officials-investigating-suspect-rampage-alleged-hate-attack",
+    "published": "Sat, 20 Jun 2026 18:50:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "29e8028bff9d0ed33ec251e450f74a5d",
+    "fetched_at": "2026-06-20T23:00:44.249227+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland",
+    "summary": "U.S. and Iranian teams are set to hold \"technical-level\" talks, according to Pakistan's foreign ministry. But fighting in Lebanon and claims over the Strait of Hormuz threaten a tentative agreement.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+    "published": "Sat, 20 Jun 2026 06:02:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "7b3916293d3e6ea740c9acc22b2d9e52",
+    "fetched_at": "2026-06-20T23:00:43.168354+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran claims Hormuz closure, U.S. says ships still passing",
+    "summary": "Iran says it has closed the Strait of Hormuz again. The U.S. military says traffic is still flowing. NPR's Jane Arraf reports from Beirut.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5864209/iran-claims-hormuz-closure-u-s-says-ships-still-passing",
+    "published": "Sat, 20 Jun 2026 17:22:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "3c1be40609ede41a1046b118c2616e0f",
+    "fetched_at": "2026-06-20T23:00:42.053900+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "For Pakistan's Ismaili muslims, a visit from their spiritual leader brings a homecoming",
+    "summary": "For many Ismaili Muslims, seeing the Aga Khan is a once-in-a-lifetime event. NPR's Betsy Joles reports from his visit to remote northern Pakistan.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5855391/for-pakistans-ismaili-muslims-a-visit-from-their-spiritual-leader-brings-a-homecoming",
+    "published": "Sat, 20 Jun 2026 17:40:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "81e60ea048cc88d2dbada6960f27a202",
+    "fetched_at": "2026-06-20T23:00:40.949087+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's growing fight over Palestinian symbols",
+    "summary": "For some it's a symbol of identity. For others, a challenge to the state. NPR's Itay Stern reports on the debate over the Palestinian flag in Israel.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5847843/israels-growing-fight-over-palestinian-symbols",
+    "published": "Sat, 20 Jun 2026 17:51:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "1bf040c9e4de78c8ca115d87ea9a8d01",
+    "fetched_at": "2026-06-20T23:00:39.847003+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Meet Osito, the rescue dog winning hearts at the World Cup",
     "summary": "A rescue dog named Osito has become an unlikely World Cup star in Mexico City, attracting crowds, selfies and social media attention wherever he goes.",
     "link": "http://www.euronews.com/video/2026/06/20/meet-osito-the-rescue-dog-winning-hearts-at-the-world-cup",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "c41bbce26fe9220c671b94d037170e12",
     "fetched_at": "2026-06-20T13:45:10.637249+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Obama moved to tears by wife Michelle's speech at presidential centre",
-    "summary": "The couple were opening a site in Chicago, which the former president described as a \"celebration of community\".",
-    "link": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:35:08 GMT",
-    "source": "BBC News",
-    "id": "5a17bcc5897d28ac3651f1489f847c05",
-    "fetched_at": "2026-06-20T13:45:09.512882+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What Iran and US get from deal and why both could struggle to keep it",
-    "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-    "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:04:40 GMT",
-    "source": "BBC News",
-    "id": "76d9749debab95c7bb5b4d5d9f0af010",
-    "fetched_at": "2026-06-20T13:45:08.394874+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tourist dies in Dominican Republic luxury resort fire",
-    "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-    "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 07:40:20 GMT",
-    "source": "BBC News",
-    "id": "02df60b6781c24e1c6f62e87f16a50fb",
-    "fetched_at": "2026-06-20T10:28:18.571021+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
-    "summary": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
-    "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 08:53:53 GMT",
-    "source": "BBC News",
-    "id": "f9f9476eb0a222168115fa8e9f499e15",
-    "fetched_at": "2026-06-20T10:28:18.571018+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tehran says Strait of Hormuz remains open after confusion",
-    "summary": "The Persian Gulf Strait Authority has announced that ships that submit \"compliant transit requests\" would be allowed to transit the Strait.",
-    "link": "http://www.euronews.com/2026/06/19/confusion-in-strait-of-hormuz-amid-reports-iran-has-reclosed-the-waterway",
-    "published": "Fri, 19 Jun 2026 14:13:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a5b2f99f0a84aeaf139e968c166260c6",
-    "fetched_at": "2026-06-20T10:28:18.571015+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
-    "summary": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
-    "link": "http://www.euronews.com/video/2026/06/19/new-russian-strikes-hit-kharkiv-and-odesa-killing-one-and-injuring-children",
-    "published": "Fri, 19 Jun 2026 14:15:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b1f9944ab2aebd03b29b222663ac2534",
-    "fetched_at": "2026-06-20T10:28:18.571011+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian tourist dies in Dominican Republic resort blaze",
-    "summary": "Around 1,690 tourists were evacuated from a luxury resort in the village of Bayahibe after a fire broke out.",
-    "link": "http://www.euronews.com/2026/06/20/italian-tourist-dies-in-dominican-republic-resort-blaze",
-    "published": "Sat, 20 Jun 2026 11:15:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f7a0158a469f0e326f6772123f050654",
-    "fetched_at": "2026-06-20T10:28:18.570984+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 20th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-midday",
-    "published": "Sat, 20 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e35c5c58aa81058ca6d3b978b39e530e",
-    "fetched_at": "2026-06-20T10:28:17.464479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-    "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
-    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:27:31 GMT",
-    "source": "BBC News",
-    "id": "dce07c63efd69a808f10f6aa6fd73ce8",
-    "fetched_at": "2026-06-20T10:28:16.357188+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel launches 'Biblical Highway' amid campaign to erase Jewish history",
-    "summary": "Israel&apos;s government brands Route 60 as the Biblical Highway, aiming to strengthen heritage tourism and the nation&apos;s identity as the land of the Bible.",
-    "link": "https://www.foxnews.com/world/israel-launches-biblical-highway-amid-campaign-erase-jewish-history",
-    "published": "Wed, 17 Jun 2026 14:50:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "641b484c4412fd189f04160c8547c5a1",
-    "fetched_at": "2026-06-20T10:28:15.233095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombian military neutralizes five terrorists accused in bus bombing that killed 20, injured 45 civilians",
-    "summary": "Colombian military forces neutralized five members of the militant group allegedly responsible for the bus bombing that killed 20 civilians in Cauca.",
-    "link": "https://www.foxnews.com/world/colombian-military-neutralizes-five-terrorists-accused-bus-bombing-killed-20-injured-45-civilians",
-    "published": "Wed, 17 Jun 2026 15:37:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f69cea7a52ececdb0522700dafd965af",
-    "fetched_at": "2026-06-20T10:28:14.119793+00:00"
   }
 ]
