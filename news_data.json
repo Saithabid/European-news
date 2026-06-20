@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Tourist dies in Dominican Republic luxury resort fire",
+    "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+    "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 07:40:20 GMT",
+    "source": "BBC News",
+    "id": "02df60b6781c24e1c6f62e87f16a50fb",
+    "fetched_at": "2026-06-20T10:28:18.571021+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
+    "summary": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
+    "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 08:53:53 GMT",
+    "source": "BBC News",
+    "id": "f9f9476eb0a222168115fa8e9f499e15",
+    "fetched_at": "2026-06-20T10:28:18.571018+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tehran says Strait of Hormuz remains open after confusion",
+    "summary": "The Persian Gulf Strait Authority has announced that ships that submit \"compliant transit requests\" would be allowed to transit the Strait.",
+    "link": "http://www.euronews.com/2026/06/19/confusion-in-strait-of-hormuz-amid-reports-iran-has-reclosed-the-waterway",
+    "published": "Fri, 19 Jun 2026 14:13:39 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a5b2f99f0a84aeaf139e968c166260c6",
+    "fetched_at": "2026-06-20T10:28:18.571015+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New Russian strikes hit Kharkiv and Odesa, killing one and injuring children",
+    "summary": "New Russian strikes hit Ukraine's Kharkiv and Odesa regions on 19 June, killing one person, injuring children and adults, and damaging homes, vehicles and fuel facilities overnight.",
+    "link": "http://www.euronews.com/video/2026/06/19/new-russian-strikes-hit-kharkiv-and-odesa-killing-one-and-injuring-children",
+    "published": "Fri, 19 Jun 2026 14:15:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b1f9944ab2aebd03b29b222663ac2534",
+    "fetched_at": "2026-06-20T10:28:18.571011+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italian tourist dies in Dominican Republic resort blaze",
+    "summary": "Around 1,690 tourists were evacuated from a luxury resort in the village of Bayahibe after a fire broke out.",
+    "link": "http://www.euronews.com/2026/06/20/italian-tourist-dies-in-dominican-republic-resort-blaze",
+    "published": "Sat, 20 Jun 2026 11:15:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f7a0158a469f0e326f6772123f050654",
+    "fetched_at": "2026-06-20T10:28:18.570984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 20th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-midday",
+    "published": "Sat, 20 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e35c5c58aa81058ca6d3b978b39e530e",
+    "fetched_at": "2026-06-20T10:28:17.464479+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+    "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 20:27:31 GMT",
+    "source": "BBC News",
+    "id": "dce07c63efd69a808f10f6aa6fd73ce8",
+    "fetched_at": "2026-06-20T10:28:16.357188+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel launches 'Biblical Highway' amid campaign to erase Jewish history",
+    "summary": "Israel&apos;s government brands Route 60 as the Biblical Highway, aiming to strengthen heritage tourism and the nation&apos;s identity as the land of the Bible.",
+    "link": "https://www.foxnews.com/world/israel-launches-biblical-highway-amid-campaign-erase-jewish-history",
+    "published": "Wed, 17 Jun 2026 14:50:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "641b484c4412fd189f04160c8547c5a1",
+    "fetched_at": "2026-06-20T10:28:15.233095+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombian military neutralizes five terrorists accused in bus bombing that killed 20, injured 45 civilians",
+    "summary": "Colombian military forces neutralized five members of the militant group allegedly responsible for the bus bombing that killed 20 civilians in Cauca.",
+    "link": "https://www.foxnews.com/world/colombian-military-neutralizes-five-terrorists-accused-bus-bombing-killed-20-injured-45-civilians",
+    "published": "Wed, 17 Jun 2026 15:37:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f69cea7a52ececdb0522700dafd965af",
+    "fetched_at": "2026-06-20T10:28:14.119793+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
+    "summary": "Ukraine launched one of its largest drone attacks on Moscow, striking a major oil refinery and sending thick black smoke over parts of the Russian capital.",
+    "link": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
+    "published": "Thu, 18 Jun 2026 12:14:06 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c057b6b4bb00bc844f40d51ecd6484c9",
+    "fetched_at": "2026-06-20T10:28:13.006962+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man charged with attempted murder, released after allegedly forcing toddler into crocodile enclosure at zoo",
+    "summary": "A man was charged with attempted murder after allegedly forcing a 3-year-old boy into a crocodile enclosure at a zoo in Huntingdon, England.",
+    "link": "https://www.foxnews.com/world/man-charged-attempted-murder-released-allegedly-forcing-toddler-crocodile-enclosure-zoo",
+    "published": "Sat, 20 Jun 2026 06:00:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "23f3bd2916d6e494269213f2bc443656",
+    "fetched_at": "2026-06-20T10:28:11.896583+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
+    "summary": "Israeli strikes on southern Lebanon on Saturday killed at least seven people, including two children, hours after reports emerged of a ceasefire agreement.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+    "published": "Sat, 20 Jun 2026 06:02:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "7b3916293d3e6ea740c9acc22b2d9e52",
+    "fetched_at": "2026-06-20T10:28:10.775886+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
     "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
     "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "a56e84830900ef4aa9e71a5f11d826b1",
     "fetched_at": "2026-06-19T16:29:30.197968+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From bear hugs to handshakes: How India lost its edge with Trump while Pakistan quietly gained ground",
-    "summary": "Amid India&apos;s push to isolate Pakistan, shifting geopolitics have elevated Islamabad&apos;s diplomatic profile. President Trump&apos;s meeting with Modi suggests New Delhi is looking to regain momentum.",
-    "link": "https://www.foxnews.com/world/from-bear-hugs-handshakes-how-india-lost-its-edge-trump-while-pakistan-quietly-gained-ground",
-    "published": "Thu, 18 Jun 2026 15:57:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3461429d678c73dd984eaea77b5fdb1d",
-    "fetched_at": "2026-06-19T16:29:29.056906+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham",
-    "summary": "Labour&apos;s Andy Burnham won a special election on Friday and gained a seat in Parliament. He has openly spoken about challenging Keir Starmer as leader.",
-    "link": "https://www.foxnews.com/world/british-prime-minister-keir-starmer-faces-potential-leadership-challenge-newly-elected-andy-burnham",
-    "published": "Fri, 19 Jun 2026 11:38:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bf347fdf8bf04953c49c2ced205cc69e",
-    "fetched_at": "2026-06-19T16:29:27.937009+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New arrest in Toronto US consulate shooting as authorities probe foreign ties of gunmen",
-    "summary": "Gunmen \"hired by a foreign entity\" carried out a series of recent shootings targeting synagogues and other sites in Toronto, an official says.",
-    "link": "https://www.bbc.com/news/articles/cy8wdpq70yno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 18:46:24 GMT",
-    "source": "BBC News",
-    "id": "0d25e85db1f17ea967d7b5ca74db7307",
-    "fetched_at": "2026-06-19T16:29:26.808104+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'City united after so long': New Yorkers rejoice in Knicks' championship parade",
-    "summary": "The New York Knicks won the NBA Finals on Saturday, generating a citywide energy that culminated in a massive parade on Thursday.",
-    "link": "https://www.bbc.com/news/articles/cx24j89rgnxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:32:33 GMT",
-    "source": "BBC News",
-    "id": "05876a8861287f2c2e30842007c25bfe",
-    "fetched_at": "2026-06-19T16:29:25.718237+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Obama moved to tears by wife Michelle's speech at presidential centre",
-    "summary": "The couple were opening a site in Chicago, which the former president described as a \"celebration of community\".",
-    "link": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:35:08 GMT",
-    "source": "BBC News",
-    "id": "5a17bcc5897d28ac3651f1489f847c05",
-    "fetched_at": "2026-06-19T16:29:24.607566+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What Iran and US get from deal and why both could struggle to keep it",
-    "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-    "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:04:40 GMT",
-    "source": "BBC News",
-    "id": "76d9749debab95c7bb5b4d5d9f0af010",
-    "fetched_at": "2026-06-19T16:29:23.476014+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK actress charged with importing meth worth almost A$300m into Australia",
-    "summary": "Emaa Hussen, 34, faces life in prison for allegedly trying to smuggle 320kg of meth hidden in bags of charcoal.",
-    "link": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 01:04:14 GMT",
-    "source": "BBC News",
-    "id": "ba927f3fba9bcaf99109b019d729cd51",
-    "fetched_at": "2026-06-19T13:30:08.313346+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-    "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
-    "link": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:25:30 GMT",
-    "source": "BBC News",
-    "id": "3758a5a1362a14e403abb4b86c7df958",
-    "fetched_at": "2026-06-19T13:30:08.313344+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
-    "summary": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
-    "link": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:13:41 GMT",
-    "source": "BBC News",
-    "id": "c4140807fe6d1b47b8506f968bd4dce8",
-    "fetched_at": "2026-06-19T13:30:08.313342+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco captain Achraf Hakimi to stand trial for rape",
-    "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-    "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:28:22 GMT",
-    "source": "BBC News",
-    "id": "ebcc9b3462d06ca7a0f0f3f0c4ebf1fb",
-    "fetched_at": "2026-06-19T13:30:08.313340+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-    "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
-    "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 12:07:32 GMT",
-    "source": "BBC News",
-    "id": "56e7464ec7bad5c926e86776bfd7a400",
-    "fetched_at": "2026-06-19T13:30:08.313338+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 19th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/19/latest-news-bulletin-june-19th-2026-midday",
-    "published": "Fri, 19 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a6950a119577ff71a79c54ecb9aa70ad",
-    "fetched_at": "2026-06-19T13:30:08.313335+00:00"
   }
 ]
