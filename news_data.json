@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Meet Osito, the rescue dog winning hearts at the World Cup",
+    "summary": "A rescue dog named Osito has become an unlikely World Cup star in Mexico City, attracting crowds, selfies and social media attention wherever he goes.",
+    "link": "http://www.euronews.com/video/2026/06/20/meet-osito-the-rescue-dog-winning-hearts-at-the-world-cup",
+    "published": "Sat, 20 Jun 2026 22:36:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1ee241a29e768f6d8e39a8d280420bf2",
+    "fetched_at": "2026-06-21T19:20:06.819004+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US and Iran publicly trade threats as talks take place in Switzerland",
+    "summary": "US President Donald Trump on Sunday threatened to strike Iran if it did not stop Hezbollah from \"causing trouble\", while Iran's chief negotiator Mohammad Bagher Ghalibaf warned the US to \"be careful with their statements\".",
+    "link": "http://www.euronews.com/2026/06/21/us-and-iran-publicly-trade-threats-as-talks-progress-in-switzerland",
+    "published": "Sun, 21 Jun 2026 19:34:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dac6c101d4dc0bf050939e211df1758d",
+    "fetched_at": "2026-06-21T19:20:05.678719+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Counterterrorism officials investigating after suspect goes on rampage in alleged hate attack: report",
+    "summary": "Counterterrorism officials are investigating after a suspect allegedly went on an anti-Muslim rampage in Edinburgh, leaving five men injured near a mosque and another location.",
+    "link": "https://www.foxnews.com/world/counterterrorism-officials-investigating-suspect-rampage-alleged-hate-attack",
+    "published": "Sat, 20 Jun 2026 18:50:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "29e8028bff9d0ed33ec251e450f74a5d",
+    "fetched_at": "2026-06-21T19:20:04.530735+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
+    "summary": "JD Vance arrived in Switzerland on Sunday for talks with Iranian officials, hoping to consolidate the fragile interim deal to end the war and kickstart fresh discussions over Tehran's nuclear program.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+    "published": "Sat, 20 Jun 2026 06:02:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "7b3916293d3e6ea740c9acc22b2d9e52",
+    "fetched_at": "2026-06-21T19:20:03.384229+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran claims Hormuz closure, U.S. says ships still passing",
+    "summary": "Iran says it has closed the Strait of Hormuz again. The U.S. military says traffic is still flowing. NPR's Jane Arraf reports from Beirut.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5864209/iran-claims-hormuz-closure-u-s-says-ships-still-passing",
+    "published": "Sat, 20 Jun 2026 17:22:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "3c1be40609ede41a1046b118c2616e0f",
+    "fetched_at": "2026-06-21T19:20:02.231893+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "For Pakistan's Ismaili muslims, a visit from their spiritual leader brings a homecoming",
+    "summary": "For many Ismaili Muslims, seeing the Aga Khan is a once-in-a-lifetime event. NPR's Betsy Joles reports from his visit to remote northern Pakistan.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5855391/for-pakistans-ismaili-muslims-a-visit-from-their-spiritual-leader-brings-a-homecoming",
+    "published": "Sat, 20 Jun 2026 17:40:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "81e60ea048cc88d2dbada6960f27a202",
+    "fetched_at": "2026-06-21T19:20:01.066769+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's growing fight over Palestinian symbols",
+    "summary": "For some it's a symbol of identity. For others, a challenge to the state. NPR's Itay Stern reports on the debate over the Palestinian flag in Israel.",
+    "link": "https://www.npr.org/2026/06/20/nx-s1-5847843/israels-growing-fight-over-palestinian-symbols",
+    "published": "Sat, 20 Jun 2026 17:51:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "1bf040c9e4de78c8ca115d87ea9a8d01",
+    "fetched_at": "2026-06-21T19:19:59.903644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
+    "summary": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+    "link": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+    "published": "Sun, 21 Jun 2026 13:29:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "a6f4269215ee3db12c5d9d6945953999",
+    "fetched_at": "2026-06-21T19:19:58.764876+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | June 21st, 2026 – Evening",
     "summary": "Catch up with the most important stories from around Europe and beyond this June 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/06/21/latest-news-bulletin-june-21st-2026-evening",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "1f3644d3461e94f5895776fcfe0bbf7e",
     "fetched_at": "2026-06-21T02:58:08.200708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Keir Starmer reportedly considering stepping down as PM and could announce timetable for departure",
-    "summary": "British PM Keir Starmer is reportedly considering stepping down, with senior Labour figures expecting a statement on his future as early as next week.",
-    "link": "https://www.foxnews.com/world/keir-starmer-reportedly-considering-stepping-pm-could-announce-timetable-departure",
-    "published": "Sat, 20 Jun 2026 21:04:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "44c992013974e06a89605055d7c38c27",
-    "fetched_at": "2026-06-21T02:58:07.081204+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "African and Caribbean leaders call for payments, debt cancellation, formal apologies over slavery",
-    "summary": "African and Caribbean leaders adopted a 19-point reparations plan in Ghana demanding financial compensation, debt cancellation and formal apologies.",
-    "link": "https://www.foxnews.com/world/african-caribbean-leaders-call-payments-debt-cancellation-formal-apologies-over-slavery",
-    "published": "Sat, 20 Jun 2026 22:10:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b089c539f6407b5dff2dacf1a1780bf",
-    "fetched_at": "2026-06-21T02:58:05.957418+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What Iran and US get from deal and why both could struggle to keep it",
-    "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-    "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 18 Jun 2026 20:04:40 GMT",
-    "source": "BBC News",
-    "id": "76d9749debab95c7bb5b4d5d9f0af010",
-    "fetched_at": "2026-06-21T02:58:04.833453+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-    "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-    "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 02:33:30 GMT",
-    "source": "BBC News",
-    "id": "fc012d37e341f3dd194b5669dec993d5",
-    "fetched_at": "2026-06-20T23:00:47.563344+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-    "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
-    "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 03:12:47 GMT",
-    "source": "BBC News",
-    "id": "1f9c196689ce68e42ce2e2131a566e5c",
-    "fetched_at": "2026-06-20T23:00:47.563341+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-    "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-    "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 21:57:36 GMT",
-    "source": "BBC News",
-    "id": "214a536955d8b0ab250b7815b243c9aa",
-    "fetched_at": "2026-06-20T23:00:47.563338+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 20th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-morning",
-    "published": "Sat, 20 Jun 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f0036caf8aa24214777c1629421e950c",
-    "fetched_at": "2026-06-20T23:00:47.563314+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "16 dead and 12 injured following Israeli strikes, Lebanon's civil defence agency says",
-    "summary": "It comes less than a day after US officials said Israel and the Iran-backed militant group Hezbollah had agreed to a renewed ceasefire.",
-    "link": "http://www.euronews.com/2026/06/20/lebanon-says-israel-has-carried-out-a-wave-of-fresh-strikes-killing-at-least-five-people",
-    "published": "Sat, 20 Jun 2026 08:02:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "27158f94d4bd5fa336a69133fdd3b66f",
-    "fetched_at": "2026-06-20T23:00:46.469074+00:00"
   }
 ]
