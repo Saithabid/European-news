@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+    "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 20:27:31 GMT",
+    "source": "BBC News",
+    "id": "dce07c63efd69a808f10f6aa6fd73ce8",
+    "fetched_at": "2026-06-21T23:04:28.706706+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent",
+    "summary": "Australia confirms its first case of H5N1 bird flu in a seabird near Esperance, Western Australia, meaning the virus has now reached every continent.",
+    "link": "https://www.foxnews.com/world/h5n1-bird-flu-confirmed-australia-first-time-meaning-virus-reached-every-continent",
+    "published": "Sat, 20 Jun 2026 20:52:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1f3644d3461e94f5895776fcfe0bbf7e",
+    "fetched_at": "2026-06-21T23:04:27.543971+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
+    "summary": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
+    "link": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
+    "published": "Sun, 21 Jun 2026 17:34:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "eb0c0b02c3a235d118ef79aa35f22c35",
+    "fetched_at": "2026-06-21T23:04:26.423275+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meloni's spat with Trump is calculated strategy to boost her approval ratings: expert",
+    "summary": "Analyst says Meloni&apos;s public feud with President Trump is a calculated strategy to boost her declining approval ratings ahead of Italy&apos;s 2027 general election.",
+    "link": "https://www.foxnews.com/world/melonis-spat-trump-calculated-strategy-boost-her-approval-ratings-expert",
+    "published": "Sun, 21 Jun 2026 17:39:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fb8e50a18f983aeee1859b3ff6d303ac",
+    "fetched_at": "2026-06-21T23:04:25.299989+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cambodian scam center humanitarian crisis",
+    "summary": "Cambodia is cracking down on cyber scam compounds linked to human trafficking and thousands of workers have been freed. But many say they're now stranded, with nowhere to stay and no way to get back to their families.",
+    "link": "https://www.npr.org/2026/06/21/nx-s1-5861612/cambodian-scam-center-humanitarian-crisis",
+    "published": "Sun, 21 Jun 2026 17:13:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "162bd82163baea1fcbb18e46c71e94c4",
+    "fetched_at": "2026-06-21T23:04:24.189504+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz dispute clouds Iran peace talks",
+    "summary": "At the Lake Lucerne summit, U.S. and Iranian officials are trying to keep a shaky peace effort alive after renewed violence and confusion over Hormuz. Former Ambassador Ryan Crocker talks about the need for strategic patience.",
+    "link": "https://www.npr.org/2026/06/21/nx-s1-5865139/hormuz-dispute-clouds-iran-peace-talks",
+    "published": "Sun, 21 Jun 2026 17:13:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "62200d7f8ff5ecbc1805f2d3112a1770",
+    "fetched_at": "2026-06-21T23:04:23.066768+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia weighs peace talks against a tougher approach",
+    "summary": "Colombia's government is touting a rare peace deal with a rebel group. But the front-runner in today's presidential election says he'll abandon negotiations. NPR's John Otis reports.",
+    "link": "https://www.npr.org/2026/06/21/nx-s1-5865677/colombia-weighs-peace-talks-against-a-tougher-approach",
+    "published": "Sun, 21 Jun 2026 17:13:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "ce66fa2c54a51591846b1455c7cca14a",
+    "fetched_at": "2026-06-21T23:04:21.949851+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+    "summary": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She's credited with creating a conservation movement in southern Lebanon to protect sea turtle nesting grounds.",
+    "link": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+    "published": "Sun, 21 Jun 2026 17:37:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "320c122a353e9700ca730d5704628d9c",
+    "fetched_at": "2026-06-21T23:04:20.825294+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
     "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
     "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "8a6b7ac17c4ed91a48587df7266bb96b",
     "fetched_at": "2026-06-21T08:23:12.524134+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-    "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
-    "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 16:37:03 GMT",
-    "source": "BBC News",
-    "id": "66b2de1f57f3dc9e650e69cb6bccebc6",
-    "fetched_at": "2026-06-21T08:23:12.524103+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelenskyy issues one-week ultimatum to Lukashenka over drone-guidance equipment",
-    "summary": "During a media briefing in Kyiv on Friday, Zelenskyy threatened Ukraine will take down the drone relay equipment on the border if the Belarusian leader, Aliaksandr Lukashenka, doesn't do anything to address it.",
-    "link": "http://www.euronews.com/2026/06/20/zelenskyy-issues-one-week-ultimatum-to-lukashenka-over-drone-guidance-equipment",
-    "published": "Sat, 20 Jun 2026 14:35:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "feab580d625d251a91d3c993a6f41248",
-    "fetched_at": "2026-06-21T08:23:11.389885+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 21st, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/21/latest-news-bulletin-june-21st-2026-morning",
-    "published": "Sun, 21 Jun 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "564e8d83e606762aad6c24b8aeb4e002",
-    "fetched_at": "2026-06-21T08:23:10.264632+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strikes on eastern Ukraine kill three and injure 22",
-    "summary": "Ukrainian President Volodymyr Zelenskyy said on Saturday that his forces had targeted an oil-processing facility in Russia's Tyumen region.",
-    "link": "http://www.euronews.com/2026/06/21/russian-strikes-on-eastern-ukraine-kill-three-and-injure-22",
-    "published": "Sun, 21 Jun 2026 08:03:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "65f4f701367ebd6a5cd6e10e1d33b8c5",
-    "fetched_at": "2026-06-21T08:23:09.147705+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and Iranian delegations arrive in Switzerland for peace deal talks",
-    "summary": "\"We're going to hopefully make progress on the nuclear issue, make progress on the Lebanon ceasefire issue,\" US Vice President JD Vance told reporters.",
-    "link": "http://www.euronews.com/2026/06/21/us-and-iranian-delegations-arrive-in-switzerland-for-peace-deal-talks",
-    "published": "Sun, 21 Jun 2026 09:19:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9bb6b28bed25fcb461c7e10a227ded8a",
-    "fetched_at": "2026-06-21T08:23:08.017545+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco captain Hakimi to stand trial for rape",
-    "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-    "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:28:22 GMT",
-    "source": "BBC News",
-    "id": "ebcc9b3462d06ca7a0f0f3f0c4ebf1fb",
-    "fetched_at": "2026-06-21T08:23:06.887819+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham",
-    "summary": "Labour&apos;s Andy Burnham won a special election on Friday and gained a seat in Parliament. He has openly spoken about challenging Keir Starmer as leader.",
-    "link": "https://www.foxnews.com/world/british-prime-minister-keir-starmer-faces-potential-leadership-challenge-newly-elected-andy-burnham",
-    "published": "Fri, 19 Jun 2026 11:38:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bf347fdf8bf04953c49c2ced205cc69e",
-    "fetched_at": "2026-06-21T08:23:05.753462+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-    "summary": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
-    "link": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-    "published": "Sat, 20 Jun 2026 06:45:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "c41bbce26fe9220c671b94d037170e12",
-    "fetched_at": "2026-06-21T08:23:04.497750+00:00"
   }
 ]
