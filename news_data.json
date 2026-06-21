@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Tourist dies in Dominican Republic luxury resort fire",
+    "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+    "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 17:33:25 GMT",
+    "source": "BBC News",
+    "id": "02df60b6781c24e1c6f62e87f16a50fb",
+    "fetched_at": "2026-06-21T02:58:12.684307+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italian tourist dies in Dominican Republic resort blaze",
+    "summary": "Around 1,690 tourists were evacuated from a luxury resort in the village of Bayahibe after a fire broke out.",
+    "link": "http://www.euronews.com/2026/06/20/italian-tourist-dies-in-dominican-republic-resort-blaze",
+    "published": "Sat, 20 Jun 2026 11:15:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f7a0158a469f0e326f6772123f050654",
+    "fetched_at": "2026-06-21T02:58:11.567999+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 20th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/20/latest-news-bulletin-june-20th-2026-midday",
+    "published": "Sat, 20 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e35c5c58aa81058ca6d3b978b39e530e",
+    "fetched_at": "2026-06-21T02:58:10.447367+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+    "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 20:27:31 GMT",
+    "source": "BBC News",
+    "id": "dce07c63efd69a808f10f6aa6fd73ce8",
+    "fetched_at": "2026-06-21T02:58:09.326887+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent",
+    "summary": "Australia confirms its first case of H5N1 bird flu in a seabird near Esperance, Western Australia, meaning the virus has now reached every continent.",
+    "link": "https://www.foxnews.com/world/h5n1-bird-flu-confirmed-australia-first-time-meaning-virus-reached-every-continent",
+    "published": "Sat, 20 Jun 2026 20:52:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1f3644d3461e94f5895776fcfe0bbf7e",
+    "fetched_at": "2026-06-21T02:58:08.200708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Keir Starmer reportedly considering stepping down as PM and could announce timetable for departure",
+    "summary": "British PM Keir Starmer is reportedly considering stepping down, with senior Labour figures expecting a statement on his future as early as next week.",
+    "link": "https://www.foxnews.com/world/keir-starmer-reportedly-considering-stepping-pm-could-announce-timetable-departure",
+    "published": "Sat, 20 Jun 2026 21:04:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "44c992013974e06a89605055d7c38c27",
+    "fetched_at": "2026-06-21T02:58:07.081204+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "African and Caribbean leaders call for payments, debt cancellation, formal apologies over slavery",
+    "summary": "African and Caribbean leaders adopted a 19-point reparations plan in Ghana demanding financial compensation, debt cancellation and formal apologies.",
+    "link": "https://www.foxnews.com/world/african-caribbean-leaders-call-payments-debt-cancellation-formal-apologies-over-slavery",
+    "published": "Sat, 20 Jun 2026 22:10:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6b089c539f6407b5dff2dacf1a1780bf",
+    "fetched_at": "2026-06-21T02:58:05.957418+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What Iran and US get from deal and why both could struggle to keep it",
+    "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+    "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 18 Jun 2026 20:04:40 GMT",
+    "source": "BBC News",
+    "id": "76d9749debab95c7bb5b4d5d9f0af010",
+    "fetched_at": "2026-06-21T02:58:04.833453+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
     "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
     "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "d41ff2f8a3ebc3c284551374f5d28f39",
     "fetched_at": "2026-06-20T15:41:41.182390+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Finland's parliament votes to lift decades-old ban on nuclear weapons in historic NATO defense shift",
-    "summary": "Finland&apos;s parliament votes to lift a decades-old nuclear weapons ban in a historic defense policy shift to align more closely with NATO deterrence.",
-    "link": "https://www.foxnews.com/world/finlands-parliament-votes-lift-decades-old-ban-nuclear-weapons-historic-nato-defense-shift",
-    "published": "Wed, 17 Jun 2026 20:01:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3ea02f4991416e4685097e9de144ac63",
-    "fetched_at": "2026-06-20T15:41:39.938909+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran hardliner behind US deal warns Tehran won’t honor agreement if Trump fails to deliver",
-    "summary": "Iran’s hardline parliament speaker and key negotiator Mohammad Bagher Ghalibaf warned that Tehran would not honor its commitments under a newly signed memorandum with the U.S.",
-    "link": "https://www.foxnews.com/world/iran-hardliner-behind-us-deal-warns-tehran-wont-honor-agreement-trump-fails-deliver",
-    "published": "Thu, 18 Jun 2026 14:17:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a56e84830900ef4aa9e71a5f11d826b1",
-    "fetched_at": "2026-06-20T15:41:38.685302+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-    "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
-    "link": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:25:30 GMT",
-    "source": "BBC News",
-    "id": "3758a5a1362a14e403abb4b86c7df958",
-    "fetched_at": "2026-06-20T13:45:16.246206+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelenskyy issues one-week ultimatum to Lukashenka over drone-guidance equipment",
-    "summary": "During a media briefing in Kyiv on Friday, Zelenskyy threatened Ukraine will take down the drone relay equipment on the border if the Belarusian leader, Aliaksandr Lukashenka, doesn't do anything to address it.",
-    "link": "http://www.euronews.com/2026/06/20/zelenskyy-issues-one-week-ultimatum-to-lukashenka-over-drone-guidance-equipment",
-    "published": "Sat, 20 Jun 2026 14:35:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "feab580d625d251a91d3c993a6f41248",
-    "fetched_at": "2026-06-20T13:45:15.104542+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco captain Hakimi to stand trial for rape",
-    "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-    "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:28:22 GMT",
-    "source": "BBC News",
-    "id": "ebcc9b3462d06ca7a0f0f3f0c4ebf1fb",
-    "fetched_at": "2026-06-20T13:45:13.985156+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From bear hugs to handshakes: How India lost its edge with Trump while Pakistan quietly gained ground",
-    "summary": "Amid India&apos;s push to isolate Pakistan, shifting geopolitics have elevated Islamabad&apos;s diplomatic profile. President Trump&apos;s meeting with Modi suggests New Delhi is looking to regain momentum.",
-    "link": "https://www.foxnews.com/world/from-bear-hugs-handshakes-how-india-lost-its-edge-trump-while-pakistan-quietly-gained-ground",
-    "published": "Thu, 18 Jun 2026 15:57:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3461429d678c73dd984eaea77b5fdb1d",
-    "fetched_at": "2026-06-20T13:45:12.872026+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham",
-    "summary": "Labour&apos;s Andy Burnham won a special election on Friday and gained a seat in Parliament. He has openly spoken about challenging Keir Starmer as leader.",
-    "link": "https://www.foxnews.com/world/british-prime-minister-keir-starmer-faces-potential-leadership-challenge-newly-elected-andy-burnham",
-    "published": "Fri, 19 Jun 2026 11:38:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bf347fdf8bf04953c49c2ced205cc69e",
-    "fetched_at": "2026-06-20T13:45:11.750464+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-    "summary": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
-    "link": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-    "published": "Sat, 20 Jun 2026 06:45:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "c41bbce26fe9220c671b94d037170e12",
-    "fetched_at": "2026-06-20T13:45:10.637249+00:00"
   }
 ]
