@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+    "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
+    "link": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 22 Jun 2026 01:40:00 GMT",
+    "source": "BBC News",
+    "id": "2119011c51fb4250f1b7a3efddf49a50",
+    "fetched_at": "2026-06-22T23:17:00.265697+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Half of France under red heat alert as alcohol banned at street music festival",
+    "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
+    "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 21 Jun 2026 15:22:14 GMT",
+    "source": "BBC News",
+    "id": "2e8b09a5ff57fe66837cf93ced86a6f4",
+    "fetched_at": "2026-06-22T23:16:59.140697+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+    "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 21 Jun 2026 23:57:59 GMT",
+    "source": "BBC News",
+    "id": "1fd53e7b56d7842eceb6b23b9b2d2f4a",
+    "fetched_at": "2026-06-22T23:16:58.012169+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
+    "summary": "The U.S. military announced a lethal strike on a vessel in the Caribbean allegedly carrying narco-traffickers, killing two people and leaving six survivors.",
+    "link": "https://www.foxnews.com/world/us-military-caribbean-drug-boat-strike",
+    "published": "Mon, 22 Jun 2026 03:19:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "037eff3134de1894913dd6c17335f6b5",
+    "fetched_at": "2026-06-22T23:16:56.887995+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+    "summary": "British PM Keir Starmer announced his resignation after Labour&apos;s devastating local election losses and a mounting revolt from within his own party ranks.",
+    "link": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses",
+    "published": "Mon, 22 Jun 2026 04:44:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6fcfcd0864e305fd402d012d0000ff14",
+    "fetched_at": "2026-06-22T23:16:55.748343+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Belgium issues visas to Taliban delegation for EU migration talks",
     "summary": "The EU is preparing to host Taliban representatives for the first time since the group's return to power in Afghanistan.",
     "link": "http://www.euronews.com/my-europe/2026/06/22/belgium-issues-visas-to-taliban-delegation-for-eu-migration-talks",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "b3532c5f7da0674eb1b9496d396ab143",
     "fetched_at": "2026-06-22T15:15:54.820362+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
-    "summary": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
-    "link": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 22 Jun 2026 10:19:25 GMT",
-    "source": "BBC News",
-    "id": "90c6157d6b0235e76b2c2ee53b2805c5",
-    "fetched_at": "2026-06-22T15:15:53.679816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-    "summary": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
-    "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 22 Jun 2026 11:55:36 GMT",
-    "source": "BBC News",
-    "id": "725d05de27a738ed46763ab08a238352",
-    "fetched_at": "2026-06-22T15:15:52.425950+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China's import of custard apples is sparking fears in Taiwan",
-    "summary": "Taiwan's agriculture ministry is worried that Beijing wants to weaponise a local specialty: the atemoya.",
-    "link": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 22 Jun 2026 04:37:27 GMT",
-    "source": "BBC News",
-    "id": "b7877d76260c8b45c4ae3637426092b1",
-    "fetched_at": "2026-06-22T09:41:32.721923+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-    "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
-    "link": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 21 Jun 2026 23:53:13 GMT",
-    "source": "BBC News",
-    "id": "bc6f1af401bd6526fd9af235ea6f2c8e",
-    "fetched_at": "2026-06-22T09:41:32.721921+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than half of France under red alerts as heatwave intensifies",
-    "summary": "The health minister warns many citizens \"will suffer\", with temperatures set to peak on Monday.",
-    "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 22 Jun 2026 07:17:26 GMT",
-    "source": "BBC News",
-    "id": "25b28331d7f6e075d398a5a479dd82aa",
-    "fetched_at": "2026-06-22T09:41:32.721919+00:00"
   }
 ]
