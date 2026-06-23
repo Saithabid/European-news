@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+    "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
+    "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 22 Jun 2026 16:42:23 GMT",
+    "source": "BBC News",
+    "id": "25b28331d7f6e075d398a5a479dd82aa",
+    "fetched_at": "2026-06-23T02:35:42.858914+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
+    "summary": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a challenge over voting irregularities.",
+    "link": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
+    "published": "Mon, 22 Jun 2026 20:42:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b4150f8ffaa50b84aa737e49e3290248",
+    "fetched_at": "2026-06-23T02:35:41.701668+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
+    "summary": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
+    "link": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 22 Jun 2026 10:19:25 GMT",
+    "source": "BBC News",
+    "id": "90c6157d6b0235e76b2c2ee53b2805c5",
+    "fetched_at": "2026-06-23T02:35:40.547230+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+    "summary": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
+    "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 22 Jun 2026 11:55:36 GMT",
+    "source": "BBC News",
+    "id": "725d05de27a738ed46763ab08a238352",
+    "fetched_at": "2026-06-23T02:35:39.393638+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ransom note claims Nancy Guthrie died after abduction",
+    "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+    "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 01:59:39 GMT",
+    "source": "BBC News",
+    "id": "25640e78ccc9d42c6b31cd5b043f5ce6",
+    "fetched_at": "2026-06-23T02:35:38.250867+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
     "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
     "link": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "NPR Topics: World",
     "id": "9cc7fba493be46fd3aebb26629ae22d8",
     "fetched_at": "2026-06-22T15:16:00.859932+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
-    "summary": "During his chairmanship, Greenspan was celebrated as possibly the best central banker in history. But later, his reputation was tarnished by the worst financial crisis since the Great Depression.",
-    "link": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
-    "published": "Mon, 22 Jun 2026 07:53:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "0ab83b0c6ef97e88a36f259a0338ae8f",
-    "fetched_at": "2026-06-22T15:15:59.698032+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "2 students in custody after shooting at high school in Philippines kills 3",
-    "summary": "An investigation is underway to determine the cause. Police said the suspects claimed they were bullied at school.",
-    "link": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
-    "published": "Mon, 22 Jun 2026 10:10:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "bebcc3eaf90bc7cebbc5c76ee0c8fba8",
-    "fetched_at": "2026-06-22T15:15:58.388713+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "summary": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
-    "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 21 Jun 2026 07:16:54 GMT",
-    "source": "BBC News",
-    "id": "fb8256c5eb86d4a66eb9720037973949",
-    "fetched_at": "2026-06-22T15:15:57.234581+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump unveils Qatari luxury jet for Air Force One fleet",
-    "summary": "The refurbished Boeing 747-8 will be used to transport the US president once it completes a final test phase.",
-    "link": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 22:11:27 GMT",
-    "source": "BBC News",
-    "id": "0472f33ef673207ebd29e5e272d692fd",
-    "fetched_at": "2026-06-22T15:15:56.071608+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House in talks over Iran travel restrictions",
-    "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
-    "link": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 08:52:50 GMT",
-    "source": "BBC News",
-    "id": "b3532c5f7da0674eb1b9496d396ab143",
-    "fetched_at": "2026-06-22T15:15:54.820362+00:00"
   }
 ]
