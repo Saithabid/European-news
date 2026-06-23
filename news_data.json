@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+    "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
+    "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 22:44:57 GMT",
+    "source": "BBC News",
+    "id": "fd2c7894edaf69b79bbb5bb2d4f0f62a",
+    "fetched_at": "2026-06-23T23:02:10.337353+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meloni's spat with Trump is calculated strategy to boost her approval ratings: expert",
+    "summary": "Analyst says Meloni&apos;s public feud with President Trump is a calculated strategy to boost her declining approval ratings ahead of Italy&apos;s 2027 general election.",
+    "link": "https://www.foxnews.com/world/melonis-spat-trump-calculated-strategy-boost-her-approval-ratings-expert",
+    "published": "Sun, 21 Jun 2026 17:39:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fb8e50a18f983aeee1859b3ff6d303ac",
+    "fetched_at": "2026-06-23T23:02:09.211671+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert",
+    "summary": "U.S.-Iran talks in Switzerland face their first major test over who controls billions in potentially unfrozen Iranian assets, an analyst warned.",
+    "link": "https://www.foxnews.com/world/major-dispute-threaten-trumps-iran-deal-over-billions-frozen-tehran-funds-expert",
+    "published": "Sun, 21 Jun 2026 21:55:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a16d2f8f2715728add4697e7ce4277c9",
+    "fetched_at": "2026-06-23T23:02:08.088474+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Suspect 'neutralized' after Montreal shooting leaves at least 2 dead including officer",
+    "summary": "Authorities in Montreal neutralized a suspected gunman after a fatal shooting Monday in the Côte-des-Neiges neighborhood left two people dead.",
+    "link": "https://www.foxnews.com/world/suspect-neutralized-montreal-shooting-leaves-dead-including-officer",
+    "published": "Mon, 22 Jun 2026 13:59:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9128a5ece9a02b1dfd25607e748ada4f",
+    "fetched_at": "2026-06-23T23:02:06.940982+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns",
+    "summary": "Latvian intelligence warns Russia is preparing military provocations against Baltic states or Poland, including drones and missiles, to pressure NATO.",
+    "link": "https://www.foxnews.com/world/russia-preparing-hybrid-attacks-natos-eastern-flank-intelligence-warns",
+    "published": "Mon, 22 Jun 2026 16:59:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8e4ee3ea5f0e56823c12f9e8d8b978a8",
+    "fetched_at": "2026-06-23T23:02:05.806240+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+    "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
+    "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+    "published": "Tue, 23 Jun 2026 07:17:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "fc21b1683e48ee36bd7fd6d1fc37dbc2",
+    "fetched_at": "2026-06-23T23:02:04.680361+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UNAIDS warns Trump's HIV funding cuts to South Africa could cost lives",
     "summary": "The Trump administration says the phased withdrawal is linked to policy disputes with Pretoria, which rejects the allegations and says it is pursuing greater self-reliance.",
     "link": "http://www.euronews.com/2026/06/23/unaids-warns-trumps-hiv-funding-cuts-to-south-africa-could-cost-lives",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "d69e91b91080de569b286822cc39ac88",
     "fetched_at": "2026-06-23T14:33:17.998463+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "40 mayors worldwide unite to fight back against the AI data centre surge",
-    "summary": "From Phoenix to Melbourne, a global coalition of city leaders says the AI data centre boom is draining their power, water and land — and they are done waiting.",
-    "link": "http://www.euronews.com/next/2026/06/23/40-mayors-worldwide-unite-to-fight-back-against-the-ai-data-centre-surge",
-    "published": "Tue, 23 Jun 2026 14:27:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "853ac4da7057fc63e844a283d8765a21",
-    "fetched_at": "2026-06-23T14:33:17.998460+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran sharply contradicts the US, pushing its own view of framework deal",
-    "summary": "Shortly after the first high-level US-Iran negotiations ended, discrepancies emerged over what the two sides actually agreed, as Tehran moved to directly contradict US Vice President JD Vance’s statements, prompting US President Donald Trump to reject Iran's claims.",
-    "link": "http://www.euronews.com/2026/06/23/iran-sharply-contradicts-the-us-pushing-its-own-view-of-framework-deal",
-    "published": "Tue, 23 Jun 2026 14:47:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a1911cbdee495ad033e226728b688bb9",
-    "fetched_at": "2026-06-23T14:33:17.998457+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kenya orders immediate halt to controversial US-backed Ebola facility",
-    "summary": "The project had sparked court proceedings, public protests and questions about the country's role in responding to an outbreak beyond its borders.",
-    "link": "http://www.euronews.com/2026/06/23/kenya-orders-immediate-halt-to-controversial-us-backed-ebola-facility",
-    "published": "Tue, 23 Jun 2026 15:14:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a2ff5ff07c5f5384856acb5c76432ea3",
-    "fetched_at": "2026-06-23T14:33:17.998454+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fire at animation studio in India kills at least 15 people",
-    "summary": "The fire happened in a building housing a student training centre in northern India, raising fresh concerns about fire safety in the country.",
-    "link": "http://www.euronews.com/2026/06/23/fire-at-animation-studio-in-india-kills-at-least-15-people",
-    "published": "Tue, 23 Jun 2026 15:56:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b67dbe0eff8ee4f9a334c288c048a640",
-    "fetched_at": "2026-06-23T14:33:17.998450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-    "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-    "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 13:16:09 GMT",
-    "source": "BBC News",
-    "id": "82043ddd22a8be2fbb7ed7edfe537115",
-    "fetched_at": "2026-06-23T14:33:17.998423+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
-    "summary": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
-    "link": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
-    "published": "Sun, 21 Jun 2026 17:34:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "eb0c0b02c3a235d118ef79aa35f22c35",
-    "fetched_at": "2026-06-23T14:33:16.893900+00:00"
   }
 ]
