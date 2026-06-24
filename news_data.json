@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+    "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 01:42:43 GMT",
+    "source": "BBC News",
+    "id": "85e486c809924617c1c0ce2169cdf0c9",
+    "fetched_at": "2026-06-24T23:00:24.841976+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As U.S. government looks to leverage food aid, producers seek other delivery methods",
+    "summary": "The U.S. is changing the way food aid is distributed to starving children around the world. It is now using aid as a diplomatic tool as nutrition bars pile up in U.S. factories.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5843163/as-u-s-government-looks-to-leverage-food-aid-producers-seek-other-delivery-methods",
+    "published": "Wed, 24 Jun 2026 04:39:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "fb72dc8c6733a02a105302c38f6066b2",
+    "fetched_at": "2026-06-24T23:00:23.694290+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside the gold-mining town where the Ebola outbreak likely started",
+    "summary": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+    "published": "Wed, 24 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "2d9438d20b964c92e6b287f287a9f1f8",
+    "fetched_at": "2026-06-24T23:00:22.528157+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What does it mean to be an American in 2026?",
+    "summary": "The BBC asked citizens across the United States about their identity ahead of the country's 250th anniversary.",
+    "link": "https://www.bbc.co.uk/news/videos/cwy0nvxvp09o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 05:00:44 GMT",
+    "source": "BBC News",
+    "id": "0527edce2d77ca61abd581090e374a52",
+    "fetched_at": "2026-06-24T23:00:21.369933+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Stanford graduates rethink their futures as AI transforms tech",
+    "summary": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 23:16:37 GMT",
+    "source": "BBC News",
+    "id": "a0e82693471911a9c180d0dc5b825efd",
+    "fetched_at": "2026-06-24T23:00:20.210389+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Congress has told Trump to stop the Iran war, will it matter?",
+    "summary": "The BBC's Gary O'Donoghue explains why Congress's war powers resolution has gotten under the president's skin.",
+    "link": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 21:22:00 GMT",
+    "source": "BBC News",
+    "id": "86ebfc84f78febd35568cf9bce4c1cd7",
+    "fetched_at": "2026-06-24T23:00:19.049491+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
     "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
     "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "802ec580987115c7fd8d1d829168a925",
     "fetched_at": "2026-06-24T10:43:22.815548+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 24th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-midday",
-    "published": "Wed, 24 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9ae53b89a8651d88d7629643f124af6d",
-    "fetched_at": "2026-06-24T10:43:22.815546+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
-    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
-    "source": "BBC News",
-    "id": "bdfab579cd2939c6bc7255f83780238d",
-    "fetched_at": "2026-06-24T10:43:22.815543+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France braces for another day of sweltering heat as Europe heatwave spreads",
-    "summary": "The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 08:48:34 GMT",
-    "source": "BBC News",
-    "id": "4cd2ea070f9b2cc34d76e7fcb68160c6",
-    "fetched_at": "2026-06-24T10:43:22.815540+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Britain left the EU 10 years ago. Its politics has been an unruly mess",
-    "summary": "Brexit fractured the European Union, and broke British politics. A decade on, millions of voters have deserted the two big parties for alternatives.",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later",
-    "published": "Tue, 23 Jun 2026 02:12:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "6b259ff6c50787b32cd8e9ff6aa3204f",
-    "fetched_at": "2026-06-24T10:43:22.815537+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
-    "summary": "It's still unclear who would fund a proposed $300 billion reconstruction plan for Iran. Former National Security Adviser Jake Sullivan called the whole approach \"something entirely new.\"",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
-    "published": "Tue, 23 Jun 2026 06:51:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee212477b7f5696663b54c2aaae31e84",
-    "fetched_at": "2026-06-24T10:43:22.815505+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-    "summary": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
-    "published": "Tue, 23 Jun 2026 11:34:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "ae373ce9227451884feaa6b590fe3526",
-    "fetched_at": "2026-06-24T10:43:21.655145+00:00"
   }
 ]
