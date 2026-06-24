@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+    "summary": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 04:06:51 GMT",
+    "source": "BBC News",
+    "id": "73a60dfc2b91749044546ea7d355f35e",
+    "fetched_at": "2026-06-24T07:34:47.301964+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+    "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 01:42:43 GMT",
+    "source": "BBC News",
+    "id": "85e486c809924617c1c0ce2169cdf0c9",
+    "fetched_at": "2026-06-24T07:34:46.190599+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US eases restrictions on Iranian national football team allowing travel two days before next match",
+    "summary": "The US Department of Homeland Security says it had always intended on easing restrictions on the Iranian team after ensuring that safety protocols were up to order.",
+    "link": "http://www.euronews.com/2026/06/24/us-eases-restrictions-on-iranian-national-football-team-allowing-travel-two-days-before-ne",
+    "published": "Wed, 24 Jun 2026 06:21:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c61e6a04a491bc5b70ce4bed97c8d5a1",
+    "fetched_at": "2026-06-24T07:34:45.040939+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 24th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-morning",
+    "published": "Wed, 24 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e0afa1ae71045c90c5836b18cf0df8ea",
+    "fetched_at": "2026-06-24T07:34:43.927227+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Toronto streets fill with Panama and Croatia supporters",
+    "summary": "Supporters of Panama and Croatia turned downtown Toronto into a sea of flags and chants ahead of their crucial World Cup Group L clash.",
+    "link": "http://www.euronews.com/video/2026/06/24/toronto-streets-fill-with-panama-and-croatia-supporters",
+    "published": "Wed, 24 Jun 2026 08:54:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eaf627b536d5942b82e3e966ee32cbf2",
+    "fetched_at": "2026-06-24T07:34:42.810490+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Archaeologists find huge Viking textile production site in Denmark",
+    "summary": "Archaeologists have discovered a huge Viking Age textile production site in Denmark that dates back more than 1,000 years and underlines the sophistication of Viking society.",
+    "link": "https://www.npr.org/2026/06/24/g-s1-129750/viking-textile-production-site",
+    "published": "Wed, 24 Jun 2026 01:54:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "58f4fa289680430cb236be0fdbdd3b26",
+    "fetched_at": "2026-06-24T07:34:41.683661+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US to probe petrol price gouging claims, Trump says",
+    "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 07:09:04 GMT",
+    "source": "BBC News",
+    "id": "fc2b3ab9e2994f1fdd94d715f87ce3e4",
+    "fetched_at": "2026-06-24T07:34:40.550984+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
     "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
     "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "bebcc3eaf90bc7cebbc5c76ee0c8fba8",
     "fetched_at": "2026-06-23T17:46:33.651914+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman kills an officer at a Montreal hotel before being shot dead, police say",
-    "summary": "Police say a suspect armed with a long gun opened fire at a Montreal hotel, killing a police officer before officers returned fire, killing him.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129576/montreal-officer-killed",
-    "published": "Tue, 23 Jun 2026 01:39:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "857e6313fa2af96f350de5e7c57a9a08",
-    "fetched_at": "2026-06-23T17:46:33.651883+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Britain left the EU 10 years ago. Its politics has been an unruly mess",
-    "summary": "Brexit fractured the European Union, and broke British politics. A decade on, millions of voters have deserted the two big parties for alternatives.",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later",
-    "published": "Tue, 23 Jun 2026 02:12:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "6b259ff6c50787b32cd8e9ff6aa3204f",
-    "fetched_at": "2026-06-23T17:46:32.485458+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
-    "summary": "It's still unclear who would fund a proposed $300 billion reconstruction plan for Iran. Former National Security Adviser Jake Sullivan called the whole approach \"something entirely new.\"",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
-    "published": "Tue, 23 Jun 2026 06:51:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee212477b7f5696663b54c2aaae31e84",
-    "fetched_at": "2026-06-23T17:46:31.374913+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-    "summary": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
-    "published": "Tue, 23 Jun 2026 11:34:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "ae373ce9227451884feaa6b590fe3526",
-    "fetched_at": "2026-06-23T17:46:30.253606+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Boston to Miami: Tartan Army adjusts to World Cup culture shock",
-    "summary": "Bars on the world-famous Ocean Drive have been filling up with fans, who are sharing the city with many Brazilians ahead of their crucial game.",
-    "link": "https://www.bbc.co.uk/news/articles/c9329ekydvdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 06:54:48 GMT",
-    "source": "BBC News",
-    "id": "6740fccde6b70d57a9c35ad3e8435608",
-    "fetched_at": "2026-06-23T17:46:29.144988+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-    "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 10:18:11 GMT",
-    "source": "BBC News",
-    "id": "34a9a3330776b980e115833113e49380",
-    "fetched_at": "2026-06-23T17:46:28.039492+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
-    "summary": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.",
-    "link": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 15:57:29 GMT",
-    "source": "BBC News",
-    "id": "6a603c2d398336b597ff8e51ad6e3d3b",
-    "fetched_at": "2026-06-23T17:46:26.908950+00:00"
   }
 ]
