@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+    "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 12:32:00 GMT",
+    "source": "BBC News",
+    "id": "cbc499d4b1993c5dc80daaf5b03e6e51",
+    "fetched_at": "2026-06-24T14:12:07.973762+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Air conditioning creates political divide as France records hottest day",
+    "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 13:51:24 GMT",
+    "source": "BBC News",
+    "id": "1e07fd5109c61346d1e35bd8496364bb",
+    "fetched_at": "2026-06-24T14:12:07.973760+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "IAEA chief says inspections of Iran's nuclear sites 'going to happen'",
+    "summary": "IAEA's Grossi pushed back against Tehran's claim that no agreement has been reached to allow inspectors to inspect bombed enrichment sites, citing the signed US-Iran framework deal.",
+    "link": "http://www.euronews.com/2026/06/24/iaea-chief-says-nuclear-inspections-of-irans-enrichment-sites-going-to-happen-despite-tehr",
+    "published": "Wed, 24 Jun 2026 09:12:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e36a51508b04686f1affbe1cf78e68c4",
+    "fetched_at": "2026-06-24T14:12:07.973756+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giesinger celebrates Munich beer culture, pushes for Oktoberfest place",
+    "summary": "Munich Brewers’ Day 2026 brings processions, ceremony and beer celebrations to Marienplatz and Viktualienmarkt, honouring the city’s brewing guild tradition.",
+    "link": "http://www.euronews.com/video/2026/06/24/giesinger-celebrates-munich-beer-culture-pushes-for-oktoberfest-place",
+    "published": "Wed, 24 Jun 2026 13:21:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8097c4fd78104521c9e14d96cd59d370",
+    "fetched_at": "2026-06-24T14:12:07.973754+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Evo Morales warns of civil war from Chapare stronghold: 'I will not surrender'",
+    "summary": "Evo Morales speaks out from hiding in the Chapare jungle as Bolivia enters its seventh week of fuel, food and medicine shortages.",
+    "link": "http://www.euronews.com/2026/06/24/evo-morales-warns-of-civil-war-from-chapare-stronghold-i-will-not-surrender",
+    "published": "Wed, 24 Jun 2026 14:45:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1530527bb62613bfa7b9ba93adefba1b",
+    "fetched_at": "2026-06-24T14:12:07.973750+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tehran labels framework deal 'US defeat' as Trump threatens to halt talks",
+    "summary": "Iranian key negotiator hailed the US–Iran framework deal as a “declaration of US defeat,” while Trump warned that talks would end immediately if reports that Tehran is seeking to impose tolls on ships transiting the Strait of Hormuz prove to be true.",
+    "link": "http://www.euronews.com/2026/06/24/tehran-labels-framework-deal-us-defeat-as-trump-threatens-to-halt-talks",
+    "published": "Wed, 24 Jun 2026 15:56:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eb8638b07a2b72b336375a9dbb5ab306",
+    "fetched_at": "2026-06-24T14:12:07.973725+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+    "summary": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 14:19:21 GMT",
+    "source": "BBC News",
+    "id": "caf4ad364a11f2f48103c5568bdc52ac",
+    "fetched_at": "2026-06-24T14:12:06.868763+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
+    "summary": "The U.S. military announced a lethal strike on a vessel in the Caribbean allegedly carrying narco-traffickers, killing two people and leaving six survivors.",
+    "link": "https://www.foxnews.com/world/us-military-caribbean-drug-boat-strike",
+    "published": "Mon, 22 Jun 2026 03:19:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "037eff3134de1894913dd6c17335f6b5",
+    "fetched_at": "2026-06-24T14:12:05.765371+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+    "summary": "British PM Keir Starmer announced his resignation after Labour&apos;s devastating local election losses and a mounting revolt from within his own party ranks.",
+    "link": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses",
+    "published": "Mon, 22 Jun 2026 04:44:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6fcfcd0864e305fd402d012d0000ff14",
+    "fetched_at": "2026-06-24T14:12:04.660799+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
+    "summary": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a challenge over voting irregularities.",
+    "link": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
+    "published": "Mon, 22 Jun 2026 20:42:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b4150f8ffaa50b84aa737e49e3290248",
+    "fetched_at": "2026-06-24T14:12:03.553543+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
+    "summary": "Turkey detained more than 200 suspects, including alleged ISIS militants, in a sweeping Ankara raid ahead of the July NATO summit Trump is expected to attend.",
+    "link": "https://www.foxnews.com/world/turkey-detains-200-suspects-including-alleged-isis-militants-sweeping-raid-ahead-nato-summit",
+    "published": "Tue, 23 Jun 2026 10:47:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "24f34393c6631a3c00d1a57f36e1b37e",
+    "fetched_at": "2026-06-24T14:12:02.452005+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+    "summary": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
+    "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+    "published": "Wed, 24 Jun 2026 07:10:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "5fb63249ee2aeeb347e8b2b31ca8f779",
+    "fetched_at": "2026-06-24T14:12:01.337810+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from sweltering Switzerland",
+    "summary": "On the waterfront in Lucerne, Switzerland, soccer fans watched jumbo TVs showing a World Cup match played an ocean away. But the air felt more like the tropics.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
+    "published": "Wed, 24 Jun 2026 07:55:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "10211bec250113ef86c0ca06df966dc8",
+    "fetched_at": "2026-06-24T14:12:00.217947+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
     "summary": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
     "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "bf52fe51d71c5f21bac19f469425273c",
     "fetched_at": "2026-06-23T21:26:05.291891+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
-    "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 22 Jun 2026 23:31:21 GMT",
-    "source": "BBC News",
-    "id": "1ffe055ffd07780d84712f6c92a327bd",
-    "fetched_at": "2026-06-23T21:26:04.158676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Keith Kellogg tells Iranian dissidents the 'window is open' to force regime change in Tehran",
-    "summary": "Lt. Gen. Keith Kellogg urged Iranian dissidents at a Paris NCRI gathering to seize a historic opening, saying the Tehran regime is weaker than ever.",
-    "link": "https://www.foxnews.com/world/keith-kellogg-tells-iranian-dissidents-window-open-force-regime-change-tehran",
-    "published": "Mon, 22 Jun 2026 11:09:35 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e007ad2f9eb8c5f70ff6e2bf0f12fa2b",
-    "fetched_at": "2026-06-23T21:26:03.027783+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Montreal shooting suspect identified as 25-year-old from Alberta",
-    "summary": "Police have not released a motive behind the Monday shooting that left one police officer and one bystander dead.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2w0yezeyxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 19:35:27 GMT",
-    "source": "BBC News",
-    "id": "721318b87be32417127a146243f86ea6",
-    "fetched_at": "2026-06-23T21:26:01.897475+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-    "summary": "It marked the first time Congress has instructed a president to end a military action since the War Powers Resolution of 1973 was enacted.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 21:22:23 GMT",
-    "source": "BBC News",
-    "id": "8c1b26cac5512d52286695b8f8dfb8a1",
-    "fetched_at": "2026-06-23T21:26:00.754507+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump gets major win against China in African rare earth minerals race",
-    "summary": "Trump administration backs American mining company Virtus Minerals in the DRC to counter China&apos;s control of critical cobalt and copper supply chains.",
-    "link": "https://www.foxnews.com/world/trump-gets-major-win-against-china-african-rare-earth-minerals-race",
-    "published": "Tue, 23 Jun 2026 06:00:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0f6efe0138766aea40129add69f5e080",
-    "fetched_at": "2026-06-23T19:52:27.125396+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A red alert over France, and heat that may rewrite the record books",
-    "summary": "France is experiencing scorching heat, with most of the population exposed to extreme temperatures. The heat is expected to last until at least the end of the week.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129586/france-red-heat-wave-alert",
-    "published": "Tue, 23 Jun 2026 04:37:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "3131993184ff4e0ff1f13fc51b3378a7",
-    "fetched_at": "2026-06-23T19:52:27.125392+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
-    "summary": "In one of the oldest cities in Lebanon, once besieged by Alexander the Great, ordinary people struggle to survive Israeli attacks.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
-    "published": "Tue, 23 Jun 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "623e58df5c4069c35b611b1976a19c5a",
-    "fetched_at": "2026-06-23T19:52:27.125366+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
-    "summary": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-    "published": "Tue, 23 Jun 2026 05:29:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "f08c6910aae8818a23c76c75d9497f00",
-    "fetched_at": "2026-06-23T19:52:26.001222+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reflecting Pool to be drained as Trump again blames 'vandals' for recent troubles",
-    "summary": "Trump said vandals cut a long slit in it and possibly dumped fertiliser in the water, and later threatened to sue over reporting on the pool.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzpjd1njpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 11:40:57 GMT",
-    "source": "BBC News",
-    "id": "0e2c2fda32163e868230cb472d1ec05a",
-    "fetched_at": "2026-06-23T19:52:24.886950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-    "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 12:14:58 GMT",
-    "source": "BBC News",
-    "id": "7f55c7e9ce4cf76b310b1a1220952700",
-    "fetched_at": "2026-06-23T19:52:23.762391+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Montreal shooting leaves officer, civilian and suspect dead",
-    "summary": "It was the first time in 24 years that a Montreal police officer was  killed in the line of duty, the city's police chief said.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 08:36:38 GMT",
-    "source": "BBC News",
-    "id": "06e745aa26742aac575641a8c37a2fc2",
-    "fetched_at": "2026-06-23T19:52:22.641417+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Washington DC's Reflecting Pool became a global talking point",
-    "summary": "President Trump says the pool is probably going to be drained again, two weeks after a multi-million dollar renovation was completed.",
-    "link": "https://www.bbc.co.uk/news/videos/cy4ed2dkxv1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 18:39:52 GMT",
-    "source": "BBC News",
-    "id": "589d211fd55ce028e5ff9439dcbc526d",
-    "fetched_at": "2026-06-23T19:52:21.471554+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ransom note claims Nancy Guthrie died after abduction",
-    "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 17:59:22 GMT",
-    "source": "BBC News",
-    "id": "eed4aaf2451e013a5aa566e2a80fd28b",
-    "fetched_at": "2026-06-23T19:52:20.352192+00:00"
   }
 ]
