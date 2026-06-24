@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Catholics walk barefoot in mud ritual",
+    "summary": "Devotees in rice paddies cover themselves in mud and banana leaves for the Taong Putik festival, honouring St. John the Baptist with barefoot processions.",
+    "link": "http://www.euronews.com/video/2026/06/24/catholics-walk-barefoot-in-mud-ritual",
+    "published": "Wed, 24 Jun 2026 20:53:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "97e73836272c697a68d11fbbebfb9e9e",
+    "fetched_at": "2026-06-24T19:28:42.145361+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Morocco captain Hakimi to stand trial for rape",
+    "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 19 Jun 2026 10:28:22 GMT",
+    "source": "BBC News",
+    "id": "b0044e7eaff2bcac4d3e411dc445245d",
+    "fetched_at": "2026-06-24T19:28:42.145358+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky returns highest Polish honour after award stripped",
+    "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+    "link": "https://www.bbc.co.uk/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 16:34:15 GMT",
+    "source": "BBC News",
+    "id": "9be7f18d783d8bc87b210f2ca6083e35",
+    "fetched_at": "2026-06-24T19:28:42.145354+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+    "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+    "link": "https://www.bbc.co.uk/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 20 Jun 2026 15:31:12 GMT",
+    "source": "BBC News",
+    "id": "33f860b4b7ddeab697d1459ea8fd1e3f",
+    "fetched_at": "2026-06-24T19:28:42.145327+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+    "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+    "link": "https://www.bbc.co.uk/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+    "source": "BBC News",
+    "id": "8ef1727e863b7990b7ad6e73aed9f5e5",
+    "fetched_at": "2026-06-24T19:28:40.966011+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 21 Jun 2026 23:57:59 GMT",
+    "source": "BBC News",
+    "id": "bf52fe51d71c5f21bac19f469425273c",
+    "fetched_at": "2026-06-24T19:28:39.791199+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert",
+    "summary": "U.S.-Iran talks in Switzerland face their first major test over who controls billions in potentially unfrozen Iranian assets, an analyst warned.",
+    "link": "https://www.foxnews.com/world/major-dispute-threaten-trumps-iran-deal-over-billions-frozen-tehran-funds-expert",
+    "published": "Sun, 21 Jun 2026 21:55:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a16d2f8f2715728add4697e7ce4277c9",
+    "fetched_at": "2026-06-24T19:28:38.629497+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Suspect 'neutralized' after Montreal shooting leaves at least 2 dead including officer",
+    "summary": "Authorities in Montreal neutralized a suspected gunman after a fatal shooting Monday in the Côte-des-Neiges neighborhood left two people dead.",
+    "link": "https://www.foxnews.com/world/suspect-neutralized-montreal-shooting-leaves-dead-including-officer",
+    "published": "Mon, 22 Jun 2026 13:59:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9128a5ece9a02b1dfd25607e748ada4f",
+    "fetched_at": "2026-06-24T19:28:37.464878+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns",
+    "summary": "Latvian intelligence warns Russia is preparing military provocations against Baltic states or Poland, including drones and missiles, to pressure NATO.",
+    "link": "https://www.foxnews.com/world/russia-preparing-hybrid-attacks-natos-eastern-flank-intelligence-warns",
+    "published": "Mon, 22 Jun 2026 16:59:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8e4ee3ea5f0e56823c12f9e8d8b978a8",
+    "fetched_at": "2026-06-24T19:28:36.283729+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+    "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
+    "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+    "published": "Tue, 23 Jun 2026 07:17:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "fc21b1683e48ee36bd7fd6d1fc37dbc2",
+    "fetched_at": "2026-06-24T19:28:35.121986+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump set to launch America250 festivities with a rally on the National Mall",
+    "summary": "A flyover by stealth bombers, a performance by God Bless the USA singer Lee Greenwood, and a Trump speech in the nation's capital will kick off weeks of festivities.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 18:37:53 GMT",
+    "source": "BBC News",
+    "id": "deaf5c434f57a079841f98c0ddabc618",
+    "fetched_at": "2026-06-24T19:28:33.885677+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Colombia's left-wing presidential candidate concedes defeat",
     "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
     "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "c61e6a04a491bc5b70ce4bed97c8d5a1",
     "fetched_at": "2026-06-24T07:34:45.040939+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 24th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-morning",
-    "published": "Wed, 24 Jun 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e0afa1ae71045c90c5836b18cf0df8ea",
-    "fetched_at": "2026-06-24T07:34:43.927227+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Toronto streets fill with Panama and Croatia supporters",
-    "summary": "Supporters of Panama and Croatia turned downtown Toronto into a sea of flags and chants ahead of their crucial World Cup Group L clash.",
-    "link": "http://www.euronews.com/video/2026/06/24/toronto-streets-fill-with-panama-and-croatia-supporters",
-    "published": "Wed, 24 Jun 2026 08:54:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "eaf627b536d5942b82e3e966ee32cbf2",
-    "fetched_at": "2026-06-24T07:34:42.810490+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Archaeologists find huge Viking textile production site in Denmark",
-    "summary": "Archaeologists have discovered a huge Viking Age textile production site in Denmark that dates back more than 1,000 years and underlines the sophistication of Viking society.",
-    "link": "https://www.npr.org/2026/06/24/g-s1-129750/viking-textile-production-site",
-    "published": "Wed, 24 Jun 2026 01:54:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "58f4fa289680430cb236be0fdbdd3b26",
-    "fetched_at": "2026-06-24T07:34:41.683661+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US to probe petrol price gouging claims, Trump says",
-    "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 07:09:04 GMT",
-    "source": "BBC News",
-    "id": "fc2b3ab9e2994f1fdd94d715f87ce3e4",
-    "fetched_at": "2026-06-24T07:34:40.550984+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-    "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 23:25:07 GMT",
-    "source": "BBC News",
-    "id": "bf33265ff7220d56f5f7baae6063c76b",
-    "fetched_at": "2026-06-24T02:36:14.606447+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Airbus under fresh scrutiny as EASA orders A380 inspections over wing cracks",
-    "summary": "The aviation giant is already battling supply chain problems and growing costs across its operations.",
-    "link": "http://www.euronews.com/business/2026/06/23/airbus-under-fresh-scrutiny-as-easa-orders-a380-inspections-over-wing-cracks",
-    "published": "Tue, 23 Jun 2026 22:42:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "23b216684393112bb62f66a2f27dde6f",
-    "fetched_at": "2026-06-24T02:36:13.484522+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-    "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-    "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 16:27:17 GMT",
-    "source": "BBC News",
-    "id": "82043ddd22a8be2fbb7ed7edfe537115",
-    "fetched_at": "2026-06-24T02:36:12.347142+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kim Jong Un calls for North Korea to build 2 large warships per year in major naval expansion push: report",
-    "summary": "Kim Jong Un calls for building two large warships annually over five years, signaling a major expansion of North Korea&apos;s naval forces and capabilities.",
-    "link": "https://www.foxnews.com/world/kim-jong-un-calls-north-korea-build-two-large-warships-per-year-major-naval-expansion-push",
-    "published": "Tue, 23 Jun 2026 22:20:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5e4e8de6d6bc71758fc0942c49da9b50",
-    "fetched_at": "2026-06-24T02:36:11.242743+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Google's YouTube settles social media addiction case with teen",
-    "summary": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
-    "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 23:39:55 GMT",
-    "source": "BBC News",
-    "id": "f408d62093e4f0225dafb949e39c1d79",
-    "fetched_at": "2026-06-24T02:36:10.118006+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
-    "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
-    "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 00:00:06 GMT",
-    "source": "BBC News",
-    "id": "1418afde5fc0317a750f8e82dba2c38d",
-    "fetched_at": "2026-06-24T02:36:08.970317+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mamdani-backed candidates win in New York's Democratic primary",
-    "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-    "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 02:17:29 GMT",
-    "source": "BBC News",
-    "id": "68e5ce01b894cfae1cec951070fd34b5",
-    "fetched_at": "2026-06-24T02:36:07.814551+00:00"
   }
 ]
