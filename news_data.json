@@ -1,6 +1,176 @@
 [
   {
     "region": "Europe",
+    "title": "Colombia's left-wing presidential candidate concedes defeat",
+    "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+    "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 15:50:22 GMT",
+    "source": "BBC News",
+    "id": "70518f22e529e7a029d7bcdcded39aec",
+    "fetched_at": "2026-06-24T17:49:05.075521+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seal at Hungarian zoo brushes teeth",
+    "summary": "A seal at Nyíregyháza Zoo in Hungary brushes its teeth in the Arctic Ice World exhibit, showcasing daily care and animal enrichment activities.",
+    "link": "http://www.euronews.com/video/2026/06/24/seal-at-hungarian-zoo-brushes-teeth",
+    "published": "Wed, 24 Jun 2026 10:40:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5821d515ea8666a71e94c94ee2581c60",
+    "fetched_at": "2026-06-24T17:49:05.075519+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "First whales killed as Iceland restarts commercial hunt",
+    "summary": "Iceland resumes commercial whaling after a two-year pause, with two fin whales processed at the Hvalur facility, reigniting controversy and protests.",
+    "link": "http://www.euronews.com/video/2026/06/24/first-whales-killed-as-iceland-restarts-commercial-hunt",
+    "published": "Wed, 24 Jun 2026 16:49:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8cd2de72f9e942a28d02abda52e5c1e5",
+    "fetched_at": "2026-06-24T17:49:05.075517+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Portugal's World Cup victory sparks celebrations in Lisbon",
+    "summary": "Thousands of fans in Lisbon celebrated Portugal's 5-0 World Cup victory over Uzbekistan, with Cristiano Ronaldo scoring twice and becoming the first player to score in six different World Cup tournaments.",
+    "link": "http://www.euronews.com/video/2026/06/24/portugals-world-cup-victory-sparks-celebrations-in-lisbon",
+    "published": "Wed, 24 Jun 2026 17:30:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7b9d4e19b67cc57db33689201aeab2c4",
+    "fetched_at": "2026-06-24T17:49:05.075515+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 24th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-evening",
+    "published": "Wed, 24 Jun 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d79b4b292d78de6eda7f665b9dd2e428",
+    "fetched_at": "2026-06-24T17:49:05.075513+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "IMF to closely monitor China’s economic growth amid trade tensions",
+    "summary": "An accurate measurement of China's digital economy is a priority for other powers competing with Beijing in fast-developing technologies.",
+    "link": "http://www.euronews.com/business/2026/06/24/imf-to-closely-monitor-chinas-economic-growth-amid-tensions-with-the-us",
+    "published": "Wed, 24 Jun 2026 18:09:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8bb551c8b36ec4edce71da90c003f64e",
+    "fetched_at": "2026-06-24T17:49:05.075511+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+    "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 22 Jun 2026 23:31:21 GMT",
+    "source": "BBC News",
+    "id": "1ffe055ffd07780d84712f6c92a327bd",
+    "fetched_at": "2026-06-24T17:49:05.075508+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Keith Kellogg tells Iranian dissidents the 'window is open' to force regime change in Tehran",
+    "summary": "Lt. Gen. Keith Kellogg urged Iranian dissidents at a Paris NCRI gathering to seize a historic opening, saying the Tehran regime is weaker than ever.",
+    "link": "https://www.foxnews.com/world/keith-kellogg-tells-iranian-dissidents-window-open-force-regime-change-tehran",
+    "published": "Mon, 22 Jun 2026 11:09:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e007ad2f9eb8c5f70ff6e2bf0f12fa2b",
+    "fetched_at": "2026-06-24T17:49:05.075505+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump gets major win against China in African rare earth minerals race",
+    "summary": "Trump administration backs American mining company Virtus Minerals in the DRC to counter China&apos;s control of critical cobalt and copper supply chains.",
+    "link": "https://www.foxnews.com/world/trump-gets-major-win-against-china-african-rare-earth-minerals-race",
+    "published": "Tue, 23 Jun 2026 06:00:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0f6efe0138766aea40129add69f5e080",
+    "fetched_at": "2026-06-24T17:49:05.075502+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
+    "summary": "In one of the oldest cities in Lebanon, once besieged by Alexander the Great, ordinary people struggle to survive Israeli attacks.",
+    "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
+    "published": "Tue, 23 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "623e58df5c4069c35b611b1976a19c5a",
+    "fetched_at": "2026-06-24T17:49:05.075473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
+    "summary": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+    "published": "Tue, 23 Jun 2026 05:29:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "f08c6910aae8818a23c76c75d9497f00",
+    "fetched_at": "2026-06-24T17:49:03.946589+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
+    "summary": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 11:35:14 GMT",
+    "source": "BBC News",
+    "id": "d9b9735ccf7f981861fbe58bb126511e",
+    "fetched_at": "2026-06-24T17:49:02.822068+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two men make $50k to watch the World Cup, with nowhere to hide",
+    "summary": "Meet the two men who are getting paid $50,000 (£37,800) to watch every single World Cup match from a glass enclosed living room in the middle of Times Square.",
+    "link": "https://www.bbc.co.uk/news/videos/cq51j1xv5ldo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 16:42:07 GMT",
+    "source": "BBC News",
+    "id": "2ea1807f8e1d19b52f02c40b5cf1114c",
+    "fetched_at": "2026-06-24T17:49:01.688920+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
+    "summary": "The BBC’s Daniel Bush is traveling with Secretary of State Marco Rubio as he seeks to reassure Gulf allies over the Iran deal aimed at ending the war.",
+    "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 13:15:14 GMT",
+    "source": "BBC News",
+    "id": "0f387982fd4de288724c83853a055712",
+    "fetched_at": "2026-06-24T17:49:00.562966+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+    "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 14:57:21 GMT",
+    "source": "BBC News",
+    "id": "8c1b26cac5512d52286695b8f8dfb8a1",
+    "fetched_at": "2026-06-24T17:48:59.437437+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New York's Democratic primaries show Mamdani's win was no fluke",
+    "summary": "Candidates backed by the New York mayor won a clean-sweep, exposing a political divide within the Democratic party.",
+    "link": "https://www.bbc.co.uk/news/articles/cly818y4v22o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 17:40:51 GMT",
+    "source": "BBC News",
+    "id": "95671faa40f9ed39eabaf241eefc5993",
+    "fetched_at": "2026-06-24T17:48:58.300635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
+    "summary": "Congress earlier approved the legislation in a rare, bipartisan move, signalling how pressing the housing issue has become for American voters.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 17:35:43 GMT",
+    "source": "BBC News",
+    "id": "e54b83166b44f61ac1497dfe7d7a99c0",
+    "fetched_at": "2026-06-24T17:48:57.149300+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
     "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
     "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
@@ -428,175 +598,5 @@
     "source": "BBC News",
     "id": "68e5ce01b894cfae1cec951070fd34b5",
     "fetched_at": "2026-06-24T02:36:07.814551+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
-    "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
-    "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 22:44:57 GMT",
-    "source": "BBC News",
-    "id": "fd2c7894edaf69b79bbb5bb2d4f0f62a",
-    "fetched_at": "2026-06-23T23:02:10.337353+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meloni's spat with Trump is calculated strategy to boost her approval ratings: expert",
-    "summary": "Analyst says Meloni&apos;s public feud with President Trump is a calculated strategy to boost her declining approval ratings ahead of Italy&apos;s 2027 general election.",
-    "link": "https://www.foxnews.com/world/melonis-spat-trump-calculated-strategy-boost-her-approval-ratings-expert",
-    "published": "Sun, 21 Jun 2026 17:39:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fb8e50a18f983aeee1859b3ff6d303ac",
-    "fetched_at": "2026-06-23T23:02:09.211671+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert",
-    "summary": "U.S.-Iran talks in Switzerland face their first major test over who controls billions in potentially unfrozen Iranian assets, an analyst warned.",
-    "link": "https://www.foxnews.com/world/major-dispute-threaten-trumps-iran-deal-over-billions-frozen-tehran-funds-expert",
-    "published": "Sun, 21 Jun 2026 21:55:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a16d2f8f2715728add4697e7ce4277c9",
-    "fetched_at": "2026-06-23T23:02:08.088474+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Suspect 'neutralized' after Montreal shooting leaves at least 2 dead including officer",
-    "summary": "Authorities in Montreal neutralized a suspected gunman after a fatal shooting Monday in the Côte-des-Neiges neighborhood left two people dead.",
-    "link": "https://www.foxnews.com/world/suspect-neutralized-montreal-shooting-leaves-dead-including-officer",
-    "published": "Mon, 22 Jun 2026 13:59:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9128a5ece9a02b1dfd25607e748ada4f",
-    "fetched_at": "2026-06-23T23:02:06.940982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns",
-    "summary": "Latvian intelligence warns Russia is preparing military provocations against Baltic states or Poland, including drones and missiles, to pressure NATO.",
-    "link": "https://www.foxnews.com/world/russia-preparing-hybrid-attacks-natos-eastern-flank-intelligence-warns",
-    "published": "Mon, 22 Jun 2026 16:59:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8e4ee3ea5f0e56823c12f9e8d8b978a8",
-    "fetched_at": "2026-06-23T23:02:05.806240+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
-    "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
-    "published": "Tue, 23 Jun 2026 07:17:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "fc21b1683e48ee36bd7fd6d1fc37dbc2",
-    "fetched_at": "2026-06-23T23:02:04.680361+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UNAIDS warns Trump's HIV funding cuts to South Africa could cost lives",
-    "summary": "The Trump administration says the phased withdrawal is linked to policy disputes with Pretoria, which rejects the allegations and says it is pursuing greater self-reliance.",
-    "link": "http://www.euronews.com/2026/06/23/unaids-warns-trumps-hiv-funding-cuts-to-south-africa-could-cost-lives",
-    "published": "Tue, 23 Jun 2026 20:53:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4c1f1fccaed616a3b1dc0b2b7827ac99",
-    "fetched_at": "2026-06-23T21:26:08.697036+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgian royals roll out red carpet for Japan's emperor",
-    "summary": "Japanese Emperor Naruhito and Empress Masako received a ceremonial welcome at the Royal Palace of Brussels as they began a state visit to Belgium.",
-    "link": "http://www.euronews.com/video/2026/06/23/belgian-royals-roll-out-red-carpet-for-japans-emperor",
-    "published": "Tue, 23 Jun 2026 21:32:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "84dc84b8b307351aa1166b37ff4dc217",
-    "fetched_at": "2026-06-23T21:26:08.697034+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Giant Messi statue honors Argentina's World Cup hero",
-    "summary": "A giant mural near Buenos Aires and a towering statue in Patagonia highlight Lionel Messi's enduring status as a symbol of unity and pride for Argentines during the World Cup.",
-    "link": "http://www.euronews.com/video/2026/06/23/giant-messi-statue-honors-argentinas-world-cup-hero",
-    "published": "Tue, 23 Jun 2026 21:49:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "de354947eb6b43fd514385b1693e1d0e",
-    "fetched_at": "2026-06-23T21:26:08.697031+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Airbus under fresh scrutiny as EASA orders A380 inspections over wing cracks",
-    "summary": "The aviation giant is already battling supply chain problems and growing costs across its operations.",
-    "link": "http://www.euronews.com/2026/06/23/airbus-under-fresh-scrutiny-as-easa-orders-a380-inspections-over-wing-cracks",
-    "published": "Tue, 23 Jun 2026 22:42:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "771c446109a46fb43821d401c026ee20",
-    "fetched_at": "2026-06-23T21:26:08.697028+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
-    "summary": "The man was allegedly struck by his 81-year-old opponent, who has since been arrested, the public prosecutor says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 17:30:24 GMT",
-    "source": "BBC News",
-    "id": "7b61df403226be9946eebc6c3a40549d",
-    "fetched_at": "2026-06-23T21:26:08.697024+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco captain Hakimi to stand trial for rape",
-    "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 19 Jun 2026 10:28:22 GMT",
-    "source": "BBC News",
-    "id": "b0044e7eaff2bcac4d3e411dc445245d",
-    "fetched_at": "2026-06-23T21:26:08.697021+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky returns highest Polish honour after award stripped",
-    "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
-    "link": "https://www.bbc.co.uk/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 16:34:15 GMT",
-    "source": "BBC News",
-    "id": "9be7f18d783d8bc87b210f2ca6083e35",
-    "fetched_at": "2026-06-23T21:26:08.697018+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-    "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
-    "link": "https://www.bbc.co.uk/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 20 Jun 2026 15:31:12 GMT",
-    "source": "BBC News",
-    "id": "33f860b4b7ddeab697d1459ea8fd1e3f",
-    "fetched_at": "2026-06-23T21:26:08.696990+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Half of France under red heat alert as alcohol banned at street music festival",
-    "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 21 Jun 2026 15:22:14 GMT",
-    "source": "BBC News",
-    "id": "b5013bae2b389ace801bb0585116c678",
-    "fetched_at": "2026-06-23T21:26:07.568972+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-    "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-    "link": "https://www.bbc.co.uk/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 21 Jun 2026 10:55:05 GMT",
-    "source": "BBC News",
-    "id": "8ef1727e863b7990b7ad6e73aed9f5e5",
-    "fetched_at": "2026-06-23T21:26:06.427440+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-    "link": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 21 Jun 2026 23:57:59 GMT",
-    "source": "BBC News",
-    "id": "bf52fe51d71c5f21bac19f469425273c",
-    "fetched_at": "2026-06-23T21:26:05.291891+00:00"
   }
 ]
