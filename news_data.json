@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+    "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 23:25:07 GMT",
+    "source": "BBC News",
+    "id": "bf33265ff7220d56f5f7baae6063c76b",
+    "fetched_at": "2026-06-24T02:36:14.606447+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Airbus under fresh scrutiny as EASA orders A380 inspections over wing cracks",
+    "summary": "The aviation giant is already battling supply chain problems and growing costs across its operations.",
+    "link": "http://www.euronews.com/business/2026/06/23/airbus-under-fresh-scrutiny-as-easa-orders-a380-inspections-over-wing-cracks",
+    "published": "Tue, 23 Jun 2026 22:42:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "23b216684393112bb62f66a2f27dde6f",
+    "fetched_at": "2026-06-24T02:36:13.484522+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+    "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+    "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 16:27:17 GMT",
+    "source": "BBC News",
+    "id": "82043ddd22a8be2fbb7ed7edfe537115",
+    "fetched_at": "2026-06-24T02:36:12.347142+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kim Jong Un calls for North Korea to build 2 large warships per year in major naval expansion push: report",
+    "summary": "Kim Jong Un calls for building two large warships annually over five years, signaling a major expansion of North Korea&apos;s naval forces and capabilities.",
+    "link": "https://www.foxnews.com/world/kim-jong-un-calls-north-korea-build-two-large-warships-per-year-major-naval-expansion-push",
+    "published": "Tue, 23 Jun 2026 22:20:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5e4e8de6d6bc71758fc0942c49da9b50",
+    "fetched_at": "2026-06-24T02:36:11.242743+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Google's YouTube settles social media addiction case with teen",
+    "summary": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+    "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 23 Jun 2026 23:39:55 GMT",
+    "source": "BBC News",
+    "id": "f408d62093e4f0225dafb949e39c1d79",
+    "fetched_at": "2026-06-24T02:36:10.118006+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+    "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+    "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 00:00:06 GMT",
+    "source": "BBC News",
+    "id": "1418afde5fc0317a750f8e82dba2c38d",
+    "fetched_at": "2026-06-24T02:36:08.970317+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mamdani-backed candidates win in New York's Democratic primary",
+    "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+    "link": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 02:17:29 GMT",
+    "source": "BBC News",
+    "id": "68e5ce01b894cfae1cec951070fd34b5",
+    "fetched_at": "2026-06-24T02:36:07.814551+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
     "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
     "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "6a603c2d398336b597ff8e51ad6e3d3b",
     "fetched_at": "2026-06-23T17:46:26.908950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tech stocks tumble on concerns over AI spending",
-    "summary": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
-    "link": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 17:34:02 GMT",
-    "source": "BBC News",
-    "id": "3c8b5bcdae70723cd6374b54ea2911b5",
-    "fetched_at": "2026-06-23T17:46:25.788869+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Irish government to contribute £197m to cross-border rail services",
-    "summary": "The money will come from the last allocation from the Irish government's Shared Island Fund.",
-    "link": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 13:39:03 GMT",
-    "source": "BBC News",
-    "id": "d71648ea84ccb1e0f15b46db7800ed05",
-    "fetched_at": "2026-06-23T14:33:17.998474+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spider which uses spring trap to capture prey discovered in Australia",
-    "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
-    "link": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 10:05:53 GMT",
-    "source": "BBC News",
-    "id": "6abccaf9477771924dc019137c2bc5c8",
-    "fetched_at": "2026-06-23T14:33:17.998472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-    "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 12:02:29 GMT",
-    "source": "BBC News",
-    "id": "6d8b4f9c1a64d81afc483b3cb4079cff",
-    "fetched_at": "2026-06-23T14:33:17.998470+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-    "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-    "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 11:10:06 GMT",
-    "source": "BBC News",
-    "id": "e93712693fbd9162298d36f93bbbc984",
-    "fetched_at": "2026-06-23T14:33:17.998467+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Montenegro's Adriatic port of Bar eyed as potential Middle Corridor link",
-    "summary": "Montenegrin President Jakov Milatović made a historic first official visit to Kazakhstan to discuss trade, transport routes, tourism and diplomatic relations.",
-    "link": "http://www.euronews.com/2026/06/23/montenegros-adriatic-port-of-bar-eyed-as-potential-middle-corridor-link",
-    "published": "Tue, 23 Jun 2026 12:59:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bffc499b4c6e0d37ccebcee417b06e7e",
-    "fetched_at": "2026-06-23T14:33:17.998465+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "TV pundit apologises after racist comment during Belgium World Cup game",
-    "summary": "Bogdanović most notably played for La Liga side Atlético Madrid and Germany's Werder Bremen during his career.",
-    "link": "http://www.euronews.com/2026/06/23/tv-pundit-apologises-after-racist-comment-during-belgium-world-cup-game",
-    "published": "Tue, 23 Jun 2026 13:38:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d69e91b91080de569b286822cc39ac88",
-    "fetched_at": "2026-06-23T14:33:17.998463+00:00"
   }
 ]
