@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | June 24th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-midday",
+    "published": "Wed, 24 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9ae53b89a8651d88d7629643f124af6d",
+    "fetched_at": "2026-06-25T02:37:49.163775+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Biggest city in Crimea without power after Ukraine strikes",
+    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
+    "source": "BBC News",
+    "id": "bdfab579cd2939c6bc7255f83780238d",
+    "fetched_at": "2026-06-25T02:37:48.000830+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+    "summary": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
+    "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 21:39:18 GMT",
+    "source": "BBC News",
+    "id": "4cd2ea070f9b2cc34d76e7fcb68160c6",
+    "fetched_at": "2026-06-25T02:37:46.817583+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shark attack survivor wakes from 10-day coma and shares first words with family at her hospital bedside",
+    "summary": "Leah Stewart awoke from an induced coma after a shark attack at Coogee Beach in Sydney, sharing her first words &apos;I love you&apos; with her family.",
+    "link": "https://www.foxnews.com/world/shark-attack-survivor-wakes-10-day-coma-shares-first-words-family-hospital-bedside",
+    "published": "Wed, 24 Jun 2026 20:11:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ff77cdfe6f81518c16c0bfbd580fb942",
+    "fetched_at": "2026-06-25T02:37:45.649694+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
+    "summary": "It's still unclear who would fund a proposed $300 billion reconstruction plan for Iran. Former National Security Adviser Jake Sullivan called the whole approach \"something entirely new.\"",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
+    "published": "Tue, 23 Jun 2026 06:51:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "ee212477b7f5696663b54c2aaae31e84",
+    "fetched_at": "2026-06-25T02:37:44.483621+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+    "summary": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
+    "link": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+    "published": "Tue, 23 Jun 2026 11:34:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "ae373ce9227451884feaa6b590fe3526",
+    "fetched_at": "2026-06-25T02:37:43.311452+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two powerful earthquakes hit Venezuelan capital of Caracas",
+    "summary": "Powerful back to back earthquakes hit Venezuela's capital, Caracas. NPR's Scott Detrow speaks with journalist Maria Graterol who is in Caracas.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5869804/two-powerful-earthquakes-hit-venezuelan-capital-of-caracas",
+    "published": "Wed, 24 Jun 2026 21:11:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "751898cd9f68a24646b2f11abc194d2d",
+    "fetched_at": "2026-06-25T02:37:42.139030+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Sydney woman wakes from induced coma more than a week after shark attack",
     "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
     "link": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "b4150f8ffaa50b84aa737e49e3290248",
     "fetched_at": "2026-06-24T14:12:03.553543+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
-    "summary": "Turkey detained more than 200 suspects, including alleged ISIS militants, in a sweeping Ankara raid ahead of the July NATO summit Trump is expected to attend.",
-    "link": "https://www.foxnews.com/world/turkey-detains-200-suspects-including-alleged-isis-militants-sweeping-raid-ahead-nato-summit",
-    "published": "Tue, 23 Jun 2026 10:47:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "24f34393c6631a3c00d1a57f36e1b37e",
-    "fetched_at": "2026-06-24T14:12:02.452005+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
-    "summary": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
-    "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
-    "published": "Wed, 24 Jun 2026 07:10:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "5fb63249ee2aeeb347e8b2b31ca8f779",
-    "fetched_at": "2026-06-24T14:12:01.337810+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from sweltering Switzerland",
-    "summary": "On the waterfront in Lucerne, Switzerland, soccer fans watched jumbo TVs showing a World Cup match played an ocean away. But the air felt more like the tropics.",
-    "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
-    "published": "Wed, 24 Jun 2026 07:55:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "10211bec250113ef86c0ca06df966dc8",
-    "fetched_at": "2026-06-24T14:12:00.217947+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-    "summary": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
-    "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 08:29:06 GMT",
-    "source": "BBC News",
-    "id": "890471a24c8f8b5e2ed52ed1805d3371",
-    "fetched_at": "2026-06-24T10:43:22.815554+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France confirms first Ebola case",
-    "summary": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 10:40:57 GMT",
-    "source": "BBC News",
-    "id": "2bedf801c2ba07927d6c8862322906f1",
-    "fetched_at": "2026-06-24T10:43:22.815552+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dead tree painted red to highlight climate change impact",
-    "summary": "A painted red oak at Kew Gardens, killed in the 2022 heatwave, stands beside a resilient “Tree of Hope”, highlighting climate change impacts in the UK.",
-    "link": "http://www.euronews.com/video/2026/06/24/dead-tree-painted-red-to-highlight-climate-change-impact",
-    "published": "Wed, 24 Jun 2026 09:40:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "72855b76d711c235cf4748c072639326",
-    "fetched_at": "2026-06-24T10:43:22.815550+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kazakhstan signs €10bn in deals with Europe as Tokayev wraps Brussels visit",
-    "summary": "During President Kassym-Jomart Tokayev's visit to Brussels, strategic documents were signed with the EU, and 30 commercial deals were concluded with EU companies, with the EU being the Central Asian country's largest trading and investment partner.",
-    "link": "http://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit",
-    "published": "Wed, 24 Jun 2026 11:35:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "802ec580987115c7fd8d1d829168a925",
-    "fetched_at": "2026-06-24T10:43:22.815548+00:00"
   }
 ]
