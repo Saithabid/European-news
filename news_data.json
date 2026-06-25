@@ -1,5 +1,45 @@
 [
   {
+    "region": "USA",
+    "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
+    "summary": "Foreign-owned businesses have been attacked, migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5866241/they-can-kill-you-immigrants-fear-a-surge-in-xenophobic-violence-in-south-africa",
+    "published": "Thu, 25 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "54219fade6d4b549d16e8f8e41cb4556",
+    "fetched_at": "2026-06-25T23:11:01.226891+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
+    "summary": "Congress earlier approved the legislation in a rare, bipartisan move, signalling how pressing the housing issue has become for American voters.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 22:20:11 GMT",
+    "source": "BBC News",
+    "id": "e54b83166b44f61ac1497dfe7d7a99c0",
+    "fetched_at": "2026-06-25T23:11:00.065103+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands gather for the Great American State Fair",
+    "summary": "The rally on the National Mall is one of a range of events planned by Donald Trump to celebrate America's 250th year of independence.",
+    "link": "https://www.bbc.co.uk/news/videos/ckg8kv399pxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 06:23:04 GMT",
+    "source": "BBC News",
+    "id": "ddbfb5a9ce0d4393b99afb8e421940d0",
+    "fetched_at": "2026-06-25T23:10:58.894983+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+    "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+    "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 09:06:59 GMT",
+    "source": "BBC News",
+    "id": "ff5471f165b9018a37e53ece085be465",
+    "fetched_at": "2026-06-25T23:10:57.731751+00:00"
+  },
+  {
     "region": "Europe",
     "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
     "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
@@ -558,45 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "b4150f8ffaa50b84aa737e49e3290248",
     "fetched_at": "2026-06-25T10:36:22.232122+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
-    "summary": "Israel&apos;s U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
-    "link": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
-    "published": "Thu, 25 Jun 2026 06:13:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1a685dda968807859ce69ebbe076944d",
-    "fetched_at": "2026-06-25T10:36:22.232119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How is Moscow dealing with Ukraine's stepped-up drone attacks?",
-    "summary": "The view from Moscow as Russia and Russian-occupied territory contend with stepped-up Ukrainian attacks.",
-    "link": "https://www.npr.org/2026/06/25/nx-s1-5869503/how-is-moscow-dealing-with-ukraines-stepped-up-drone-attacks",
-    "published": "Thu, 25 Jun 2026 04:44:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "d573f04dcbfd96203842ee343a9c12e0",
-    "fetched_at": "2026-06-25T10:36:22.232116+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. ambassador to NATO on the relationship between the alliance and Trump",
-    "summary": "NPR's Michel Martin speaks with Kurt Volker, former U.S. ambassador to NATO, about the dynamics between the NATO alliance, its leader, and President Trump.",
-    "link": "https://www.npr.org/2026/06/25/nx-s1-5869554/former-u-s-ambassador-to-nato-on-the-relationship-between-the-alliance-and-trump",
-    "published": "Thu, 25 Jun 2026 04:44:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "bcfe6b6f172a076f6221d14606c7e7df",
-    "fetched_at": "2026-06-25T10:36:22.232113+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
-    "summary": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
-    "link": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
-    "published": "Thu, 25 Jun 2026 04:44:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "c8766bf2ae21518d51eb8498e4f65579",
-    "fetched_at": "2026-06-25T10:36:22.232088+00:00"
   }
 ]
