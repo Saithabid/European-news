@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "Independent MPs launch new Australian centrist party",
+    "summary": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 02:41:28 GMT",
+    "source": "BBC News",
+    "id": "c52087d36c3c58e6c0b3a988fbaafde9",
+    "fetched_at": "2026-06-25T07:36:45.566996+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+    "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 03:12:17 GMT",
+    "source": "BBC News",
+    "id": "8c2b264d89fa54e3adf91a492cabc633",
+    "fetched_at": "2026-06-25T07:36:45.566994+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Philippines bans video game played by alleged high school shooter",
+    "summary": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
+    "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 22:14:12 GMT",
+    "source": "BBC News",
+    "id": "2ad3b66200b47d8d689b90c9a02d4c48",
+    "fetched_at": "2026-06-25T07:36:45.566991+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+    "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
+    "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 00:51:28 GMT",
+    "source": "BBC News",
+    "id": "ff5471f165b9018a37e53ece085be465",
+    "fetched_at": "2026-06-25T07:36:45.566989+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+    "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+    "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 02:27:27 GMT",
+    "source": "BBC News",
+    "id": "d0dedce837038edb52ed8d4ece829b58",
+    "fetched_at": "2026-06-25T07:36:45.566986+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hormuz confusion deepens as Iran and US clash over who controls it",
+    "summary": "Trump said Tehran had promised no tolls or charges in the strait, hours after Iran and Oman announced a joint permit system asserting their authority over the waterway. Rubio flew to Abu Dhabi to reassure Gulf allies, as analysts warned control over Hormuz would be a major strategic victory for Iran",
+    "link": "http://www.euronews.com/2026/06/25/hormuz-confusion-deepens-as-iran-and-us-clash-over-who-controls-it",
+    "published": "Thu, 25 Jun 2026 06:00:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7b8626cdbcaa35458ec93e2495bc39c6",
+    "fetched_at": "2026-06-25T07:36:45.566984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 32 killed and 700 injured in powerful Venezuela earthquakes",
+    "summary": "Residents of the capital Caracas were forced to evacuate their residences and seek shelter outdoors as the quakes, which struck less than 200 km from the capital, caused widespread damage.",
+    "link": "http://www.euronews.com/2026/06/25/71-and-75-magnitude-quakes-strike-venezuela-causing-what-officials-described-as-severe-dam",
+    "published": "Thu, 25 Jun 2026 06:28:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cbd550b7c6d797605c47a7ff42df638b",
+    "fetched_at": "2026-06-25T07:36:45.566981+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 25th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-morning",
+    "published": "Thu, 25 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "163675bda7592bf0f1cfd7e45752c6d5",
+    "fetched_at": "2026-06-25T07:36:45.566978+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mumbai monsoon floods streets and disrupts travel",
+    "summary": "Heavy monsoon rains flood Mumbai, submerging roads, disrupting traffic and forcing residents to wade through waterlogged streets in India’s financial hub.",
+    "link": "http://www.euronews.com/video/2026/06/25/mumbai-monsoon-floods-streets-and-disrupts-travel",
+    "published": "Thu, 25 Jun 2026 07:43:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b7f3f55001ea5ee8e58e42f4e6398c19",
+    "fetched_at": "2026-06-25T07:36:45.566976+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says 'courageous' Zelenskyy is 'doing pretty well' in war with Russia",
+    "summary": "\"You have to say he's courageous, he's got great equipment, he's got great men, he's got fighters,\" Trump said of Zelenskyy.",
+    "link": "http://www.euronews.com/2026/06/25/trump-says-courageous-zelenskyy-is-doing-pretty-well-in-war-with-russia",
+    "published": "Thu, 25 Jun 2026 08:42:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7ceab22611770a3dbfcea7b5e33f1353",
+    "fetched_at": "2026-06-25T07:36:45.566972+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment earthquake hits Venezuela, sending people fleeing in panic",
+    "summary": "Images showing cracked walls, collapsed ceiling panels and debris strewn across parts of Simón Bolívar International Airport highlighted the scale of damage after two powerful earthquakes struck Venezuela on 24 June 2026.",
+    "link": "http://www.euronews.com/video/2026/06/25/moment-earthquake-hits-venezuela-sending-people-fleeing-in-panic",
+    "published": "Thu, 25 Jun 2026 08:55:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "13acdbf0258e6ec207ab37aec8a39bc5",
+    "fetched_at": "2026-06-25T07:36:45.566942+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crime boss Steven Lyons arrives in Spain after extradition",
+    "summary": "One of Scotland's leading gangland figures has arrived in Spain after losing a bid against his extradition on a series of charges related to organised crime.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jyq3990jeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 20:22:08 GMT",
+    "source": "BBC News",
+    "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
+    "fetched_at": "2026-06-25T07:36:44.446699+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France confirms first Ebola case",
+    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
+    "source": "BBC News",
+    "id": "2bedf801c2ba07927d6c8862322906f1",
+    "fetched_at": "2026-06-25T07:36:43.312957+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkey detains over 200 suspects, including alleged ISIS militants, in sweeping raid ahead of NATO summit",
+    "summary": "Turkey detained more than 200 suspects, including alleged ISIS militants, in a sweeping Ankara raid ahead of the July NATO summit Trump is expected to attend.",
+    "link": "https://www.foxnews.com/world/turkey-detains-200-suspects-including-alleged-isis-militants-sweeping-raid-ahead-nato-summit",
+    "published": "Tue, 23 Jun 2026 10:47:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "24f34393c6631a3c00d1a57f36e1b37e",
+    "fetched_at": "2026-06-25T07:36:42.187796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Venezuela earthquakes left 'devastating number of deaths' as US readies aid",
+    "summary": "Trump says two massive earthquakes in Venezuela caused a devastating number of deaths and instructs U.S. agencies to prepare to assist quickly.",
+    "link": "https://www.foxnews.com/world/trump-venezuela-earthquakes-us-aid",
+    "published": "Thu, 25 Jun 2026 01:38:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b961cc8f59838d0fcb3f0e2cef0b3077",
+    "fetched_at": "2026-06-25T07:36:41.049766+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal",
+    "summary": "The head of the U.N.'s atomic agency said Iran's nuclear enrichment sites would be inspected as part of the interim deal. Iran insists any such visit would only come after a final deal.",
+    "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+    "published": "Wed, 24 Jun 2026 07:10:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "5fb63249ee2aeeb347e8b2b31ca8f779",
+    "fetched_at": "2026-06-25T07:36:39.905633+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from sweltering Switzerland",
+    "summary": "On the waterfront in Lucerne, Switzerland, soccer fans watched jumbo TVs showing a World Cup match played an ocean away. But the air felt more like the tropics.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
+    "published": "Wed, 24 Jun 2026 07:55:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "10211bec250113ef86c0ca06df966dc8",
+    "fetched_at": "2026-06-25T07:36:38.790198+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 32 killed, 700 injured in 2 major earthquakes in Venezuela, says acting president",
+    "summary": "A 7.2-magnitude earthquake and a 7.5-magnitude were less than a minute apart, said the U.S. Geological Survey. The second earthquake was the largest to hit the country since 1900.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5869817/2-major-earthquakes-strike-northern-venezuela-near-caracas",
+    "published": "Wed, 24 Jun 2026 23:11:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "fc7667b0b0c6194888d688c1fb4fbbb2",
+    "fetched_at": "2026-06-25T07:36:37.661865+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | June 24th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this June 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-midday",
@@ -418,185 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "0f6efe0138766aea40129add69f5e080",
     "fetched_at": "2026-06-24T17:49:05.075502+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
-    "summary": "In one of the oldest cities in Lebanon, once besieged by Alexander the Great, ordinary people struggle to survive Israeli attacks.",
-    "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
-    "published": "Tue, 23 Jun 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "623e58df5c4069c35b611b1976a19c5a",
-    "fetched_at": "2026-06-24T17:49:05.075473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
-    "summary": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.",
-    "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-    "published": "Tue, 23 Jun 2026 05:29:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "f08c6910aae8818a23c76c75d9497f00",
-    "fetched_at": "2026-06-24T17:49:03.946589+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
-    "summary": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 11:35:14 GMT",
-    "source": "BBC News",
-    "id": "d9b9735ccf7f981861fbe58bb126511e",
-    "fetched_at": "2026-06-24T17:49:02.822068+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two men make $50k to watch the World Cup, with nowhere to hide",
-    "summary": "Meet the two men who are getting paid $50,000 (£37,800) to watch every single World Cup match from a glass enclosed living room in the middle of Times Square.",
-    "link": "https://www.bbc.co.uk/news/videos/cq51j1xv5ldo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 16:42:07 GMT",
-    "source": "BBC News",
-    "id": "2ea1807f8e1d19b52f02c40b5cf1114c",
-    "fetched_at": "2026-06-24T17:49:01.688920+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
-    "summary": "The BBC’s Daniel Bush is traveling with Secretary of State Marco Rubio as he seeks to reassure Gulf allies over the Iran deal aimed at ending the war.",
-    "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 13:15:14 GMT",
-    "source": "BBC News",
-    "id": "0f387982fd4de288724c83853a055712",
-    "fetched_at": "2026-06-24T17:49:00.562966+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-    "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 14:57:21 GMT",
-    "source": "BBC News",
-    "id": "8c1b26cac5512d52286695b8f8dfb8a1",
-    "fetched_at": "2026-06-24T17:48:59.437437+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New York's Democratic primaries show Mamdani's win was no fluke",
-    "summary": "Candidates backed by the New York mayor won a clean-sweep, exposing a political divide within the Democratic party.",
-    "link": "https://www.bbc.co.uk/news/articles/cly818y4v22o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 17:40:51 GMT",
-    "source": "BBC News",
-    "id": "95671faa40f9ed39eabaf241eefc5993",
-    "fetched_at": "2026-06-24T17:48:58.300635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
-    "summary": "Congress earlier approved the legislation in a rare, bipartisan move, signalling how pressing the housing issue has become for American voters.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 17:35:43 GMT",
-    "source": "BBC News",
-    "id": "e54b83166b44f61ac1497dfe7d7a99c0",
-    "fetched_at": "2026-06-24T17:48:57.149300+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-    "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 12:32:00 GMT",
-    "source": "BBC News",
-    "id": "cbc499d4b1993c5dc80daaf5b03e6e51",
-    "fetched_at": "2026-06-24T14:12:07.973762+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Air conditioning creates political divide as France records hottest day",
-    "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 13:51:24 GMT",
-    "source": "BBC News",
-    "id": "1e07fd5109c61346d1e35bd8496364bb",
-    "fetched_at": "2026-06-24T14:12:07.973760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "IAEA chief says inspections of Iran's nuclear sites 'going to happen'",
-    "summary": "IAEA's Grossi pushed back against Tehran's claim that no agreement has been reached to allow inspectors to inspect bombed enrichment sites, citing the signed US-Iran framework deal.",
-    "link": "http://www.euronews.com/2026/06/24/iaea-chief-says-nuclear-inspections-of-irans-enrichment-sites-going-to-happen-despite-tehr",
-    "published": "Wed, 24 Jun 2026 09:12:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e36a51508b04686f1affbe1cf78e68c4",
-    "fetched_at": "2026-06-24T14:12:07.973756+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Giesinger celebrates Munich beer culture, pushes for Oktoberfest place",
-    "summary": "Munich Brewers’ Day 2026 brings processions, ceremony and beer celebrations to Marienplatz and Viktualienmarkt, honouring the city’s brewing guild tradition.",
-    "link": "http://www.euronews.com/video/2026/06/24/giesinger-celebrates-munich-beer-culture-pushes-for-oktoberfest-place",
-    "published": "Wed, 24 Jun 2026 13:21:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8097c4fd78104521c9e14d96cd59d370",
-    "fetched_at": "2026-06-24T14:12:07.973754+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Evo Morales warns of civil war from Chapare stronghold: 'I will not surrender'",
-    "summary": "Evo Morales speaks out from hiding in the Chapare jungle as Bolivia enters its seventh week of fuel, food and medicine shortages.",
-    "link": "http://www.euronews.com/2026/06/24/evo-morales-warns-of-civil-war-from-chapare-stronghold-i-will-not-surrender",
-    "published": "Wed, 24 Jun 2026 14:45:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1530527bb62613bfa7b9ba93adefba1b",
-    "fetched_at": "2026-06-24T14:12:07.973750+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tehran labels framework deal 'US defeat' as Trump threatens to halt talks",
-    "summary": "Iranian key negotiator hailed the US–Iran framework deal as a “declaration of US defeat,” while Trump warned that talks would end immediately if reports that Tehran is seeking to impose tolls on ships transiting the Strait of Hormuz prove to be true.",
-    "link": "http://www.euronews.com/2026/06/24/tehran-labels-framework-deal-us-defeat-as-trump-threatens-to-halt-talks",
-    "published": "Wed, 24 Jun 2026 15:56:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "eb8638b07a2b72b336375a9dbb5ab306",
-    "fetched_at": "2026-06-24T14:12:07.973725+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
-    "summary": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 23 Jun 2026 14:19:21 GMT",
-    "source": "BBC News",
-    "id": "caf4ad364a11f2f48103c5568bdc52ac",
-    "fetched_at": "2026-06-24T14:12:06.868763+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
-    "summary": "The U.S. military announced a lethal strike on a vessel in the Caribbean allegedly carrying narco-traffickers, killing two people and leaving six survivors.",
-    "link": "https://www.foxnews.com/world/us-military-caribbean-drug-boat-strike",
-    "published": "Mon, 22 Jun 2026 03:19:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "037eff3134de1894913dd6c17335f6b5",
-    "fetched_at": "2026-06-24T14:12:05.765371+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
-    "summary": "British PM Keir Starmer announced his resignation after Labour&apos;s devastating local election losses and a mounting revolt from within his own party ranks.",
-    "link": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses",
-    "published": "Mon, 22 Jun 2026 04:44:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6fcfcd0864e305fd402d012d0000ff14",
-    "fetched_at": "2026-06-24T14:12:04.660799+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
-    "summary": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a challenge over voting irregularities.",
-    "link": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
-    "published": "Mon, 22 Jun 2026 20:42:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b4150f8ffaa50b84aa737e49e3290248",
-    "fetched_at": "2026-06-24T14:12:03.553543+00:00"
   }
 ]
