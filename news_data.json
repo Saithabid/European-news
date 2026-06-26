@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+    "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+    "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 21:15:37 GMT",
+    "source": "BBC News",
+    "id": "09b97a8ac69a606e1a5c980b1ee2a715",
+    "fetched_at": "2026-06-26T23:00:21.897734+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Frozen feasts and cool pools help Rome zoo animals survive heatwave",
+    "summary": "As a severe heatwave grips Italy, Rome's Bioparco is helping its animals stay cool with frozen treats, chilled pools and climate-controlled shelters while the capital remains under a red heat alert.",
+    "link": "http://www.euronews.com/video/2026/06/26/frozen-feasts-and-cool-pools-help-rome-zoo-animals-survive-heatwave",
+    "published": "Fri, 26 Jun 2026 23:34:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "11366eb2e1194b1ba0b634cb1c9fe56b",
+    "fetched_at": "2026-06-26T23:00:21.897732+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+    "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 21 Jun 2026 23:57:59 GMT",
+    "source": "BBC News",
+    "id": "bf52fe51d71c5f21bac19f469425273c",
+    "fetched_at": "2026-06-26T23:00:21.897728+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
+    "summary": "Ukraine's Volodmyr Zelensky skips major conference aimed at rebuilding his country after being stripped of a Polish state honour.",
+    "link": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 12:25:14 GMT",
+    "source": "BBC News",
+    "id": "26db1d1f379a79711a5fd206846d4768",
+    "fetched_at": "2026-06-26T23:00:21.897701+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cops drop murder probe after coroner rules man’s bloody stabbing death was freak accident",
+    "summary": "British man Robert Brown, 57, was presumed to have been murdered after being found blood-soaked in England, but a coroner ruled he passed out drunk on a knife in his bag.",
+    "link": "https://www.foxnews.com/world/cops-drop-murder-probe-after-coroner-rules-mans-bloody-stabbing-death-freak-accident",
+    "published": "Fri, 26 Jun 2026 17:04:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8abf1b5539fbd18c2a709d3485bfb962",
+    "fetched_at": "2026-06-26T23:00:20.727631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera",
+    "summary": "Tense video shows a woman stalked by a large bear while walking her dog in a wooded area in Canada, charging and circling her for nearly two minutes.",
+    "link": "https://www.foxnews.com/world/woman-stalked-charging-bear-morning-dog-walk-captures-terrifying-encounter-camera",
+    "published": "Fri, 26 Jun 2026 18:08:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f53d8a5c952e388defb78cf9611ddce6",
+    "fetched_at": "2026-06-26T23:00:19.568537+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio announces framework deal between Israel and Lebanon as experts warn Iran will fight to sabotage it",
+    "summary": "Secretary of State Rubio and PM Netanyahu welcome U.S.-brokered framework agreement between Israel and Lebanon as a step toward lasting peace.",
+    "link": "https://www.foxnews.com/world/rubio-announces-framework-deal-between-israel-lebanon-experts-warn-iran-fight-sabotage",
+    "published": "Fri, 26 Jun 2026 18:13:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "766c3ee153831b61ba300ca3a61de576",
+    "fetched_at": "2026-06-26T23:00:18.230993+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Video shows gaping hole after small plane crashes into towering skyscraper",
+    "summary": "A small aircraft crashed into Beijing&apos;s tallest skyscraper, the 108-story CITIC Tower, prompting an information blackout from Chinese authorities.",
+    "link": "https://www.foxnews.com/world/video-shows-gaping-hole-small-plane-crashes-towering-skyscraper",
+    "published": "Fri, 26 Jun 2026 18:34:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2d8e0b98fbe55813d4e3e158586182c1",
+    "fetched_at": "2026-06-26T23:00:17.045384+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Native Americans mark 150th anniversary of Little Bighorn victory",
+    "summary": "The June 1876 battle saw Indigenous warriors unite to defeat US Lt Col George Armstrong Custer and more than 200 of his soldiers.",
+    "link": "https://www.bbc.co.uk/news/videos/c23yek4g28lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 21:25:32 GMT",
+    "source": "BBC News",
+    "id": "bdf71412f9e3ec11c707f638d467e793",
+    "fetched_at": "2026-06-26T23:00:15.881369+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bible stories become required reading for Texas schools",
+    "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 21:38:56 GMT",
+    "source": "BBC News",
+    "id": "71ddfafc4ad0333718a17387d4902cc0",
+    "fetched_at": "2026-06-26T23:00:14.708527+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pete Buttigieg briefly separated from children after false police report",
+    "summary": "Pete Buttigieg says the day separated from his children was \"among the darkest hours of my life\".",
+    "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 21:24:13 GMT",
+    "source": "BBC News",
+    "id": "f6075b0f895a6b888ee057975dc46ae6",
+    "fetched_at": "2026-06-26T23:00:13.555278+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
     "summary": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
     "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "163118256c7001df8b6986d6e664500c",
     "fetched_at": "2026-06-26T14:08:47.900821+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-    "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 10:38:37 GMT",
-    "source": "BBC News",
-    "id": "d0d25553975a367668f0bf8aaad3e0a7",
-    "fetched_at": "2026-06-26T14:08:47.900818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Christmas market attacker jailed for life for murdering six in Germany",
-    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 10:49:11 GMT",
-    "source": "BBC News",
-    "id": "52d4dda2a8d68e3cca1f4f7df3b54b83",
-    "fetched_at": "2026-06-26T14:08:47.900814+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Death toll from Venezuela earthquakes rises to at least 589, with thousands reported missing",
-    "summary": "Venezuela earthquake death toll rises to 589 with over 2,980 injured as U.S. Marine Corps Maj. Gen. Jarrard arrives in Caracas to coordinate relief.",
-    "link": "https://www.foxnews.com/world/death-toll-venezuela-earthquakes-rises-least-235-thousands-reported-missing",
-    "published": "Fri, 26 Jun 2026 08:23:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "42e5ea75b929b01e4f53bf1eae8b43ce",
-    "fetched_at": "2026-06-26T14:08:47.900786+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
-    "summary": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
-    "published": "Fri, 26 Jun 2026 07:22:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "ce4ec766d1c33e4d05f204c73bb0c76a",
-    "fetched_at": "2026-06-26T14:08:46.772491+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-    "summary": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-    "published": "Fri, 26 Jun 2026 09:03:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "496aad3841243fd4982ceb8ff3ef7460",
-    "fetched_at": "2026-06-26T14:08:45.651305+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australia plans to strengthen laws banning children from social media",
-    "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
-    "published": "Fri, 26 Jun 2026 09:09:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee6afd911b43d190e9972d16a2b35454",
-    "fetched_at": "2026-06-26T14:08:44.529398+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Prosecutors drop outstanding rape case against Harvey Weinstein",
-    "summary": "The case had already been tried three times, and accuser Jessica Mann said she does not wish to go through with a fourth trial.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmdxjlmryzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 16:25:15 GMT",
-    "source": "BBC News",
-    "id": "e3c63afc0391a7e77f9b5ff26184aa4c",
-    "fetched_at": "2026-06-26T14:08:43.405382+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-    "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 02:18:04 GMT",
-    "source": "BBC News",
-    "id": "1b44ae918212705f45252d02c960bf75",
-    "fetched_at": "2026-06-26T14:08:42.268882+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why the trail went cold in Nancy Guthrie case",
-    "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity.",
-    "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 23:12:22 GMT",
-    "source": "BBC News",
-    "id": "9d914328b0cf5fcb43feb38973bf5317",
-    "fetched_at": "2026-06-26T14:08:41.141509+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
-    "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 11:20:11 GMT",
-    "source": "BBC News",
-    "id": "be025087e6302ac5bdee0d46008f6bad",
-    "fetched_at": "2026-06-26T14:08:39.993138+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Row over alleged theft of donations from India's landmark Ram temple",
-    "summary": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-    "link": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 01:02:36 GMT",
-    "source": "BBC News",
-    "id": "6a450e70646f401300c3dacb1bc270e4",
-    "fetched_at": "2026-06-26T10:45:47.592188+00:00"
   }
 ]
