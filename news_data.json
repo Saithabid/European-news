@@ -1,5 +1,45 @@
 [
   {
+    "region": "Europe",
+    "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+    "summary": "Nearly 1,500 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+    "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 02:04:11 GMT",
+    "source": "BBC News",
+    "id": "451bb4dfafd72898750f2e9c5a05694c",
+    "fetched_at": "2026-06-26T02:40:42.212696+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
+    "summary": "Israel&apos;s U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
+    "link": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
+    "published": "Thu, 25 Jun 2026 06:13:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1a685dda968807859ce69ebbe076944d",
+    "fetched_at": "2026-06-26T02:40:41.048929+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How is Moscow dealing with Ukraine's stepped-up drone attacks?",
+    "summary": "The view from Moscow as Russia and Russian-occupied territory contend with stepped-up Ukrainian attacks.",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869503/how-is-moscow-dealing-with-ukraines-stepped-up-drone-attacks",
+    "published": "Thu, 25 Jun 2026 04:44:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "d573f04dcbfd96203842ee343a9c12e0",
+    "fetched_at": "2026-06-26T02:40:39.886065+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
+    "summary": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
+    "published": "Thu, 25 Jun 2026 04:44:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "c8766bf2ae21518d51eb8498e4f65579",
+    "fetched_at": "2026-06-26T02:40:38.728803+00:00"
+  },
+  {
     "region": "USA",
     "title": "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa",
     "summary": "Foreign-owned businesses have been attacked, migrants driven from their homes, and several killed. A leading xenophobic group has given all undocumented immigrants until June 30 to leave the country.",
@@ -558,45 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "5a408905cd6af3597273e5df18390d1b",
     "fetched_at": "2026-06-25T10:36:22.232131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two years after Gen Z uprising, Kenyan protesters return to Nairobi streets",
-    "summary": "Two years after Kenya's 2024 Gen Z tax revolt shook the nation, protesters gathered in Nairobi on 25 June to seek justice for victims and press for greater government accountability.",
-    "link": "http://www.euronews.com/video/2026/06/25/two-years-after-gen-z-uprising-kenyan-protesters-return-to-nairobi-streets",
-    "published": "Thu, 25 Jun 2026 11:57:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c88be6295af35fdfcfdd311d41650bb4",
-    "fetched_at": "2026-06-25T10:36:22.232129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 25th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-midday",
-    "published": "Thu, 25 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cbeaaf61cee84d2d4d66898ccd0e73a6",
-    "fetched_at": "2026-06-25T10:36:22.232127+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Air conditioning creates political divide after France records hottest day",
-    "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 13:51:24 GMT",
-    "source": "BBC News",
-    "id": "1e07fd5109c61346d1e35bd8496364bb",
-    "fetched_at": "2026-06-25T10:36:22.232125+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Colombia's 'El Tigre' will be a 'great president' as socialist opponent launches legal challenge",
-    "summary": "Trump congratulated de la Espriella on his apparent Colombia election win. With 99.9% counted, he leads 49.7% to 48.7%, but rival Cepeda has launched a challenge over voting irregularities.",
-    "link": "https://www.foxnews.com/world/trump-says-colombias-el-tigre-great-president-socialist-opponent-launches-legal-challenge",
-    "published": "Mon, 22 Jun 2026 20:42:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b4150f8ffaa50b84aa737e49e3290248",
-    "fetched_at": "2026-06-25T10:36:22.232122+00:00"
   }
 ]
