@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+    "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+    "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+    "source": "BBC News",
+    "id": "8228eb39357688626c46386bb2b6d73b",
+    "fetched_at": "2026-06-27T15:10:33.664753+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations",
+    "summary": "\"We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again,\" the company said on Friday.",
+    "link": "http://www.euronews.com/2026/06/27/anthropic-cleared-to-restore-mythos-5-access-to-certain-us-organisations",
+    "published": "Sat, 27 Jun 2026 15:16:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6befd5871ddedbdb187f88bf16475d2a",
+    "fetched_at": "2026-06-27T15:10:33.664725+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "2026 FIFA World Cup: Which third-place teams will reach the knockout stage?",
+    "summary": "The eight best third-place sides are determined first by points and then by goal difference, with the final standings to be decided on Saturday night.",
+    "link": "http://www.euronews.com/2026/06/27/2026-fifa-world-cup-which-third-place-teams-will-reach-the-knockout-stage",
+    "published": "Sat, 27 Jun 2026 16:01:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "634c2193ca15d4ab0eeddbf8dca31e3e",
+    "fetched_at": "2026-06-27T15:10:32.511162+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France confirms first Ebola case",
+    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
+    "source": "BBC News",
+    "id": "2bedf801c2ba07927d6c8862322906f1",
+    "fetched_at": "2026-06-27T15:10:31.358998+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burkina Faso severs diplomatic ties with France",
+    "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 14:21:31 GMT",
+    "source": "BBC News",
+    "id": "2f0d962663b6a190c63da57d13e8004b",
+    "fetched_at": "2026-06-27T15:10:30.196234+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 18:50:12 GMT",
+    "source": "BBC News",
+    "id": "36f833729b7e699a7f8ad69e8d610025",
+    "fetched_at": "2026-06-27T15:10:29.033209+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe's deadly heatwave breaks German record and halts public events",
+    "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 18:14:36 GMT",
+    "source": "BBC News",
+    "id": "076f85e001935ef4b8ac871835287498",
+    "fetched_at": "2026-06-27T15:10:27.901019+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
+    "summary": "Israel&apos;s U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
+    "link": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
+    "published": "Thu, 25 Jun 2026 06:13:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1a685dda968807859ce69ebbe076944d",
+    "fetched_at": "2026-06-27T15:10:26.731617+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+    "summary": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
+    "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
+    "published": "Sat, 27 Jun 2026 09:45:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "8d0372e444562fe38fb0a4fb85a39df5",
+    "fetched_at": "2026-06-27T15:10:25.557296+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Venezuela earthquakes: striking satellite images before and after",
     "summary": "Venezuela was hit by two earthquakes last Thursday, with the La Guaira area particularly hard hit. Here is a series of before-and-after images showing the scale of the disaster.",
     "link": "http://www.euronews.com/2026/06/27/venezuela-earthquakes-striking-satellite-images-before-and-after",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "8c2d0d690d90689e5b5f6e11331c0749",
     "fetched_at": "2026-06-26T21:13:50.548684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Artist bids goodbye to Danish postal system",
-    "summary": "An artist has made items from letters sent just before Denmark's letter post service ended.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d270dpmd6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 05:13:43 GMT",
-    "source": "BBC News",
-    "id": "ae7a359f150b855a0925ff53e13f1944",
-    "fetched_at": "2026-06-26T21:13:49.387922+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. pledges generous earthquake relief to Venezuela",
-    "summary": "Following the earthquakes in Venezuela, the Trump administration announced what appears to be its strongest disaster response since it dismantled America's premier aid agency USAID last year.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5872204/u-s-pledges-generous-earthquake-relief-to-venezuela",
-    "published": "Fri, 26 Jun 2026 16:49:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "b968e7ff15e18e10f00ac24ceb30d721",
-    "fetched_at": "2026-06-26T21:13:48.212890+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-    "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 06:16:01 GMT",
-    "source": "BBC News",
-    "id": "cb9b1573de330a73506d5c9a8f98feae",
-    "fetched_at": "2026-06-26T21:13:47.049030+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US conducts strikes on Iran after attack on cargo ship",
-    "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:05:16 GMT",
-    "source": "BBC News",
-    "id": "2cdce3d9a078bdd59d1d7c47167f4faa",
-    "fetched_at": "2026-06-26T21:13:45.890938+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-    "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 18:03:32 GMT",
-    "source": "BBC News",
-    "id": "41afd7ed6d9237e1e30f96632b155d45",
-    "fetched_at": "2026-06-26T19:38:59.934323+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel declassifies Entebbe raid documents on eve of 50th anniversary",
-    "summary": "Secret documents reveal Israeli officials privately weighed negotiations before ordering the daring 1976 Uganda hostage rescue operation.",
-    "link": "http://www.euronews.com/2026/06/26/israel-declassifies-entebbe-raid-documents-on-eve-of-50th-anniversary",
-    "published": "Fri, 26 Jun 2026 19:49:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "793348a8f2dd78feea4f762ddac1aa4f",
-    "fetched_at": "2026-06-26T19:38:59.934320+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
-    "summary": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
-    "link": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
-    "published": "Fri, 26 Jun 2026 20:58:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a731ac1e0f994cf3904a2506b3ce9eca",
-    "fetched_at": "2026-06-26T19:38:59.934318+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Biggest city in Crimea without power after Ukraine strikes",
-    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
-    "source": "BBC News",
-    "id": "bdfab579cd2939c6bc7255f83780238d",
-    "fetched_at": "2026-06-26T19:38:59.934315+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crime boss Steven Lyons arrives in Spain after extradition",
-    "summary": "One of Scotland's leading gangland figures has arrived in Spain after losing a bid against his extradition on a series of charges related to organised crime.",
-    "link": "https://www.bbc.co.uk/news/articles/c0jyq3990jeo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 20:22:08 GMT",
-    "source": "BBC News",
-    "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
-    "fetched_at": "2026-06-26T19:38:59.934312+00:00"
   }
 ]
