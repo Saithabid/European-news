@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+    "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+    "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 23:01:50 GMT",
+    "source": "BBC News",
+    "id": "363d900207176faa11c8e062aa9d74a3",
+    "fetched_at": "2026-06-27T02:33:04.346204+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+    "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 10:38:37 GMT",
+    "source": "BBC News",
+    "id": "d0d25553975a367668f0bf8aaad3e0a7",
+    "fetched_at": "2026-06-27T02:33:04.346201+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Christmas market attacker jailed for life for murdering six in Germany",
+    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 10:49:11 GMT",
+    "source": "BBC News",
+    "id": "52d4dda2a8d68e3cca1f4f7df3b54b83",
+    "fetched_at": "2026-06-27T02:33:04.346172+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from Venezuela earthquakes rises to at least 589, with thousands reported missing",
+    "summary": "Venezuela earthquake death toll rises to 589 with over 2,980 injured as U.S. Marine Corps Maj. Gen. Jarrard arrives in Caracas to coordinate relief.",
+    "link": "https://www.foxnews.com/world/death-toll-venezuela-earthquakes-rises-least-235-thousands-reported-missing",
+    "published": "Fri, 26 Jun 2026 08:23:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "42e5ea75b929b01e4f53bf1eae8b43ce",
+    "fetched_at": "2026-06-27T02:33:03.103850+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+    "summary": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
+    "published": "Fri, 26 Jun 2026 07:22:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "ce4ec766d1c33e4d05f204c73bb0c76a",
+    "fetched_at": "2026-06-27T02:33:01.948204+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
+    "summary": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
+    "published": "Fri, 26 Jun 2026 09:03:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "496aad3841243fd4982ceb8ff3ef7460",
+    "fetched_at": "2026-06-27T02:33:00.817477+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australia plans to strengthen laws banning children from social media",
+    "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
+    "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
+    "published": "Fri, 26 Jun 2026 09:09:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "ee6afd911b43d190e9972d16a2b35454",
+    "fetched_at": "2026-06-27T02:32:59.561188+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "It's not just Cape Verde: African soccer is having a World Cup moment",
+    "summary": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, teams from Africa have been relentless.",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
+    "published": "Fri, 26 Jun 2026 16:49:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "b686bc13948c7b059e7b44fcd4d3618c",
+    "fetched_at": "2026-06-27T02:32:58.413530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why the trail went cold in Nancy Guthrie case",
+    "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity.",
+    "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 23:12:22 GMT",
+    "source": "BBC News",
+    "id": "9d914328b0cf5fcb43feb38973bf5317",
+    "fetched_at": "2026-06-27T02:32:57.263183+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
+    "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 11:20:11 GMT",
+    "source": "BBC News",
+    "id": "be025087e6302ac5bdee0d46008f6bad",
+    "fetched_at": "2026-06-27T02:32:56.113315+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Venezuela earthquakes kill 920 people as families desperate for news",
     "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
     "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "41a5eb5d3b1155a1cfa2497c00b9d14a",
     "fetched_at": "2026-06-26T17:42:07.420890+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada's vacant and crumbling official residence gets a lifeline",
-    "summary": "Mark Carney has announced a fundraiser and design competition to renovate 24 Sussex, the official home of Canadian prime ministers that has stood empty after years of disrepair.",
-    "link": "https://www.bbc.co.uk/news/articles/c1ey3xpdl2po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 15:53:23 GMT",
-    "source": "BBC News",
-    "id": "5b22273ed5d92f51bedd6738246fcd66",
-    "fetched_at": "2026-06-26T17:42:06.287785+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge declares mistrial in California wildfire arson case",
-    "summary": "Jonathan Rinderknecht is accused of deliberately lighting a blaze in 2025 that  killed 12 people and destroyed more than 6,000 buildings.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2w0k5zzryo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 17:32:03 GMT",
-    "source": "BBC News",
-    "id": "85f30f7dd909399fa5877357f87f14c0",
-    "fetched_at": "2026-06-26T17:42:05.152487+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-    "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 16:45:21 GMT",
-    "source": "BBC News",
-    "id": "1adf787c1375962b0b11927d501c60f7",
-    "fetched_at": "2026-06-26T17:42:04.009532+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-    "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 12:54:18 GMT",
-    "source": "BBC News",
-    "id": "096dcdfb2bbeb28fc3cd48ab23172499",
-    "fetched_at": "2026-06-26T14:08:47.900837+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Canada eligible to join Eurovision competition",
-    "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-    "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 13:41:36 GMT",
-    "source": "BBC News",
-    "id": "760576b4aaa4135bedc416d6e03dcac0",
-    "fetched_at": "2026-06-26T14:08:47.900835+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aerial footage reveals destruction in coastal Venezuela",
-    "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
-    "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 05:13:22 GMT",
-    "source": "BBC News",
-    "id": "4f05b9c4e14bdc263682ee1d7f73bea2",
-    "fetched_at": "2026-06-26T14:08:47.900832+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-    "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 02:12:07 GMT",
-    "source": "BBC News",
-    "id": "52f67da55b1f45a36816a90fb895c1b5",
-    "fetched_at": "2026-06-26T14:08:47.900829+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lebanon: thousands mark Ashoura in Nabatieh amid rubble left by Israeli strikes",
-    "summary": "Thousands of Shiite Muslims marked Ashoura in Nabatieh on 26 June, holding processions through neighbourhoods devastated by recent Israeli airstrikes in a powerful display of resilience.",
-    "link": "http://www.euronews.com/video/2026/06/26/lebanon-thousands-mark-ashoura-in-nabatieh-amid-rubble-left-by-israeli-strikes",
-    "published": "Fri, 26 Jun 2026 14:47:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5e837a7d4e1b468a5cd0b99c765a0866",
-    "fetched_at": "2026-06-26T14:08:47.900827+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: South Korea holds first live-fire drill against drone swarms",
-    "summary": "South Korea's air force carried out its first live-fire exercise against a simulated swarm drone attack. Military forces used Vulcan air-defense guns, a portable laser and shotguns to intercept all 50 drones during the drill.",
-    "link": "http://www.euronews.com/2026/06/26/watch-south-korea-holds-first-live-fire-drill-against-drone-swarms",
-    "published": "Fri, 26 Jun 2026 15:30:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b9dea3786ac1699484250c89d2fc0307",
-    "fetched_at": "2026-06-26T14:08:47.900824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Von der Leyen to visit Azerbaijan and Armenia to build on EU engagement",
-    "summary": "The European Commission president will visit Baku and Yerevan to build on the EU’s strategic engagement with the South Caucasus and to strengthen energy cooperation, trade and regional connectivity for the EU economies.",
-    "link": "http://www.euronews.com/2026/06/26/von-der-leyen-to-visit-azerbaijan-and-armenia-to-build-on-eu-engagement",
-    "published": "Fri, 26 Jun 2026 15:31:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "163118256c7001df8b6986d6e664500c",
-    "fetched_at": "2026-06-26T14:08:47.900821+00:00"
   }
 ]
