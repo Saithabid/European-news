@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Venezuela earthquakes: striking satellite images before and after",
+    "summary": "Venezuela was hit by two earthquakes last Thursday, with the La Guaira area particularly hard hit. Here is a series of before-and-after images showing the scale of the disaster.",
+    "link": "http://www.euronews.com/2026/06/27/venezuela-earthquakes-striking-satellite-images-before-and-after",
+    "published": "Sat, 27 Jun 2026 11:37:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "432e552fd7a93d43624d9aa607138c35",
+    "fetched_at": "2026-06-27T13:17:16.110866+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Woman rescued after car plunges into flooded sinkhole",
+    "summary": "A police officer rescued a woman after her car fell into a sinkhole caused by a burst water main in Virginia, US. Bodycam footage shows bystanders helping steady the officer as he pulled the driver to safety.",
+    "link": "http://www.euronews.com/video/2026/06/27/woman-rescued-after-car-plunges-into-flooded-sinkhole",
+    "published": "Sat, 27 Jun 2026 13:39:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "823eb4ac3aa9003d67f3bd235f727566",
+    "fetched_at": "2026-06-27T13:17:14.946478+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "$600 million worth of heroin, meth and other seized drugs set on fire in Burma",
+    "summary": "Burma destroyed over 50 tons of narcotics worth $600 million to mark the United Nations&apos; International Day Against Drug Abuse and Illicit Trafficking.",
+    "link": "https://www.foxnews.com/world/600-million-heroin-meth-seized-drugs-fire-burma",
+    "published": "Fri, 26 Jun 2026 14:19:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f825c98a8c6bd14a901b3191cb9b1b0e",
+    "fetched_at": "2026-06-27T13:17:13.762954+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
+    "summary": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
+    "link": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
+    "published": "Fri, 26 Jun 2026 14:24:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "07cbb9c8749a91f9d1b2914cc827e345",
+    "fetched_at": "2026-06-27T13:17:12.589520+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelan earthquake death toll hits at least 920 as US rescuers race against critical survival window",
+    "summary": "Venezuela was hit with 7.2 and 7.5 magnitude earthquakes on Wednesday, and in the aftermath, aid agencies are still trying to find people who are trapped.",
+    "link": "https://www.foxnews.com/world/venezuelan-earthquake-death-toll-hits-least-920-us-rescuers-race-against-critical-survival-window",
+    "published": "Sat, 27 Jun 2026 08:11:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "17ade37d8be724a2fe26aad523f217bd",
+    "fetched_at": "2026-06-27T13:17:11.411123+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
+    "summary": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power",
+    "published": "Sat, 27 Jun 2026 07:40:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "e23f9b03f3a197dd5684f87cbf8cd607",
+    "fetched_at": "2026-06-27T13:17:10.233120+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mother dies saving daughter in Venezuela earthquakes",
     "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
     "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "BBC News",
     "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
     "fetched_at": "2026-06-26T19:38:59.934312+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France confirms first Ebola case",
-    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
-    "source": "BBC News",
-    "id": "2bedf801c2ba07927d6c8862322906f1",
-    "fetched_at": "2026-06-26T19:38:59.934308+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 18:50:12 GMT",
-    "source": "BBC News",
-    "id": "36f833729b7e699a7f8ad69e8d610025",
-    "fetched_at": "2026-06-26T19:38:59.934304+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe's deadly heatwave breaks German record and halts public events",
-    "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 18:14:36 GMT",
-    "source": "BBC News",
-    "id": "076f85e001935ef4b8ac871835287498",
-    "fetched_at": "2026-06-26T19:38:59.934275+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shark attack survivor wakes from 10-day coma and shares first words with family at her hospital bedside",
-    "summary": "Leah Stewart awoke from an induced coma after a shark attack at Coogee Beach in Sydney, sharing her first words &apos;I love you&apos; with her family.",
-    "link": "https://www.foxnews.com/world/shark-attack-survivor-wakes-10-day-coma-shares-first-words-family-hospital-bedside",
-    "published": "Wed, 24 Jun 2026 20:11:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ff77cdfe6f81518c16c0bfbd580fb942",
-    "fetched_at": "2026-06-26T19:38:58.807711+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Venezuela earthquakes left 'devastating number of deaths' as US readies aid",
-    "summary": "Trump says two massive earthquakes in Venezuela caused a devastating number of deaths and instructs U.S. agencies to prepare to assist quickly.",
-    "link": "https://www.foxnews.com/world/trump-venezuela-earthquakes-us-aid",
-    "published": "Thu, 25 Jun 2026 01:38:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b961cc8f59838d0fcb3f0e2cef0b3077",
-    "fetched_at": "2026-06-26T19:38:57.691204+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
-    "summary": "Israel&apos;s U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
-    "link": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
-    "published": "Thu, 25 Jun 2026 06:13:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1a685dda968807859ce69ebbe076944d",
-    "fetched_at": "2026-06-26T19:38:56.570989+00:00"
   }
 ]
