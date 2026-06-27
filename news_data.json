@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | June 27th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-morning",
+    "published": "Sat, 27 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fbb865d6b8e9572830c8517e2be06969",
+    "fetched_at": "2026-06-27T06:47:57.529354+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US launches strikes against Iran following drone attack on cargo ship",
+    "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
+    "link": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
+    "published": "Sat, 27 Jun 2026 07:38:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d3ec6a90b7af35aab1f63ea8795e0d2f",
+    "fetched_at": "2026-06-27T06:47:56.370938+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Belgium through to World Cup knockout stage as Iran forced to wait",
+    "summary": "Iran now face an anxious wait to see if they'll progress to the round of 32 after their final group game finished 1-1 against Egypt.",
+    "link": "http://www.euronews.com/2026/06/27/belgium-through-to-world-cup-knockout-stage-as-iran-forced-to-wait",
+    "published": "Sat, 27 Jun 2026 08:14:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "490ff74c11a0e731cb19619797002803",
+    "fetched_at": "2026-06-27T06:47:55.211062+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. strikes Iran in response to a drone attack on a ship",
+    "summary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+    "published": "Sat, 27 Jun 2026 00:12:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "dfb7647e7569ac50467880bb8287714c",
+    "fetched_at": "2026-06-27T06:47:54.051620+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada's vacant and crumbling official residence gets a lifeline",
+    "summary": "Mark Carney has announced a fundraiser and design competition to renovate 24 Sussex, the official home of Canadian prime ministers that has stood empty after years of disrepair.",
+    "link": "https://www.bbc.co.uk/news/articles/c1ey3xpdl2po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 15:53:23 GMT",
+    "source": "BBC News",
+    "id": "5b22273ed5d92f51bedd6738246fcd66",
+    "fetched_at": "2026-06-27T06:47:52.896642+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge declares mistrial in case against man accused of sparking deadly California fire",
+    "summary": "Jonathan Rinderknecht is accused of deliberately lighting a blaze in 2025 that  killed 12 people and destroyed more than 6,000 buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2w0k5zzryo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 18:39:42 GMT",
+    "source": "BBC News",
+    "id": "85f30f7dd909399fa5877357f87f14c0",
+    "fetched_at": "2026-06-27T06:47:51.740663+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+    "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 02:57:20 GMT",
+    "source": "BBC News",
+    "id": "1adf787c1375962b0b11927d501c60f7",
+    "fetched_at": "2026-06-27T06:47:50.214316+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+    "summary": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+    "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 03:07:46 GMT",
+    "source": "BBC News",
+    "id": "62750e538c06e154e46256a677e5b753",
+    "fetched_at": "2026-06-27T06:47:49.051241+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
     "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
     "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "6d81de84dc1790a3535c120642d8f97e",
     "fetched_at": "2026-06-26T17:42:11.979226+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia's 'El Tigre' secures presidency as leftist rival finally concedes defeat",
-    "summary": "After initially challenging the results, Colombia&apos;s leftist candidate conceded a razor-thin loss to conservative outsider Abelardo de la Espriella.",
-    "link": "https://www.foxnews.com/world/colombias-el-tigre-secures-presidency-leftist-rival-finally-concedes-defeat",
-    "published": "Wed, 24 Jun 2026 16:44:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e24dbd7ba05ad4d2ac552574236e111a",
-    "fetched_at": "2026-06-26T17:42:11.979223+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran nuclear deal hinges on IAEA access to long-blocked atomic weapon sites, experts say",
-    "summary": "Iran&apos;s Foreign Ministry denies inviting IAEA inspectors while Trump claims Tehran agreed to highest level nuclear inspections, creating uncertainty.",
-    "link": "https://www.foxnews.com/world/iran-nuclear-deal-hinges-iaea-access-long-blocked-atomic-weapon-sites-experts-say",
-    "published": "Fri, 26 Jun 2026 11:30:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c9f275b72a7f52ef6f7b1757f7be39bd",
-    "fetched_at": "2026-06-26T17:42:11.979220+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Aid worker says hundreds remain trapped after Venezuela earthquakes",
-    "summary": "After earthquakes shattered much of the capital in Venezuela, Project Hope's Cesar Jimenez says rescue crews are racing to save hundreds trapped as international aid arrives and hospitals struggle to cope.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5870683/venezuela-earthquakes-rescue-efforts",
-    "published": "Fri, 26 Jun 2026 06:56:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "fb92bbdb0c31df2a0ab8ffdce6b3218e",
-    "fetched_at": "2026-06-26T17:42:11.979217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Plane crashes into Beijing's tallest building; damage reported",
-    "summary": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.<br />",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-    "published": "Fri, 26 Jun 2026 11:05:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "57ff44c51cf2d1dcda8a4c6e2708089f",
-    "fetched_at": "2026-06-26T17:42:11.979187+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-    "summary": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-    "published": "Fri, 26 Jun 2026 11:08:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "12f504a1b1d4572cb539ba228ac700fe",
-    "fetched_at": "2026-06-26T17:42:10.849167+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
-    "summary": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
-    "published": "Fri, 26 Jun 2026 11:45:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "076e62f2958d367b9eaa51c05c7db10f",
-    "fetched_at": "2026-06-26T17:42:09.713013+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It increases my pride' - Great American State Fair kicks off in Washington",
-    "summary": "The 16-day event features attractions from all 50 states and is part of the country's 250th celebration.",
-    "link": "https://www.bbc.co.uk/news/videos/cddlrrvqm3ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 23:08:05 GMT",
-    "source": "BBC News",
-    "id": "771f5a60b6e2db4bcbf1ffc892cc6ecb",
-    "fetched_at": "2026-06-26T17:42:08.566392+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Most Venezuelan city in the US rallies to help after quakes",
-    "summary": "In Doral, where more than 40% of residents are of Venezuelan origin, the community has come together to send aid to the country after it was hit by earthquakes.",
-    "link": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 08:38:50 GMT",
-    "source": "BBC News",
-    "id": "41a5eb5d3b1155a1cfa2497c00b9d14a",
-    "fetched_at": "2026-06-26T17:42:07.420890+00:00"
   }
 ]
