@@ -1,5 +1,85 @@
 [
   {
+    "region": "Europe",
+    "title": "Trump's face is added to select US passports for America's 250th birthday",
+    "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+    "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:03:26 GMT",
+    "source": "BBC News",
+    "id": "826c172ea4d355b1c12c8920154cf81b",
+    "fetched_at": "2026-06-27T20:53:33.751455+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+    "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 19:18:57 GMT",
+    "source": "BBC News",
+    "id": "7de4bf7b9206dae05f1545b0b50f5ffa",
+    "fetched_at": "2026-06-27T20:53:32.592200+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel's Netanyahu welcomes US-brokered Lebanon agreement as far right condemns it",
+    "summary": "Israel's National Security Minister Itamar Ben Gvir rejected the U.S.-brokered agreement, saying Lebanon could not be trusted to disarm Hezbollah..",
+    "link": "http://www.euronews.com/2026/06/27/israels-netanyahu-welcomes-us-brokered-lebanon-agreement-as-far-right-condemns-it",
+    "published": "Sat, 27 Jun 2026 22:22:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0ec3898d7e16779f7b346fddd7e55b47",
+    "fetched_at": "2026-06-27T20:53:31.398021+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
+    "summary": "Ukraine's Volodmyr Zelensky skips major conference aimed at rebuilding his country after being stripped of a Polish state honour.",
+    "link": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 12:25:14 GMT",
+    "source": "BBC News",
+    "id": "26db1d1f379a79711a5fd206846d4768",
+    "fetched_at": "2026-06-27T20:53:30.232296+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Heatwave breaks more records in northern and central Europe",
+    "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
+    "source": "BBC News",
+    "id": "2240a79f354faca9e8ba5121c6ba932c",
+    "fetched_at": "2026-06-27T20:53:29.066224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cops drop murder probe after coroner rules man’s bloody stabbing death was freak accident",
+    "summary": "British man Robert Brown, 57, was presumed to have been murdered after being found blood-soaked in England, but a coroner ruled he passed out drunk on a knife in his bag.",
+    "link": "https://www.foxnews.com/world/cops-drop-murder-probe-after-coroner-rules-mans-bloody-stabbing-death-freak-accident",
+    "published": "Fri, 26 Jun 2026 17:04:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8abf1b5539fbd18c2a709d3485bfb962",
+    "fetched_at": "2026-06-27T20:53:27.902473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera",
+    "summary": "Tense video shows a woman stalked by a large bear while walking her dog in a wooded area in Canada, charging and circling her for nearly two minutes.",
+    "link": "https://www.foxnews.com/world/woman-stalked-charging-bear-morning-dog-walk-captures-terrifying-encounter-camera",
+    "published": "Fri, 26 Jun 2026 18:08:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f53d8a5c952e388defb78cf9611ddce6",
+    "fetched_at": "2026-06-27T20:53:26.737075+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio announces framework deal between Israel and Lebanon as experts warn Iran will fight to sabotage it",
+    "summary": "Secretary of State Rubio and PM Netanyahu welcome U.S.-brokered framework agreement between Israel and Lebanon as a step toward lasting peace.",
+    "link": "https://www.foxnews.com/world/rubio-announces-framework-deal-between-israel-lebanon-experts-warn-iran-fight-sabotage",
+    "published": "Fri, 26 Jun 2026 18:13:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "766c3ee153831b61ba300ca3a61de576",
+    "fetched_at": "2026-06-27T20:53:25.571520+00:00"
+  },
+  {
     "region": "USA",
     "title": "Video shows gaping hole after small plane crashes into towering skyscraper",
     "summary": "A small aircraft crashed into Beijing&apos;s tallest skyscraper, the 108-story CITIC Tower, prompting an information blackout from Chinese authorities.",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "42e5ea75b929b01e4f53bf1eae8b43ce",
     "fetched_at": "2026-06-27T02:33:03.103850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
-    "summary": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
-    "published": "Fri, 26 Jun 2026 07:22:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "ce4ec766d1c33e4d05f204c73bb0c76a",
-    "fetched_at": "2026-06-27T02:33:01.948204+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-    "summary": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-    "published": "Fri, 26 Jun 2026 09:03:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "496aad3841243fd4982ceb8ff3ef7460",
-    "fetched_at": "2026-06-27T02:33:00.817477+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australia plans to strengthen laws banning children from social media",
-    "summary": "Observers said on Friday the government is responding to evidence that the ban on young children holding accounts on platforms including Facebook, Instagram and YouTube had failed since it came into force in December year.",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
-    "published": "Fri, 26 Jun 2026 09:09:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee6afd911b43d190e9972d16a2b35454",
-    "fetched_at": "2026-06-27T02:32:59.561188+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "It's not just Cape Verde: African soccer is having a World Cup moment",
-    "summary": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, teams from Africa have been relentless.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
-    "published": "Fri, 26 Jun 2026 16:49:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "b686bc13948c7b059e7b44fcd4d3618c",
-    "fetched_at": "2026-06-27T02:32:58.413530+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why the trail went cold in Nancy Guthrie case",
-    "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity.",
-    "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 23:12:22 GMT",
-    "source": "BBC News",
-    "id": "9d914328b0cf5fcb43feb38973bf5317",
-    "fetched_at": "2026-06-27T02:32:57.263183+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
-    "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 11:20:11 GMT",
-    "source": "BBC News",
-    "id": "be025087e6302ac5bdee0d46008f6bad",
-    "fetched_at": "2026-06-27T02:32:56.113315+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-    "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-    "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:15:37 GMT",
-    "source": "BBC News",
-    "id": "09b97a8ac69a606e1a5c980b1ee2a715",
-    "fetched_at": "2026-06-26T23:00:21.897734+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Frozen feasts and cool pools help Rome zoo animals survive heatwave",
-    "summary": "As a severe heatwave grips Italy, Rome's Bioparco is helping its animals stay cool with frozen treats, chilled pools and climate-controlled shelters while the capital remains under a red heat alert.",
-    "link": "http://www.euronews.com/video/2026/06/26/frozen-feasts-and-cool-pools-help-rome-zoo-animals-survive-heatwave",
-    "published": "Fri, 26 Jun 2026 23:34:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "11366eb2e1194b1ba0b634cb1c9fe56b",
-    "fetched_at": "2026-06-26T23:00:21.897732+00:00"
   }
 ]
