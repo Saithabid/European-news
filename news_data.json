@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | June 27th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-evening",
+    "published": "Sat, 27 Jun 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4aaf02fdb688347370ed38f1f18c8d46",
+    "fetched_at": "2026-06-27T17:01:48.707889+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe send search and rescue personnel to Venezuela in response to massive quakes",
+    "summary": "The European Union has begun sending aid to Venezuela through its Civil Protection Mechanism in response to Wednesday's earthquakes of 7.2 and 7.5 magnitude, which have left more than 50,000 people missing, according to the UN.",
+    "link": "http://www.euronews.com/my-europe/2026/06/27/europe-send-search-and-rescue-personnel-to-venezuela-in-response-to-massive-quakes",
+    "published": "Sat, 27 Jun 2026 18:53:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "44e446e0b3c28d5225f2b49f39b2e9e2",
+    "fetched_at": "2026-06-27T17:01:47.606391+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Biggest city in Crimea without power after Ukraine strikes",
+    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
+    "source": "BBC News",
+    "id": "bdfab579cd2939c6bc7255f83780238d",
+    "fetched_at": "2026-06-27T17:01:46.476762+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crime boss Steven Lyons arrives in Spain after extradition",
+    "summary": "One of Scotland's leading gangland figures has arrived in Spain after losing a bid against his extradition on a series of charges related to organised crime.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jyq3990jeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 20:22:08 GMT",
+    "source": "BBC News",
+    "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
+    "fetched_at": "2026-06-27T17:01:45.370543+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Artist bids goodbye to Danish postal system",
+    "summary": "An artist has made items from letters sent just before Denmark's letter post service ended.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d270dpmd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 05:13:43 GMT",
+    "source": "BBC News",
+    "id": "ae7a359f150b855a0925ff53e13f1944",
+    "fetched_at": "2026-06-27T17:01:44.269738+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
+    "summary": "Nigel Farage calls Britain&apos;s political system &quot;completely broken&quot; after Starmer&apos;s resignation and says Reform UK would have every chance of winning.",
+    "link": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election",
+    "published": "Sat, 27 Jun 2026 11:45:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a87a82938065da7d7f281fd93cccf3f4",
+    "fetched_at": "2026-06-27T17:01:43.157164+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. pledges generous earthquake relief to Venezuela",
+    "summary": "Following the earthquakes in Venezuela, the Trump administration announced what appears to be its strongest disaster response since it dismantled America's premier aid agency USAID last year.",
+    "link": "https://www.npr.org/2026/06/26/nx-s1-5872204/u-s-pledges-generous-earthquake-relief-to-venezuela",
+    "published": "Fri, 26 Jun 2026 16:49:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "b968e7ff15e18e10f00ac24ceb30d721",
+    "fetched_at": "2026-06-27T17:01:42.051202+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US strikes Iran after attack on cargo ship",
+    "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 10:40:38 GMT",
+    "source": "BBC News",
+    "id": "2cdce3d9a078bdd59d1d7c47167f4faa",
+    "fetched_at": "2026-06-27T17:01:40.935737+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
     "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
     "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "766c3ee153831b61ba300ca3a61de576",
     "fetched_at": "2026-06-26T23:00:18.230993+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Video shows gaping hole after small plane crashes into towering skyscraper",
-    "summary": "A small aircraft crashed into Beijing&apos;s tallest skyscraper, the 108-story CITIC Tower, prompting an information blackout from Chinese authorities.",
-    "link": "https://www.foxnews.com/world/video-shows-gaping-hole-small-plane-crashes-towering-skyscraper",
-    "published": "Fri, 26 Jun 2026 18:34:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2d8e0b98fbe55813d4e3e158586182c1",
-    "fetched_at": "2026-06-26T23:00:17.045384+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Native Americans mark 150th anniversary of Little Bighorn victory",
-    "summary": "The June 1876 battle saw Indigenous warriors unite to defeat US Lt Col George Armstrong Custer and more than 200 of his soldiers.",
-    "link": "https://www.bbc.co.uk/news/videos/c23yek4g28lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:25:32 GMT",
-    "source": "BBC News",
-    "id": "bdf71412f9e3ec11c707f638d467e793",
-    "fetched_at": "2026-06-26T23:00:15.881369+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bible stories become required reading for Texas schools",
-    "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:38:56 GMT",
-    "source": "BBC News",
-    "id": "71ddfafc4ad0333718a17387d4902cc0",
-    "fetched_at": "2026-06-26T23:00:14.708527+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pete Buttigieg briefly separated from children after false police report",
-    "summary": "Pete Buttigieg says the day separated from his children was \"among the darkest hours of my life\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:24:13 GMT",
-    "source": "BBC News",
-    "id": "f6075b0f895a6b888ee057975dc46ae6",
-    "fetched_at": "2026-06-26T23:00:13.555278+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "summary": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
-    "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 19:29:31 GMT",
-    "source": "BBC News",
-    "id": "1b594f6853bba2ab86a3e2f215ee9e07",
-    "fetched_at": "2026-06-26T21:13:54.037478+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marco Rubio announces Israel-Lebanon framework deal, hailing it as first step toward peace",
-    "summary": "The officials did not disclose details of the deal, which was signed by Yechiel Leiter and Nada Hamadeh, Israeli and Lebanese ambassadors to the United States.",
-    "link": "http://www.euronews.com/2026/06/26/marco-rubio-announces-israel-lebanon-framework-deal-hailing-it-as-first-step-toward-peace",
-    "published": "Fri, 26 Jun 2026 20:46:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a7f58e13b708a828bd2b3a09e2e28a22",
-    "fetched_at": "2026-06-26T21:13:52.878256+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
-    "summary": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
-    "link": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
-    "published": "Fri, 26 Jun 2026 21:49:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "41cabef901dc6c240b78259c78a4f213",
-    "fetched_at": "2026-06-26T21:13:51.715584+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Small plane crashes into Beijing's tallest building",
-    "summary": "Police and emergency crews sealed off the area around Beijing's tallest skyscraper after a small plane crash damaged the building. Images from the scene showed a large hole in the upper floors of the 528-metre CITIC Tower, while witnesses reported seeing aircraft debris at the base of the building.",
-    "link": "http://www.euronews.com/2026/06/26/small-plane-crashes-into-beijings-tallest-building",
-    "published": "Fri, 26 Jun 2026 22:44:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8c2d0d690d90689e5b5f6e11331c0749",
-    "fetched_at": "2026-06-26T21:13:50.548684+00:00"
   }
 ]
