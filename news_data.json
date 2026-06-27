@@ -1,6 +1,36 @@
 [
   {
     "region": "Europe",
+    "title": "Mother dies saving daughter in Venezuela earthquakes",
+    "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 18:36:32 GMT",
+    "source": "BBC News",
+    "id": "37403164cd6663969c553645e09b2cda",
+    "fetched_at": "2026-06-27T11:27:49.454450+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 27th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-midday",
+    "published": "Sat, 27 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7e4fe70ae8bb8130a0a8f4b0eeec419f",
+    "fetched_at": "2026-06-27T11:27:48.344930+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK maritime agency raises Strait of Hormuz threat level after oil tanker reports being struck",
+    "summary": "It comes after the US military carried out strikes on Iran, which it said were in response to Iranian drone attacks on shipping in the Strait.",
+    "link": "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str",
+    "published": "Sat, 27 Jun 2026 13:00:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "03e6acfc25729aa581c044ad5af4cad5",
+    "fetched_at": "2026-06-27T11:27:47.225108+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Searches continue for Venezuela earthquake survivors",
     "summary": "More than 520 emergency responders from across the EU have been mobilised to support search and rescue efforts in Venezuela, the European Commission said.",
     "link": "http://www.euronews.com/2026/06/27/searches-continue-for-venezuela-earthquake-survivors",
@@ -568,35 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "1a685dda968807859ce69ebbe076944d",
     "fetched_at": "2026-06-26T19:38:56.570989+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "$600 million worth of heroin, meth and other seized drugs set on fire in Burma",
-    "summary": "Burma destroyed over 50 tons of narcotics worth $600 million to mark the United Nations&apos; International Day Against Drug Abuse and Illicit Trafficking.",
-    "link": "https://www.foxnews.com/world/600-million-heroin-meth-seized-drugs-fire-burma",
-    "published": "Fri, 26 Jun 2026 14:19:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f825c98a8c6bd14a901b3191cb9b1b0e",
-    "fetched_at": "2026-06-26T19:38:55.453727+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
-    "summary": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
-    "link": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
-    "published": "Fri, 26 Jun 2026 14:24:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "07cbb9c8749a91f9d1b2914cc827e345",
-    "fetched_at": "2026-06-26T19:38:54.186009+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela is reeling from earthquakes, as the rising death toll nears 1,000",
-    "summary": "As Venezuela begins counting the cost of its deadliest quake disaster in over a century, a shattered economy and struggling health system threaten to slow recovery efforts.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
-    "published": "Fri, 26 Jun 2026 02:41:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "d5ed7c0a85e24a7b370131efbf117c38",
-    "fetched_at": "2026-06-26T19:38:53.054348+00:00"
   }
 ]
