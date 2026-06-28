@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+    "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 14:30:05 GMT",
+    "source": "BBC News",
+    "id": "5d7f6b2ee22cd68adbe8d1fc2b90e125",
+    "fetched_at": "2026-06-28T15:13:30.450431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iraqi political officials arrested on corruption charges in overnight raid",
+    "summary": "Iraqi security forces sealed off all entrances to the capital’s heavily fortified Green Zone early Sunday and carried out raids inside the compound that houses key government institutions and foreign embassies.",
+    "link": "http://www.euronews.com/2026/06/28/iraqi-political-officials-arrested-on-corruption-charges-in-overnight-raid",
+    "published": "Sun, 28 Jun 2026 15:59:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "453584edefa9ca6951530a35370af1f6",
+    "fetched_at": "2026-06-28T15:13:29.333931+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Everything you need to know ahead of the World Cup knockout stage",
+    "summary": "France have made a mightily impressive start to their campaign, scoring 10 goals in victories over Senegal, Iraq and Norway.",
+    "link": "http://www.euronews.com/2026/06/28/everything-you-need-to-know-ahead-of-the-world-cup-knockout-stage",
+    "published": "Sun, 28 Jun 2026 17:09:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b0f230af630cef4d1e6089e745e9a97b",
+    "fetched_at": "2026-06-28T15:13:28.204032+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France confirms first Ebola case",
+    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
+    "source": "BBC News",
+    "id": "2bedf801c2ba07927d6c8862322906f1",
+    "fetched_at": "2026-06-28T15:13:27.078503+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burkina Faso severs diplomatic ties with France",
+    "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 14:21:31 GMT",
+    "source": "BBC News",
+    "id": "2f0d962663b6a190c63da57d13e8004b",
+    "fetched_at": "2026-06-28T15:13:25.960268+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 25 Jun 2026 18:50:12 GMT",
+    "source": "BBC News",
+    "id": "36f833729b7e699a7f8ad69e8d610025",
+    "fetched_at": "2026-06-28T15:13:24.821767+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+    "summary": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
+    "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
+    "published": "Sat, 27 Jun 2026 09:45:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "8d0372e444562fe38fb0a4fb85a39df5",
+    "fetched_at": "2026-06-28T15:13:23.693467+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Uganda's leading media outlets shut down by army chief",
     "summary": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
     "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "44e446e0b3c28d5225f2b49f39b2e9e2",
     "fetched_at": "2026-06-27T17:01:47.606391+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Biggest city in Crimea without power after Ukraine strikes",
-    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
-    "source": "BBC News",
-    "id": "bdfab579cd2939c6bc7255f83780238d",
-    "fetched_at": "2026-06-27T17:01:46.476762+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crime boss Steven Lyons arrives in Spain after extradition",
-    "summary": "One of Scotland's leading gangland figures has arrived in Spain after losing a bid against his extradition on a series of charges related to organised crime.",
-    "link": "https://www.bbc.co.uk/news/articles/c0jyq3990jeo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 20:22:08 GMT",
-    "source": "BBC News",
-    "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
-    "fetched_at": "2026-06-27T17:01:45.370543+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Artist bids goodbye to Danish postal system",
-    "summary": "An artist has made items from letters sent just before Denmark's letter post service ended.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d270dpmd6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 05:13:43 GMT",
-    "source": "BBC News",
-    "id": "ae7a359f150b855a0925ff53e13f1944",
-    "fetched_at": "2026-06-27T17:01:44.269738+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
-    "summary": "Nigel Farage calls Britain&apos;s political system &quot;completely broken&quot; after Starmer&apos;s resignation and says Reform UK would have every chance of winning.",
-    "link": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election",
-    "published": "Sat, 27 Jun 2026 11:45:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a87a82938065da7d7f281fd93cccf3f4",
-    "fetched_at": "2026-06-27T17:01:43.157164+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. pledges generous earthquake relief to Venezuela",
-    "summary": "Following the earthquakes in Venezuela, the Trump administration announced what appears to be its strongest disaster response since it dismantled America's premier aid agency USAID last year.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5872204/u-s-pledges-generous-earthquake-relief-to-venezuela",
-    "published": "Fri, 26 Jun 2026 16:49:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "b968e7ff15e18e10f00ac24ceb30d721",
-    "fetched_at": "2026-06-27T17:01:42.051202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US strikes Iran after attack on cargo ship",
-    "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 10:40:38 GMT",
-    "source": "BBC News",
-    "id": "2cdce3d9a078bdd59d1d7c47167f4faa",
-    "fetched_at": "2026-06-27T17:01:40.935737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-    "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-    "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 14:22:37 GMT",
-    "source": "BBC News",
-    "id": "8228eb39357688626c46386bb2b6d73b",
-    "fetched_at": "2026-06-27T15:10:33.664753+00:00"
   }
 ]
