@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+    "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 23:10:39 GMT",
+    "source": "BBC News",
+    "id": "cb2ec87ff90cb15510c030beb1e124b0",
+    "fetched_at": "2026-06-28T07:44:58.653100+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 28th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/28/latest-news-bulletin-june-28th-2026-morning",
+    "published": "Sun, 28 Jun 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e39b892700499335b9e1f019f0017c6f",
+    "fetched_at": "2026-06-28T07:44:57.539607+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US and Iran trade strikes amid claims of ceasefire violations",
+    "summary": "The US also carried out strikes on Iran on Friday after a drone attack on the M/V Ever Lovely ship. US aircraft targeted Iranian missile and drone storage locations as well as coastal radar sites, CENTCOM said.",
+    "link": "http://www.euronews.com/2026/06/28/us-and-iran-trade-strikes-amid-claims-of-ceasefire-violations",
+    "published": "Sun, 28 Jun 2026 07:41:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1ed010e13b8fa2b5793a0c2258efe575",
+    "fetched_at": "2026-06-28T07:44:56.424650+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran each announce retaliatory strikes in Iran, Kuwait and Bahrain",
+    "summary": "A recent ceasefire agreement between Washington and Tehran appears even more fragile following the latest hostilities in the region, which includes U.S. strikes on Iranian military targets.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+    "published": "Sat, 27 Jun 2026 00:12:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "dfb7647e7569ac50467880bb8287714c",
+    "fetched_at": "2026-06-28T07:44:55.309346+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "There's a beef about beef at the World Cup, as Argentina fans pour into Texas",
+    "summary": "It's about who produces the best, most succulent steaks, and how to prepare the meat. Argentina and Texas are two of the top cattle-raising areas of the world, where steak is deeply ingrained in diet and culture.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
+    "published": "Sat, 27 Jun 2026 03:03:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "07f470fb8ccfd8d44d86a7564755d53c",
+    "fetched_at": "2026-06-28T07:44:54.190510+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
+    "summary": "Aid efforts are intensifying after twin earthquakes killed over 1,400 in Venezuela, with international teams arriving but a slow government response hampering relief on the ground.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
+    "published": "Sat, 27 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "53a75e12060285821d3a728c6e249e25",
+    "fetched_at": "2026-06-28T07:44:53.072240+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+    "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+    "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+    "published": "Sat, 27 Jun 2026 05:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "6182179a3846b39f76820c880037eb41",
+    "fetched_at": "2026-06-28T07:44:51.942742+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
     "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
     "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "37403164cd6663969c553645e09b2cda",
     "fetched_at": "2026-06-27T11:27:49.454450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 27th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-midday",
-    "published": "Sat, 27 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7e4fe70ae8bb8130a0a8f4b0eeec419f",
-    "fetched_at": "2026-06-27T11:27:48.344930+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK maritime agency raises Strait of Hormuz threat level after oil tanker reports being struck",
-    "summary": "It comes after the US military carried out strikes on Iran, which it said were in response to Iranian drone attacks on shipping in the Strait.",
-    "link": "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str",
-    "published": "Sat, 27 Jun 2026 13:00:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "03e6acfc25729aa581c044ad5af4cad5",
-    "fetched_at": "2026-06-27T11:27:47.225108+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Searches continue for Venezuela earthquake survivors",
-    "summary": "More than 520 emergency responders from across the EU have been mobilised to support search and rescue efforts in Venezuela, the European Commission said.",
-    "link": "http://www.euronews.com/2026/06/27/searches-continue-for-venezuela-earthquake-survivors",
-    "published": "Sat, 27 Jun 2026 10:23:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d2d2f17f472878c411f49898eb6e2a5d",
-    "fetched_at": "2026-06-27T09:58:34.892490+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela satellite images reveal scale of disaster",
-    "summary": "Venezuela was hit by a pair of earthquakes last Thursday, leaving the La Guaira area badly battered. Here is a set of before-and-after images to show the scale of the disaster.",
-    "link": "http://www.euronews.com/2026/06/27/venezuela-satellite-images-reveal-scale-of-disaster",
-    "published": "Sat, 27 Jun 2026 11:37:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "26fd6434dc746a888131841fbf8ff407",
-    "fetched_at": "2026-06-27T09:58:34.892463+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran nuclear deal hinges on IAEA access to long-blocked atomic weapon sites, experts say",
-    "summary": "Iran&apos;s Foreign Ministry denies inviting IAEA inspectors while Trump claims Tehran agreed to highest level nuclear inspections, creating uncertainty.",
-    "link": "https://www.foxnews.com/world/iran-nuclear-deal-hinges-iaea-access-long-blocked-atomic-weapon-sites-experts-say",
-    "published": "Fri, 26 Jun 2026 11:30:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c9f275b72a7f52ef6f7b1757f7be39bd",
-    "fetched_at": "2026-06-27T09:58:33.763919+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Plane crashes into Beijing's tallest building; damage reported",
-    "summary": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.<br />",
-    "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-    "published": "Fri, 26 Jun 2026 11:05:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "57ff44c51cf2d1dcda8a4c6e2708089f",
-    "fetched_at": "2026-06-27T09:58:32.663363+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-    "summary": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
-    "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-    "published": "Fri, 26 Jun 2026 11:08:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "12f504a1b1d4572cb539ba228ac700fe",
-    "fetched_at": "2026-06-27T09:58:31.531175+00:00"
   }
 ]
