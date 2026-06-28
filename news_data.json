@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+    "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 16:33:50 GMT",
+    "source": "BBC News",
+    "id": "e67ee4923cccb920340b00f499aabcf7",
+    "fetched_at": "2026-06-28T17:01:32.210757+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fourteen killed in Saudi Arabia helicopter crash",
+    "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+    "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 15:42:01 GMT",
+    "source": "BBC News",
+    "id": "c4e146fd9d31091e8633742cdf4d45f9",
+    "fetched_at": "2026-06-28T17:01:32.210754+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+    "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 16:38:55 GMT",
+    "source": "BBC News",
+    "id": "b4323f980ce013cd0737dd1bb3425976",
+    "fetched_at": "2026-06-28T17:01:32.210750+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+    "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+    "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 14:22:37 GMT",
+    "source": "BBC News",
+    "id": "8228eb39357688626c46386bb2b6d73b",
+    "fetched_at": "2026-06-28T17:01:32.210723+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 28th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/28/latest-news-bulletin-june-28th-2026-evening",
+    "published": "Sun, 28 Jun 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f5e2496a7e0fbf47ee5120a58afc13c9",
+    "fetched_at": "2026-06-28T17:01:31.091024+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Biggest city in Crimea without power after Ukraine strikes",
+    "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 09:48:24 GMT",
+    "source": "BBC News",
+    "id": "bdfab579cd2939c6bc7255f83780238d",
+    "fetched_at": "2026-06-28T17:01:29.974454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crime boss Steven Lyons arrives in Spain after extradition",
+    "summary": "One of Scotland's leading gangland figures has arrived in Spain after losing a bid against his extradition on a series of charges related to organised crime.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jyq3990jeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 24 Jun 2026 20:22:08 GMT",
+    "source": "BBC News",
+    "id": "d558d1db95cc1bc94a2bc2ebea59b8d9",
+    "fetched_at": "2026-06-28T17:01:28.837599+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Artist bids goodbye to Danish postal system",
+    "summary": "An artist has made items from letters sent just before Denmark's letter post service ended.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d270dpmd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 05:13:43 GMT",
+    "source": "BBC News",
+    "id": "ae7a359f150b855a0925ff53e13f1944",
+    "fetched_at": "2026-06-28T17:01:27.680387+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
+    "summary": "Nigel Farage calls Britain&apos;s political system &quot;completely broken&quot; after Starmer&apos;s resignation and says Reform UK would have every chance of winning.",
+    "link": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election",
+    "published": "Sat, 27 Jun 2026 11:45:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a87a82938065da7d7f281fd93cccf3f4",
+    "fetched_at": "2026-06-28T17:01:26.555181+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "33 rescued from Venezuelan rubble: Survival window desperately fading with nearly 50,000 missing",
+    "summary": "Search and rescue crews race against time in La Guaira as 33 survivors are pulled from collapsed buildings while nearly 50,000 remain missing.",
+    "link": "https://www.foxnews.com/world/33-rescued-venezuelan-rubble-survival-window-desperately-fading-nearly-50000-missing",
+    "published": "Sun, 28 Jun 2026 12:25:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6712b259ddcd19acf3ecf1954a55cc2c",
+    "fetched_at": "2026-06-28T17:01:25.432293+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trade tensions shake up Brazil's caipirinha spirit",
+    "summary": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
+    "link": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
+    "published": "Sun, 28 Jun 2026 11:45:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "dc8940034f2a9f0917aed01c4221239e",
+    "fetched_at": "2026-06-28T17:01:24.302317+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
     "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
     "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "26db1d1f379a79711a5fd206846d4768",
     "fetched_at": "2026-06-27T20:53:30.232296+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Heatwave breaks more records in northern and central Europe",
-    "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
-    "source": "BBC News",
-    "id": "2240a79f354faca9e8ba5121c6ba932c",
-    "fetched_at": "2026-06-27T20:53:29.066224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cops drop murder probe after coroner rules man’s bloody stabbing death was freak accident",
-    "summary": "British man Robert Brown, 57, was presumed to have been murdered after being found blood-soaked in England, but a coroner ruled he passed out drunk on a knife in his bag.",
-    "link": "https://www.foxnews.com/world/cops-drop-murder-probe-after-coroner-rules-mans-bloody-stabbing-death-freak-accident",
-    "published": "Fri, 26 Jun 2026 17:04:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8abf1b5539fbd18c2a709d3485bfb962",
-    "fetched_at": "2026-06-27T20:53:27.902473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera",
-    "summary": "Tense video shows a woman stalked by a large bear while walking her dog in a wooded area in Canada, charging and circling her for nearly two minutes.",
-    "link": "https://www.foxnews.com/world/woman-stalked-charging-bear-morning-dog-walk-captures-terrifying-encounter-camera",
-    "published": "Fri, 26 Jun 2026 18:08:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f53d8a5c952e388defb78cf9611ddce6",
-    "fetched_at": "2026-06-27T20:53:26.737075+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio announces framework deal between Israel and Lebanon as experts warn Iran will fight to sabotage it",
-    "summary": "Secretary of State Rubio and PM Netanyahu welcome U.S.-brokered framework agreement between Israel and Lebanon as a step toward lasting peace.",
-    "link": "https://www.foxnews.com/world/rubio-announces-framework-deal-between-israel-lebanon-experts-warn-iran-fight-sabotage",
-    "published": "Fri, 26 Jun 2026 18:13:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "766c3ee153831b61ba300ca3a61de576",
-    "fetched_at": "2026-06-27T20:53:25.571520+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Video shows gaping hole after small plane crashes into towering skyscraper",
-    "summary": "A small aircraft crashed into Beijing&apos;s tallest skyscraper, the 108-story CITIC Tower, prompting an information blackout from Chinese authorities.",
-    "link": "https://www.foxnews.com/world/video-shows-gaping-hole-small-plane-crashes-towering-skyscraper",
-    "published": "Fri, 26 Jun 2026 18:34:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2d8e0b98fbe55813d4e3e158586182c1",
-    "fetched_at": "2026-06-27T19:08:01.549169+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gulf countries strongly condemn Iran's drone attack on Bahrain as rising tensions threaten MOU",
-    "summary": "Persian Gulf countries are furious over Iran&apos;s aggression on Saturday with its drone strikes against targets in Bahrain. This is a major escalation.",
-    "link": "https://www.foxnews.com/world/gulf-countries-strongly-condemn-irans-drone-attack-bahrain-rising-tensions-threaten-mou",
-    "published": "Sat, 27 Jun 2026 13:56:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d8e131e69205d381eda836db68269d36",
-    "fetched_at": "2026-06-27T19:08:00.420670+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Native Americans mark 150th anniversary of Little Bighorn victory",
-    "summary": "The June 1876 battle saw Indigenous warriors unite to defeat US Lt Col George Armstrong Custer and more than 200 of his soldiers.",
-    "link": "https://www.bbc.co.uk/news/videos/c23yek4g28lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 21:25:32 GMT",
-    "source": "BBC News",
-    "id": "bdf71412f9e3ec11c707f638d467e793",
-    "fetched_at": "2026-06-27T19:07:59.303370+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Religion row as Texas makes Bible stories required reading in schools",
-    "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 00:31:42 GMT",
-    "source": "BBC News",
-    "id": "71ddfafc4ad0333718a17387d4902cc0",
-    "fetched_at": "2026-06-27T19:07:58.180896+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pete Buttigieg briefly separated from children after false police report",
-    "summary": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 00:40:44 GMT",
-    "source": "BBC News",
-    "id": "f6075b0f895a6b888ee057975dc46ae6",
-    "fetched_at": "2026-06-27T19:07:57.040186+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 27th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-evening",
-    "published": "Sat, 27 Jun 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4aaf02fdb688347370ed38f1f18c8d46",
-    "fetched_at": "2026-06-27T17:01:48.707889+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe send search and rescue personnel to Venezuela in response to massive quakes",
-    "summary": "The European Union has begun sending aid to Venezuela through its Civil Protection Mechanism in response to Wednesday's earthquakes of 7.2 and 7.5 magnitude, which have left more than 50,000 people missing, according to the UN.",
-    "link": "http://www.euronews.com/my-europe/2026/06/27/europe-send-search-and-rescue-personnel-to-venezuela-in-response-to-massive-quakes",
-    "published": "Sat, 27 Jun 2026 18:53:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "44e446e0b3c28d5225f2b49f39b2e9e2",
-    "fetched_at": "2026-06-27T17:01:47.606391+00:00"
   }
 ]
