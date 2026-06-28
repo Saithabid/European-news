@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+    "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
+    "source": "BBC News",
+    "id": "2240a79f354faca9e8ba5121c6ba932c",
+    "fetched_at": "2026-06-28T19:07:00.993108+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cops drop murder probe after coroner rules man’s bloody stabbing death was freak accident",
+    "summary": "British man Robert Brown, 57, was presumed to have been murdered after being found blood-soaked in England, but a coroner ruled he passed out drunk on a knife in his bag.",
+    "link": "https://www.foxnews.com/world/cops-drop-murder-probe-after-coroner-rules-mans-bloody-stabbing-death-freak-accident",
+    "published": "Fri, 26 Jun 2026 17:04:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8abf1b5539fbd18c2a709d3485bfb962",
+    "fetched_at": "2026-06-28T19:06:59.882088+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman stalked by charging bear on morning dog walk captures terrifying encounter on camera",
+    "summary": "Tense video shows a woman stalked by a large bear while walking her dog in a wooded area in Canada, charging and circling her for nearly two minutes.",
+    "link": "https://www.foxnews.com/world/woman-stalked-charging-bear-morning-dog-walk-captures-terrifying-encounter-camera",
+    "published": "Fri, 26 Jun 2026 18:08:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f53d8a5c952e388defb78cf9611ddce6",
+    "fetched_at": "2026-06-28T19:06:58.764689+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio announces framework deal between Israel and Lebanon as experts warn Iran will fight to sabotage it",
+    "summary": "Secretary of State Rubio and PM Netanyahu welcome U.S.-brokered framework agreement between Israel and Lebanon as a step toward lasting peace.",
+    "link": "https://www.foxnews.com/world/rubio-announces-framework-deal-between-israel-lebanon-experts-warn-iran-fight-sabotage",
+    "published": "Fri, 26 Jun 2026 18:13:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "766c3ee153831b61ba300ca3a61de576",
+    "fetched_at": "2026-06-28T19:06:57.645960+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pilot dead, 13 injured after small plane crashes into towering skyscraper",
+    "summary": "A small aircraft crashed into Beijing&apos;s tallest skyscraper, the 108-story CITIC Tower, prompting an information blackout from Chinese authorities.",
+    "link": "https://www.foxnews.com/world/video-shows-gaping-hole-small-plane-crashes-towering-skyscraper",
+    "published": "Fri, 26 Jun 2026 18:34:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2d8e0b98fbe55813d4e3e158586182c1",
+    "fetched_at": "2026-06-28T19:06:56.517753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gulf countries strongly condemn Iran's drone attack on Bahrain as rising tensions threaten MOU",
+    "summary": "Persian Gulf countries are furious over Iran&apos;s aggression on Saturday with its drone strikes against targets in Bahrain. This is a major escalation.",
+    "link": "https://www.foxnews.com/world/gulf-countries-strongly-condemn-irans-drone-attack-bahrain-rising-tensions-threaten-mou",
+    "published": "Sat, 27 Jun 2026 13:56:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d8e131e69205d381eda836db68269d36",
+    "fetched_at": "2026-06-28T19:06:55.397128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+    "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+    "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+    "published": "Sun, 28 Jun 2026 14:01:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "d4c1d278d877ddbd79bc30eec859021e",
+    "fetched_at": "2026-06-28T19:06:54.279843+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Religion row as Texas makes Bible stories required reading in schools",
+    "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 00:31:42 GMT",
+    "source": "BBC News",
+    "id": "71ddfafc4ad0333718a17387d4902cc0",
+    "fetched_at": "2026-06-28T19:06:53.166143+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
     "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
     "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d3ab72769fd486c188f6ad1b705f92b8",
     "fetched_at": "2026-06-27T22:57:28.036373+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New strikes test the Iran ceasefire",
-    "summary": "The ceasefire between the U.S. and Iran is being tested after new attacks in the Strait of Hormuz. Mideast expert Paul Salem explains what's happened and whether the deal can still hold.",
-    "link": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
-    "published": "Sat, 27 Jun 2026 17:05:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "f5a6da5014549920f5733119d9ddd31e",
-    "fetched_at": "2026-06-27T22:57:26.881954+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela races to find survivors",
-    "summary": "The search for survivors is entering a critical stage in Venezuela. NPR'S Eyder Peralta reports from La Guaira where rescue crews are still hoping to find people alive.",
-    "link": "https://www.npr.org/2026/06/27/nx-s1-5872799/venezuela-races-to-find-survivors",
-    "published": "Sat, 27 Jun 2026 17:06:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "a375ed6bfdbb2047d8a56c58314ad258",
-    "fetched_at": "2026-06-27T22:57:25.733785+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why the trail went cold in Nancy Guthrie case",
-    "summary": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity.",
-    "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 23:12:22 GMT",
-    "source": "BBC News",
-    "id": "9d914328b0cf5fcb43feb38973bf5317",
-    "fetched_at": "2026-06-27T22:57:24.483454+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rainbow flags await Egypt and Iran at awkward Pride Match",
-    "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 11:20:11 GMT",
-    "source": "BBC News",
-    "id": "be025087e6302ac5bdee0d46008f6bad",
-    "fetched_at": "2026-06-27T22:57:23.339986+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's face is added to select US passports for America's 250th birthday",
-    "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-    "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 20:03:26 GMT",
-    "source": "BBC News",
-    "id": "826c172ea4d355b1c12c8920154cf81b",
-    "fetched_at": "2026-06-27T20:53:33.751455+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-    "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 19:18:57 GMT",
-    "source": "BBC News",
-    "id": "7de4bf7b9206dae05f1545b0b50f5ffa",
-    "fetched_at": "2026-06-27T20:53:32.592200+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel's Netanyahu welcomes US-brokered Lebanon agreement as far right condemns it",
-    "summary": "Israel's National Security Minister Itamar Ben Gvir rejected the U.S.-brokered agreement, saying Lebanon could not be trusted to disarm Hezbollah..",
-    "link": "http://www.euronews.com/2026/06/27/israels-netanyahu-welcomes-us-brokered-lebanon-agreement-as-far-right-condemns-it",
-    "published": "Sat, 27 Jun 2026 22:22:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0ec3898d7e16779f7b346fddd7e55b47",
-    "fetched_at": "2026-06-27T20:53:31.398021+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
-    "summary": "Ukraine's Volodmyr Zelensky skips major conference aimed at rebuilding his country after being stripped of a Polish state honour.",
-    "link": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 12:25:14 GMT",
-    "source": "BBC News",
-    "id": "26db1d1f379a79711a5fd206846d4768",
-    "fetched_at": "2026-06-27T20:53:30.232296+00:00"
   }
 ]
