@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Uganda's leading media outlets shut down by army chief",
+    "summary": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 10:11:35 GMT",
+    "source": "BBC News",
+    "id": "db3a5a1c694dd82221a98910ea688619",
+    "fetched_at": "2026-06-28T13:22:07.157957+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "summary": "The pilot and 10 passengers died in the incident, local officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 12:51:59 GMT",
+    "source": "BBC News",
+    "id": "6053ea3a53f113399c871e7934a494dd",
+    "fetched_at": "2026-06-28T13:22:06.045258+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+    "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+    "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 12:39:41 GMT",
+    "source": "BBC News",
+    "id": "ef5f1c2e0251b7f9ed8a7612162bff16",
+    "fetched_at": "2026-06-28T13:22:04.924853+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel formally recognises Armenian World War I 'genocide'",
+    "summary": "Israeli Foreign Minister Gideon Sa'ar said Israel had \"fulfilled a moral duty by recognizing the historical truth, and rejecting attempts to deny it\".",
+    "link": "http://www.euronews.com/2026/06/28/israels-government-formally-recognises-the-armenian-genocide-committed-during-world-war-i",
+    "published": "Sun, 28 Jun 2026 14:21:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "278d150576437bb0524ab3b6a5f0292c",
+    "fetched_at": "2026-06-28T13:22:03.814150+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
+    "summary": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
+    "link": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
+    "published": "Fri, 26 Jun 2026 14:24:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "07cbb9c8749a91f9d1b2914cc827e345",
+    "fetched_at": "2026-06-28T13:22:02.681784+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelan earthquake death toll hits at least 920 as US rescuers race against critical survival window",
+    "summary": "Venezuela was hit with 7.2 and 7.5 magnitude earthquakes on Wednesday, and, in the aftermath, aid agencies are still trying to find people who are trapped.",
+    "link": "https://www.foxnews.com/world/venezuelan-earthquake-death-toll-hits-least-920-us-rescuers-race-against-critical-survival-window",
+    "published": "Sat, 27 Jun 2026 08:11:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "17ade37d8be724a2fe26aad523f217bd",
+    "fetched_at": "2026-06-28T13:22:01.513780+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As America turns 250, a rare 1790 exchange between Washington and Bishop Carroll takes on new relevance",
+    "summary": "A 1790 letter from Bishop John Carroll to George Washington sought reassurance that Catholics would be equal citizens in the new American republic.",
+    "link": "https://www.foxnews.com/world/america-turns-250-rare-1790-exchange-washington-bishop-carroll-takes-new-relevance",
+    "published": "Sun, 28 Jun 2026 08:00:26 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4b35f4b4d265637c36f9700f541f3670",
+    "fetched_at": "2026-06-28T13:22:00.367135+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
+    "summary": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
+    "link": "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power",
+    "published": "Sat, 27 Jun 2026 07:40:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "e23f9b03f3a197dd5684f87cbf8cd607",
+    "fetched_at": "2026-06-28T13:21:59.242617+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Budapest's first Pride since Orban left power",
     "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
     "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "8228eb39357688626c46386bb2b6d73b",
     "fetched_at": "2026-06-27T15:10:33.664753+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anthropic cleared to restore Mythos 5 access to certain US organisations",
-    "summary": "\"We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again,\" the company said on Friday.",
-    "link": "http://www.euronews.com/2026/06/27/anthropic-cleared-to-restore-mythos-5-access-to-certain-us-organisations",
-    "published": "Sat, 27 Jun 2026 15:16:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6befd5871ddedbdb187f88bf16475d2a",
-    "fetched_at": "2026-06-27T15:10:33.664725+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "2026 FIFA World Cup: Which third-place teams will reach the knockout stage?",
-    "summary": "The eight best third-place sides are determined first by points and then by goal difference, with the final standings to be decided on Saturday night.",
-    "link": "http://www.euronews.com/2026/06/27/2026-fifa-world-cup-which-third-place-teams-will-reach-the-knockout-stage",
-    "published": "Sat, 27 Jun 2026 16:01:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "634c2193ca15d4ab0eeddbf8dca31e3e",
-    "fetched_at": "2026-06-27T15:10:32.511162+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France confirms first Ebola case",
-    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
-    "source": "BBC News",
-    "id": "2bedf801c2ba07927d6c8862322906f1",
-    "fetched_at": "2026-06-27T15:10:31.358998+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burkina Faso severs diplomatic ties with France",
-    "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 14:21:31 GMT",
-    "source": "BBC News",
-    "id": "2f0d962663b6a190c63da57d13e8004b",
-    "fetched_at": "2026-06-27T15:10:30.196234+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 18:50:12 GMT",
-    "source": "BBC News",
-    "id": "36f833729b7e699a7f8ad69e8d610025",
-    "fetched_at": "2026-06-27T15:10:29.033209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe's deadly heatwave breaks German record and halts public events",
-    "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 18:14:36 GMT",
-    "source": "BBC News",
-    "id": "076f85e001935ef4b8ac871835287498",
-    "fetched_at": "2026-06-27T15:10:27.901019+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
-    "summary": "Israel&apos;s U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
-    "link": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
-    "published": "Thu, 25 Jun 2026 06:13:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1a685dda968807859ce69ebbe076944d",
-    "fetched_at": "2026-06-27T15:10:26.731617+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-    "summary": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
-    "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
-    "published": "Sat, 27 Jun 2026 09:45:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "8d0372e444562fe38fb0a4fb85a39df5",
-    "fetched_at": "2026-06-27T15:10:25.557296+00:00"
   }
 ]
