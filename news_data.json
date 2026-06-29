@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+    "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 10:38:37 GMT",
+    "source": "BBC News",
+    "id": "d0d25553975a367668f0bf8aaad3e0a7",
+    "fetched_at": "2026-06-29T02:46:34.766620+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Christmas market attacker jailed for life for murdering six in Germany",
+    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 10:49:11 GMT",
+    "source": "BBC News",
+    "id": "52d4dda2a8d68e3cca1f4f7df3b54b83",
+    "fetched_at": "2026-06-29T02:46:33.636380+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "American rescue teams pull infant alive from rubble in Venezuela days after devastating twin earthquakes",
+    "summary": "Video shows U.S. search-and-rescue teams pulling an infant alive from rubble in Venezuela more than 72 hours after devastating twin earthquakes.",
+    "link": "https://www.foxnews.com/world/american-rescue-teams-pull-infant-alive-rubble-venezuela-days-devastating-twin-earthquakes",
+    "published": "Sat, 27 Jun 2026 22:08:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "843f0a24b0ca8f3e4d9efd637345b2f1",
+    "fetched_at": "2026-06-29T02:46:32.528247+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+    "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+    "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+    "published": "Sat, 27 Jun 2026 05:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "6182179a3846b39f76820c880037eb41",
+    "fetched_at": "2026-06-29T02:46:31.390366+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "We have been treated unfairly by USA in World Cup - Iran",
+    "summary": "For their first two matches in Los Angeles, Iran's squad was only allowed to enter the United States the day before.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 11:14:31 GMT",
+    "source": "BBC News",
+    "id": "173be3d8f51071c2f5cdbb3a71e245bb",
+    "fetched_at": "2026-06-29T02:46:30.255824+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Joy as man pulled from rubble three days after Venezuela quake",
     "summary": "Spanish and international rescue teams pulled a survivor from the rubble four days after deadly earthquakes struck Venezuela. Search operations continue as crews race to find more survivors, with the death toll rising to more than 1,400.",
     "link": "http://www.euronews.com/2026/06/28/joy-as-man-pulled-from-rubble-three-days-after-venezuela-quake",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "82ea661505973b2d0e3bd5b0cf4a463b",
     "fetched_at": "2026-06-28T10:22:31.461113+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Algerians celebrate as dramatic draw seals World Cup knockout spot",
-    "summary": "\"We wanted to take our revenge against Austria\": Algeria fans react in Algiers after the draw against Austria secured the Fennecs' place in the World Cup round of 32.",
-    "link": "http://www.euronews.com/video/2026/06/28/algerians-celebrate-as-dramatic-draw-seals-world-cup-knockout-spot",
-    "published": "Sun, 28 Jun 2026 11:31:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d36b724fbdbad16799f5eb149ed47acc",
-    "fetched_at": "2026-06-28T10:22:30.320886+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain removes Gibraltar from its tax haven list after 35 years, adds Russia",
-    "summary": "The Spanish Ministry of Finance has updated its list of non-cooperative jurisdictions, removing Gibraltar after 35 years and adding Russia, in line with the European Union's position",
-    "link": "http://www.euronews.com/2026/06/28/spain-removes-gibraltar-from-its-tax-haven-list-after-35-years-adds-russia",
-    "published": "Sun, 28 Jun 2026 11:52:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f8b411067b8940b5b33e05e6cf249b3a",
-    "fetched_at": "2026-06-28T10:22:29.179041+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 28th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/28/latest-news-bulletin-june-28th-2026-midday",
-    "published": "Sun, 28 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3e0d2de2ad5172947c0e2184431fdc6f",
-    "fetched_at": "2026-06-28T10:22:28.009900+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
-    "summary": "In Venezuela, rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
-    "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
-    "published": "Sun, 28 Jun 2026 04:50:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "09f114f7fc1069b1b60adfa4c27a992c",
-    "fetched_at": "2026-06-28T10:22:26.870859+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-    "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-    "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 23:10:39 GMT",
-    "source": "BBC News",
-    "id": "cb2ec87ff90cb15510c030beb1e124b0",
-    "fetched_at": "2026-06-28T07:44:58.653100+00:00"
   }
 ]
