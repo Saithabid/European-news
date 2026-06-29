@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
+    "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
+    "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 14:40:58 GMT",
+    "source": "BBC News",
+    "id": "7628ab8d80455ccbf3365d070b5289c0",
+    "fetched_at": "2026-06-29T16:55:44.354296+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australian charged with murder after Thai teen's body found in suitcase",
+    "summary": "Australian man Simon Carman has been charged with murdering 17-year-old Tunchanok Donhomla after her body was found inside a suitcase in Pattaya. Police say the investigation is ongoing, while the suspect denies abducting and killing the teenager.",
+    "link": "http://www.euronews.com/2026/06/29/australian-charged-with-murder-after-thai-teens-body-found-in-suitcase",
+    "published": "Mon, 29 Jun 2026 15:03:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1af7e48341211a583a93866a6bd0409b",
+    "fetched_at": "2026-06-29T16:55:44.354294+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of migrants queue for repatriation in South African camps",
+    "summary": "Over 15,000 Malawians are being repatriated from crowded Durban camps as South Africa enforces migration rules and regional governments organise returns.",
+    "link": "http://www.euronews.com/video/2026/06/29/thousands-of-migrants-queue-for-repatriation-in-south-african-camps",
+    "published": "Mon, 29 Jun 2026 17:34:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "50897398c4d310241c2249eeb05bac29",
+    "fetched_at": "2026-06-29T16:55:44.354292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 29th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/29/latest-news-bulletin-june-29th-2026-evening",
+    "published": "Mon, 29 Jun 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2629857229a798fd6b3f70db74b47ce3",
+    "fetched_at": "2026-06-29T16:55:44.354289+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Artist bids goodbye to Danish postal system",
+    "summary": "An artist has made items from letters sent just before Denmark's letter post service ended.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d270dpmd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 05:13:43 GMT",
+    "source": "BBC News",
+    "id": "ae7a359f150b855a0925ff53e13f1944",
+    "fetched_at": "2026-06-29T16:55:44.354286+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+    "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
+    "source": "BBC News",
+    "id": "2240a79f354faca9e8ba5121c6ba932c",
+    "fetched_at": "2026-06-29T16:55:44.354284+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Farage says mass migration has changed the UK ‘literally beyond recognition,’ believes party can win election",
+    "summary": "Nigel Farage calls Britain&apos;s political system &quot;completely broken&quot; after Starmer&apos;s resignation and says Reform UK would have every chance of winning.",
+    "link": "https://www.foxnews.com/world/farage-says-mass-migration-has-changed-uk-literally-beyond-recognition-believes-party-can-win-election",
+    "published": "Sat, 27 Jun 2026 11:45:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a87a82938065da7d7f281fd93cccf3f4",
+    "fetched_at": "2026-06-29T16:55:44.354280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gulf countries strongly condemn Iran's drone attack on Bahrain as rising tensions threaten MOU",
+    "summary": "Persian Gulf countries are furious over Iran&apos;s aggression on Saturday with its drone strikes against targets in Bahrain. This is a major escalation.",
+    "link": "https://www.foxnews.com/world/gulf-countries-strongly-condemn-irans-drone-attack-bahrain-rising-tensions-threaten-mou",
+    "published": "Sat, 27 Jun 2026 13:56:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d8e131e69205d381eda836db68269d36",
+    "fetched_at": "2026-06-29T16:55:44.354263+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+    "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+    "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+    "published": "Sun, 28 Jun 2026 14:01:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "d4c1d278d877ddbd79bc30eec859021e",
+    "fetched_at": "2026-06-29T16:55:43.238046+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
+    "summary": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
+    "published": "Mon, 29 Jun 2026 06:42:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "c1aa988f7e90c50af31a9f557aaa0c61",
+    "fetched_at": "2026-06-29T16:55:42.107801+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's face is added to select US passports for America's 250th birthday",
+    "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+    "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:03:26 GMT",
+    "source": "BBC News",
+    "id": "826c172ea4d355b1c12c8920154cf81b",
+    "fetched_at": "2026-06-29T16:55:40.978372+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+    "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 16:33:50 GMT",
+    "source": "BBC News",
+    "id": "e67ee4923cccb920340b00f499aabcf7",
+    "fetched_at": "2026-06-29T16:55:39.859569+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
+    "summary": "The decision could affect voting deadlines of more than a dozen states that will be pivotal in deciding the control of Congress after the midterm elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 16:32:06 GMT",
+    "source": "BBC News",
+    "id": "a7021560e25028869d498a775ea616ba",
+    "fetched_at": "2026-06-29T16:55:38.740132+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+    "summary": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 15:30:35 GMT",
+    "source": "BBC News",
+    "id": "9d1092c898c395e11505ec919f457396",
+    "fetched_at": "2026-06-29T16:55:37.617490+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+    "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 16:51:52 GMT",
+    "source": "BBC News",
+    "id": "de8e2b76e0933068d7280c7c70376b40",
+    "fetched_at": "2026-06-29T16:55:36.493443+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
     "summary": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat.",
     "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "843f0a24b0ca8f3e4d9efd637345b2f1",
     "fetched_at": "2026-06-29T02:46:32.528247+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-    "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
-    "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-    "published": "Sat, 27 Jun 2026 05:02:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "6182179a3846b39f76820c880037eb41",
-    "fetched_at": "2026-06-29T02:46:31.390366+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "We have been treated unfairly by USA in World Cup - Iran",
-    "summary": "For their first two matches in Los Angeles, Iran's squad was only allowed to enter the United States the day before.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 11:14:31 GMT",
-    "source": "BBC News",
-    "id": "173be3d8f51071c2f5cdbb3a71e245bb",
-    "fetched_at": "2026-06-29T02:46:30.255824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Joy as man pulled from rubble three days after Venezuela quake",
-    "summary": "Spanish and international rescue teams pulled a survivor from the rubble four days after deadly earthquakes struck Venezuela. Search operations continue as crews race to find more survivors, with the death toll rising to more than 1,400.",
-    "link": "http://www.euronews.com/2026/06/28/joy-as-man-pulled-from-rubble-three-days-after-venezuela-quake",
-    "published": "Sun, 28 Jun 2026 23:00:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "af2ec4f39bc4c6539d27200050c83724",
-    "fetched_at": "2026-06-28T22:57:10.061941+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists",
-    "summary": "A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff.",
-    "link": "https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists",
-    "published": "Sun, 28 Jun 2026 17:45:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3a20ed89182243bbe8b3eb1b03545daa",
-    "fetched_at": "2026-06-28T22:57:10.061937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
-    "summary": "Hapag-Lloyd warns of a &quot;new normal&quot; in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
-    "link": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
-    "published": "Sun, 28 Jun 2026 17:47:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97249b070d87e3f71c4845b92a5879bf",
-    "fetched_at": "2026-06-28T22:57:10.061909+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reporter's Notebook: What its like to report from an Ebola outbreak",
-    "summary": "Covering an Ebola outbreak means taking extra precautions. In this Reporter's Notebook, NPR's Emmet Livingstone takes us behind the reporting in eastern Congo.",
-    "link": "https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak",
-    "published": "Sat, 27 Jun 2026 17:05:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "d3ab72769fd486c188f6ad1b705f92b8",
-    "fetched_at": "2026-06-28T22:57:08.942247+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "In Venezuela, silence has become a rescue tool",
-    "summary": "In Venezuela rescue crews now stop almost everything and ask for silence so they can hear anyone still alive underneath the rubble. NPR's Eyder Peralta reports from the port city of La Guaira.",
-    "link": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
-    "published": "Sun, 28 Jun 2026 17:00:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "53372517c56b9f0bdbe0c1bc40d438b4",
-    "fetched_at": "2026-06-28T22:57:07.774232+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
-    "summary": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
-    "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 03:07:46 GMT",
-    "source": "BBC News",
-    "id": "62750e538c06e154e46256a677e5b753",
-    "fetched_at": "2026-06-28T22:57:06.667793+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-    "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 00:06:19 GMT",
-    "source": "BBC News",
-    "id": "9e4ef652290814f5e7e969dc0e45780f",
-    "fetched_at": "2026-06-28T22:57:05.567024+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-    "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-    "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 23:01:50 GMT",
-    "source": "BBC News",
-    "id": "363d900207176faa11c8e062aa9d74a3",
-    "fetched_at": "2026-06-28T22:57:04.449837+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Just how much trouble is Canada's economy in?",
-    "summary": "Five charts help illustrate the state of Canada's economy - and how it's performing compared to other wealthy nations.",
-    "link": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 01:58:40 GMT",
-    "source": "BBC News",
-    "id": "db0ca8bbb504a61eef123f7aa5e2123a",
-    "fetched_at": "2026-06-28T22:57:03.335451+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-    "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 04:54:50 GMT",
-    "source": "BBC News",
-    "id": "54dc1071f4f82dbbfa51b5ab453d6b67",
-    "fetched_at": "2026-06-28T22:57:02.214529+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran threatens total halt to talks amid intensive US air activity near Hormuz",
-    "summary": "The IRGC said the weekend US strikes violated the framework deal and warned that violating vessels would face a \"crushing response,\" as Euronews journalists in Doha observed US refuelling aircraft taking off towards Hormuz in the same formation as the previous night's strikes.",
-    "link": "http://www.euronews.com/2026/06/28/iran-threatens-total-halt-to-talks-amid-intensive-us-air-activity-over-hormuz",
-    "published": "Sun, 28 Jun 2026 21:17:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4b44808bb14388f18b3610fa12e87b24",
-    "fetched_at": "2026-06-28T20:54:51.690002+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
-    "summary": "Ukraine's Volodmyr Zelensky skips major conference aimed at rebuilding his country after being stripped of a Polish state honour.",
-    "link": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 12:25:14 GMT",
-    "source": "BBC News",
-    "id": "26db1d1f379a79711a5fd206846d4768",
-    "fetched_at": "2026-06-28T20:54:50.559765+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
-    "summary": "Iran&apos;s decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump&apos;s nuclear deal, analysts say.",
-    "link": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
-    "published": "Sun, 28 Jun 2026 16:37:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a814d491cd6a1367c3d83159a18e5be1",
-    "fetched_at": "2026-06-28T20:54:49.414442+00:00"
   }
 ]
