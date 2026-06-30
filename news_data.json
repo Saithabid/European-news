@@ -1,6 +1,196 @@
 [
   {
     "region": "Europe",
+    "title": "Senegalese MPs move to clip presidential powers as tensions mount",
+    "summary": "The proposed changes agreed by a majority of MPs sparked protests outside parliament.",
+    "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 14:35:03 GMT",
+    "source": "BBC News",
+    "id": "138f5569c2b183d3dae28dc2b8da06eb",
+    "fetched_at": "2026-06-30T17:48:02.120292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+    "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 17:21:09 GMT",
+    "source": "BBC News",
+    "id": "74f43958198c8a64a31e88b80f5f8734",
+    "fetched_at": "2026-06-30T17:48:02.120290+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US envoys Witkoff and Kushner land in Qatar for fresh Iran war talks",
+    "summary": "Qatar said Trump's envoys arrived on Tuesday to meet mediators on \"all regional issues,\" as Tehran confirmed sending its own delegation to Doha this week but denied agreeing to meet US counterparts \"at any level\". The visit follows four days of strikes in the Strait of Hormuz that paused on Monday.",
+    "link": "http://www.euronews.com/2026/06/30/us-envoys-witkoff-and-kushner-land-in-qatar-for-fresh-iran-war-talks",
+    "published": "Tue, 30 Jun 2026 12:43:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "69fd693951af31caf995a17a314165e5",
+    "fetched_at": "2026-06-30T17:48:02.120288+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Von der Leyen visits Azerbaijan and Armenia to deepen South Caucasus ties",
+    "summary": "European Commission President Ursula von der Leyen begins the first visit to the South Caucasus since Armenia and Azerbaijan signed their historic peace agreement, now offering the EU the opportunities to build on the EU's strategic engagement with the region formerly in Russia's orbit.",
+    "link": "http://www.euronews.com/2026/06/30/von-der-leyen-visits-azerbaijan-and-armenia-to-deepen-south-caucasus-ties",
+    "published": "Tue, 30 Jun 2026 14:51:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "33c88b580dfb640545373ffb44f1ce00",
+    "fetched_at": "2026-06-30T17:48:02.120286+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands soaked in wine at Spain's iconic festival",
+    "summary": "Thousands gather in Haro, Spain, for the La Rioja wine battle, spraying wine, dancing and climbing the hill to the church in a colourful festival.",
+    "link": "http://www.euronews.com/video/2026/06/30/thousands-soaked-in-wine-at-spains-iconic-festival",
+    "published": "Tue, 30 Jun 2026 15:00:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3aa3ebbfeb3b65a79f7c2a7ff191640f",
+    "fetched_at": "2026-06-30T17:48:02.120284+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South African protesters call for undocumented migrants to leave",
+    "summary": "Anti-immigrant protesters march in Durban as the March and March movement calls for government action on undocumented migration amid a police presence.",
+    "link": "http://www.euronews.com/video/2026/06/30/south-african-protesters-call-for-undocumented-migrants-to-leave",
+    "published": "Tue, 30 Jun 2026 16:00:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "63483fd9201e1b9632985f8c6cf77acd",
+    "fetched_at": "2026-06-30T17:48:02.120281+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two gas fields off Cyprus could start production by 2033",
+    "summary": "Cypriot President Nikos Christodoulides lauded the signing of the \"declaration of marketability\" as a \"major step towards establishing the Eastern Mediterranean as a credible alternative energy corridor for Europe\".",
+    "link": "http://www.euronews.com/2026/06/30/two-gas-fields-off-cyprus-could-start-production-by-2033",
+    "published": "Tue, 30 Jun 2026 16:34:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "76ee044ed15f9dc817b8a11935d9ed5b",
+    "fetched_at": "2026-06-30T17:48:02.120279+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 30th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/30/latest-news-bulletin-june-30th-2026-evening",
+    "published": "Tue, 30 Jun 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7b249f12319f56ed2902b725b9102b97",
+    "fetched_at": "2026-06-30T17:48:02.120276+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Supreme Court strikes down Trump's executive order restricting birthright citizenship",
+    "summary": "The 14th Amendment says that \"all persons born or naturalised in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside\".",
+    "link": "http://www.euronews.com/2026/06/30/supreme-court-strikes-down-trumps-executive-order-restricting-birthright-citizenship",
+    "published": "Tue, 30 Jun 2026 19:12:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "456a1a76e18ce45805bbab319cb06231",
+    "fetched_at": "2026-06-30T17:48:02.120273+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Christmas market attacker jailed for life for murdering six in Germany",
+    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 26 Jun 2026 10:49:11 GMT",
+    "source": "BBC News",
+    "id": "52d4dda2a8d68e3cca1f4f7df3b54b83",
+    "fetched_at": "2026-06-30T17:48:02.120271+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+    "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 17:28:59 GMT",
+    "source": "BBC News",
+    "id": "f2e207d1dc0fe6b534d806a72afb1207",
+    "fetched_at": "2026-06-30T17:48:02.120267+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+    "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
+    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 16:12:25 GMT",
+    "source": "BBC News",
+    "id": "532c2cce51910d464323c207686bb565",
+    "fetched_at": "2026-06-30T17:48:02.120239+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
+    "summary": "Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions.",
+    "link": "https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages",
+    "published": "Tue, 30 Jun 2026 10:15:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2d058969c231edc3ae1ad2e67877de19",
+    "fetched_at": "2026-06-30T17:48:00.986322+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
+    "summary": "Bolivia&apos;s pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.",
+    "link": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
+    "published": "Tue, 30 Jun 2026 12:45:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f4c5368ac1de9e0339a6d3d22578bcd4",
+    "fetched_at": "2026-06-30T17:47:59.855695+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
+    "summary": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 21:21:15 GMT",
+    "source": "BBC News",
+    "id": "74cdd3789cbfd1a61ab99ea29c43bbeb",
+    "fetched_at": "2026-06-30T17:47:58.704120+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can the World Cup's viral stars turn social media fame into fortunes?",
+    "summary": "They’re not Ronaldo or Messi, but they might be set for life after gaining millions of new followers.",
+    "link": "https://www.bbc.co.uk/news/articles/cy04k0vzqrdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 14:09:59 GMT",
+    "source": "BBC News",
+    "id": "5de109b90920e1b2e8bc4d0993f1f0f7",
+    "fetched_at": "2026-06-30T17:47:57.589829+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Missing US congressman explains mysterious four-month absence",
+    "summary": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 17:01:02 GMT",
+    "source": "BBC News",
+    "id": "cb880ac7f1022ced03067a02d2f920e2",
+    "fetched_at": "2026-06-30T17:47:56.463777+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+    "summary": "Trump called it a \"big win\" but a major LGBT campaign group described the ruling as \"heartbreaking\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 17:02:39 GMT",
+    "source": "BBC News",
+    "id": "3a38488ad566aa2f98857a92c03d90f6",
+    "fetched_at": "2026-06-30T17:47:55.355454+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court's birthright ruling is major blow to Trump",
+    "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
+    "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 14:37:54 GMT",
+    "source": "BBC News",
+    "id": "685a3ef4827ed3e1fe3b8b73956c60c5",
+    "fetched_at": "2026-06-30T17:47:54.231542+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
     "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
     "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
@@ -408,195 +598,5 @@
     "source": "BBC News",
     "id": "e5b1715d4162a2b9b617e6cabd9ea041",
     "fetched_at": "2026-06-30T07:43:51.190372+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US military touts work to assist in Venezuela following deadly earthquakes",
-    "summary": "The United States military is helping with disaster relief in Venezuela following the earthquakes that wreaked havoc in the South American country.",
-    "link": "https://www.foxnews.com/world/us-military-touts-work-assist-venezuela-following-deadly-earthquakes",
-    "published": "Mon, 29 Jun 2026 07:19:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1eff9e3cf236cb39a7ce095b7284f417",
-    "fetched_at": "2026-06-30T02:40:53.231979+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families watch in horror as skydiving plane crashes in France, killing all 11 aboard",
-    "summary": "A skydiving plane crashed shortly after takeoff in northeastern France, killing all 11 aboard. Investigators are working to determine the cause.",
-    "link": "https://www.foxnews.com/world/families-watch-horror-skydiving-plane-crashes-france-killing-11-aboard",
-    "published": "Mon, 29 Jun 2026 07:47:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "716e3150a8c6cb82009d69f408bf533e",
-    "fetched_at": "2026-06-30T02:40:53.231951+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Parcel bomb' explodes in Monaco residential area, leaving 2 critically injured: reports",
-    "summary": "Surveillance video reportedly shows a man leaving a backpack moments before a blast rocked a building Monaco, critically injuring two people Monday night.",
-    "link": "https://www.foxnews.com/world/parcel-bomb-explodes-monaco-residential-area-leaving-2-critically-injured-reports",
-    "published": "Mon, 29 Jun 2026 20:40:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c758c312acf837b0e3bd5d02fe4829bd",
-    "fetched_at": "2026-06-30T02:40:52.092484+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Could neo-Nazi youth, or 'active clubs,' have played a role in Belfast riots?",
-    "summary": "In the wake of racist mob violence in Northern Ireland, there has been attention on \"active clubs,\" a global network of fascist, white nationalist youth groups that center activities around mixed martial arts.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5871337/violence-belfast-northern-ireland-white-supremacy-riots-active-clubs",
-    "published": "Mon, 29 Jun 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "8eea5207fd46b7928e68eeb51c3b9b98",
-    "fetched_at": "2026-06-30T02:40:50.954811+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
-    "summary": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
-    "published": "Mon, 29 Jun 2026 07:14:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "544d12b3a2e89406b4f7e7df6a468979",
-    "fetched_at": "2026-06-30T02:40:49.804244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
-    "summary": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahoma state trooper to head Immigration and Customs Enforcement.",
-    "link": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
-    "published": "Mon, 29 Jun 2026 07:42:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "210a9314d74ada381db3a079d214e431",
-    "fetched_at": "2026-06-30T02:40:48.657029+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-    "summary": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.",
-    "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
-    "published": "Mon, 29 Jun 2026 08:58:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "773aec3f37a4e889f48c4ef8d9bd0c6f",
-    "fetched_at": "2026-06-30T02:40:47.492934+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-    "summary": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
-    "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-    "published": "Mon, 29 Jun 2026 21:43:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "53c5e2c8fab6174c347b9ea624446fd5",
-    "fetched_at": "2026-06-30T02:40:46.354350+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about the looming  deadline on North American free trade",
-    "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
-    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 23:32:52 GMT",
-    "source": "BBC News",
-    "id": "2a479abc40eb45f8fe6ab098fd0f482c",
-    "fetched_at": "2026-06-30T02:40:45.214586+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
-    "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 21:11:04 GMT",
-    "source": "BBC News",
-    "id": "3ce74d947e311cfdf9b5f3b7682e004e",
-    "fetched_at": "2026-06-29T22:49:49.348531+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-    "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 15:46:50 GMT",
-    "source": "BBC News",
-    "id": "d578b3fe60afe826b685cebaebded536",
-    "fetched_at": "2026-06-29T22:49:48.226072+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-    "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 14:52:10 GMT",
-    "source": "BBC News",
-    "id": "741839b17ab56bc5bdeb28be3cad6f3f",
-    "fetched_at": "2026-06-29T22:49:47.084075+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-    "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-    "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 21:19:28 GMT",
-    "source": "BBC News",
-    "id": "693db6883f2c1e35dd1c091645480e7a",
-    "fetched_at": "2026-06-29T22:49:45.948158+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman kills 6 at youth welfare facility in suspected child custody dispute: reports",
-    "summary": "German President Frank-Walter Steinmeier said he was &quot;deeply shocked&quot; after six people were killed in a shooting at a facility housing mothers and children.",
-    "link": "https://www.foxnews.com/world/gunman-kills-6-youth-welfare-facility-suspected-child-custody-dispute-reports",
-    "published": "Mon, 29 Jun 2026 17:42:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8a15a4584ae36f77f451407bbdf10132",
-    "fetched_at": "2026-06-29T22:49:44.811000+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
-    "summary": "Venezuela's La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez's first major test. Now, it's the acting leader's challenge.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
-    "published": "Mon, 29 Jun 2026 16:19:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "4f33888f51e31806d5b3d021363ad1a1",
-    "fetched_at": "2026-06-29T22:49:43.681586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Football was always in our blood': Canada midfielder's journey to World Cup history",
-    "summary": "Canada's historic goal against South Africa was scored by Stephen Eustáquio, a product of the country's vibrant, football-obsessed Portuguese community.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4r0r0rylzo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 22:28:24 GMT",
-    "source": "BBC News",
-    "id": "cfdb52ae8bab37ff87483fcf6efba628",
-    "fetched_at": "2026-06-29T22:49:42.552917+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-    "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:00:44 GMT",
-    "source": "BBC News",
-    "id": "d063d91d288f67e10b93de3f99475b11",
-    "fetched_at": "2026-06-29T21:19:20.994209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran says delegation to visit Qatar this week but insists no negotiations scheduled with the US",
-    "summary": "Tehran confirmed a delegation would travel to Doha to discuss the implementation of a Memorandum of Understanding (MoU) amid conflicting signals from Washington over the nature and timing of the talks.",
-    "link": "http://www.euronews.com/2026/06/29/iran-says-delegation-to-visit-qatar-this-week-but-insists-no-negotiations-scheduled-with-t",
-    "published": "Mon, 29 Jun 2026 22:20:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7a46a50ea1207323faf846c618e4924a",
-    "fetched_at": "2026-06-29T21:19:20.994206+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-    "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 10:38:37 GMT",
-    "source": "BBC News",
-    "id": "d0d25553975a367668f0bf8aaad3e0a7",
-    "fetched_at": "2026-06-29T21:19:20.994203+00:00"
   }
 ]
