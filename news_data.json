@@ -1,5 +1,95 @@
 [
   {
+    "region": "USA",
+    "title": "US military touts work to assist in Venezuela following deadly earthquakes",
+    "summary": "The United States military is helping with disaster relief in Venezuela following the earthquakes that wreaked havoc in the South American country.",
+    "link": "https://www.foxnews.com/world/us-military-touts-work-assist-venezuela-following-deadly-earthquakes",
+    "published": "Mon, 29 Jun 2026 07:19:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1eff9e3cf236cb39a7ce095b7284f417",
+    "fetched_at": "2026-06-30T02:40:53.231979+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Families watch in horror as skydiving plane crashes in France, killing all 11 aboard",
+    "summary": "A skydiving plane crashed shortly after takeoff in northeastern France, killing all 11 aboard. Investigators are working to determine the cause.",
+    "link": "https://www.foxnews.com/world/families-watch-horror-skydiving-plane-crashes-france-killing-11-aboard",
+    "published": "Mon, 29 Jun 2026 07:47:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "716e3150a8c6cb82009d69f408bf533e",
+    "fetched_at": "2026-06-30T02:40:53.231951+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Parcel bomb' explodes in Monaco residential area, leaving 2 critically injured: reports",
+    "summary": "Surveillance video reportedly shows a man leaving a backpack moments before a blast rocked a building Monaco, critically injuring two people Monday night.",
+    "link": "https://www.foxnews.com/world/parcel-bomb-explodes-monaco-residential-area-leaving-2-critically-injured-reports",
+    "published": "Mon, 29 Jun 2026 20:40:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c758c312acf837b0e3bd5d02fe4829bd",
+    "fetched_at": "2026-06-30T02:40:52.092484+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could neo-Nazi youth, or 'active clubs,' have played a role in Belfast riots?",
+    "summary": "In the wake of racist mob violence in Northern Ireland, there has been attention on \"active clubs,\" a global network of fascist, white nationalist youth groups that center activities around mixed martial arts.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5871337/violence-belfast-northern-ireland-white-supremacy-riots-active-clubs",
+    "published": "Mon, 29 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "8eea5207fd46b7928e68eeb51c3b9b98",
+    "fetched_at": "2026-06-30T02:40:50.954811+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks",
+    "summary": "President Trump said talks with Iran would resume Tuesday in Qatar, despite the two sides trading attacks in the Gulf over the weekend. Iran did not confirm whether it will participate.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
+    "published": "Mon, 29 Jun 2026 07:14:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "544d12b3a2e89406b4f7e7df6a468979",
+    "fetched_at": "2026-06-30T02:40:49.804244+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
+    "summary": "The U.S. and Iran exchanged strikes over the weekend, putting their latest ceasefire in jeopardy. And, Trump has nominated a former Oklahoma state trooper to head Immigration and Customs Enforcement.",
+    "link": "https://www.npr.org/2026/06/29/g-s1-130793/up-first-newsletter-iran-war-ceasefire-venezuela-earthquakes-ice-lance-schroyer",
+    "published": "Mon, 29 Jun 2026 07:42:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "210a9314d74ada381db3a079d214e431",
+    "fetched_at": "2026-06-30T02:40:48.657029+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+    "summary": "Pakistan says it targeted militant hideouts along the Pakistan-Afghanistan border in response to militant attacks across Pakistan. Afghanistan condemned the strikes as acts of aggression.",
+    "link": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say",
+    "published": "Mon, 29 Jun 2026 08:58:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "773aec3f37a4e889f48c4ef8d9bd0c6f",
+    "fetched_at": "2026-06-30T02:40:47.492934+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+    "summary": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
+    "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+    "published": "Mon, 29 Jun 2026 21:43:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "53c5e2c8fab6174c347b9ea624446fd5",
+    "fetched_at": "2026-06-30T02:40:46.354350+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know about the looming  deadline on North American free trade",
+    "summary": "The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline.",
+    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 23:32:52 GMT",
+    "source": "BBC News",
+    "id": "2a479abc40eb45f8fe6ab098fd0f482c",
+    "fetched_at": "2026-06-30T02:40:45.214586+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
     "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "8ca25c6f4c7f90092fdab29d5adb7be3",
     "fetched_at": "2026-06-29T14:00:06.624694+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thai airline employee arrested in Australia on suspicion of smuggling €302,000 of heroin",
-    "summary": "The 26-year-old woman was on duty on board an international flight when she arrived at Melbourne Airport on Thursday.",
-    "link": "http://www.euronews.com/2026/06/29/thai-airline-employee-arrested-in-australia-on-suspicion-of-smuggling-302000-of-heroin",
-    "published": "Mon, 29 Jun 2026 13:17:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "415556daa850e944502de471d4535e85",
-    "fetched_at": "2026-06-29T14:00:06.624692+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aerial images reveal scale of destruction after Venezuela earthquakes",
-    "summary": "Four days after twin quakes hit Venezuela, rescues continue at Los Cocos beach, with 1,500 dead, 189 buildings down and a father and son pulled alive.",
-    "link": "http://www.euronews.com/video/2026/06/29/aerial-images-reveal-scale-of-destruction-after-venezuela-earthquakes",
-    "published": "Mon, 29 Jun 2026 13:30:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "91ffa026f182bb20f33daaed9af94570",
-    "fetched_at": "2026-06-29T14:00:06.624690+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France confirms first Ebola case",
-    "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 24 Jun 2026 15:00:52 GMT",
-    "source": "BBC News",
-    "id": "2bedf801c2ba07927d6c8862322906f1",
-    "fetched_at": "2026-06-29T14:00:06.624687+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burkina Faso severs diplomatic ties with France",
-    "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 14:21:31 GMT",
-    "source": "BBC News",
-    "id": "2f0d962663b6a190c63da57d13e8004b",
-    "fetched_at": "2026-06-29T14:00:06.624685+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-    "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 18:50:12 GMT",
-    "source": "BBC News",
-    "id": "36f833729b7e699a7f8ad69e8d610025",
-    "fetched_at": "2026-06-29T14:00:06.624682+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-    "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 18:34:07 GMT",
-    "source": "BBC News",
-    "id": "6053ea3a53f113399c871e7934a494dd",
-    "fetched_at": "2026-06-29T14:00:06.624679+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five dead following shooting at youth centre in Stade, northern Germany",
-    "summary": "Two people have been arrested, one of whom is a suspect, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 12:52:04 GMT",
-    "source": "BBC News",
-    "id": "9949d4cc8b32d7322e0ec41eb2d75885",
-    "fetched_at": "2026-06-29T14:00:06.624676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As America turns 250, a rare 1790 exchange between Washington and Bishop Carroll takes on new relevance",
-    "summary": "A 1790 letter from Bishop John Carroll to George Washington sought reassurance that Catholics would be equal citizens in the new American republic.",
-    "link": "https://www.foxnews.com/world/america-turns-250-rare-1790-exchange-washington-bishop-carroll-takes-new-relevance",
-    "published": "Sun, 28 Jun 2026 08:00:26 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4b35f4b4d265637c36f9700f541f3670",
-    "fetched_at": "2026-06-29T14:00:06.624673+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "33 rescued from Venezuelan rubble: Survival window desperately fading with nearly 50,000 missing",
-    "summary": "Search and rescue crews race against time in La Guaira as 33 survivors are pulled from collapsed buildings while nearly 50,000 remain missing.",
-    "link": "https://www.foxnews.com/world/33-rescued-venezuelan-rubble-survival-window-desperately-fading-nearly-50000-missing",
-    "published": "Sun, 28 Jun 2026 12:25:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6712b259ddcd19acf3ecf1954a55cc2c",
-    "fetched_at": "2026-06-29T14:00:06.624671+00:00"
   }
 ]
