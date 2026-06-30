@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+    "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+    "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 09:50:58 GMT",
+    "source": "BBC News",
+    "id": "17689c5616d732d1c68e982130d2f6ee",
+    "fetched_at": "2026-06-30T10:50:24.319086+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "European rescue teams arrive in Venezuela in desperate bid to find quake survivors",
+    "summary": "Tens of thousands of people remain unaccounted for and time is running out to find survivors following the quakes of magnitude 7.2 and 7.5, the strongest to hit the South American nation in more than a century.",
+    "link": "http://www.euronews.com/2026/06/30/european-rescue-teams-arrive-in-venezuela-in-desperate-bid-to-find-quake-survivors",
+    "published": "Tue, 30 Jun 2026 09:37:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "66bc60014ac043d5bd519d5d19deb2d4",
+    "fetched_at": "2026-06-30T10:50:24.319084+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela earthquake: La Guaira port turned into makeshift morgue",
+    "summary": "La Guaira port in Venezuela is turned into a makeshift morgue after twin earthquakes, with forensic teams processing victims and families waiting for news.",
+    "link": "http://www.euronews.com/video/2026/06/30/venezuela-earthquake-la-guaira-port-turned-into-makeshift-morgue",
+    "published": "Tue, 30 Jun 2026 11:02:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "50dbe2aa71708d70e0c3460b5015420e",
+    "fetched_at": "2026-06-30T10:50:24.319082+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Clashes erupt in the Netherlands after Morocco’s World Cup victory",
+    "summary": "Celebrations for Morocco’s World Cup win over the Netherlands in The Hague turn into clashes with arrests made amid street unrest and festivities.",
+    "link": "http://www.euronews.com/video/2026/06/30/clashes-erupt-in-the-netherlands-after-moroccos-world-cup-victory",
+    "published": "Tue, 30 Jun 2026 11:42:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d0832551757ae76dcc0363a2dcd15e9a",
+    "fetched_at": "2026-06-30T10:50:24.319080+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 30th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/30/latest-news-bulletin-june-30th-2026-midday",
+    "published": "Tue, 30 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8609cbd139cda113596705a47eec7926",
+    "fetched_at": "2026-06-30T10:50:24.319077+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+    "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
+    "source": "BBC News",
+    "id": "2240a79f354faca9e8ba5121c6ba932c",
+    "fetched_at": "2026-06-30T10:50:24.319067+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
+    "summary": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
+    "published": "Mon, 29 Jun 2026 06:42:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "c1aa988f7e90c50af31a9f557aaa0c61",
+    "fetched_at": "2026-06-30T10:50:23.180310+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war supercharges pivot to renewable energy",
+    "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+    "published": "Tue, 30 Jun 2026 04:46:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "c0ec705acc0ce5ea874c9b0044d96604",
+    "fetched_at": "2026-06-30T10:50:22.043948+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+    "summary": "146 Venezuelans were deported from Texas to Caracas on June 24. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
+    "published": "Tue, 30 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "49ff2911851ef4f51b2d07e88c479994",
+    "fetched_at": "2026-06-30T10:50:20.906135+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
+    "summary": "The decision could affect voting deadlines of more than a dozen states that will be pivotal in deciding the control of Congress after the midterm elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 20:15:08 GMT",
+    "source": "BBC News",
+    "id": "a7021560e25028869d498a775ea616ba",
+    "fetched_at": "2026-06-30T10:50:19.715718+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
+    "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 15:30:35 GMT",
+    "source": "BBC News",
+    "id": "9d1092c898c395e11505ec919f457396",
+    "fetched_at": "2026-06-30T10:50:18.526259+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+    "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 16:51:52 GMT",
+    "source": "BBC News",
+    "id": "de8e2b76e0933068d7280c7c70376b40",
+    "fetched_at": "2026-06-30T10:50:17.387859+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A new test for Democrats - where they stand on Israel",
+    "summary": "The New York City primaries underlined divisions in the party over Gaza, with implications for the 2028 election.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9l7gmlkppo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 09:30:04 GMT",
+    "source": "BBC News",
+    "id": "cf23df7260abcf4ea95da1cabbb714e5",
+    "fetched_at": "2026-06-30T10:50:16.228804+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Angry Venezuelans accuse government of negligence over earthquake response",
     "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
     "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "f2e207d1dc0fe6b534d806a72afb1207",
     "fetched_at": "2026-06-29T19:47:15.814767+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pakistan airstrikes leave homes in ruins in Afghanistan",
-    "summary": "Villagers inspect destroyed homes in Afghanistan's Paktia province after overnight airstrikes, as Afghan and Pakistani officials give differing accounts.",
-    "link": "http://www.euronews.com/video/2026/06/29/pakistan-airstrikes-leave-homes-in-ruins-in-afghanistan",
-    "published": "Mon, 29 Jun 2026 19:00:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "39b71f00982ec7180c11d3b104b14f5d",
-    "fetched_at": "2026-06-29T19:47:15.814765+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands take part in New York Pride parade",
-    "summary": "Thousands join New York Pride parade in Manhattan with floats, music and political leaders, marking celebration and remembrance of LGBTQ+ rights.",
-    "link": "http://www.euronews.com/video/2026/06/29/thousands-take-part-in-new-york-pride-parade",
-    "published": "Mon, 29 Jun 2026 20:00:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "84720e1d30ffa46e3f51658359417845",
-    "fetched_at": "2026-06-29T19:47:15.814762+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Swiss yodellers rehearse in public fountains as Basel swelters",
-    "summary": "Basel’s national yodelling festival unfolds during a heatwave as performers sing in fountains, compete across the city and close with street parades.",
-    "link": "http://www.euronews.com/video/2026/06/29/swiss-yodellers-rehearse-in-public-fountains-as-basel-swelters",
-    "published": "Mon, 29 Jun 2026 21:00:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1c03efdd7f58bfc33bc362292cc6480d",
-    "fetched_at": "2026-06-29T19:47:15.814759+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Poland's Tusk calls for 'mutual respect' during row with Ukraine",
-    "summary": "Ukraine's Volodmyr Zelensky skips major conference aimed at rebuilding his country after being stripped of a Polish state honour.",
-    "link": "https://www.bbc.co.uk/news/articles/clyrkze46p0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 25 Jun 2026 12:25:14 GMT",
-    "source": "BBC News",
-    "id": "26db1d1f379a79711a5fd206846d4768",
-    "fetched_at": "2026-06-29T19:47:15.814755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
-    "summary": "Iran&apos;s decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump&apos;s nuclear deal, analysts say.",
-    "link": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
-    "published": "Sun, 28 Jun 2026 16:37:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a814d491cd6a1367c3d83159a18e5be1",
-    "fetched_at": "2026-06-29T19:47:15.814724+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists",
-    "summary": "A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff.",
-    "link": "https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists",
-    "published": "Sun, 28 Jun 2026 17:45:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3a20ed89182243bbe8b3eb1b03545daa",
-    "fetched_at": "2026-06-29T19:47:14.680456+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
-    "summary": "Hapag-Lloyd warns of a &quot;new normal&quot; in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
-    "link": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
-    "published": "Sun, 28 Jun 2026 17:47:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97249b070d87e3f71c4845b92a5879bf",
-    "fetched_at": "2026-06-29T19:47:13.548536+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "In Venezuela, silence has become a rescue tool",
-    "summary": "In Venezuela rescue crews now stop almost everything and ask for silence so they can hear anyone still alive underneath the rubble. NPR's Eyder Peralta reports from the port city of La Guaira.",
-    "link": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
-    "published": "Sun, 28 Jun 2026 17:00:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "53372517c56b9f0bdbe0c1bc40d438b4",
-    "fetched_at": "2026-06-29T19:47:12.441354+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-    "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 00:06:19 GMT",
-    "source": "BBC News",
-    "id": "9e4ef652290814f5e7e969dc0e45780f",
-    "fetched_at": "2026-06-29T19:47:11.310172+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-    "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 04:54:50 GMT",
-    "source": "BBC News",
-    "id": "54dc1071f4f82dbbfa51b5ab453d6b67",
-    "fetched_at": "2026-06-29T19:47:10.184734+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "JetBlue pilot reports striking a drone while landing at JFK airport",
-    "summary": "Aviation authorities say  the aircraft landed safely and a post-flight inspection found no damage.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vy098qjyvo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 18:36:18 GMT",
-    "source": "BBC News",
-    "id": "a4fb72ab6339eb23a05f59f0b50a61e3",
-    "fetched_at": "2026-06-29T19:47:09.066445+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Deadly flash flooding hits Kentucky",
-    "summary": "At least four people are dead, with 60 water rescues and evacuations carried out across the state.",
-    "link": "https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 14:18:11 GMT",
-    "source": "BBC News",
-    "id": "28e5ac3cc53b34dc4aedf9e71e7e5cd7",
-    "fetched_at": "2026-06-29T19:47:07.933055+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-    "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-    "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 14:40:58 GMT",
-    "source": "BBC News",
-    "id": "7628ab8d80455ccbf3365d070b5289c0",
-    "fetched_at": "2026-06-29T16:55:44.354296+00:00"
   }
 ]
