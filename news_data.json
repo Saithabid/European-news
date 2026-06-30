@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+    "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 11:20:44 GMT",
+    "source": "BBC News",
+    "id": "f0b341ce1867a7ddeb6a3ec17eeefe9d",
+    "fetched_at": "2026-06-30T14:02:59.332979+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+    "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 13:51:52 GMT",
+    "source": "BBC News",
+    "id": "f1e1c5fe8fc4bad8329c725a0b5b39ce",
+    "fetched_at": "2026-06-30T14:02:59.332976+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
+    "summary": "Iran&apos;s decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump&apos;s nuclear deal, analysts say.",
+    "link": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
+    "published": "Sun, 28 Jun 2026 16:37:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a814d491cd6a1367c3d83159a18e5be1",
+    "fetched_at": "2026-06-30T14:02:59.332953+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists",
+    "summary": "A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff.",
+    "link": "https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists",
+    "published": "Sun, 28 Jun 2026 17:45:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3a20ed89182243bbe8b3eb1b03545daa",
+    "fetched_at": "2026-06-30T14:02:58.177905+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
+    "summary": "Hapag-Lloyd warns of a &quot;new normal&quot; in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
+    "link": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
+    "published": "Sun, 28 Jun 2026 17:47:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "97249b070d87e3f71c4845b92a5879bf",
+    "fetched_at": "2026-06-30T14:02:57.016704+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'",
+    "summary": "Pope Leo XIV issued an urgent plea to the Society of St. Pius X to halt bishop consecrations without Vatican approval, warning of excommunication.",
+    "link": "https://www.foxnews.com/world/pope-leo-pleads-breakaway-catholic-group-not-commit-sin-extreme-gravity",
+    "published": "Tue, 30 Jun 2026 08:25:01 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "42a2b7d529dc90410a36437f08f083d9",
+    "fetched_at": "2026-06-30T14:02:55.849262+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's Turkey arms sale proposal sparks congressional questions before NATO summit",
+    "summary": "The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmakers.",
+    "link": "https://www.foxnews.com/world/trumps-turkey-arms-sale-proposal-sparks-congressional-questions-before-nato-summit",
+    "published": "Tue, 30 Jun 2026 09:32:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71a84ba5d7c3057ea3395eee13f26883",
+    "fetched_at": "2026-06-30T14:02:54.693825+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
+    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+    "published": "Tue, 30 Jun 2026 07:46:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "98962adda0d912a8b4bc83bedb45de67",
+    "fetched_at": "2026-06-30T14:02:53.539495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadians share hopes and wishes for America's 250th birthday",
+    "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
+    "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 12:21:38 GMT",
+    "source": "BBC News",
+    "id": "8936efb073d1b34f946a292efb6e712a",
+    "fetched_at": "2026-06-30T14:02:52.286122+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Supreme Court to rule on birthright citizenship and trans athletes",
+    "summary": "The two highly anticipated rulings are core agenda items for President Donald Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l7pyj8vko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 11:14:49 GMT",
+    "source": "BBC News",
+    "id": "561e13de2232c167c0c3c41996dca4c2",
+    "fetched_at": "2026-06-30T14:02:51.027836+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
     "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
     "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "d0d25553975a367668f0bf8aaad3e0a7",
     "fetched_at": "2026-06-29T21:19:20.994203+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Christmas market attacker jailed for life for murdering six in Germany",
-    "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 26 Jun 2026 10:49:11 GMT",
-    "source": "BBC News",
-    "id": "52d4dda2a8d68e3cca1f4f7df3b54b83",
-    "fetched_at": "2026-06-29T21:19:20.994176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American rescue teams pull infant alive from rubble in Venezuela days after devastating twin earthquakes",
-    "summary": "Video shows U.S. search-and-rescue teams pulling an infant alive from rubble in Venezuela more than 72 hours after devastating twin earthquakes.",
-    "link": "https://www.foxnews.com/world/american-rescue-teams-pull-infant-alive-rubble-venezuela-days-devastating-twin-earthquakes",
-    "published": "Sat, 27 Jun 2026 22:08:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "843f0a24b0ca8f3e4d9efd637345b2f1",
-    "fetched_at": "2026-06-29T21:19:19.863386+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australia to double potential fines over child social media accounts",
-    "summary": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5874576/australia-fines-child-social-media-accounts",
-    "published": "Mon, 29 Jun 2026 02:46:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "239283e6f9d304169e9a04111dc1ef32",
-    "fetched_at": "2026-06-29T21:19:18.735493+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
-    "summary": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
-    "link": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
-    "published": "Mon, 29 Jun 2026 03:04:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "4dd982c157a2d6ab5d13a1d7dabddbbb",
-    "fetched_at": "2026-06-29T21:19:17.560888+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
-    "summary": "Substance abuse was listed as another significant condition the former child star was experiencing.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:21:03 GMT",
-    "source": "BBC News",
-    "id": "74cdd3789cbfd1a61ab99ea29c43bbeb",
-    "fetched_at": "2026-06-29T21:19:16.438364+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Search suspended for six missing after charter boat sinks near Vancouver",
-    "summary": "Of the 10 on board, three survivors were rescued by a couple on a sailboat, while a fourth was rescued by search crews. Six are still missing.",
-    "link": "https://www.bbc.co.uk/news/articles/c621r127dqwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:56:45 GMT",
-    "source": "BBC News",
-    "id": "26c1450b3fd23acb5bd419378951d755",
-    "fetched_at": "2026-06-29T21:19:15.298337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
-    "summary": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:41:10 GMT",
-    "source": "BBC News",
-    "id": "d7b5cb593b7839f6d36c13a5da8183bd",
-    "fetched_at": "2026-06-29T21:19:14.171013+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-    "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:34:52 GMT",
-    "source": "BBC News",
-    "id": "42e879fd717121a5773e32a8a37dec11",
-    "fetched_at": "2026-06-29T21:19:13.037605+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-    "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 19:16:34 GMT",
-    "source": "BBC News",
-    "id": "403a4db0c78517d52b749fb16fd4c6ec",
-    "fetched_at": "2026-06-29T19:47:15.814770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-    "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 17:28:59 GMT",
-    "source": "BBC News",
-    "id": "f2e207d1dc0fe6b534d806a72afb1207",
-    "fetched_at": "2026-06-29T19:47:15.814767+00:00"
   }
 ]
