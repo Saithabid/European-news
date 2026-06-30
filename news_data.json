@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+    "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+    "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 18:59:19 GMT",
+    "source": "BBC News",
+    "id": "5cd4b94fcbb03b20bd0a342ba2d62085",
+    "fetched_at": "2026-06-30T21:23:33.067325+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 28 Jun 2026 18:34:07 GMT",
+    "source": "BBC News",
+    "id": "6053ea3a53f113399c871e7934a494dd",
+    "fetched_at": "2026-06-30T21:23:33.067321+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+    "summary": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 02:38:35 GMT",
+    "source": "BBC News",
+    "id": "e0d14e869c4334badfcf8efa66df1136",
+    "fetched_at": "2026-06-30T21:23:33.067318+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What do we know about the shooting in Stade, Germany?",
+    "summary": "The BBC's Jessica Parker reports from the scene of the shooting that killed six people in northern Germany.",
+    "link": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 00:17:27 GMT",
+    "source": "BBC News",
+    "id": "beb14fd4b341bf887368e64194e3e85b",
+    "fetched_at": "2026-06-30T21:23:33.067314+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Six people shot dead at centre for mothers and children in Germany",
+    "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 29 Jun 2026 19:53:57 GMT",
+    "source": "BBC News",
+    "id": "9949d4cc8b32d7322e0ec41eb2d75885",
+    "fetched_at": "2026-06-30T21:23:33.067284+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+    "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+    "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 13:22:15 GMT",
+    "source": "BBC News",
+    "id": "33513df033e2bf37aa6430fd3cf292ae",
+    "fetched_at": "2026-06-30T21:23:31.964733+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+    "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 19:19:42 GMT",
+    "source": "BBC News",
+    "id": "e8d2eb36affae9a335f5ed1bb140bc90",
+    "fetched_at": "2026-06-30T21:23:30.856363+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK asylum seekers could have to pay government $13K before applying for settlement",
+    "summary": "Asylum seekers in Britain could have to repay more than $13,000 for accommodation before applying for settlement under proposed immigration rules.",
+    "link": "https://www.foxnews.com/world/uk-asylum-seekers-pay-government-13k-before-applying-settlement",
+    "published": "Tue, 30 Jun 2026 00:49:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5227944b820793cad0c5332780b66dc5",
+    "fetched_at": "2026-06-30T21:23:29.754095+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nearly 100 monkeys escape enclosure, invade neighborhoods as officials scramble to recapture them",
+    "summary": "Nearly 100 macaques escaped a government enclosure in Lopburi, Thailand, prompting officials to use tranquilizer darts and baited cages to recapture them.",
+    "link": "https://www.foxnews.com/world/nearly-100-monkeys-escape-enclosure-invade-neighborhoods-officials-scramble-recapture",
+    "published": "Tue, 30 Jun 2026 15:58:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "15507b3d9760199c41785d56f7ed48de",
+    "fetched_at": "2026-06-30T21:23:28.654468+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wave of attacks on Iran's IRGC raises questions about renewed Kurdish insurgency",
+    "summary": "Islamic Revolutionary Guard Corps forces face deadly attacks across western Iran as clashes spread, raising questions about an escalating Kurdish insurgency amid U.S.–Iran talks.",
+    "link": "https://www.foxnews.com/world/wave-attacks-irans-irgc-raises-questions-about-renewed-kurdish-insurgency",
+    "published": "Tue, 30 Jun 2026 16:38:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c7c159d3cc2bac4ba0503e3bc17df5b2",
+    "fetched_at": "2026-06-30T21:23:27.539753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
+    "summary": "Monaco 's chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
+    "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
+    "published": "Tue, 30 Jun 2026 01:35:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "9527535071a5a4cd9cd66fbe1176652e",
+    "fetched_at": "2026-06-30T21:23:26.434728+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Americans react to Supreme Court upholding birthright citizenship",
+    "summary": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
+    "link": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 19:36:51 GMT",
+    "source": "BBC News",
+    "id": "20ab38ccac3dd65a9459c724b185b9eb",
+    "fetched_at": "2026-06-30T21:23:25.312871+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
     "summary": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflicts.",
     "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "50dbe2aa71708d70e0c3460b5015420e",
     "fetched_at": "2026-06-30T10:50:24.319082+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Clashes erupt in the Netherlands after Morocco’s World Cup victory",
-    "summary": "Celebrations for Morocco’s World Cup win over the Netherlands in The Hague turn into clashes with arrests made amid street unrest and festivities.",
-    "link": "http://www.euronews.com/video/2026/06/30/clashes-erupt-in-the-netherlands-after-moroccos-world-cup-victory",
-    "published": "Tue, 30 Jun 2026 11:42:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d0832551757ae76dcc0363a2dcd15e9a",
-    "fetched_at": "2026-06-30T10:50:24.319080+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | June 30th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this June 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/06/30/latest-news-bulletin-june-30th-2026-midday",
-    "published": "Tue, 30 Jun 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8609cbd139cda113596705a47eec7926",
-    "fetched_at": "2026-06-30T10:50:24.319077+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-    "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
-    "source": "BBC News",
-    "id": "2240a79f354faca9e8ba5121c6ba932c",
-    "fetched_at": "2026-06-30T10:50:24.319067+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
-    "summary": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
-    "published": "Mon, 29 Jun 2026 06:42:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "c1aa988f7e90c50af31a9f557aaa0c61",
-    "fetched_at": "2026-06-30T10:50:23.180310+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war supercharges pivot to renewable energy",
-    "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
-    "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
-    "published": "Tue, 30 Jun 2026 04:46:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "c0ec705acc0ce5ea874c9b0044d96604",
-    "fetched_at": "2026-06-30T10:50:22.043948+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
-    "summary": "146 Venezuelans were deported from Texas to Caracas on June 24. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
-    "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
-    "published": "Tue, 30 Jun 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "49ff2911851ef4f51b2d07e88c479994",
-    "fetched_at": "2026-06-30T10:50:20.906135+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
-    "summary": "The decision could affect voting deadlines of more than a dozen states that will be pivotal in deciding the control of Congress after the midterm elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 20:15:08 GMT",
-    "source": "BBC News",
-    "id": "a7021560e25028869d498a775ea616ba",
-    "fetched_at": "2026-06-30T10:50:19.715718+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-    "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 15:30:35 GMT",
-    "source": "BBC News",
-    "id": "9d1092c898c395e11505ec919f457396",
-    "fetched_at": "2026-06-30T10:50:18.526259+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-    "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 16:51:52 GMT",
-    "source": "BBC News",
-    "id": "de8e2b76e0933068d7280c7c70376b40",
-    "fetched_at": "2026-06-30T10:50:17.387859+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A new test for Democrats - where they stand on Israel",
-    "summary": "The New York City primaries underlined divisions in the party over Gaza, with implications for the 2028 election.",
-    "link": "https://www.bbc.co.uk/news/articles/cp9l7gmlkppo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 09:30:04 GMT",
-    "source": "BBC News",
-    "id": "cf23df7260abcf4ea95da1cabbb714e5",
-    "fetched_at": "2026-06-30T10:50:16.228804+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-    "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 03:53:48 GMT",
-    "source": "BBC News",
-    "id": "79d0f1203a6e3d8803148ec980c5ce72",
-    "fetched_at": "2026-06-30T07:43:58.922303+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela twin earthquakes: death toll rises above 1,700",
-    "summary": "Venezuelan authorities now put the death toll from the twin 24 June quakes at more than 1,700, with 5,034 injured and up to 68,000 missing as UN-backed rescue efforts continue in La Guaira.",
-    "link": "http://www.euronews.com/2026/06/30/venezuela-twin-earthquakes-death-toll-rises-above-1700",
-    "published": "Tue, 30 Jun 2026 05:28:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e86d5dbd231fb7628d4184f2ec0e5bd5",
-    "fetched_at": "2026-06-30T07:43:58.922300+00:00"
   }
 ]
