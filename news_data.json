@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 19:39:29 GMT",
+    "source": "BBC News",
+    "id": "403a4db0c78517d52b749fb16fd4c6ec",
+    "fetched_at": "2026-06-30T23:04:39.887751+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+    "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+    "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 21:30:52 GMT",
+    "source": "BBC News",
+    "id": "d3acdad116b2ab465ccdb4bbff1ba542",
+    "fetched_at": "2026-06-30T23:04:39.887747+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | June 30th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this June 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/06/30/latest-news-bulletin-june-30th-2026-midday",
+    "published": "Tue, 30 Jun 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8609cbd139cda113596705a47eec7926",
+    "fetched_at": "2026-06-30T23:04:39.887721+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Death toll from Venezuela earthquakes climbs to 1,943",
+    "summary": "UNICEF has estimated that around 1.8 million people, including 680,000 children, require humanitarian assistance following the quakes.",
+    "link": "http://www.euronews.com/2026/06/30/death-toll-from-venezuela-earthquakes-climbs-to-1943",
+    "published": "Tue, 30 Jun 2026 23:22:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "42a6d187bc384071489afeab61fef530",
+    "fetched_at": "2026-06-30T23:04:38.741136+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+    "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 27 Jun 2026 20:48:16 GMT",
+    "source": "BBC News",
+    "id": "2240a79f354faca9e8ba5121c6ba932c",
+    "fetched_at": "2026-06-30T23:04:37.581846+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war supercharges pivot to renewable energy",
+    "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+    "published": "Tue, 30 Jun 2026 04:46:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "c0ec705acc0ce5ea874c9b0044d96604",
+    "fetched_at": "2026-06-30T23:04:36.290988+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+    "summary": "On June 24, 146 Venezuelans were deported from Texas to Caracas. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
+    "published": "Tue, 30 Jun 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "49ff2911851ef4f51b2d07e88c479994",
+    "fetched_at": "2026-06-30T23:04:35.137073+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Belfast violence: What to know about the fascist youth groups known as 'active clubs'",
+    "summary": "Racist mob violence in Northern Ireland earlier this month has drawn keen interest from extremist groups and figures in the U.S.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs",
+    "published": "Tue, 30 Jun 2026 17:23:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "9cc1ab40c88ac4b560a4ae6c701cce9d",
+    "fetched_at": "2026-06-30T23:04:33.804086+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dangerous heatwave to hit US ahead of holiday weekend",
+    "summary": "A dangerous heatwave will impact a large swath of the US this week, bringing scorching temps during celebrations for America's 250th birthday.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 22:08:08 GMT",
+    "source": "BBC News",
+    "id": "577b90fb8d2f235128f3b4ff7d3388a8",
+    "fetched_at": "2026-06-30T23:04:32.655102+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+    "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 22:29:47 GMT",
+    "source": "BBC News",
+    "id": "b874fcf987f71a5984f81019a08c676a",
+    "fetched_at": "2026-06-30T23:04:31.507476+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
     "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
     "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "a814d491cd6a1367c3d83159a18e5be1",
     "fetched_at": "2026-06-30T14:02:59.332953+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists",
-    "summary": "A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff.",
-    "link": "https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists",
-    "published": "Sun, 28 Jun 2026 17:45:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3a20ed89182243bbe8b3eb1b03545daa",
-    "fetched_at": "2026-06-30T14:02:58.177905+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
-    "summary": "Hapag-Lloyd warns of a &quot;new normal&quot; in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.",
-    "link": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
-    "published": "Sun, 28 Jun 2026 17:47:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97249b070d87e3f71c4845b92a5879bf",
-    "fetched_at": "2026-06-30T14:02:57.016704+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'",
-    "summary": "Pope Leo XIV issued an urgent plea to the Society of St. Pius X to halt bishop consecrations without Vatican approval, warning of excommunication.",
-    "link": "https://www.foxnews.com/world/pope-leo-pleads-breakaway-catholic-group-not-commit-sin-extreme-gravity",
-    "published": "Tue, 30 Jun 2026 08:25:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "42a2b7d529dc90410a36437f08f083d9",
-    "fetched_at": "2026-06-30T14:02:55.849262+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's Turkey arms sale proposal sparks congressional questions before NATO summit",
-    "summary": "The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmakers.",
-    "link": "https://www.foxnews.com/world/trumps-turkey-arms-sale-proposal-sparks-congressional-questions-before-nato-summit",
-    "published": "Tue, 30 Jun 2026 09:32:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "71a84ba5d7c3057ea3395eee13f26883",
-    "fetched_at": "2026-06-30T14:02:54.693825+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
-    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
-    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
-    "published": "Tue, 30 Jun 2026 07:46:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "98962adda0d912a8b4bc83bedb45de67",
-    "fetched_at": "2026-06-30T14:02:53.539495+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadians share hopes and wishes for America's 250th birthday",
-    "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
-    "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 12:21:38 GMT",
-    "source": "BBC News",
-    "id": "8936efb073d1b34f946a292efb6e712a",
-    "fetched_at": "2026-06-30T14:02:52.286122+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Supreme Court to rule on birthright citizenship and trans athletes",
-    "summary": "The two highly anticipated rulings are core agenda items for President Donald Trump.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8l7pyj8vko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 11:14:49 GMT",
-    "source": "BBC News",
-    "id": "561e13de2232c167c0c3c41996dca4c2",
-    "fetched_at": "2026-06-30T14:02:51.027836+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-    "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-    "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 09:50:58 GMT",
-    "source": "BBC News",
-    "id": "17689c5616d732d1c68e982130d2f6ee",
-    "fetched_at": "2026-06-30T10:50:24.319086+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "European rescue teams arrive in Venezuela in desperate bid to find quake survivors",
-    "summary": "Tens of thousands of people remain unaccounted for and time is running out to find survivors following the quakes of magnitude 7.2 and 7.5, the strongest to hit the South American nation in more than a century.",
-    "link": "http://www.euronews.com/2026/06/30/european-rescue-teams-arrive-in-venezuela-in-desperate-bid-to-find-quake-survivors",
-    "published": "Tue, 30 Jun 2026 09:37:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "66bc60014ac043d5bd519d5d19deb2d4",
-    "fetched_at": "2026-06-30T10:50:24.319084+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela earthquake: La Guaira port turned into makeshift morgue",
-    "summary": "La Guaira port in Venezuela is turned into a makeshift morgue after twin earthquakes, with forensic teams processing victims and families waiting for news.",
-    "link": "http://www.euronews.com/video/2026/06/30/venezuela-earthquake-la-guaira-port-turned-into-makeshift-morgue",
-    "published": "Tue, 30 Jun 2026 11:02:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "50dbe2aa71708d70e0c3460b5015420e",
-    "fetched_at": "2026-06-30T10:50:24.319082+00:00"
   }
 ]
