@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+    "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+    "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 21:27:04 GMT",
+    "source": "BBC News",
+    "id": "d1e848b0da90686c2b57da82751ed17b",
+    "fetched_at": "2026-07-01T23:06:13.633087+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+    "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
+    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 16:12:25 GMT",
+    "source": "BBC News",
+    "id": "532c2cce51910d464323c207686bb565",
+    "fetched_at": "2026-07-01T23:06:12.485178+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
+    "summary": "Bolivia&apos;s pro-U.S. government declares a state of emergency after 50 days of blockades led by former socialist President Evo Morales and his supporters.",
+    "link": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
+    "published": "Tue, 30 Jun 2026 12:45:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f4c5368ac1de9e0339a6d3d22578bcd4",
+    "fetched_at": "2026-07-01T23:06:11.343889+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
+    "summary": "A 2-year-old boy named Klieber Moran was rescued after six days trapped beneath rubble in La Guaira, Venezuela, following devastating earthquakes.",
+    "link": "https://www.foxnews.com/world/boy-2-pulled-alive-from-rubble-six-days-after-venezuelas-devastating-twin-earthquakes",
+    "published": "Tue, 30 Jun 2026 22:47:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4c58c99f9323b7909f50db70cf974ac3",
+    "fetched_at": "2026-07-01T23:06:10.205687+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Families sue Maduro in US, accuse ex-president of directing police unit tied to extrajudicial killings",
+    "summary": "Families of five Venezuelan men filed a lawsuit accusing Nicolás Maduro of overseeing FAES, a police unit allegedly responsible for extrajudicial killings.",
+    "link": "https://www.foxnews.com/world/families-sue-maduro-us-accuse-ex-president-directing-police-unit-tied-extrajudicial-killings",
+    "published": "Wed, 01 Jul 2026 18:44:06 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4b06b9a27fe3846c3154001e57759c5a",
+    "fetched_at": "2026-07-01T23:06:09.069688+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mexico ends a 40-year knockout drought, beats Ecuador to advance in World Cup",
+    "summary": "Mexico lost seven consecutive times at that same stage from 1994 to 2018 and didn't advance past the group stage in 2022. Now, the 40-year wait is over.",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup",
+    "published": "Wed, 01 Jul 2026 02:56:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "ccae988612b5241bf2829342953e789e",
+    "fetched_at": "2026-07-01T23:06:07.930556+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Has football fever taken hold in the US?",
+    "summary": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 11:57:37 GMT",
+    "source": "BBC News",
+    "id": "ecd2d05b5bc916d88e682c43aa046c6a",
+    "fetched_at": "2026-07-01T23:06:06.804149+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+    "summary": "The White House has refuted claims that Trump is profiting off the presidency and said he doesn't have any conflicts of interest.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 22:36:43 GMT",
+    "source": "BBC News",
+    "id": "adbe4cacada09827a2345c8ff63f6ca1",
+    "fetched_at": "2026-07-01T23:06:05.662076+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Watch: Two people climb to highest point of Empire State Building",
     "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
     "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "c7d51b2cffb322d0e1c2121fbff98fc7",
     "fetched_at": "2026-07-01T12:29:02.641413+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-    "summary": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
-    "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-    "published": "Mon, 29 Jun 2026 21:43:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "53c5e2c8fab6174c347b9ea624446fd5",
-    "fetched_at": "2026-07-01T12:29:01.532924+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from London, where Banksy's flag man is a warning cry",
-    "summary": "As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy's art, the statue presents a sharp critique of society.",
-    "link": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
-    "published": "Wed, 01 Jul 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "aed487e2d6465d1f59a70e4610c8de2f",
-    "fetched_at": "2026-07-01T12:29:00.431922+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-    "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 05:32:26 GMT",
-    "source": "BBC News",
-    "id": "309b72a461b0c3b28e66cd92a5092860",
-    "fetched_at": "2026-07-01T12:28:59.305402+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We're still standing': Americans on the state of the nation in its 250th year",
-    "summary": "The BBC spoke to US citizens across the country ahead of its big anniversary celebration this weekend.",
-    "link": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 05:07:31 GMT",
-    "source": "BBC News",
-    "id": "4521a5a29af37ef167195886ebb1901e",
-    "fetched_at": "2026-07-01T12:28:58.182074+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World Cup fans sweat through US 'heat dome'",
-    "summary": "As scorching heat left the US east coast baking in the middle of the World Cup, the BBC caught up with fans braving the weather to support their team.",
-    "link": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 06:41:26 GMT",
-    "source": "BBC News",
-    "id": "45dc555411a1859608b23867a0b4b6be",
-    "fetched_at": "2026-07-01T12:28:57.066095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
-    "summary": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
-    "link": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 05:00:13 GMT",
-    "source": "BBC News",
-    "id": "40811242d024444444f4b06252504582",
-    "fetched_at": "2026-07-01T12:28:55.947945+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US lifts export controls on powerful AI models, Anthropic says",
-    "summary": "Anthropic will restore global access to its Fable 5 and Mythos 5 models after the US Department of Commerce lifted security restrictions that blocked the powerful systems earlier this month.",
-    "link": "http://www.euronews.com/2026/07/01/us-lifts-export-controls-on-powerful-ai-models-anthropic-says",
-    "published": "Wed, 01 Jul 2026 05:46:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "63984dd83f5ea4dbed8c1331cfefe740",
-    "fetched_at": "2026-07-01T08:05:32.757810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kazakhstan looks to boost oil exports via Baku-Tbilisi-Ceyhan pipeline after Georgia talks in Astana",
-    "summary": "In high-level talks held in Astana, Kazakhstan and Georgia agreed to strengthen economic cooperation, including plans to increase oil shipments via the BTC pipeline. The two countries also discussed agricultural development, investment expansion, and cooperation in digital services.",
-    "link": "http://www.euronews.com/2026/07/01/kazakhstan-looks-to-boost-oil-exports-via-baku-tbilisi-ceyhan-pipeline-after-georgia-talks",
-    "published": "Wed, 01 Jul 2026 07:00:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7eb6b20635ba6ed7f9466fc2920e35c7",
-    "fetched_at": "2026-07-01T08:05:32.757807+00:00"
   }
 ]
