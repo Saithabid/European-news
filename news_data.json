@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Man guilty of attempted murder of three children in Dublin",
+    "summary": "Riad Bouchaker denied attempting to murder three children and assaulting four other people on 23 November 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/c78yjgpr5j3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 15:34:10 GMT",
+    "source": "BBC News",
+    "id": "401c5a82424bca796b45e1ab6fe8c5a5",
+    "fetched_at": "2026-07-01T16:21:12.120298+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Water cannons cool tourists at Rome's Colosseum amid heatwave",
+    "summary": "Tourists at Rome's Colosseum cool off with water spray and bottled water as civil protection teams respond to temperatures approaching 40C.",
+    "link": "http://www.euronews.com/video/2026/07/01/water-cannons-cool-tourists-at-romes-colosseum-amid-heatwave",
+    "published": "Wed, 01 Jul 2026 14:35:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59d74a4cf512deb6da0c2e659b004673",
+    "fetched_at": "2026-07-01T16:21:12.120295+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ship runs aground in Hormuz as Iran insists on controlling the strait",
+    "summary": "Iran's IRGC said the grounding was caused by the vessel straying from its approved corridor. Hormuz control and the Israeli intervention against Hezbollah in Lebanon remain the two main obstacles to a final deal.",
+    "link": "http://www.euronews.com/2026/07/01/ship-runs-aground-in-hormuz-as-iran-insists-on-controlling-the-strait",
+    "published": "Wed, 01 Jul 2026 14:37:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9342c99083d853dfce5104642d873ac0",
+    "fetched_at": "2026-07-01T16:21:12.120292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mourners attend funerals for 14 Pakistani children killed in tutoring centre roof collapse",
+    "summary": "Police are investigating whether negligence during ongoing construction work caused the collapse that left another eight children hospitalised in stable condition.",
+    "link": "http://www.euronews.com/2026/07/01/mourners-attend-funerals-for-14-pakistani-children-killed-in-tutoring-centre-roof-collapse",
+    "published": "Wed, 01 Jul 2026 15:04:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3602b6f74cc99a9f0557652d542df53d",
+    "fetched_at": "2026-07-01T16:21:12.120289+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine hits Russia's Ufa oil refinery for second time in a week, Zelenskyy says",
+    "summary": "Ukraine’s domestically developed and manufactured drones and missiles have been hammering Russian oil facilities, including refineries, terminals, storage depots and pipeline pumping stations, for months.",
+    "link": "http://www.euronews.com/2026/07/01/ukraine-hits-russias-ufa-oil-refinery-for-second-time-in-a-week-zelenskyy-says",
+    "published": "Wed, 01 Jul 2026 15:32:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b9fa660542c81f67e63603c38227cfb8",
+    "fetched_at": "2026-07-01T16:21:12.120285+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Firefighters struggle to contain deadly Greek wildfire",
+    "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 20:25:53 GMT",
+    "source": "BBC News",
+    "id": "08118deefff07a18dd7df6cde6d3cca1",
+    "fetched_at": "2026-07-01T16:21:12.120258+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wave of attacks on Iran's IRGC raises questions about renewed Kurdish insurgency",
+    "summary": "Islamic Revolutionary Guard Corps forces face deadly attacks across western Iran as clashes spread, raising questions about an escalating Kurdish insurgency amid U.S.–Iran talks.",
+    "link": "https://www.foxnews.com/world/wave-attacks-irans-irgc-raises-questions-about-renewed-kurdish-insurgency",
+    "published": "Tue, 30 Jun 2026 16:38:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c7c159d3cc2bac4ba0503e3bc17df5b2",
+    "fetched_at": "2026-07-01T16:21:10.977817+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
+    "summary": "Venezuela's La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez's first major test. Now, it's the acting leader's challenge.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
+    "published": "Mon, 29 Jun 2026 16:19:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "4f33888f51e31806d5b3d021363ad1a1",
+    "fetched_at": "2026-07-01T16:21:09.830839+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
+    "summary": "Monaco 's chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
+    "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
+    "published": "Tue, 30 Jun 2026 01:35:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "9527535071a5a4cd9cd66fbe1176652e",
+    "fetched_at": "2026-07-01T16:21:08.679218+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
+    "summary": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
+    "link": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+    "published": "Wed, 01 Jul 2026 10:57:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "f8f2767a3521d07547993102f5161f4a",
+    "fetched_at": "2026-07-01T16:21:07.136473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Man comes face-to-face with bear inside truck",
+    "summary": "Security camera footage from the Colorado property shows a man using several methods to coax a black bear out of a vehicle.",
+    "link": "https://www.bbc.co.uk/news/videos/cewqzryz12zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 14:16:56 GMT",
+    "source": "BBC News",
+    "id": "a8b35ecef03382c87698578c0566c5ef",
+    "fetched_at": "2026-07-01T16:21:05.888986+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada to make Eurovision Song Contest debut in 2027",
+    "summary": "The country becomes the first new participant since Australia joined the contest in 2015.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 12:30:56 GMT",
+    "source": "BBC News",
+    "id": "158561a49322bc5d2e1184e03de52a64",
+    "fetched_at": "2026-07-01T16:21:04.740315+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+    "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 15:48:02 GMT",
+    "source": "BBC News",
+    "id": "82b307a610031d08a8cfeb3bc852fb5f",
+    "fetched_at": "2026-07-01T16:21:03.579697+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
     "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
     "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "c0ec705acc0ce5ea874c9b0044d96604",
     "fetched_at": "2026-06-30T23:04:36.290988+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
-    "summary": "On June 24, 146 Venezuelans were deported from Texas to Caracas. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
-    "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
-    "published": "Tue, 30 Jun 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "49ff2911851ef4f51b2d07e88c479994",
-    "fetched_at": "2026-06-30T23:04:35.137073+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Belfast violence: What to know about the fascist youth groups known as 'active clubs'",
-    "summary": "Racist mob violence in Northern Ireland earlier this month has drawn keen interest from extremist groups and figures in the U.S.",
-    "link": "https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs",
-    "published": "Tue, 30 Jun 2026 17:23:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "9cc1ab40c88ac4b560a4ae6c701cce9d",
-    "fetched_at": "2026-06-30T23:04:33.804086+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dangerous heatwave to hit US ahead of holiday weekend",
-    "summary": "A dangerous heatwave will impact a large swath of the US this week, bringing scorching temps during celebrations for America's 250th birthday.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 22:08:08 GMT",
-    "source": "BBC News",
-    "id": "577b90fb8d2f235128f3b4ff7d3388a8",
-    "fetched_at": "2026-06-30T23:04:32.655102+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-    "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 22:29:47 GMT",
-    "source": "BBC News",
-    "id": "b874fcf987f71a5984f81019a08c676a",
-    "fetched_at": "2026-06-30T23:04:31.507476+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-    "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-    "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 18:59:19 GMT",
-    "source": "BBC News",
-    "id": "5cd4b94fcbb03b20bd0a342ba2d62085",
-    "fetched_at": "2026-06-30T21:23:33.067325+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-    "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 28 Jun 2026 18:34:07 GMT",
-    "source": "BBC News",
-    "id": "6053ea3a53f113399c871e7934a494dd",
-    "fetched_at": "2026-06-30T21:23:33.067321+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
-    "summary": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 02:38:35 GMT",
-    "source": "BBC News",
-    "id": "e0d14e869c4334badfcf8efa66df1136",
-    "fetched_at": "2026-06-30T21:23:33.067318+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What do we know about the shooting in Stade, Germany?",
-    "summary": "The BBC's Jessica Parker reports from the scene of the shooting that killed six people in northern Germany.",
-    "link": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 00:17:27 GMT",
-    "source": "BBC News",
-    "id": "beb14fd4b341bf887368e64194e3e85b",
-    "fetched_at": "2026-06-30T21:23:33.067314+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six people shot dead at centre for mothers and children in Germany",
-    "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 19:53:57 GMT",
-    "source": "BBC News",
-    "id": "9949d4cc8b32d7322e0ec41eb2d75885",
-    "fetched_at": "2026-06-30T21:23:33.067284+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-    "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-    "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 13:22:15 GMT",
-    "source": "BBC News",
-    "id": "33513df033e2bf37aa6430fd3cf292ae",
-    "fetched_at": "2026-06-30T21:23:31.964733+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-    "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 19:19:42 GMT",
-    "source": "BBC News",
-    "id": "e8d2eb36affae9a335f5ed1bb140bc90",
-    "fetched_at": "2026-06-30T21:23:30.856363+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK asylum seekers could have to pay government $13K before applying for settlement",
-    "summary": "Asylum seekers in Britain could have to repay more than $13,000 for accommodation before applying for settlement under proposed immigration rules.",
-    "link": "https://www.foxnews.com/world/uk-asylum-seekers-pay-government-13k-before-applying-settlement",
-    "published": "Tue, 30 Jun 2026 00:49:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5227944b820793cad0c5332780b66dc5",
-    "fetched_at": "2026-06-30T21:23:29.754095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nearly 100 monkeys escape enclosure, invade neighborhoods as officials scramble to recapture them",
-    "summary": "Nearly 100 macaques escaped a government enclosure in Lopburi, Thailand, prompting officials to use tranquilizer darts and baited cages to recapture them.",
-    "link": "https://www.foxnews.com/world/nearly-100-monkeys-escape-enclosure-invade-neighborhoods-officials-scramble-recapture",
-    "published": "Tue, 30 Jun 2026 15:58:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "15507b3d9760199c41785d56f7ed48de",
-    "fetched_at": "2026-06-30T21:23:28.654468+00:00"
   }
 ]
