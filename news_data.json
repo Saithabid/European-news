@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Anthropic says US lifts export ban on its advanced AI tools",
+    "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+    "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 01:13:36 GMT",
+    "source": "BBC News",
+    "id": "4e1708cdf7e170f3fbf0155f94bb7863",
+    "fetched_at": "2026-07-01T02:46:47.926869+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+    "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+    "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 23:49:19 GMT",
+    "source": "BBC News",
+    "id": "ded6dade7a40c02814605573d00efad2",
+    "fetched_at": "2026-07-01T02:46:47.926866+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+    "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+    "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 23:24:05 GMT",
+    "source": "BBC News",
+    "id": "c75cb1e02ac5c7702e2ba985bb0680db",
+    "fetched_at": "2026-07-01T02:46:47.926862+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'",
+    "summary": "Pope Leo XIV issued an urgent plea to the Society of St. Pius X to halt bishop consecrations without Vatican approval, warning of excommunication.",
+    "link": "https://www.foxnews.com/world/pope-leo-pleads-breakaway-catholic-group-not-commit-sin-extreme-gravity",
+    "published": "Tue, 30 Jun 2026 08:25:01 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "42a2b7d529dc90410a36437f08f083d9",
+    "fetched_at": "2026-07-01T02:46:47.926837+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's Turkey arms sale proposal sparks congressional questions before NATO summit",
+    "summary": "The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmakers.",
+    "link": "https://www.foxnews.com/world/trumps-turkey-arms-sale-proposal-sparks-congressional-questions-before-nato-summit",
+    "published": "Tue, 30 Jun 2026 09:32:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71a84ba5d7c3057ea3395eee13f26883",
+    "fetched_at": "2026-07-01T02:46:46.803289+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities",
+    "summary": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread across multiple cities, with looting and clashes reported.",
+    "link": "https://www.foxnews.com/world/thousands-police-deployed-south-africa-deadly-anti-immigration-protests-spread-multiple-cities",
+    "published": "Tue, 30 Jun 2026 19:22:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f19b54b4d27c0185c97a1e8747f34a5a",
+    "fetched_at": "2026-07-01T02:46:45.695847+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fitness influencer says Lufthansa told her she looked ‘naked,’ forced her to zip up before boarding flight",
+    "summary": "Fitness influencer Edda Elisa Pilz says a Lufthansa employee called her &quot;naked&quot; and blocked her from boarding a flight over her athletic outfit.",
+    "link": "https://www.foxnews.com/world/fitness-influencer-says-lufthansa-told-her-she-looked-naked-forced-her-zip-before-boarding-flight",
+    "published": "Tue, 30 Jun 2026 20:12:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f7367cc051eb509f0ed718067ae2d573",
+    "fetched_at": "2026-07-01T02:46:44.579442+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department congratulates Keiko Fujimori as Peru's president-elect following razor-thin vote count",
+    "summary": "The State Department congratulates Keiko Fujimori after she was declared winner of Peru&apos;s presidential runoff by fewer than 50,000 votes out of 18 million ballots cast.",
+    "link": "https://www.foxnews.com/world/state-department-congratulates-keiko-fujimori-perus-president-elect-razor-thin-vote-count",
+    "published": "Tue, 30 Jun 2026 22:00:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1707b1d245ffa67130303a1f1ed3245e",
+    "fetched_at": "2026-07-01T02:46:43.461649+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
+    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+    "published": "Tue, 30 Jun 2026 07:46:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "98962adda0d912a8b4bc83bedb45de67",
+    "fetched_at": "2026-07-01T02:46:42.338098+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadians share hopes and wishes for America's 250th birthday",
+    "summary": "We asked Canadians across the country what they would say and give to their southern neighbour.",
+    "link": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 12:21:38 GMT",
+    "source": "BBC News",
+    "id": "8936efb073d1b34f946a292efb6e712a",
+    "fetched_at": "2026-07-01T02:46:41.215480+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump made more than $1bn from crypto in first year back in office",
+    "summary": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 01:45:58 GMT",
+    "source": "BBC News",
+    "id": "2a09bbd55fc55294682c36cdaf3c71ac",
+    "fetched_at": "2026-07-01T02:46:40.036022+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
     "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
     "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "f2e207d1dc0fe6b534d806a72afb1207",
     "fetched_at": "2026-06-30T17:48:02.120267+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
-    "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
-    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 16:12:25 GMT",
-    "source": "BBC News",
-    "id": "532c2cce51910d464323c207686bb565",
-    "fetched_at": "2026-06-30T17:48:02.120239+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
-    "summary": "Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions.",
-    "link": "https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages",
-    "published": "Tue, 30 Jun 2026 10:15:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2d058969c231edc3ae1ad2e67877de19",
-    "fetched_at": "2026-06-30T17:48:00.986322+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
-    "summary": "Bolivia&apos;s pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.",
-    "link": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
-    "published": "Tue, 30 Jun 2026 12:45:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f4c5368ac1de9e0339a6d3d22578bcd4",
-    "fetched_at": "2026-06-30T17:47:59.855695+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-    "summary": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 29 Jun 2026 21:21:15 GMT",
-    "source": "BBC News",
-    "id": "74cdd3789cbfd1a61ab99ea29c43bbeb",
-    "fetched_at": "2026-06-30T17:47:58.704120+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Can the World Cup's viral stars turn social media fame into fortunes?",
-    "summary": "They’re not Ronaldo or Messi, but they might be set for life after gaining millions of new followers.",
-    "link": "https://www.bbc.co.uk/news/articles/cy04k0vzqrdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 14:09:59 GMT",
-    "source": "BBC News",
-    "id": "5de109b90920e1b2e8bc4d0993f1f0f7",
-    "fetched_at": "2026-06-30T17:47:57.589829+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Missing US congressman explains mysterious four-month absence",
-    "summary": "New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression was the reason he had been away since March.",
-    "link": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 17:01:02 GMT",
-    "source": "BBC News",
-    "id": "cb880ac7f1022ced03067a02d2f920e2",
-    "fetched_at": "2026-06-30T17:47:56.463777+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
-    "summary": "Trump called it a \"big win\" but a major LGBT campaign group described the ruling as \"heartbreaking\".",
-    "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 17:02:39 GMT",
-    "source": "BBC News",
-    "id": "3a38488ad566aa2f98857a92c03d90f6",
-    "fetched_at": "2026-06-30T17:47:55.355454+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Supreme Court's birthright ruling is major blow to Trump",
-    "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-    "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 14:37:54 GMT",
-    "source": "BBC News",
-    "id": "685a3ef4827ed3e1fe3b8b73956c60c5",
-    "fetched_at": "2026-06-30T17:47:54.231542+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-    "summary": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 11:20:44 GMT",
-    "source": "BBC News",
-    "id": "f0b341ce1867a7ddeb6a3ec17eeefe9d",
-    "fetched_at": "2026-06-30T14:02:59.332979+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-    "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 13:51:52 GMT",
-    "source": "BBC News",
-    "id": "f1e1c5fe8fc4bad8329c725a0b5b39ce",
-    "fetched_at": "2026-06-30T14:02:59.332976+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
-    "summary": "Iran&apos;s decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump&apos;s nuclear deal, analysts say.",
-    "link": "https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts",
-    "published": "Sun, 28 Jun 2026 16:37:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a814d491cd6a1367c3d83159a18e5be1",
-    "fetched_at": "2026-06-30T14:02:59.332953+00:00"
   }
 ]
