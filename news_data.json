@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Watch: Two people climb to highest point of Empire State Building",
+    "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
+    "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 17:08:56 GMT",
+    "source": "BBC News",
+    "id": "9ce64824801ca56b2f411295236f498f",
+    "fetched_at": "2026-07-01T21:20:59.892539+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+    "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 17:40:29 GMT",
+    "source": "BBC News",
+    "id": "b2c6b40e00b230d2e5f1740e2e6757cc",
+    "fetched_at": "2026-07-01T21:20:59.892535+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "California to institute Bruce Lee Day, first for a Chinese-American in state history",
+    "summary": "In the 1960s, Lee found work in Hollywood, notably as Kato in the TV series \"The Green Hornet,\" but studios wanted him to play racist stereotypes and paid him less than his white counterparts.",
+    "link": "http://www.euronews.com/culture/2026/07/01/california-to-institute-bruce-lee-day-first-for-a-chinese-american-in-state-history",
+    "published": "Wed, 01 Jul 2026 21:53:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "21a140c14af26514ef40dc9c2448d62a",
+    "fetched_at": "2026-07-01T21:20:59.892503+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two arrested after unfurling 'power of love' banner on Empire State Building antenna",
+    "summary": "Office workers wondered how the pair managed to get to the antenna of a high-profile building where visitors are screened and told not to bring large packages, sports equipment, costumes or masks, among other items.",
+    "link": "http://www.euronews.com/2026/07/01/two-arrested-after-unfurling-power-of-love-banner-on-empire-state-building-antenna",
+    "published": "Wed, 01 Jul 2026 22:17:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "459421d3421b01304d58d7c8f14435fe",
+    "fetched_at": "2026-07-01T21:20:58.755295+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU looks to South Caucasus for solutions as von der Leyen holds talks with President Aliyev",
+    "summary": "Von der Leyen begins her South Caucasus tour in Baku as the EU steps up engagement on regional stability, energy and connectivity.",
+    "link": "http://www.euronews.com/2026/07/01/eu-looks-to-south-caucasus-for-solutions-as-von-der-leyen-holds-talks-with-president-aliye",
+    "published": "Wed, 01 Jul 2026 22:31:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7546a2b14a9ee5a7fd15be10370802ec",
+    "fetched_at": "2026-07-01T21:20:57.608268+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities",
+    "summary": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread across multiple cities, with looting and clashes reported.",
+    "link": "https://www.foxnews.com/world/thousands-police-deployed-south-africa-deadly-anti-immigration-protests-spread-multiple-cities",
+    "published": "Tue, 30 Jun 2026 19:22:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f19b54b4d27c0185c97a1e8747f34a5a",
+    "fetched_at": "2026-07-01T21:20:56.475571+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fitness influencer says Lufthansa told her she looked ‘naked,’ forced her to zip up before boarding flight",
+    "summary": "Fitness influencer Edda Elisa Pilz says a Lufthansa employee called her &quot;naked&quot; and blocked her from boarding a flight over her athletic outfit.",
+    "link": "https://www.foxnews.com/world/fitness-influencer-says-lufthansa-told-her-she-looked-naked-forced-her-zip-before-boarding-flight",
+    "published": "Tue, 30 Jun 2026 20:12:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f7367cc051eb509f0ed718067ae2d573",
+    "fetched_at": "2026-07-01T21:20:55.327374+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department congratulates Keiko Fujimori as Peru's president-elect following razor-thin vote count",
+    "summary": "The State Department congratulates Keiko Fujimori after she was declared winner of Peru&apos;s presidential runoff by fewer than 50,000 votes out of 18 million ballots cast.",
+    "link": "https://www.foxnews.com/world/state-department-congratulates-keiko-fujimori-perus-president-elect-razor-thin-vote-count",
+    "published": "Tue, 30 Jun 2026 22:00:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1707b1d245ffa67130303a1f1ed3245e",
+    "fetched_at": "2026-07-01T21:20:54.190822+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war supercharges pivot to renewable energy",
+    "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+    "published": "Tue, 30 Jun 2026 04:46:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "c0ec705acc0ce5ea874c9b0044d96604",
+    "fetched_at": "2026-07-01T21:20:53.046281+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
+    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+    "published": "Tue, 30 Jun 2026 07:46:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "98962adda0d912a8b4bc83bedb45de67",
+    "fetched_at": "2026-07-01T21:20:51.900313+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
     "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
     "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "7eb6b20635ba6ed7f9466fc2920e35c7",
     "fetched_at": "2026-07-01T08:05:32.757807+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 1st, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/01/latest-news-bulletin-july-1st-2026-morning",
-    "published": "Wed, 01 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a4c058abf612253b9289e0567b6b1c8d",
-    "fetched_at": "2026-07-01T08:05:32.757805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drone captures rivers of lava flowing down Mount Etna",
-    "summary": "Mount Etna in Sicily erupts, sending bright orange lava down the volcano's slopes as drone footage and ground images capture the spectacular flow.",
-    "link": "http://www.euronews.com/video/2026/07/01/drone-captures-rivers-of-lava-flowing-down-mount-etna",
-    "published": "Wed, 01 Jul 2026 07:31:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5e57f6a91002161efca0a345ac1f7485",
-    "fetched_at": "2026-07-01T08:05:32.757802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "A 'prolonged' and 'dangerous' heatwave is set to intensify across the US",
-    "summary": "The director-general of the WHO said the organisation has partnered with FIFA to help protect players, staff and fans at the 2026 World Cup from the scorching temperatures.",
-    "link": "http://www.euronews.com/2026/07/01/a-prolonged-and-dangerous-heatwave-is-set-to-intensify-across-the-us",
-    "published": "Wed, 01 Jul 2026 08:19:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7c4c851605d16ffd1eaf769691aa5069",
-    "fetched_at": "2026-07-01T08:05:32.757800+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mexico fans celebrate World Cup win over Ecuador",
-    "summary": "Fans in San Diego erupt in celebration as Mexico beat Ecuador 2-0 in a World Cup knockout match, ending a 40-year drought in the competition.",
-    "link": "http://www.euronews.com/video/2026/07/01/mexico-fans-celebrate-world-cup-win-over-ecuador",
-    "published": "Wed, 01 Jul 2026 09:35:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0cd2d6f69c8c4c991bbc8bdd68a1c31f",
-    "fetched_at": "2026-07-01T08:05:32.757796+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Koeman resigns, while Netherlands report racist abuse",
-    "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 22:30:26 GMT",
-    "source": "BBC News",
-    "id": "60b833223dec8f4789d559615d7af282",
-    "fetched_at": "2026-07-01T08:05:32.757794+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
-    "summary": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
-    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 16:12:25 GMT",
-    "source": "BBC News",
-    "id": "532c2cce51910d464323c207686bb565",
-    "fetched_at": "2026-07-01T08:05:32.757790+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
-    "summary": "Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions.",
-    "link": "https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages",
-    "published": "Tue, 30 Jun 2026 10:15:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2d058969c231edc3ae1ad2e67877de19",
-    "fetched_at": "2026-07-01T08:05:32.757764+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
-    "summary": "Bolivia&apos;s pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.",
-    "link": "https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation",
-    "published": "Tue, 30 Jun 2026 12:45:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f4c5368ac1de9e0339a6d3d22578bcd4",
-    "fetched_at": "2026-07-01T08:05:31.642602+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
-    "summary": "A 2-year-old boy named Klieber Moran was rescued after six days trapped beneath rubble in La Guaira, Venezuela, following devastating earthquakes.",
-    "link": "https://www.foxnews.com/world/boy-2-pulled-alive-from-rubble-six-days-after-venezuelas-devastating-twin-earthquakes",
-    "published": "Tue, 30 Jun 2026 22:47:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4c58c99f9323b7909f50db70cf974ac3",
-    "fetched_at": "2026-07-01T08:05:30.514725+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mexico ends a 40-year knockout drought, beats Ecuador to advance in World Cup",
-    "summary": "Mexico lost seven consecutive times at that same stage from 1994 to 2018 and didn't advance past the group stage in 2022. Now, the 40-year wait is over.",
-    "link": "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup",
-    "published": "Wed, 01 Jul 2026 02:56:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccae988612b5241bf2829342953e789e",
-    "fetched_at": "2026-07-01T08:05:29.383674+00:00"
   }
 ]
