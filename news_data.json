@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+    "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+    "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 21:21:36 GMT",
+    "source": "BBC News",
+    "id": "c235e274dbadf549602f93366bb5863f",
+    "fetched_at": "2026-07-02T22:58:42.359446+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Businessman goes on trial over murder of Maltese journalist",
+    "summary": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
+    "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 17:15:47 GMT",
+    "source": "BBC News",
+    "id": "eeb14d689e4ebbd3afa71d25a6b5ccfa",
+    "fetched_at": "2026-07-02T22:58:42.359443+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian charged in Germany over Nord Stream blasts",
+    "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 18:19:32 GMT",
+    "source": "BBC News",
+    "id": "50df0a430700af3ce553ad7e97182f9a",
+    "fetched_at": "2026-07-02T22:58:42.359414+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One crew member missing after US Navy helicopter makes emergency landing in Arabian Sea",
+    "summary": "A U.S. Navy MH-60S Sea Hawk helicopter made an emergency water landing in the Arabian Sea, leaving one crew member missing from the USS George H.W. Bush.",
+    "link": "https://www.foxnews.com/world/one-crew-member-missing-after-us-navy-helicopter-makes-emergency-landing-arabian-sea",
+    "published": "Wed, 01 Jul 2026 15:18:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f1c5d44508b2eef6fdd10dadbb71c52b",
+    "fetched_at": "2026-07-02T22:58:41.227828+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vatican excommunicates breakaway Catholic bishops who defied Pope Leo XIV",
+    "summary": "Pope Leo XIV excommunicates Society of St. Pius X bishops after unauthorized consecrations, declaring the traditionalist Catholic movement in schism.",
+    "link": "https://www.foxnews.com/world/vatican-excommunicates-breakaway-catholic-bishops-defied-pope-leo-xiv",
+    "published": "Thu, 02 Jul 2026 08:08:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4e0d3e595e9a5d324949f7655cd39ec1",
+    "fetched_at": "2026-07-02T22:58:40.095215+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After 1,000 days of war: Many Israeli children carry trauma into summer break",
+    "summary": "Israeli children begin summer vacation still coping with war trauma, as 84% reportedly showed signs of emotional distress since the Hamas-led attack.",
+    "link": "https://www.foxnews.com/world/after-1000-days-war-many-israeli-children-carry-trauma-summer-break",
+    "published": "Thu, 02 Jul 2026 08:19:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "43a0d41be9ad0753ff765ce8e9dca4d6",
+    "fetched_at": "2026-07-02T22:58:38.820936+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six Kurdish fighters killed in IRGC ambush as clashes spread across western Iran",
+    "summary": "The PDKI says six Kurdish fighters were killed in an Islamic Revolutionary Guard Corp ambush near Piranshahr, while the Revolutionary Guards claim five Kurdish militants are dead.",
+    "link": "https://www.foxnews.com/world/six-kurdish-fighters-killed-irgc-ambush-clashes-spread-across-western-iran",
+    "published": "Thu, 02 Jul 2026 16:53:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "01703823e83ab805c9d452d63da38a43",
+    "fetched_at": "2026-07-02T22:58:37.691692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+    "summary": "Here's a look at some of the major developments since major back-to-back earthquakes rocked Venezuela on June 24, devastating parts of a country already reeling from crisis after crisis.",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+    "published": "Wed, 01 Jul 2026 13:54:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "3cd392b9507da3e7153e754c626d04b8",
+    "fetched_at": "2026-07-02T22:58:36.548230+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+    "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+    "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+    "published": "Thu, 02 Jul 2026 07:23:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "69fe1c9a6008f0140eaa8106474359d0",
+    "fetched_at": "2026-07-02T22:58:35.415075+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why the expected fight over the North American trade deal never kicked off",
+    "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 13:43:39 GMT",
+    "source": "BBC News",
+    "id": "23eab8689daf8f40d34fdd363e06cdbf",
+    "fetched_at": "2026-07-02T22:58:34.289040+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
     "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
     "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "df9f49f0980d2c16170fabf85e74078f",
     "fetched_at": "2026-07-02T16:01:06.625601+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-    "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-    "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 22:36:43 GMT",
-    "source": "BBC News",
-    "id": "adbe4cacada09827a2345c8ff63f6ca1",
-    "fetched_at": "2026-07-02T16:01:05.501064+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
-    "summary": "The group of 35 monks and five lay followers were walking by the roadside when the truck ploughed into them.",
-    "link": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 11:43:40 GMT",
-    "source": "BBC News",
-    "id": "74d50dd7b1ad8d8c727bbb900da25cd8",
-    "fetched_at": "2026-07-02T13:43:32.138765+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-    "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
-    "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 09:21:31 GMT",
-    "source": "BBC News",
-    "id": "f43fb328d5ade0b8b7f7434a41843485",
-    "fetched_at": "2026-07-02T13:43:32.138762+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: PM's former top aide on Starmer's first call with Trump",
-    "summary": "Trump was more 'funny' than he had been expecting, Morgan McSweeney told the BBC.",
-    "link": "https://www.bbc.co.uk/news/videos/c04yxek0qyzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 12:21:04 GMT",
-    "source": "BBC News",
-    "id": "43f36b0236af22f611dc1042d07fe4fd",
-    "fetched_at": "2026-07-02T13:43:32.138760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fast-moving wildfire spreads across southern France",
-    "summary": "Firefighters battle a fast-moving wildfire in Aude, southern France, after flames spread from Hérault and burned more than 800 hectares overnight.",
-    "link": "http://www.euronews.com/video/2026/07/02/fast-moving-wildfire-spreads-across-southern-france",
-    "published": "Thu, 02 Jul 2026 13:10:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f7087c4316fcd137583ec8f05c4a9c3c",
-    "fetched_at": "2026-07-02T13:43:32.138757+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Any deal with Tehran is 'a pause before the next war,' Reza Pahlavi tells Euronews",
-    "summary": "In an exclusive interview with Euronews, Reza Pahlavi said the framework agreement would allow the Islamic Republic to regroup and rearm, with the only winner from the deal being the regime in Tehran.",
-    "link": "http://www.euronews.com/2026/07/02/any-deal-with-tehran-is-a-pause-before-the-next-war-reza-pahlavi-tells-euronews",
-    "published": "Thu, 02 Jul 2026 13:34:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "05c6aec0f615bd334ab0578944a07703",
-    "fetched_at": "2026-07-02T13:43:32.138755+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face",
-    "summary": "Rabies is a rare but deadly infection usually spread by a bite or scratch from an infected animal. It is almost always fatal after the onset of symptoms, although vaccination and early treatment can help to prevent it.",
-    "link": "http://www.euronews.com/2026/07/02/11-year-old-boy-dies-from-rabies-in-canada-after-waking-up-to-a-bat-on-his-face",
-    "published": "Thu, 02 Jul 2026 13:46:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "91e6686c8fa5b6d6d2372c069b5331b1",
-    "fetched_at": "2026-07-02T13:43:32.138752+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
-    "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 19:19:42 GMT",
-    "source": "BBC News",
-    "id": "e8d2eb36affae9a335f5ed1bb140bc90",
-    "fetched_at": "2026-07-02T13:43:32.138750+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greek politician's mother dies of wounds after arson attack",
-    "summary": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 18:52:22 GMT",
-    "source": "BBC News",
-    "id": "9a4928e5946fbbaeecb54f91f37ada77",
-    "fetched_at": "2026-07-02T13:43:32.138747+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-    "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
-    "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 16:10:38 GMT",
-    "source": "BBC News",
-    "id": "0692cbd378192541ed600192aaa2fe57",
-    "fetched_at": "2026-07-02T13:43:32.138744+00:00"
   }
 ]
