@@ -1,6 +1,206 @@
 [
   {
     "region": "Europe",
+    "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
+    "summary": "The group of 35 monks and five lay followers were walking by the roadside when the truck ploughed into them.",
+    "link": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 11:43:40 GMT",
+    "source": "BBC News",
+    "id": "74d50dd7b1ad8d8c727bbb900da25cd8",
+    "fetched_at": "2026-07-02T13:43:32.138765+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+    "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
+    "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 09:21:31 GMT",
+    "source": "BBC News",
+    "id": "f43fb328d5ade0b8b7f7434a41843485",
+    "fetched_at": "2026-07-02T13:43:32.138762+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: PM's former top aide on Starmer's first call with Trump",
+    "summary": "Trump was more 'funny' than he had been expecting, Morgan McSweeney told the BBC.",
+    "link": "https://www.bbc.co.uk/news/videos/c04yxek0qyzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 12:21:04 GMT",
+    "source": "BBC News",
+    "id": "43f36b0236af22f611dc1042d07fe4fd",
+    "fetched_at": "2026-07-02T13:43:32.138760+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fast-moving wildfire spreads across southern France",
+    "summary": "Firefighters battle a fast-moving wildfire in Aude, southern France, after flames spread from Hérault and burned more than 800 hectares overnight.",
+    "link": "http://www.euronews.com/video/2026/07/02/fast-moving-wildfire-spreads-across-southern-france",
+    "published": "Thu, 02 Jul 2026 13:10:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f7087c4316fcd137583ec8f05c4a9c3c",
+    "fetched_at": "2026-07-02T13:43:32.138757+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Any deal with Tehran is 'a pause before the next war,' Reza Pahlavi tells Euronews",
+    "summary": "In an exclusive interview with Euronews, Reza Pahlavi said the framework agreement would allow the Islamic Republic to regroup and rearm, with the only winner from the deal being the regime in Tehran.",
+    "link": "http://www.euronews.com/2026/07/02/any-deal-with-tehran-is-a-pause-before-the-next-war-reza-pahlavi-tells-euronews",
+    "published": "Thu, 02 Jul 2026 13:34:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "05c6aec0f615bd334ab0578944a07703",
+    "fetched_at": "2026-07-02T13:43:32.138755+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "11-year-old boy dies from rabies in Canada after waking up to a bat on his face",
+    "summary": "Rabies is a rare but deadly infection usually spread by a bite or scratch from an infected animal. It is almost always fatal after the onset of symptoms, although vaccination and early treatment can help to prevent it.",
+    "link": "http://www.euronews.com/2026/07/02/11-year-old-boy-dies-from-rabies-in-canada-after-waking-up-to-a-bat-on-his-face",
+    "published": "Thu, 02 Jul 2026 13:46:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "91e6686c8fa5b6d6d2372c069b5331b1",
+    "fetched_at": "2026-07-02T13:43:32.138752+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+    "summary": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 30 Jun 2026 19:19:42 GMT",
+    "source": "BBC News",
+    "id": "e8d2eb36affae9a335f5ed1bb140bc90",
+    "fetched_at": "2026-07-02T13:43:32.138750+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Greek politician's mother dies of wounds after arson attack",
+    "summary": "Three separate attacks involving petrol bombs and other improvised devices took place in Thessaloniki in the early hours of Wednesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 18:52:22 GMT",
+    "source": "BBC News",
+    "id": "9a4928e5946fbbaeecb54f91f37ada77",
+    "fetched_at": "2026-07-02T13:43:32.138747+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+    "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
+    "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 16:10:38 GMT",
+    "source": "BBC News",
+    "id": "0692cbd378192541ed600192aaa2fe57",
+    "fetched_at": "2026-07-02T13:43:32.138744+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Businessman goes on trial over murder of Maltese journalist",
+    "summary": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
+    "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 17:15:47 GMT",
+    "source": "BBC News",
+    "id": "eeb14d689e4ebbd3afa71d25a6b5ccfa",
+    "fetched_at": "2026-07-02T13:43:32.138741+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian charged in Germany over Nord Stream blasts",
+    "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 18:19:32 GMT",
+    "source": "BBC News",
+    "id": "50df0a430700af3ce553ad7e97182f9a",
+    "fetched_at": "2026-07-02T13:43:32.138737+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian generals' assassinations expose growing rift inside Putin's security apparatus",
+    "summary": "Internal frictions between the FSB and Russian military are growing as generals demand protection amid a wave of assassinations, sources say.",
+    "link": "https://www.foxnews.com/world/russian-generals-assassinations-expose-growing-rift-inside-putins-security-apparatus",
+    "published": "Wed, 01 Jul 2026 12:22:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f99841a666cbc260ed4439fc1b977332",
+    "fetched_at": "2026-07-02T13:43:32.138733+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One crew member missing after US Navy helicopter makes emergency landing in Arabian Sea",
+    "summary": "A U.S. Navy MH-60S Sea Hawk helicopter made an emergency water landing in the Arabian Sea, leaving one crew member missing from the USS George H.W. Bush.",
+    "link": "https://www.foxnews.com/world/one-crew-member-missing-after-us-navy-helicopter-makes-emergency-landing-arabian-sea",
+    "published": "Wed, 01 Jul 2026 15:18:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f1c5d44508b2eef6fdd10dadbb71c52b",
+    "fetched_at": "2026-07-02T13:43:32.138698+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vatican excommunicates breakaway Catholic bishops who defied Pope Leo XIV",
+    "summary": "Pope Leo XIV excommunicates Society of St. Pius X bishops after unauthorized consecrations, declaring the traditionalist Catholic movement in schism.",
+    "link": "https://www.foxnews.com/world/vatican-excommunicates-breakaway-catholic-bishops-defied-pope-leo-xiv",
+    "published": "Thu, 02 Jul 2026 08:08:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4e0d3e595e9a5d324949f7655cd39ec1",
+    "fetched_at": "2026-07-02T13:43:31.011907+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After 1,000 days of war: Many Israeli children carry trauma into summer break",
+    "summary": "Israeli children begin summer vacation still coping with war trauma, as 84% reportedly showed signs of emotional distress since the Hamas-led attack.",
+    "link": "https://www.foxnews.com/world/after-1000-days-war-many-israeli-children-carry-trauma-summer-break",
+    "published": "Thu, 02 Jul 2026 08:19:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "43a0d41be9ad0753ff765ce8e9dca4d6",
+    "fetched_at": "2026-07-02T13:43:29.879918+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Belfast violence: What to know about the fascist youth groups known as 'active clubs'",
+    "summary": "Racist mob violence in Northern Ireland earlier this month has drawn keen interest from extremist groups and figures in the U.S.",
+    "link": "https://www.npr.org/2026/06/30/nx-s1-5858882/belfast-violence-what-to-know-about-the-fascist-youth-groups-known-as-active-clubs",
+    "published": "Tue, 30 Jun 2026 17:23:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "9cc1ab40c88ac4b560a4ae6c701cce9d",
+    "fetched_at": "2026-07-02T13:43:28.746928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+    "summary": "Here's a look at some of the major developments since major back-to-back earthquakes rocked Venezuela on June 24, devastating parts of a country already reeling from crisis after crisis.",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+    "published": "Wed, 01 Jul 2026 13:54:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "3cd392b9507da3e7153e754c626d04b8",
+    "fetched_at": "2026-07-02T13:43:27.620901+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+    "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+    "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+    "published": "Thu, 02 Jul 2026 07:23:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "69fe1c9a6008f0140eaa8106474359d0",
+    "fetched_at": "2026-07-02T13:43:26.491611+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Daredevil climbers get engaged after scaling top of the Empire State Building",
+    "summary": "The Russian couple were swiftly taken into custody by NYPD for the hair-raising stunt.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ewzz795wo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 23:29:06 GMT",
+    "source": "BBC News",
+    "id": "26fc1586a7bae8dcd9d9e7c177b15196",
+    "fetched_at": "2026-07-02T13:43:25.186208+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why the expected fight over the North American trade deal never kicked off",
+    "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 10:24:08 GMT",
+    "source": "BBC News",
+    "id": "23eab8689daf8f40d34fdd363e06cdbf",
+    "fetched_at": "2026-07-02T13:43:24.057571+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Couple climbs Empire State Building, gets engaged, then arrested",
     "summary": "Two climbers scaled the Empire State Building's antenna, displayed a peace banner and appeared to get engaged before being arrested by New York police.",
     "link": "http://www.euronews.com/video/2026/07/02/couple-climbs-empire-state-building-gets-engaged-then-arrested",
@@ -398,205 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "f4c5368ac1de9e0339a6d3d22578bcd4",
     "fetched_at": "2026-07-01T23:06:11.343889+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
-    "summary": "A 2-year-old boy named Klieber Moran was rescued after six days trapped beneath rubble in La Guaira, Venezuela, following devastating earthquakes.",
-    "link": "https://www.foxnews.com/world/boy-2-pulled-alive-from-rubble-six-days-after-venezuelas-devastating-twin-earthquakes",
-    "published": "Tue, 30 Jun 2026 22:47:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4c58c99f9323b7909f50db70cf974ac3",
-    "fetched_at": "2026-07-01T23:06:10.205687+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families sue Maduro in US, accuse ex-president of directing police unit tied to extrajudicial killings",
-    "summary": "Families of five Venezuelan men filed a lawsuit accusing Nicolás Maduro of overseeing FAES, a police unit allegedly responsible for extrajudicial killings.",
-    "link": "https://www.foxnews.com/world/families-sue-maduro-us-accuse-ex-president-directing-police-unit-tied-extrajudicial-killings",
-    "published": "Wed, 01 Jul 2026 18:44:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4b06b9a27fe3846c3154001e57759c5a",
-    "fetched_at": "2026-07-01T23:06:09.069688+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mexico ends a 40-year knockout drought, beats Ecuador to advance in World Cup",
-    "summary": "Mexico lost seven consecutive times at that same stage from 1994 to 2018 and didn't advance past the group stage in 2022. Now, the 40-year wait is over.",
-    "link": "https://www.npr.org/2026/07/01/nx-s1-5877257/mexico-beats-ecuador-advance-world-cup",
-    "published": "Wed, 01 Jul 2026 02:56:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccae988612b5241bf2829342953e789e",
-    "fetched_at": "2026-07-01T23:06:07.930556+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Has football fever taken hold in the US?",
-    "summary": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 11:57:37 GMT",
-    "source": "BBC News",
-    "id": "ecd2d05b5bc916d88e682c43aa046c6a",
-    "fetched_at": "2026-07-01T23:06:06.804149+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-    "summary": "The White House has refuted claims that Trump is profiting off the presidency and said he doesn't have any conflicts of interest.",
-    "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 22:36:43 GMT",
-    "source": "BBC News",
-    "id": "adbe4cacada09827a2345c8ff63f6ca1",
-    "fetched_at": "2026-07-01T23:06:05.662076+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Two people climb to highest point of Empire State Building",
-    "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
-    "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 17:08:56 GMT",
-    "source": "BBC News",
-    "id": "9ce64824801ca56b2f411295236f498f",
-    "fetched_at": "2026-07-01T21:20:59.892539+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
-    "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 17:40:29 GMT",
-    "source": "BBC News",
-    "id": "b2c6b40e00b230d2e5f1740e2e6757cc",
-    "fetched_at": "2026-07-01T21:20:59.892535+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "California to institute Bruce Lee Day, first for a Chinese-American in state history",
-    "summary": "In the 1960s, Lee found work in Hollywood, notably as Kato in the TV series \"The Green Hornet,\" but studios wanted him to play racist stereotypes and paid him less than his white counterparts.",
-    "link": "http://www.euronews.com/culture/2026/07/01/california-to-institute-bruce-lee-day-first-for-a-chinese-american-in-state-history",
-    "published": "Wed, 01 Jul 2026 21:53:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21a140c14af26514ef40dc9c2448d62a",
-    "fetched_at": "2026-07-01T21:20:59.892503+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two arrested after unfurling 'power of love' banner on Empire State Building antenna",
-    "summary": "Office workers wondered how the pair managed to get to the antenna of a high-profile building where visitors are screened and told not to bring large packages, sports equipment, costumes or masks, among other items.",
-    "link": "http://www.euronews.com/2026/07/01/two-arrested-after-unfurling-power-of-love-banner-on-empire-state-building-antenna",
-    "published": "Wed, 01 Jul 2026 22:17:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "459421d3421b01304d58d7c8f14435fe",
-    "fetched_at": "2026-07-01T21:20:58.755295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU looks to South Caucasus for solutions as von der Leyen holds talks with President Aliyev",
-    "summary": "Von der Leyen begins her South Caucasus tour in Baku as the EU steps up engagement on regional stability, energy and connectivity.",
-    "link": "http://www.euronews.com/2026/07/01/eu-looks-to-south-caucasus-for-solutions-as-von-der-leyen-holds-talks-with-president-aliye",
-    "published": "Wed, 01 Jul 2026 22:31:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7546a2b14a9ee5a7fd15be10370802ec",
-    "fetched_at": "2026-07-01T21:20:57.608268+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities",
-    "summary": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread across multiple cities, with looting and clashes reported.",
-    "link": "https://www.foxnews.com/world/thousands-police-deployed-south-africa-deadly-anti-immigration-protests-spread-multiple-cities",
-    "published": "Tue, 30 Jun 2026 19:22:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f19b54b4d27c0185c97a1e8747f34a5a",
-    "fetched_at": "2026-07-01T21:20:56.475571+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fitness influencer says Lufthansa told her she looked ‘naked,’ forced her to zip up before boarding flight",
-    "summary": "Fitness influencer Edda Elisa Pilz says a Lufthansa employee called her &quot;naked&quot; and blocked her from boarding a flight over her athletic outfit.",
-    "link": "https://www.foxnews.com/world/fitness-influencer-says-lufthansa-told-her-she-looked-naked-forced-her-zip-before-boarding-flight",
-    "published": "Tue, 30 Jun 2026 20:12:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f7367cc051eb509f0ed718067ae2d573",
-    "fetched_at": "2026-07-01T21:20:55.327374+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "State Department congratulates Keiko Fujimori as Peru's president-elect following razor-thin vote count",
-    "summary": "The State Department congratulates Keiko Fujimori after she was declared winner of Peru&apos;s presidential runoff by fewer than 50,000 votes out of 18 million ballots cast.",
-    "link": "https://www.foxnews.com/world/state-department-congratulates-keiko-fujimori-perus-president-elect-razor-thin-vote-count",
-    "published": "Tue, 30 Jun 2026 22:00:35 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1707b1d245ffa67130303a1f1ed3245e",
-    "fetched_at": "2026-07-01T21:20:54.190822+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war supercharges pivot to renewable energy",
-    "summary": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs worldwide. Global investors say these technologies make financial sense and increase energy security.",
-    "link": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
-    "published": "Tue, 30 Jun 2026 04:46:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "c0ec705acc0ce5ea874c9b0044d96604",
-    "fetched_at": "2026-07-01T21:20:53.046281+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
-    "summary": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court's last day of its term. And, the U.S. murder rate approaches a record low.",
-    "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
-    "published": "Tue, 30 Jun 2026 07:46:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "98962adda0d912a8b4bc83bedb45de67",
-    "fetched_at": "2026-07-01T21:20:51.900313+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-    "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
-    "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 16:44:58 GMT",
-    "source": "BBC News",
-    "id": "ae5ac101d588a30be532b5274e0958be",
-    "fetched_at": "2026-07-01T19:43:05.310820+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 1st, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/01/latest-news-bulletin-july-1st-2026-evening",
-    "published": "Wed, 01 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ca97a5b673b3b24fe477bb624cccf754",
-    "fetched_at": "2026-07-01T19:43:05.310818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Planned 1.7 million satellites 'devastating' for astronomy by making night sky brighter",
-    "summary": "There are also concerns that huge amounts of space debris from satellites could increasingly crash into each other in a dangerous chain reaction known as \"Kessler syndrome.\"",
-    "link": "http://www.euronews.com/2026/07/01/planned-17-million-satellites-devastating-for-astronomy-by-making-night-sky-brighter",
-    "published": "Wed, 01 Jul 2026 18:42:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "44cc5faa8993d65bc5c08b380ad4193f",
-    "fetched_at": "2026-07-01T19:43:05.310815+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nicolás Maduro sued in US court over alleged extrajudicial killings in Venezuela",
-    "summary": "Maduro is currently in a New York jail awaiting trial on criminal charges of drug trafficking after the US military removed him from office in an extraordinary raid in Venezuela in January.",
-    "link": "http://www.euronews.com/2026/07/01/nicolas-maduro-sued-in-us-court-over-alleged-extrajudicial-killings-in-venezuela",
-    "published": "Wed, 01 Jul 2026 21:28:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "53245910b720198efb881036d544fe55",
-    "fetched_at": "2026-07-01T19:43:05.310813+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-    "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-    "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 13:22:15 GMT",
-    "source": "BBC News",
-    "id": "33513df033e2bf37aa6430fd3cf292ae",
-    "fetched_at": "2026-07-01T19:43:05.310810+00:00"
   }
 ]
