@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "The US deported them to Venezuela - hours later earthquakes struck",
+    "summary": "They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.",
+    "link": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 01:56:17 GMT",
+    "source": "BBC News",
+    "id": "c11c827d42d4253595189fedeeffc307",
+    "fetched_at": "2026-07-02T07:24:34.111318+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Did this AI anti-drug video make drugs look appealing?",
+    "summary": "Hong Kong’s Correctional Services Department removed an AI-generated K-pop video, after facing backlash that it made substances look too appealing.",
+    "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 01:54:26 GMT",
+    "source": "BBC News",
+    "id": "da8bbeb3b88812997a40e613fc55bfbd",
+    "fetched_at": "2026-07-02T07:24:34.111314+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 04:59:55 GMT",
+    "source": "BBC News",
+    "id": "2ea604216144907b55ea1ccb88e54a8d",
+    "fetched_at": "2026-07-02T07:24:34.111311+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+    "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+    "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 05:00:03 GMT",
+    "source": "BBC News",
+    "id": "2fec4b46757b1137a1f145f6e7752716",
+    "fetched_at": "2026-07-02T07:24:34.111308+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US-Iran parallel talks in Qatar end with pledge to keep talking",
+    "summary": "Holding separate meetings in Qatar, the US and Iran made progress and agreed that the next meeting would be after Khamenei's funeral, host Qatar confirmed.",
+    "link": "http://www.euronews.com/2026/07/02/us-iran-parallel-talks-in-qatar-end-with-pledge-to-keep-talking",
+    "published": "Thu, 02 Jul 2026 05:00:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "65639263bb828cff39876286c388bc7f",
+    "fetched_at": "2026-07-02T07:24:34.111304+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela's death toll at least 2,295 as medical crisis widens",
+    "summary": "Doctors fear a severe medical crisis in Venezuela following the 24 June earthquakes that killed 2,295 and injured more than 11,000. Thousands of displaced survivors are living in crowded shelters without clean water.",
+    "link": "http://www.euronews.com/2026/07/02/venezuela-death-toll-rises-to-2295-as-medical-crisis-widens",
+    "published": "Thu, 02 Jul 2026 05:45:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "34405f5404020f485c366b5266bfeda2",
+    "fetched_at": "2026-07-02T07:24:34.111277+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's petrol crisis worsens as citizens feel the bite of Moscow's war in Ukraine",
+    "summary": "A third of Russia's refining capacity has been knocked out by Ukrainian drone attacks, causing petrol shortages across more than half of Russia's regions.",
+    "link": "http://www.euronews.com/2026/07/02/russias-petrol-crisis-worsens-as-citizens-feel-the-bite-of-moscows-war-in-ukraine",
+    "published": "Thu, 02 Jul 2026 07:00:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fae37225b5cbdd559acd0a045ad459d0",
+    "fetched_at": "2026-07-02T07:24:32.994376+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 2nd, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/02/latest-news-bulletin-july-2nd-2026-morning",
+    "published": "Thu, 02 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "96e839f2d5236a0995cacb63a7dd1eae",
+    "fetched_at": "2026-07-02T07:24:31.855881+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fire kills five at Antwerp apartment block",
+    "summary": "A man was seen clambering through a window to escape black smoke in the block where some 200 people live.",
+    "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 16:12:18 GMT",
+    "source": "BBC News",
+    "id": "c7d51b2cffb322d0e1c2121fbff98fc7",
+    "fetched_at": "2026-07-02T07:24:30.725120+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+    "summary": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.",
+    "link": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+    "published": "Thu, 02 Jul 2026 01:47:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "b77b697a1b45600f6cf2d06910a8ae63",
+    "fetched_at": "2026-07-02T07:24:29.585330+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+    "summary": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+    "published": "Thu, 02 Jul 2026 01:57:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "ffc340528ce99d81f5979d5c4ff92584",
+    "fetched_at": "2026-07-02T07:24:28.451632+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lethal Weapon actor Danny Glover reveals Alzheimer's diagnosis",
+    "summary": "The four-time Emmy winner said his movements, speech and memories have slowed since receiving his diagnosis.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w2nwg4zd5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 01 Jul 2026 22:29:15 GMT",
+    "source": "BBC News",
+    "id": "9e9294fc45f0abb8384051e17f02e485",
+    "fetched_at": "2026-07-02T07:24:27.315387+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+    "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+    "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 03:07:39 GMT",
+    "source": "BBC News",
+    "id": "72d8006abe069af92e332e5ba453708b",
+    "fetched_at": "2026-07-02T07:24:26.188474+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least one killed in major airstrikes on Kyiv",
     "summary": "At least one person was killed in the overnight airstrikes hours after President Zelensky said that Moscow was planning a \"massive\" attack.",
     "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "401c5a82424bca796b45e1ab6fe8c5a5",
     "fetched_at": "2026-07-01T16:21:12.120298+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Water cannons cool tourists at Rome's Colosseum amid heatwave",
-    "summary": "Tourists at Rome's Colosseum cool off with water spray and bottled water as civil protection teams respond to temperatures approaching 40C.",
-    "link": "http://www.euronews.com/video/2026/07/01/water-cannons-cool-tourists-at-romes-colosseum-amid-heatwave",
-    "published": "Wed, 01 Jul 2026 14:35:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59d74a4cf512deb6da0c2e659b004673",
-    "fetched_at": "2026-07-01T16:21:12.120295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ship runs aground in Hormuz as Iran insists on controlling the strait",
-    "summary": "Iran's IRGC said the grounding was caused by the vessel straying from its approved corridor. Hormuz control and the Israeli intervention against Hezbollah in Lebanon remain the two main obstacles to a final deal.",
-    "link": "http://www.euronews.com/2026/07/01/ship-runs-aground-in-hormuz-as-iran-insists-on-controlling-the-strait",
-    "published": "Wed, 01 Jul 2026 14:37:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9342c99083d853dfce5104642d873ac0",
-    "fetched_at": "2026-07-01T16:21:12.120292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mourners attend funerals for 14 Pakistani children killed in tutoring centre roof collapse",
-    "summary": "Police are investigating whether negligence during ongoing construction work caused the collapse that left another eight children hospitalised in stable condition.",
-    "link": "http://www.euronews.com/2026/07/01/mourners-attend-funerals-for-14-pakistani-children-killed-in-tutoring-centre-roof-collapse",
-    "published": "Wed, 01 Jul 2026 15:04:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3602b6f74cc99a9f0557652d542df53d",
-    "fetched_at": "2026-07-01T16:21:12.120289+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits Russia's Ufa oil refinery for second time in a week, Zelenskyy says",
-    "summary": "Ukraine’s domestically developed and manufactured drones and missiles have been hammering Russian oil facilities, including refineries, terminals, storage depots and pipeline pumping stations, for months.",
-    "link": "http://www.euronews.com/2026/07/01/ukraine-hits-russias-ufa-oil-refinery-for-second-time-in-a-week-zelenskyy-says",
-    "published": "Wed, 01 Jul 2026 15:32:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b9fa660542c81f67e63603c38227cfb8",
-    "fetched_at": "2026-07-01T16:21:12.120285+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Firefighters struggle to contain deadly Greek wildfire",
-    "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 30 Jun 2026 20:25:53 GMT",
-    "source": "BBC News",
-    "id": "08118deefff07a18dd7df6cde6d3cca1",
-    "fetched_at": "2026-07-01T16:21:12.120258+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wave of attacks on Iran's IRGC raises questions about renewed Kurdish insurgency",
-    "summary": "Islamic Revolutionary Guard Corps forces face deadly attacks across western Iran as clashes spread, raising questions about an escalating Kurdish insurgency amid U.S.–Iran talks.",
-    "link": "https://www.foxnews.com/world/wave-attacks-irans-irgc-raises-questions-about-renewed-kurdish-insurgency",
-    "published": "Tue, 30 Jun 2026 16:38:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c7c159d3cc2bac4ba0503e3bc17df5b2",
-    "fetched_at": "2026-07-01T16:21:10.977817+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
-    "summary": "Venezuela's La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez's first major test. Now, it's the acting leader's challenge.",
-    "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
-    "published": "Mon, 29 Jun 2026 16:19:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "4f33888f51e31806d5b3d021363ad1a1",
-    "fetched_at": "2026-07-01T16:21:09.830839+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-    "summary": "Monaco 's chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
-    "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
-    "published": "Tue, 30 Jun 2026 01:35:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "9527535071a5a4cd9cd66fbe1176652e",
-    "fetched_at": "2026-07-01T16:21:08.679218+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
-    "summary": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
-    "link": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
-    "published": "Wed, 01 Jul 2026 10:57:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "f8f2767a3521d07547993102f5161f4a",
-    "fetched_at": "2026-07-01T16:21:07.136473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Man comes face-to-face with bear inside truck",
-    "summary": "Security camera footage from the Colorado property shows a man using several methods to coax a black bear out of a vehicle.",
-    "link": "https://www.bbc.co.uk/news/videos/cewqzryz12zo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 14:16:56 GMT",
-    "source": "BBC News",
-    "id": "a8b35ecef03382c87698578c0566c5ef",
-    "fetched_at": "2026-07-01T16:21:05.888986+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada to make Eurovision Song Contest debut in 2027",
-    "summary": "The country becomes the first new participant since Australia joined the contest in 2015.",
-    "link": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 12:30:56 GMT",
-    "source": "BBC News",
-    "id": "158561a49322bc5d2e1184e03de52a64",
-    "fetched_at": "2026-07-01T16:21:04.740315+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-    "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 15:48:02 GMT",
-    "source": "BBC News",
-    "id": "82b307a610031d08a8cfeb3bc852fb5f",
-    "fetched_at": "2026-07-01T16:21:03.579697+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-    "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
-    "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 06:29:31 GMT",
-    "source": "BBC News",
-    "id": "c4c94b5c01a2199d0fd38d822bbbd79e",
-    "fetched_at": "2026-07-01T12:29:03.761254+00:00"
   }
 ]
