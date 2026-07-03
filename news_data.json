@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
+    "summary": "Voters were primarily concerned with increasing levels of crime, especially extortion by violent organized crime gangs, and Fujimori pledged to combat crime with an iron fist.",
+    "link": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
+    "published": "Fri, 03 Jul 2026 21:06:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a7839cd54b86678dddc90bc82742a654",
+    "fetched_at": "2026-07-03T20:56:20.419330+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia unleashes nearly 600 missiles and drones on Kyiv in deadliest strike since May",
+    "summary": "Ukraine’s U.N. ambassador called Russia a “pariah state&quot; after Moscow launched one of its heaviest overnight attacks on Kyiv, killing at least 18 people and wounding more than 90 people.",
+    "link": "https://www.foxnews.com/world/russia-unleashes-nearly-600-missiles-drones-kyiv-deadliest-strike-since-may",
+    "published": "Thu, 02 Jul 2026 12:41:06 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c483e0d6067c7a5ca163722815d7d846",
+    "fetched_at": "2026-07-03T20:56:20.419302+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Security guard survives eight days beneath collapsed shopping center after Venezuela earthquakes",
+    "summary": "Video shows Hernán Alberto Gil Flores carried through cheering crowds after eight days trapped in a collapsed shopping center in La Guaira, Venezuela.",
+    "link": "https://www.foxnews.com/world/security-guard-survives-eight-days-beneath-collapsed-shopping-center-venezuela-earthquakes",
+    "published": "Thu, 02 Jul 2026 12:43:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "621a85c688a90aba3c815d23554c2252",
+    "fetched_at": "2026-07-03T20:56:19.282992+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "11-year-old dies from rabies after bat landed on his face while he was sleeping",
+    "summary": "An 11-year-old boy in Ontario died of rabies after a bat landed on his face as he slept, according to the Canadian Medical Association Journal.",
+    "link": "https://www.foxnews.com/world/11-year-old-dies-rabies-bat-landed-face-sleeping",
+    "published": "Thu, 02 Jul 2026 13:43:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d914a5ec506ce7e4dc73f8e520f25974",
+    "fetched_at": "2026-07-03T20:56:17.943576+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Experts ‘deeply’ concerned over Iran’s work at underground nuclear site",
+    "summary": "Pickaxe Mountain, a secret nuclear site in the Zagros Mountains, shows continued construction, according to satellite imagery. IAEA inspectors have not been allowed to visit.",
+    "link": "https://www.foxnews.com/world/experts-say-deeply-concerned-over-irans-work-underground-nuclear-site",
+    "published": "Fri, 03 Jul 2026 15:29:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d57ecbd4b957c9afa2af345f8e1e4717",
+    "fetched_at": "2026-07-03T20:56:16.808714+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
+    "summary": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense U.N. Security Council exchange with Iranian diplomat Iravani.",
+    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
+    "published": "Fri, 03 Jul 2026 15:47:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d6b172b24cc379325518082ffee6ceac",
+    "fetched_at": "2026-07-03T20:56:15.663689+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'We can still pull out live victims': LA rescuers join Venezuela quake rescue efforts",
+    "summary": "In Venezuela, international emergency crews — including a team from LA — are working tirelessly to reach people still missing after last week's devastating earthquakes.",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5877393/search-team-from-los-angeles-joins-earthquake-rescue-efforts-in-venezuela",
+    "published": "Thu, 02 Jul 2026 04:48:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "10d136a2aee2f4c37f8c81f7a485910c",
+    "fetched_at": "2026-07-03T20:56:14.509006+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
+    "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+    "published": "Fri, 03 Jul 2026 15:45:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "aeae213ce941e147f59215b017d6a9bc",
+    "fetched_at": "2026-07-03T20:56:13.205830+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+    "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
+    "published": "Fri, 03 Jul 2026 16:51:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "c36c96e2c5d13fa82bd7a5f36ae95977",
+    "fetched_at": "2026-07-03T20:56:12.049575+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
     "summary": "In the face of criticism, Shoko Kawata, 35, says she loves her job and is proud to be taking time off to have a baby.",
     "link": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "bc9c79da2922adbec252d8a244a9013f",
     "fetched_at": "2026-07-03T10:28:42.980527+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Firefighters battle major wildfire in southern France",
-    "summary": "A major wildfire in France's Aude department burns 900 hectares as aircraft and firefighters battle the blaze and evacuees reach emergency shelters.",
-    "link": "http://www.euronews.com/video/2026/07/03/firefighters-battle-major-wildfire-in-southern-france",
-    "published": "Fri, 03 Jul 2026 09:20:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d01a759f30aad9f11a5403bc34149d6a",
-    "fetched_at": "2026-07-03T10:28:42.980525+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Portugal fans celebrate World Cup win over Croatia",
-    "summary": "Thousands of Portugal fans gathered in central Lisbon to celebrate a 2-1 victory over Croatia, sending their team through to the World Cup last 16.",
-    "link": "http://www.euronews.com/video/2026/07/03/portugal-fans-celebrate-world-cup-win-over-croatia",
-    "published": "Fri, 03 Jul 2026 09:44:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fb370b5c39ad23009097d08f21529652",
-    "fetched_at": "2026-07-03T10:28:42.980523+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Air conditioner rush: Scuffles break out at Lidl stores across France",
-    "summary": "Hundreds of shoppers queued outside Lidl supermarkets across France on Thursday after the retailer announced the sale of 200,000 fans and portable air conditioners, triggering long lines, scuffles and police intervention at several stores.",
-    "link": "http://www.euronews.com/my-europe/2026/07/03/air-conditioner-rush-scuffles-break-out-at-lidl-stores",
-    "published": "Fri, 03 Jul 2026 10:46:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bbf8a7f05d7b7007fa6a22e5d0825ef2",
-    "fetched_at": "2026-07-03T10:28:42.980520+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rescued bile bears released in Denmark forest",
-    "summary": "Six rescued Asiatic black bears from South Korea start a new life in Denmark’s Knuthenborg Safaripark after an international rescue operation.",
-    "link": "http://www.euronews.com/video/2026/07/03/rescued-bile-bears-released-in-denmark-forest",
-    "published": "Fri, 03 Jul 2026 11:15:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e7c92a1052d626ed4d5eb48553faf9aa",
-    "fetched_at": "2026-07-03T10:28:42.980518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 3rd, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/03/latest-news-bulletin-july-3rd-2026-midday",
-    "published": "Fri, 03 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "825b1910362c2c78320a2d8a2dbbd509",
-    "fetched_at": "2026-07-03T10:28:42.980516+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dogs don Argentina shirts as World Cup fever grips Buenos Aires",
-    "summary": "A dog walker in Buenos Aires leads dogs dressed in Argentina jerseys through the city as World Cup fever grows and fans celebrate in the streets.",
-    "link": "http://www.euronews.com/video/2026/07/03/dogs-don-argentina-shirts-as-world-cup-fever-grips-buenos-aires",
-    "published": "Fri, 03 Jul 2026 12:11:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "519da64b048e967acea179de56dc5a89",
-    "fetched_at": "2026-07-03T10:28:42.980513+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venezuela's interim leader defends earthquake response as death toll tops 2,500",
-    "summary": "Delcy Rodríguez has hit back at criticism over her government’s response to the quakes, rejecting accusations of slow rescue efforts and claims that official casualty figures have been under-reported.",
-    "link": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500",
-    "published": "Fri, 03 Jul 2026 12:17:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fd7bcc6988a8d0d7043fc9be1b973617",
-    "fetched_at": "2026-07-03T10:28:42.980510+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Vatican excommunicates followers of global Catholic sect",
-    "summary": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 17:27:36 GMT",
-    "source": "BBC News",
-    "id": "a591a2aa85c04688048f6945c279f8e3",
-    "fetched_at": "2026-07-03T10:28:42.980507+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Khamenei body in cold storage as feared Basij mobilizes ahead of historic Iran funeral",
-    "summary": "Tehran prepares massive security operation for Ali Khamenei&apos;s July 9 burial, mobilizing Basij militia and IRGC for expected historic turnout.",
-    "link": "https://www.foxnews.com/world/khamenei-body-cold-storage-feared-basij-mobilizes-historic-iran-funeral",
-    "published": "Wed, 01 Jul 2026 20:20:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "595979b549638e490263bcf58f9aceec",
-    "fetched_at": "2026-07-03T10:28:42.980503+00:00"
   }
 ]
