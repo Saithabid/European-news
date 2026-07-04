@@ -1,6 +1,26 @@
 [
   {
     "region": "Europe",
+    "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+    "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+    "source": "BBC News",
+    "id": "bc9c79da2922adbec252d8a244a9013f",
+    "fetched_at": "2026-07-04T02:10:26.999690+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brutal heat disrupts Fourth of July events, including DC's Great American State Fair",
+    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 00:29:35 GMT",
+    "source": "BBC News",
+    "id": "328e34dc33efe58a355fed9cadf5ed45",
+    "fetched_at": "2026-07-04T02:10:25.743372+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
     "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
     "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
@@ -578,25 +598,5 @@
     "source": "BBC News",
     "id": "8f9cc5c203bb3e20ddce5e77fb8ef17c",
     "fetched_at": "2026-07-03T13:47:42.893489+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-    "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 20:34:52 GMT",
-    "source": "BBC News",
-    "id": "0d4cffc70f75371e320648c260a2eec1",
-    "fetched_at": "2026-07-03T13:47:41.731429+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What do people in the US hope for the country's future?",
-    "summary": "As the US celebrates its 250th birthday, the BBC asked people across the country for their top aspiration.",
-    "link": "https://www.bbc.co.uk/news/videos/cdx7zxrgr70o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 13:30:11 GMT",
-    "source": "BBC News",
-    "id": "0114fcd1a5047748f30bc899ec995763",
-    "fetched_at": "2026-07-03T13:47:40.593522+00:00"
   }
 ]
