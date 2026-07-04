@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Row after Indian state drops eggs from school lunch menu",
+    "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
+    "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 00:55:10 GMT",
+    "source": "BBC News",
+    "id": "965eee142b625a3af1f170f78aae6959",
+    "fetched_at": "2026-07-04T06:41:18.548426+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
+    "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+    "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 00:43:26 GMT",
+    "source": "BBC News",
+    "id": "588d327bf66ea80fdd5aba5f7bca9d96",
+    "fetched_at": "2026-07-04T06:41:17.439165+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 4th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/04/latest-news-bulletin-july-4th-2026-morning",
+    "published": "Sat, 04 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9259fa5b7a6804efbf1703c92647500a",
+    "fetched_at": "2026-07-04T06:41:16.321205+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+    "summary": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+    "published": "Sat, 04 Jul 2026 01:04:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "a3d3242f0bd4f26b1ce8dfa97277b909",
+    "fetched_at": "2026-07-04T06:41:15.188860+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+    "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
+    "published": "Sat, 04 Jul 2026 01:44:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "04b6e289f5347d05d3c11ac18dabed45",
+    "fetched_at": "2026-07-04T06:41:14.056599+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+    "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+    "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 20:34:52 GMT",
+    "source": "BBC News",
+    "id": "0d4cffc70f75371e320648c260a2eec1",
+    "fetched_at": "2026-07-04T06:41:12.823703+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What do people in the US hope for the country's future?",
+    "summary": "As the US celebrates its 250th birthday, the BBC asked people across the country for their top aspiration.",
+    "link": "https://www.bbc.co.uk/news/videos/cdx7zxrgr70o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 13:30:11 GMT",
+    "source": "BBC News",
+    "id": "0114fcd1a5047748f30bc899ec995763",
+    "fetched_at": "2026-07-04T06:41:11.709224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+    "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
+    "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 02:26:54 GMT",
+    "source": "BBC News",
+    "id": "fe7b15eeff0c5446e2dae5036dea4019",
+    "fetched_at": "2026-07-04T06:41:10.572950+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
     "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
     "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "a855016e0603de9f605c711602a785ba",
     "fetched_at": "2026-07-03T13:47:47.476045+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Stand-up comic held on charges of insulting Islam and Erdogan in Turkey crackdown",
-    "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"insulting religious values\" on stage.",
-    "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 12:28:43 GMT",
-    "source": "BBC News",
-    "id": "f11189228c4ec405897bbb993d459c3a",
-    "fetched_at": "2026-07-03T13:47:47.476042+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-    "summary": "Officials in Monaco say they believe she was \"disguised as a man\" and may not have acted alone.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 13:12:52 GMT",
-    "source": "BBC News",
-    "id": "d76bcebb92d1b64254f61e284368a0d1",
-    "fetched_at": "2026-07-03T13:47:47.476039+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
-    "summary": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
-    "link": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
-    "published": "Thu, 02 Jul 2026 16:13:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "e604b6a7a1dcebd4c5c09a220210d4f7",
-    "fetched_at": "2026-07-03T13:47:47.476035+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-    "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
-    "published": "Fri, 03 Jul 2026 07:39:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "992933aa95953f7d59fc568463d673ae",
-    "fetched_at": "2026-07-03T13:47:47.476008+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-    "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 01 Jul 2026 23:08:20 GMT",
-    "source": "BBC News",
-    "id": "3766b24300b64385e2933f39e1595b16",
-    "fetched_at": "2026-07-03T13:47:46.330903+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: What Trump's Mount Rushmore aspirations reveal",
-    "summary": "The BBC's Sarah Smith is at the monument in South Dakota, and looks at the political debate and practical challenges the proposition poses.",
-    "link": "https://www.bbc.co.uk/news/videos/cj4g0qwee24o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 20:37:28 GMT",
-    "source": "BBC News",
-    "id": "1aa60be3196791945afde9012fbd3764",
-    "fetched_at": "2026-07-03T13:47:45.186484+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump presidency reignites its founding debate - how much power is too much?",
-    "summary": "What would the revolutionaries who broke from the British monarchy 250 years ago make of the current head of state?",
-    "link": "https://www.bbc.co.uk/news/articles/cp9lm9j2580o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 09:30:48 GMT",
-    "source": "BBC News",
-    "id": "93744c202b1125b3e393a0c64586dbe4",
-    "fetched_at": "2026-07-03T13:47:44.048816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Beautiful and terrible' - the world's thoughts on the US at 250",
-    "summary": "From Brazil to India to Egypt, the BBC asked people across the world what they think of America today.",
-    "link": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 04:59:10 GMT",
-    "source": "BBC News",
-    "id": "8f9cc5c203bb3e20ddce5e77fb8ef17c",
-    "fetched_at": "2026-07-03T13:47:42.893489+00:00"
   }
 ]
