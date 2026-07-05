@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Row after Indian state drops eggs from school lunch menu",
+    "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
+    "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 00:55:10 GMT",
+    "source": "BBC News",
+    "id": "965eee142b625a3af1f170f78aae6959",
+    "fetched_at": "2026-07-05T10:05:25.508575+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Evacuations in Guam as super typhoon Bavi approaches",
+    "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 09:26:56 GMT",
+    "source": "BBC News",
+    "id": "633ae6465e0920bc06e6eabc78f75a2e",
+    "fetched_at": "2026-07-05T10:05:25.508572+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelenskyy and Putin hold Fourth of July phone calls with Trump",
+    "summary": "Yuri Ushakov, a Russian presidential aide, said Putin and Trump discussed \"the issue of the Ukrainian settlement\" in a phone call that lasted an hour and twenty-five minutes.",
+    "link": "http://www.euronews.com/2026/07/05/zelenskyy-and-putin-hold-fourth-of-july-phone-calls-with-trump",
+    "published": "Sun, 05 Jul 2026 10:43:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "748060ccb409fb7342ac11ea6c5d9ce9",
+    "fetched_at": "2026-07-05T10:05:25.508567+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eulogist at Khamenei funeral in Iran calls for death of Donald Trump",
+    "summary": "Trump said in January that he had given “very firm instructions” to “wipe them off the face of this Earth” if Iran ever tried to assassinate him.",
+    "link": "http://www.euronews.com/2026/07/05/eulogist-at-khamenei-funeral-in-iran-calls-for-death-of-donald-trump",
+    "published": "Sun, 05 Jul 2026 11:32:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "29a7e91759b44f770b2af8dd40002d4f",
+    "fetched_at": "2026-07-05T10:05:25.508541+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
+    "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage.",
+    "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 12:28:43 GMT",
+    "source": "BBC News",
+    "id": "f11189228c4ec405897bbb993d459c3a",
+    "fetched_at": "2026-07-05T10:05:24.398886+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+    "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+    "source": "BBC News",
+    "id": "d76bcebb92d1b64254f61e284368a0d1",
+    "fetched_at": "2026-07-05T10:05:23.279196+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+    "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
+    "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
+    "published": "Fri, 03 Jul 2026 07:39:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "992933aa95953f7d59fc568463d673ae",
+    "fetched_at": "2026-07-05T10:05:22.158072+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pastor freed from prison in China weeks after Trump requested his release",
+    "summary": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
+    "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+    "published": "Sun, 05 Jul 2026 04:30:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "9bfd93585e7903c6f90d8ced639a2e73",
+    "fetched_at": "2026-07-05T10:05:21.070845+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What Trump's Mount Rushmore aspirations reveal",
+    "summary": "The BBC's Sarah Smith is at the monument in South Dakota, and looks at the political debate and practical challenges the proposition poses.",
+    "link": "https://www.bbc.co.uk/news/videos/cj4g0qwee24o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 20:37:28 GMT",
+    "source": "BBC News",
+    "id": "1aa60be3196791945afde9012fbd3764",
+    "fetched_at": "2026-07-05T10:05:19.953545+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump presidency reignites its founding debate - how much power is too much?",
+    "summary": "What would the revolutionaries who broke from the British monarchy 250 years ago make of the current head of state?",
+    "link": "https://www.bbc.co.uk/news/articles/cp9lm9j2580o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 09:30:48 GMT",
+    "source": "BBC News",
+    "id": "93744c202b1125b3e393a0c64586dbe4",
+    "fetched_at": "2026-07-05T10:05:18.833421+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+    "summary": "From Brazil to India to Egypt, the BBC asked people across the world what they think of America today.",
+    "link": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 04:59:10 GMT",
+    "source": "BBC News",
+    "id": "8f9cc5c203bb3e20ddce5e77fb8ef17c",
+    "fetched_at": "2026-07-05T10:05:17.711644+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
     "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
     "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "736d5dc393bb15d0d6dc650036b24a5e",
     "fetched_at": "2026-07-04T13:06:51.373667+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Vanishingly rare' copy of US Declaration of Independence discovered in the UK",
-    "summary": "Graham Moore, the Revolution 250 curator at the National Archives, said the \"exceptional\" item was \"one of the rarest forms of the Declaration we know about\".",
-    "link": "http://www.euronews.com/2026/07/04/vanishingly-rare-copy-of-us-declaration-of-independence-discovered-in-the-uk",
-    "published": "Sat, 04 Jul 2026 09:21:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b3fc9f63fc0348121e0bdb7e960a3f26",
-    "fetched_at": "2026-07-04T13:06:51.373661+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cape Verde fans stand proud despite Argentina defeat",
-    "summary": "Cape Verde supporters expressed pride in their team's historic World Cup campaign despite a 3-2 extra-time defeat to defending champions Argentina.",
-    "link": "http://www.euronews.com/video/2026/07/04/cape-verde-fans-stand-proud-despite-argentina-defeat",
-    "published": "Sat, 04 Jul 2026 10:52:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "48b446c83819669f7671ab1e9a3c2b00",
-    "fetched_at": "2026-07-04T13:06:51.373654+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranians mourn as Khamenei funeral ceremonies begin",
-    "summary": "Large crowds gathered in Tehran as Iran began six days of funeral ceremonies for late Supreme Leader Ali Khamenei, who was killed during the US-Israeli conflict.",
-    "link": "http://www.euronews.com/video/2026/07/04/iranians-mourn-as-khamenei-funeral-ceremonies-begin",
-    "published": "Sat, 04 Jul 2026 11:23:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6eb2ffc159d321e5e4f5ce3ce06c0866",
-    "fetched_at": "2026-07-04T13:06:51.373603+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 4th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/04/latest-news-bulletin-july-4th-2026-midday",
-    "published": "Sat, 04 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4926e8d9877b1d6d787a9c3bf92f15fb",
-    "fetched_at": "2026-07-04T13:06:50.246819+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump warns of communist threat as Washington parade cancelled",
-    "summary": "\"Communism is a mortal threat to American liberty,\" Trump said during a speech. \"It is the greatest threat to our country\".",
-    "link": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled",
-    "published": "Sat, 04 Jul 2026 12:17:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "502de9343acc703ec4aaa9c47872def2",
-    "fetched_at": "2026-07-04T13:06:49.114911+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-    "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 04:41:05 GMT",
-    "source": "BBC News",
-    "id": "a855016e0603de9f605c711602a785ba",
-    "fetched_at": "2026-07-04T13:06:47.997783+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia looks to students to make up for mounting losses in Ukraine",
-    "summary": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 23:24:20 GMT",
-    "source": "BBC News",
-    "id": "841b81936dab9a2b65e4f23febb5c0f6",
-    "fetched_at": "2026-07-04T13:06:46.867743+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope urges Europe to do more for migrants while visiting gateway island",
-    "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 11:25:57 GMT",
-    "source": "BBC News",
-    "id": "e80b0380dd29bed4e5f490ac5ef4d4ec",
-    "fetched_at": "2026-07-04T13:06:45.742026+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
-    "summary": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
-    "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
-    "published": "Thu, 02 Jul 2026 07:23:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "69fe1c9a6008f0140eaa8106474359d0",
-    "fetched_at": "2026-07-04T13:06:44.607311+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why the expected fight over the North American trade deal never kicked off",
-    "summary": "The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.",
-    "link": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 13:43:39 GMT",
-    "source": "BBC News",
-    "id": "23eab8689daf8f40d34fdd363e06cdbf",
-    "fetched_at": "2026-07-04T13:06:43.468158+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-    "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 09:45:55 GMT",
-    "source": "BBC News",
-    "id": "b13e222d0284b2f1f71659a6fb336743",
-    "fetched_at": "2026-07-04T10:02:03.523059+00:00"
   }
 ]
