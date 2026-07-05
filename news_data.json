@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+    "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+    "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 17:54:47 GMT",
+    "source": "BBC News",
+    "id": "8739b66eb3bffa0884e8ecbb3dace27a",
+    "fetched_at": "2026-07-05T20:50:30.875744+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German row over plan for workers to need sick note on first day of illness",
+    "summary": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 14:56:30 GMT",
+    "source": "BBC News",
+    "id": "cf5e5aae3017500442a9dbb315a2d730",
+    "fetched_at": "2026-07-05T20:50:30.875742+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Djokovic breaks Federer's Wimbledon record to reach quarters",
+    "summary": "Novak Djokovic claims the all-time record for most men's singles match wins at Wimbledon by beating qualifier Roman Safiullin to reach the quarter-finals.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 16:29:54 GMT",
+    "source": "BBC News",
+    "id": "cd3ec95fd132a348419f05a47c683485",
+    "fetched_at": "2026-07-05T20:50:30.875738+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "11-year-old dies from rabies after bat landed on his face while he was sleeping",
+    "summary": "An 11-year-old boy in Ontario died of rabies after a bat landed on his face as he slept, according to the Canadian Medical Association Journal.",
+    "link": "https://www.foxnews.com/world/11-year-old-dies-rabies-bat-landed-face-sleeping",
+    "published": "Thu, 02 Jul 2026 13:43:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d914a5ec506ce7e4dc73f8e520f25974",
+    "fetched_at": "2026-07-05T20:50:30.875713+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Experts ‘deeply’ concerned over Iran’s work at underground nuclear site",
+    "summary": "Pickaxe Mountain, a secret nuclear site in the Zagros Mountains, shows continued construction, according to satellite imagery. IAEA inspectors have not been allowed to visit.",
+    "link": "https://www.foxnews.com/world/experts-say-deeply-concerned-over-irans-work-underground-nuclear-site",
+    "published": "Fri, 03 Jul 2026 15:29:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d57ecbd4b957c9afa2af345f8e1e4717",
+    "fetched_at": "2026-07-05T20:50:29.747052+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
+    "summary": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense U.N. Security Council exchange with Iranian diplomat Iravani.",
+    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
+    "published": "Fri, 03 Jul 2026 15:47:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d6b172b24cc379325518082ffee6ceac",
+    "fetched_at": "2026-07-05T20:50:28.606483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
+    "summary": "Keiko Fujimori won Peru&apos;s presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an &quot;iron fist&quot; against surging crime.",
+    "link": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election",
+    "published": "Fri, 03 Jul 2026 17:52:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e7874c774ec622ff7ff28cfb3bc82f51",
+    "fetched_at": "2026-07-05T20:50:27.475899+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
+    "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
+    "published": "Fri, 03 Jul 2026 16:51:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "c36c96e2c5d13fa82bd7a5f36ae95977",
+    "fetched_at": "2026-07-05T20:50:26.325746+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran begins week of funeral celebrations for Khamenei",
+    "summary": "Foreign dignitaries are gathering in Iran for a week of funeral ceremonies for Ayatollah Ali Khamenei, more than four months after he was killed in U.S.-Israeli airstrikes.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei",
+    "published": "Sat, 04 Jul 2026 17:03:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "e34aae95e9131c379a36298c6c8b6d99",
+    "fetched_at": "2026-07-05T20:50:25.192682+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo visits Lampedusa to spotlight missing migrants",
+    "summary": "Pope Leo XIV will spend July 4th in Lampedusa, Italy, one of Europe's busiest migrant landing points. He will pray with migrants and honor those who died trying to cross the Mediterranean to Europe.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
+    "published": "Sat, 04 Jul 2026 17:03:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "fa5200f7d8a07c14db2832becda6c078",
+    "fetched_at": "2026-07-05T20:50:24.056603+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A new phase in the war in Ukraine",
+    "summary": "Ukraine says it can now hit military and energy targets deep inside Russia. Former ambassador Daniel Fried explains why he thinks Russia is starting to lose its strategic advantage.",
+    "link": "https://www.npr.org/2026/07/04/nx-s1-5879372/a-new-phase-in-the-war-in-ukraine",
+    "published": "Sat, 04 Jul 2026 17:03:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "756f5f2d7ce07bda05c9701c028900e8",
+    "fetched_at": "2026-07-05T20:50:22.911847+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Plane hit by firework while landing in Chicago",
     "summary": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
     "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "18a6568307750d5956ccf45aadbe1f96",
     "fetched_at": "2026-07-05T07:19:05.517793+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fireworks light up Washington sky for America's 250th anniversary",
-    "summary": "A fireworks display illuminated the National Mall in Washington as the United States marked the 250th anniversary of its independence.",
-    "link": "http://www.euronews.com/video/2026/07/05/fireworks-light-up-washington-sky-for-americas-250th-anniversary",
-    "published": "Sun, 05 Jul 2026 08:26:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f155694b72086c4cb21847be9d190f6f",
-    "fetched_at": "2026-07-05T07:19:04.373137+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'The American Dream is back,' Trump says during Fourth of July speech",
-    "summary": "\"Our warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America,\" Trump told a cheering crowd.",
-    "link": "http://www.euronews.com/2026/07/05/the-american-dream-is-back-trump-says-during-fourth-of-july-speech",
-    "published": "Sun, 05 Jul 2026 08:48:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2c7735d3c283c889879979df19d770c8",
-    "fetched_at": "2026-07-05T07:19:03.224506+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
-    "summary": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
-    "published": "Sat, 04 Jul 2026 01:04:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "a3d3242f0bd4f26b1ce8dfa97277b909",
-    "fetched_at": "2026-07-05T07:19:02.074816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-    "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
-    "published": "Sat, 04 Jul 2026 01:44:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "04b6e289f5347d05d3c11ac18dabed45",
-    "fetched_at": "2026-07-05T07:19:00.928708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-    "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 20:34:52 GMT",
-    "source": "BBC News",
-    "id": "0d4cffc70f75371e320648c260a2eec1",
-    "fetched_at": "2026-07-05T07:18:59.684316+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What do people in the US hope for the country's future?",
-    "summary": "As the US celebrates its 250th birthday, the BBC asked people across the country for their top aspiration.",
-    "link": "https://www.bbc.co.uk/news/videos/cdx7zxrgr70o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 13:30:11 GMT",
-    "source": "BBC News",
-    "id": "0114fcd1a5047748f30bc899ec995763",
-    "fetched_at": "2026-07-05T07:18:58.556587+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
-    "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-    "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 04:38:09 GMT",
-    "source": "BBC News",
-    "id": "f166872dbd8165c3e1445e8b94f3c1fb",
-    "fetched_at": "2026-07-05T07:18:57.401031+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-    "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
-    "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 21:00:53 GMT",
-    "source": "BBC News",
-    "id": "0dabe5132ddf3690dedf05e140a884e7",
-    "fetched_at": "2026-07-05T02:25:56.721781+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 02:57:48 GMT",
-    "source": "BBC News",
-    "id": "328e34dc33efe58a355fed9cadf5ed45",
-    "fetched_at": "2026-07-05T02:25:55.600067+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
-    "summary": "Voters were primarily concerned with increasing levels of crime, especially extortion by violent organized crime gangs, and Fujimori pledged to combat crime with an iron fist.",
-    "link": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
-    "published": "Fri, 03 Jul 2026 21:06:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a7839cd54b86678dddc90bc82742a654",
-    "fetched_at": "2026-07-05T02:25:54.487548+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-    "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 10:23:32 GMT",
-    "source": "BBC News",
-    "id": "bc9c79da2922adbec252d8a244a9013f",
-    "fetched_at": "2026-07-05T02:25:53.370650+00:00"
   }
 ]
