@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Plane hit by firework while landing in Chicago",
+    "summary": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 18:18:40 GMT",
+    "source": "BBC News",
+    "id": "be706524bd27d78e155a1c38b346d48a",
+    "fetched_at": "2026-07-05T19:05:16.575037+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Defending champion Swiatek & Rybakina out in Wimbledon shocks",
+    "summary": "Elena Rybakina becomes the highest seed to fall at Wimbledon so far in a straight-set third-round defeat by Elise Mertens.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 15:55:15 GMT",
+    "source": "BBC News",
+    "id": "829ce6a364f65a1b938599ff7d942e78",
+    "fetched_at": "2026-07-05T19:05:16.575033+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Osaka stuns world number one Sabalenka to reach quarter-finals",
+    "summary": "A resurgent Naomi Osaka stuns world number one Aryna Sabalenka in a brilliant performance to reach the Wimbledon quarter-finals.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cyv00eegv32o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 18:45:06 GMT",
+    "source": "BBC News",
+    "id": "84a16cd8634ae3aab95f5b6f0e8e8761",
+    "fetched_at": "2026-07-05T19:05:16.575002+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Interpol issues red notice for Ukrainian woman wanted for Monaco apartment bombing targeting oligarch",
+    "summary": "Interpol issued a red notice for Anastasiia Berezovska, suspected of planting an explosive device targeting sanctioned oligarch Vadym Yermolaiev in Monaco.",
+    "link": "https://www.foxnews.com/world/interpol-issues-red-notice-ukrainian-woman-wanted-monaco-apartment-bombing-targeting-oligarch",
+    "published": "Fri, 03 Jul 2026 14:18:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cdb8f87790493778e543773be73981f1",
+    "fetched_at": "2026-07-05T19:05:15.431323+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
+    "summary": "Videos show police deploying batons and anti-riot measures as over 30,000 far-left protesters clashed with officers outside AfD&apos;s party conference.",
+    "link": "https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots",
+    "published": "Sat, 04 Jul 2026 13:37:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "816fd7f2eaba4707b28858ccf3996e45",
+    "fetched_at": "2026-07-05T19:05:14.284350+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+    "summary": "People in the Northern Mariana Islands – remote U.S. territories in the Pacific Ocean – are preparing for Super Typhoon Bavi, which experts say could bring winds of over 180 miles per hour.",
+    "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+    "published": "Sun, 05 Jul 2026 13:22:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "9ae631b18dcaa5ff0af59b739c9cf008",
+    "fetched_at": "2026-07-05T19:05:13.137956+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Folarin Balogun's soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
+    "summary": "U.S. soccer star Folarin Balogun has had his World Cup ban suspended by FIFA, making him free to play in the United States' round of 16 game against Belgium on Monday.",
+    "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
+    "published": "Sun, 05 Jul 2026 14:37:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "e5b549d3267fd56ea43b7e7d6a629c6d",
+    "fetched_at": "2026-07-05T19:05:11.991627+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "William talks World Cup football fever on Travis Kelce's podcast",
+    "summary": "The Prince of Wales shared his hopes for England's chances in the tournament - and that his father \"hates football\".",
+    "link": "https://www.bbc.co.uk/news/articles/cdx7dxrwg7ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 16:46:23 GMT",
+    "source": "BBC News",
+    "id": "22093712d4a2128af7f67b68a1562ed8",
+    "fetched_at": "2026-07-05T19:05:10.832752+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+    "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 17:51:04 GMT",
+    "source": "BBC News",
+    "id": "3e89a865e2359cb01a2631f0d8f2c658",
+    "fetched_at": "2026-07-05T19:05:09.687267+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
+    "summary": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
+    "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 18:35:23 GMT",
+    "source": "BBC News",
+    "id": "c882b5171ea54a9a78343b670abc415c",
+    "fetched_at": "2026-07-05T19:05:08.522323+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
     "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
     "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "bc9c79da2922adbec252d8a244a9013f",
     "fetched_at": "2026-07-05T02:25:53.370650+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
-    "summary": "Keiko Fujimori won Peru&apos;s presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an &quot;iron fist&quot; against surging crime.",
-    "link": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election",
-    "published": "Fri, 03 Jul 2026 17:52:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e7874c774ec622ff7ff28cfb3bc82f51",
-    "fetched_at": "2026-07-05T02:25:52.248920+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Security guard survives eight days beneath collapsed shopping center after Venezuela earthquakes",
-    "summary": "Video shows Hernán Alberto Gil Flores carried through cheering crowds after eight days trapped in a collapsed shopping center in La Guaira, Venezuela.",
-    "link": "https://www.foxnews.com/world/security-guard-survives-eight-days-beneath-collapsed-shopping-center-venezuela-earthquakes",
-    "published": "Thu, 02 Jul 2026 12:43:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "621a85c688a90aba3c815d23554c2252",
-    "fetched_at": "2026-07-04T22:51:30.491927+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "11-year-old dies from rabies after bat landed on his face while he was sleeping",
-    "summary": "An 11-year-old boy in Ontario died of rabies after a bat landed on his face as he slept, according to the Canadian Medical Association Journal.",
-    "link": "https://www.foxnews.com/world/11-year-old-dies-rabies-bat-landed-face-sleeping",
-    "published": "Thu, 02 Jul 2026 13:43:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d914a5ec506ce7e4dc73f8e520f25974",
-    "fetched_at": "2026-07-04T22:51:29.383466+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Experts ‘deeply’ concerned over Iran’s work at underground nuclear site",
-    "summary": "Pickaxe Mountain, a secret nuclear site in the Zagros Mountains, shows continued construction, according to satellite imagery. IAEA inspectors have not been allowed to visit.",
-    "link": "https://www.foxnews.com/world/experts-say-deeply-concerned-over-irans-work-underground-nuclear-site",
-    "published": "Fri, 03 Jul 2026 15:29:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d57ecbd4b957c9afa2af345f8e1e4717",
-    "fetched_at": "2026-07-04T22:51:28.265328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
-    "summary": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense U.N. Security Council exchange with Iranian diplomat Iravani.",
-    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
-    "published": "Fri, 03 Jul 2026 15:47:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d6b172b24cc379325518082ffee6ceac",
-    "fetched_at": "2026-07-04T22:51:27.150445+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran begins week of funeral celebrations for Khamenei",
-    "summary": "Foreign dignitaries are gathering in Iran for a week of funeral ceremonies for Ayatollah Ali Khamenei, more than four months after he was killed in U.S.-Israeli airstrikes.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei",
-    "published": "Sat, 04 Jul 2026 17:03:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "e34aae95e9131c379a36298c6c8b6d99",
-    "fetched_at": "2026-07-04T22:51:26.025915+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo visits Lampedusa to spotlight missing migrants",
-    "summary": "Pope Leo XIV will spend July 4th in Lampedusa, Italy, one of Europe's busiest migrant landing points. He will pray with migrants and honor those who died trying to cross the Mediterranean to Europe.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
-    "published": "Sat, 04 Jul 2026 17:03:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "fa5200f7d8a07c14db2832becda6c078",
-    "fetched_at": "2026-07-04T22:51:24.898307+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A new phase in the war in Ukraine",
-    "summary": "Ukraine says it can now hit military and energy targets deep inside Russia. Former ambassador Daniel Fried explains why he thinks Russia is starting to lose its strategic advantage.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5879372/a-new-phase-in-the-war-in-ukraine",
-    "published": "Sat, 04 Jul 2026 17:03:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "756f5f2d7ce07bda05c9701c028900e8",
-    "fetched_at": "2026-07-04T22:51:23.768207+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-    "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-    "published": "Fri, 03 Jul 2026 15:45:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "aeae213ce941e147f59215b017d6a9bc",
-    "fetched_at": "2026-07-04T20:46:16.175576+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
-    "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
-    "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
-    "published": "Fri, 03 Jul 2026 16:51:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "c36c96e2c5d13fa82bd7a5f36ae95977",
-    "fetched_at": "2026-07-04T20:46:15.045756+00:00"
   }
 ]
