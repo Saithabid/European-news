@@ -1,5 +1,55 @@
 [
   {
+    "region": "Europe",
+    "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+    "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+    "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 21:00:53 GMT",
+    "source": "BBC News",
+    "id": "0dabe5132ddf3690dedf05e140a884e7",
+    "fetched_at": "2026-07-05T02:25:56.721781+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 02:57:48 GMT",
+    "source": "BBC News",
+    "id": "328e34dc33efe58a355fed9cadf5ed45",
+    "fetched_at": "2026-07-05T02:25:55.600067+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
+    "summary": "Voters were primarily concerned with increasing levels of crime, especially extortion by violent organized crime gangs, and Fujimori pledged to combat crime with an iron fist.",
+    "link": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
+    "published": "Fri, 03 Jul 2026 21:06:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a7839cd54b86678dddc90bc82742a654",
+    "fetched_at": "2026-07-05T02:25:54.487548+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+    "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 10:23:32 GMT",
+    "source": "BBC News",
+    "id": "bc9c79da2922adbec252d8a244a9013f",
+    "fetched_at": "2026-07-05T02:25:53.370650+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
+    "summary": "Keiko Fujimori won Peru&apos;s presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an &quot;iron fist&quot; against surging crime.",
+    "link": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election",
+    "published": "Fri, 03 Jul 2026 17:52:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e7874c774ec622ff7ff28cfb3bc82f51",
+    "fetched_at": "2026-07-05T02:25:52.248920+00:00"
+  },
+  {
     "region": "USA",
     "title": "Security guard survives eight days beneath collapsed shopping center after Venezuela earthquakes",
     "summary": "Video shows Hernán Alberto Gil Flores carried through cheering crowds after eight days trapped in a collapsed shopping center in La Guaira, Venezuela.",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "9259fa5b7a6804efbf1703c92647500a",
     "fetched_at": "2026-07-04T06:41:16.321205+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-    "summary": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
-    "published": "Sat, 04 Jul 2026 01:04:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "a3d3242f0bd4f26b1ce8dfa97277b909",
-    "fetched_at": "2026-07-04T06:41:15.188860+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-    "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
-    "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
-    "published": "Sat, 04 Jul 2026 01:44:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "04b6e289f5347d05d3c11ac18dabed45",
-    "fetched_at": "2026-07-04T06:41:14.056599+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-    "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 20:34:52 GMT",
-    "source": "BBC News",
-    "id": "0d4cffc70f75371e320648c260a2eec1",
-    "fetched_at": "2026-07-04T06:41:12.823703+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What do people in the US hope for the country's future?",
-    "summary": "As the US celebrates its 250th birthday, the BBC asked people across the country for their top aspiration.",
-    "link": "https://www.bbc.co.uk/news/videos/cdx7zxrgr70o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 13:30:11 GMT",
-    "source": "BBC News",
-    "id": "0114fcd1a5047748f30bc899ec995763",
-    "fetched_at": "2026-07-04T06:41:11.709224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-    "summary": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
-    "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 02:26:54 GMT",
-    "source": "BBC News",
-    "id": "fe7b15eeff0c5446e2dae5036dea4019",
-    "fetched_at": "2026-07-04T06:41:10.572950+00:00"
   }
 ]
