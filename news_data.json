@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Bangladesh courts China even as ties with India improve",
+    "summary": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 00:02:29 GMT",
+    "source": "BBC News",
+    "id": "5f3ff550b7cd99e7d0a6946985fe0893",
+    "fetched_at": "2026-07-06T08:14:14.433059+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+    "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 00:20:20 GMT",
+    "source": "BBC News",
+    "id": "633ae6465e0920bc06e6eabc78f75a2e",
+    "fetched_at": "2026-07-06T08:14:14.433057+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+    "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+    "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 05:04:28 GMT",
+    "source": "BBC News",
+    "id": "8e9b982e9f9d0617ae1b4110ce2f4f17",
+    "fetched_at": "2026-07-06T08:14:14.433055+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
+    "summary": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
+    "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 07:15:58 GMT",
+    "source": "BBC News",
+    "id": "dd505c30fcef980cd9cc9b80c8c433b3",
+    "fetched_at": "2026-07-06T08:14:14.433053+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Major damage' as Super Typhoon Bavi makes landfall on US Pacific islands",
+    "summary": "The eye of the Category 5 super typhoon passed over the tiny island of Rota Monday morning local time, bringing winds of more than 241 km/h, also hitting the nearby islands of Guam, Tinian and Saipan.",
+    "link": "http://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands",
+    "published": "Mon, 06 Jul 2026 05:27:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8d67e56a0bfbfe428f6c4b6c5ee93f0b",
+    "fetched_at": "2026-07-06T08:14:14.433050+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 6th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/06/latest-news-bulletin-july-6th-2026-morning",
+    "published": "Mon, 06 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fc49132653ffb127e94d1cf27c96742e",
+    "fetched_at": "2026-07-06T08:14:14.433047+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Activists covered in red paint protest bullfighting in Pamplona",
+    "summary": "Animal rights activists covered in red paint protest bullfighting in Pamplona before the San Fermin Festival, calling for an end to the tradition.",
+    "link": "http://www.euronews.com/video/2026/07/06/activists-covered-in-red-paint-protest-bullfighting-in-pamplona",
+    "published": "Mon, 06 Jul 2026 07:59:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5acc420c0adba3d625823b5b0901ae23",
+    "fetched_at": "2026-07-06T08:14:14.433045+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ali Khamenei's coffin carried through the streets of Tehran",
+    "summary": "Thousands of mourners gathered in Tehran as Iran began funeral ceremonies for late Supreme Leader Ayatollah Ali Khamenei.",
+    "link": "http://www.euronews.com/video/2026/07/06/ali-khameneis-coffin-carried-through-the-streets-of-tehran",
+    "published": "Mon, 06 Jul 2026 08:56:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "980972b71328ef6f5a818d08d842dd89",
+    "fetched_at": "2026-07-06T08:14:14.433042+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australia and Fiji seal mutual defence pact in push to counter China in Pacific",
+    "summary": "The signing of the defence treaty comes on the same day that Chinese state media reported a submarine had test-launched a long-range ballistic missile in the South Pacific, a move criticised by Australia.",
+    "link": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific",
+    "published": "Mon, 06 Jul 2026 09:18:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7605410ae8ab3df407d555949dd940e5",
+    "fetched_at": "2026-07-06T08:14:14.433016+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mexico fans left heartbroken as World Cup dream comes to an end",
+    "summary": "Mexico fans in Mexico City react with joy and heartbreak as England win 3-2 in a World Cup last-16 match, ending Mexico’s tournament run.",
+    "link": "http://www.euronews.com/video/2026/07/06/mexico-fans-left-heartbroken-as-world-cup-dream-comes-to-an-end",
+    "published": "Mon, 06 Jul 2026 09:23:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5336584b5c1b7d717ca6ff2bd7b7c33d",
+    "fetched_at": "2026-07-06T08:14:13.285235+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+    "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 15:20:57 GMT",
+    "source": "BBC News",
+    "id": "d76bcebb92d1b64254f61e284368a0d1",
+    "fetched_at": "2026-07-06T08:14:12.163233+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+    "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 11:25:57 GMT",
+    "source": "BBC News",
+    "id": "e80b0380dd29bed4e5f490ac5ef4d4ec",
+    "fetched_at": "2026-07-06T08:14:11.046844+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia looks to students to make up for mounting losses in Ukraine",
+    "summary": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 23:24:20 GMT",
+    "source": "BBC News",
+    "id": "841b81936dab9a2b65e4f23febb5c0f6",
+    "fetched_at": "2026-07-06T08:14:09.938679+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australian mother healing with 'beautiful messages' after losing arm to shark attack",
+    "summary": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
+    "link": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
+    "published": "Sun, 05 Jul 2026 09:13:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "13e59e255fff740ecbf0a70d05745cb3",
+    "fetched_at": "2026-07-06T08:14:08.803105+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
+    "summary": "President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+    "published": "Mon, 06 Jul 2026 02:06:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "d60744a5c2589709d1fad1544afe4a49",
+    "fetched_at": "2026-07-06T08:14:07.661649+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian missile and drone attack on Ukraine's capital kills at least 11",
+    "summary": "Russia launched waves of missiles and drones targeting Kyiv early Monday that killed at least 11 people, authorities said.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
+    "published": "Mon, 06 Jul 2026 03:41:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "974e1ed445f6c7f3fffdca41baaa9e94",
+    "fetched_at": "2026-07-06T08:14:06.540076+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "The African fishermen who blame Chinese trawlers for their woes",
     "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
     "link": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "BBC News",
     "id": "f3b41d1fc848547c70d511609a9d15ed",
     "fetched_at": "2026-07-05T16:59:56.993958+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Couple publicly caned after alleged TikTok kiss sparks outrage in Indonesia",
-    "summary": "A viral TikTok livestream led to a public caning for a young couple in Indonesia&apos;s Aceh province after they were convicted of kissing during a TikTok livestream.",
-    "link": "https://www.foxnews.com/world/couple-publicly-caned-alleged-tiktok-kiss-sparks-outrage-indonesia",
-    "published": "Thu, 02 Jul 2026 20:31:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b8958a866aa699bf44b651b0c0f9d307",
-    "fetched_at": "2026-07-05T16:59:55.862778+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World leaders, dignitaries pay tribute to America on historic 250th birthday",
-    "summary": "King Charles and Pope Leo XIV were among world leaders sending messages to Trump on America&apos;s 250th Independence Day. From Jerusalem to the UAE and Japan congratulations were sent.",
-    "link": "https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday",
-    "published": "Sat, 04 Jul 2026 12:15:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "632680a7f044e9f5d0894ba059ea0087",
-    "fetched_at": "2026-07-05T16:59:54.735721+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
-    "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
-    "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 14:59:10 GMT",
-    "source": "BBC News",
-    "id": "6d85c9a2edd3d4fc26939c37d72b15ee",
-    "fetched_at": "2026-07-05T15:08:13.686231+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World leaders and royals celebrate the US's 250th birthday",
-    "summary": "\"The story of the relationship between our two nations is one of extraordinary evolution, from overcoming conflict to forging one of the closest and most productive alliances the world has seen,\" King Charles III said.",
-    "link": "http://www.euronews.com/2026/07/04/world-leaders-and-royals-celebrate-the-uss-250th-birthday",
-    "published": "Sat, 04 Jul 2026 16:41:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "40c0d7bd8066dc269e2cac55f45df88b",
-    "fetched_at": "2026-07-05T15:08:12.585224+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-    "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 18:41:25 GMT",
-    "source": "BBC News",
-    "id": "736d5dc393bb15d0d6dc650036b24a5e",
-    "fetched_at": "2026-07-05T15:08:11.470671+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-    "summary": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 01:53:01 GMT",
-    "source": "BBC News",
-    "id": "adf4bd520fe48c4f16fadb4b9913e9c1",
-    "fetched_at": "2026-07-05T15:08:10.367795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Six Kurdish fighters killed in IRGC ambush as clashes spread across western Iran",
-    "summary": "The PDKI says six Kurdish fighters were killed in an Islamic Revolutionary Guard Corp ambush near Piranshahr, while the Revolutionary Guards claim five Kurdish militants are dead.",
-    "link": "https://www.foxnews.com/world/six-kurdish-fighters-killed-irgc-ambush-clashes-spread-across-western-iran",
-    "published": "Thu, 02 Jul 2026 16:53:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "01703823e83ab805c9d452d63da38a43",
-    "fetched_at": "2026-07-05T15:08:09.253231+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
-    "summary": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
-    "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
-    "published": "Sat, 04 Jul 2026 10:07:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "9fa42b732a275ab43de27d8812145155",
-    "fetched_at": "2026-07-05T15:08:08.138446+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Injury ends Williams' Wimbledon comeback",
-    "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 17:22:46 GMT",
-    "source": "BBC News",
-    "id": "88a3531a460cc117900bf2ee524dbcc8",
-    "fetched_at": "2026-07-05T15:08:07.025339+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-    "summary": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 13:09:20 GMT",
-    "source": "BBC News",
-    "id": "9e2fa5977bd3763fa96f9b0b1b259cbd",
-    "fetched_at": "2026-07-05T13:15:46.642733+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia probes mystery space balls that washed up on beach",
-    "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
-    "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 12:55:58 GMT",
-    "source": "BBC News",
-    "id": "53a690265082881f8c49144181217cd6",
-    "fetched_at": "2026-07-05T13:15:46.642729+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-    "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
-    "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 12:29:18 GMT",
-    "source": "BBC News",
-    "id": "82513d3cc23e92e78d6994b503455f88",
-    "fetched_at": "2026-07-05T13:15:46.642700+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cargo ship reports being attacked in the Red Sea, maritime agency says",
-    "summary": "\"Vessels are advised to transit with caution and report any suspicious activity to UKMTO,\" the agency said.",
-    "link": "http://www.euronews.com/2026/07/05/cargo-ship-attacked-in-the-red-sea-maritime-agency-says",
-    "published": "Sun, 05 Jul 2026 11:57:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4f9ae9557a005e28e013cd56a7898645",
-    "fetched_at": "2026-07-05T13:15:45.488061+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 5th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/05/latest-news-bulletin-july-5th-2026-midday",
-    "published": "Sun, 05 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6af03daa378603e879c7d251a348739e",
-    "fetched_at": "2026-07-05T13:15:44.374181+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "JD Vance says 'beautiful' Britain has been 'failed by its leadership'",
-    "summary": "While he called Britain \"amazing,\" Vance said there appeared to him to be something \"very broken about British politics\".",
-    "link": "http://www.euronews.com/2026/07/05/jd-vance-says-beautiful-britain-has-been-failed-by-its-leadership",
-    "published": "Sun, 05 Jul 2026 14:16:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bec5ec0f916e2dbc5913a98b36d87da0",
-    "fetched_at": "2026-07-05T13:15:43.261483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-    "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
-    "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 00:43:26 GMT",
-    "source": "BBC News",
-    "id": "588d327bf66ea80fdd5aba5f7bca9d96",
-    "fetched_at": "2026-07-05T13:15:42.134561+00:00"
   }
 ]
