@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "The African fishermen who blame Chinese trawlers for their woes",
+    "summary": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 23:30:40 GMT",
+    "source": "BBC News",
+    "id": "4e97285c06c5e84a33dbf03ce906b381",
+    "fetched_at": "2026-07-06T02:30:31.886537+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+    "summary": "Albanese has apologised 'unequivocally' after his remarks were met with a wave of backlash.",
+    "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 01:46:29 GMT",
+    "source": "BBC News",
+    "id": "9b72a946dc95ebfe74b2de698b9d817f",
+    "fetched_at": "2026-07-06T02:30:31.886533+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+    "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 22:01:43 GMT",
+    "source": "BBC News",
+    "id": "cae73af654ee1f1cc4eedfedd4c5d59c",
+    "fetched_at": "2026-07-06T02:30:31.886506+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+    "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 23:31:04 GMT",
+    "source": "BBC News",
+    "id": "3a48f61f800a43197a8e8696d535d417",
+    "fetched_at": "2026-07-06T02:30:30.759638+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 5th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/05/latest-news-bulletin-july-5th-2026-morning",
+    "published": "Sun, 05 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "18a6568307750d5956ccf45aadbe1f96",
+    "fetched_at": "2026-07-06T02:30:29.613438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+    "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 23:17:24 GMT",
+    "source": "BBC News",
+    "id": "3295b56a062a9235ac561abe013d0ffa",
+    "fetched_at": "2026-07-06T02:30:28.480894+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pastor freed from prison in China weeks after Trump requested his release",
+    "summary": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
+    "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+    "published": "Sun, 05 Jul 2026 04:30:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "9bfd93585e7903c6f90d8ced639a2e73",
+    "fetched_at": "2026-07-06T02:30:27.322105+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What Trump's Mount Rushmore aspirations reveal",
+    "summary": "The BBC's Sarah Smith is at the monument in South Dakota, and looks at the political debate and practical challenges the proposition poses.",
+    "link": "https://www.bbc.co.uk/news/videos/cj4g0qwee24o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 20:37:28 GMT",
+    "source": "BBC News",
+    "id": "1aa60be3196791945afde9012fbd3764",
+    "fetched_at": "2026-07-06T02:30:26.177837+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump presidency reignites its founding debate - how much power is too much?",
+    "summary": "What would the revolutionaries who broke from the British monarchy 250 years ago make of the current head of state?",
+    "link": "https://www.bbc.co.uk/news/articles/cp9lm9j2580o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 09:30:48 GMT",
+    "source": "BBC News",
+    "id": "93744c202b1125b3e393a0c64586dbe4",
+    "fetched_at": "2026-07-06T02:30:25.030310+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+    "summary": "From Brazil to India to Egypt, the BBC asked people across the world what they think of America today.",
+    "link": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 04:59:10 GMT",
+    "source": "BBC News",
+    "id": "8f9cc5c203bb3e20ddce5e77fb8ef17c",
+    "fetched_at": "2026-07-06T02:30:23.878362+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Fireworks light up Washington sky for America's 250th anniversary",
     "summary": "A fireworks display illuminated the National Mall in Washington as the United States marked the 250th anniversary of its independence.",
     "link": "http://www.euronews.com/video/2026/07/05/fireworks-light-up-washington-sky-for-americas-250th-anniversary",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "588d327bf66ea80fdd5aba5f7bca9d96",
     "fetched_at": "2026-07-05T13:15:42.134561+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-    "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 11:25:57 GMT",
-    "source": "BBC News",
-    "id": "e80b0380dd29bed4e5f490ac5ef4d4ec",
-    "fetched_at": "2026-07-05T13:15:41.013483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia looks to students to make up for mounting losses in Ukraine",
-    "summary": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 23:24:20 GMT",
-    "source": "BBC News",
-    "id": "841b81936dab9a2b65e4f23febb5c0f6",
-    "fetched_at": "2026-07-05T13:15:39.862902+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australian healing with 'beautiful messages' after losing arm to shark attack",
-    "summary": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
-    "link": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
-    "published": "Sun, 05 Jul 2026 09:13:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "13e59e255fff740ecbf0a70d05745cb3",
-    "fetched_at": "2026-07-05T13:15:38.739548+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Row after Indian state drops eggs from school lunch menu",
-    "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
-    "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 00:55:10 GMT",
-    "source": "BBC News",
-    "id": "965eee142b625a3af1f170f78aae6959",
-    "fetched_at": "2026-07-05T10:05:25.508575+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Evacuations in Guam as super typhoon Bavi approaches",
-    "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 09:26:56 GMT",
-    "source": "BBC News",
-    "id": "633ae6465e0920bc06e6eabc78f75a2e",
-    "fetched_at": "2026-07-05T10:05:25.508572+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelenskyy and Putin hold Fourth of July phone calls with Trump",
-    "summary": "Yuri Ushakov, a Russian presidential aide, said Putin and Trump discussed \"the issue of the Ukrainian settlement\" in a phone call that lasted an hour and twenty-five minutes.",
-    "link": "http://www.euronews.com/2026/07/05/zelenskyy-and-putin-hold-fourth-of-july-phone-calls-with-trump",
-    "published": "Sun, 05 Jul 2026 10:43:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "748060ccb409fb7342ac11ea6c5d9ce9",
-    "fetched_at": "2026-07-05T10:05:25.508567+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eulogist at Khamenei funeral in Iran calls for death of Donald Trump",
-    "summary": "Trump said in January that he had given “very firm instructions” to “wipe them off the face of this Earth” if Iran ever tried to assassinate him.",
-    "link": "http://www.euronews.com/2026/07/05/eulogist-at-khamenei-funeral-in-iran-calls-for-death-of-donald-trump",
-    "published": "Sun, 05 Jul 2026 11:32:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "29a7e91759b44f770b2af8dd40002d4f",
-    "fetched_at": "2026-07-05T10:05:25.508541+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-    "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage.",
-    "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 12:28:43 GMT",
-    "source": "BBC News",
-    "id": "f11189228c4ec405897bbb993d459c3a",
-    "fetched_at": "2026-07-05T10:05:24.398886+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-    "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-    "source": "BBC News",
-    "id": "d76bcebb92d1b64254f61e284368a0d1",
-    "fetched_at": "2026-07-05T10:05:23.279196+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-    "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
-    "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
-    "published": "Fri, 03 Jul 2026 07:39:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "992933aa95953f7d59fc568463d673ae",
-    "fetched_at": "2026-07-05T10:05:22.158072+00:00"
   }
 ]
