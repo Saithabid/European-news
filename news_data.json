@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Australia and Fiji seal mutual defence pact in push to counter China in Pacific",
+    "summary": "The signing of the defence treaty comes on the same day that Chinese state media reported a submarine had test-launched a long-range ballistic missile in the South Pacific, a move criticised by Australia.",
+    "link": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific",
+    "published": "Mon, 06 Jul 2026 09:18:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7605410ae8ab3df407d555949dd940e5",
+    "fetched_at": "2026-07-06T21:22:47.049211+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mexico fans left heartbroken as World Cup dream comes to an end",
+    "summary": "Mexico fans in Mexico City react with joy and heartbreak as England win 3-2 in a World Cup last-16 match, ending Mexico’s tournament run.",
+    "link": "http://www.euronews.com/video/2026/07/06/mexico-fans-left-heartbroken-as-world-cup-dream-comes-to-an-end",
+    "published": "Mon, 06 Jul 2026 09:23:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5336584b5c1b7d717ca6ff2bd7b7c33d",
+    "fetched_at": "2026-07-06T21:22:47.049209+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Jordan Bardella: The 'blank canvas' who could be France's youngest president",
+    "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barred.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 20:57:17 GMT",
+    "source": "BBC News",
+    "id": "fbc04936ff14c9cf7a93bf6b406b3640",
+    "fetched_at": "2026-07-06T21:22:47.049206+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
+    "summary": "She has tasted defeat before, but if the appeal court bars her from running in the 2027 presidential election, it could end her political career.",
+    "link": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 20:57:35 GMT",
+    "source": "BBC News",
+    "id": "986d65eb13087d179ff7ab911cad7048",
+    "fetched_at": "2026-07-06T21:22:47.049175+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+    "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 05 Jul 2026 23:31:04 GMT",
+    "source": "BBC News",
+    "id": "3a48f61f800a43197a8e8696d535d417",
+    "fetched_at": "2026-07-06T21:22:45.900274+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australian mother healing with 'beautiful messages' after losing arm to shark attack",
+    "summary": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
+    "link": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
+    "published": "Sun, 05 Jul 2026 09:13:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "13e59e255fff740ecbf0a70d05745cb3",
+    "fetched_at": "2026-07-06T21:22:44.768708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel fortifies border with Jordan as Iran seeks new terror path",
+    "summary": "IDF Division 96 has thwarted more than 20 smuggling attempts this year as Israel reactivates 45 military bases along the Jordan Valley border.",
+    "link": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
+    "published": "Mon, 06 Jul 2026 15:47:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8d42dc3866a0a34c58811261e2f03cec",
+    "fetched_at": "2026-07-06T21:22:43.646381+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
+    "summary": "President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+    "published": "Mon, 06 Jul 2026 02:06:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "d60744a5c2589709d1fad1544afe4a49",
+    "fetched_at": "2026-07-06T21:22:42.525250+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
+    "summary": "Russia unleashed waves of missiles and drones at Ukraine, killing at least 22 people. The attacks exposed gaps in the country's air defenses more than four years into Moscow's full-scale invasion.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
+    "published": "Mon, 06 Jul 2026 03:41:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "a698f49635b12079a941b5cbec3bbe78",
+    "fetched_at": "2026-07-06T21:22:41.386733+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia-Ukraine war escalates before NATO summit",
+    "summary": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
+    "link": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
+    "published": "Mon, 06 Jul 2026 16:37:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "61b8f4daccaaec8b3fc4496afc682260",
+    "fetched_at": "2026-07-06T21:22:40.226045+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Earthquake-ravaged Venezuela marked its Independence Day yesterday",
+    "summary": "Venezuela marked its Independence Day amid the aftermath of twin earthquakes and sweeping political change following the U.S.-led removal of Nicolás Maduro.",
+    "link": "https://www.npr.org/2026/07/06/nx-s1-5883039/earthquake-ravaged-venezuela-marked-its-independence-day-yesterday",
+    "published": "Mon, 06 Jul 2026 17:02:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "37c39188362f793e68b96bbdc3bff592",
+    "fetched_at": "2026-07-06T21:22:39.094800+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
     "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
     "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "88a3531a460cc117900bf2ee524dbcc8",
     "fetched_at": "2026-07-06T13:39:33.675126+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
-    "summary": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 23:33:27 GMT",
-    "source": "BBC News",
-    "id": "98068f592c20cebba0e2ca9c1044a03a",
-    "fetched_at": "2026-07-06T13:39:32.553352+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is this a breakthrough moment for soccer in the US?",
-    "summary": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
-    "link": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 11:19:47 GMT",
-    "source": "BBC News",
-    "id": "5287bbc1070f9d43b5324d76fbee7979",
-    "fetched_at": "2026-07-06T13:39:31.431368+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
-    "summary": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 09:06:26 GMT",
-    "source": "BBC News",
-    "id": "a57c2cdab77c7d836d47e48a03d740d0",
-    "fetched_at": "2026-07-06T13:39:30.299742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bangladesh courts China even as ties with India improve",
-    "summary": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 00:02:29 GMT",
-    "source": "BBC News",
-    "id": "5f3ff550b7cd99e7d0a6946985fe0893",
-    "fetched_at": "2026-07-06T08:14:14.433059+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-    "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 00:20:20 GMT",
-    "source": "BBC News",
-    "id": "633ae6465e0920bc06e6eabc78f75a2e",
-    "fetched_at": "2026-07-06T08:14:14.433057+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-    "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-    "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 05:04:28 GMT",
-    "source": "BBC News",
-    "id": "8e9b982e9f9d0617ae1b4110ce2f4f17",
-    "fetched_at": "2026-07-06T08:14:14.433055+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
-    "summary": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
-    "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 07:15:58 GMT",
-    "source": "BBC News",
-    "id": "dd505c30fcef980cd9cc9b80c8c433b3",
-    "fetched_at": "2026-07-06T08:14:14.433053+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Major damage' as Super Typhoon Bavi makes landfall on US Pacific islands",
-    "summary": "The eye of the Category 5 super typhoon passed over the tiny island of Rota Monday morning local time, bringing winds of more than 241 km/h, also hitting the nearby islands of Guam, Tinian and Saipan.",
-    "link": "http://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands",
-    "published": "Mon, 06 Jul 2026 05:27:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8d67e56a0bfbfe428f6c4b6c5ee93f0b",
-    "fetched_at": "2026-07-06T08:14:14.433050+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 6th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/06/latest-news-bulletin-july-6th-2026-morning",
-    "published": "Mon, 06 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fc49132653ffb127e94d1cf27c96742e",
-    "fetched_at": "2026-07-06T08:14:14.433047+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Activists covered in red paint protest bullfighting in Pamplona",
-    "summary": "Animal rights activists covered in red paint protest bullfighting in Pamplona before the San Fermin Festival, calling for an end to the tradition.",
-    "link": "http://www.euronews.com/video/2026/07/06/activists-covered-in-red-paint-protest-bullfighting-in-pamplona",
-    "published": "Mon, 06 Jul 2026 07:59:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5acc420c0adba3d625823b5b0901ae23",
-    "fetched_at": "2026-07-06T08:14:14.433045+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ali Khamenei's coffin carried through the streets of Tehran",
-    "summary": "Thousands of mourners gathered in Tehran as Iran began funeral ceremonies for late Supreme Leader Ayatollah Ali Khamenei.",
-    "link": "http://www.euronews.com/video/2026/07/06/ali-khameneis-coffin-carried-through-the-streets-of-tehran",
-    "published": "Mon, 06 Jul 2026 08:56:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "980972b71328ef6f5a818d08d842dd89",
-    "fetched_at": "2026-07-06T08:14:14.433042+00:00"
   }
 ]
