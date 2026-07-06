@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+    "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+    "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 05:04:28 GMT",
+    "source": "BBC News",
+    "id": "8e9b982e9f9d0617ae1b4110ce2f4f17",
+    "fetched_at": "2026-07-06T23:00:10.799224+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ali Khamenei's coffin carried through the streets of Tehran",
+    "summary": "Thousands of mourners gathered in Tehran as Iran began funeral ceremonies for late Supreme Leader Ayatollah Ali Khamenei.",
+    "link": "http://www.euronews.com/video/2026/07/06/ali-khameneis-coffin-carried-through-the-streets-of-tehran",
+    "published": "Mon, 06 Jul 2026 08:56:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "980972b71328ef6f5a818d08d842dd89",
+    "fetched_at": "2026-07-06T23:00:09.640840+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+    "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+    "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 21:02:37 GMT",
+    "source": "BBC News",
+    "id": "dd505c30fcef980cd9cc9b80c8c433b3",
+    "fetched_at": "2026-07-06T23:00:08.488980+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+    "summary": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 09:06:26 GMT",
+    "source": "BBC News",
+    "id": "a57c2cdab77c7d836d47e48a03d740d0",
+    "fetched_at": "2026-07-06T23:00:07.335631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Is this a breakthrough moment for soccer in the US?",
+    "summary": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
+    "link": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 11:19:47 GMT",
+    "source": "BBC News",
+    "id": "5287bbc1070f9d43b5324d76fbee7979",
+    "fetched_at": "2026-07-06T23:00:06.179755+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada makes largest defence procurement deal in its history, citing 'dangerous and divided world'",
+    "summary": "Canada announced the multi-billion dollar deal for 12 submarines from German company TKMS just as PM Carney heads to a major Nato summit.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4ddppz3jqo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 22:04:42 GMT",
+    "source": "BBC News",
+    "id": "ffe924fa64db11bf6c22355e09e6d9c1",
+    "fetched_at": "2026-07-06T23:00:05.013686+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australia and Fiji seal mutual defence pact in push to counter China in Pacific",
     "summary": "The signing of the defence treaty comes on the same day that Chinese state media reported a submarine had test-launched a long-range ballistic missile in the South Pacific, a move criticised by Australia.",
     "link": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific",
@@ -538,65 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "b8958a866aa699bf44b651b0c0f9d307",
     "fetched_at": "2026-07-06T13:39:38.208269+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World leaders, dignitaries pay tribute to America on historic 250th birthday",
-    "summary": "King Charles and Pope Leo XIV were among world leaders sending messages to Trump on America&apos;s 250th Independence Day. From Jerusalem to the UAE and Japan congratulations were sent.",
-    "link": "https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday",
-    "published": "Sat, 04 Jul 2026 12:15:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "632680a7f044e9f5d0894ba059ea0087",
-    "fetched_at": "2026-07-06T13:39:38.208265+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelenskyy pressures US and Europe for more 'air defense' assistance amid ongoing war with Russia",
-    "summary": "Ukrainian President Volodymyr Zelenskyy urges the U.S. and Europe to provide more missiles to help Ukraine amid the ongoing war with Russia.",
-    "link": "https://www.foxnews.com/world/zelenskyy-pressures-us-europe-air-defense-assistance-ongoing-war-russia",
-    "published": "Mon, 06 Jul 2026 07:07:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "422ca914eaf7900cebc59a57b4a39a3d",
-    "fetched_at": "2026-07-06T13:39:38.208235+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
-    "summary": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
-    "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
-    "published": "Mon, 06 Jul 2026 03:41:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "796dc5cfbc121affe87cba1a416eea2f",
-    "fetched_at": "2026-07-06T13:39:37.085228+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup",
-    "summary": "For the nation's 250th birthday, President Trump and NYC Mayor Zohran Mamdani had opposing visions of America. And, the U.S. and Belgium face off today in the FIFA World Cup.",
-    "link": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun",
-    "published": "Mon, 06 Jul 2026 07:46:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "fed800c508397a941357679c592acb00",
-    "fetched_at": "2026-07-06T13:39:35.949243+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-    "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-    "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 02:57:48 GMT",
-    "source": "BBC News",
-    "id": "328e34dc33efe58a355fed9cadf5ed45",
-    "fetched_at": "2026-07-06T13:39:34.792586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Injury ends Williams' Wimbledon comeback",
-    "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 17:22:46 GMT",
-    "source": "BBC News",
-    "id": "88a3531a460cc117900bf2ee524dbcc8",
-    "fetched_at": "2026-07-06T13:39:33.675126+00:00"
   }
 ]
