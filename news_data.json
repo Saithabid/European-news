@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+    "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
+    "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 06:23:04 GMT",
+    "source": "BBC News",
+    "id": "4d204b06fc31538a6c1d8cb7ff438e74",
+    "fetched_at": "2026-07-07T07:31:58.747521+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfire rages in eastern Spain, forcing hundreds to flee",
+    "summary": "A wildfire in Castellon, eastern Spain, forces 500 evacuations as firefighters and aircraft battle flames spreading across the Valencia region.",
+    "link": "http://www.euronews.com/video/2026/07/06/wildfire-rages-in-eastern-spain-forcing-hundreds-to-flee",
+    "published": "Mon, 06 Jul 2026 13:35:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "27a0c4334a886f1e04619427d8f0362c",
+    "fetched_at": "2026-07-07T07:31:58.747519+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz, British military says",
+    "summary": "Iranian state television said a liquified natural gas tanker came under attack Tuesday in the Strait of Hormuz off Oman after ignoring warnings, implying Tehran carried out the assault on a tanker it said was carrying natural gas from Qatar.",
+    "link": "http://www.euronews.com/2026/07/07/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-british-military-says",
+    "published": "Tue, 07 Jul 2026 05:43:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d48b5d255849b0be62c2a9b43c798ca1",
+    "fetched_at": "2026-07-07T07:31:58.747517+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Euronews explains: The verdict that could end Marine Le Pen – and launch Jordan Bardella",
+    "summary": "If the Paris Court of Appeal upholds Marine Le Pen's five-year ban from public office, the National Rally figurehead's long-held presidential ambitions would effectively be over.",
+    "link": "http://www.euronews.com/my-europe/2026/07/07/euronews-explains-the-verdict-that-could-end-marine-le-pen-and-launch-jordan-bardella",
+    "published": "Tue, 07 Jul 2026 07:00:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "30913e4933ad4ff6ad87c49c78d20678",
+    "fetched_at": "2026-07-07T07:31:58.747514+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Death toll from China storms and floods rises to 15, state media says",
+    "summary": "Scientists warn the intensity and frequency of global extreme weather events will increase as the planet continues to heat up because of fossil fuel emissions.",
+    "link": "http://www.euronews.com/2026/07/07/death-toll-from-china-storms-and-floods-rises-to-15-state-media-says",
+    "published": "Tue, 07 Jul 2026 07:28:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "695d88b54a3ed90addba8ba7f408d140",
+    "fetched_at": "2026-07-07T07:31:58.747512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hong Kong activist Joshua Wong set for September sentencing in second national security case",
+    "summary": "Wong rose to prominence in Hong Kong in 2012 as a high school student leading protests against the introduction of national education in the city's schools.",
+    "link": "http://www.euronews.com/2026/07/07/hong-kong-activist-joshua-wong-set-for-september-sentencing-in-second-national-security-ca",
+    "published": "Tue, 07 Jul 2026 08:38:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "da8db566514107c7741fee8c089e65cb",
+    "fetched_at": "2026-07-07T07:31:58.747509+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'No lasting peace' in the Middle East without a Palestinian state, Egypt's al-Sisi says",
+    "summary": "The Egyptian president renewed Cairo's call for an independent Palestinian state during the inauguration of the country's new Strategic Command Headquarters, known as the Octagon.",
+    "link": "http://www.euronews.com/2026/07/07/no-lasting-peace-in-the-middle-east-without-a-palestinian-state-egypts-al-sisi-says",
+    "published": "Tue, 07 Jul 2026 09:00:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "28e5fd983a0d20c367e702c87e442780",
+    "fetched_at": "2026-07-07T07:31:58.747506+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giant Lego World Cup trophy unveiled in New York",
+    "summary": "A giant Lego FIFA World Cup trophy built from 1.36 million bricks is unveiled at Rockefeller Plaza in New York by Cafu and designer Christophe Vietti.",
+    "link": "http://www.euronews.com/video/2026/07/07/giant-lego-world-cup-trophy-unveiled-in-new-york",
+    "published": "Tue, 07 Jul 2026 09:12:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cacf398971d8370d9dbeb320c8b1e3aa",
+    "fetched_at": "2026-07-07T07:31:58.747481+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
+    "summary": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 23:51:04 GMT",
+    "source": "BBC News",
+    "id": "6774f99f5538faba071a7538ab5bd90f",
+    "fetched_at": "2026-07-07T07:31:57.624689+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mbappe condemns racist posts from Paraguay senator",
+    "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 18:58:18 GMT",
+    "source": "BBC News",
+    "id": "2f1b412554e087b090ab3fa9639869c8",
+    "fetched_at": "2026-07-07T07:31:56.485597+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+    "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 07:07:29 GMT",
+    "source": "BBC News",
+    "id": "72520ce1066edf0fa2d1e31b8a26c4e7",
+    "fetched_at": "2026-07-07T07:31:55.359144+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+    "summary": "Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault.",
+    "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+    "published": "Tue, 07 Jul 2026 01:28:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "c23865f17066c2c9a356f206efb117ed",
+    "fetched_at": "2026-07-07T07:31:54.262037+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
+    "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
+    "published": "Tue, 07 Jul 2026 01:29:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "282ae8b0e6572c7119210ce8f2c600a3",
+    "fetched_at": "2026-07-07T07:31:53.136134+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation",
+    "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\" in the race.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 03:04:36 GMT",
+    "source": "BBC News",
+    "id": "a9734fe970e01bc5d0a7340a47feff21",
+    "fetched_at": "2026-07-07T07:31:52.002295+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why European backlash over Trump intervention won't worry Infantino",
+    "summary": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 22:26:20 GMT",
+    "source": "BBC News",
+    "id": "ce96ab4e0eb732297acd9dc1f87db157",
+    "fetched_at": "2026-07-07T07:31:50.866788+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
     "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
     "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "a1925a67ff5caee40b0587ef65789b70",
     "fetched_at": "2026-07-06T16:49:01.354982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Interpol issues red notice for Ukrainian woman wanted for Monaco apartment bombing targeting oligarch",
-    "summary": "Interpol issued a red notice for Anastasiia Berezovska, suspected of planting an explosive device targeting sanctioned oligarch Vadym Yermolaiev in Monaco.",
-    "link": "https://www.foxnews.com/world/interpol-issues-red-notice-ukrainian-woman-wanted-monaco-apartment-bombing-targeting-oligarch",
-    "published": "Fri, 03 Jul 2026 14:18:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cdb8f87790493778e543773be73981f1",
-    "fetched_at": "2026-07-06T16:49:01.354979+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
-    "summary": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense U.N. Security Council exchange with Iranian diplomat Iravani.",
-    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
-    "published": "Fri, 03 Jul 2026 15:47:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d6b172b24cc379325518082ffee6ceac",
-    "fetched_at": "2026-07-06T16:49:01.354975+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
-    "summary": "Keiko Fujimori won Peru&apos;s presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an &quot;iron fist&quot; against surging crime.",
-    "link": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election",
-    "published": "Fri, 03 Jul 2026 17:52:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e7874c774ec622ff7ff28cfb3bc82f51",
-    "fetched_at": "2026-07-06T16:49:01.354946+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
-    "summary": "Videos show police deploying batons and anti-riot measures as over 30,000 far-left protesters clashed with officers outside AfD&apos;s party conference.",
-    "link": "https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots",
-    "published": "Sat, 04 Jul 2026 13:37:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "816fd7f2eaba4707b28858ccf3996e45",
-    "fetched_at": "2026-07-06T16:49:00.209099+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Super Typhoon Bavi brings destruction to Guam and surrounding Pacific islands",
-    "summary": "People in the Northern Mariana Islands — remote U.S. territories in the Pacific Ocean — are dealing with the aftermath of intense winds and severe flooding from Super Typhoon Bavi.",
-    "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
-    "published": "Sun, 05 Jul 2026 13:22:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "9ae631b18dcaa5ff0af59b739c9cf008",
-    "fetched_at": "2026-07-06T16:48:59.059153+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
-    "summary": "In an unusual move, FIFA's Disciplinary Committee announced that it would delay Folarin Balogun's one-game red card ban. It came after President Trump spoke to FIFA President Gianni Infantino.",
-    "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
-    "published": "Sun, 05 Jul 2026 14:37:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "e5b549d3267fd56ea43b7e7d6a629c6d",
-    "fetched_at": "2026-07-06T16:48:57.908916+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
-    "summary": "Iran holds a funeral procession for Ayatollah Ali Khamenei more than four months after he was killed in U.S.-Israeli strikes.",
-    "link": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran",
-    "published": "Mon, 06 Jul 2026 04:16:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "fcf6a3c19e1cb5726d855c716dde0cca",
-    "fetched_at": "2026-07-06T16:48:56.754208+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-    "summary": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 18:18:40 GMT",
-    "source": "BBC News",
-    "id": "be706524bd27d78e155a1c38b346d48a",
-    "fetched_at": "2026-07-06T16:48:55.558246+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-    "summary": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
-    "link": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 18:35:23 GMT",
-    "source": "BBC News",
-    "id": "c882b5171ea54a9a78343b670abc415c",
-    "fetched_at": "2026-07-06T16:48:54.411938+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-    "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
-    "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 01:20:47 GMT",
-    "source": "BBC News",
-    "id": "2b5b8ceb0b434d6bc1e2456b6755dc67",
-    "fetched_at": "2026-07-06T16:48:53.249435+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands of forgotten WW1 soldiers recognised for first time",
-    "summary": "Nearly 10,000 soldiers' names are being added to the official database of war dead, a cherished step for many of their descendants.",
-    "link": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 05:04:06 GMT",
-    "source": "BBC News",
-    "id": "6cb1f00ea877eb186c0b71aac4064373",
-    "fetched_at": "2026-07-06T13:39:38.208289+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia space agency has found 'likely source' of mystery space balls",
-    "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
-    "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 02:49:15 GMT",
-    "source": "BBC News",
-    "id": "53a690265082881f8c49144181217cd6",
-    "fetched_at": "2026-07-06T13:39:38.208287+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 25 killed in Sri Lanka prison riots",
-    "summary": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 12:35:55 GMT",
-    "source": "BBC News",
-    "id": "56956e7677e8ab1db628717ed4df36e8",
-    "fetched_at": "2026-07-06T13:39:38.208285+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-    "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-    "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 12:07:44 GMT",
-    "source": "BBC News",
-    "id": "3c7df21678794d222cd57183f5f8ac82",
-    "fetched_at": "2026-07-06T13:39:38.208284+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 19 killed and more than 100 wounded in Sri Lanka prison riot, officials say",
-    "summary": "The wounded were rushed to the Negombo hospital, north of the capital Colombo, following overnight clashes between inmates from two drug gangs, police said.",
-    "link": "http://www.euronews.com/2026/07/06/at-least-19-killed-and-more-than-100-wounded-in-sri-lanka-prison-riot-officials-say",
-    "published": "Mon, 06 Jul 2026 11:53:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b9522716232a2dcb3af532009f8707e7",
-    "fetched_at": "2026-07-06T13:39:38.208282+00:00"
   }
 ]
