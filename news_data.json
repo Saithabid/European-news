@@ -1,6 +1,216 @@
 [
   {
     "region": "Europe",
+    "title": "Zimbabwean football star survives gun attack in South Africa",
+    "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+    "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 10:13:21 GMT",
+    "source": "BBC News",
+    "id": "c9d65ae21e41335394450231002ce8f1",
+    "fetched_at": "2026-07-07T10:49:16.889963+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Moment rare tornado lashes central Chinese cities",
+    "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+    "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 07:27:05 GMT",
+    "source": "BBC News",
+    "id": "1b74cb89d555106f6e1e4e11055506e1",
+    "fetched_at": "2026-07-07T10:49:16.889961+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Explosions injure 18 in Damascus during Macron's visit",
+    "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+    "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 10:12:27 GMT",
+    "source": "BBC News",
+    "id": "0bf7fda96ff71c877dc6eb7389690bf7",
+    "fetched_at": "2026-07-07T10:49:16.889959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 18 wounded in Damascus blasts during Macron visit, Syrian officials say",
+    "summary": "Macron had entered the presidential palace to meet Syrian President Ahmad al-Sharaa when the explosions happened near the Four Seasons Hotel.",
+    "link": "http://www.euronews.com/2026/07/07/explosions-heard-in-damascus-during-visit-by-frances-president-emmanuel-macron",
+    "published": "Tue, 07 Jul 2026 09:40:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9d46b64fb7264ece59a937915dacc24a",
+    "fetched_at": "2026-07-07T10:49:16.889957+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "San Fermín festival begins with Pamplona's famous bull run",
+    "summary": "The first San Fermin 2026 bull run takes place in Pamplona as runners race six bulls through the streets during the famous 'encierro'.",
+    "link": "http://www.euronews.com/video/2026/07/07/san-fermin-festival-begins-with-pamplonas-famous-bull-run",
+    "published": "Tue, 07 Jul 2026 09:41:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f9e686be8b5c7f4486422415d6ebe9a2",
+    "fetched_at": "2026-07-07T10:49:16.889955+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina fans gather in Atlanta for traditional World Cup 'banderazo'",
+    "summary": "Hundreds of Argentina supporters gathered in Atlanta for a traditional banderazo rally ahead of their World Cup last-16 match against Egypt.",
+    "link": "http://www.euronews.com/video/2026/07/07/argentina-fans-gather-in-atlanta-for-traditional-world-cup-banderazo",
+    "published": "Tue, 07 Jul 2026 10:00:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26d48905cf21d316c72134923c93b7d8",
+    "fetched_at": "2026-07-07T10:49:16.889953+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Macron tours Damascus' Umayyad Mosque during Syria visit",
+    "summary": "French President Emmanuel Macron visits Damascus' Umayyad Mosque with Syrian leader Ahmed al-Sharaa and signs the guestbook during his Syria trip.",
+    "link": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit",
+    "published": "Tue, 07 Jul 2026 11:53:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ec7c02deceb5e6bd22e4f2adae3df886",
+    "fetched_at": "2026-07-07T10:49:16.889951+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korean law targeting 'fake news' takes effect as journalists' groups raise concerns",
+    "summary": "South Korea saw a surge in online misinformation following the botched 2024 martial law attempt, including unsubstantiated allegations of Chinese interference in the electoral system.",
+    "link": "http://www.euronews.com/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns",
+    "published": "Tue, 07 Jul 2026 12:29:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "224d0d34f25a54f6a05373ecdbb535af",
+    "fetched_at": "2026-07-07T10:49:16.889948+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Waltz calls out Iranian diplomat at UN following drone strikes on Bahrain and Kuwait",
+    "summary": "Mike Waltz held up photos of drone and missile strike damage in Bahrain during a tense U.N. Security Council exchange with Iranian diplomat Iravani.",
+    "link": "https://www.foxnews.com/world/waltz-calls-iranian-diplomat-un-following-drone-strikes-bahrain-kuwait",
+    "published": "Fri, 03 Jul 2026 15:47:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d6b172b24cc379325518082ffee6ceac",
+    "fetched_at": "2026-07-07T10:49:16.889946+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
+    "summary": "Keiko Fujimori won Peru&apos;s presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an &quot;iron fist&quot; against surging crime.",
+    "link": "https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election",
+    "published": "Fri, 03 Jul 2026 17:52:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e7874c774ec622ff7ff28cfb3bc82f51",
+    "fetched_at": "2026-07-07T10:49:16.889943+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
+    "summary": "Videos show police deploying batons and anti-riot measures as over 30,000 far-left protesters clashed with officers outside AfD&apos;s party conference.",
+    "link": "https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots",
+    "published": "Sat, 04 Jul 2026 13:37:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "816fd7f2eaba4707b28858ccf3996e45",
+    "fetched_at": "2026-07-07T10:49:16.889940+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
+    "summary": "Iran holds a funeral procession for Ayatollah Ali Khamenei more than four months after he was killed in U.S.-Israeli strikes.",
+    "link": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran",
+    "published": "Mon, 06 Jul 2026 04:16:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "fcf6a3c19e1cb5726d855c716dde0cca",
+    "fetched_at": "2026-07-07T10:49:16.889937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. ambassador on Turkey hosting the NATO summit",
+    "summary": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Turkey David Satterfield about the significance of Turkey hosting the NATO summit.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5883847/former-u-s-ambassador-on-turkey-hosting-the-nato-summit",
+    "published": "Tue, 07 Jul 2026 04:41:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "1b4957fa4041a9d6e758a39951b773dd",
+    "fetched_at": "2026-07-07T10:49:16.889934+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO summit set to begin in Turkey",
+    "summary": "Ahead of the  NATO summit in Ankara, Turkey, the illusion of appeasing Trump has vanished—and Europe is being forced to take primary responsibility for its own defense.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey",
+    "published": "Tue, 07 Jul 2026 04:41:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "8634a8778dbf3f71e744f68de3105ab0",
+    "fetched_at": "2026-07-07T10:49:16.889906+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+    "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+    "published": "Tue, 07 Jul 2026 04:59:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "fa9d47a6af1edbbb093c6206556563b5",
+    "fetched_at": "2026-07-07T10:49:15.766460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's NATO pressure campaign continues as summit begins",
+    "summary": "President Trump's arrival in Ankara kicks off another potentially tense meeting for NATO.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins",
+    "published": "Tue, 07 Jul 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "baaebaf55b3af8ae2fa63dd999ba216f",
+    "fetched_at": "2026-07-07T10:49:14.642850+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine to press NATO for anti-ballistic air defense after latest Russian attacks",
+    "summary": "Ukraine pushes allies in NATO for anti-ballistic air defense after the latest major Russian attacks kill more than 20 in Kyiv and surrounding area.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5883932/ukraine-to-press-nato-for-anti-ballistic-air-defense-after-latest-russian-attacks",
+    "published": "Tue, 07 Jul 2026 06:44:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "a97ebdc20ff49063e28fc6e682bdefe9",
+    "fetched_at": "2026-07-07T10:49:13.522437+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why some African nations are turning down Trump aid money",
+    "summary": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 00:49:08 GMT",
+    "source": "BBC News",
+    "id": "3dcf154437b3d6541f8f52106e719069",
+    "fetched_at": "2026-07-07T10:49:12.398534+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is the 'Trump dance'? And where have we seen it in sport?",
+    "summary": "As the 'Trump dance' gains attention once again, we look at which sportspeople are doing it - and why.",
+    "link": "https://www.bbc.co.uk/sport/articles/c0rg289ywqno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 09:59:26 GMT",
+    "source": "BBC News",
+    "id": "732d675dbe469351bc3fed6d821626c4",
+    "fetched_at": "2026-07-07T10:49:11.270772+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fans react to US World Cup loss after red card drama",
+    "summary": "The BBC's Nada Tawfik spoke to US fans after the FIFA World Cup co-hosts were knocked out of the tournament.",
+    "link": "https://www.bbc.co.uk/news/videos/cdxd791zzd4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 05:08:06 GMT",
+    "source": "BBC News",
+    "id": "88dd23fb72a33750b24cd3f333bc5ba9",
+    "fetched_at": "2026-07-07T10:49:10.128855+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A shambolic end for the American dream - did Balogun saga play a part?",
+    "summary": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 05:00:10 GMT",
+    "source": "BBC News",
+    "id": "bed3d4420c5b5b5644e0fda0c8ee8c62",
+    "fetched_at": "2026-07-07T10:49:08.970319+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
     "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
     "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
@@ -388,215 +598,5 @@
     "source": "NPR Topics: World",
     "id": "37c39188362f793e68b96bbdc3bff592",
     "fetched_at": "2026-07-06T21:22:39.094800+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-    "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
-    "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 19:06:26 GMT",
-    "source": "BBC News",
-    "id": "7a66ed55009b4d6a43a023a4c9155539",
-    "fetched_at": "2026-07-06T19:45:51.961726+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pamplona's San Fermín festival begins with fireworks and celebrations",
-    "summary": "Thousands gather outside Pamplona City Hall as fireworks, music and dancing mark the official opening of Spain's San Fermin Festival.",
-    "link": "http://www.euronews.com/video/2026/07/06/pamplonas-san-fermin-festival-begins-with-fireworks-and-celebrations",
-    "published": "Mon, 06 Jul 2026 19:01:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d753b0a37326ce325795244f6afb3097",
-    "fetched_at": "2026-07-06T19:45:51.961724+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Artists create giant sea animals from sand",
-    "summary": "Artists create large sand sculptures of marine life on Rab island in Croatia during the Festival of Sand Sculptures, turning the beach into a temporary exhibition.",
-    "link": "http://www.euronews.com/video/2026/07/06/artists-create-giant-sea-animals-from-sand",
-    "published": "Mon, 06 Jul 2026 20:01:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cd4c792a69cb851c0daa24bf15a2c820",
-    "fetched_at": "2026-07-06T19:45:51.961722+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Djokovic breaks Federer's Wimbledon record to reach quarters",
-    "summary": "Novak Djokovic claims the all-time record for most men's singles match wins at Wimbledon by beating qualifier Roman Safiullin to reach the quarter-finals.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 21:25:58 GMT",
-    "source": "BBC News",
-    "id": "cd3ec95fd132a348419f05a47c683485",
-    "fetched_at": "2026-07-06T19:45:51.961720+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-    "summary": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 17:24:31 GMT",
-    "source": "BBC News",
-    "id": "db5363121aa59e7e6f298c71e680bd1a",
-    "fetched_at": "2026-07-06T19:45:51.961718+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Frenchman convicted of 2020 murder of wife confesses from jail",
-    "summary": "Cédric Jubillar, who previously denied killing his wife, was convicted despite her body not being found.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2jj11kg5do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 15:14:43 GMT",
-    "source": "BBC News",
-    "id": "7c0311a358804365bd8bfb1ffd3d6e43",
-    "fetched_at": "2026-07-06T19:45:51.961715+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-    "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 17:22:38 GMT",
-    "source": "BBC News",
-    "id": "3a8770ebfd59741265e79287d475a790",
-    "fetched_at": "2026-07-06T19:45:51.961713+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Experts ‘deeply’ concerned over Iran’s work at underground nuclear site",
-    "summary": "Pickaxe Mountain, a secret nuclear site in the Zagros Mountains, shows continued construction, according to satellite imagery. IAEA inspectors have not been allowed to visit.",
-    "link": "https://www.foxnews.com/world/experts-say-deeply-concerned-over-irans-work-underground-nuclear-site",
-    "published": "Fri, 03 Jul 2026 15:29:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d57ecbd4b957c9afa2af345f8e1e4717",
-    "fetched_at": "2026-07-06T19:45:51.961709+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Turkey's Erdoğan? How NATO's most unpredictable leader keeps reinventing himself",
-    "summary": "Experts say Erdoğan&apos;s defining trait isn&apos;t Islamism or nationalism but political survival, as Trump calls Turkey&apos;s leader &quot;a friend&quot; ahead of NATO summit.",
-    "link": "https://www.foxnews.com/world/who-turkeys-erdogan-how-natos-most-unpredictable-leader-keeps-reinventing-himself",
-    "published": "Mon, 06 Jul 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d7c1d0f6782171bf09d63fb304404cf3",
-    "fetched_at": "2026-07-06T19:45:51.961695+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong's 'sound of silence': 6 years under the national security law",
-    "summary": "Six years after Beijing imposed its National Security Law, many of Hong Kong's opposition voices have gone silent. Danny Vincent looks at what's changed.",
-    "link": "https://www.npr.org/2026/07/05/nx-s1-5876545/hong-kongs-sound-of-silence-6-years-under-the-national-security-law",
-    "published": "Sun, 05 Jul 2026 17:03:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "811945b240e9ddf600be870161bbec99",
-    "fetched_at": "2026-07-06T19:45:50.840698+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO leaders look for unity as Trump attends annual summit",
-    "summary": "As NATO leaders gather for this week's summit in Turkey, Europe is preparing to shoulder more of its own defense. David M. Cattler of the Center for European Policy Analysis explains why.",
-    "link": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit",
-    "published": "Sun, 05 Jul 2026 17:03:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "ca0fe37224c5fec463ba819a305b309c",
-    "fetched_at": "2026-07-06T19:45:49.709032+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Y si sí: the phrase uniting Mexico during the World Cup",
-    "summary": "Mexico's World Cup run has inspired a phrase heard across the country: \"Y si sí.\" Or in English: \"What if we can?\" Anamaria Sayre reports from Mexico City.",
-    "link": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
-    "published": "Sun, 05 Jul 2026 17:03:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "d0ca8e8fee0489ea63512be603902945",
-    "fetched_at": "2026-07-06T19:45:48.576048+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-    "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-    "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 08:24:32 GMT",
-    "source": "BBC News",
-    "id": "f166872dbd8165c3e1445e8b94f3c1fb",
-    "fetched_at": "2026-07-06T19:45:47.435311+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-    "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
-    "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 15:18:53 GMT",
-    "source": "BBC News",
-    "id": "2bdbd18a795f12a4a74ac31d7f851857",
-    "fetched_at": "2026-07-06T19:45:46.313496+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "After a year of ICE raids, Southern California finds joy in Mexico's World Cup run",
-    "summary": "For Mexico's football-loving community, the World Cup has been a triumph, even beyond their borders in Southern California.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2wwdn6n15o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 05:29:00 GMT",
-    "source": "BBC News",
-    "id": "9989488a2c304d64f5836f42ee173f64",
-    "fetched_at": "2026-07-06T19:45:45.184027+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'That wasn't a foul' - Trump on Fifa overturning red card ban",
-    "summary": "USA striker Folarin Balogun's one-game ban has been suspended after the president's intervention.",
-    "link": "https://www.bbc.co.uk/news/videos/c04yy266n0lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 15:12:38 GMT",
-    "source": "BBC News",
-    "id": "72ab5e2b1d568cbbf99c6085a1c579fc",
-    "fetched_at": "2026-07-06T19:45:44.053644+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump confirms he asked Fifa to review Balogun ban",
-    "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 15:27:59 GMT",
-    "source": "BBC News",
-    "id": "6a4bd4bc16da24bac7171871fc4ee3ae",
-    "fetched_at": "2026-07-06T16:49:01.354993+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "RSF razes multiple villages in Darfur killing dozens as UN warns of rising attacks on children",
-    "summary": "Sudan’s paramilitary Rapid Support Forces have razed multiple villages in the western regions of the country bordering Chad, killing many and displacing thousands as a separate UN report outlines that over 300 children were killed in their atrocities this year alone.",
-    "link": "http://www.euronews.com/2026/07/06/rsf-razes-multiple-villages-in-darfur-killing-dozens-as-un-warns-of-rising-attacks-on-chil",
-    "published": "Mon, 06 Jul 2026 18:14:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f0a7556e08632c892a072c5d655e46ad",
-    "fetched_at": "2026-07-06T16:49:01.354991+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Former chess champion Kramnik banned over cheating remarks",
-    "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
-    "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 15:45:15 GMT",
-    "source": "BBC News",
-    "id": "c5d28adb9d460e0f7e4868bc8d6f2749",
-    "fetched_at": "2026-07-06T16:49:01.354988+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-    "summary": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
-    "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 00:57:05 GMT",
-    "source": "BBC News",
-    "id": "f3b41d1fc848547c70d511609a9d15ed",
-    "fetched_at": "2026-07-06T16:49:01.354985+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire in southern France forces evacuation of 10,000 people",
-    "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
-    "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 13:08:23 GMT",
-    "source": "BBC News",
-    "id": "a1925a67ff5caee40b0587ef65789b70",
-    "fetched_at": "2026-07-06T16:49:01.354982+00:00"
   }
 ]
