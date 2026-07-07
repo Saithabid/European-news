@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+    "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+    "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 00:46:03 GMT",
+    "source": "BBC News",
+    "id": "8d0ed89830fe52bda804e804fa6bb80e",
+    "fetched_at": "2026-07-07T02:26:07.165821+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+    "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 23:55:53 GMT",
+    "source": "BBC News",
+    "id": "5579b5d63a566d51c6be2fe5f263c9a5",
+    "fetched_at": "2026-07-07T02:26:06.011010+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+    "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 02:07:15 GMT",
+    "source": "BBC News",
+    "id": "8eb99da2c6143579591dfd32a8520fdf",
+    "fetched_at": "2026-07-07T02:26:04.884674+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "World leaders, dignitaries pay tribute to America on historic 250th birthday",
+    "summary": "King Charles and Pope Leo XIV were among world leaders sending messages to Trump on America&apos;s 250th Independence Day. From Jerusalem to the UAE and Japan congratulations were sent.",
+    "link": "https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday",
+    "published": "Sat, 04 Jul 2026 12:15:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "632680a7f044e9f5d0894ba059ea0087",
+    "fetched_at": "2026-07-07T02:26:03.738660+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy pressures US and Europe for more 'air defense' assistance amid ongoing war with Russia",
+    "summary": "Ukrainian President Volodymyr Zelenskyy urges the U.S. and Europe to provide more missiles to help Ukraine amid the war with Russia.",
+    "link": "https://www.foxnews.com/world/zelenskyy-pressures-us-europe-air-defense-assistance-ongoing-war-russia",
+    "published": "Mon, 06 Jul 2026 07:07:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "422ca914eaf7900cebc59a57b4a39a3d",
+    "fetched_at": "2026-07-07T02:26:02.580939+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba plunges into third major blackout this year as power crisis worsens",
+    "summary": "Cuba suffered another islandwide blackout Monday as its struggling power grid collapsed, leaving millions without electricity while officials worked to restore service.",
+    "link": "https://www.foxnews.com/world/cuba-plunges-third-major-blackout-year-power-crisis-worsens",
+    "published": "Mon, 06 Jul 2026 19:42:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fc5718e72e11b8a0362ae006573efe80",
+    "fetched_at": "2026-07-07T02:26:01.440811+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup",
+    "summary": "For the nation's 250th birthday, President Trump and NYC Mayor Zohran Mamdani had opposing visions of America. And, the U.S. and Belgium face off today in the FIFA World Cup.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132097/up-first-newsletter-america-250-trump-democrats-iran-israel-world-cup-folarin-balogun",
+    "published": "Mon, 06 Jul 2026 07:46:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "fed800c508397a941357679c592acb00",
+    "fetched_at": "2026-07-07T02:26:00.294718+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
     "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
     "link": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "b9522716232a2dcb3af532009f8707e7",
     "fetched_at": "2026-07-06T13:39:38.208282+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Joy for England fans after dramatic World Cup victory",
-    "summary": "England fans celebrated their team's dramatic 3-2 victory over Mexico as the Three Lions booked a place in the World Cup quarter-finals.",
-    "link": "http://www.euronews.com/video/2026/07/06/joy-for-england-fans-after-dramatic-world-cup-victory",
-    "published": "Mon, 06 Jul 2026 12:07:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3b2b16a13f145ac82c02cc8847881042",
-    "fetched_at": "2026-07-06T13:39:38.208281+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hamas announces dissolution of Gaza governing body, paves way for technocratic committee",
-    "summary": "The move marks a significant political shift by Hamas, which has run Gaza since its fighters seized control from rival Palestinian movement Fatah in 2007.",
-    "link": "http://www.euronews.com/2026/07/06/hamas-announces-dissolution-gaza-governing-body-paves-way-for-technocratic-committee",
-    "published": "Mon, 06 Jul 2026 12:48:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "83e77fbf1b147a1fd8c5111dc734e64e",
-    "fetched_at": "2026-07-06T13:39:38.208279+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire rages in eastern Spain, forcing hundreds to flee",
-    "summary": "A wildfire in Castellon, eastern Spain, forces 500 evacuations as firefighters and aircraft battle flames spreading across the Valencia region.",
-    "link": "http://www.euronews.com/video/2026/07/06/wildfire-rages-in-eastern-spain-forcing-hundreds-to-flee",
-    "published": "Mon, 06 Jul 2026 13:35:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "27a0c4334a886f1e04619427d8f0362c",
-    "fetched_at": "2026-07-06T13:39:38.208278+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-    "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
-    "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 00:43:26 GMT",
-    "source": "BBC News",
-    "id": "588d327bf66ea80fdd5aba5f7bca9d96",
-    "fetched_at": "2026-07-06T13:39:38.208276+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-    "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 18:41:25 GMT",
-    "source": "BBC News",
-    "id": "736d5dc393bb15d0d6dc650036b24a5e",
-    "fetched_at": "2026-07-06T13:39:38.208274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Six Kurdish fighters killed in IRGC ambush as clashes spread across western Iran",
-    "summary": "The PDKI says six Kurdish fighters were killed in an Islamic Revolutionary Guard Corp ambush near Piranshahr, while the Revolutionary Guards claim five Kurdish militants are dead.",
-    "link": "https://www.foxnews.com/world/six-kurdish-fighters-killed-irgc-ambush-clashes-spread-across-western-iran",
-    "published": "Thu, 02 Jul 2026 16:53:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "01703823e83ab805c9d452d63da38a43",
-    "fetched_at": "2026-07-06T13:39:38.208271+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Couple publicly caned after alleged TikTok kiss sparks outrage in Indonesia",
-    "summary": "A viral TikTok livestream led to a public caning for a young couple in Indonesia&apos;s Aceh province after they were convicted of kissing during a TikTok livestream.",
-    "link": "https://www.foxnews.com/world/couple-publicly-caned-alleged-tiktok-kiss-sparks-outrage-indonesia",
-    "published": "Thu, 02 Jul 2026 20:31:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b8958a866aa699bf44b651b0c0f9d307",
-    "fetched_at": "2026-07-06T13:39:38.208269+00:00"
   }
 ]
