@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+    "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 17:22:38 GMT",
+    "source": "BBC News",
+    "id": "3a8770ebfd59741265e79287d475a790",
+    "fetched_at": "2026-07-07T14:13:18.809968+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Euronews launches Kazakh language broadcasting in Astana",
+    "summary": "As part of its continued development in Central Asia, Euronews now takes the strategic step to launch its new Kazakh language service and bring its European-perspective journalism and global coverage to Kazakhstan.",
+    "link": "http://www.euronews.com/2026/07/07/euronews-launches-kazakh-language-broadcasting-in-astana",
+    "published": "Tue, 07 Jul 2026 14:34:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d533122eefc4ae1c6a0f7a23dd3f4111",
+    "fetched_at": "2026-07-07T14:13:18.809966+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Goats roam free in this French Alpine village",
+    "summary": "Les Lindarets in the French Alps is known for goats roaming freely through its streets, attracting visitors who feed and interact with the animals.",
+    "link": "http://www.euronews.com/video/2026/07/07/goats-roam-free-in-this-french-alpine-village",
+    "published": "Tue, 07 Jul 2026 15:08:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "af2b31b9f2f5f84e6528bde44dbecb66",
+    "fetched_at": "2026-07-07T14:13:18.809964+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Frenchman convicted of 2020 murder of wife confesses from jail",
+    "summary": "Cédric Jubillar, who previously denied killing his wife, was convicted despite her body not being found.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2jj11kg5do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 15:14:43 GMT",
+    "source": "BBC News",
+    "id": "7c0311a358804365bd8bfb1ffd3d6e43",
+    "fetched_at": "2026-07-07T14:13:18.809962+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+    "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 14:08:57 GMT",
+    "source": "BBC News",
+    "id": "e3fa9a9f94e40bc936b84583a67565d4",
+    "fetched_at": "2026-07-07T14:13:18.809959+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Turkey's Erdoğan? How NATO's most unpredictable leader keeps reinventing himself",
+    "summary": "Experts say Erdoğan&apos;s defining trait isn&apos;t Islamism or nationalism but political survival, as Trump calls Turkey&apos;s leader &quot;a friend&quot; ahead of NATO summit.",
+    "link": "https://www.foxnews.com/world/who-turkeys-erdogan-how-natos-most-unpredictable-leader-keeps-reinventing-himself",
+    "published": "Mon, 06 Jul 2026 15:34:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d7c1d0f6782171bf09d63fb304404cf3",
+    "fetched_at": "2026-07-07T14:13:18.809930+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nigel Farage resigning from UK Parliament",
+    "summary": "Reform UK leader Nigel Farage has resigned from Parliament to force a snap by-election following an ongoing parliamentary investigation into a $5 million gift from a crypto billionaire, which Farage defended as necessary funding for his personal security.",
+    "link": "https://www.foxnews.com/world/nigel-farage-resigning-from-uk-parliament",
+    "published": "Tue, 07 Jul 2026 09:32:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cbb4889067f9b8c7d58d782991321e38",
+    "fetched_at": "2026-07-07T14:13:17.673557+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
+    "summary": "Bombs placed in a car and garbage can exploded near the Four Seasons hotel in Damascus where Emmanuel Macron was staying during his state visit.",
+    "link": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit",
+    "published": "Tue, 07 Jul 2026 10:07:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0e84156b73ce13890a794095640ba7fe",
+    "fetched_at": "2026-07-07T14:13:16.525701+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
+    "summary": "Graham Platner is facing calls to end his bid for U.S. Senate in Maine after a woman accused him of sexual assault. And, Trump made his dissatisfaction with NATO clear ahead of its summit this week.",
+    "link": "https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads",
+    "published": "Tue, 07 Jul 2026 07:40:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "b915b849bbac03944d9810f1f4b7eb35",
+    "fetched_at": "2026-07-07T14:13:15.378588+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump confirms he asked Fifa to review Balogun ban",
+    "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 19:06:34 GMT",
+    "source": "BBC News",
+    "id": "6a4bd4bc16da24bac7171871fc4ee3ae",
+    "fetched_at": "2026-07-07T14:13:14.230138+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+    "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+    "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 06 Jul 2026 15:18:53 GMT",
+    "source": "BBC News",
+    "id": "2bdbd18a795f12a4a74ac31d7f851857",
+    "fetched_at": "2026-07-07T14:13:13.088070+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
+    "summary": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
+    "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 08:25:54 GMT",
+    "source": "BBC News",
+    "id": "7a66ed55009b4d6a43a023a4c9155539",
+    "fetched_at": "2026-07-07T14:13:11.936932+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Did USA team fall short in World Cup? Here's what pundits think",
+    "summary": "After weeks of excitement ended with a defeat to Belgium, there's gratitude and a sense of an opportunity missed.",
+    "link": "https://www.bbc.co.uk/news/articles/c20y4pnz2n4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 10:56:17 GMT",
+    "source": "BBC News",
+    "id": "71461b58a212b3563e6ed0e284e0efc5",
+    "fetched_at": "2026-07-07T14:13:10.794466+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zimbabwean football star survives gun attack in South Africa",
     "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
     "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "a57c2cdab77c7d836d47e48a03d740d0",
     "fetched_at": "2026-07-06T23:00:07.335631+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is this a breakthrough moment for soccer in the US?",
-    "summary": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
-    "link": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 11:19:47 GMT",
-    "source": "BBC News",
-    "id": "5287bbc1070f9d43b5324d76fbee7979",
-    "fetched_at": "2026-07-06T23:00:06.179755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada makes largest defence procurement deal in its history, citing 'dangerous and divided world'",
-    "summary": "Canada announced the multi-billion dollar deal for 12 submarines from German company TKMS just as PM Carney heads to a major Nato summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4ddppz3jqo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 22:04:42 GMT",
-    "source": "BBC News",
-    "id": "ffe924fa64db11bf6c22355e09e6d9c1",
-    "fetched_at": "2026-07-06T23:00:05.013686+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia and Fiji seal mutual defence pact in push to counter China in Pacific",
-    "summary": "The signing of the defence treaty comes on the same day that Chinese state media reported a submarine had test-launched a long-range ballistic missile in the South Pacific, a move criticised by Australia.",
-    "link": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific",
-    "published": "Mon, 06 Jul 2026 09:18:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7605410ae8ab3df407d555949dd940e5",
-    "fetched_at": "2026-07-06T21:22:47.049211+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mexico fans left heartbroken as World Cup dream comes to an end",
-    "summary": "Mexico fans in Mexico City react with joy and heartbreak as England win 3-2 in a World Cup last-16 match, ending Mexico’s tournament run.",
-    "link": "http://www.euronews.com/video/2026/07/06/mexico-fans-left-heartbroken-as-world-cup-dream-comes-to-an-end",
-    "published": "Mon, 06 Jul 2026 09:23:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5336584b5c1b7d717ca6ff2bd7b7c33d",
-    "fetched_at": "2026-07-06T21:22:47.049209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Jordan Bardella: The 'blank canvas' who could be France's youngest president",
-    "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barred.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 20:57:17 GMT",
-    "source": "BBC News",
-    "id": "fbc04936ff14c9cf7a93bf6b406b3640",
-    "fetched_at": "2026-07-06T21:22:47.049206+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
-    "summary": "She has tasted defeat before, but if the appeal court bars her from running in the 2027 presidential election, it could end her political career.",
-    "link": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 20:57:35 GMT",
-    "source": "BBC News",
-    "id": "986d65eb13087d179ff7ab911cad7048",
-    "fetched_at": "2026-07-06T21:22:47.049175+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
-    "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 05 Jul 2026 23:31:04 GMT",
-    "source": "BBC News",
-    "id": "3a48f61f800a43197a8e8696d535d417",
-    "fetched_at": "2026-07-06T21:22:45.900274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australian mother healing with 'beautiful messages' after losing arm to shark attack",
-    "summary": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
-    "link": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
-    "published": "Sun, 05 Jul 2026 09:13:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "13e59e255fff740ecbf0a70d05745cb3",
-    "fetched_at": "2026-07-06T21:22:44.768708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel fortifies border with Jordan as Iran seeks new terror path",
-    "summary": "IDF Division 96 has thwarted more than 20 smuggling attempts this year as Israel reactivates 45 military bases along the Jordan Valley border.",
-    "link": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
-    "published": "Mon, 06 Jul 2026 15:47:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8d42dc3866a0a34c58811261e2f03cec",
-    "fetched_at": "2026-07-06T21:22:43.646381+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
-    "summary": "President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.",
-    "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
-    "published": "Mon, 06 Jul 2026 02:06:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "d60744a5c2589709d1fad1544afe4a49",
-    "fetched_at": "2026-07-06T21:22:42.525250+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
-    "summary": "Russia unleashed waves of missiles and drones at Ukraine, killing at least 22 people. The attacks exposed gaps in the country's air defenses more than four years into Moscow's full-scale invasion.",
-    "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
-    "published": "Mon, 06 Jul 2026 03:41:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "a698f49635b12079a941b5cbec3bbe78",
-    "fetched_at": "2026-07-06T21:22:41.386733+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia-Ukraine war escalates before NATO summit",
-    "summary": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
-    "link": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
-    "published": "Mon, 06 Jul 2026 16:37:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "61b8f4daccaaec8b3fc4496afc682260",
-    "fetched_at": "2026-07-06T21:22:40.226045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Earthquake-ravaged Venezuela marked its Independence Day yesterday",
-    "summary": "Venezuela marked its Independence Day amid the aftermath of twin earthquakes and sweeping political change following the U.S.-led removal of Nicolás Maduro.",
-    "link": "https://www.npr.org/2026/07/06/nx-s1-5883039/earthquake-ravaged-venezuela-marked-its-independence-day-yesterday",
-    "published": "Mon, 06 Jul 2026 17:02:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "37c39188362f793e68b96bbdc3bff592",
-    "fetched_at": "2026-07-06T21:22:39.094800+00:00"
   }
 ]
