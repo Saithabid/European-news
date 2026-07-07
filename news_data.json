@@ -1,5 +1,75 @@
 [
   {
+    "region": "Europe",
+    "title": "Argentina fans sing and dance after dramatic World Cup comeback against Egypt",
+    "summary": "Argentina fans erupted in celebration after the defending champions came from two goals down to beat Egypt 3-2 and reach the World Cup quarter-finals.",
+    "link": "http://www.euronews.com/video/2026/07/07/argentina-fans-sing-and-dance-after-dramatic-world-cup-comeback-against-egypt",
+    "published": "Tue, 07 Jul 2026 23:30:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "78ed69418d3c7731f5c3baa5ca35dfb4",
+    "fetched_at": "2026-07-07T22:54:28.896195+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. ambassador on Turkey hosting the NATO summit",
+    "summary": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Turkey David Satterfield about the significance of Turkey hosting the NATO summit.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5883847/former-u-s-ambassador-on-turkey-hosting-the-nato-summit",
+    "published": "Tue, 07 Jul 2026 04:41:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "1b4957fa4041a9d6e758a39951b773dd",
+    "fetched_at": "2026-07-07T22:54:27.774841+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO summit set to begin in Turkey",
+    "summary": "Ahead of the  NATO summit in Ankara, Turkey, the illusion of appeasing Trump has vanished—and Europe is being forced to take primary responsibility for its own defense.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey",
+    "published": "Tue, 07 Jul 2026 04:41:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "8634a8778dbf3f71e744f68de3105ab0",
+    "fetched_at": "2026-07-07T22:54:26.526356+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
+    "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
+    "published": "Tue, 07 Jul 2026 04:59:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "fa9d47a6af1edbbb093c6206556563b5",
+    "fetched_at": "2026-07-07T22:54:25.390627+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happened in the opening day of the NATO summit in Ankara, Turkey",
+    "summary": "NATO arrived in Ankara with a message of unity, but President Trump's renewed attacks on European allies have once again laid bare the tensions challenging the alliance's future.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884718/what-happened-in-the-opening-day-of-the-nato-summit-in-ankara-turkey",
+    "published": "Tue, 07 Jul 2026 18:45:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "ea1ef42794ee8ec581eb94a017d91682",
+    "fetched_at": "2026-07-07T22:54:24.251969+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dallas Cowboys player who died by suicide diagnosed with brain disease",
+    "summary": "Marshawn Kneeland had early chronic traumatic encephalopathy, which is caused by head impacts and has been found in dozens of former NFL players.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz6kllg1jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 21:16:45 GMT",
+    "source": "BBC News",
+    "id": "a3cf79154aaf134f316b94d25e90b64f",
+    "fetched_at": "2026-07-07T22:54:23.127495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+    "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 22:48:45 GMT",
+    "source": "BBC News",
+    "id": "2283a6764febadd2cce496cfef62a638",
+    "fetched_at": "2026-07-07T22:54:21.998902+00:00"
+  },
+  {
     "region": "USA",
     "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
     "summary": "Mike Waltz fired back at the &quot;act of war&quot; claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "c9d65ae21e41335394450231002ce8f1",
     "fetched_at": "2026-07-07T10:49:16.889963+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Moment rare tornado lashes central Chinese cities",
-    "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
-    "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 07:27:05 GMT",
-    "source": "BBC News",
-    "id": "1b74cb89d555106f6e1e4e11055506e1",
-    "fetched_at": "2026-07-07T10:49:16.889961+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Explosions injure 18 in Damascus during Macron's visit",
-    "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-    "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 10:12:27 GMT",
-    "source": "BBC News",
-    "id": "0bf7fda96ff71c877dc6eb7389690bf7",
-    "fetched_at": "2026-07-07T10:49:16.889959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 18 wounded in Damascus blasts during Macron visit, Syrian officials say",
-    "summary": "Macron had entered the presidential palace to meet Syrian President Ahmad al-Sharaa when the explosions happened near the Four Seasons Hotel.",
-    "link": "http://www.euronews.com/2026/07/07/explosions-heard-in-damascus-during-visit-by-frances-president-emmanuel-macron",
-    "published": "Tue, 07 Jul 2026 09:40:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9d46b64fb7264ece59a937915dacc24a",
-    "fetched_at": "2026-07-07T10:49:16.889957+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "San Fermín festival begins with Pamplona's famous bull run",
-    "summary": "The first San Fermin 2026 bull run takes place in Pamplona as runners race six bulls through the streets during the famous 'encierro'.",
-    "link": "http://www.euronews.com/video/2026/07/07/san-fermin-festival-begins-with-pamplonas-famous-bull-run",
-    "published": "Tue, 07 Jul 2026 09:41:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f9e686be8b5c7f4486422415d6ebe9a2",
-    "fetched_at": "2026-07-07T10:49:16.889955+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Argentina fans gather in Atlanta for traditional World Cup 'banderazo'",
-    "summary": "Hundreds of Argentina supporters gathered in Atlanta for a traditional banderazo rally ahead of their World Cup last-16 match against Egypt.",
-    "link": "http://www.euronews.com/video/2026/07/07/argentina-fans-gather-in-atlanta-for-traditional-world-cup-banderazo",
-    "published": "Tue, 07 Jul 2026 10:00:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "26d48905cf21d316c72134923c93b7d8",
-    "fetched_at": "2026-07-07T10:49:16.889953+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Macron tours Damascus' Umayyad Mosque during Syria visit",
-    "summary": "French President Emmanuel Macron visits Damascus' Umayyad Mosque with Syrian leader Ahmed al-Sharaa and signs the guestbook during his Syria trip.",
-    "link": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit",
-    "published": "Tue, 07 Jul 2026 11:53:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ec7c02deceb5e6bd22e4f2adae3df886",
-    "fetched_at": "2026-07-07T10:49:16.889951+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korean law targeting 'fake news' takes effect as journalists' groups raise concerns",
-    "summary": "South Korea saw a surge in online misinformation following the botched 2024 martial law attempt, including unsubstantiated allegations of Chinese interference in the electoral system.",
-    "link": "http://www.euronews.com/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns",
-    "published": "Tue, 07 Jul 2026 12:29:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "224d0d34f25a54f6a05373ecdbb535af",
-    "fetched_at": "2026-07-07T10:49:16.889948+00:00"
   }
 ]
