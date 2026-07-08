@@ -1,6 +1,176 @@
 [
   {
     "region": "Europe",
+    "title": "Cubans protest after third nationwide power cut this year",
+    "summary": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
+    "link": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 10:56:55 GMT",
+    "source": "BBC News",
+    "id": "e7322c31143e8e039da4b2a0501a013a",
+    "fetched_at": "2026-07-08T11:43:32.894218+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US strikes target Iranian military boats",
+    "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+    "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 05:42:37 GMT",
+    "source": "BBC News",
+    "id": "88081d314cc83fa3b32844338c35358c",
+    "fetched_at": "2026-07-08T11:43:32.894216+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine brands IOC move to lift ban on Russian athletes 'premature' and 'unjustified'",
+    "summary": "Russian athletes looking to return to international competition will now be able to compete as long as they \"meet relevant anti-doping requirements,\" the IOC said.",
+    "link": "http://www.euronews.com/2026/07/07/international-olympic-committee-provisionally-lifts-restrictions-on-russian-athletes",
+    "published": "Tue, 07 Jul 2026 18:37:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9a514bd36061d7b626617ac98e2514ca",
+    "fetched_at": "2026-07-08T11:43:32.894213+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Erdogan gives world leaders a ceremonial welcome ahead of NATO summit",
+    "summary": "NATO leaders including Trump and Zelenskyy arrive in Ankara for a state dinner hosted by Erdogan ahead of key summit talks in Turkey.",
+    "link": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit",
+    "published": "Wed, 08 Jul 2026 10:50:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "128d848317503cefbb7b07119957ba3d",
+    "fetched_at": "2026-07-08T11:43:32.894210+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least seven killed in fresh Russian strikes on Ukraine as NATO leaders meet in Turkey",
+    "summary": "Russia has hit the Ukrainian capital with several large deadly attacks over the last week, killing more than 50 this month in a spate of ballistic missile and drone strikes.",
+    "link": "http://www.euronews.com/my-europe/2026/07/08/at-least-seven-killed-in-fresh-russian-strikes-on-ukraine-as-nato-leaders-meet-in-turkey",
+    "published": "Wed, 08 Jul 2026 11:01:50 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4839997a9c242ba5dfff726d871eb166",
+    "fetched_at": "2026-07-08T11:43:32.894206+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France's Marine Le Pen, fighting court conviction and running for presidency",
+    "summary": "A profile of France's hard-right leader who leads the polls - but now faces a court challenge to her conviction for embezzlement.",
+    "link": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 21:22:25 GMT",
+    "source": "BBC News",
+    "id": "986d65eb13087d179ff7ab911cad7048",
+    "fetched_at": "2026-07-08T11:43:32.894203+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel fortifies border with Jordan as Iran seeks new terror path",
+    "summary": "IDF Division 96 has thwarted more than 20 smuggling attempts this year as Israel reactivates 45 military bases along the Jordan Valley border.",
+    "link": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
+    "published": "Mon, 06 Jul 2026 15:47:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8d42dc3866a0a34c58811261e2f03cec",
+    "fetched_at": "2026-07-08T11:43:32.894200+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hamas says it will dissolve Gaza government, but Israel warns group still seeks Hezbollah-style control",
+    "summary": "Critics say Hamas&apos; dissolution of its Gaza governing body is a performative step to preserve armed control while surrendering only civilian burdens.",
+    "link": "https://www.foxnews.com/world/hamas-says-dissolve-gaza-government-israel-warns-group-still-seeks-hezbollah-style-control",
+    "published": "Tue, 07 Jul 2026 12:38:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "61703070e75c23a8720016f40d1a082a",
+    "fetched_at": "2026-07-08T11:43:32.894197+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
+    "summary": "Marine Le Pen&apos;s embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
+    "link": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
+    "published": "Tue, 07 Jul 2026 13:43:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d2d0164ed97d108414bb4e9fb1bd8b63",
+    "fetched_at": "2026-07-08T11:43:32.894193+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US urges donors to abandon UNRWA funding as UN defends agency's mission",
+    "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a &quot;subsidiary of Hamas&quot; and urged donors to fund the Board of Peace instead at the conference.",
+    "link": "https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace",
+    "published": "Wed, 08 Jul 2026 06:00:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94a0c61f00c3ddc87da53c460073d69b",
+    "fetched_at": "2026-07-08T11:43:32.894168+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The state of the NATO alliance amid Trump's second term",
+    "summary": "Carl Bildt, co-chair of the European Council on Foreign Relations, talks about the ongoing NATO summit in Ankara, Turkey, and the state of the alliance during President Trump's second term.",
+    "link": "https://www.npr.org/2026/07/08/nx-s1-5884818/the-state-of-the-nato-alliance-amid-trumps-second-term",
+    "published": "Wed, 08 Jul 2026 04:52:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "2a5e4deb17f71270964ccfed9f5637d6",
+    "fetched_at": "2026-07-08T11:43:31.805525+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says ceasefire between the U.S. and Iran is over",
+    "summary": "Speaking to the press from Turkey, President Trump said Wednesday morning that the ceasefire between the U.S. and Iran is over. But he didn't rule out talks continuing to end the war with Iran.",
+    "link": "https://www.npr.org/2026/07/08/nx-s1-5884779/trump-says-ceasefire-between-the-u-s-and-iran-is-over",
+    "published": "Wed, 08 Jul 2026 04:52:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "9735b92e19ce10194b111dbd65dcd599",
+    "fetched_at": "2026-07-08T11:43:30.693854+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
+    "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
+    "link": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+    "published": "Wed, 08 Jul 2026 05:12:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "3f7744e4f1677ea7329605564a9bfdcc",
+    "fetched_at": "2026-07-08T11:43:29.617081+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
+    "summary": "Trump said that he believes the U.S.-Iran ceasefire is over, but hasn't ruled out talks. And, the International Olympic Committee paves the way for Russian athletes to compete in the 2028 games.",
+    "link": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia",
+    "published": "Wed, 08 Jul 2026 07:15:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "e2b813a58d753a3d0f6e10ea49d6b443",
+    "fetched_at": "2026-07-08T11:43:28.518250+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US prosecutors arrest 24 in major probe into India-based organised crime",
+    "summary": "In one indictment, US prosecutors accuse Punjab-based Bishnoi gang leaders of ordering the 2023 shooting of Canadian Sikh leader Hardeep Singh Nijjar.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 22:17:05 GMT",
+    "source": "BBC News",
+    "id": "616591e09e3cee2bf63cd739a4dcef8f",
+    "fetched_at": "2026-07-08T11:43:27.418187+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Forgotten' host Canada's unforgettable World Cup",
+    "summary": "The country's co-hosting duties have come to an end along with an eventful journey for the national team.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gpx7rlj5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 11:15:31 GMT",
+    "source": "BBC News",
+    "id": "6c260844126e2e803c70426054f4b453",
+    "fetched_at": "2026-07-08T11:43:26.316321+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+    "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 11:18:28 GMT",
+    "source": "BBC News",
+    "id": "a70bb9fec72613fd057cdd0018a61207",
+    "fetched_at": "2026-07-08T11:43:25.203316+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
     "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
     "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
@@ -428,175 +598,5 @@
     "source": "BBC News",
     "id": "3f5c451d973fcf89fc1370fdaee203e4",
     "fetched_at": "2026-07-07T19:44:59.088667+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-    "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 18:56:19 GMT",
-    "source": "BBC News",
-    "id": "4d2979b9bf6fe4c7899863d347c771e2",
-    "fetched_at": "2026-07-07T19:44:59.088665+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-    "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 19:02:44 GMT",
-    "source": "BBC News",
-    "id": "59d825c12ba93e3607df7194729daf41",
-    "fetched_at": "2026-07-07T19:44:59.088663+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tibetan activists detained outside Chinese Embassy in New Delhi",
-    "summary": "Tibetan Youth Congress activists are detained by police during a 'Free Tibet' protest outside the Chinese Embassy in New Delhi on 7 July 2026.",
-    "link": "http://www.euronews.com/video/2026/07/07/tibetan-activists-detained-outside-chinese-embassy-in-new-delhi",
-    "published": "Tue, 07 Jul 2026 19:57:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7bcce0d3a03a38624031a6b71480dd44",
-    "fetched_at": "2026-07-07T19:44:59.088660+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mbappe condemns racist posts from Paraguay senator",
-    "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 08:51:24 GMT",
-    "source": "BBC News",
-    "id": "2f1b412554e087b090ab3fa9639869c8",
-    "fetched_at": "2026-07-07T19:44:59.088658+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-    "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 23:55:53 GMT",
-    "source": "BBC News",
-    "id": "5579b5d63a566d51c6be2fe5f263c9a5",
-    "fetched_at": "2026-07-07T19:44:59.088654+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-    "summary": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 13:24:52 GMT",
-    "source": "BBC News",
-    "id": "8eb99da2c6143579591dfd32a8520fdf",
-    "fetched_at": "2026-07-07T19:44:59.088624+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelenskyy pressures US and Europe for more 'air defense' assistance amid ongoing war with Russia",
-    "summary": "Ukrainian President Volodymyr Zelenskyy urges the U.S. and Europe to provide more missiles to help Ukraine amid the war with Russia.",
-    "link": "https://www.foxnews.com/world/zelenskyy-pressures-us-europe-air-defense-assistance-ongoing-war-russia",
-    "published": "Mon, 06 Jul 2026 07:07:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "422ca914eaf7900cebc59a57b4a39a3d",
-    "fetched_at": "2026-07-07T19:44:57.955822+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cuba plunges into third major blackout this year as power crisis worsens",
-    "summary": "Cuba suffered another islandwide blackout Monday as its struggling power grid collapsed, leaving millions without electricity while officials worked to restore service.",
-    "link": "https://www.foxnews.com/world/cuba-plunges-third-major-blackout-year-power-crisis-worsens",
-    "published": "Mon, 06 Jul 2026 19:42:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fc5718e72e11b8a0362ae006573efe80",
-    "fetched_at": "2026-07-07T19:44:56.827466+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "2 ships are hit in the latest attacks in the Strait of Hormuz, the U.K. military says",
-    "summary": "Iran, which has repeatedly declared that only its approved route through the Strait of Hormuz is safe, said one of the vessels came under attack after ignoring warnings.",
-    "link": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
-    "published": "Tue, 07 Jul 2026 01:28:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "c23865f17066c2c9a356f206efb117ed",
-    "fetched_at": "2026-07-07T19:44:55.689225+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
-    "summary": "The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
-    "published": "Tue, 07 Jul 2026 01:29:03 -0400",
-    "source": "NPR Topics: World",
-    "id": "282ae8b0e6572c7119210ce8f2c600a3",
-    "fetched_at": "2026-07-07T19:44:54.558723+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
-    "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 17:09:19 GMT",
-    "source": "BBC News",
-    "id": "a9734fe970e01bc5d0a7340a47feff21",
-    "fetched_at": "2026-07-07T19:44:53.426743+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-    "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 07:07:29 GMT",
-    "source": "BBC News",
-    "id": "72520ce1066edf0fa2d1e31b8a26c4e7",
-    "fetched_at": "2026-07-07T19:44:52.288624+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-    "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-    "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 17:44:53 GMT",
-    "source": "BBC News",
-    "id": "92e1112d69a6d503c609967b9b66bbb2",
-    "fetched_at": "2026-07-07T19:44:51.149559+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China sentences official to death for taking $325m in bribes",
-    "summary": "The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.",
-    "link": "https://www.bbc.co.uk/news/articles/c33y0n1v1xjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 03:36:56 GMT",
-    "source": "BBC News",
-    "id": "3dd7a111d6a1e2f9dfe9207cf64e6628",
-    "fetched_at": "2026-07-07T17:53:36.466950+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ghana halts visit by South African president amid row over anti-migrant protests",
-    "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 16:25:59 GMT",
-    "source": "BBC News",
-    "id": "bab75b19f188faeeefa49e92ff75be36",
-    "fetched_at": "2026-07-07T17:53:36.466947+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-    "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-    "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 16:10:14 GMT",
-    "source": "BBC News",
-    "id": "2db4dc019ed8682995f4ed03a93a1141",
-    "fetched_at": "2026-07-07T17:53:36.466945+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Third tanker hit in Strait of Hormuz in 24 hours, maritime agency says",
-    "summary": "The UKMTO maritime agency is investigating the incidents and advised vessels in the area to proceed with caution.",
-    "link": "http://www.euronews.com/2026/07/07/third-tanker-hit-in-strait-of-hormuz-in-24-hours-maritime-agency-says",
-    "published": "Tue, 07 Jul 2026 17:01:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f10353b8374897d096de7b194115edc5",
-    "fetched_at": "2026-07-07T17:53:36.466943+00:00"
   }
 ]
