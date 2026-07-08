@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+    "summary": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
+    "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 13:05:14 GMT",
+    "source": "BBC News",
+    "id": "7c10da8c9cb291b4bcf49b18026533ab",
+    "fetched_at": "2026-07-08T13:46:52.776572+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Third tanker hit in Strait of Hormuz in 24 hours, maritime agency says",
+    "summary": "The UKMTO maritime agency is investigating the incidents and advised vessels in the area to proceed with caution.",
+    "link": "http://www.euronews.com/2026/07/07/third-tanker-hit-in-strait-of-hormuz-in-24-hours-maritime-agency-says",
+    "published": "Tue, 07 Jul 2026 17:01:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f10353b8374897d096de7b194115edc5",
+    "fetched_at": "2026-07-08T13:46:52.776569+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tibetan activists detained outside Chinese Embassy in New Delhi",
+    "summary": "Tibetan Youth Congress activists are detained by police during a 'Free Tibet' protest outside the Chinese Embassy in New Delhi on 7 July 2026.",
+    "link": "http://www.euronews.com/video/2026/07/07/tibetan-activists-detained-outside-chinese-embassy-in-new-delhi",
+    "published": "Tue, 07 Jul 2026 19:57:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7bcce0d3a03a38624031a6b71480dd44",
+    "fetched_at": "2026-07-08T13:46:52.776566+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gulf states brace again for fiery US-Iran showdown as tensions spiral",
+    "summary": "From the front lines of the US-Iran confrontation, the Gulf nations have again urged both sides, with strategic restraint, not to abandon their negotiations, while Tehran is telegraphing that the Strait of Hormuz is now Iran's.",
+    "link": "http://www.euronews.com/2026/07/08/gulf-states-brace-again-for-fiery-us-iran-showdown-as-tensions-spiral",
+    "published": "Wed, 08 Jul 2026 13:43:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6951294865909eb4c3e954039915f5ab",
+    "fetched_at": "2026-07-08T13:46:52.776561+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mbappe condemns racist posts from Paraguay senator",
+    "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 08:51:24 GMT",
+    "source": "BBC News",
+    "id": "2f1b412554e087b090ab3fa9639869c8",
+    "fetched_at": "2026-07-08T13:46:52.776534+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+    "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 07:07:29 GMT",
+    "source": "BBC News",
+    "id": "72520ce1066edf0fa2d1e31b8a26c4e7",
+    "fetched_at": "2026-07-08T13:46:51.659128+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
+    "summary": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 13:24:52 GMT",
+    "source": "BBC News",
+    "id": "8eb99da2c6143579591dfd32a8520fdf",
+    "fetched_at": "2026-07-08T13:46:50.520605+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+    "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 19:55:59 GMT",
+    "source": "BBC News",
+    "id": "59d825c12ba93e3607df7194729daf41",
+    "fetched_at": "2026-07-08T13:46:49.408369+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy pressures US and Europe for more 'air defense' assistance amid ongoing war with Russia",
+    "summary": "Ukrainian President Volodymyr Zelenskyy urges the U.S. and Europe to provide more missiles to help Ukraine amid the war with Russia.",
+    "link": "https://www.foxnews.com/world/zelenskyy-pressures-us-europe-air-defense-assistance-ongoing-war-russia",
+    "published": "Mon, 06 Jul 2026 07:07:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "422ca914eaf7900cebc59a57b4a39a3d",
+    "fetched_at": "2026-07-08T13:46:48.295944+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba plunges into third major blackout this year as power crisis worsens",
+    "summary": "Cuba suffered another islandwide blackout Monday as its struggling power grid collapsed, leaving millions without electricity while officials worked to restore service.",
+    "link": "https://www.foxnews.com/world/cuba-plunges-third-major-blackout-year-power-crisis-worsens",
+    "published": "Mon, 06 Jul 2026 19:42:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fc5718e72e11b8a0362ae006573efe80",
+    "fetched_at": "2026-07-08T13:46:47.169420+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation",
+    "summary": "Graham Platner denied the allegation, calling it \"categorically false\" but said he was \"taking the time to reflect on the best path forward\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 01:05:26 GMT",
+    "source": "BBC News",
+    "id": "a9734fe970e01bc5d0a7340a47feff21",
+    "fetched_at": "2026-07-08T13:46:46.056499+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Suspect ate Chick-fil-A and interacted with Charlie Kirk staff before shooting, court hears",
+    "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+    "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 02:46:14 GMT",
+    "source": "BBC News",
+    "id": "92e1112d69a6d503c609967b9b66bbb2",
+    "fetched_at": "2026-07-08T13:46:44.920174+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Cubans protest after third nationwide power cut this year",
     "summary": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
     "link": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8634a8778dbf3f71e744f68de3105ab0",
     "fetched_at": "2026-07-07T22:54:26.526356+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosions rock Damascus, wounding 18, as French President Macron visits Syria",
-    "summary": "The French president's office said that Macron was safe and that his meeting with Syrian President Ahmad al-Sharaa would continue as scheduled.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884579/damascus-explosions-macron",
-    "published": "Tue, 07 Jul 2026 04:59:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "fa9d47a6af1edbbb093c6206556563b5",
-    "fetched_at": "2026-07-07T22:54:25.390627+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happened in the opening day of the NATO summit in Ankara, Turkey",
-    "summary": "NATO arrived in Ankara with a message of unity, but President Trump's renewed attacks on European allies have once again laid bare the tensions challenging the alliance's future.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884718/what-happened-in-the-opening-day-of-the-nato-summit-in-ankara-turkey",
-    "published": "Tue, 07 Jul 2026 18:45:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea1ef42794ee8ec581eb94a017d91682",
-    "fetched_at": "2026-07-07T22:54:24.251969+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dallas Cowboys player who died by suicide diagnosed with brain disease",
-    "summary": "Marshawn Kneeland had early chronic traumatic encephalopathy, which is caused by head impacts and has been found in dozens of former NFL players.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz6kllg1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 21:16:45 GMT",
-    "source": "BBC News",
-    "id": "a3cf79154aaf134f316b94d25e90b64f",
-    "fetched_at": "2026-07-07T22:54:23.127495+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-    "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 22:48:45 GMT",
-    "source": "BBC News",
-    "id": "2283a6764febadd2cce496cfef62a638",
-    "fetched_at": "2026-07-07T22:54:21.998902+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
-    "summary": "Mike Waltz fired back at the &quot;act of war&quot; claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
-    "link": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
-    "published": "Tue, 07 Jul 2026 16:13:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ce307189d0e239af98f0d456e502c2b0",
-    "fetched_at": "2026-07-07T21:17:30.528792+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's NATO pressure campaign continues as summit begins",
-    "summary": "President Trump's arrival in Ankara kicks off another potentially tense meeting for NATO.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins",
-    "published": "Tue, 07 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "baaebaf55b3af8ae2fa63dd999ba216f",
-    "fetched_at": "2026-07-07T21:17:29.374703+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine to press NATO for anti-ballistic air defense after latest Russian attacks",
-    "summary": "Ukraine pushes allies in NATO for anti-ballistic air defense after the latest major Russian attacks kill more than 20 in Kyiv and surrounding area.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5883932/ukraine-to-press-nato-for-anti-ballistic-air-defense-after-latest-russian-attacks",
-    "published": "Tue, 07 Jul 2026 06:44:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "a97ebdc20ff49063e28fc6e682bdefe9",
-    "fetched_at": "2026-07-07T21:17:28.219141+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "IOC moves to allow more Russian athletes back into the Olympic games",
-    "summary": "The IOC is moving to clear the way for Russian athletes to compete in Olympic events. The decision to ease sanctions comes as Moscow continues missile and drone strikes killing civilians in Ukraine.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884882/ioc-moves-to-allow-more-russian-athletes-back-into-the-olympic-games",
-    "published": "Tue, 07 Jul 2026 16:07:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc34fd4228ee9b1aad3200c4603eb168",
-    "fetched_at": "2026-07-07T21:17:27.061567+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's at stake at the NATO summit in Turkey",
-    "summary": "NATO leaders hope President Trump's criticism of the alliance is aimed at getting Europe to spend more on defense. But some analysts fear Trump may have an ulterior motive.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5883812/whats-at-stake-at-the-nato-summit-in-turkey",
-    "published": "Tue, 07 Jul 2026 16:58:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "71a203f34e4cd9eaa79a36d05b9490b0",
-    "fetched_at": "2026-07-07T21:17:25.893476+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why some African nations are turning down Trump aid money",
-    "summary": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 00:49:08 GMT",
-    "source": "BBC News",
-    "id": "3dcf154437b3d6541f8f52106e719069",
-    "fetched_at": "2026-07-07T21:17:24.736287+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A shambolic end for the American dream - did Balogun saga play a part?",
-    "summary": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 05:00:10 GMT",
-    "source": "BBC News",
-    "id": "bed3d4420c5b5b5644e0fda0c8ee8c62",
-    "fetched_at": "2026-07-07T21:17:23.571199+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-    "summary": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 18:34:45 GMT",
-    "source": "BBC News",
-    "id": "3f5c451d973fcf89fc1370fdaee203e4",
-    "fetched_at": "2026-07-07T19:44:59.088667+00:00"
   }
 ]
