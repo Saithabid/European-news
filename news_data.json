@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+    "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+    "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 18:03:56 GMT",
+    "source": "BBC News",
+    "id": "0bf7fda96ff71c877dc6eb7389690bf7",
+    "fetched_at": "2026-07-08T02:00:04.902557+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina fans gather in Atlanta for traditional World Cup 'banderazo'",
+    "summary": "Hundreds of Argentina supporters gathered in Atlanta for a traditional banderazo rally ahead of their World Cup last-16 match against Egypt.",
+    "link": "http://www.euronews.com/video/2026/07/07/argentina-fans-gather-in-atlanta-for-traditional-world-cup-banderazo",
+    "published": "Tue, 07 Jul 2026 10:00:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26d48905cf21d316c72134923c93b7d8",
+    "fetched_at": "2026-07-08T02:00:04.902529+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Macron tours Damascus' Umayyad Mosque during Syria visit",
+    "summary": "French President Emmanuel Macron visits Damascus' Umayyad Mosque with Syrian leader Ahmed al-Sharaa and signs the guestbook during his Syria trip.",
+    "link": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit",
+    "published": "Tue, 07 Jul 2026 11:53:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ec7c02deceb5e6bd22e4f2adae3df886",
+    "fetched_at": "2026-07-08T02:00:03.780629+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korean law targeting 'fake news' takes effect as journalists' groups raise concerns",
+    "summary": "South Korea saw a surge in online misinformation following the botched 2024 martial law attempt, including unsubstantiated allegations of Chinese interference in the electoral system.",
+    "link": "http://www.euronews.com/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns",
+    "published": "Tue, 07 Jul 2026 12:29:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "224d0d34f25a54f6a05373ecdbb535af",
+    "fetched_at": "2026-07-08T02:00:02.648951+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nairobi man shares home with rescued birds",
+    "summary": "Nairobi's 'Birdman' Rodgers Magutha rescues injured birds and lives with them, while defending his unusual bond with wildlife and conservation work.",
+    "link": "http://www.euronews.com/video/2026/07/08/nairobi-man-shares-home-with-rescued-birds",
+    "published": "Wed, 08 Jul 2026 00:56:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "25b3d0fa124f25fdd0f65156eca7dc7d",
+    "fetched_at": "2026-07-08T02:00:01.523928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+    "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 23:47:33 GMT",
+    "source": "BBC News",
+    "id": "c9c0e5394bd9a14f03cde94510cf0bf4",
+    "fetched_at": "2026-07-08T02:00:00.377584+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Buckling support beams seen inside New York high-rise",
+    "summary": "The structure, which is under construction, was evacuated along with surrounding buildings after reports of falling bricks.",
+    "link": "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 00:11:48 GMT",
+    "source": "BBC News",
+    "id": "41619f7120eb20356b65783c1c627fdc",
+    "fetched_at": "2026-07-08T01:59:59.253833+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence",
+    "summary": "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints.",
+    "link": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 01:51:09 GMT",
+    "source": "BBC News",
+    "id": "494e1d5ea2aa285caadd20c3c538eecf",
+    "fetched_at": "2026-07-08T01:59:58.136492+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Questions swirl over top US Republican McConnell's hospital stay - here's what we know",
+    "summary": "McConnell, 84, has been in hospital for more than four weeks, and his staff have not yet said why he was admitted.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyjpkzew1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 01:58:20 GMT",
+    "source": "BBC News",
+    "id": "f9ed22b9ac654923b5ee3d040badc6be",
+    "fetched_at": "2026-07-08T01:59:57.003229+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Argentina fans sing and dance after dramatic World Cup comeback against Egypt",
     "summary": "Argentina fans erupted in celebration after the defending champions came from two goals down to beat Egypt 3-2 and reach the World Cup quarter-finals.",
     "link": "http://www.euronews.com/video/2026/07/07/argentina-fans-sing-and-dance-after-dramatic-world-cup-comeback-against-egypt",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "e3fa9a9f94e40bc936b84583a67565d4",
     "fetched_at": "2026-07-07T14:13:18.809959+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Turkey's Erdoğan? How NATO's most unpredictable leader keeps reinventing himself",
-    "summary": "Experts say Erdoğan&apos;s defining trait isn&apos;t Islamism or nationalism but political survival, as Trump calls Turkey&apos;s leader &quot;a friend&quot; ahead of NATO summit.",
-    "link": "https://www.foxnews.com/world/who-turkeys-erdogan-how-natos-most-unpredictable-leader-keeps-reinventing-himself",
-    "published": "Mon, 06 Jul 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d7c1d0f6782171bf09d63fb304404cf3",
-    "fetched_at": "2026-07-07T14:13:18.809930+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigel Farage resigning from UK Parliament",
-    "summary": "Reform UK leader Nigel Farage has resigned from Parliament to force a snap by-election following an ongoing parliamentary investigation into a $5 million gift from a crypto billionaire, which Farage defended as necessary funding for his personal security.",
-    "link": "https://www.foxnews.com/world/nigel-farage-resigning-from-uk-parliament",
-    "published": "Tue, 07 Jul 2026 09:32:27 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cbb4889067f9b8c7d58d782991321e38",
-    "fetched_at": "2026-07-07T14:13:17.673557+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
-    "summary": "Bombs placed in a car and garbage can exploded near the Four Seasons hotel in Damascus where Emmanuel Macron was staying during his state visit.",
-    "link": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit",
-    "published": "Tue, 07 Jul 2026 10:07:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0e84156b73ce13890a794095640ba7fe",
-    "fetched_at": "2026-07-07T14:13:16.525701+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
-    "summary": "Graham Platner is facing calls to end his bid for U.S. Senate in Maine after a woman accused him of sexual assault. And, Trump made his dissatisfaction with NATO clear ahead of its summit this week.",
-    "link": "https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads",
-    "published": "Tue, 07 Jul 2026 07:40:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "b915b849bbac03944d9810f1f4b7eb35",
-    "fetched_at": "2026-07-07T14:13:15.378588+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump confirms he asked Fifa to review Balogun ban",
-    "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 19:06:34 GMT",
-    "source": "BBC News",
-    "id": "6a4bd4bc16da24bac7171871fc4ee3ae",
-    "fetched_at": "2026-07-07T14:13:14.230138+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-    "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
-    "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 15:18:53 GMT",
-    "source": "BBC News",
-    "id": "2bdbd18a795f12a4a74ac31d7f851857",
-    "fetched_at": "2026-07-07T14:13:13.088070+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
-    "summary": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
-    "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 08:25:54 GMT",
-    "source": "BBC News",
-    "id": "7a66ed55009b4d6a43a023a4c9155539",
-    "fetched_at": "2026-07-07T14:13:11.936932+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Did USA team fall short in World Cup? Here's what pundits think",
-    "summary": "After weeks of excitement ended with a defeat to Belgium, there's gratitude and a sense of an opportunity missed.",
-    "link": "https://www.bbc.co.uk/news/articles/c20y4pnz2n4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 10:56:17 GMT",
-    "source": "BBC News",
-    "id": "71461b58a212b3563e6ed0e284e0efc5",
-    "fetched_at": "2026-07-07T14:13:10.794466+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zimbabwean football star survives gun attack in South Africa",
-    "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
-    "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 10:13:21 GMT",
-    "source": "BBC News",
-    "id": "c9d65ae21e41335394450231002ce8f1",
-    "fetched_at": "2026-07-07T10:49:16.889963+00:00"
   }
 ]
