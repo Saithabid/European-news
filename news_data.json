@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Trump says ceasefire with Tehran 'over' after US and Iran exchange fire",
+    "summary": "Washington initiated strikes on Iran overnight in response to cargo vessels being hit in the Strait of Hormuz. Tehran then launched its own attack targeting US bases in the Gulf.",
+    "link": "http://www.euronews.com/2026/07/08/us-launches-fresh-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+    "published": "Wed, 08 Jul 2026 05:07:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "56d47e4f6496e96cf6c2d3a89cb6b0fe",
+    "fetched_at": "2026-07-08T19:13:04.370137+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump skips new Air Force One on return from Turkey NATO summit",
+    "summary": "Asked during a press conference whether the change was for security reasons related to Iran, Trump sidestepped the question by talking about previous alleged assassination attempts by Tehran.",
+    "link": "http://www.euronews.com/2026/07/08/trump-skips-new-air-force-one-on-return-from-turkey-nato-summit",
+    "published": "Wed, 08 Jul 2026 21:09:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a787a405f201de305f128062f02e2d4f",
+    "fetched_at": "2026-07-08T19:13:04.370133+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nato allies announce £37bn for new missile project",
+    "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 05:57:53 GMT",
+    "source": "BBC News",
+    "id": "39100aea0e2d133f397196325b864212",
+    "fetched_at": "2026-07-08T19:13:04.370104+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nigel Farage resigning from UK Parliament",
+    "summary": "Reform UK leader Nigel Farage has resigned from Parliament to force a snap by-election following an ongoing parliamentary investigation into a €5 million gift from a crypto billionaire, which Farage defended as necessary funding for his personal security.",
+    "link": "https://www.foxnews.com/world/nigel-farage-resigning-from-uk-parliament",
+    "published": "Tue, 07 Jul 2026 09:32:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cbb4889067f9b8c7d58d782991321e38",
+    "fetched_at": "2026-07-08T19:13:03.214566+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+    "summary": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
+    "link": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
+    "published": "Wed, 08 Jul 2026 14:27:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7cec60f098c6267dfe133254dd51ef70",
+    "fetched_at": "2026-07-08T19:13:02.066532+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Critics say Turkey's verbal attacks on Israel have crossed into antisemitism",
+    "summary": "Turkish FM Hakan Fidan reportedly called Israel a burden humanity can no longer bear, drawing accusations of genocidal rhetoric as Turkey hosts NATO summit in Ankara.",
+    "link": "https://www.foxnews.com/world/critics-say-turkeys-verbal-attacks-israel-have-crossed-antisemitism",
+    "published": "Wed, 08 Jul 2026 14:43:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3ccb1aa5a91f42f136eee4bd13ccadd4",
+    "fetched_at": "2026-07-08T19:13:00.857182+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tehran targets Bahrain and Kuwait after U.S. strikes",
+    "summary": "The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict.",
+    "link": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks",
+    "published": "Wed, 08 Jul 2026 01:36:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "d8245f43b9c3e8ecf493cac6a07fa55d",
+    "fetched_at": "2026-07-08T19:12:59.656258+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
+    "summary": "Far-right leader Marine Le Pen says she'll run for the French presidency next year despite being sentenced Tuesday to wear a court-ordered electronic monitor for embezzlement.",
+    "link": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor",
+    "published": "Wed, 08 Jul 2026 03:01:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "a7d5c12d614662f8ed57741f1d08d791",
+    "fetched_at": "2026-07-08T19:12:58.525337+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-US judge spared from prison for helping migrant evade federal agents",
+    "summary": "The 67-year-old was arrested for ushering a suspect out a courtroom side door to avoid immigration agents.",
+    "link": "https://www.bbc.co.uk/news/articles/clyx9jjz3d8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 17:54:03 GMT",
+    "source": "BBC News",
+    "id": "921b027ccb580562dab2590923f20c4d",
+    "fetched_at": "2026-07-08T19:12:57.387112+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
+    "summary": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
+    "link": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 18:28:07 GMT",
+    "source": "BBC News",
+    "id": "65364c66f9ed90f0434f5d904930538a",
+    "fetched_at": "2026-07-08T19:12:56.232371+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nairobi man shares home with rescued birds",
     "summary": "Nairobi's 'Birdman' Rodgers Magutha rescues injured birds and lives with them, while defending his unusual bond with wildlife and conservation work.",
     "link": "http://www.euronews.com/video/2026/07/08/nairobi-man-shares-home-with-rescued-birds",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "3f7744e4f1677ea7329605564a9bfdcc",
     "fetched_at": "2026-07-08T11:43:29.617081+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
-    "summary": "Trump said that he believes the U.S.-Iran ceasefire is over, but hasn't ruled out talks. And, the International Olympic Committee paves the way for Russian athletes to compete in the 2028 games.",
-    "link": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia",
-    "published": "Wed, 08 Jul 2026 07:15:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "e2b813a58d753a3d0f6e10ea49d6b443",
-    "fetched_at": "2026-07-08T11:43:28.518250+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US prosecutors arrest 24 in major probe into India-based organised crime",
-    "summary": "In one indictment, US prosecutors accuse Punjab-based Bishnoi gang leaders of ordering the 2023 shooting of Canadian Sikh leader Hardeep Singh Nijjar.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2xl9gyxqyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 22:17:05 GMT",
-    "source": "BBC News",
-    "id": "616591e09e3cee2bf63cd739a4dcef8f",
-    "fetched_at": "2026-07-08T11:43:27.418187+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Forgotten' host Canada's unforgettable World Cup",
-    "summary": "The country's co-hosting duties have come to an end along with an eventful journey for the national team.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gpx7rlj5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 11:15:31 GMT",
-    "source": "BBC News",
-    "id": "6c260844126e2e803c70426054f4b453",
-    "fetched_at": "2026-07-08T11:43:26.316321+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-    "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 11:18:28 GMT",
-    "source": "BBC News",
-    "id": "a70bb9fec72613fd057cdd0018a61207",
-    "fetched_at": "2026-07-08T11:43:25.203316+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-    "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-    "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 07:53:37 GMT",
-    "source": "BBC News",
-    "id": "7f6b5662f6d161875f9d8d6557c83eff",
-    "fetched_at": "2026-07-08T08:13:05.400479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Euronews launches Kazakh language broadcasting in Astana",
-    "summary": "As part of its continued development in Central Asia, Euronews now takes the strategic step to launch its new Kazakh language service and bring its European-perspective journalism and global coverage to Kazakhstan.",
-    "link": "http://www.euronews.com/2026/07/07/euronews-launches-kazakh-language-broadcasting-in-astana",
-    "published": "Tue, 07 Jul 2026 14:34:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d533122eefc4ae1c6a0f7a23dd3f4111",
-    "fetched_at": "2026-07-08T08:13:05.400475+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Goats roam free in this French Alpine village",
-    "summary": "Les Lindarets in the French Alps is known for goats roaming freely through its streets, attracting visitors who feed and interact with the animals.",
-    "link": "http://www.euronews.com/video/2026/07/07/goats-roam-free-in-this-french-alpine-village",
-    "published": "Tue, 07 Jul 2026 15:08:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "af2b31b9f2f5f84e6528bde44dbecb66",
-    "fetched_at": "2026-07-08T08:13:05.400450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ali Khamenei's coffin passes through thousands of mourners in Iraq's holy city of Najaf",
-    "summary": "Funeral procession for Ali Khamenei passes through Najaf as thousands of mourners gather, touching the funeral truck and honouring the late leader.",
-    "link": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf",
-    "published": "Wed, 08 Jul 2026 08:57:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a66900a4eb385c88146d1eb867a3daa6",
-    "fetched_at": "2026-07-08T08:13:04.280619+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-    "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 17:58:48 GMT",
-    "source": "BBC News",
-    "id": "e3fa9a9f94e40bc936b84583a67565d4",
-    "fetched_at": "2026-07-08T08:13:03.161168+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-    "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 05:05:31 GMT",
-    "source": "BBC News",
-    "id": "9557b6c7cb7ad2abb700bfe0911f26fa",
-    "fetched_at": "2026-07-08T08:13:02.038788+00:00"
   }
 ]
