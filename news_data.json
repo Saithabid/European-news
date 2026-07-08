@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+    "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+    "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 07:53:37 GMT",
+    "source": "BBC News",
+    "id": "7f6b5662f6d161875f9d8d6557c83eff",
+    "fetched_at": "2026-07-08T08:13:05.400479+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Euronews launches Kazakh language broadcasting in Astana",
+    "summary": "As part of its continued development in Central Asia, Euronews now takes the strategic step to launch its new Kazakh language service and bring its European-perspective journalism and global coverage to Kazakhstan.",
+    "link": "http://www.euronews.com/2026/07/07/euronews-launches-kazakh-language-broadcasting-in-astana",
+    "published": "Tue, 07 Jul 2026 14:34:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d533122eefc4ae1c6a0f7a23dd3f4111",
+    "fetched_at": "2026-07-08T08:13:05.400475+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Goats roam free in this French Alpine village",
+    "summary": "Les Lindarets in the French Alps is known for goats roaming freely through its streets, attracting visitors who feed and interact with the animals.",
+    "link": "http://www.euronews.com/video/2026/07/07/goats-roam-free-in-this-french-alpine-village",
+    "published": "Tue, 07 Jul 2026 15:08:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "af2b31b9f2f5f84e6528bde44dbecb66",
+    "fetched_at": "2026-07-08T08:13:05.400450+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ali Khamenei's coffin passes through thousands of mourners in Iraq's holy city of Najaf",
+    "summary": "Funeral procession for Ali Khamenei passes through Najaf as thousands of mourners gather, touching the funeral truck and honouring the late leader.",
+    "link": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf",
+    "published": "Wed, 08 Jul 2026 08:57:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a66900a4eb385c88146d1eb867a3daa6",
+    "fetched_at": "2026-07-08T08:13:04.280619+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+    "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 17:58:48 GMT",
+    "source": "BBC News",
+    "id": "e3fa9a9f94e40bc936b84583a67565d4",
+    "fetched_at": "2026-07-08T08:13:03.161168+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+    "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 05:05:31 GMT",
+    "source": "BBC News",
+    "id": "9557b6c7cb7ad2abb700bfe0911f26fa",
+    "fetched_at": "2026-07-08T08:13:02.038788+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
+    "summary": "The International Olympic Committee advised sports bodies to end a three-year program vetting Russians for neutral status ahead of qualifying events for the 2028 Los Angeles Olympics.",
+    "link": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games",
+    "published": "Tue, 07 Jul 2026 13:43:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "18c664e4a356e28ffb77b914e3ad50f5",
+    "fetched_at": "2026-07-08T08:13:00.914579+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tehran targets Bahrain and Kuwait after U.S. strikes",
+    "summary": "The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict.",
+    "link": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks",
+    "published": "Wed, 08 Jul 2026 01:36:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "d8245f43b9c3e8ecf493cac6a07fa55d",
+    "fetched_at": "2026-07-08T08:12:59.772176+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Le Pen says she'll run for French presidency next year despite court-ordered monitor",
+    "summary": "Far-right leader Marine Le Pen says she'll run for the French presidency next year despite being sentenced Tuesday to wear a court-ordered electronic monitor for embezzlement.",
+    "link": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor",
+    "published": "Wed, 08 Jul 2026 03:01:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "a7d5c12d614662f8ed57741f1d08d791",
+    "fetched_at": "2026-07-08T08:12:58.647487+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Coco Gauff beats fellow American Pegula to reach first Wimbledon semi-final",
+    "summary": "Coco Gauff surprised even herself by overcoming her recent grass-court struggles to reach a first Wimbledon semi-final against Karolina Muchova.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c0qyv12xyw5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 18:08:20 GMT",
+    "source": "BBC News",
+    "id": "8c6ce19449e4eea0f6d6c25fe6220ce9",
+    "fetched_at": "2026-07-08T08:12:57.522804+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australia dock workers call for 28-hour week in AI talks",
     "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
     "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "f10353b8374897d096de7b194115edc5",
     "fetched_at": "2026-07-07T17:53:36.466943+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "International Olympic Committee eases restrictions on Russian athletes",
-    "summary": "Russian athletes looking to return to international competition will now be able to compete as long as they \"meet relevant anti-doping requirements,\" the IOC said.",
-    "link": "http://www.euronews.com/2026/07/07/international-olympic-committee-provisionally-lifts-restrictions-on-russian-athletes",
-    "published": "Tue, 07 Jul 2026 18:37:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9a514bd36061d7b626617ac98e2514ca",
-    "fetched_at": "2026-07-07T17:53:36.466940+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Jordan Bardella: The 'blank canvas' who could be France's youngest president",
-    "summary": "Now president of National Rally, Bardella could become the party's candidate for next year's presidential election if Marine Le Pen is barred.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 06:37:31 GMT",
-    "source": "BBC News",
-    "id": "fbc04936ff14c9cf7a93bf6b406b3640",
-    "fetched_at": "2026-07-07T17:53:36.466938+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France's Marine Le Pen, who brought hard-right National Rally to cusp of electoral success",
-    "summary": "She has tasted defeat before, but if the appeal court bars her from running in the 2027 presidential election, it could end her political career.",
-    "link": "https://www.bbc.co.uk/news/articles/cdejj03j9ejo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 06:35:00 GMT",
-    "source": "BBC News",
-    "id": "986d65eb13087d179ff7ab911cad7048",
-    "fetched_at": "2026-07-07T17:53:36.466935+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
-    "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
-    "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 06:28:56 GMT",
-    "source": "BBC News",
-    "id": "3a48f61f800a43197a8e8696d535d417",
-    "fetched_at": "2026-07-07T17:53:36.466932+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
-    "summary": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
-    "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 15:46:05 GMT",
-    "source": "BBC News",
-    "id": "c107f745869d478c19d93cfae431146e",
-    "fetched_at": "2026-07-07T17:53:36.466928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australian mother healing with 'beautiful messages' after losing arm to shark attack",
-    "summary": "Leah Stewart reads global supporter messages during sleepless nights as her recovery from the Coogee Beach shark attack and amputation continues.",
-    "link": "https://www.foxnews.com/world/australian-healing-beautiful-messages-losing-arm-shark-attack",
-    "published": "Sun, 05 Jul 2026 09:13:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "13e59e255fff740ecbf0a70d05745cb3",
-    "fetched_at": "2026-07-07T17:53:36.466923+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel fortifies border with Jordan as Iran seeks new terror path",
-    "summary": "IDF Division 96 has thwarted more than 20 smuggling attempts this year as Israel reactivates 45 military bases along the Jordan Valley border.",
-    "link": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
-    "published": "Mon, 06 Jul 2026 15:47:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8d42dc3866a0a34c58811261e2f03cec",
-    "fetched_at": "2026-07-07T17:53:36.466897+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hamas says it will dissolve Gaza government, but Israel warns group still seeks Hezbollah-style control",
-    "summary": "Critics say Hamas&apos; dissolution of its Gaza governing body is a performative step to preserve armed control while surrendering only civilian burdens.",
-    "link": "https://www.foxnews.com/world/hamas-says-dissolve-gaza-government-israel-warns-group-still-seeks-hezbollah-style-control",
-    "published": "Tue, 07 Jul 2026 12:38:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "61703070e75c23a8720016f40d1a082a",
-    "fetched_at": "2026-07-07T17:53:35.315215+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
-    "summary": "Marine Le Pen&apos;s embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
-    "link": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
-    "published": "Tue, 07 Jul 2026 13:43:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d2d0164ed97d108414bb4e9fb1bd8b63",
-    "fetched_at": "2026-07-07T17:53:34.171389+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's FIFA call opens a 'slippery slope,' says sports columnist Christine Brennan",
-    "summary": "NPR's A Martinez speaks with <em>USA Today</em> sports columnist Christine Brennan about the World Cup match between the U.S. and Belgium and the lifted suspension of a U.S. star forward.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5883845/trump-fifa-world-cup-controversy",
-    "published": "Tue, 07 Jul 2026 04:40:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "f6cbc76606479f619c6ffe9c99d9e404",
-    "fetched_at": "2026-07-07T17:53:33.024279+00:00"
   }
 ]
