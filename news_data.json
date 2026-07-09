@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Wealthy AI workers send San Francisco house prices soaring",
+    "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:11:35 GMT",
+    "source": "BBC News",
+    "id": "d74c3a69133974812a4070a692678385",
+    "fetched_at": "2026-07-09T07:31:48.677225+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+    "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+    "link": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:40:57 GMT",
+    "source": "BBC News",
+    "id": "b87a2b6607273fc2673f30f35ba165be",
+    "fetched_at": "2026-07-09T07:31:48.677223+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+    "summary": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
+    "link": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 00:28:16 GMT",
+    "source": "BBC News",
+    "id": "417c14b1cc1db0404b671dd20f91acb2",
+    "fetched_at": "2026-07-09T07:31:48.677220+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
+    "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
+    "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:31:53 GMT",
+    "source": "BBC News",
+    "id": "e53b150499dc49a17bdef5b2d0cd8af4",
+    "fetched_at": "2026-07-09T07:31:48.677217+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gulf states brace again for fiery US-Iran showdown as tensions spiral",
+    "summary": "From the front lines of the US-Iran confrontation, the Gulf nations have again urged both sides, with strategic restraint, not to abandon their negotiations, while Tehran is telegraphing that the Strait of Hormuz is now Iran's.",
+    "link": "http://www.euronews.com/2026/07/08/gulf-states-brace-again-for-fiery-us-iran-showdown-as-tensions-spiral",
+    "published": "Wed, 08 Jul 2026 13:43:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6951294865909eb4c3e954039915f5ab",
+    "fetched_at": "2026-07-09T07:31:48.677214+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran launches retaliatory strikes on Gulf states as Trump warns US bombing could get 'much worse'",
+    "summary": "Iran's Revolutionary Guards said they had struck US military bases in Bahrain and Kuwait in response to fresh American strikes. They also warned their responses would expand to other bases across the region if US attacks were repeated.",
+    "link": "http://www.euronews.com/2026/07/09/iran-launches-retaliatory-strikes-on-gulf-states-as-trump-warns-us-bombing-could-get-much-",
+    "published": "Thu, 09 Jul 2026 05:26:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d712055f9a8e44f12e0732a409b4d6db",
+    "fetched_at": "2026-07-09T07:31:48.677211+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rio devotees celebrate Zé Pelintra Day with music, dance and prayer",
+    "summary": "Dozens of devotees gather in Rio de Janeiro's Lapa neighbourhood to celebrate Ze Pelintra Day with prayer, music, dancing and candle offerings.",
+    "link": "http://www.euronews.com/video/2026/07/09/rio-devotees-celebrate-ze-pelintra-day-with-music-dance-and-prayer",
+    "published": "Thu, 09 Jul 2026 07:42:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fd4c721d9f097748026bb54106770cdd",
+    "fetched_at": "2026-07-09T07:31:48.677182+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wrestlers train for Mongolia's iconic Naadam festival",
+    "summary": "Mongolian wrestlers train at Basu camp with sparring, fitness and football drills as they prepare for the annual Naadam festival.",
+    "link": "http://www.euronews.com/video/2026/07/09/wrestlers-train-for-mongolias-iconic-naadam-festival",
+    "published": "Thu, 09 Jul 2026 08:15:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ecd81da8392cbd7c48ac6c36d6ddbac2",
+    "fetched_at": "2026-07-09T07:31:47.553193+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. launches new airstrikes on Iran and Tehran fires back at Gulf Arab states",
+    "summary": "The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting Bahrain, Kuwait and Qatar in crossfire that again threatened an interim deal intended to help end the war.",
+    "link": "https://www.npr.org/2026/07/09/g-s1-132670/us-iran-strikes",
+    "published": "Thu, 09 Jul 2026 01:46:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "a0c741321b856dece98c477625c70b26",
+    "fetched_at": "2026-07-09T07:31:46.437613+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump wraps NATO summit on a positive note,  after meeting Zelenskyy",
+    "summary": "President Trump capped a NATO summit in Turkey meeting Ukrainian President Volodymyr Zelenskyy, and saying that the U.S. will give Ukraine a license to make Patriot air defense systems.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy",
+    "published": "Thu, 09 Jul 2026 02:11:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "f9fc12de11be2e10db7046ab77709673",
+    "fetched_at": "2026-07-09T07:31:45.308741+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Egypt complains officials were biased in World Cup loss to Argentina",
+    "summary": "The Egyptian Football Association (EFA) said Wednesday it \"cannot remain silent\" after what it believes was unfair and biased officiating in Egypt's 3-2 round of 16 loss against Argentina on Tuesday.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887063/egypt-complain-world-cup",
+    "published": "Thu, 09 Jul 2026 03:15:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "fbd481a794cd4ae4c422bdf0297371ce",
+    "fetched_at": "2026-07-09T07:31:44.176043+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Library cards and faux copies - US man sentenced in elaborate theft of 17th Century Chinese literature",
+    "summary": "The man checked out rare manuscripts - many centuries old - from a California university and returned fakes in their place.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmdr7k1007o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 02:47:28 GMT",
+    "source": "BBC News",
+    "id": "23f2947f1bd53e4cd07e632535426530",
+    "fetched_at": "2026-07-09T07:31:43.054883+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+    "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+    "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 06:28:08 GMT",
+    "source": "BBC News",
+    "id": "b3a9308c9e77a17582d2541f753dd961",
+    "fetched_at": "2026-07-09T07:31:41.935550+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+    "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 02:18:21 GMT",
+    "source": "BBC News",
+    "id": "f6a29f35e445850d69265394c955ed91",
+    "fetched_at": "2026-07-09T07:31:40.789883+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
     "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
     "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "ab6e220907ba3ff96085b729938a4918",
     "fetched_at": "2026-07-08T15:58:37.650518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eight killed after landslide hits girls' school in Bangladesh",
-    "summary": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 14:02:54 GMT",
-    "source": "BBC News",
-    "id": "f7387c06b6c9ad6404eca01dd47526ff",
-    "fetched_at": "2026-07-08T15:58:37.650517+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'We're gonna hit 'em hard tonight,' Trump says about further air strikes on Iran",
-    "summary": "Trump had said that the ceasefire with Iran is \"over\" after Washington launched strikes on the country overnight, to which Iran responded by targeting US bases in the Gulf.",
-    "link": "http://www.euronews.com/2026/07/08/were-gonna-hit-em-hard-tonight-trump-says-about-further-air-strikes-on-iran",
-    "published": "Wed, 08 Jul 2026 16:09:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b85b3a649ea8d46a26b335d59d5108fe",
-    "fetched_at": "2026-07-08T15:58:37.650514+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands embark on Bosnia peace march to remember Srebrenica victims",
-    "summary": "Over 6,500 people took part in a peace march to remember the victims of the Srebrenica genocide and the survivors who walked for days to save their lives.",
-    "link": "http://www.euronews.com/video/2026/07/08/thousands-embark-on-bosnia-peace-march-to-remember-srebrenica-victims",
-    "published": "Wed, 08 Jul 2026 17:34:59 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ee826ab9d860e7da922277bc2de9c1b8",
-    "fetched_at": "2026-07-08T15:58:37.650511+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
-    "summary": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 18:34:45 GMT",
-    "source": "BBC News",
-    "id": "3f5c451d973fcf89fc1370fdaee203e4",
-    "fetched_at": "2026-07-08T15:58:37.650508+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-    "summary": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 15:09:08 GMT",
-    "source": "BBC News",
-    "id": "5ecf56e8e45cd7d2447a6db047b2d8d8",
-    "fetched_at": "2026-07-08T15:58:37.650505+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German doctor jailed for murder of 15 patients and suspected of more",
-    "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-    "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 14:25:25 GMT",
-    "source": "BBC News",
-    "id": "f511114ca38f4d56b69be8f67f729530",
-    "fetched_at": "2026-07-08T15:58:37.650471+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
-    "summary": "Mike Waltz fired back at the &quot;act of war&quot; claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
-    "link": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
-    "published": "Tue, 07 Jul 2026 16:13:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ce307189d0e239af98f0d456e502c2b0",
-    "fetched_at": "2026-07-08T15:58:36.524342+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "IOC moves to allow more Russian athletes back into the Olympic games",
-    "summary": "The IOC is moving to clear the way for Russian athletes to compete in Olympic events. The decision to ease sanctions comes as Moscow continues missile and drone strikes killing civilians in Ukraine.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884882/ioc-moves-to-allow-more-russian-athletes-back-into-the-olympic-games",
-    "published": "Tue, 07 Jul 2026 16:07:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc34fd4228ee9b1aad3200c4603eb168",
-    "fetched_at": "2026-07-08T15:58:35.396344+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's at stake at the NATO summit in Turkey",
-    "summary": "NATO leaders hope President Trump's criticism of the alliance is aimed at getting Europe to spend more on defense. But some analysts fear Trump may have an ulterior motive.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5883812/whats-at-stake-at-the-nato-summit-in-turkey",
-    "published": "Tue, 07 Jul 2026 16:58:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "71a203f34e4cd9eaa79a36d05b9490b0",
-    "fetched_at": "2026-07-08T15:58:34.258372+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happened in the opening day of the NATO summit in Ankara, Turkey",
-    "summary": "NATO arrived in Ankara with a message of unity, but President Trump's renewed attacks on European allies have once again laid bare the tensions challenging the alliance's future.",
-    "link": "https://www.npr.org/2026/07/07/nx-s1-5884718/what-happened-in-the-opening-day-of-the-nato-summit-in-ankara-turkey",
-    "published": "Tue, 07 Jul 2026 18:45:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea1ef42794ee8ec581eb94a017d91682",
-    "fetched_at": "2026-07-08T15:58:33.125136+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from a Syrian church, infused with a mix of sweet fruit and diverse faiths",
-    "summary": "Syria's Mar Musa monastery provides the tastiest mulberries, and its services draw from Eastern Orthodox Christian and Sufi customs.",
-    "link": "https://www.npr.org/2026/07/08/nx-s1-5884694/syria-church-interfaith-fruit",
-    "published": "Wed, 08 Jul 2026 11:05:34 -0400",
-    "source": "NPR Topics: World",
-    "id": "c59afdffc13ba5616667bf2576d5a074",
-    "fetched_at": "2026-07-08T15:58:31.916242+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-    "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
-    "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 12:28:03 GMT",
-    "source": "BBC News",
-    "id": "97fc56776747b7bbe8ef8994d1cae79b",
-    "fetched_at": "2026-07-08T15:58:30.781515+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-    "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 15:30:00 GMT",
-    "source": "BBC News",
-    "id": "5b039a51a28f3efc37ae8796272c2a0e",
-    "fetched_at": "2026-07-08T15:58:29.635032+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-    "summary": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
-    "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 13:05:14 GMT",
-    "source": "BBC News",
-    "id": "7c10da8c9cb291b4bcf49b18026533ab",
-    "fetched_at": "2026-07-08T13:46:52.776572+00:00"
   }
 ]
