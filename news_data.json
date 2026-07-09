@@ -1,6 +1,36 @@
 [
   {
     "region": "Europe",
+    "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+    "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 20:40:11 GMT",
+    "source": "BBC News",
+    "id": "c7c3e9bafbb02836dc3560f1908509a5",
+    "fetched_at": "2026-07-09T02:12:24.319481+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+    "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 07 Jul 2026 19:55:59 GMT",
+    "source": "BBC News",
+    "id": "59d825c12ba93e3607df7194729daf41",
+    "fetched_at": "2026-07-09T02:12:23.176736+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba plunges into third major blackout this year as power crisis worsens",
+    "summary": "Cuba suffered another islandwide blackout Monday as its struggling power grid collapsed, leaving millions without electricity while officials worked to restore service.",
+    "link": "https://www.foxnews.com/world/cuba-plunges-third-major-blackout-year-power-crisis-worsens",
+    "published": "Mon, 06 Jul 2026 19:42:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fc5718e72e11b8a0362ae006573efe80",
+    "fetched_at": "2026-07-09T02:12:22.046166+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Erdogan gives world leaders a ceremonial welcome ahead of NATO summit",
     "summary": "NATO leaders including Trump and Zelenskyy arrive in Ankara for a state dinner hosted by Erdogan ahead of key summit talks in Turkey.",
     "link": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit",
@@ -568,35 +598,5 @@
     "source": "BBC News",
     "id": "7c10da8c9cb291b4bcf49b18026533ab",
     "fetched_at": "2026-07-08T13:46:52.776572+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Third tanker hit in Strait of Hormuz in 24 hours, maritime agency says",
-    "summary": "The UKMTO maritime agency is investigating the incidents and advised vessels in the area to proceed with caution.",
-    "link": "http://www.euronews.com/2026/07/07/third-tanker-hit-in-strait-of-hormuz-in-24-hours-maritime-agency-says",
-    "published": "Tue, 07 Jul 2026 17:01:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f10353b8374897d096de7b194115edc5",
-    "fetched_at": "2026-07-08T13:46:52.776569+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tibetan activists detained outside Chinese Embassy in New Delhi",
-    "summary": "Tibetan Youth Congress activists are detained by police during a 'Free Tibet' protest outside the Chinese Embassy in New Delhi on 7 July 2026.",
-    "link": "http://www.euronews.com/video/2026/07/07/tibetan-activists-detained-outside-chinese-embassy-in-new-delhi",
-    "published": "Tue, 07 Jul 2026 19:57:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7bcce0d3a03a38624031a6b71480dd44",
-    "fetched_at": "2026-07-08T13:46:52.776566+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gulf states brace again for fiery US-Iran showdown as tensions spiral",
-    "summary": "From the front lines of the US-Iran confrontation, the Gulf nations have again urged both sides, with strategic restraint, not to abandon their negotiations, while Tehran is telegraphing that the Strait of Hormuz is now Iran's.",
-    "link": "http://www.euronews.com/2026/07/08/gulf-states-brace-again-for-fiery-us-iran-showdown-as-tensions-spiral",
-    "published": "Wed, 08 Jul 2026 13:43:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6951294865909eb4c3e954039915f5ab",
-    "fetched_at": "2026-07-08T13:46:52.776561+00:00"
   }
 ]
