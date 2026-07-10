@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+    "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
+    "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 16:15:10 GMT",
+    "source": "BBC News",
+    "id": "a36a27bc8c3476a21ba6072ce6100aea",
+    "fetched_at": "2026-07-10T14:05:34.935048+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+    "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+    "source": "BBC News",
+    "id": "f6a29f35e445850d69265394c955ed91",
+    "fetched_at": "2026-07-10T14:05:34.935045+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+    "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+    "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 13:53:11 GMT",
+    "source": "BBC News",
+    "id": "65c5c97f082c609e034ff4b0beb57a75",
+    "fetched_at": "2026-07-10T14:05:34.935041+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain: Nine injured in fourth San Fermín bull run in Pamplona",
+    "summary": "The fourth San Fermin bull run was once again a fast and dangerous dash along the cobbled streets of Pamplona.",
+    "link": "http://www.euronews.com/video/2026/07/10/spain-nine-injured-in-fourth-san-fermin-bull-run-in-pamplona",
+    "published": "Fri, 10 Jul 2026 15:02:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "07fd6cdf1ddf186b322ec8c62f1d6f1a",
+    "fetched_at": "2026-07-10T14:05:34.935014+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norwegian football jerseys sold out ahead of Three Lions showdown",
+    "summary": "Norway's performance has created huge demand for the football jerseys, but this hasn't been met by suppliers.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqzyggzypo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 18:57:33 GMT",
+    "source": "BBC News",
+    "id": "33f4ffd78125a83676e1813ebffe385b",
+    "fetched_at": "2026-07-10T14:05:33.801473+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+    "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 12:31:08 GMT",
+    "source": "BBC News",
+    "id": "0983b925d0745b010203fcc24624249c",
+    "fetched_at": "2026-07-10T14:05:32.617716+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
+    "summary": "Marine Le Pen&apos;s embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
+    "link": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
+    "published": "Tue, 07 Jul 2026 13:43:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d2d0164ed97d108414bb4e9fb1bd8b63",
+    "fetched_at": "2026-07-10T14:05:31.501385+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US urges donors to abandon UNRWA funding as UN defends agency's mission",
+    "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a &quot;subsidiary of Hamas&quot; and urged donors to fund the Board of Peace instead at the conference.",
+    "link": "https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace",
+    "published": "Wed, 08 Jul 2026 06:00:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94a0c61f00c3ddc87da53c460073d69b",
+    "fetched_at": "2026-07-10T14:05:30.369200+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of Spain's deadliest wildfires kills at least 12 people, with 23 others missing",
+    "summary": "Several victims of the fire in the southern province of Almeria, a popular holiday destination, were found inside burnt-out vehicles and were thought to have died while trying to flee the flames.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
+    "published": "Fri, 10 Jul 2026 04:53:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "8c215426ad4692961e28025cd4eab1fe",
+    "fetched_at": "2026-07-10T14:05:29.239866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+    "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+    "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+    "published": "Fri, 10 Jul 2026 07:43:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "331d51fe0dbda6501dc29481ca3f781b",
+    "fetched_at": "2026-07-10T14:05:28.084464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+    "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 12:51:46 GMT",
+    "source": "BBC News",
+    "id": "ca49ceedb4abad26c8a208c3cbe51468",
+    "fetched_at": "2026-07-10T14:05:26.947028+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "China lands reusable rocket for first time, state media says",
     "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
     "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "fbd481a794cd4ae4c422bdf0297371ce",
     "fetched_at": "2026-07-09T21:15:49.569634+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-    "summary": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-    "published": "Thu, 09 Jul 2026 16:01:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "08a160ba6aa8ef62a0e46998294776cc",
-    "fetched_at": "2026-07-09T21:15:48.403622+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-    "summary": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
-    "published": "Thu, 09 Jul 2026 16:02:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "3f16988604977a51373e0b6c8588e458",
-    "fetched_at": "2026-07-09T21:15:47.249335+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "9 months into ceasefire, areas of Gaza are threatened by Israel's expanding control",
-    "summary": "The ceasefire left Gaza split in half: Israel's military occupied the east, and 2 million Palestinians squeezed into the remaining areas. But Israeli forces have been pushing deeper into Gaza.",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5853026/9-months-into-ceasefire-areas-of-gaza-are-threatened-by-israels-expanding-control",
-    "published": "Thu, 09 Jul 2026 17:00:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "a27d67b59bc5af1bcea277d8b02e5b96",
-    "fetched_at": "2026-07-09T21:15:46.100355+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Roommate says Charlie Kirk murder suspect confessed to killing",
-    "summary": "Recordings of a police interview with Tyler Robinson's roommate were played in court during a preliminary hearing.",
-    "link": "https://www.bbc.co.uk/news/videos/cx2kz07k988o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 18:37:14 GMT",
-    "source": "BBC News",
-    "id": "3283d4b89dbd0da975f7666ba9bf6fb4",
-    "fetched_at": "2026-07-09T21:15:44.912022+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Accused Charlie Kirk shooter confessed, roommate says in video  played in court",
-    "summary": "The prosecution played an investigative interview with roommate Lance Twiggs and revealed text messages between the two.",
-    "link": "https://www.bbc.co.uk/news/articles/c621v466y91o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 21:01:35 GMT",
-    "source": "BBC News",
-    "id": "c4475685ed1c5ebcd7df0ce2647f25d5",
-    "fetched_at": "2026-07-09T21:15:43.737448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-    "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-    "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 20:40:11 GMT",
-    "source": "BBC News",
-    "id": "c7c3e9bafbb02836dc3560f1908509a5",
-    "fetched_at": "2026-07-09T19:26:30.571331+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Florida's Palm Beach airport renamed President Donald J. Trump International",
-    "summary": "Since returning to the White House, Trump has taken repeated measures to put his name and image in official spaces, an abrupt break with American political tradition.",
-    "link": "http://www.euronews.com/2026/07/09/south-floridas-palm-beach-airport-renamed-president-donald-j-trump-international",
-    "published": "Thu, 09 Jul 2026 21:05:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "435e64e4c821d95c96b56884fe325726",
-    "fetched_at": "2026-07-09T19:26:30.571327+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-    "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 05:05:31 GMT",
-    "source": "BBC News",
-    "id": "9557b6c7cb7ad2abb700bfe0911f26fa",
-    "fetched_at": "2026-07-09T19:26:30.571324+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-    "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 19:55:59 GMT",
-    "source": "BBC News",
-    "id": "59d825c12ba93e3607df7194729daf41",
-    "fetched_at": "2026-07-09T19:26:30.571287+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nato chief tells BBC that Trump comments are like 'family argument'",
-    "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-    "link": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 20:58:10 GMT",
-    "source": "BBC News",
-    "id": "af397f321f4b24f794658142c5210e79",
-    "fetched_at": "2026-07-09T19:26:29.431401+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hamas says it will dissolve Gaza government, but Israel warns group still seeks Hezbollah-style control",
-    "summary": "Critics say Hamas&apos; dissolution of its Gaza governing body is a performative step to preserve armed control while surrendering only civilian burdens.",
-    "link": "https://www.foxnews.com/world/hamas-says-dissolve-gaza-government-israel-warns-group-still-seeks-hezbollah-style-control",
-    "published": "Tue, 07 Jul 2026 12:38:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "61703070e75c23a8720016f40d1a082a",
-    "fetched_at": "2026-07-09T19:26:28.253707+00:00"
   }
 ]
