@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "China lands reusable rocket for first time, state media says",
+    "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 06:44:21 GMT",
+    "source": "BBC News",
+    "id": "eb87e41fd9754dad34f9419a9f191e00",
+    "fetched_at": "2026-07-10T10:46:28.157594+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain wildfire near Almeria kills 11 and sparks major evacuations",
+    "summary": "Spain is battling a deadly wildfire in Los Gallardos, near Almeria, where at least 11 people had died by 10 July after flames swept through a semi-arid area near the Sierra de los Filabres.",
+    "link": "http://www.euronews.com/video/2026/07/10/spain-wildfire-near-almeria-kills-11-and-sparks-major-evacuations",
+    "published": "Fri, 10 Jul 2026 10:52:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a83c85efa1fc7b7a0360e299cb2c7961",
+    "fetched_at": "2026-07-10T10:46:28.157592+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 10th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/10/latest-news-bulletin-july-10th-2026-midday",
+    "published": "Fri, 10 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fd764110f474aead391f1f79ce6b0081",
+    "fetched_at": "2026-07-10T10:46:28.157590+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+    "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 15:21:17 GMT",
+    "source": "BBC News",
+    "id": "38b5c157638578619bf767eb6bf00e7b",
+    "fetched_at": "2026-07-10T10:46:28.157588+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+    "summary": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
+    "link": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
+    "published": "Wed, 08 Jul 2026 14:27:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7cec60f098c6267dfe133254dd51ef70",
+    "fetched_at": "2026-07-10T10:46:28.157586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Critics say Turkey's verbal attacks on Israel have crossed into antisemitism",
+    "summary": "Turkish FM Hakan Fidan reportedly called Israel a burden humanity can no longer bear, drawing accusations of genocidal rhetoric as Turkey hosts a NATO summit in Ankara.",
+    "link": "https://www.foxnews.com/world/critics-say-turkeys-verbal-attacks-israel-have-crossed-antisemitism",
+    "published": "Wed, 08 Jul 2026 14:43:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3ccb1aa5a91f42f136eee4bd13ccadd4",
+    "fetched_at": "2026-07-10T10:46:28.157583+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
+    "summary": "Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025.",
+    "link": "https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action",
+    "published": "Thu, 09 Jul 2026 11:28:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7c9ad1f91db3c0ae120bca366464b00b",
+    "fetched_at": "2026-07-10T10:46:28.157579+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone",
+    "summary": "A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argentina.",
+    "link": "https://www.foxnews.com/world/argentinian-flight-instructor-jumps-death-from-plane-22-year-old-student-forced-land-alone",
+    "published": "Thu, 09 Jul 2026 12:29:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c2408a7dee6f4192fe9942b07f76e4e3",
+    "fetched_at": "2026-07-10T10:46:28.157553+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of Spain's deadliest wildfires has killed at least 11 people",
+    "summary": "A wildfire in southern Spain has killed at least 11 people, making it one of the country's deadliest on record, as soaring temperatures grip much of the country.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people",
+    "published": "Fri, 10 Jul 2026 04:53:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "0e8715a1f727cbd5941b3b7816c221be",
+    "fetched_at": "2026-07-10T10:46:27.034902+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+    "summary": "Meet Count Binface: the challenger from another planet taking on Nigel Farage as questions over the Reform UK leader's finances overshadow his election comeback.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
+    "published": "Fri, 10 Jul 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "d11f3794e59b8df837ca1f33e94e6583",
+    "fetched_at": "2026-07-10T10:46:25.916781+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
+    "summary": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+    "published": "Fri, 10 Jul 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "24e7d8e94e6cd0bfc6d2ebd7420148d6",
+    "fetched_at": "2026-07-10T10:46:24.791355+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Large protest in Houston after man fatally shot by ICE",
+    "summary": "Protesters echoed mounting demands for an independent inquiry into the shooting of Lorenzo Salgado Araujo, 52, a Mexican national.",
+    "link": "https://www.bbc.co.uk/news/videos/cj3gdzxrry3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 15:02:24 GMT",
+    "source": "BBC News",
+    "id": "215862652a138d80151a0a3da3f874b5",
+    "fetched_at": "2026-07-10T10:46:23.666713+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Justin Baldoni describes painful saga as he breaks silence on Blake Lively dispute",
+    "summary": "Justin Baldoni and his wife spoke for the first time in nearly two years about his contentious legal battle with Blake Lively.",
+    "link": "https://www.bbc.co.uk/news/articles/c0my34g9edpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 16:28:20 GMT",
+    "source": "BBC News",
+    "id": "988f9cfbd62598dc46c9755b6f4c7cea",
+    "fetched_at": "2026-07-10T10:46:22.567539+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Artist sells garbage collected outside Taylor Swift's wedding",
+    "summary": "The cubes of trash artist Justin Gignac called \"Pocket Garbage\" were priced at $25 (£18) and $100 (£74), and sold out online.",
+    "link": "https://www.bbc.co.uk/news/videos/c9d2w62ngd9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 16:01:19 GMT",
+    "source": "BBC News",
+    "id": "8dea27b4a7bf6991132e709ac2093790",
+    "fetched_at": "2026-07-10T10:46:21.449156+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+    "summary": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool.",
+    "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 17:01:15 GMT",
+    "source": "BBC News",
+    "id": "51cd6099048e11e5531d4ae815e01fda",
+    "fetched_at": "2026-07-10T10:46:20.322316+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
     "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
     "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "61703070e75c23a8720016f40d1a082a",
     "fetched_at": "2026-07-09T19:26:28.253707+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French court clears path for conservative presidential candidate, but house arrest threatens campaign",
-    "summary": "Marine Le Pen&apos;s embezzlement ban was shortened to allow a 2027 presidential run, but she must wear an ankle monitor that could complicate campaigning.",
-    "link": "https://www.foxnews.com/world/french-court-clears-path-conservative-presidential-candidate-house-arrest-threatens-campaign",
-    "published": "Tue, 07 Jul 2026 13:43:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d2d0164ed97d108414bb4e9fb1bd8b63",
-    "fetched_at": "2026-07-09T19:26:27.127047+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US urges donors to abandon UNRWA funding as UN defends agency's mission",
-    "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a &quot;subsidiary of Hamas&quot; and urged donors to fund the Board of Peace instead at the conference.",
-    "link": "https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace",
-    "published": "Wed, 08 Jul 2026 06:00:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94a0c61f00c3ddc87da53c460073d69b",
-    "fetched_at": "2026-07-09T19:26:25.999418+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-    "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-    "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 14:37:19 GMT",
-    "source": "BBC News",
-    "id": "f6a29f35e445850d69265394c955ed91",
-    "fetched_at": "2026-07-09T19:26:24.867585+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-    "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
-    "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 06:28:08 GMT",
-    "source": "BBC News",
-    "id": "b3a9308c9e77a17582d2541f753dd961",
-    "fetched_at": "2026-07-09T19:26:23.734832+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tehran launches more strikes after explosions reported in southern Iran",
-    "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 13:29:56 GMT",
-    "source": "BBC News",
-    "id": "fdcbbff025ae5a290a4f0f72f8180118",
-    "fetched_at": "2026-07-09T19:26:22.542400+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nato allies announce £37bn for new missile project",
-    "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 05:57:53 GMT",
-    "source": "BBC News",
-    "id": "39100aea0e2d133f397196325b864212",
-    "fetched_at": "2026-07-09T17:49:57.690281+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-    "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
-    "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 16:15:10 GMT",
-    "source": "BBC News",
-    "id": "a36a27bc8c3476a21ba6072ce6100aea",
-    "fetched_at": "2026-07-09T17:49:57.690280+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-    "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-    "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 14:41:54 GMT",
-    "source": "BBC News",
-    "id": "8cca221c4f9ac831bf54507d53a39b48",
-    "fetched_at": "2026-07-09T17:49:57.690278+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 28 dead in fire at shoe factory in eastern China, state media reports",
-    "summary": "Footage shared by state television CCTV showed firefighters dousing the facade and interior of a large, multi-story white building with fire hoses, as thick black smoke poured out.",
-    "link": "http://www.euronews.com/2026/07/09/at-least-28-dead-in-fire-at-shoe-factory-in-eastern-china-state-media-reports",
-    "published": "Thu, 09 Jul 2026 16:39:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6173f92c488a2433273276b12359e674",
-    "fetched_at": "2026-07-09T17:49:57.690276+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mosque replica and anti-immigration signs appear on Northern Ireland bonfire",
-    "summary": "A loyalist bonfire in Moygashel, Northern Ireland displays a mosque replica and anti-immigration signs ahead of Orange Order celebrations.",
-    "link": "http://www.euronews.com/video/2026/07/09/mosque-replica-and-anti-immigration-signs-appear-on-northern-ireland-bonfire",
-    "published": "Thu, 09 Jul 2026 17:21:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1fd73c2c39461c1174c3f7b10d65d8fe",
-    "fetched_at": "2026-07-09T17:49:57.690274+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Newly released footage shows revolver gifted by Erdogan to NATO leaders",
-    "summary": "Images shared by the Lithuanian Presidency show a revolver given by Turkey's Erdogan to every NATO leader as a parting gift after the summit in Ankara. Each leader received a box containing a revolver engraved with their name, six bullets and a note exempting the weapons from export control.",
-    "link": "http://www.euronews.com/my-europe/2026/07/09/newly-released-footage-shows-revolver-gifted-by-erdogan-to-nato-leaders",
-    "published": "Thu, 09 Jul 2026 17:47:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0e890643d59a2ed9b1f5b49b05e7f396",
-    "fetched_at": "2026-07-09T17:49:57.690272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 9th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/09/latest-news-bulletin-july-9th-2026-evening",
-    "published": "Thu, 09 Jul 2026 18:00:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2977fb57646bc88a31f2aa1170ab8cbd",
-    "fetched_at": "2026-07-09T17:49:57.690270+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Santas fill Danish streets for annual congress",
-    "summary": "Dozens of Santas and Mrs. Clauses gather in Aalborg, Denmark, for the World Santa Claus Congress, with parades, family activities and summer festivities.",
-    "link": "http://www.euronews.com/video/2026/07/09/santas-fill-danish-streets-for-annual-congress",
-    "published": "Thu, 09 Jul 2026 18:56:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21412fa8a7ce523360c6a1e4ec984d28",
-    "fetched_at": "2026-07-09T17:49:57.690268+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "OPCW reinstates Syria’s voting rights, citing 'significant change in circumstances'",
-    "summary": "In 2013, Syria agreed to join the OPCW and disclose and hand over its toxic stockpile under Russian and US pressure and to avert the threat of air strikes by Washington and its allies.",
-    "link": "http://www.euronews.com/2026/07/09/opcw-reinstates-syrias-voting-rights-citing-significant-change-in-circumstances",
-    "published": "Thu, 09 Jul 2026 19:41:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b41a9c01693718a7ae07bf4fcaecb2c5",
-    "fetched_at": "2026-07-09T17:49:57.690266+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norwegian football jerseys sold out ahead of Three Lions showdown",
-    "summary": "Norway's performance has created huge demand for the football jerseys, but this hasn't been met by suppliers.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqzyggzypo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 14:34:36 GMT",
-    "source": "BBC News",
-    "id": "33f4ffd78125a83676e1813ebffe385b",
-    "fetched_at": "2026-07-09T17:49:57.690263+00:00"
   }
 ]
