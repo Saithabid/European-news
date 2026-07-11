@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Iran supreme leader calls for revenge for father's killing",
+    "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 19:30:36 GMT",
+    "source": "BBC News",
+    "id": "34a40f33ff0f3f176b6606e215779e14",
+    "fetched_at": "2026-07-11T20:40:22.117818+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain fans celebrate World Cup semi-final place after Belgium win",
+    "summary": "Spain celebrated a dramatic 2-1 victory over Belgium on 10 July as fans filled Madrid to cheer La Roja into the FIFA World Cup semi-finals.",
+    "link": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win",
+    "published": "Sat, 11 Jul 2026 08:55:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6a55ff1cf30c433728057390176e6b94",
+    "fetched_at": "2026-07-11T20:40:22.117801+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 16:42:24 GMT",
+    "source": "BBC News",
+    "id": "0983b925d0745b010203fcc24624249c",
+    "fetched_at": "2026-07-11T20:40:20.995209+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+    "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 19:32:07 GMT",
+    "source": "BBC News",
+    "id": "2ea87ab9a50f6cf384d75dbf0a4228ef",
+    "fetched_at": "2026-07-11T20:40:19.877911+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US urges donors to abandon UNRWA funding as UN defends agency's mission",
+    "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a &quot;subsidiary of Hamas&quot; and urged donors to fund the Board of Peace instead at the conference.",
+    "link": "https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace",
+    "published": "Wed, 08 Jul 2026 06:00:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94a0c61f00c3ddc87da53c460073d69b",
+    "fetched_at": "2026-07-11T20:40:18.746934+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
+    "summary": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
+    "published": "Thu, 09 Jul 2026 16:02:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "3f16988604977a51373e0b6c8588e458",
+    "fetched_at": "2026-07-11T20:40:17.629021+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of Spain's deadliest wildfires kills at least 12 people, with 23 others missing",
+    "summary": "Several victims of the fire in the southern province of Almeria, a popular holiday destination, were found inside burnt-out vehicles and were thought to have died while trying to flee the flames.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
+    "published": "Fri, 10 Jul 2026 04:53:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "8c215426ad4692961e28025cd4eab1fe",
+    "fetched_at": "2026-07-11T20:40:16.513189+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+    "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+    "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+    "published": "Fri, 10 Jul 2026 07:43:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "331d51fe0dbda6501dc29481ca3f781b",
+    "fetched_at": "2026-07-11T20:40:15.391052+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+    "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+    "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+    "published": "Sat, 11 Jul 2026 02:34:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "3e206d2a53e0d9bd7d3ba2f696c032bf",
+    "fetched_at": "2026-07-11T20:40:14.265766+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
     "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
     "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "f6ca4ffdc564e8eb92a9694952794dd8",
     "fetched_at": "2026-07-11T10:57:42.512067+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
-    "summary": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
-    "link": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
-    "published": "Fri, 10 Jul 2026 14:59:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a2ac81cf60e7e0744b3049edc8db398a",
-    "fetched_at": "2026-07-11T10:57:41.246186+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-    "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
-    "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 23:02:35 GMT",
-    "source": "BBC News",
-    "id": "e34aaebe85d075037ebeab9fe481607d",
-    "fetched_at": "2026-07-11T09:20:16.849228+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Was Erdoğan's gun gift a faux pas or an old-school diplomatic tradition?",
-    "summary": "When NATO leaders opened their gift boxes from the Turkish president and found a .357 Magnum revolver, some panicked and others laughed. But gifting heads of state lavish, personalised firearms is a tradition as old as Samuel Colt — and as recent as a Czech pistol presented to Trump in 2019.",
-    "link": "http://www.euronews.com/2026/07/10/was-erdogans-gun-gift-a-faux-pas-or-an-old-school-diplomatic-tradition",
-    "published": "Fri, 10 Jul 2026 17:26:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c3d7800fff4a33063695f9a3a354e4d6",
-    "fetched_at": "2026-07-11T09:20:15.702228+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 10th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/10/latest-news-bulletin-july-10th-2026-evening",
-    "published": "Fri, 10 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d0c80cdf81ac0995d101e8fc691cacef",
-    "fetched_at": "2026-07-11T09:20:14.559482+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China achieves first-ever controlled rocket booster recovery",
-    "summary": "China successfully recaptured the first stage of a rocket after a launch on Friday in a breakthrough for the country's space program, state media said.\nThe first stage of a Long March-10B rocket separated from the second stage after liftoff and returned to a platform in the sea.",
-    "link": "http://www.euronews.com/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery",
-    "published": "Fri, 10 Jul 2026 18:02:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "919b914f48e10d4e3e74982481013894",
-    "fetched_at": "2026-07-11T09:20:13.414359+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
-    "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
-    "link": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
-    "published": "Sat, 11 Jul 2026 10:44:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "618bbc12420a2b674edb5e2a09c2b3a2",
-    "fetched_at": "2026-07-11T09:20:12.257676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-    "summary": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
-    "link": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 15:50:49 GMT",
-    "source": "BBC News",
-    "id": "f8690793947be7ab3cd04371f80e7d6d",
-    "fetched_at": "2026-07-11T09:20:11.119800+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-    "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-    "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 13:53:11 GMT",
-    "source": "BBC News",
-    "id": "65c5c97f082c609e034ff4b0beb57a75",
-    "fetched_at": "2026-07-11T07:43:45.036987+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain: Nine injured in fourth San Fermín bull run in Pamplona",
-    "summary": "The fourth San Fermin bull run was once again a fast and dangerous dash along the cobbled streets of Pamplona.",
-    "link": "http://www.euronews.com/video/2026/07/10/spain-nine-injured-in-fourth-san-fermin-bull-run-in-pamplona",
-    "published": "Fri, 10 Jul 2026 15:02:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "07fd6cdf1ddf186b322ec8c62f1d6f1a",
-    "fetched_at": "2026-07-11T07:43:45.036984+00:00"
   }
 ]
