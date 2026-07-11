@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+    "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 18:00:09 GMT",
+    "source": "BBC News",
+    "id": "4136d57febe37dea481328cc67ecd48b",
+    "fetched_at": "2026-07-11T18:50:21.287876+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Japanese school teaches children how to stay safe around wild bears",
+    "summary": "Children at a primary school in central Japan are taking part in a bear awareness programme, learning how to safely coexist with wild bears as sightings remain common in the area.",
+    "link": "http://www.euronews.com/2026/07/11/japanese-school-teaches-children-how-to-stay-safe-around-wild-bears",
+    "published": "Sat, 11 Jul 2026 06:20:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "06bd18fadc262e60b70c6d40c23417e0",
+    "fetched_at": "2026-07-11T18:50:20.163432+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 11th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-morning",
+    "published": "Sat, 11 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f7a7289456f74a1d596ea31358d8ab8d",
+    "fetched_at": "2026-07-11T18:50:18.921256+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+    "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+    "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 15:21:17 GMT",
+    "source": "BBC News",
+    "id": "38b5c157638578619bf767eb6bf00e7b",
+    "fetched_at": "2026-07-11T18:50:17.787853+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
+    "summary": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 18:12:21 GMT",
+    "source": "BBC News",
+    "id": "46227a9b37a227e69a6f08f80b7f7aa6",
+    "fetched_at": "2026-07-11T18:50:16.650960+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+    "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+    "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 15:03:45 GMT",
+    "source": "BBC News",
+    "id": "fb1a6225d7da81150e5da668cae5654c",
+    "fetched_at": "2026-07-11T18:50:15.525796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+    "summary": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.",
+    "link": "https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us",
+    "published": "Wed, 08 Jul 2026 14:27:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7cec60f098c6267dfe133254dd51ef70",
+    "fetched_at": "2026-07-11T18:50:14.409766+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Critics say Turkey's verbal attacks on Israel have crossed into antisemitism",
+    "summary": "Turkish FM Hakan Fidan reportedly called Israel a burden humanity can no longer bear, drawing accusations of genocidal rhetoric as Turkey hosts a NATO summit in Ankara.",
+    "link": "https://www.foxnews.com/world/critics-say-turkeys-verbal-attacks-israel-have-crossed-antisemitism",
+    "published": "Wed, 08 Jul 2026 14:43:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3ccb1aa5a91f42f136eee4bd13ccadd4",
+    "fetched_at": "2026-07-11T18:50:13.284693+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
     "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
     "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "07fd6cdf1ddf186b322ec8c62f1d6f1a",
     "fetched_at": "2026-07-11T07:43:45.036984+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain fans celebrate World Cup semi-final place after Belgium win",
-    "summary": "Spain celebrated a dramatic 2-1 victory over Belgium on 10 July as fans filled Madrid to cheer La Roja into the FIFA World Cup semi-finals.",
-    "link": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win",
-    "published": "Sat, 11 Jul 2026 08:55:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6a55ff1cf30c433728057390176e6b94",
-    "fetched_at": "2026-07-11T07:43:45.036956+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 16:42:24 GMT",
-    "source": "BBC News",
-    "id": "0983b925d0745b010203fcc24624249c",
-    "fetched_at": "2026-07-11T07:43:43.922955+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US urges donors to abandon UNRWA funding as UN defends agency's mission",
-    "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a &quot;subsidiary of Hamas&quot; and urged donors to fund the Board of Peace instead at the conference.",
-    "link": "https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace",
-    "published": "Wed, 08 Jul 2026 06:00:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94a0c61f00c3ddc87da53c460073d69b",
-    "fetched_at": "2026-07-11T07:43:42.808826+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-    "summary": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-    "published": "Thu, 09 Jul 2026 16:01:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "08a160ba6aa8ef62a0e46998294776cc",
-    "fetched_at": "2026-07-11T07:43:41.689240+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
-    "summary": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
-    "published": "Thu, 09 Jul 2026 16:02:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "3f16988604977a51373e0b6c8588e458",
-    "fetched_at": "2026-07-11T07:43:40.575214+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "One of Spain's deadliest wildfires kills at least 12 people, with 23 others missing",
-    "summary": "Several victims of the fire in the southern province of Almeria, a popular holiday destination, were found inside burnt-out vehicles and were thought to have died while trying to flee the flames.",
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
-    "published": "Fri, 10 Jul 2026 04:53:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "8c215426ad4692961e28025cd4eab1fe",
-    "fetched_at": "2026-07-11T07:43:39.458470+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-    "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
-    "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-    "published": "Fri, 10 Jul 2026 07:43:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "331d51fe0dbda6501dc29481ca3f781b",
-    "fetched_at": "2026-07-11T07:43:38.349217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-    "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-    "published": "Sat, 11 Jul 2026 02:34:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "3e206d2a53e0d9bd7d3ba2f696c032bf",
-    "fetched_at": "2026-07-11T07:43:37.236786+00:00"
   }
 ]
