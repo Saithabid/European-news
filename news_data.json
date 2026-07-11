@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+    "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+    "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 23:02:35 GMT",
+    "source": "BBC News",
+    "id": "e34aaebe85d075037ebeab9fe481607d",
+    "fetched_at": "2026-07-11T09:20:16.849228+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Was Erdoğan's gun gift a faux pas or an old-school diplomatic tradition?",
+    "summary": "When NATO leaders opened their gift boxes from the Turkish president and found a .357 Magnum revolver, some panicked and others laughed. But gifting heads of state lavish, personalised firearms is a tradition as old as Samuel Colt — and as recent as a Czech pistol presented to Trump in 2019.",
+    "link": "http://www.euronews.com/2026/07/10/was-erdogans-gun-gift-a-faux-pas-or-an-old-school-diplomatic-tradition",
+    "published": "Fri, 10 Jul 2026 17:26:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c3d7800fff4a33063695f9a3a354e4d6",
+    "fetched_at": "2026-07-11T09:20:15.702228+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 10th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/10/latest-news-bulletin-july-10th-2026-evening",
+    "published": "Fri, 10 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d0c80cdf81ac0995d101e8fc691cacef",
+    "fetched_at": "2026-07-11T09:20:14.559482+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "China achieves first-ever controlled rocket booster recovery",
+    "summary": "China successfully recaptured the first stage of a rocket after a launch on Friday in a breakthrough for the country's space program, state media said.\nThe first stage of a Long March-10B rocket separated from the second stage after liftoff and returned to a platform in the sea.",
+    "link": "http://www.euronews.com/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery",
+    "published": "Fri, 10 Jul 2026 18:02:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "919b914f48e10d4e3e74982481013894",
+    "fetched_at": "2026-07-11T09:20:13.414359+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
+    "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
+    "link": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
+    "published": "Sat, 11 Jul 2026 10:44:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "618bbc12420a2b674edb5e2a09c2b3a2",
+    "fetched_at": "2026-07-11T09:20:12.257676+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
+    "summary": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
+    "link": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 15:50:49 GMT",
+    "source": "BBC News",
+    "id": "f8690793947be7ab3cd04371f80e7d6d",
+    "fetched_at": "2026-07-11T09:20:11.119800+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
     "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
     "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "BBC News",
     "id": "a96fb44d1c564428e62814b9c4a1bca0",
     "fetched_at": "2026-07-10T19:18:50.476479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Superb Sinner ends Djokovic's latest bid for history",
-    "summary": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 18:36:13 GMT",
-    "source": "BBC News",
-    "id": "2279921522c5e6f8af4cdf69b68e4389",
-    "fetched_at": "2026-07-10T19:18:50.476450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-    "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
-    "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 20:47:41 GMT",
-    "source": "BBC News",
-    "id": "62dc30424ece610c8378b75b8ac12fc1",
-    "fetched_at": "2026-07-10T19:18:49.362164+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-    "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 12:02:40 GMT",
-    "source": "BBC News",
-    "id": "64a6478c00f6ca0cd4ff9e56fe5b9ca4",
-    "fetched_at": "2026-07-10T19:18:48.273293+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
-    "summary": "Mike Waltz fired back at the &quot;act of war&quot; claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
-    "link": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
-    "published": "Tue, 07 Jul 2026 16:13:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ce307189d0e239af98f0d456e502c2b0",
-    "fetched_at": "2026-07-10T19:18:47.149104+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone offensive hits Russian oil tankers and refineries at 'industrial scale' as Moscow bans diesel exports",
-    "summary": "Volodymyr Zelenskyy met Trump at NATO to discuss Patriot air defense as Ukraine struck 21 vessels and hit the Omsk refinery deep in Siberia.",
-    "link": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports",
-    "published": "Thu, 09 Jul 2026 05:48:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f6ca4ffdc564e8eb92a9694952794dd8",
-    "fetched_at": "2026-07-10T19:18:46.029084+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
-    "summary": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
-    "link": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
-    "published": "Fri, 10 Jul 2026 14:59:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a2ac81cf60e7e0744b3049edc8db398a",
-    "fetched_at": "2026-07-10T19:18:44.909417+00:00"
   }
 ]
