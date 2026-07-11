@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "New species named after Cape Verde goalkeeper Vozinha",
+    "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 19:30:06 GMT",
+    "source": "BBC News",
+    "id": "df3f0805a4f601f518aca7d906587608",
+    "fetched_at": "2026-07-11T10:57:50.018487+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+    "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
+    "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
+    "published": "Sat, 11 Jul 2026 11:41:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cb0ba4ea2f7b0493aa1904c4144af6af",
+    "fetched_at": "2026-07-11T10:57:50.018457+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 11th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-midday",
+    "published": "Sat, 11 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dd5c92dcbae83946cfa3ad7aba1e167e",
+    "fetched_at": "2026-07-11T10:57:48.777795+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Superb Sinner ends Djokovic's latest bid for history",
+    "summary": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 18:36:13 GMT",
+    "source": "BBC News",
+    "id": "2279921522c5e6f8af4cdf69b68e4389",
+    "fetched_at": "2026-07-11T10:57:47.528379+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+    "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+    "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 20:47:41 GMT",
+    "source": "BBC News",
+    "id": "62dc30424ece610c8378b75b8ac12fc1",
+    "fetched_at": "2026-07-11T10:57:46.271957+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+    "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 12:02:40 GMT",
+    "source": "BBC News",
+    "id": "64a6478c00f6ca0cd4ff9e56fe5b9ca4",
+    "fetched_at": "2026-07-11T10:57:45.011320+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "WATCH: Mike Waltz tells Cuban delegation 'this is not Havana' during heated UN speech",
+    "summary": "Mike Waltz fired back at the &quot;act of war&quot; claim at the United Nations General Assembly, blaming the communist regime for rolling blackouts and repression.",
+    "link": "https://www.foxnews.com/world/watch-mike-waltz-tells-cuban-delegation-this-not-havana-during-heated-un-speech",
+    "published": "Tue, 07 Jul 2026 16:13:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ce307189d0e239af98f0d456e502c2b0",
+    "fetched_at": "2026-07-11T10:57:43.770056+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone offensive hits Russian oil tankers and refineries at 'industrial scale' as Moscow bans diesel exports",
+    "summary": "Volodymyr Zelenskyy met Trump at NATO to discuss Patriot air defense as Ukraine struck 21 vessels and hit the Omsk refinery deep in Siberia.",
+    "link": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports",
+    "published": "Thu, 09 Jul 2026 05:48:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f6ca4ffdc564e8eb92a9694952794dd8",
+    "fetched_at": "2026-07-11T10:57:42.512067+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
+    "summary": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
+    "link": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
+    "published": "Fri, 10 Jul 2026 14:59:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a2ac81cf60e7e0744b3049edc8db398a",
+    "fetched_at": "2026-07-11T10:57:41.246186+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
     "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
     "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "bd64abddf868538686f4894990668ea4",
     "fetched_at": "2026-07-10T21:01:04.943691+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
-    "summary": "Democrat Graham Platner ended his bid last night for U.S. Senate. And, prominent civil rights attorney Ben Crump has been enlisted to help get answers in the July Fourth weekend death of Nolan Wells.",
-    "link": "https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells",
-    "published": "Thu, 09 Jul 2026 07:22:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "feaabed2f0b22b9b2a561c406aef02bf",
-    "fetched_at": "2026-07-10T21:01:03.788351+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
-    "summary": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
-    "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
-    "published": "Fri, 10 Jul 2026 02:12:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "2c0e632817a7f3fe3e534223a2e29761",
-    "fetched_at": "2026-07-10T21:01:02.664314+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
-    "summary": "New suspected cases of Ebola have been reported in parts of Congo that were previously unaffected, the government said, signaling the continued spread of the disease beyond the epicenter in Ituri.",
-    "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
-    "published": "Fri, 10 Jul 2026 02:33:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "a88c411488ce83a391e9fc828ff9bee7",
-    "fetched_at": "2026-07-10T21:01:01.492042+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US officer charged after two police dogs die in hot patrol car",
-    "summary": "The drug and bomb sniffing dogs died after being left in a patrol car for seven hours, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqd81w9n0no?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 18:24:02 GMT",
-    "source": "BBC News",
-    "id": "642be2e80d7b15a6501376505b7a1320",
-    "fetched_at": "2026-07-10T21:01:00.265865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-    "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
-    "link": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 23:45:03 GMT",
-    "source": "BBC News",
-    "id": "f912becb281c73f6292f076cc4e45b87",
-    "fetched_at": "2026-07-10T21:00:59.123122+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-    "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 15:02:45 GMT",
-    "source": "BBC News",
-    "id": "0835e3774411dfa6d0ccbfa34a94475b",
-    "fetched_at": "2026-07-10T21:00:57.974632+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crews drain Lincoln Memorial Reflecting Pool again as part of troubled Trump revamp",
-    "summary": "Trump directed that the bottom be painted what he called “American flag blue” but problems began quickly after the initial work was finished.",
-    "link": "http://www.euronews.com/2026/07/10/crews-drain-lincoln-memorial-reflecting-pool-again-as-part-of-troubled-trump-revamp",
-    "published": "Fri, 10 Jul 2026 20:10:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "12ce707653001de5d2d7c703fc7b48f9",
-    "fetched_at": "2026-07-10T19:18:50.476485+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-    "summary": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 15:09:08 GMT",
-    "source": "BBC News",
-    "id": "5ecf56e8e45cd7d2447a6db047b2d8d8",
-    "fetched_at": "2026-07-10T19:18:50.476483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How do England stop Norway - and Haaland?",
-    "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 12:39:21 GMT",
-    "source": "BBC News",
-    "id": "a96fb44d1c564428e62814b9c4a1bca0",
-    "fetched_at": "2026-07-10T19:18:50.476479+00:00"
   }
 ]
