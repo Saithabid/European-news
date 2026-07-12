@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+    "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+    "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 00:49:24 GMT",
+    "source": "BBC News",
+    "id": "9b66494561352183029253d7dc4e12bf",
+    "fetched_at": "2026-07-12T02:01:39.822987+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least two killed in Toronto street festival shooting",
+    "summary": "Police have urged the public to stay away from the area.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 01:47:58 GMT",
+    "source": "BBC News",
+    "id": "57ac54e4380c78c706b016b5cb9ff09a",
+    "fetched_at": "2026-07-12T02:01:39.822957+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+    "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+    "source": "BBC News",
+    "id": "1130b60a0f7c9038df302b4cbadbd3c2",
+    "fetched_at": "2026-07-12T02:01:38.682537+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+    "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
+    "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
+    "published": "Sat, 11 Jul 2026 11:41:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cb0ba4ea2f7b0493aa1904c4144af6af",
+    "fetched_at": "2026-07-12T02:01:37.532439+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 11th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-midday",
+    "published": "Sat, 11 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dd5c92dcbae83946cfa3ad7aba1e167e",
+    "fetched_at": "2026-07-12T02:01:36.387816+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+    "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 12:02:40 GMT",
+    "source": "BBC News",
+    "id": "64a6478c00f6ca0cd4ff9e56fe5b9ca4",
+    "fetched_at": "2026-07-12T02:01:35.239532+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone offensive hits Russian oil tankers and refineries at 'industrial scale' as Moscow bans diesel exports",
+    "summary": "Volodymyr Zelenskyy met Trump at NATO to discuss Patriot air defense as Ukraine struck 21 vessels and hit the Omsk refinery deep in Siberia.",
+    "link": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports",
+    "published": "Thu, 09 Jul 2026 05:48:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f6ca4ffdc564e8eb92a9694952794dd8",
+    "fetched_at": "2026-07-12T02:01:34.093261+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
+    "summary": "At least two people were killed and four others wounded after gunfire erupted at Toronto&apos;s TD Salsa on St. Clair Festival. Police are investigating the deadly shooting.",
+    "link": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
+    "published": "Sat, 11 Jul 2026 21:15:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3d262aead1bb85d10b7a4a42a4445134",
+    "fetched_at": "2026-07-12T02:01:32.943937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. launches strikes after Iran fires on civilian vessel in Strait of Hormuz",
+    "summary": "Iran says it again considers the Strait of Hormuz closed after its military struck a ship using an \"unauthorized route.\" In response, the U.S. military announced a third round of strikes this week.",
+    "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz",
+    "published": "Sat, 11 Jul 2026 21:32:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "e97b02bee74cfe9afd8a2bb65eb1fc32",
+    "fetched_at": "2026-07-12T02:01:31.795786+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
     "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
     "link": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "12ce707653001de5d2d7c703fc7b48f9",
     "fetched_at": "2026-07-11T13:01:40.467227+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
-    "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
-    "link": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know",
-    "published": "Sat, 11 Jul 2026 13:34:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "68fc324f26e2724fd608d5a2962c206b",
-    "fetched_at": "2026-07-11T13:01:40.467223+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-    "summary": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 15:09:08 GMT",
-    "source": "BBC News",
-    "id": "5ecf56e8e45cd7d2447a6db047b2d8d8",
-    "fetched_at": "2026-07-11T13:01:40.467190+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How do England stop Norway - and Haaland?",
-    "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 12:39:21 GMT",
-    "source": "BBC News",
-    "id": "a96fb44d1c564428e62814b9c4a1bca0",
-    "fetched_at": "2026-07-11T13:01:39.327734+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-    "summary": "Retired Gen. Philip Breedlove says Ukrainian strikes on energy infrastructure force Putin to divert military assets as fuel shortages spread nationwide.",
-    "link": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-    "published": "Sat, 11 Jul 2026 07:08:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "84316440a921962bd9ba0ed5f018848d",
-    "fetched_at": "2026-07-11T13:01:38.194621+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
-    "summary": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
-    "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
-    "published": "Fri, 10 Jul 2026 02:12:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "2c0e632817a7f3fe3e534223a2e29761",
-    "fetched_at": "2026-07-11T13:01:37.057110+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
-    "summary": "New suspected cases of Ebola have been reported in parts of Congo that were previously unaffected, the government said, signaling the continued spread of the disease beyond the epicenter in Ituri.",
-    "link": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
-    "published": "Fri, 10 Jul 2026 02:33:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "a88c411488ce83a391e9fc828ff9bee7",
-    "fetched_at": "2026-07-11T13:01:35.904951+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain edges Belgium and will face France in World Cup semifinal",
-    "summary": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year's World Cup.",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
-    "published": "Sat, 11 Jul 2026 02:58:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "c102379a1eca7fa4f0c66d2a718f9ecd",
-    "fetched_at": "2026-07-11T13:01:34.765424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Most people who need glasses don't have them. Can the post office change that?",
-    "summary": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-    "published": "Sat, 11 Jul 2026 07:49:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "5d41b77d42e2e1d5651005139dd75b6f",
-    "fetched_at": "2026-07-11T13:01:33.618512+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-    "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
-    "link": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 22:09:07 GMT",
-    "source": "BBC News",
-    "id": "f912becb281c73f6292f076cc4e45b87",
-    "fetched_at": "2026-07-11T13:01:32.478899+00:00"
   }
 ]
