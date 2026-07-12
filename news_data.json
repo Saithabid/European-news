@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+    "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 07:39:45 GMT",
+    "source": "BBC News",
+    "id": "dc95e59d9ca7e33e2b4886a0713f4e62",
+    "fetched_at": "2026-07-12T09:45:21.954360+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran launches major missile attacks across the Gulf",
+    "summary": "Euronews journalists in Qatar report two waves of Iranian attacks and large explosions above Doha, air defence also responding to Iranian attacks in UAE, Bahrain, Kuwait and others, hours after the US conducted new airstrikes in Iran in response to a ship being hit by Iran in the Strait of Hormuz.",
+    "link": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
+    "published": "Sun, 12 Jul 2026 06:42:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b9bcb8159bae7da79306bf01ced076ba",
+    "fetched_at": "2026-07-12T09:45:20.831811+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+    "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
+    "link": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
+    "published": "Sun, 12 Jul 2026 08:43:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9ad4e51392c438d01329e19954afd667",
+    "fetched_at": "2026-07-12T09:45:19.699988+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
+    "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
+    "link": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
+    "published": "Sun, 12 Jul 2026 09:33:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "358c8d17ca5692b2b1574c7f1a0741df",
+    "fetched_at": "2026-07-12T09:45:17.863548+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+    "summary": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 13:11:52 GMT",
+    "source": "BBC News",
+    "id": "d4caf9f879602f204f37c6ad64409231",
+    "fetched_at": "2026-07-12T09:45:16.741386+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Landmark US housing bill becomes law despite Trump protest",
+    "summary": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 13:35:09 GMT",
+    "source": "BBC News",
+    "id": "fa96501fef9513b1cf50af6c344a5738",
+    "fetched_at": "2026-07-12T09:45:15.612457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+    "summary": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 00:17:15 GMT",
+    "source": "BBC News",
+    "id": "a0904a0d7ddabedc2ca740dbfe31f13d",
+    "fetched_at": "2026-07-12T09:45:14.497043+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 09:01:55 GMT",
+    "source": "BBC News",
+    "id": "b2e44540b8de5a08f02eb6fb80ca474e",
+    "fetched_at": "2026-07-12T09:45:13.378853+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
     "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
     "link": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "2bfa21b061700315dc52653d6270e1f2",
     "fetched_at": "2026-07-11T16:46:33.870770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-    "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-    "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 08:23:45 GMT",
-    "source": "BBC News",
-    "id": "9f48b5a19858b92c83bbd6306e056961",
-    "fetched_at": "2026-07-11T14:45:37.018731+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Africa World Cup midfielder Adams dies aged 25",
-    "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 14:39:25 GMT",
-    "source": "BBC News",
-    "id": "0a622d2e9922bb9ad8781ab34ceb305c",
-    "fetched_at": "2026-07-11T14:45:37.018728+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-    "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 14:19:34 GMT",
-    "source": "BBC News",
-    "id": "53a4d8c425b707e79ac1aa338489b724",
-    "fetched_at": "2026-07-11T14:45:37.018725+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Georgia left off NATO summit partner list as critics decry isolation",
-    "summary": "The Georgian government is facing accusations of international isolation after not being invited to the NATO summit in Turkey, the first time a key partner has been excluded from the alliance's agenda.",
-    "link": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
-    "published": "Fri, 10 Jul 2026 21:36:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dd0236e2080de5dc7bca046722a1921c",
-    "fetched_at": "2026-07-11T14:45:37.018721+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
-    "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
-    "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 05:00:04 GMT",
-    "source": "BBC News",
-    "id": "7bd4581afffaad430f211aa8cd8b7f74",
-    "fetched_at": "2026-07-11T14:45:37.018694+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Family mourn British teenager who died in Greece",
-    "summary": "The parents of the boy - who has not been named - said their son will be \"missed beyond words\".",
-    "link": "https://www.bbc.co.uk/news/articles/c75yp6r13wvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 21:18:04 GMT",
-    "source": "BBC News",
-    "id": "9c55948fbbf3c92f45a9d20d3b2f51b8",
-    "fetched_at": "2026-07-11T14:45:35.868527+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "With US unleashing attacks, Iranian official threatens that the Islamic Republic will deliver a 'hard slap'",
-    "summary": "Iranian officials issued threats as the United States military has been conducting more attacks against the Islamic Republic this week.",
-    "link": "https://www.foxnews.com/world/us-unleashing-attacks-iranian-official-threatens-islamic-republic-deliver-hard-slap",
-    "published": "Thu, 09 Jul 2026 09:26:35 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "63f438b31c1b6cd254691ad5d07d2359",
-    "fetched_at": "2026-07-11T14:45:34.733151+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel signals readiness for another Iran strike as Trump declares ceasefire over",
-    "summary": "Israel’s leaders are publicly signaling that their country is prepared to strike Iran for a third time, while a U.S. official tells Fox News Digital that Washington remains closely coordinated with Jerusalem.",
-    "link": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
-    "published": "Fri, 10 Jul 2026 16:48:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bd64abddf868538686f4894990668ea4",
-    "fetched_at": "2026-07-11T14:45:33.579033+00:00"
   }
 ]
