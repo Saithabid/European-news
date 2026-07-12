@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+    "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 21:56:52 GMT",
+    "source": "BBC News",
+    "id": "2ea87ab9a50f6cf384d75dbf0a4228ef",
+    "fetched_at": "2026-07-12T18:54:58.986453+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+    "summary": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+    "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+    "published": "Fri, 10 Jul 2026 07:43:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "331d51fe0dbda6501dc29481ca3f781b",
+    "fetched_at": "2026-07-12T18:54:57.877644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+    "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+    "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+    "published": "Sat, 11 Jul 2026 02:34:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "3e206d2a53e0d9bd7d3ba2f696c032bf",
+    "fetched_at": "2026-07-12T18:54:56.782261+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto police looking for suspects after deadly shooting at festival",
+    "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+    "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+    "published": "Sun, 12 Jul 2026 13:22:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "83b39846ee2ac24f1055bb0c0688f9cc",
+    "fetched_at": "2026-07-12T18:54:55.646844+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
     "summary": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
     "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "0b2bf18ef48a4ec4cace3d23e43a45cb",
     "fetched_at": "2026-07-11T22:40:03.392619+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-    "summary": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
-    "link": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 15:50:49 GMT",
-    "source": "BBC News",
-    "id": "f8690793947be7ab3cd04371f80e7d6d",
-    "fetched_at": "2026-07-11T22:40:02.282670+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran supreme leader calls for revenge for father's killing",
-    "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 19:30:36 GMT",
-    "source": "BBC News",
-    "id": "34a40f33ff0f3f176b6606e215779e14",
-    "fetched_at": "2026-07-11T20:40:22.117818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain fans celebrate World Cup semi-final place after Belgium win",
-    "summary": "Spain celebrated a dramatic 2-1 victory over Belgium on 10 July as fans filled Madrid to cheer La Roja into the FIFA World Cup semi-finals.",
-    "link": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win",
-    "published": "Sat, 11 Jul 2026 08:55:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6a55ff1cf30c433728057390176e6b94",
-    "fetched_at": "2026-07-11T20:40:22.117801+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 16:42:24 GMT",
-    "source": "BBC News",
-    "id": "0983b925d0745b010203fcc24624249c",
-    "fetched_at": "2026-07-11T20:40:20.995209+00:00"
   }
 ]
