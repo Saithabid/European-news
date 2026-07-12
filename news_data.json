@@ -1,5 +1,45 @@
 [
   {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 11th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-evening",
+    "published": "Sat, 11 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "58a632139b9f9dfb40fb1d9bfd78512a",
+    "fetched_at": "2026-07-12T14:49:11.451908+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
+    "summary": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 19:37:02 GMT",
+    "source": "BBC News",
+    "id": "46227a9b37a227e69a6f08f80b7f7aa6",
+    "fetched_at": "2026-07-12T14:49:10.346438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+    "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+    "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 15:03:45 GMT",
+    "source": "BBC News",
+    "id": "fb1a6225d7da81150e5da668cae5654c",
+    "fetched_at": "2026-07-12T14:49:09.231631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
+    "summary": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
+    "link": "https://www.foxnews.com/world/new-germany-sex-crime-figures-reignite-migration-fight-exploitation-probe-expands",
+    "published": "Sun, 12 Jul 2026 10:00:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "681f1e0fa42180f8637837a361bdeaa4",
+    "fetched_at": "2026-07-12T14:49:08.126730+00:00"
+  },
+  {
     "region": "USA",
     "title": "Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
     "summary": "Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025.",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "3e206d2a53e0d9bd7d3ba2f696c032bf",
     "fetched_at": "2026-07-11T20:40:14.265766+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-    "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 18:00:09 GMT",
-    "source": "BBC News",
-    "id": "4136d57febe37dea481328cc67ecd48b",
-    "fetched_at": "2026-07-11T18:50:21.287876+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japanese school teaches children how to stay safe around wild bears",
-    "summary": "Children at a primary school in central Japan are taking part in a bear awareness programme, learning how to safely coexist with wild bears as sightings remain common in the area.",
-    "link": "http://www.euronews.com/2026/07/11/japanese-school-teaches-children-how-to-stay-safe-around-wild-bears",
-    "published": "Sat, 11 Jul 2026 06:20:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "06bd18fadc262e60b70c6d40c23417e0",
-    "fetched_at": "2026-07-11T18:50:20.163432+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 11th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-morning",
-    "published": "Sat, 11 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f7a7289456f74a1d596ea31358d8ab8d",
-    "fetched_at": "2026-07-11T18:50:18.921256+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-    "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-    "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 15:21:17 GMT",
-    "source": "BBC News",
-    "id": "38b5c157638578619bf767eb6bf00e7b",
-    "fetched_at": "2026-07-11T18:50:17.787853+00:00"
   }
 ]
