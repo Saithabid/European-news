@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | July 12th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/12/latest-news-bulletin-july-12th-2026-midday",
+    "published": "Sun, 12 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "316f4dc12fcdbd8b16d1e29c79bece18",
+    "fetched_at": "2026-07-12T11:06:26.048034+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina fans erupt as Messi's men reach World Cup semifinal",
+    "summary": "Argentina fans celebrate in Buenos Aires after a dramatic 3-1 extra-time win over ten-man Switzerland sends the defending champions into the World Cup semifinals.",
+    "link": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal",
+    "published": "Sun, 12 Jul 2026 12:02:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "33a934796a993b8e70820549ed9dbffe",
+    "fetched_at": "2026-07-12T11:06:24.901661+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Jude Bellingham double sends jubilant England into World Cup semis",
+    "summary": "England beat Norway 2-1 in extra time on 12 July 2026 to reach the World Cup semifinals. Fans celebrated in London after a Jude Bellingham double sent the Three Lions through to face Argentina.",
+    "link": "http://www.euronews.com/video/2026/07/12/jude-bellingham-double-sends-jubilant-england-into-world-cup-semis",
+    "published": "Sun, 12 Jul 2026 12:11:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a2c7a68a1f8aacb8b3f7b0825875f4d0",
+    "fetched_at": "2026-07-12T11:06:23.766547+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+    "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
+    "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 05:00:04 GMT",
+    "source": "BBC News",
+    "id": "7bd4581afffaad430f211aa8cd8b7f74",
+    "fetched_at": "2026-07-12T11:06:22.629238+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+    "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 10:18:02 GMT",
+    "source": "BBC News",
+    "id": "7e9bd59636b95b5a605a3ae11cde6a23",
+    "fetched_at": "2026-07-12T11:06:21.483771+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "With US unleashing attacks, Iranian official threatens that the Islamic Republic will deliver a 'hard slap'",
+    "summary": "Iranian officials issued threats as the United States military has been conducting more attacks against the Islamic Republic this week.",
+    "link": "https://www.foxnews.com/world/us-unleashing-attacks-iranian-official-threatens-islamic-republic-deliver-hard-slap",
+    "published": "Thu, 09 Jul 2026 09:26:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "63f438b31c1b6cd254691ad5d07d2359",
+    "fetched_at": "2026-07-12T11:06:20.346460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel signals readiness for another Iran strike as Trump declares ceasefire over",
+    "summary": "Israel’s leaders are publicly signaling that their country is prepared to strike Iran for a third time, while a U.S. official tells Fox News Digital that Washington remains closely coordinated with Jerusalem.",
+    "link": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
+    "published": "Fri, 10 Jul 2026 16:48:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bd64abddf868538686f4894990668ea4",
+    "fetched_at": "2026-07-12T11:06:19.207503+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
     "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
     "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "58a632139b9f9dfb40fb1d9bfd78512a",
     "fetched_at": "2026-07-11T16:46:41.919424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
-    "summary": "Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025.",
-    "link": "https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action",
-    "published": "Thu, 09 Jul 2026 11:28:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7c9ad1f91db3c0ae120bca366464b00b",
-    "fetched_at": "2026-07-11T16:46:40.777662+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone",
-    "summary": "A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argentina.",
-    "link": "https://www.foxnews.com/world/argentinian-flight-instructor-jumps-death-from-plane-22-year-old-student-forced-land-alone",
-    "published": "Thu, 09 Jul 2026 12:29:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c2408a7dee6f4192fe9942b07f76e4e3",
-    "fetched_at": "2026-07-11T16:46:39.612779+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
-    "summary": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-    "published": "Fri, 10 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "24e7d8e94e6cd0bfc6d2ebd7420148d6",
-    "fetched_at": "2026-07-11T16:46:38.433153+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
-    "summary": "Meet Count Binface: the challenger from another planet taking on Nigel Farage as questions over the Reform UK leader's finances overshadow his election comeback.",
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
-    "published": "Fri, 10 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "d11f3794e59b8df837ca1f33e94e6583",
-    "fetched_at": "2026-07-11T16:46:37.297917+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-    "summary": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool.",
-    "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 17:01:15 GMT",
-    "source": "BBC News",
-    "id": "51cd6099048e11e5531d4ae815e01fda",
-    "fetched_at": "2026-07-11T16:46:36.168882+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-    "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 22:38:03 GMT",
-    "source": "BBC News",
-    "id": "ca49ceedb4abad26c8a208c3cbe51468",
-    "fetched_at": "2026-07-11T16:46:35.008664+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-    "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 16:11:33 GMT",
-    "source": "BBC News",
-    "id": "2bfa21b061700315dc52653d6270e1f2",
-    "fetched_at": "2026-07-11T16:46:33.870770+00:00"
   }
 ]
