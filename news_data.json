@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+    "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+    "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 23:02:35 GMT",
+    "source": "BBC News",
+    "id": "e34aaebe85d075037ebeab9fe481607d",
+    "fetched_at": "2026-07-12T22:39:51.523485+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
+    "summary": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
+    "link": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
+    "published": "Fri, 10 Jul 2026 14:59:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a2ac81cf60e7e0744b3049edc8db398a",
+    "fetched_at": "2026-07-12T22:39:51.523458+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Beloved musicians among victims in deadly Bahamas plane crash; aviation authority grounds flights",
+    "summary": "Video shows the aftermath of a Cessna 402 crash in North Andros that killed 10 people, including members of a popular Bahamian band and a DJ.",
+    "link": "https://www.foxnews.com/world/beloved-musicians-victims-deadly-bahamas-plane-crash-aviation-authority-grounds-flights",
+    "published": "Sat, 11 Jul 2026 16:42:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "947e9e55bb902de075b53a8dfdc0448d",
+    "fetched_at": "2026-07-12T22:39:50.399946+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Irish police under fire for refusing to identify reported asylum seeker sought in American mother's murder",
+    "summary": "Irish police refuse to name the person of interest in Jamey Carney&apos;s Killarney murder. The suspect fled to Turkey before her body was found.",
+    "link": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
+    "published": "Sat, 11 Jul 2026 18:00:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "578974cad0f814ef310ff6b92c9442f9",
+    "fetched_at": "2026-07-12T22:39:49.283114+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
+    "summary": "At least two people were killed and four others wounded after gunfire erupted at Toronto&apos;s TD Salsa on St. Clair Festival. Police are investigating the deadly shooting.",
+    "link": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
+    "published": "Sat, 11 Jul 2026 21:15:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3d262aead1bb85d10b7a4a42a4445134",
+    "fetched_at": "2026-07-12T22:39:48.161556+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Migrant sought in American mom's killing was denied asylum but remained in Ireland",
+    "summary": "A migrant whose asylum claim was rejected fled Ireland to Istanbul before the murder investigation began, sparking an Interpol and Europol manhunt.",
+    "link": "https://www.foxnews.com/world/migrant-sought-american-moms-killing-denied-asylum-remained-ireland",
+    "published": "Sun, 12 Jul 2026 18:01:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9bd030efc3bcbfe9e9f213298b61f215",
+    "fetched_at": "2026-07-12T22:39:47.035620+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A veteran foreign correspondent looks back on a career covering conflicts",
+    "summary": "For Reporter's Notebook we hear about what it takes to cover conflict over a decades-long career as a foreign correspondent.",
+    "link": "https://www.npr.org/2026/07/11/nx-s1-5866592/a-veteran-foreign-correspondent-looks-back-on-a-career-covering-conflicts",
+    "published": "Sat, 11 Jul 2026 17:08:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca5b921903d5dd1b437476a16c61ecf5",
+    "fetched_at": "2026-07-12T22:39:45.897690+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
+    "summary": "Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.",
+    "link": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
+    "published": "Sat, 11 Jul 2026 17:09:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "0b2bf18ef48a4ec4cace3d23e43a45cb",
+    "fetched_at": "2026-07-12T22:39:44.770980+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
+    "summary": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
+    "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
+    "published": "Sun, 12 Jul 2026 17:08:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "f8bb1dba517256190ba1d99b15cfdb33",
+    "fetched_at": "2026-07-12T22:39:43.652088+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
     "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
     "link": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "9d92339074c7f627256508f98b51851f",
     "fetched_at": "2026-07-12T06:27:14.009273+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-    "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
-    "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
-    "published": "Sun, 12 Jul 2026 00:10:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "881a3dc671a96e68601a7aa2c136c0cf",
-    "fetched_at": "2026-07-12T06:27:12.877794+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-    "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
-    "link": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 22:09:07 GMT",
-    "source": "BBC News",
-    "id": "f912becb281c73f6292f076cc4e45b87",
-    "fetched_at": "2026-07-12T06:27:11.756956+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-    "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
-    "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 00:49:24 GMT",
-    "source": "BBC News",
-    "id": "9b66494561352183029253d7dc4e12bf",
-    "fetched_at": "2026-07-12T02:01:39.822987+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least two killed in Toronto street festival shooting",
-    "summary": "Police have urged the public to stay away from the area.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 01:47:58 GMT",
-    "source": "BBC News",
-    "id": "57ac54e4380c78c706b016b5cb9ff09a",
-    "fetched_at": "2026-07-12T02:01:39.822957+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-    "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 23:58:40 GMT",
-    "source": "BBC News",
-    "id": "1130b60a0f7c9038df302b4cbadbd3c2",
-    "fetched_at": "2026-07-12T02:01:38.682537+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
-    "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
-    "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
-    "published": "Sat, 11 Jul 2026 11:41:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cb0ba4ea2f7b0493aa1904c4144af6af",
-    "fetched_at": "2026-07-12T02:01:37.532439+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 11th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-midday",
-    "published": "Sat, 11 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dd5c92dcbae83946cfa3ad7aba1e167e",
-    "fetched_at": "2026-07-12T02:01:36.387816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-    "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 12:02:40 GMT",
-    "source": "BBC News",
-    "id": "64a6478c00f6ca0cd4ff9e56fe5b9ca4",
-    "fetched_at": "2026-07-12T02:01:35.239532+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone offensive hits Russian oil tankers and refineries at 'industrial scale' as Moscow bans diesel exports",
-    "summary": "Volodymyr Zelenskyy met Trump at NATO to discuss Patriot air defense as Ukraine struck 21 vessels and hit the Omsk refinery deep in Siberia.",
-    "link": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports",
-    "published": "Thu, 09 Jul 2026 05:48:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f6ca4ffdc564e8eb92a9694952794dd8",
-    "fetched_at": "2026-07-12T02:01:34.093261+00:00"
   }
 ]
