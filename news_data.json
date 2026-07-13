@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Major wildfire rages south of Paris during heatwave",
+    "summary": "A major wildfire has spread through France's Fontainebleau forest south of Paris, prompting a large emergency response, disrupting road and rail traffic, and forcing authorities to deploy firefighting aircraft.",
+    "link": "http://www.euronews.com/video/2026/07/13/major-wildfire-rages-south-of-paris-during-heatwave",
+    "published": "Mon, 13 Jul 2026 08:38:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d3ab56797f86ad6809b4211e8533463f",
+    "fetched_at": "2026-07-13T20:52:26.442254+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British couple return to village at heart of deadly Spanish wildfire",
+    "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+    "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 00:29:21 GMT",
+    "source": "BBC News",
+    "id": "9cb75f6363300a6899b64a69c93a4a0d",
+    "fetched_at": "2026-07-13T20:52:25.275237+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+    "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+    "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 20:15:00 GMT",
+    "source": "BBC News",
+    "id": "770d6bf5a96de27a8a54adc6fe88c38d",
+    "fetched_at": "2026-07-13T20:52:24.132859+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary parliament votes to remove president from office",
+    "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 20:39:14 GMT",
+    "source": "BBC News",
+    "id": "d2488bcf2c18467ee337b28f3bb9753d",
+    "fetched_at": "2026-07-13T20:52:22.977669+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. launches new strikes on Iran and Tehran attacks U.S. allies in the Gulf",
+    "summary": "The U.S. and Iran exchanged fire for the third weekend in a row, with strikes stretching into Monday as Iran responded to U.S. attacks by targeting U.S. allies in the region.",
+    "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+    "published": "Sat, 11 Jul 2026 21:32:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "9d92339074c7f627256508f98b51851f",
+    "fetched_at": "2026-07-13T20:52:21.832544+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "People watching the World Cup during work hours is leading to a drop in productivity",
+    "summary": "The global economy may be suffering from lost productivity as people get swept by World Cup fever, a survey shows. This small business owner would know. She's spent most of her days watching matches.",
+    "link": "https://www.npr.org/2026/07/13/nx-s1-5884861/people-watching-the-world-cup-during-work-hours-is-leading-to-a-drop-in-productivity",
+    "published": "Mon, 13 Jul 2026 16:02:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "b8be0ace5212c69b13709f0adb2b1827",
+    "fetched_at": "2026-07-13T20:52:20.665544+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+    "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+    "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 23:41:00 GMT",
+    "source": "BBC News",
+    "id": "71bc1c35da376cf7ccff46785e777c00",
+    "fetched_at": "2026-07-13T20:52:19.262907+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump watches IndyCar pit stop outside White House",
+    "summary": "The event was a preview of the actual race that President Trump commissioned by signing an executive order in January.",
+    "link": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 19:25:17 GMT",
+    "source": "BBC News",
+    "id": "ab4c8f194791ae5e9a67e389b3728dc7",
+    "fetched_at": "2026-07-13T20:52:18.118761+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
     "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
     "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "4bf1c83cce49a18ac2c5402044841de8",
     "fetched_at": "2026-07-13T10:53:05.906572+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Azerbaijan considering full withdrawal from Council of Europe, Aliyev says",
-    "summary": "President Ilham Aliyev said Baku was considering full withdrawal from the 46-member organisation after Azerbaijan's voting rights in PACE were suspended in 2024.",
-    "link": "http://www.euronews.com/2026/07/13/azerbaijan-considering-full-withdrawal-from-council-of-europe-aliyev-says",
-    "published": "Mon, 13 Jul 2026 10:13:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "58edbc0c78bbd6880cf92bc7f05cfdcd",
-    "fetched_at": "2026-07-13T10:53:05.906568+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 13th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/13/latest-news-bulletin-july-13th-2026-midday",
-    "published": "Mon, 13 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ca9004d9323f5a22a7a651b9665911cd",
-    "fetched_at": "2026-07-13T10:53:05.906538+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
-    "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
-    "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 05:00:04 GMT",
-    "source": "BBC News",
-    "id": "7bd4581afffaad430f211aa8cd8b7f74",
-    "fetched_at": "2026-07-13T10:53:04.755932+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-    "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 13:35:01 GMT",
-    "source": "BBC News",
-    "id": "7e9bd59636b95b5a605a3ae11cde6a23",
-    "fetched_at": "2026-07-13T10:53:03.609019+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel signals readiness for another Iran strike as Trump declares ceasefire over",
-    "summary": "Israel’s leaders are publicly signaling that their country is prepared to strike Iran for a third time, while a U.S. official tells Fox News Digital that Washington remains closely coordinated with Jerusalem.",
-    "link": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
-    "published": "Fri, 10 Jul 2026 16:48:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bd64abddf868538686f4894990668ea4",
-    "fetched_at": "2026-07-13T10:53:02.475068+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
-    "summary": "In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma. Neill died on Monday in Sydney, according to a statement posted to the actor's social media page.",
-    "link": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
-    "published": "Mon, 13 Jul 2026 03:20:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "22df3bd31a2b65ca0857d512ddc07a44",
-    "fetched_at": "2026-07-13T10:53:01.332826+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-    "summary": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 13:11:52 GMT",
-    "source": "BBC News",
-    "id": "d4caf9f879602f204f37c6ad64409231",
-    "fetched_at": "2026-07-13T10:53:00.171850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Landmark US housing bill becomes law despite Trump protest",
-    "summary": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 13:35:09 GMT",
-    "source": "BBC News",
-    "id": "fa96501fef9513b1cf50af6c344a5738",
-    "fetched_at": "2026-07-13T10:52:58.824964+00:00"
   }
 ]
