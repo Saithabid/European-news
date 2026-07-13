@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+    "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+    "source": "BBC News",
+    "id": "1130b60a0f7c9038df302b4cbadbd3c2",
+    "fetched_at": "2026-07-13T02:03:24.409097+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+    "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+    "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 23:41:00 GMT",
+    "source": "BBC News",
+    "id": "71bc1c35da376cf7ccff46785e777c00",
+    "fetched_at": "2026-07-13T02:03:23.286965+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+    "summary": "Regulators say features such as infinite scroll contribute to \"compulsive use\" and \"unhealthy habits\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 12:02:40 GMT",
+    "source": "BBC News",
+    "id": "64a6478c00f6ca0cd4ff9e56fe5b9ca4",
+    "fetched_at": "2026-07-13T02:03:22.154497+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Massive fire rips through pub, killing at least 27 as patrons flee smoke-filled venue",
+    "summary": "Officials said the fire broke out around midnight at a northern Bangkok pub, sending thick smoke through the venue as patrons tried to escape.",
+    "link": "https://www.foxnews.com/world/massive-fire-rips-through-pub-killing-least-27-patrons-flee-smoke-filled-venue",
+    "published": "Sun, 12 Jul 2026 19:48:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c1d435b0cb8fcead5b9e9c5074ef1a51",
+    "fetched_at": "2026-07-13T02:03:21.023132+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Four Americans caught in horrific Mexico highway pileup that killed at least 10",
+    "summary": "A fiery chain-reaction crash involving multiple tractor-trailers killed at least 10 people in western Mexico, while four Americans were transported to local hospitals.",
+    "link": "https://www.foxnews.com/world/four-americans-caught-horrific-mexico-highway-pileup-killed-least-10",
+    "published": "Sun, 12 Jul 2026 21:27:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd22518bd1d5cf285350aab242bdeee4",
+    "fetched_at": "2026-07-13T02:03:19.903561+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
+    "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
+    "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+    "published": "Sun, 12 Jul 2026 00:10:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "881a3dc671a96e68601a7aa2c136c0cf",
+    "fetched_at": "2026-07-13T02:03:18.781581+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
+    "summary": "The source of the cyclosporiasis outbreak, which has spread across at least 17 states, is unclear.",
+    "link": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 22:09:07 GMT",
+    "source": "BBC News",
+    "id": "f912becb281c73f6292f076cc4e45b87",
+    "fetched_at": "2026-07-13T02:03:17.641918+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least two killed in Toronto street festival shooting",
+    "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 03:56:02 GMT",
+    "source": "BBC News",
+    "id": "57ac54e4380c78c706b016b5cb9ff09a",
+    "fetched_at": "2026-07-13T02:03:16.505839+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
     "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
     "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "a0904a0d7ddabedc2ca740dbfe31f13d",
     "fetched_at": "2026-07-12T09:45:14.497043+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-    "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 09:01:55 GMT",
-    "source": "BBC News",
-    "id": "b2e44540b8de5a08f02eb6fb80ca474e",
-    "fetched_at": "2026-07-12T09:45:13.378853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
-    "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
-    "link": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know",
-    "published": "Sat, 11 Jul 2026 13:34:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "68fc324f26e2724fd608d5a2962c206b",
-    "fetched_at": "2026-07-12T06:27:19.657735+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 12th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/12/latest-news-bulletin-july-12th-2026-morning",
-    "published": "Sun, 12 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "861cfa307c9cc017e62059dbf613b3d8",
-    "fetched_at": "2026-07-12T06:27:19.657709+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How do England stop Norway - and Haaland?",
-    "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 12:39:21 GMT",
-    "source": "BBC News",
-    "id": "a96fb44d1c564428e62814b9c4a1bca0",
-    "fetched_at": "2026-07-12T06:27:18.544878+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-    "summary": "Retired Gen. Philip Breedlove says Ukrainian strikes on energy infrastructure force Putin to divert military assets as fuel shortages spread nationwide.",
-    "link": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-    "published": "Sat, 11 Jul 2026 07:08:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "84316440a921962bd9ba0ed5f018848d",
-    "fetched_at": "2026-07-12T06:27:17.429157+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain edges Belgium and will face France in World Cup semifinal",
-    "summary": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year's World Cup.",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
-    "published": "Sat, 11 Jul 2026 02:58:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "c102379a1eca7fa4f0c66d2a718f9ecd",
-    "fetched_at": "2026-07-12T06:27:16.302847+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Most people who need glasses don't have them. Can the post office change that?",
-    "summary": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-    "published": "Sat, 11 Jul 2026 07:49:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "5d41b77d42e2e1d5651005139dd75b6f",
-    "fetched_at": "2026-07-12T06:27:15.189267+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-    "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
-    "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-    "published": "Sat, 11 Jul 2026 21:32:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "9d92339074c7f627256508f98b51851f",
-    "fetched_at": "2026-07-12T06:27:14.009273+00:00"
   }
 ]
