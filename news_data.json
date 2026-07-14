@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+    "summary": "The environmental activist has been on a hunger strike for 16 days and is getting visibly weaker.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 22:03:16 GMT",
+    "source": "BBC News",
+    "id": "4add9faa579265884bfe674061d51019",
+    "fetched_at": "2026-07-14T09:50:00.140674+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US releases video of sea drone strike on Iranian naval base",
+    "summary": "The US military has released video it says shows three Corsair unmanned surface vessels striking a ship maintenance facility and submarine at Iran's Bandar Abbas Naval Base on 12 July. US Central Command says it was the first combat use of American sea drones.",
+    "link": "http://www.euronews.com/2026/07/14/us-releases-video-of-sea-drone-strike-on-iranian-naval-base",
+    "published": "Tue, 14 Jul 2026 08:50:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ec067368108a266af40c549b102db759",
+    "fetched_at": "2026-07-14T09:50:00.140671+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'We will deal with it,' Trump says as US probes reports of Iranian drones in Cuba",
+    "summary": "The US president said his administration is checking whether Tehran stores drones and missiles on the island and warned Washington will act if confirmed, but he offered no proof or details about the alleged weapons.",
+    "link": "http://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba",
+    "published": "Tue, 14 Jul 2026 10:30:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6c360d43ca23da5c937bfc85efbd9c72",
+    "fetched_at": "2026-07-14T09:50:00.140668+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+    "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 11 Jul 2026 21:56:52 GMT",
+    "source": "BBC News",
+    "id": "2ea87ab9a50f6cf384d75dbf0a4228ef",
+    "fetched_at": "2026-07-14T09:50:00.140665+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+    "summary": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+    "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 16:05:13 GMT",
+    "source": "BBC News",
+    "id": "89eceb0acf95f375a37cf255d33480c1",
+    "fetched_at": "2026-07-14T09:50:00.140662+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
+    "summary": "France face Spain for a place in the World Cup final on Tuesday, meaning a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 05:13:23 GMT",
+    "source": "BBC News",
+    "id": "9e2cb1b12abcab95f27ce4df483523b6",
+    "fetched_at": "2026-07-14T09:50:00.140634+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK pins string of antisemitic attacks on Iran-linked group, bans IRGC",
+    "summary": "Keir Starmer announced sweeping national security powers after British intelligence linked antisemitic arson attacks to an Iran-backed proxy.",
+    "link": "https://www.foxnews.com/world/uk-pins-string-antisemitic-attacks-iran-linked-group-bans-irgc",
+    "published": "Mon, 13 Jul 2026 10:25:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2f6e7abc5a3f71a1e57a73249e31905e",
+    "fetched_at": "2026-07-14T09:49:58.985485+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
+    "summary": "A senior U.S. official says the USAID OIG investigation picked up where the U.N. failed, examining UNRWA staff links to terrorism beyond Oct. 7.",
+    "link": "https://www.foxnews.com/world/trump-administration-probes-unrwa-over-alleged-employment-1500-terrorists",
+    "published": "Mon, 13 Jul 2026 13:09:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ddade3c7012a94c26d9a4b1f1075031b",
+    "fetched_at": "2026-07-14T09:49:57.828325+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto police looking for suspects after deadly shooting at festival",
+    "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+    "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+    "published": "Sun, 12 Jul 2026 13:22:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "83b39846ee2ac24f1055bb0c0688f9cc",
+    "fetched_at": "2026-07-14T09:49:56.586309+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Investigators probe a fire at a music bar in Bangkok that killed at least 27 people",
+    "summary": "By Monday morning, forensic teams were investigating the scene. Officials say many victims were trapped in windowless bathrooms near a rear exit. Investigators are focusing on the ceiling above the performance stage for clues.",
+    "link": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+    "published": "Sun, 12 Jul 2026 15:53:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "1e140255311d69083aea9bf4f85748ce",
+    "fetched_at": "2026-07-14T09:49:55.333595+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
+    "summary": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
+    "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+    "published": "Mon, 13 Jul 2026 12:53:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "6457c96f858609d1bb6aead29b511e08",
+    "fetched_at": "2026-07-14T09:49:54.179419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Peter Nygard found guilty in Montreal sexual assault case",
+    "summary": "The former fashion mogul did not contest any evidence on the first day of his trial, leading the judge to make the ruling.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5vxd9ve16o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 17:04:24 GMT",
+    "source": "BBC News",
+    "id": "3207dc64dedf7b8af0791798a0b62c8b",
+    "fetched_at": "2026-07-14T09:49:53.019723+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+    "summary": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 17:21:21 GMT",
+    "source": "BBC News",
+    "id": "9f472c0dd60cceab3a59294f4eacba7d",
+    "fetched_at": "2026-07-14T09:49:51.754470+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US burrito giant Chipotle opening first outlet in Mexico",
     "summary": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
     "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "64a56bc27954a796846a52fe0eff93e8",
     "fetched_at": "2026-07-13T19:15:44.794072+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Irish police under fire for refusing to identify reported asylum seeker sought in American mother's murder",
-    "summary": "Irish police refuse to name the person of interest in Jamey Carney&apos;s Killarney murder. The suspect fled to Turkey before her body was found.",
-    "link": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
-    "published": "Sat, 11 Jul 2026 18:00:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "578974cad0f814ef310ff6b92c9442f9",
-    "fetched_at": "2026-07-13T19:15:44.794069+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
-    "summary": "At least two people were killed and four others wounded after gunfire erupted at Toronto&apos;s TD Salsa on St. Clair Festival. Police are investigating the deadly shooting.",
-    "link": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
-    "published": "Sat, 11 Jul 2026 21:15:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3d262aead1bb85d10b7a4a42a4445134",
-    "fetched_at": "2026-07-13T19:15:44.794066+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Migrant sought in American mom's killing was denied asylum but remained in Ireland",
-    "summary": "A migrant whose asylum claim was rejected fled Ireland to Istanbul before the murder investigation began, sparking an Interpol and Europol manhunt.",
-    "link": "https://www.foxnews.com/world/migrant-sought-american-moms-killing-denied-asylum-remained-ireland",
-    "published": "Sun, 12 Jul 2026 18:01:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9bd030efc3bcbfe9e9f213298b61f215",
-    "fetched_at": "2026-07-13T19:15:44.794063+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Massive fire rips through pub, killing at least 27 as patrons flee smoke-filled venue",
-    "summary": "Officials said the fire broke out around midnight at a northern Bangkok pub, sending thick smoke through the venue as patrons tried to escape.",
-    "link": "https://www.foxnews.com/world/massive-fire-rips-through-pub-killing-least-27-patrons-flee-smoke-filled-venue",
-    "published": "Sun, 12 Jul 2026 19:48:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c1d435b0cb8fcead5b9e9c5074ef1a51",
-    "fetched_at": "2026-07-13T19:15:44.794036+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four Americans caught in horrific Mexico highway pileup that killed at least 10",
-    "summary": "A fiery chain-reaction crash involving multiple tractor-trailers killed at least 10 people in western Mexico, while four Americans were transported to local hospitals.",
-    "link": "https://www.foxnews.com/world/four-americans-caught-horrific-mexico-highway-pileup-killed-least-10",
-    "published": "Sun, 12 Jul 2026 21:27:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd22518bd1d5cf285350aab242bdeee4",
-    "fetched_at": "2026-07-13T19:15:43.685075+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed terror proxy Houthis threaten fresh attacks after Yemen airport strike",
-    "summary": "The Houthis threatened to strike King Khalid Airport in Riyadh after what they called &quot;blatant aggression&quot; targeting the Sanaa airport runway.",
-    "link": "https://www.foxnews.com/world/iran-backed-terror-proxy-houthis-threaten-fresh-attacks-after-yemen-airport-strike",
-    "published": "Mon, 13 Jul 2026 15:05:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1b2c6d9f3d7baa71010e84d72970d1a0",
-    "fetched_at": "2026-07-13T19:15:42.563770+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A veteran foreign correspondent looks back on a career covering conflicts",
-    "summary": "For Reporter's Notebook we hear about what it takes to cover conflict over a decades-long career as a foreign correspondent.",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5866592/a-veteran-foreign-correspondent-looks-back-on-a-career-covering-conflicts",
-    "published": "Sat, 11 Jul 2026 17:08:23 -0400",
-    "source": "NPR Topics: World",
-    "id": "ca5b921903d5dd1b437476a16c61ecf5",
-    "fetched_at": "2026-07-13T19:15:41.459820+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
-    "summary": "Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.",
-    "link": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
-    "published": "Sat, 11 Jul 2026 17:09:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "0b2bf18ef48a4ec4cace3d23e43a45cb",
-    "fetched_at": "2026-07-13T19:15:40.342994+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-    "summary": "Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland.",
-    "link": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
-    "published": "Sun, 12 Jul 2026 00:10:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "881a3dc671a96e68601a7aa2c136c0cf",
-    "fetched_at": "2026-07-13T19:15:39.224096+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
-    "summary": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
-    "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
-    "published": "Sun, 12 Jul 2026 17:08:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "f8bb1dba517256190ba1d99b15cfdb33",
-    "fetched_at": "2026-07-13T19:15:38.090750+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-    "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 18:52:46 GMT",
-    "source": "BBC News",
-    "id": "fb9bebc413a6d7e59ad0d6234b40c2ef",
-    "fetched_at": "2026-07-13T19:15:36.941646+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ted Lasso actor Fernandez makes professional debut",
-    "summary": "Ted Lasso actor Cristo Fernandez makes his professional football debut for American second-tier side El Paso Locomotive.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 09:43:13 GMT",
-    "source": "BBC News",
-    "id": "b775480887b1faaad2cc3f28532d7441",
-    "fetched_at": "2026-07-13T17:50:06.358227+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-    "summary": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 12:02:19 GMT",
-    "source": "BBC News",
-    "id": "f5ddf352cb79041af4207959f4d34590",
-    "fetched_at": "2026-07-13T17:50:06.358225+00:00"
   }
 ]
