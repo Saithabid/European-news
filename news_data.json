@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+    "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 16:19:15 GMT",
+    "source": "BBC News",
+    "id": "ef5b7268e62fb9563a95613ccc7302d9",
+    "fetched_at": "2026-07-14T01:49:31.468500+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
+    "summary": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
+    "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 13:01:33 GMT",
+    "source": "BBC News",
+    "id": "4e6bf67f6da5584940a83f35f70ce00c",
+    "fetched_at": "2026-07-14T01:49:30.331722+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela quake death toll rises to 4,490, officials say, but no number given for missing",
+    "summary": "Camps for families left homeless have sprung up in stadiums, plazas and on sidewalks in La Guaira as well as nearby Caracas.",
+    "link": "http://www.euronews.com/2026/07/13/venezuela-quake-death-toll-rises-to-4490-officials-say-but-no-number-given-for-missing",
+    "published": "Mon, 13 Jul 2026 08:49:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4bf1c83cce49a18ac2c5402044841de8",
+    "fetched_at": "2026-07-14T01:49:29.152310+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
+    "summary": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
+    "link": "https://www.foxnews.com/world/new-germany-sex-crime-figures-reignite-migration-fight-exploitation-probe-expands",
+    "published": "Sun, 12 Jul 2026 10:00:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "681f1e0fa42180f8637837a361bdeaa4",
+    "fetched_at": "2026-07-14T01:49:28.015068+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukrainian prime minister resigns in Zelenskyy shake-up",
+    "summary": "Yulia Svyrydenko resigned as Ukraine&apos;s prime minister, with Zelenskyy saying he offered her a new role in relations with a key international partner.",
+    "link": "https://www.foxnews.com/world/ukrainian-prime-minister-resigns-zelenskyy-shake-up",
+    "published": "Mon, 13 Jul 2026 08:57:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f890d40f33c00d287af24da04df09cea",
+    "fetched_at": "2026-07-14T01:49:26.883479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+    "summary": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
+    "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+    "published": "Mon, 13 Jul 2026 08:02:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "690652b1d951270b98d7305ae478b4a6",
+    "fetched_at": "2026-07-14T01:49:25.738611+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Azerbaijan considering full withdrawal from Council of Europe, Aliyev says",
     "summary": "President Ilham Aliyev said Baku was considering full withdrawal from the 46-member organisation after Azerbaijan's voting rights in PACE were suspended in 2024.",
     "link": "http://www.euronews.com/2026/07/13/azerbaijan-considering-full-withdrawal-from-council-of-europe-aliyev-says",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "392bf7bb8d3d96826fc718f4ac86980c",
     "fetched_at": "2026-07-13T14:16:39.116230+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows civilians taking cover during Russian strike on Sumy",
-    "summary": "Four people were injured after a Russian strike hit Odesa on 13 July 2026, according to Ukraine's State Emergency Service.",
-    "link": "http://www.euronews.com/video/2026/07/13/video-shows-civilians-taking-cover-during-russian-strike-on-sumy",
-    "published": "Mon, 13 Jul 2026 14:56:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c8c59021c997f8b50f918a048e8cd53c",
-    "fetched_at": "2026-07-13T14:16:39.116228+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
-    "summary": "Czech youngster Linda Noskova recovers from missing five championship points to beat Karolina Muchova in an extraordinary Wimbledon final.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 19:37:02 GMT",
-    "source": "BBC News",
-    "id": "46227a9b37a227e69a6f08f80b7f7aa6",
-    "fetched_at": "2026-07-13T14:16:39.116225+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-    "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-    "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 15:03:45 GMT",
-    "source": "BBC News",
-    "id": "fb1a6225d7da81150e5da668cae5654c",
-    "fetched_at": "2026-07-13T14:16:39.116197+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-    "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-    "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 23:29:06 GMT",
-    "source": "BBC News",
-    "id": "effe7d8b12861b01e26c0ffefebcd52f",
-    "fetched_at": "2026-07-13T14:16:37.975170+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
-    "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-    "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 11:36:18 GMT",
-    "source": "BBC News",
-    "id": "103cacbfd41b25a54313f78168d94c3c",
-    "fetched_at": "2026-07-13T14:16:36.833748+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian anti-war politician Boris Nadezhdin detained by police",
-    "summary": "Boris Nadezhdin attempted to run against Vladimir Putin at the 2024 presidential election, but was prevented from doing so.",
-    "link": "https://www.bbc.co.uk/news/articles/cly7epp3jdlo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 13:10:51 GMT",
-    "source": "BBC News",
-    "id": "5de69b1a4549fbc98c32ed4cdfbb63a8",
-    "fetched_at": "2026-07-13T14:16:35.686284+00:00"
   }
 ]
