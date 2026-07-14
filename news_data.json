@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+    "summary": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 01:43:57 GMT",
+    "source": "BBC News",
+    "id": "69ac4fe0498f8e3633a80ca379411e0d",
+    "fetched_at": "2026-07-14T04:44:54.327052+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+    "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+    "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 02:26:45 GMT",
+    "source": "BBC News",
+    "id": "fb8cfeaaf328ef5caddd7d1238bbabc3",
+    "fetched_at": "2026-07-14T04:44:54.327024+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+    "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+    "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 03:47:41 GMT",
+    "source": "BBC News",
+    "id": "7a1488e820613346a570b1b3ac18572b",
+    "fetched_at": "2026-07-14T04:44:53.226528+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Video shows civilians taking cover during Russian strike on Sumy",
+    "summary": "Four people were injured after a Russian strike hit Odesa on 13 July 2026, according to Ukraine's State Emergency Service.",
+    "link": "http://www.euronews.com/video/2026/07/13/video-shows-civilians-taking-cover-during-russian-strike-on-sumy",
+    "published": "Mon, 13 Jul 2026 14:56:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c8c59021c997f8b50f918a048e8cd53c",
+    "fetched_at": "2026-07-14T04:44:52.140081+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US launches strikes on Iran for third straight night as Trump says deal still 'possible'",
+    "summary": "Following the latest US strikes, the UAE said Iran attacked two ships in the Strait of Hormuz with missiles, as Iran said it carried out strikes on Bahrain.",
+    "link": "http://www.euronews.com/2026/07/14/us-launches-strikes-on-iran-for-third-straight-night-as-trump-says-deal-still-possible",
+    "published": "Tue, 14 Jul 2026 05:24:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dd2c47cc72e489881d828d1bd739c7ae",
+    "fetched_at": "2026-07-14T04:44:51.027479+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+    "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+    "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 23:29:06 GMT",
+    "source": "BBC News",
+    "id": "effe7d8b12861b01e26c0ffefebcd52f",
+    "fetched_at": "2026-07-14T04:44:49.921884+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+    "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+    "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 11:36:18 GMT",
+    "source": "BBC News",
+    "id": "103cacbfd41b25a54313f78168d94c3c",
+    "fetched_at": "2026-07-14T04:44:48.813568+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian anti-war politician Boris Nadezhdin detained by police",
+    "summary": "Boris Nadezhdin attempted to run against Vladimir Putin at the 2024 presidential election, but was prevented from doing so.",
+    "link": "https://www.bbc.co.uk/news/articles/cly7epp3jdlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 16:07:54 GMT",
+    "source": "BBC News",
+    "id": "5de69b1a4549fbc98c32ed4cdfbb63a8",
+    "fetched_at": "2026-07-14T04:44:47.701707+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive",
+    "summary": "The sister of the last known polio patient in the US to use the life-saving machine spoke to the BBC about her sister's life.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyk4z3e2xlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 02:20:14 GMT",
+    "source": "BBC News",
+    "id": "bfaf65ab39730b69dfc5a3a515b7aff7",
+    "fetched_at": "2026-07-14T04:44:46.581678+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Volkswagen planning to cut up to 100,000 jobs globally",
     "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
     "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "9f472c0dd60cceab3a59294f4eacba7d",
     "fetched_at": "2026-07-13T17:50:01.706827+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "One person killed in shooting involving federal agents in Maine, official says",
-    "summary": "It comes less than a week after a man on his way to work in Houston was shot and killed by an immigration agent.",
-    "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 16:28:23 GMT",
-    "source": "BBC News",
-    "id": "abd8c5b2accae6ce02fc229f1f83ee47",
-    "fetched_at": "2026-07-13T17:50:00.537675+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-    "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-    "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 19:42:26 GMT",
-    "source": "BBC News",
-    "id": "47f82eb69fd7f33487a86f023c553fcf",
-    "fetched_at": "2026-07-13T17:49:59.382601+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump pushes for Lindsey Graham's sister as replacement after senator's death from aortic tear",
-    "summary": "The South Carolina governor will choose a replacement for Graham, who died on Saturday, later on Monday.",
-    "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 16:03:14 GMT",
-    "source": "BBC News",
-    "id": "4da7a762f7ea9d3710ab46bf55fa53e2",
-    "fetched_at": "2026-07-13T17:49:58.234593+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-    "summary": "Thousands have lost their homes as flash floods and landslides have hit large parts of the country.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 06:19:49 GMT",
-    "source": "BBC News",
-    "id": "34f51bea874b691af55abd701b5f1cd5",
-    "fetched_at": "2026-07-13T14:16:39.116240+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Infantino opens door to 64-team World Cup",
-    "summary": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 19:18:56 GMT",
-    "source": "BBC News",
-    "id": "2b21dae4fa16231a77cb081fa7b76b68",
-    "fetched_at": "2026-07-13T14:16:39.116239+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Men disguised as police kill Ecuadorean drug lord's brother",
-    "summary": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 10:30:51 GMT",
-    "source": "BBC News",
-    "id": "5a09ed2c7a4543452cf93c2367f998cf",
-    "fetched_at": "2026-07-13T14:16:39.116237+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Senator Lindsey Graham died of aortic tear, examiner says",
-    "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-    "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 10:14:01 GMT",
-    "source": "BBC News",
-    "id": "2ffe9e82644cf1f12d94bcf957ed6ad9",
-    "fetched_at": "2026-07-13T14:16:39.116235+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-    "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-    "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 11:52:55 GMT",
-    "source": "BBC News",
-    "id": "439bdde87fb44c8ab184723649042dd8",
-    "fetched_at": "2026-07-13T14:16:39.116233+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drone footage shows devastation after deadly Spain wildfire",
-    "summary": "Drone footage shows the devastation left by a deadly wildfire in southern Spain that killed at least 12 people and burned around 7,000 hectares. Authorities say the blaze has now been brought under control.",
-    "link": "http://www.euronews.com/video/2026/07/13/drone-footage-shows-devastation-after-deadly-spain-wildfire",
-    "published": "Mon, 13 Jul 2026 12:55:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "392bf7bb8d3d96826fc718f4ac86980c",
-    "fetched_at": "2026-07-13T14:16:39.116230+00:00"
   }
 ]
