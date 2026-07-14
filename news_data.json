@@ -1,5 +1,105 @@
 [
   {
+    "region": "USA",
+    "title": "Migrant sought in American mom's killing was denied asylum but remained in Ireland",
+    "summary": "A migrant whose asylum claim was rejected fled Ireland to Istanbul before the murder investigation began, sparking an Interpol and Europol manhunt.",
+    "link": "https://www.foxnews.com/world/migrant-sought-american-moms-killing-denied-asylum-remained-ireland",
+    "published": "Sun, 12 Jul 2026 18:01:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9bd030efc3bcbfe9e9f213298b61f215",
+    "fetched_at": "2026-07-14T22:51:15.075939+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Massive fire rips through pub, killing at least 27 as patrons flee smoke-filled venue",
+    "summary": "Officials said the fire broke out around midnight at a northern Bangkok pub, sending thick smoke through the venue as patrons tried to escape.",
+    "link": "https://www.foxnews.com/world/massive-fire-rips-through-pub-killing-least-27-patrons-flee-smoke-filled-venue",
+    "published": "Sun, 12 Jul 2026 19:48:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c1d435b0cb8fcead5b9e9c5074ef1a51",
+    "fetched_at": "2026-07-14T22:51:15.075935+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Four Americans caught in horrific Mexico highway pileup that killed at least 10",
+    "summary": "A fiery chain-reaction crash involving multiple tractor-trailers killed at least 10 people in western Mexico, while four Americans were transported to local hospitals.",
+    "link": "https://www.foxnews.com/world/four-americans-caught-horrific-mexico-highway-pileup-killed-least-10",
+    "published": "Sun, 12 Jul 2026 21:27:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd22518bd1d5cf285350aab242bdeee4",
+    "fetched_at": "2026-07-14T22:51:15.075909+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed terror proxy Houthis threaten fresh attacks after Yemen airport strike",
+    "summary": "The Houthis threatened to strike King Khalid Airport in Riyadh after what they called &quot;blatant aggression&quot; targeting the Sanaa airport runway.",
+    "link": "https://www.foxnews.com/world/iran-backed-terror-proxy-houthis-threaten-fresh-attacks-after-yemen-airport-strike",
+    "published": "Mon, 13 Jul 2026 15:05:43 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1b2c6d9f3d7baa71010e84d72970d1a0",
+    "fetched_at": "2026-07-14T22:51:13.956827+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
+    "summary": "Ro Khanna claims violent Israeli settlers detained his delegation for 75 minutes in the West Bank, and U.S. Ambassador to Israel Mike Huckabee angrily fired back.",
+    "link": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
+    "published": "Tue, 14 Jul 2026 16:45:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c5bed76a4221262dd44b4efe61d8879e",
+    "fetched_at": "2026-07-14T22:51:12.839887+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
+    "summary": "James Cox Chambers Jr., estranged heir to the $27 billion Cox empire, was detained in Spain for alleged money laundering and Hamas support.",
+    "link": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
+    "published": "Tue, 14 Jul 2026 17:49:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e9c3652dae97e1310e5a1119e880e635",
+    "fetched_at": "2026-07-14T22:51:11.720633+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
+    "summary": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
+    "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
+    "published": "Sun, 12 Jul 2026 17:08:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "f8bb1dba517256190ba1d99b15cfdb33",
+    "fetched_at": "2026-07-14T22:51:10.598479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. puts a blockade back on Iran as the Strait of Hormuz standoff escalates",
+    "summary": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+    "published": "Tue, 14 Jul 2026 05:56:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "fa06fc5e94689f30bb5c4b0124bc74e7",
+    "fetched_at": "2026-07-14T22:51:09.458579+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
+    "summary": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
+    "published": "Tue, 14 Jul 2026 18:23:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "6400d9e0c0d045ffbc1a044d5ba2d485",
+    "fetched_at": "2026-07-14T22:51:08.342190+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Miracle on the Hudson' pilot Captain Sully reveals Alzheimer's diagnosis",
+    "summary": "The 75-year-old says he was recently diagnosed and the disease is at an early stage.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dydzk2k9wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 22:30:35 GMT",
+    "source": "BBC News",
+    "id": "4239b18a3eec73b4781be074e9d90829",
+    "fetched_at": "2026-07-14T22:51:07.203219+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
     "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "d2488bcf2c18467ee337b28f3bb9753d",
     "fetched_at": "2026-07-14T13:16:09.403865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "People watching the World Cup during work hours is leading to a drop in productivity",
-    "summary": "The global economy may be suffering from lost productivity as people get swept by World Cup fever, a survey shows. This small business owner would know. She's spent most of her days watching matches.",
-    "link": "https://www.npr.org/2026/07/13/nx-s1-5884861/people-watching-the-world-cup-during-work-hours-is-leading-to-a-drop-in-productivity",
-    "published": "Mon, 13 Jul 2026 16:02:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "b8be0ace5212c69b13709f0adb2b1827",
-    "fetched_at": "2026-07-14T13:16:08.248421+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-    "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
-    "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
-    "published": "Tue, 14 Jul 2026 08:18:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "4a850900eee1a6dedcc4e319b836abd3",
-    "fetched_at": "2026-07-14T13:16:07.098789+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump watches IndyCar pit stop outside White House",
-    "summary": "The event was a preview of the actual race that President Trump commissioned by signing an executive order in January.",
-    "link": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 19:25:17 GMT",
-    "source": "BBC News",
-    "id": "ab4c8f194791ae5e9a67e389b3728dc7",
-    "fetched_at": "2026-07-14T13:16:05.939964+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-    "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 04:50:48 GMT",
-    "source": "BBC News",
-    "id": "42474ab12a9da45bb34d8d8466f791e7",
-    "fetched_at": "2026-07-14T13:16:04.763043+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU bans gold imports from Sudan to curb money financing the war",
-    "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 08:32:49 GMT",
-    "source": "BBC News",
-    "id": "6e751d5fb640cf9a2354c1ba65cfea28",
-    "fetched_at": "2026-07-14T11:20:22.594400+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-    "summary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
-    "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 10:02:43 GMT",
-    "source": "BBC News",
-    "id": "9b3193ebfb99fffcc9c69de1cbf8531b",
-    "fetched_at": "2026-07-14T11:20:22.594397+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 14th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/14/latest-news-bulletin-july-14th-2026-midday",
-    "published": "Tue, 14 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bc635d6636ac996354176b5f033ce534",
-    "fetched_at": "2026-07-14T11:20:22.594395+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-    "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-    "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 09:40:23 GMT",
-    "source": "BBC News",
-    "id": "82c111113b9e466d29e0a8e86b35b6f3",
-    "fetched_at": "2026-07-14T11:20:22.594392+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Irish police under fire for refusing to identify reported asylum seeker sought in American mother's murder",
-    "summary": "Irish police refuse to name the person of interest in Jamey Carney&apos;s Killarney murder. The suspect fled to Turkey before her body was found.",
-    "link": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
-    "published": "Sat, 11 Jul 2026 18:00:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "578974cad0f814ef310ff6b92c9442f9",
-    "fetched_at": "2026-07-14T11:20:22.594389+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
-    "summary": "At least two people were killed and four others wounded after gunfire erupted at Toronto&apos;s TD Salsa on St. Clair Festival. Police are investigating the deadly shooting.",
-    "link": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
-    "published": "Sat, 11 Jul 2026 21:15:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3d262aead1bb85d10b7a4a42a4445134",
-    "fetched_at": "2026-07-14T11:20:22.594331+00:00"
   }
 ]
