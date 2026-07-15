@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "China economic growth falls sharply, missing target",
+    "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+    "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 10:21:48 GMT",
+    "source": "BBC News",
+    "id": "92628fb49360159e1b0a834c643c14e5",
+    "fetched_at": "2026-07-15T17:08:57.354450+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine: Six dead as Russia targets Sumy and Odesa",
+    "summary": "Emergency crews battled fires and searched damaged buildings across Ukraine on Tuesday 15 July after Russian strikes on the cities of Sumy and Odesa killed six people and injured at least 20 others, according to regional authorities.",
+    "link": "http://www.euronews.com/video/2026/07/15/ukraine-six-dead-as-russia-targets-sumy-and-odesa",
+    "published": "Wed, 15 Jul 2026 17:49:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9bfd99fa701064f444a6eff1bbe5ba64",
+    "fetched_at": "2026-07-15T17:08:57.354447+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Po river choked by algae bloom as Italy battles heat and navigability woes",
+    "summary": "Italy is stepping up efforts to clear thick algae from the River Po in Turin after weeks of high temperatures accelerated its spread along the country’s longest river.",
+    "link": "http://www.euronews.com/video/2026/07/15/po-river-choked-by-algae-bloom-as-italy-battles-heat-and-navigability-woes",
+    "published": "Wed, 15 Jul 2026 17:59:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ede6a1bf5d3f29f7a2e23a6810ed01ac",
+    "fetched_at": "2026-07-15T17:08:57.354442+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 15th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/15/latest-news-bulletin-july-15th-2026-evening",
+    "published": "Wed, 15 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e4f69fc9024b7b7db2010ac85f3c144c",
+    "fetched_at": "2026-07-15T17:08:57.354417+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Starmer becomes first UK PM to receive top French honour",
+    "summary": "France's President Emmanuel Macron praised Starmer's \"decency\" and contribution to Ukraine and the security of Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 19:27:49 GMT",
+    "source": "BBC News",
+    "id": "3d5f28669fc1e336361dd68c55cb7b85",
+    "fetched_at": "2026-07-15T17:08:56.026681+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
+    "summary": "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 05:32:11 GMT",
+    "source": "BBC News",
+    "id": "9180bd0fe2cad5d4e285126fa7e7a639",
+    "fetched_at": "2026-07-15T17:08:54.866788+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Six people found dead in lift shaft after fire in central Brussels building",
+    "summary": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 15:16:07 GMT",
+    "source": "BBC News",
+    "id": "d17a21489ca4bc2672da02ee62209a0d",
+    "fetched_at": "2026-07-15T17:08:53.702651+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside Israel's mission to train civilians to stop the next Oct 7-like terror attack",
+    "summary": "A full-scale terror attack drill at Kibbutz Bror Hayil simulates Oct. 7-style infiltration, training civil defense squads near the Gaza border.",
+    "link": "https://www.foxnews.com/world/inside-israels-mission-train-civilians-stop-next-oct-7-like-terror-attack",
+    "published": "Tue, 14 Jul 2026 09:18:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5f2db9f18ab61ae14f67ed3504d0bf6f",
+    "fetched_at": "2026-07-15T17:08:52.515234+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Slain American mother Jamey Carney remembered as 'ray of sunshine' at Ireland funeral",
+    "summary": "Jamey Carney&apos;s livestreamed funeral in Killarney celebrated her life as a &quot;ray of sunshine&quot; while the Jordanian suspect remains detained abroad.",
+    "link": "https://www.foxnews.com/world/slain-american-mother-jamey-carney-remembered-ray-sunshine-ireland-funeral",
+    "published": "Wed, 15 Jul 2026 12:03:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "19cc39513a6e4a6be84d30b248ac3fdd",
+    "fetched_at": "2026-07-15T17:08:51.357933+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+    "summary": "Hong Kong was once known for its freedom of publication, but political changes have created a challenging environment for independent bookstores.",
+    "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+    "published": "Wed, 15 Jul 2026 11:37:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "64f4eda980906d8c806f11d4f163211a",
+    "fetched_at": "2026-07-15T17:08:50.177916+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Train 'encased in flames' in Canada wildfire",
+    "summary": "The crew was rescued after the close call. Meanwhile, wildfires in Canada have left Toronto under a haze and sent smoke drifting towards several major US cities.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 16:52:49 GMT",
+    "source": "BBC News",
+    "id": "206aae091355f2dbc719c87bb6624308",
+    "fetched_at": "2026-07-15T17:08:49.006873+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Venezuela government to launch formal talks with opposition members",
     "summary": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system.",
     "link": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "b7c2b136ed8c1ab245da3fafb255ba93",
     "fetched_at": "2026-07-15T09:54:17.333819+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 17:13:27 GMT",
-    "source": "BBC News",
-    "id": "55d28973bc0c0ff548d1bada991c2ce7",
-    "fetched_at": "2026-07-15T09:54:17.333817+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-    "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-    "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 09:15:54 GMT",
-    "source": "BBC News",
-    "id": "ea0aad7cb1a176ca96aa5174c0b475d0",
-    "fetched_at": "2026-07-15T09:54:17.333814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One dead and three missing after boat sinks near San Francisco's Alcatraz prison island",
-    "summary": "Authorities did not know if the boat was headed to Alcatraz, a major tourist attraction, where shuttered buildings of the famous former prison still stand.",
-    "link": "http://www.euronews.com/2026/07/15/one-dead-and-three-missing-after-boat-sinks-near-san-franciscos-alcatraz-prison-island",
-    "published": "Wed, 15 Jul 2026 10:35:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9559ed07827a12b976bb7d23591b295e",
-    "fetched_at": "2026-07-15T09:54:17.333812+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gibraltar enters Schengen as border fence comes down under EU-UK treaty",
-    "summary": "Spain and the British territory of Gibraltar removed their border fence on 15 July 2026 under a landmark EU-UK treaty. Residents celebrated as passport checks moved to the airport and port.",
-    "link": "http://www.euronews.com/video/2026/07/15/gibraltar-enters-schengen-as-border-fence-comes-down-under-eu-uk-treaty",
-    "published": "Wed, 15 Jul 2026 10:39:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c468a0b0f4baf9c9b302862301ec11e4",
-    "fetched_at": "2026-07-15T09:54:17.333809+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Most realistic ancient roman faces revealed at Budapest exhibition",
-    "summary": "Sixteen faces from Roman Aquincum have been brought back to life in a new exhibition, where DNA analysis and forensic anthropology reveal the diverse backgrounds of the ancient city's inhabitants.",
-    "link": "http://www.euronews.com/video/2026/07/15/most-realistic-ancient-roman-faces-revealed-at-budapest-exhibition",
-    "published": "Wed, 15 Jul 2026 10:52:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4cb211afd666f707a5ef5455dc0d4742",
-    "fetched_at": "2026-07-15T09:54:17.333806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran executes man over January protests as crackdown on dissent widens",
-    "summary": "Mohammad Amini Dehaghani was convicted of setting fire to a governor's office in Isfahan on 9 January, as Amnesty International says Iran is using wartime conditions as a pretext to accelerate politically motivated executions.",
-    "link": "http://www.euronews.com/2026/07/15/iran-executes-man-over-january-protests-as-crackdown-on-dissent-widens",
-    "published": "Wed, 15 Jul 2026 11:03:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a7f1e35a7db2a0edce7f7088345bdc5b",
-    "fetched_at": "2026-07-15T09:54:17.333802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian anti-war politician Boris Nadezhdin detained by police",
-    "summary": "Boris Nadezhdin attempted to run against Vladimir Putin at the 2024 presidential election, but was prevented from doing so.",
-    "link": "https://www.bbc.co.uk/news/articles/cly7epp3jdlo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 13 Jul 2026 16:07:54 GMT",
-    "source": "BBC News",
-    "id": "5de69b1a4549fbc98c32ed4cdfbb63a8",
-    "fetched_at": "2026-07-15T09:54:17.333776+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-    "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-    "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 23:29:06 GMT",
-    "source": "BBC News",
-    "id": "effe7d8b12861b01e26c0ffefebcd52f",
-    "fetched_at": "2026-07-15T09:54:16.197083+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German man, 68, charged over alleged serial rapes of drugged women",
-    "summary": "Prosecutors say he had been charged with raping 14 women, but was suspected of attacking dozens more.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryr99pr80o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 16:50:45 GMT",
-    "source": "BBC News",
-    "id": "8bbdae1b54ef7b5340e94cd9a4a00523",
-    "fetched_at": "2026-07-15T09:54:15.044988+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-    "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
-    "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-    "published": "Wed, 15 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "37c22664cdb1c2ea717a4f1330fcec6e",
-    "fetched_at": "2026-07-15T09:54:13.893046+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Millions in Canada swelter as heatwave continues to move east",
-    "summary": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 21:39:06 GMT",
-    "source": "BBC News",
-    "id": "9f80a9873b40165ff4bb0e7804659f02",
-    "fetched_at": "2026-07-15T09:54:12.747230+00:00"
   }
 ]
