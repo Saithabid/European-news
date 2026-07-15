@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
+    "summary": "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week.",
+    "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 09:42:09 GMT",
+    "source": "BBC News",
+    "id": "5097da0f2bdabf535ecf88c011404da7",
+    "fetched_at": "2026-07-15T11:24:29.216777+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
+    "summary": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 10:44:15 GMT",
+    "source": "BBC News",
+    "id": "729e6e3f34ecc726e5055c00b50929ea",
+    "fetched_at": "2026-07-15T11:24:29.216775+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Air India crash report likely to be ready in October, say investigators",
+    "summary": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 09:45:21 GMT",
+    "source": "BBC News",
+    "id": "5ef248ac9e8e24b82a8f3e679097c110",
+    "fetched_at": "2026-07-15T11:24:29.216773+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three killed as Russian bombing of Odesa continues",
+    "summary": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
+    "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 10:17:38 GMT",
+    "source": "BBC News",
+    "id": "e01121548ecb6a941022aad1d9e1c503",
+    "fetched_at": "2026-07-15T11:24:29.216772+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+    "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 11:08:59 GMT",
+    "source": "BBC News",
+    "id": "099ede8c36d5cc61c0f9115152c81f33",
+    "fetched_at": "2026-07-15T11:24:29.216770+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pygmy hippo in Thailand predicts France vs Argentina World Cup final",
+    "summary": "Pygmy hippo Moo Deng at a Thai zoo predicts a France–Argentina World Cup final, choosing France over Spain and Argentina over England in a playful stunt.",
+    "link": "http://www.euronews.com/video/2026/07/14/pygmy-hippo-in-thailand-predicts-france-vs-england-world-cup-final",
+    "published": "Tue, 14 Jul 2026 22:31:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "19cd9f937a00dd31fc49e56ef9757d97",
+    "fetched_at": "2026-07-15T11:24:29.216769+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 15th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/15/latest-news-bulletin-july-15th-2026-midday",
+    "published": "Wed, 15 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4809444cc826e884d9390956c27babd8",
+    "fetched_at": "2026-07-15T11:24:29.216767+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK pins string of antisemitic attacks on Iran-linked group, bans IRGC",
+    "summary": "Keir Starmer announced sweeping national security powers after British intelligence linked antisemitic arson attacks to an Iran-backed proxy.",
+    "link": "https://www.foxnews.com/world/uk-pins-string-antisemitic-attacks-iran-linked-group-bans-irgc",
+    "published": "Mon, 13 Jul 2026 10:25:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2f6e7abc5a3f71a1e57a73249e31905e",
+    "fetched_at": "2026-07-15T11:24:29.216764+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
+    "summary": "A senior U.S. official says the USAID OIG investigation picked up where the U.N. failed, examining UNRWA staff links to terrorism beyond Oct. 7.",
+    "link": "https://www.foxnews.com/world/trump-administration-probes-unrwa-over-alleged-employment-1500-terrorists",
+    "published": "Mon, 13 Jul 2026 13:09:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ddade3c7012a94c26d9a4b1f1075031b",
+    "fetched_at": "2026-07-15T11:24:29.216762+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump won’t rule out Kharg Island takeover: What a US assault could look like",
+    "summary": "Military experts detail how U.S. Marines could seize Iran&apos;s Kharg Island in hours but warn holding it against missile and drone attacks is far riskier.",
+    "link": "https://www.foxnews.com/world/trump-wont-rule-out-kharg-island-takeover-what-us-assault-could-look-like",
+    "published": "Wed, 15 Jul 2026 05:50:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cfbc9bc8751e47c02247c4f63028cc3a",
+    "fetched_at": "2026-07-15T11:24:29.216759+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
+    "summary": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
+    "link": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+    "published": "Mon, 13 Jul 2026 12:53:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "6457c96f858609d1bb6aead29b511e08",
+    "fetched_at": "2026-07-15T11:24:29.216736+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+    "summary": "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration.",
+    "link": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
+    "published": "Tue, 14 Jul 2026 02:43:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "ee62b2415b1edd2c64bf2fde8d1bcce2",
+    "fetched_at": "2026-07-15T11:24:28.082895+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+    "summary": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+    "published": "Wed, 15 Jul 2026 05:56:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "1cbce70ab7d25a08f40f5576fdfae71a",
+    "fetched_at": "2026-07-15T11:24:26.935102+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I changed 10 times in 10 years': Why Gen Z see job-hopping as the future",
+    "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:04:15 GMT",
+    "source": "BBC News",
+    "id": "a789c642e625330c55a6c78dbbddf460",
+    "fetched_at": "2026-07-15T11:24:25.778333+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court justice describes wearing bulletproof vest and 'swatting' hoax at home",
+    "summary": "Two justices appeared before Congress to ask for $228m (£170.3m) in security funding as threats continue to rise - both in person and online.",
+    "link": "https://www.bbc.co.uk/news/articles/crkvkjddjd7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 20:36:23 GMT",
+    "source": "BBC News",
+    "id": "ce85299c96cbfa887c9d6f38145760fb",
+    "fetched_at": "2026-07-15T11:24:24.615999+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICE told to halt most vehicle stops after pair of fatal shootings",
+    "summary": "It marks a major policy shift for the immigration enforcement agency, which has faced criticism in the past year over allegations of excessive use of force.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 01:00:43 GMT",
+    "source": "BBC News",
+    "id": "571403d30a1d685e9eb310942d71986d",
+    "fetched_at": "2026-07-15T11:24:23.460256+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One dead and three missing after boat sinks near Alcatraz",
+    "summary": "Witnesses reported seeing a boat in rough seas which began to take on water and was turned over, authorities say.",
+    "link": "https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 11:09:46 GMT",
+    "source": "BBC News",
+    "id": "996bc5141333e7d8a9ec51d1c9d5cc84",
+    "fetched_at": "2026-07-15T11:24:22.308622+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+    "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 09:06:52 GMT",
+    "source": "BBC News",
+    "id": "34ac38df47824be8bbf2574f93c9054c",
+    "fetched_at": "2026-07-15T11:24:21.155343+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
     "summary": "Production will stop for two years at the mine which employs more than 4,000 people.",
     "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
@@ -418,185 +598,5 @@
     "source": "BBC News",
     "id": "7640339d8591e53a7bdfa248c746be06",
     "fetched_at": "2026-07-15T01:46:00.097067+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-    "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-    "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 23:17:27 GMT",
-    "source": "BBC News",
-    "id": "5258cc0b91e30c77ab5a3e109891f48a",
-    "fetched_at": "2026-07-15T01:45:58.962869+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 14th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/14/latest-news-bulletin-july-14th-2026-midday",
-    "published": "Tue, 14 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bc635d6636ac996354176b5f033ce534",
-    "fetched_at": "2026-07-15T01:45:57.829760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-    "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-    "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 19:40:23 GMT",
-    "source": "BBC News",
-    "id": "82c111113b9e466d29e0a8e86b35b6f3",
-    "fetched_at": "2026-07-15T01:45:56.695977+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "People watching the World Cup during work hours is leading to a drop in productivity",
-    "summary": "The global economy may be suffering from lost productivity as people get swept by World Cup fever, a survey shows. This small business owner would know. She's spent most of her days watching matches.",
-    "link": "https://www.npr.org/2026/07/13/nx-s1-5884861/people-watching-the-world-cup-during-work-hours-is-leading-to-a-drop-in-productivity",
-    "published": "Mon, 13 Jul 2026 16:02:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "b8be0ace5212c69b13709f0adb2b1827",
-    "fetched_at": "2026-07-15T01:45:55.535295+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-    "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
-    "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
-    "published": "Tue, 14 Jul 2026 08:18:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "4a850900eee1a6dedcc4e319b836abd3",
-    "fetched_at": "2026-07-15T01:45:54.391018+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Migrant sought in American mom's killing was denied asylum but remained in Ireland",
-    "summary": "A migrant whose asylum claim was rejected fled Ireland to Istanbul before the murder investigation began, sparking an Interpol and Europol manhunt.",
-    "link": "https://www.foxnews.com/world/migrant-sought-american-moms-killing-denied-asylum-remained-ireland",
-    "published": "Sun, 12 Jul 2026 18:01:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9bd030efc3bcbfe9e9f213298b61f215",
-    "fetched_at": "2026-07-14T22:51:15.075939+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Massive fire rips through pub, killing at least 27 as patrons flee smoke-filled venue",
-    "summary": "Officials said the fire broke out around midnight at a northern Bangkok pub, sending thick smoke through the venue as patrons tried to escape.",
-    "link": "https://www.foxnews.com/world/massive-fire-rips-through-pub-killing-least-27-patrons-flee-smoke-filled-venue",
-    "published": "Sun, 12 Jul 2026 19:48:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c1d435b0cb8fcead5b9e9c5074ef1a51",
-    "fetched_at": "2026-07-14T22:51:15.075935+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four Americans caught in horrific Mexico highway pileup that killed at least 10",
-    "summary": "A fiery chain-reaction crash involving multiple tractor-trailers killed at least 10 people in western Mexico, while four Americans were transported to local hospitals.",
-    "link": "https://www.foxnews.com/world/four-americans-caught-horrific-mexico-highway-pileup-killed-least-10",
-    "published": "Sun, 12 Jul 2026 21:27:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd22518bd1d5cf285350aab242bdeee4",
-    "fetched_at": "2026-07-14T22:51:15.075909+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed terror proxy Houthis threaten fresh attacks after Yemen airport strike",
-    "summary": "The Houthis threatened to strike King Khalid Airport in Riyadh after what they called &quot;blatant aggression&quot; targeting the Sanaa airport runway.",
-    "link": "https://www.foxnews.com/world/iran-backed-terror-proxy-houthis-threaten-fresh-attacks-after-yemen-airport-strike",
-    "published": "Mon, 13 Jul 2026 15:05:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1b2c6d9f3d7baa71010e84d72970d1a0",
-    "fetched_at": "2026-07-14T22:51:13.956827+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
-    "summary": "Ro Khanna claims violent Israeli settlers detained his delegation for 75 minutes in the West Bank, and U.S. Ambassador to Israel Mike Huckabee angrily fired back.",
-    "link": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
-    "published": "Tue, 14 Jul 2026 16:45:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c5bed76a4221262dd44b4efe61d8879e",
-    "fetched_at": "2026-07-14T22:51:12.839887+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
-    "summary": "James Cox Chambers Jr., estranged heir to the $27 billion Cox empire, was detained in Spain for alleged money laundering and Hamas support.",
-    "link": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
-    "published": "Tue, 14 Jul 2026 17:49:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e9c3652dae97e1310e5a1119e880e635",
-    "fetched_at": "2026-07-14T22:51:11.720633+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
-    "summary": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
-    "link": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
-    "published": "Sun, 12 Jul 2026 17:08:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "f8bb1dba517256190ba1d99b15cfdb33",
-    "fetched_at": "2026-07-14T22:51:10.598479+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S. puts a blockade back on Iran as the Strait of Hormuz standoff escalates",
-    "summary": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
-    "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-    "published": "Tue, 14 Jul 2026 05:56:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "fa06fc5e94689f30bb5c4b0124bc74e7",
-    "fetched_at": "2026-07-14T22:51:09.458579+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
-    "summary": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
-    "link": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
-    "published": "Tue, 14 Jul 2026 18:23:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "6400d9e0c0d045ffbc1a044d5ba2d485",
-    "fetched_at": "2026-07-14T22:51:08.342190+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Miracle on the Hudson' pilot Captain Sully reveals Alzheimer's diagnosis",
-    "summary": "The 75-year-old says he was recently diagnosed and the disease is at an early stage.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dydzk2k9wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 22:30:35 GMT",
-    "source": "BBC News",
-    "id": "4239b18a3eec73b4781be074e9d90829",
-    "fetched_at": "2026-07-14T22:51:07.203219+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-    "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 19:13:49 GMT",
-    "source": "BBC News",
-    "id": "5205caa57e74e436f1ce55ff47f73ea5",
-    "fetched_at": "2026-07-14T20:52:47.173139+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'We will deal with it,' Trump says as US probes reports of Iranian drones in Cuba",
-    "summary": "The US president said his administration is checking whether Tehran stores drones and missiles on the island and warned Washington will act if confirmed, but he offered no proof or details about the alleged weapons.",
-    "link": "http://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba",
-    "published": "Tue, 14 Jul 2026 10:30:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6c360d43ca23da5c937bfc85efbd9c72",
-    "fetched_at": "2026-07-14T20:52:47.173110+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French and Spanish fans pack Texas streets ahead World Cup semi-final",
-    "summary": "French and Spanish fans flooded Arlington’s streets ahead the World Cup semi-final, with the winners to meet England or Argentina.",
-    "link": "http://www.euronews.com/video/2026/07/14/french-and-spanish-fans-pack-texas-streets-ahead-world-cup-semi-final",
-    "published": "Tue, 14 Jul 2026 22:24:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c33c87f6a74dac3fb23fc481e4f9cecf",
-    "fetched_at": "2026-07-14T20:52:46.068356+00:00"
   }
 ]
