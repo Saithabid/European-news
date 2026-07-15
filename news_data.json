@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | July 15th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/15/latest-news-bulletin-july-15th-2026-midday",
+    "published": "Wed, 15 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4809444cc826e884d9390956c27babd8",
+    "fetched_at": "2026-07-15T20:52:19.761801+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump won’t rule out Kharg Island takeover: What a US assault could look like",
+    "summary": "Military experts detail how U.S. Marines could seize Iran&apos;s Kharg Island in hours but warn holding it against missile and drone attacks is far riskier.",
+    "link": "https://www.foxnews.com/world/trump-wont-rule-out-kharg-island-takeover-what-us-assault-could-look-like",
+    "published": "Wed, 15 Jul 2026 05:50:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cfbc9bc8751e47c02247c4f63028cc3a",
+    "fetched_at": "2026-07-15T20:52:19.761799+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
+    "summary": "U.S. government photos show American soldiers unloading China&apos;s only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes.",
+    "link": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
+    "published": "Wed, 15 Jul 2026 15:09:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c9b309eaab9aa215210e3311fd0eb01a",
+    "fetched_at": "2026-07-15T20:52:19.761759+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
+    "summary": "Trump says Putin is &quot;ready to make a deal&quot; to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets.",
+    "link": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
+    "published": "Wed, 15 Jul 2026 15:37:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b4281cee07f2d92b84d5dea206c61e32",
+    "fetched_at": "2026-07-15T20:52:18.619945+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. launches another wave of strikes on Iran as the Hormuz standoff intensifies",
+    "summary": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+    "published": "Wed, 15 Jul 2026 05:56:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "1cbce70ab7d25a08f40f5576fdfae71a",
+    "fetched_at": "2026-07-15T20:52:17.483060+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China and Xi favored over US and Trump in many nations: Survey",
+    "summary": "The change is driven by improved perceptions of China and declining views of the United States.",
+    "link": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
+    "published": "Wed, 15 Jul 2026 16:34:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "2306eee1b307ffaf723c7c2071502395",
+    "fetched_at": "2026-07-15T20:52:16.299808+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I changed 10 times in 10 years': Why Gen Z see job-hopping as the future",
+    "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:04:15 GMT",
+    "source": "BBC News",
+    "id": "a789c642e625330c55a6c78dbbddf460",
+    "fetched_at": "2026-07-15T20:52:15.180473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One dead and three missing after boat sinks near Alcatraz",
+    "summary": "Witnesses reported seeing a boat in rough seas which began to take on water and was turned over, authorities say.",
+    "link": "https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 13:57:33 GMT",
+    "source": "BBC News",
+    "id": "996bc5141333e7d8a9ec51d1c9d5cc84",
+    "fetched_at": "2026-07-15T20:52:14.072827+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says ICE agents should not give up traffic stops",
+    "summary": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 17:13:36 GMT",
+    "source": "BBC News",
+    "id": "571403d30a1d685e9eb310942d71986d",
+    "fetched_at": "2026-07-15T20:52:12.912596+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Elderly US woman shocked to receive racy new car licence plate",
+    "summary": "The Florida retiree says the plate has caused quite a stir among her local community.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlpyve8vjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 20:01:32 GMT",
+    "source": "BBC News",
+    "id": "6e332b7f5a4d7f05621979bc09c3b7d4",
+    "fetched_at": "2026-07-15T20:52:11.755829+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
     "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
     "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6400d9e0c0d045ffbc1a044d5ba2d485",
     "fetched_at": "2026-07-15T13:19:58.327185+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
-    "summary": "Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings.",
-    "link": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
-    "published": "Wed, 15 Jul 2026 08:04:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "895395e1af95b54d45f7d5abb122694b",
-    "fetched_at": "2026-07-15T13:19:57.205596+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-    "summary": "The oldest bridge in Paris was draped in fabric last month to appear like a mountain cave, in an installation by the artist JR. Unlike a real cave, though, it didn't provide respite from a brutal heat wave.",
-    "link": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-    "published": "Wed, 15 Jul 2026 08:40:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "c310ae15852f7fe04a647d7e49be663f",
-    "fetched_at": "2026-07-15T13:19:56.060509+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Miracle on the Hudson' pilot Captain Sully reveals Alzheimer's diagnosis",
-    "summary": "The 75-year-old says he was recently diagnosed and the disease is at an early stage.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dydzk2k9wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 22:30:35 GMT",
-    "source": "BBC News",
-    "id": "4239b18a3eec73b4781be074e9d90829",
-    "fetched_at": "2026-07-15T13:19:54.932859+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-    "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-    "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 23:17:27 GMT",
-    "source": "BBC News",
-    "id": "5258cc0b91e30c77ab5a3e109891f48a",
-    "fetched_at": "2026-07-15T13:19:53.800906+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-    "summary": "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week.",
-    "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 09:42:09 GMT",
-    "source": "BBC News",
-    "id": "5097da0f2bdabf535ecf88c011404da7",
-    "fetched_at": "2026-07-15T11:24:29.216777+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
-    "summary": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 10:44:15 GMT",
-    "source": "BBC News",
-    "id": "729e6e3f34ecc726e5055c00b50929ea",
-    "fetched_at": "2026-07-15T11:24:29.216775+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Air India crash report likely to be ready in October, say investigators",
-    "summary": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 09:45:21 GMT",
-    "source": "BBC News",
-    "id": "5ef248ac9e8e24b82a8f3e679097c110",
-    "fetched_at": "2026-07-15T11:24:29.216773+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three killed as Russian bombing of Odesa continues",
-    "summary": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
-    "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 10:17:38 GMT",
-    "source": "BBC News",
-    "id": "e01121548ecb6a941022aad1d9e1c503",
-    "fetched_at": "2026-07-15T11:24:29.216772+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-    "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 11:08:59 GMT",
-    "source": "BBC News",
-    "id": "099ede8c36d5cc61c0f9115152c81f33",
-    "fetched_at": "2026-07-15T11:24:29.216770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pygmy hippo in Thailand predicts France vs Argentina World Cup final",
-    "summary": "Pygmy hippo Moo Deng at a Thai zoo predicts a France–Argentina World Cup final, choosing France over Spain and Argentina over England in a playful stunt.",
-    "link": "http://www.euronews.com/video/2026/07/14/pygmy-hippo-in-thailand-predicts-france-vs-england-world-cup-final",
-    "published": "Tue, 14 Jul 2026 22:31:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "19cd9f937a00dd31fc49e56ef9757d97",
-    "fetched_at": "2026-07-15T11:24:29.216769+00:00"
   }
 ]
