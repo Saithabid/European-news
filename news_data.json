@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+    "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
+    "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 21:21:19 GMT",
+    "source": "BBC News",
+    "id": "e01121548ecb6a941022aad1d9e1c503",
+    "fetched_at": "2026-07-15T22:52:34.245050+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US military to start testosterone  testing, Hegseth says",
+    "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 22:46:02 GMT",
+    "source": "BBC News",
+    "id": "b2b483cad95831b07add8a5f00a94e28",
+    "fetched_at": "2026-07-15T22:52:34.245047+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina face fine for Falklands banner in semi-final win",
+    "summary": "Argentina face the prospect of a Fifa fine after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 22:49:47 GMT",
+    "source": "BBC News",
+    "id": "383f54e984557e11f22c1ff51c02d37e",
+    "fetched_at": "2026-07-15T22:52:34.245044+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+    "summary": "Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings.",
+    "link": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
+    "published": "Wed, 15 Jul 2026 08:04:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "895395e1af95b54d45f7d5abb122694b",
+    "fetched_at": "2026-07-15T22:52:34.244986+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+    "summary": "The oldest bridge in Paris was draped in fabric last month to appear like a mountain cave, in an installation by the artist JR. Unlike a real cave, though, it didn't provide respite from a brutal heat wave.",
+    "link": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+    "published": "Wed, 15 Jul 2026 08:40:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "c310ae15852f7fe04a647d7e49be663f",
+    "fetched_at": "2026-07-15T22:52:33.137402+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The crews stuck at sea as the Strait of Hormuz crisis grows",
+    "summary": "The Strait of Hormuz crisis is leaving thousands of crew members on commercial ships stranded. Arsenio Dominguez, head of the UN's International Maritime Organization, explains.",
+    "link": "https://www.npr.org/2026/07/15/nx-s1-5894731/the-crews-stuck-at-sea-as-the-strait-of-hormuz-crisis-grows",
+    "published": "Wed, 15 Jul 2026 16:54:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "8507c6c72b71f3674434adc5a74c4749",
+    "fetched_at": "2026-07-15T22:52:32.025590+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sen. Shaheen discusses new Russia sanctions bill",
+    "summary": "A conversation with Jeanne Shaheen, Democratic Senator from New Hampshire, about a bipartisan bill she put together with the late Senator Lindsey Graham that slaps new sanctions on Russia.",
+    "link": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
+    "published": "Wed, 15 Jul 2026 17:23:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "a4bfea5a6d899550df669aea443d8ea3",
+    "fetched_at": "2026-07-15T22:52:30.899469+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is it so hard for the U.S. to win wars?",
+    "summary": "The U.S. has fought three major wars in the past quarter-century, in Iran, Iraq and Afghanistan. None has gone as planned.",
+    "link": "https://www.npr.org/2026/07/15/nx-s1-5844921/why-is-it-so-hard-for-the-u-s-to-win-wars",
+    "published": "Wed, 15 Jul 2026 18:05:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "6ea44fd7d899d3408a8343fa4670bcc7",
+    "fetched_at": "2026-07-15T22:52:29.781442+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US mum who blamed vaccines for twins' deaths is denied bail on murder charges",
+    "summary": "Andrea Shaw, whom prosecutors allege suffocated her twins, has had her bond revoked by a judge.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg922wyxvlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 21:36:50 GMT",
+    "source": "BBC News",
+    "id": "d21d3e591bd3981ccddc07f2e2bc1c18",
+    "fetched_at": "2026-07-15T22:52:28.653174+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+    "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+    "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+    "source": "BBC News",
+    "id": "5258cc0b91e30c77ab5a3e109891f48a",
+    "fetched_at": "2026-07-15T22:52:27.539432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+    "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 21:55:04 GMT",
+    "source": "BBC News",
+    "id": "099ede8c36d5cc61c0f9115152c81f33",
+    "fetched_at": "2026-07-15T22:52:26.405527+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | July 15th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this July 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/07/15/latest-news-bulletin-july-15th-2026-midday",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "dad02a8da346997146e808d8bff4bf40",
     "fetched_at": "2026-07-15T13:20:01.738946+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-    "summary": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
-    "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 19:40:23 GMT",
-    "source": "BBC News",
-    "id": "82c111113b9e466d29e0a8e86b35b6f3",
-    "fetched_at": "2026-07-15T13:20:01.738944+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-    "summary": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
-    "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 11:38:37 GMT",
-    "source": "BBC News",
-    "id": "fa0b8925bfaf165cdd2e6e5c98ded029",
-    "fetched_at": "2026-07-15T13:20:01.738942+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-    "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 11:44:28 GMT",
-    "source": "BBC News",
-    "id": "7c56b687992c23c8e8715979294b3c64",
-    "fetched_at": "2026-07-15T13:20:01.738940+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four Americans caught in horrific Mexico highway pileup that killed at least 10",
-    "summary": "A fiery chain-reaction crash involving multiple tractor-trailers killed at least 10 people in western Mexico, while four Americans were transported to local hospitals.",
-    "link": "https://www.foxnews.com/world/four-americans-caught-horrific-mexico-highway-pileup-killed-least-10",
-    "published": "Sun, 12 Jul 2026 21:27:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd22518bd1d5cf285350aab242bdeee4",
-    "fetched_at": "2026-07-15T13:20:01.738937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed terror proxy Houthis threaten fresh attacks after Yemen airport strike",
-    "summary": "The Houthis threatened to strike King Khalid Airport in Riyadh after what they called &quot;blatant aggression&quot; targeting the Sanaa airport runway.",
-    "link": "https://www.foxnews.com/world/iran-backed-terror-proxy-houthis-threaten-fresh-attacks-after-yemen-airport-strike",
-    "published": "Mon, 13 Jul 2026 15:05:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1b2c6d9f3d7baa71010e84d72970d1a0",
-    "fetched_at": "2026-07-15T13:20:01.738934+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
-    "summary": "Ro Khanna claims violent Israeli settlers detained his delegation for 75 minutes in the West Bank, and U.S. Ambassador to Israel Mike Huckabee angrily fired back.",
-    "link": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
-    "published": "Tue, 14 Jul 2026 16:45:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c5bed76a4221262dd44b4efe61d8879e",
-    "fetched_at": "2026-07-15T13:20:01.738931+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
-    "summary": "James Cox Chambers Jr., estranged heir to the $27 billion Cox empire, was detained in Spain for alleged money laundering and Hamas support.",
-    "link": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
-    "published": "Tue, 14 Jul 2026 17:49:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e9c3652dae97e1310e5a1119e880e635",
-    "fetched_at": "2026-07-15T13:20:01.738928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump officials unveil private sector blueprint for life after USAID",
-    "summary": "Ambassador Mike Waltz says the Trump administration is replacing traditional foreign aid with private investment and trade to create jobs, cut dependency.",
-    "link": "https://www.foxnews.com/world/trump-officials-unveil-private-sector-blueprint-life-after-usaid",
-    "published": "Wed, 15 Jul 2026 08:50:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9462e7d0de143ab54ae2a094d14a2663",
-    "fetched_at": "2026-07-15T13:20:01.738897+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S. is back to blockading Iran as the Strait of Hormuz standoff escalates",
-    "summary": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
-    "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-    "published": "Tue, 14 Jul 2026 05:56:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "fa06fc5e94689f30bb5c4b0124bc74e7",
-    "fetched_at": "2026-07-15T13:20:00.577288+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-    "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
-    "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
-    "published": "Tue, 14 Jul 2026 08:18:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "4a850900eee1a6dedcc4e319b836abd3",
-    "fetched_at": "2026-07-15T13:19:59.452716+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
-    "summary": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
-    "link": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
-    "published": "Tue, 14 Jul 2026 18:23:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "6400d9e0c0d045ffbc1a044d5ba2d485",
-    "fetched_at": "2026-07-15T13:19:58.327185+00:00"
   }
 ]
