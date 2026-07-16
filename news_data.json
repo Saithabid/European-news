@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+    "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 15:33:30 GMT",
+    "source": "BBC News",
+    "id": "b0341965db29ce085bd686f637a609bd",
+    "fetched_at": "2026-07-16T08:00:02.866472+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Actor Sam Neill died from pneumonia, agent confirms",
+    "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+    "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 04:28:22 GMT",
+    "source": "BBC News",
+    "id": "3bfb92b511d1a45fb8c777de5acd5049",
+    "fetched_at": "2026-07-16T08:00:02.866469+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran targets military bases as US launches wave of strikes",
+    "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 07:44:08 GMT",
+    "source": "BBC News",
+    "id": "506229ce99f8536a4e57edc80d1c8915",
+    "fetched_at": "2026-07-16T08:00:02.866465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Buenos Aires erupts as Argentina reach World Cup final",
+    "summary": "Fans flooded the streets of Buenos Aires in celebration after Argentina came from behind to beat England 2-1.",
+    "link": "http://www.euronews.com/video/2026/07/16/buenos-aires-erupts-as-argentina-reach-world-cup-final",
+    "published": "Thu, 16 Jul 2026 06:26:10 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8932501611590c77e3b03ea075840463",
+    "fetched_at": "2026-07-16T08:00:02.866438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 16th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/16/latest-news-bulletin-july-16th-2026-morning",
+    "published": "Thu, 16 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c69b5837cf4cf58de0ba9a9d66e6b0db",
+    "fetched_at": "2026-07-16T08:00:01.707902+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina erupts after late win over England to reach World Cup final",
+    "summary": "Tens of thousands celebrate in Buenos Aires after Argentina’s 2-1 win over England sends them to the World Cup final against Spain.",
+    "link": "http://www.euronews.com/video/2026/07/16/argentina-erupts-after-late-win-over-england-to-reach-world-cup-final",
+    "published": "Thu, 16 Jul 2026 09:29:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eeb397f071b22bcddbf59ad6f0f4cc96",
+    "fetched_at": "2026-07-16T08:00:00.519212+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Toronto choked by wildfire smoke, records world's worst air quality",
+    "summary": "A thick orange haze hung over Toronto on Wednesday 15 July as smoke from wildfires in northwestern Ontario engulfed Canada's largest city, giving it the worst air quality of any major city in the world that morning, according to monitoring service IQAir.",
+    "link": "http://www.euronews.com/video/2026/07/16/toronto-choked-by-wildfire-smoke-records-worlds-worst-air-quality",
+    "published": "Thu, 16 Jul 2026 09:51:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2f41134f831e08b0290ca9343421250c",
+    "fetched_at": "2026-07-16T07:59:59.179936+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary parliament votes to remove president from office",
+    "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 20:39:14 GMT",
+    "source": "BBC News",
+    "id": "d2488bcf2c18467ee337b28f3bb9753d",
+    "fetched_at": "2026-07-16T07:59:58.024980+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven Britons among those killed in Spain wildfires",
+    "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 12:21:32 GMT",
+    "source": "BBC News",
+    "id": "7640339d8591e53a7bdfa248c746be06",
+    "fetched_at": "2026-07-16T07:59:56.870823+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
+    "summary": "The prime minister will meet Ukrainian President Volodymyr Zelensky in Kyiv later on Thursday.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 07:05:02 GMT",
+    "source": "BBC News",
+    "id": "2318105eb01c462c99db882c32212dc3",
+    "fetched_at": "2026-07-16T07:59:55.685127+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+    "summary": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
+    "published": "Thu, 16 Jul 2026 02:03:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "e3a3f4e6395a30caa2b2d1216fc01ee7",
+    "fetched_at": "2026-07-16T07:59:54.530928+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US resumes daylight strikes on Iran as tensions escalate over Strait of Hormuz",
     "summary": "US Central Command said it has resumed daylight strikes on Iran, targeting coastal defences and missile sites. Tehran has reported casualties as tensions rise over a renewed blockade threat, calls for retaliation and the ongoing dispute over the Strait of Hormuz.",
     "link": "http://www.euronews.com/2026/07/15/us-resumes-daylight-strikes-on-iran-as-tensions-escalate-over-strait-of-hormuz",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "6308f7e47afc14630e97f777c779e9c5",
     "fetched_at": "2026-07-15T18:59:29.473131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China economic growth falls sharply, missing target",
-    "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-    "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 10:21:48 GMT",
-    "source": "BBC News",
-    "id": "92628fb49360159e1b0a834c643c14e5",
-    "fetched_at": "2026-07-15T17:08:57.354450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: Six dead as Russia targets Sumy and Odesa",
-    "summary": "Emergency crews battled fires and searched damaged buildings across Ukraine on Tuesday 15 July after Russian strikes on the cities of Sumy and Odesa killed six people and injured at least 20 others, according to regional authorities.",
-    "link": "http://www.euronews.com/video/2026/07/15/ukraine-six-dead-as-russia-targets-sumy-and-odesa",
-    "published": "Wed, 15 Jul 2026 17:49:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9bfd99fa701064f444a6eff1bbe5ba64",
-    "fetched_at": "2026-07-15T17:08:57.354447+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Po river choked by algae bloom as Italy battles heat and navigability woes",
-    "summary": "Italy is stepping up efforts to clear thick algae from the River Po in Turin after weeks of high temperatures accelerated its spread along the country’s longest river.",
-    "link": "http://www.euronews.com/video/2026/07/15/po-river-choked-by-algae-bloom-as-italy-battles-heat-and-navigability-woes",
-    "published": "Wed, 15 Jul 2026 17:59:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ede6a1bf5d3f29f7a2e23a6810ed01ac",
-    "fetched_at": "2026-07-15T17:08:57.354442+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 15th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/15/latest-news-bulletin-july-15th-2026-evening",
-    "published": "Wed, 15 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e4f69fc9024b7b7db2010ac85f3c144c",
-    "fetched_at": "2026-07-15T17:08:57.354417+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Starmer becomes first UK PM to receive top French honour",
-    "summary": "France's President Emmanuel Macron praised Starmer's \"decency\" and contribution to Ukraine and the security of Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 19:27:49 GMT",
-    "source": "BBC News",
-    "id": "3d5f28669fc1e336361dd68c55cb7b85",
-    "fetched_at": "2026-07-15T17:08:56.026681+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
-    "summary": "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 05:32:11 GMT",
-    "source": "BBC News",
-    "id": "9180bd0fe2cad5d4e285126fa7e7a639",
-    "fetched_at": "2026-07-15T17:08:54.866788+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six people found dead in lift shaft after fire in central Brussels building",
-    "summary": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 15:16:07 GMT",
-    "source": "BBC News",
-    "id": "d17a21489ca4bc2672da02ee62209a0d",
-    "fetched_at": "2026-07-15T17:08:53.702651+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Inside Israel's mission to train civilians to stop the next Oct 7-like terror attack",
-    "summary": "A full-scale terror attack drill at Kibbutz Bror Hayil simulates Oct. 7-style infiltration, training civil defense squads near the Gaza border.",
-    "link": "https://www.foxnews.com/world/inside-israels-mission-train-civilians-stop-next-oct-7-like-terror-attack",
-    "published": "Tue, 14 Jul 2026 09:18:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5f2db9f18ab61ae14f67ed3504d0bf6f",
-    "fetched_at": "2026-07-15T17:08:52.515234+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Slain American mother Jamey Carney remembered as 'ray of sunshine' at Ireland funeral",
-    "summary": "Jamey Carney&apos;s livestreamed funeral in Killarney celebrated her life as a &quot;ray of sunshine&quot; while the Jordanian suspect remains detained abroad.",
-    "link": "https://www.foxnews.com/world/slain-american-mother-jamey-carney-remembered-ray-sunshine-ireland-funeral",
-    "published": "Wed, 15 Jul 2026 12:03:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "19cc39513a6e4a6be84d30b248ac3fdd",
-    "fetched_at": "2026-07-15T17:08:51.357933+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-    "summary": "Hong Kong was once known for its freedom of publication, but political changes have created a challenging environment for independent bookstores.",
-    "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-    "published": "Wed, 15 Jul 2026 11:37:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "64f4eda980906d8c806f11d4f163211a",
-    "fetched_at": "2026-07-15T17:08:50.177916+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Train 'encased in flames' in Canada wildfire",
-    "summary": "The crew was rescued after the close call. Meanwhile, wildfires in Canada have left Toronto under a haze and sent smoke drifting towards several major US cities.",
-    "link": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 16:52:49 GMT",
-    "source": "BBC News",
-    "id": "206aae091355f2dbc719c87bb6624308",
-    "fetched_at": "2026-07-15T17:08:49.006873+00:00"
   }
 ]
