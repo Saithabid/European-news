@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Kris Jenner's mother Mary Jo dies aged 91",
+    "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
+    "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 20:24:54 GMT",
+    "source": "BBC News",
+    "id": "6fb950790d3239815fd82f0bd73d22a2",
+    "fetched_at": "2026-07-16T20:49:49.202631+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fifa 'assessing match reports' over Falklands banner",
+    "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 18:44:43 GMT",
+    "source": "BBC News",
+    "id": "fd3172340e8e9f3d9f3a460c94e7ac01",
+    "fetched_at": "2026-07-16T20:49:49.202597+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump teleprompter operator suspended for alleged prediction market bets on speeches",
+    "summary": "US media had reported that Gabriel Perez, who has been operating Trump’s teleprompter since 2016, used his inside knowledge to win more than $100,000 (€85,900) betting on what the president would say in big speeches.",
+    "link": "http://www.euronews.com/2026/07/16/trump-teleprompter-operator-suspended-for-alleged-prediction-market-bets-on-speeches",
+    "published": "Thu, 16 Jul 2026 21:51:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "43acb628063282576102d7c34f787958",
+    "fetched_at": "2026-07-16T20:49:48.098146+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Six people found dead in lift shaft after fire in central Brussels building",
+    "summary": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 15:16:07 GMT",
+    "source": "BBC News",
+    "id": "d17a21489ca4bc2672da02ee62209a0d",
+    "fetched_at": "2026-07-16T20:49:46.975707+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+    "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+    "source": "BBC News",
+    "id": "5f291c0fab0ef8dc15a9808a79343bbe",
+    "fetched_at": "2026-07-16T20:49:45.869886+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Resource-rich nation praises US ties amid Washington-Beijing critical minerals race",
+    "summary": "Foreign Minister Thérèse Kayikwamba Wagner says the Democratic Republic of the Congo needs multiple partners to develop its cobalt, copper and lithium wealth amid growing U.S. interest.",
+    "link": "https://www.foxnews.com/world/resource-rich-nation-praises-us-ties-amid-washington-beijing-critical-minerals-race",
+    "published": "Thu, 16 Jul 2026 15:03:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230b0e089ac88e5f0a332572a6f187ea",
+    "fetched_at": "2026-07-16T20:49:44.762133+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
+    "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
+    "published": "Thu, 16 Jul 2026 04:44:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "b68663fa1b5d1729235905bd7880f8bd",
+    "fetched_at": "2026-07-16T20:49:43.643488+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
+    "summary": "For the sixth World Cup in a row, no team from the Asian Football Confederation made it past the first knockout round, winning only three games out of 29. Asian teams are competitive — up to a point.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+    "published": "Thu, 16 Jul 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "b485e66f4cd6274ec91b4ba38bd4ef30",
+    "fetched_at": "2026-07-16T20:49:42.531571+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+    "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 23:35:39 GMT",
+    "source": "BBC News",
+    "id": "8728fc0b7350a1dc1a4e3aa16aaa03eb",
+    "fetched_at": "2026-07-16T20:49:41.420265+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Iran targets military bases as US launches wave of strikes",
     "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
     "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b894c251555cb4c0b426bab7af00cbfc",
     "fetched_at": "2026-07-16T13:26:49.553907+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Americans' views on proposal to make daylight saving time permanent",
-    "summary": "The US House of Representatives has voted to make daylight saving time permanent by passing the Sunshine Protection Act.",
-    "link": "https://www.bbc.co.uk/news/videos/c2lq1nqk2v9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 18:34:00 GMT",
-    "source": "BBC News",
-    "id": "aea0b4a202ffb44b36b59f2d5e84d297",
-    "fetched_at": "2026-07-16T13:26:48.396936+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taiwanese chip giant pledges another $100bn to expand US production",
-    "summary": "The company, TSMC, says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
-    "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 10:23:00 GMT",
-    "source": "BBC News",
-    "id": "30cea8f47a6a182992f70c13d677713c",
-    "fetched_at": "2026-07-16T13:26:47.229740+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
-    "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
-    "link": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 10:13:40 GMT",
-    "source": "BBC News",
-    "id": "06d624b185e3c63b79c4288e24245856",
-    "fetched_at": "2026-07-16T13:26:46.070015+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
-    "summary": "Blanche faces a bipartisan grilling as he seeks to assume the role of US attorney general permanently.",
-    "link": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 23:45:12 GMT",
-    "source": "BBC News",
-    "id": "6308f7e47afc14630e97f777c779e9c5",
-    "fetched_at": "2026-07-16T13:26:44.897603+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-    "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 12:09:13 GMT",
-    "source": "BBC News",
-    "id": "e1c8a37a372d33d06420833f53283ef6",
-    "fetched_at": "2026-07-16T13:26:43.732488+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eleven people die in fire at Algerian foster care home",
-    "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 09:20:43 GMT",
-    "source": "BBC News",
-    "id": "7183cef6efe375413358afef74d1e127",
-    "fetched_at": "2026-07-16T10:15:39.633411+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "\"It's freedom\": Border residents react to end of Gibraltar-Spain checks",
-    "summary": "Routine border checks between Spain and Gibraltar have ended, allowing thousands of daily commuters to cross more easily. While many welcome shorter journeys and greater freedom, others remain cautious about the long-term impact.",
-    "link": "http://www.euronews.com/2026/07/16/its-freedom-border-residents-react-to-end-of-gibraltar-spain-checks",
-    "published": "Thu, 16 Jul 2026 10:28:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9f9ea14b4cc1f43e3baa5b2a2ead55f0",
-    "fetched_at": "2026-07-16T10:15:39.633409+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Canada: train crew escapes flames near Armstrong, Ontario",
-    "summary": "A train crew was surrounded by wildfire flames near Armstrong, Ontario, Canada, on 13 July 2026. The Canadian National Railway crew escaped safely as more than 160 fires burned across the region.",
-    "link": "http://www.euronews.com/video/2026/07/16/canada-train-crew-escapes-flames-near-armstrong-ontario",
-    "published": "Thu, 16 Jul 2026 11:02:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ed1235f48f26019c2256d9d35ae04fe1",
-    "fetched_at": "2026-07-16T10:15:39.633406+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 16th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/16/latest-news-bulletin-july-16th-2026-midday",
-    "published": "Thu, 16 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a3ae1ac77dfc5bc8278408c2e43e35c9",
-    "fetched_at": "2026-07-16T10:15:39.633404+00:00"
   }
 ]
