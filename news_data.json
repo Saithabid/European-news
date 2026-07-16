@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Iran targets military bases as US launches wave of strikes",
+    "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 11:48:49 GMT",
+    "source": "BBC News",
+    "id": "506229ce99f8536a4e57edc80d1c8915",
+    "fetched_at": "2026-07-16T18:59:58.142701+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Authorities deny reports of booms in downtown Dubai",
+    "summary": "Authorities have denied reports on Thursday evening of booms heard above downtown Dubai, amid renewed Iranian attacks on the broader region.",
+    "link": "http://www.euronews.com/2026/07/16/explosions-heard-over-downtown-dubai-euronews-journalists-report",
+    "published": "Thu, 16 Jul 2026 18:46:50 +0200",
+    "source": "News | Euronews RSS",
+    "id": "577f296eed42d630e7feb87af355d0e3",
+    "fetched_at": "2026-07-16T18:59:58.142674+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Algeria investigates Mohammadia orphanage fire that killed 11 people",
+    "summary": "Algeria is probing a deadly orphanage fire near Algiers, early on 16 July, that killed at least 11, injured 19 and struck amid a heatwave and nearly 1,000 recent blazes.",
+    "link": "http://www.euronews.com/video/2026/07/16/algeria-investigates-mohammadia-orphanage-fire-that-killed-11-people",
+    "published": "Thu, 16 Jul 2026 19:19:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b51315d2a55a58ca02d8eaa5574ace95",
+    "fetched_at": "2026-07-16T18:59:56.984932+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fire at Algerian orphanage kills 11 children, injures 19",
+    "summary": "Algerian authorities did not say what caused the deadly blaze, which occured amid a heatwave that has sparked nearly 1,000 fires.",
+    "link": "http://www.euronews.com/2026/07/16/fire-at-algerian-orphanage-kills-11-children-injures-19",
+    "published": "Thu, 16 Jul 2026 20:36:50 +0200",
+    "source": "News | Euronews RSS",
+    "id": "355d0236bca537bef7306087125fd53f",
+    "fetched_at": "2026-07-16T18:59:55.831567+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven Britons among those killed in Spain wildfires",
+    "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 15 Jul 2026 12:21:32 GMT",
+    "source": "BBC News",
+    "id": "7640339d8591e53a7bdfa248c746be06",
+    "fetched_at": "2026-07-16T18:59:54.692121+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
+    "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 13:04:44 GMT",
+    "source": "BBC News",
+    "id": "2318105eb01c462c99db882c32212dc3",
+    "fetched_at": "2026-07-16T18:59:53.541560+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+    "summary": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
+    "published": "Thu, 16 Jul 2026 02:03:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "e3a3f4e6395a30caa2b2d1216fc01ee7",
+    "fetched_at": "2026-07-16T18:59:52.386600+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least one dead in Texas floods ravaging same area where campers died",
+    "summary": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 17:56:47 GMT",
+    "source": "BBC News",
+    "id": "b33bb78e2a2fafa8f45cb333e1ef93d2",
+    "fetched_at": "2026-07-16T18:59:51.233256+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+    "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 18:52:35 GMT",
+    "source": "BBC News",
+    "id": "e3b8d93112b64e2406fa19ee0eed4a80",
+    "fetched_at": "2026-07-16T18:59:50.077374+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
     "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
     "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "a3ae1ac77dfc5bc8278408c2e43e35c9",
     "fetched_at": "2026-07-16T10:15:39.633404+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six people found dead in lift shaft after fire in central Brussels building",
-    "summary": "The bodies were recovered in a rescue operation that lasted several hours, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c9323knejyzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 14 Jul 2026 15:16:07 GMT",
-    "source": "BBC News",
-    "id": "d17a21489ca4bc2672da02ee62209a0d",
-    "fetched_at": "2026-07-16T10:15:39.633401+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-    "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 09:29:28 GMT",
-    "source": "BBC News",
-    "id": "5f291c0fab0ef8dc15a9808a79343bbe",
-    "fetched_at": "2026-07-16T10:15:39.633398+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Inside Israel's mission to train civilians to stop the next Oct 7-like terror attack",
-    "summary": "A full-scale terror attack drill at Kibbutz Bror Hayil simulates Oct. 7-style infiltration, training civil defense squads near the Gaza border.",
-    "link": "https://www.foxnews.com/world/inside-israels-mission-train-civilians-stop-next-oct-7-like-terror-attack",
-    "published": "Tue, 14 Jul 2026 09:18:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5f2db9f18ab61ae14f67ed3504d0bf6f",
-    "fetched_at": "2026-07-16T10:15:39.633385+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
-    "summary": "Hong Kong was once known for its freedom of publication, but political changes have created a challenging environment for independent bookstores.",
-    "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-    "published": "Wed, 15 Jul 2026 11:37:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "64f4eda980906d8c806f11d4f163211a",
-    "fetched_at": "2026-07-16T10:15:38.521327+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
-    "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
-    "link": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
-    "published": "Thu, 16 Jul 2026 04:44:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "b68663fa1b5d1729235905bd7880f8bd",
-    "fetched_at": "2026-07-16T10:15:37.400901+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
-    "summary": "For the sixth World Cup in a row, no team from the Asian Football Confederation made it past the first knockout round, winning only three games out of 29. Asian teams are competitive — up to a point.",
-    "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
-    "published": "Thu, 16 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "b485e66f4cd6274ec91b4ba38bd4ef30",
-    "fetched_at": "2026-07-16T10:15:36.291855+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump sanctions on ICC violate free speech, says lawsuit",
-    "summary": "Two groups argue the president's order is being used to illegally suppress pro-Palestinian advocacy.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl33q0jk0o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 23:01:29 GMT",
-    "source": "BBC News",
-    "id": "02de913ddd7ce6008549cb80c4b31958",
-    "fetched_at": "2026-07-16T10:15:35.168310+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-    "summary": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
-    "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 22:25:35 GMT",
-    "source": "BBC News",
-    "id": "2daec77809b68bf1bc7bcab9568f84e0",
-    "fetched_at": "2026-07-16T10:15:34.033762+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
-    "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 23:35:39 GMT",
-    "source": "BBC News",
-    "id": "8728fc0b7350a1dc1a4e3aa16aaa03eb",
-    "fetched_at": "2026-07-16T10:15:32.906506+00:00"
   }
 ]
