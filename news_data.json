@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+    "summary": "Media reports say Laos will press charges of up to one year in jail  against those allegedly responsible.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 02:56:45 GMT",
+    "source": "BBC News",
+    "id": "88407b471bc9ac90d066cd4239cf3a11",
+    "fetched_at": "2026-07-17T05:18:58.893020+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 500 Rohingya vanished at sea - what happened?",
+    "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 03:07:11 GMT",
+    "source": "BBC News",
+    "id": "781ce3fa70bd9b7e8b225e54e8ca899f",
+    "fetched_at": "2026-07-17T05:18:57.786454+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pittsburgh bridge demolished in dramatic explosion",
+    "summary": "The bridge will be replaced with a new, prebuilt span that crews will slide into place in the state's largest lateral slide project, authorities say.",
+    "link": "https://www.bbc.co.uk/news/videos/c87ngl2j29jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 14:09:18 GMT",
+    "source": "BBC News",
+    "id": "1ea73cfccd4824b510ebc3bc9fe00827",
+    "fetched_at": "2026-07-17T05:18:56.655192+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+    "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 04:08:27 GMT",
+    "source": "BBC News",
+    "id": "9da5955c6dd4497cb2790c793b37ee2a",
+    "fetched_at": "2026-07-17T05:18:55.532808+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Kyiv protesters rally after Zelenskyy sacks defence minister Fedorov",
     "summary": "Hundreds protest in Kyiv after President Zelenskyy dismisses Defence Minister Fedorov, a moderniser credited with slowing Russia’s advance.",
     "link": "http://www.euronews.com/video/2026/07/16/kyiv-protesters-rally-after-zelenskyy-sacks-defence-minister-fedorov",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6ea44fd7d899d3408a8343fa4670bcc7",
     "fetched_at": "2026-07-16T15:28:18.379795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela's earthquake recovery overshadows its push for democracy",
-    "summary": "After twin earthquakes killed thousands, Venezuela's recovery effort has pushed another crisis into the background: the fight for a return to democracy.",
-    "link": "https://www.npr.org/2026/07/14/nx-s1-5893438/venezuelas-democracy-delayed",
-    "published": "Thu, 16 Jul 2026 04:42:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "61e2709b899fedbfde08cf3c69ca3e54",
-    "fetched_at": "2026-07-16T15:28:17.211306+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong official warns booksellers on security risks after raids",
-    "summary": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
-    "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-    "published": "Thu, 16 Jul 2026 09:31:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "73b6c47f85a52b42e62234904945b647",
-    "fetched_at": "2026-07-16T15:28:16.055086+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says ICE should not give up traffic stops in wake of fatal shootings",
-    "summary": "The US president's intervention comes after a change of course by the agency following deaths in Maine and Texas.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 22:21:40 GMT",
-    "source": "BBC News",
-    "id": "571403d30a1d685e9eb310942d71986d",
-    "fetched_at": "2026-07-16T15:28:14.907046+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Coast Guard suspends search for three missing people after boat sinks near Alcatraz",
-    "summary": "One person is known to have died in Tuesday afternoon's disaster, and 20 were rescued.",
-    "link": "https://www.bbc.co.uk/news/articles/cwylyzvy444o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 12:11:35 GMT",
-    "source": "BBC News",
-    "id": "996bc5141333e7d8a9ec51d1c9d5cc84",
-    "fetched_at": "2026-07-16T15:28:13.752259+00:00"
   }
 ]
