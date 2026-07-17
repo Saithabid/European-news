@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "India launches first hydrogen-powered passenger train to cut emissions",
+    "summary": "India launches its first hydrogen-powered passenger train, NaMo Green Rail, boosting clean rail transport and cutting diesel emissions.",
+    "link": "http://www.euronews.com/video/2026/07/17/india-launches-first-hydrogen-powered-passenger-train-to-cut-emissions",
+    "published": "Fri, 17 Jul 2026 13:20:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1c71edfa959b43c5a844257596dd1da1",
+    "fetched_at": "2026-07-17T13:11:51.535477+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "CIA declassifies evidence of alleged Venezuelan election fraud in 2012",
+    "summary": "CIA documents declassified by Donald Trump confirm that the Venezuelan regime had, from 2012, a system capable of altering up to 1.5 million votes, though they do not prove fraud in every election mentioned.",
+    "link": "http://www.euronews.com/2026/07/17/cia-declassifies-evidence-of-electoral-machinery-used-by-chavismo-in-venezuela-since-2012",
+    "published": "Fri, 17 Jul 2026 13:48:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "74f3fa0de395ddbe1e645c99b66b1fb9",
+    "fetched_at": "2026-07-17T13:11:51.535474+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU bolsters Red Sea mission amid reports Houthis may shut Bab el-Mandeb",
+    "summary": "EU foreign policy chief Kaja Kallas visited Djibouti and signed a new security agreement to strengthen Europe's naval presence, as reports say Tehran has asked the Houthis to shut the Bab el-Mandeb if the US strikes Iranian infrastructure, threatening a second global shipping chokepoint.",
+    "link": "http://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
+    "published": "Fri, 17 Jul 2026 14:23:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "df1c88963ab29bc7f13dcb51bb22d794",
+    "fetched_at": "2026-07-17T13:11:51.535472+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "China rescuers race to find trapped people after landslide",
+    "summary": "China launched a large-scale rescue operation after a landslide struck Pengshui County in Chongqing municipality on 17 July, burying part of a residential area and trapping an unknown number of people.",
+    "link": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
+    "published": "Fri, 17 Jul 2026 15:00:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ffb326d1123f499d41ccc74a7166392c",
+    "fetched_at": "2026-07-17T13:11:51.535469+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+    "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+    "source": "BBC News",
+    "id": "5f291c0fab0ef8dc15a9808a79343bbe",
+    "fetched_at": "2026-07-17T13:11:51.535466+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German politician faces calls to resign over surrogacy child",
+    "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56ed827peo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 12:26:29 GMT",
+    "source": "BBC News",
+    "id": "8d7a4764601e27575154a0d496896d1f",
+    "fetched_at": "2026-07-17T13:11:51.535454+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Resource-rich nation praises US ties amid Washington-Beijing critical minerals race",
+    "summary": "Foreign Minister Thérèse Kayikwamba Wagner says the Democratic Republic of the Congo needs multiple partners to develop its cobalt, copper and lithium wealth amid growing U.S. interest.",
+    "link": "https://www.foxnews.com/world/resource-rich-nation-praises-us-ties-amid-washington-beijing-critical-minerals-race",
+    "published": "Thu, 16 Jul 2026 15:03:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230b0e089ac88e5f0a332572a6f187ea",
+    "fetched_at": "2026-07-17T13:11:50.414341+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Asian nation with 1,500-year-old imperial line insists only men can become emperor in policy revision",
+    "summary": "Japan&apos;s Parliament revised the Imperial House Law to cement male-only succession, blocking Princess Aiko from inheriting the throne despite public support.",
+    "link": "https://www.foxnews.com/world/asian-nation-1500-year-old-imperial-line-insists-only-men-become-emperor-policy-revision",
+    "published": "Fri, 17 Jul 2026 08:12:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b98030e0b31cb818ee82f0831f36e1f8",
+    "fetched_at": "2026-07-17T13:11:49.278192+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
+    "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
+    "published": "Thu, 16 Jul 2026 04:44:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "b68663fa1b5d1729235905bd7880f8bd",
+    "fetched_at": "2026-07-17T13:11:48.133023+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
+    "summary": "For the sixth World Cup in a row, no team from the Asian Football Confederation made it past the first knockout round, winning only three games out of 29. Asian teams are competitive — up to a point.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+    "published": "Thu, 16 Jul 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "b485e66f4cd6274ec91b4ba38bd4ef30",
+    "fetched_at": "2026-07-17T13:11:47.006187+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+    "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+    "published": "Fri, 17 Jul 2026 07:13:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "75a1b9bade1e64c5aae3944763e7a8e8",
+    "fetched_at": "2026-07-17T13:11:45.878134+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
+    "summary": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 03:09:55 GMT",
+    "source": "BBC News",
+    "id": "d3fe7779fb9e862757596fbf46d1adb9",
+    "fetched_at": "2026-07-17T13:11:44.741572+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How the World Cup made an 'NFL-obsessed' American a football fan",
+    "summary": "New fans tell the BBC they are fully invested after watching the World Cup on home soil, just don’t ask them to stop calling it soccer.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n22eprzpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 11:54:38 GMT",
+    "source": "BBC News",
+    "id": "4b8437e2c997fbe17022966dc9d21db6",
+    "fetched_at": "2026-07-17T13:11:43.599853+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | July 17th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this July 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/07/17/latest-news-bulletin-july-17th-2026-midday",
@@ -468,135 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "807ca8938c41c15ed9274001a7efcceb",
     "fetched_at": "2026-07-17T02:00:15.085222+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "African growth boom follows Trump push to replace aid with trade",
-    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
-    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
-    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cb56fc57031f2914b993dca818d5c963",
-    "fetched_at": "2026-07-17T02:00:13.815520+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-    "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.",
-    "link": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-    "published": "Thu, 16 Jul 2026 07:29:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a20cff470dcd2ff756f8e48d9003c31",
-    "fetched_at": "2026-07-17T02:00:12.567103+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-    "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
-    "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-    "published": "Thu, 16 Jul 2026 07:33:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "b894c251555cb4c0b426bab7af00cbfc",
-    "fetched_at": "2026-07-17T02:00:10.857658+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio calls for global crackdown on far-left extremism",
-    "summary": "Democrats said the focus on left-wing groups was \"politically partisan\" and could target political opponents.",
-    "link": "https://www.bbc.co.uk/news/articles/c39ek38le2lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 23:08:38 GMT",
-    "source": "BBC News",
-    "id": "00b3b3d44f7123d86c0bee67eaf8e7bc",
-    "fetched_at": "2026-07-17T02:00:09.255203+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-    "summary": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
-    "link": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 21:22:09 GMT",
-    "source": "BBC News",
-    "id": "d92fb8c9112d1500dcadc1755f9aab2d",
-    "fetched_at": "2026-07-16T22:51:33.763479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Blasts reported in Iran as US launches new wave of strikes",
-    "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
-    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 21:44:37 GMT",
-    "source": "BBC News",
-    "id": "8f74d875a19f2f819aacea83156fe6b9",
-    "fetched_at": "2026-07-16T22:51:32.612026+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain battles major Aragon wildfire amid heatwave",
-    "summary": "Spain has deployed more than 400 firefighters and 19 aircraft to combat a fast-moving wildfire in the northeastern region of Aragon after flames swept across around 7,600 hectares by 16 July.",
-    "link": "http://www.euronews.com/video/2026/07/16/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
-    "published": "Thu, 16 Jul 2026 23:20:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "de62cdc7983039f3728998e0e8a1f7bf",
-    "fetched_at": "2026-07-16T22:51:31.470632+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rubik’s Cube stars shine at European speedcubing event in the Netherlands",
-    "summary": "More than 1,000 speedcubers from 53 countries are competing in Arnhem, the Netherlands, from 16 to 19 July 2026. Events range from blindfolded solves to solving while wearing oven gloves.",
-    "link": "http://www.euronews.com/video/2026/07/17/rubiks-cube-stars-shine-at-european-speedcubing-event-in-the-netherlands",
-    "published": "Fri, 17 Jul 2026 00:15:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "56437ec07c57a5189f58ba89b94da81d",
-    "fetched_at": "2026-07-16T22:51:30.360338+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
-    "summary": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
-    "link": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
-    "published": "Thu, 16 Jul 2026 17:19:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "a614c6d83d18cb332b2011b3e2dec995",
-    "fetched_at": "2026-07-16T22:51:29.240861+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump Media to sell early access to key social posts",
-    "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
-    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 22:42:37 GMT",
-    "source": "BBC News",
-    "id": "11943fcaf9beef8a477997ffe5c275ba",
-    "fetched_at": "2026-07-16T22:51:28.111536+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration tightens visa rules for foreign students",
-    "summary": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
-    "link": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 21:31:51 GMT",
-    "source": "BBC News",
-    "id": "0fdbaebc2383f1ba3d35448e0c8b6eb2",
-    "fetched_at": "2026-07-16T22:51:26.995755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
-    "summary": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
-    "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 19:58:55 GMT",
-    "source": "BBC News",
-    "id": "e1c8a37a372d33d06420833f53283ef6",
-    "fetched_at": "2026-07-16T22:51:25.818396+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kris Jenner's mother Mary Jo dies aged 91",
-    "summary": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-    "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 20:24:54 GMT",
-    "source": "BBC News",
-    "id": "6fb950790d3239815fd82f0bd73d22a2",
-    "fetched_at": "2026-07-16T20:49:49.202631+00:00"
   }
 ]
