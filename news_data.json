@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Iran accuses US of hitting civilian infrastructure",
+    "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 14:32:07 GMT",
+    "source": "BBC News",
+    "id": "8f74d875a19f2f819aacea83156fe6b9",
+    "fetched_at": "2026-07-17T15:07:59.453203+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: US Navy Blue Angels' low flyover leaves beachgoers stunned",
+    "summary": "US Navy Blue Angels jets flew low over a crowded Florida beach, startling beachgoers as chairs and tents were blown away and children covered their ears. The dramatic flyover sparked renewed debate over the safety of low-altitude military demonstrations.",
+    "link": "http://www.euronews.com/2026/07/17/watch-us-navy-blue-angels-low-flyover-leaves-beachgoers-stunned",
+    "published": "Fri, 17 Jul 2026 11:14:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c77502550131fa9e60611c2a8d4ea10d",
+    "fetched_at": "2026-07-17T15:07:59.453200+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
+    "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
+    "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
+    "published": "Fri, 17 Jul 2026 16:14:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2349e525303ebf0846ea54f5f3a6d551",
+    "fetched_at": "2026-07-17T15:07:59.453168+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "African growth boom follows Trump push to replace aid with trade",
+    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
+    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
+    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cb56fc57031f2914b993dca818d5c963",
+    "fetched_at": "2026-07-17T15:07:58.320008+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+    "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
+    "published": "Thu, 16 Jul 2026 07:29:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "6a20cff470dcd2ff756f8e48d9003c31",
+    "fetched_at": "2026-07-17T15:07:57.180951+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+    "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
+    "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
+    "published": "Thu, 16 Jul 2026 07:33:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "b894c251555cb4c0b426bab7af00cbfc",
+    "fetched_at": "2026-07-17T15:07:56.051216+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
+    "summary": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
+    "published": "Thu, 16 Jul 2026 17:19:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "a614c6d83d18cb332b2011b3e2dec995",
+    "fetched_at": "2026-07-17T15:07:54.937557+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
+    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
+    "published": "Fri, 17 Jul 2026 09:15:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "f400641165aefbd9930a091c5a6231b9",
+    "fetched_at": "2026-07-17T15:07:53.751527+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump Media to sell instant access to 'market-moving' social posts",
+    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 07:25:31 GMT",
+    "source": "BBC News",
+    "id": "11943fcaf9beef8a477997ffe5c275ba",
+    "fetched_at": "2026-07-17T15:07:52.625865+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+    "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
+    "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 02:15:23 GMT",
+    "source": "BBC News",
+    "id": "e1c8a37a372d33d06420833f53283ef6",
+    "fetched_at": "2026-07-17T15:07:51.486033+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India launches first hydrogen-powered passenger train to cut emissions",
     "summary": "India launches its first hydrogen-powered passenger train, NaMo Green Rail, boosting clean rail transport and cutting diesel emissions.",
     "link": "http://www.euronews.com/video/2026/07/17/india-launches-first-hydrogen-powered-passenger-train-to-cut-emissions",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "697821b9dcb9e39205f3938fdb41d6e2",
     "fetched_at": "2026-07-17T07:56:52.195660+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-    "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-    "published": "Fri, 17 Jul 2026 03:17:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "8437d0f7b2ca527de084e4895e949ba9",
-    "fetched_at": "2026-07-17T07:56:51.064063+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-    "summary": "Media reports say Laos will press charges of up to one year in jail  against those allegedly responsible.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 02:56:45 GMT",
-    "source": "BBC News",
-    "id": "88407b471bc9ac90d066cd4239cf3a11",
-    "fetched_at": "2026-07-17T05:18:58.893020+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 500 Rohingya vanished at sea - what happened?",
-    "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
-    "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 03:07:11 GMT",
-    "source": "BBC News",
-    "id": "781ce3fa70bd9b7e8b225e54e8ca899f",
-    "fetched_at": "2026-07-17T05:18:57.786454+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pittsburgh bridge demolished in dramatic explosion",
-    "summary": "The bridge will be replaced with a new, prebuilt span that crews will slide into place in the state's largest lateral slide project, authorities say.",
-    "link": "https://www.bbc.co.uk/news/videos/c87ngl2j29jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 14:09:18 GMT",
-    "source": "BBC News",
-    "id": "1ea73cfccd4824b510ebc3bc9fe00827",
-    "fetched_at": "2026-07-17T05:18:56.655192+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-    "summary": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 04:08:27 GMT",
-    "source": "BBC News",
-    "id": "9da5955c6dd4497cb2790c793b37ee2a",
-    "fetched_at": "2026-07-17T05:18:55.532808+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kyiv protesters rally after Zelenskyy sacks defence minister Fedorov",
-    "summary": "Hundreds protest in Kyiv after President Zelenskyy dismisses Defence Minister Fedorov, a moderniser credited with slowing Russia’s advance.",
-    "link": "http://www.euronews.com/video/2026/07/16/kyiv-protesters-rally-after-zelenskyy-sacks-defence-minister-fedorov",
-    "published": "Thu, 16 Jul 2026 14:59:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9f8f95989d4a4cf0fc0884d36cc8d962",
-    "fetched_at": "2026-07-17T02:00:18.753155+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French MPs approve assisted dying law with strict rules after years of argument",
-    "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 17:29:26 GMT",
-    "source": "BBC News",
-    "id": "5e11634ac61544bdbb8c71b17eef70a5",
-    "fetched_at": "2026-07-17T02:00:18.753121+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-    "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 13:08:28 GMT",
-    "source": "BBC News",
-    "id": "18ed56ce39da82e8de84eabe170f396b",
-    "fetched_at": "2026-07-17T02:00:17.511276+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-    "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-    "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 17:22:31 GMT",
-    "source": "BBC News",
-    "id": "285ba802f9cb0259493d7e543ae732b0",
-    "fetched_at": "2026-07-17T02:00:16.255283+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
-    "summary": "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minister.",
-    "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
-    "published": "Wed, 15 Jul 2026 13:58:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "807ca8938c41c15ed9274001a7efcceb",
-    "fetched_at": "2026-07-17T02:00:15.085222+00:00"
   }
 ]
