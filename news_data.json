@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
+    "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
+    "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
+    "published": "Fri, 17 Jul 2026 16:14:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2349e525303ebf0846ea54f5f3a6d551",
+    "fetched_at": "2026-07-18T09:17:26.571812+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "African growth boom follows Trump push to replace aid with trade",
+    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
+    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
+    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cb56fc57031f2914b993dca818d5c963",
+    "fetched_at": "2026-07-18T09:17:25.434797+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
+    "summary": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
+    "link": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
+    "published": "Thu, 16 Jul 2026 17:19:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "a614c6d83d18cb332b2011b3e2dec995",
+    "fetched_at": "2026-07-18T09:17:24.289089+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
+    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
+    "published": "Fri, 17 Jul 2026 09:15:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "f400641165aefbd9930a091c5a6231b9",
+    "fetched_at": "2026-07-18T09:17:23.144014+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Space start-up launches India’s first commercial rocket designed for orbit",
     "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
     "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8437d0f7b2ca527de084e4895e949ba9",
     "fetched_at": "2026-07-17T17:04:18.489035+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-    "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-    "published": "Fri, 17 Jul 2026 12:50:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "07e1c87600ba83ea91e7a9fecb225698",
-    "fetched_at": "2026-07-17T17:04:17.359516+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pittsburgh bridge demolished in dramatic explosion",
-    "summary": "The bridge will be replaced with a new, prebuilt span that crews will slide into place in the state's largest lateral slide project, authorities say.",
-    "link": "https://www.bbc.co.uk/news/videos/c87ngl2j29jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 14:09:18 GMT",
-    "source": "BBC News",
-    "id": "1ea73cfccd4824b510ebc3bc9fe00827",
-    "fetched_at": "2026-07-17T17:04:16.198478+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-    "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 11:37:00 GMT",
-    "source": "BBC News",
-    "id": "9da5955c6dd4497cb2790c793b37ee2a",
-    "fetched_at": "2026-07-17T17:04:15.065559+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran accuses US of hitting civilian infrastructure",
-    "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-    "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 14:32:07 GMT",
-    "source": "BBC News",
-    "id": "8f74d875a19f2f819aacea83156fe6b9",
-    "fetched_at": "2026-07-17T15:07:59.453203+00:00"
   }
 ]
