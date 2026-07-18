@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Two US troops killed in Jordan by Iranian attacks, US military says",
+    "summary": "The two US service members were killed Friday as the U.S. and partner forces defended against Iranian ballistic missile and drone attacks. These are the first U.S. deaths due to Iranian fire since the opening days of the war",
+    "link": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
+    "published": "Sat, 18 Jul 2026 20:06:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59236219dde2901994b5504993cd5d1c",
+    "fetched_at": "2026-07-18T18:52:25.338903+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
+    "summary": "President Tamás Sulyok signed the seventeenth amendment to the Fundamental Law on Saturday, he announced on Facebook. The sitting president’s mandate will end the day after it takes effect.",
+    "link": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
+    "published": "Sat, 18 Jul 2026 20:19:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1f1b04174f73aca5ac46d8975f5ce660",
+    "fetched_at": "2026-07-18T18:52:25.338867+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary's president agrees to stand down after parliament backs removal",
+    "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 17:33:28 GMT",
+    "source": "BBC News",
+    "id": "9a73446a67dfb0c07109a2dec72a7f73",
+    "fetched_at": "2026-07-18T18:52:24.205780+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
+    "summary": "Canada&apos;s own Senate report found prevention efforts haven&apos;t kept pace with wildfire threats, recommending prescribed burns and forest thinning.",
+    "link": "https://www.foxnews.com/world/canadian-wildfire-smoke-ignites-cross-border-feud-over-ottawas-willful-negligence",
+    "published": "Sat, 18 Jul 2026 14:31:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "696bcf0b527a76627f6873492b1961b3",
+    "fetched_at": "2026-07-18T18:52:23.068697+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+    "summary": "The decision comes two months after President Donald Trump met with Xi Jinping, potentially warming ties ahead of Xi's expected U.S. visit.<br />",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+    "published": "Fri, 17 Jul 2026 15:16:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "bf6d4682b49ff6fdb6fa09477957c100",
+    "fetched_at": "2026-07-18T18:52:21.929304+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+    "summary": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+    "published": "Sat, 18 Jul 2026 14:14:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "a3b121bdbe28743bb05d76ba2db40aaa",
+    "fetched_at": "2026-07-18T18:52:20.792212+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Clark 'a political football' says NBA chief Silver",
+    "summary": "NBA commissioner Adam Silver believes the debate around the treatment of Indiana Fever star Caitlin Clark is \"not largely about officiating\".",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 09:27:28 GMT",
+    "source": "BBC News",
+    "id": "8b6ca243078f61068fa69b8ba29a804d",
+    "fetched_at": "2026-07-18T18:52:19.658135+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
+    "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 17:18:47 GMT",
+    "source": "BBC News",
+    "id": "fce12ec1ea6abc557799352c230f638a",
+    "fetched_at": "2026-07-18T18:52:18.517410+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+    "summary": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 18:41:36 GMT",
+    "source": "BBC News",
+    "id": "8374dfba88235cff05cae64f87055206",
+    "fetched_at": "2026-07-18T18:52:17.376348+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "EU foreign policy chief Kallas visits EU naval mission in the Red Sea",
     "summary": "EU foreign policy chief Kaja Kallas visited personnel serving with the EU's ASPIDES and ATALANTA naval missions, receiving operational briefings and meeting troops deployed to help protect shipping routes in the Red Sea. Euronews correspondent Toby Gregory accompanied Kallas during the visit.",
     "link": "http://www.euronews.com/video/2026/07/17/eu-foreign-policy-chief-kallas-visits-eu-naval-mission-in-the-red-sea",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "9462e7d0de143ab54ae2a094d14a2663",
     "fetched_at": "2026-07-17T22:41:20.902671+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least two dead in Texas floods ravaging same area where campers died",
-    "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 14:56:26 GMT",
-    "source": "BBC News",
-    "id": "b33bb78e2a2fafa8f45cb333e1ef93d2",
-    "fetched_at": "2026-07-17T22:41:19.746603+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-    "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 18:52:35 GMT",
-    "source": "BBC News",
-    "id": "e3b8d93112b64e2406fa19ee0eed4a80",
-    "fetched_at": "2026-07-17T22:41:18.591631+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China hits out at British Steel nationalisation",
-    "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 16:44:22 GMT",
-    "source": "BBC News",
-    "id": "ef9625bd23de4660935008b168bff87f",
-    "fetched_at": "2026-07-17T20:44:36.630202+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-    "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 20:00:54 GMT",
-    "source": "BBC News",
-    "id": "cdbe8bcac673288437f138f7b3d4fc5f",
-    "fetched_at": "2026-07-17T20:44:36.630199+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-    "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-    "source": "BBC News",
-    "id": "497c033baeea645c21893d954e11de34",
-    "fetched_at": "2026-07-17T20:44:36.630196+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A new chapter for America’s 250th: 'J250' initiative puts Jewish contributions in the spotlight",
-    "summary": "The J250 Initiative launches with 250 stories of Jewish American patriots, scientists and leaders who shaped the nation from the Revolution onward.",
-    "link": "https://www.foxnews.com/world/new-chapter-americas-250th-j250-initiative-puts-jewish-contributions-spotlight",
-    "published": "Wed, 15 Jul 2026 10:15:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a8c59ac3d61b6b4fee506d877747a66b",
-    "fetched_at": "2026-07-17T20:44:36.630171+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
-    "summary": "U.S. government photos show American soldiers unloading China&apos;s only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes.",
-    "link": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
-    "published": "Wed, 15 Jul 2026 15:09:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c9b309eaab9aa215210e3311fd0eb01a",
-    "fetched_at": "2026-07-17T20:44:35.483990+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
-    "summary": "Trump says Putin is &quot;ready to make a deal&quot; to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets.",
-    "link": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
-    "published": "Wed, 15 Jul 2026 15:37:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b4281cee07f2d92b84d5dea206c61e32",
-    "fetched_at": "2026-07-17T20:44:34.317884+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
-    "summary": "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S. strikes Iranian infrastructure.",
-    "link": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
-    "published": "Thu, 16 Jul 2026 11:53:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "52d1886e0a598784e011b9d1398e3773",
-    "fetched_at": "2026-07-17T20:44:33.152280+00:00"
   }
 ]
