@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 07:05:19 GMT",
+    "source": "BBC News",
+    "id": "6a1bdf34cd45a21bddf5d5159bba78fa",
+    "fetched_at": "2026-07-18T07:37:56.170123+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU bolsters Red Sea mission amid reports Houthis may shut Bab el-Mandeb",
+    "summary": "EU foreign policy chief Kaja Kallas visited Djibouti and signed a new security agreement to strengthen Europe's naval presence, as reports say Tehran has asked the Houthis to shut the Bab el-Mandeb if the US strikes Iranian infrastructure, threatening a second global shipping chokepoint.",
+    "link": "http://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
+    "published": "Fri, 17 Jul 2026 14:23:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "df1c88963ab29bc7f13dcb51bb22d794",
+    "fetched_at": "2026-07-18T07:37:55.052174+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "China rescuers race to find trapped people after landslide",
+    "summary": "China launched a large-scale rescue operation after a landslide struck Pengshui County in Chongqing municipality on 17 July, burying part of a residential area and trapping an unknown number of people.",
+    "link": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
+    "published": "Fri, 17 Jul 2026 15:00:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ffb326d1123f499d41ccc74a7166392c",
+    "fetched_at": "2026-07-18T07:37:53.931913+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 18th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-morning",
+    "published": "Sat, 18 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "286f7081fa3d8fe2ff91cfbfff6fdc97",
+    "fetched_at": "2026-07-18T07:37:52.815654+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US forces strike Iran for seventh consecutive night",
+    "summary": "Iran's Fars state news agency reported that Iranian forces had responded by attacking US allies and bases in the region, including the Ali Al Salem airbase in Kuwait.",
+    "link": "http://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
+    "published": "Sat, 18 Jul 2026 07:49:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ecee4996b15cc0bed772afd726333be5",
+    "fetched_at": "2026-07-18T07:37:51.698103+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran escalate strikes across Mideast",
+    "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+    "published": "Sat, 18 Jul 2026 02:01:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "a8e201b0fbc21836733d75d3456af010",
+    "fetched_at": "2026-07-18T07:37:50.571755+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump Media to sell instant access to 'market-moving' social posts",
+    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 07:25:31 GMT",
+    "source": "BBC News",
+    "id": "11943fcaf9beef8a477997ffe5c275ba",
+    "fetched_at": "2026-07-18T07:37:49.446014+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
     "summary": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
     "link": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "8f74d875a19f2f819aacea83156fe6b9",
     "fetched_at": "2026-07-17T15:07:59.453203+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: US Navy Blue Angels' low flyover leaves beachgoers stunned",
-    "summary": "US Navy Blue Angels jets flew low over a crowded Florida beach, startling beachgoers as chairs and tents were blown away and children covered their ears. The dramatic flyover sparked renewed debate over the safety of low-altitude military demonstrations.",
-    "link": "http://www.euronews.com/2026/07/17/watch-us-navy-blue-angels-low-flyover-leaves-beachgoers-stunned",
-    "published": "Fri, 17 Jul 2026 11:14:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c77502550131fa9e60611c2a8d4ea10d",
-    "fetched_at": "2026-07-17T15:07:59.453200+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
-    "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
-    "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
-    "published": "Fri, 17 Jul 2026 16:14:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2349e525303ebf0846ea54f5f3a6d551",
-    "fetched_at": "2026-07-17T15:07:59.453168+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "African growth boom follows Trump push to replace aid with trade",
-    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
-    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
-    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cb56fc57031f2914b993dca818d5c963",
-    "fetched_at": "2026-07-17T15:07:58.320008+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-    "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.",
-    "link": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-    "published": "Thu, 16 Jul 2026 07:29:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a20cff470dcd2ff756f8e48d9003c31",
-    "fetched_at": "2026-07-17T15:07:57.180951+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-    "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
-    "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-    "published": "Thu, 16 Jul 2026 07:33:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "b894c251555cb4c0b426bab7af00cbfc",
-    "fetched_at": "2026-07-17T15:07:56.051216+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
-    "summary": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
-    "link": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
-    "published": "Thu, 16 Jul 2026 17:19:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "a614c6d83d18cb332b2011b3e2dec995",
-    "fetched_at": "2026-07-17T15:07:54.937557+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
-    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
-    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
-    "published": "Fri, 17 Jul 2026 09:15:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "f400641165aefbd9930a091c5a6231b9",
-    "fetched_at": "2026-07-17T15:07:53.751527+00:00"
   }
 ]
