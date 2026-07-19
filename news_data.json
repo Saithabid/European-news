@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Passenger ferry carrying 116 people sinks off the coast of Guyana",
+    "summary": "A distress call to the coast guard was made just after 11pm local time. The search and rescue operation is ongoing.",
+    "link": "http://www.euronews.com/2026/07/19/passenger-ferry-carrying-116-people-sinks-off-the-coast-of-guyana",
+    "published": "Sun, 19 Jul 2026 13:53:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3d2a1cf8650ae23ccf7d51def6b03f3f",
+    "fetched_at": "2026-07-19T13:00:02.811426+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Magnitude 5.1 earthquake in central Peru leaves at least one dead and ten injured",
+    "summary": "A 5.1‑magnitude earthquake centred in Chupaca, Junín, left one person dead and around ten injured on Saturday night, and damaged hospitals and religious monuments in the Andean area.",
+    "link": "http://www.euronews.com/2026/07/19/magnitude-51-earthquake-in-central-peru-leaves-at-least-one-dead-and-ten-injured",
+    "published": "Sun, 19 Jul 2026 14:31:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cdf6978fae708bb5d3e7471aa629f376",
+    "fetched_at": "2026-07-19T13:00:01.650935+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+    "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+    "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 17:22:31 GMT",
+    "source": "BBC News",
+    "id": "285ba802f9cb0259493d7e543ae732b0",
+    "fetched_at": "2026-07-19T13:00:00.490802+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German politician resigns over surrogacy child controversy",
+    "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 15:23:31 GMT",
+    "source": "BBC News",
+    "id": "ea19a489c5204a7edfb34f7170f893b7",
+    "fetched_at": "2026-07-19T12:59:59.349899+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
+    "summary": "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minister.",
+    "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
+    "published": "Wed, 15 Jul 2026 13:58:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "807ca8938c41c15ed9274001a7efcceb",
+    "fetched_at": "2026-07-19T12:59:58.201033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
+    "summary": "Iran&apos;s confidential report prepared for President Masoud Pezeshkian reveals majority support regime change or deep reform amid surging public anger over food prices and corruption.",
+    "link": "https://www.foxnews.com/world/leaked-iran-report-finds-record-public-anger-regime-focuses-holding-power",
+    "published": "Fri, 17 Jul 2026 11:06:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6d580db7b4256528498949cb47723f38",
+    "fetched_at": "2026-07-19T12:59:57.059662+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
+    "summary": "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
+    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
+    "published": "Sat, 18 Jul 2026 07:38:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "54ee2b6a37e40c4e9a1af257a02eabd5",
+    "fetched_at": "2026-07-19T12:59:55.909651+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Grandmother, 82, wins law change so she can enjoy Happy Hour at care home",
+    "summary": "Anita Le Brun, the face of a campaign to allow for alcohol to be served at care homes without a licence, is celebrating its success.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 12:46:47 GMT",
+    "source": "BBC News",
+    "id": "c8a4929ccbae3eba813d42a748bc7c5a",
+    "fetched_at": "2026-07-19T12:59:54.742202+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
     "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
     "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "8374dfba88235cff05cae64f87055206",
     "fetched_at": "2026-07-18T18:52:17.376348+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU foreign policy chief Kallas visits EU naval mission in the Red Sea",
-    "summary": "EU foreign policy chief Kaja Kallas visited personnel serving with the EU's ASPIDES and ATALANTA naval missions, receiving operational briefings and meeting troops deployed to help protect shipping routes in the Red Sea. Euronews correspondent Toby Gregory accompanied Kallas during the visit.",
-    "link": "http://www.euronews.com/video/2026/07/17/eu-foreign-policy-chief-kallas-visits-eu-naval-mission-in-the-red-sea",
-    "published": "Fri, 17 Jul 2026 20:00:59 +0200",
-    "source": "News | Euronews RSS",
-    "id": "35e2fe8a16044dbab3edd0a324e743e7",
-    "fetched_at": "2026-07-18T16:47:54.079636+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Deaths from Venezuela earthquakes rise above 5,000",
-    "summary": "Venezuela has been able to unlock €302 million of funding from the International Monetary Fund to support recovery and reconstruction following the devastating earthquakes that hit the northern coastal region last month.",
-    "link": "http://www.euronews.com/my-europe/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000",
-    "published": "Sat, 18 Jul 2026 17:43:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "34432c3acea40c8474ebd25729fc812f",
-    "fetched_at": "2026-07-18T16:47:52.929099+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-evening",
-    "published": "Sat, 18 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c12d2a2b278f80f1dfc8ac67f46661f9",
-    "fetched_at": "2026-07-18T16:47:51.784357+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-    "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-    "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 12:44:26 GMT",
-    "source": "BBC News",
-    "id": "51a1ad872aef9ad6add669f7664573fe",
-    "fetched_at": "2026-07-18T16:47:50.668963+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-    "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 18:34:04 GMT",
-    "source": "BBC News",
-    "id": "0e91d83a65ce04af919816652516ae18",
-    "fetched_at": "2026-07-18T16:47:49.526458+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China rejects Trump's election interference accusations as 'groundless'",
-    "summary": "At a daily briefing in Beijing, a spokesperson called on the US to stop making what it described as 'groundless accusations' against China.",
-    "link": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
-    "published": "Fri, 17 Jul 2026 17:23:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "52a006dfa17b142eb15bd32b6427a13b",
-    "fetched_at": "2026-07-18T14:44:49.252697+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World Cup organisers 'monitoring' wildfire smoke ahead of New Jersey final",
-    "summary": "Officials in many cities urged residents to stay indoors or wear masks outside as air quality reached unhealthy to hazardous levels, meaning it posed a health risk to everyone,",
-    "link": "http://www.euronews.com/2026/07/17/world-cup-organisers-monitor-wildfire-smoke-ahead-of-new-jersey-final",
-    "published": "Fri, 17 Jul 2026 17:52:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fa834a47d70a8eaf0d88c65ef4f6edaa",
-    "fetched_at": "2026-07-18T14:44:48.104077+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "7.3 magnitude earthquake strikes Mexico and Guatemala coasts, tsunami alert lifted",
-    "summary": "A 7.3 magnitude earthquake shook the coasts of Mexico and Guatemala on Friday, its epicentre off Chiapas at about 15 km deep.",
-    "link": "http://www.euronews.com/2026/07/17/magnitude-73-earthquake-strikes-mexico-and-guatemala-coasts-tsunami-alert-issued",
-    "published": "Fri, 17 Jul 2026 17:59:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "42461658ca2b09dfc6873d3f636119d2",
-    "fetched_at": "2026-07-18T14:44:46.944835+00:00"
   }
 ]
