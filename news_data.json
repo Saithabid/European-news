@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "US soldier killed and one injured after Iranian attack in Iraq",
+    "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 19:45:12 GMT",
+    "source": "BBC News",
+    "id": "11496eba1f4284d9090231e1f7b6be58",
+    "fetched_at": "2026-07-19T22:43:21.103829+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 19th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-morning",
+    "published": "Sun, 19 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2c4064de605a3f7967326b1d912ab633",
+    "fetched_at": "2026-07-19T22:43:19.966671+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+    "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+    "source": "BBC News",
+    "id": "5f291c0fab0ef8dc15a9808a79343bbe",
+    "fetched_at": "2026-07-19T22:43:18.817235+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New EU border system tripling time at passport control, airport boss says",
+    "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 01:47:59 GMT",
+    "source": "BBC News",
+    "id": "1a6f23ca5f10e26e3a47f09c002c8f36",
+    "fetched_at": "2026-07-19T22:43:17.672036+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+    "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+    "published": "Sat, 18 Jul 2026 02:01:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "a8e201b0fbc21836733d75d3456af010",
+    "fetched_at": "2026-07-19T22:43:16.524006+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+    "summary": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+    "published": "Sun, 19 Jul 2026 03:27:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "5a3f86befa47abdf06527348a9bc1cf6",
+    "fetched_at": "2026-07-19T22:43:15.353630+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump and Sánchez meet at World Cup final after nearly two years of diplomatic tensions",
     "summary": "For nearly two years, the leaders of Spain and the United States have clashed over issues ranging from defence spending to US policy in the Middle East.",
     "link": "http://www.euronews.com/2026/07/19/trump-and-sanchez-meet-at-world-cup-final-after-nearly-two-years-of-diplomatic-tensions",
@@ -538,65 +598,5 @@
     "source": "NPR Topics: World",
     "id": "2d7a66716c1d52d1ed3af14d1cabfe97",
     "fetched_at": "2026-07-19T11:05:50.425586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-    "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
-    "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-    "published": "Sun, 19 Jul 2026 05:14:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "874c7cf75d290158419eedf990f967da",
-    "fetched_at": "2026-07-19T11:05:49.303884+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-    "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
-    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-    "published": "Sun, 19 Jul 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "a03065f884a8eeb71d56fdf11d7fbd1d",
-    "fetched_at": "2026-07-19T11:05:48.152909+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 07:05:19 GMT",
-    "source": "BBC News",
-    "id": "6a1bdf34cd45a21bddf5d5159bba78fa",
-    "fetched_at": "2026-07-19T08:04:10.013385+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-    "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 07:47:02 GMT",
-    "source": "BBC News",
-    "id": "0ed628325da01d0238254d195efbc9de",
-    "fetched_at": "2026-07-19T08:04:08.872342+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-morning",
-    "published": "Sat, 18 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "286f7081fa3d8fe2ff91cfbfff6fdc97",
-    "fetched_at": "2026-07-19T08:04:07.729562+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "England beat France 6-4 in World Cup third-place thriller",
-    "summary": "The 10-goal spectacle shattered several World Cup records, while Kylian Mbappé moved ahead of Lionel Messi on the tournament's all-time scoring list and strengthened his lead in the Golden Boot race.",
-    "link": "http://www.euronews.com/2026/07/19/england-beat-france-6-4-in-world-cup-third-place-thriller",
-    "published": "Sun, 19 Jul 2026 09:50:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "553e31797531f044b01e92b06248bd5c",
-    "fetched_at": "2026-07-19T08:04:06.578468+00:00"
   }
 ]
