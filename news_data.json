@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+    "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 05:10:57 GMT",
+    "source": "BBC News",
+    "id": "11496eba1f4284d9090231e1f7b6be58",
+    "fetched_at": "2026-07-19T05:26:20.630854+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US forces strike Iran for seventh consecutive night",
+    "summary": "Iran's Fars state news agency reported that Iranian forces had responded by attacking US allies and bases in the region, including the Ali Al Salem airbase in Kuwait.",
+    "link": "http://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
+    "published": "Sat, 18 Jul 2026 07:49:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ecee4996b15cc0bed772afd726333be5",
+    "fetched_at": "2026-07-19T05:26:19.519863+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 19th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-morning",
+    "published": "Sun, 19 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2c4064de605a3f7967326b1d912ab633",
+    "fetched_at": "2026-07-19T05:26:18.399192+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+    "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 16 Jul 2026 16:36:21 GMT",
+    "source": "BBC News",
+    "id": "5f291c0fab0ef8dc15a9808a79343bbe",
+    "fetched_at": "2026-07-19T05:26:17.283315+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Resource-rich nation praises US ties amid Washington-Beijing critical minerals race",
+    "summary": "Foreign Minister Thérèse Kayikwamba Wagner says the Democratic Republic of the Congo needs multiple partners to develop its cobalt, copper and lithium wealth amid growing U.S. interest.",
+    "link": "https://www.foxnews.com/world/resource-rich-nation-praises-us-ties-amid-washington-beijing-critical-minerals-race",
+    "published": "Thu, 16 Jul 2026 15:03:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230b0e089ac88e5f0a332572a6f187ea",
+    "fetched_at": "2026-07-19T05:26:16.168760+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+    "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+    "published": "Sat, 18 Jul 2026 02:01:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "a8e201b0fbc21836733d75d3456af010",
+    "fetched_at": "2026-07-19T05:26:15.040809+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump Media to sell instant access to 'market-moving' social posts",
+    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 07:25:31 GMT",
+    "source": "BBC News",
+    "id": "11943fcaf9beef8a477997ffe5c275ba",
+    "fetched_at": "2026-07-19T05:26:13.910139+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "New EU border system tripling time at passport control, airport boss says",
     "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
     "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "2349e525303ebf0846ea54f5f3a6d551",
     "fetched_at": "2026-07-18T09:17:26.571812+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "African growth boom follows Trump push to replace aid with trade",
-    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
-    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
-    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cb56fc57031f2914b993dca818d5c963",
-    "fetched_at": "2026-07-18T09:17:25.434797+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
-    "summary": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
-    "link": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
-    "published": "Thu, 16 Jul 2026 17:19:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "a614c6d83d18cb332b2011b3e2dec995",
-    "fetched_at": "2026-07-18T09:17:24.289089+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
-    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
-    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
-    "published": "Fri, 17 Jul 2026 09:15:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "f400641165aefbd9930a091c5a6231b9",
-    "fetched_at": "2026-07-18T09:17:23.144014+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 07:05:19 GMT",
-    "source": "BBC News",
-    "id": "6a1bdf34cd45a21bddf5d5159bba78fa",
-    "fetched_at": "2026-07-18T07:37:56.170123+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU bolsters Red Sea mission amid reports Houthis may shut Bab el-Mandeb",
-    "summary": "EU foreign policy chief Kaja Kallas visited Djibouti and signed a new security agreement to strengthen Europe's naval presence, as reports say Tehran has asked the Houthis to shut the Bab el-Mandeb if the US strikes Iranian infrastructure, threatening a second global shipping chokepoint.",
-    "link": "http://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
-    "published": "Fri, 17 Jul 2026 14:23:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "df1c88963ab29bc7f13dcb51bb22d794",
-    "fetched_at": "2026-07-18T07:37:55.052174+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China rescuers race to find trapped people after landslide",
-    "summary": "China launched a large-scale rescue operation after a landslide struck Pengshui County in Chongqing municipality on 17 July, burying part of a residential area and trapping an unknown number of people.",
-    "link": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
-    "published": "Fri, 17 Jul 2026 15:00:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ffb326d1123f499d41ccc74a7166392c",
-    "fetched_at": "2026-07-18T07:37:53.931913+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-morning",
-    "published": "Sat, 18 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "286f7081fa3d8fe2ff91cfbfff6fdc97",
-    "fetched_at": "2026-07-18T07:37:52.815654+00:00"
   }
 ]
