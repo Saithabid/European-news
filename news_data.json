@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+    "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 11:10:20 GMT",
+    "source": "BBC News",
+    "id": "98ad1850ad34c5093c31211d964cf851",
+    "fetched_at": "2026-07-19T11:05:56.101744+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+    "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 09:59:41 GMT",
+    "source": "BBC News",
+    "id": "36a7a62ab3c3368394bbd9584b68f23e",
+    "fetched_at": "2026-07-19T11:05:56.101742+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia launches major ballistic missile attack on Kyiv",
+    "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 09:54:50 GMT",
+    "source": "BBC News",
+    "id": "bdd53434238ce8376a95e969046d3a0e",
+    "fetched_at": "2026-07-19T11:05:56.101740+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 18th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-midday",
+    "published": "Sat, 18 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4c603b1b6ca1996dcedd31af0db699ec",
+    "fetched_at": "2026-07-19T11:05:56.101708+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
+    "summary": "Influencer brothers Andrew and Tristan Tate have been arrested in Miami ahead of an extradition request from the United Kingdom. British authorities accuse them of serious offences, including rape, human trafficking and sexual exploitation.",
+    "link": "http://www.euronews.com/2026/07/19/andrew-and-tristan-tate-arrested-in-miami-as-uk-seeks-extradition",
+    "published": "Sun, 19 Jul 2026 11:30:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "67697ecec9e64fadb9fa61860d064ae4",
+    "fetched_at": "2026-07-19T11:05:54.959893+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 19th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-midday",
+    "published": "Sun, 19 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cc0645593c81e81568ecbddb152dca47",
+    "fetched_at": "2026-07-19T11:05:53.814409+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
+    "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
+    "published": "Fri, 17 Jul 2026 12:50:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "07e1c87600ba83ea91e7a9fecb225698",
+    "fetched_at": "2026-07-19T11:05:52.671631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+    "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+    "published": "Sat, 18 Jul 2026 06:45:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "506b21971f6efe85a39bc8f31abbfe40",
+    "fetched_at": "2026-07-19T11:05:51.546501+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is it so hard for the U.S. to win wars?",
+    "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
+    "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+    "published": "Sat, 18 Jul 2026 08:45:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "2d7a66716c1d52d1ed3af14d1cabfe97",
+    "fetched_at": "2026-07-19T11:05:50.425586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+    "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+    "published": "Sun, 19 Jul 2026 05:14:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "874c7cf75d290158419eedf990f967da",
+    "fetched_at": "2026-07-19T11:05:49.303884+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+    "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+    "published": "Sun, 19 Jul 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "a03065f884a8eeb71d56fdf11d7fbd1d",
+    "fetched_at": "2026-07-19T11:05:48.152909+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Space start-up launches India’s first commercial rocket designed for orbit",
     "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
     "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "42461658ca2b09dfc6873d3f636119d2",
     "fetched_at": "2026-07-18T14:44:46.944835+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 17th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/17/latest-news-bulletin-july-17th-2026-evening",
-    "published": "Fri, 17 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c0eda9448e1e3fc0b724be85417fad0a",
-    "fetched_at": "2026-07-18T14:44:45.778308+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French MPs approve assisted dying law with strict rules after years of argument",
-    "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 15 Jul 2026 17:29:26 GMT",
-    "source": "BBC News",
-    "id": "5e11634ac61544bdbb8c71b17eef70a5",
-    "fetched_at": "2026-07-18T14:44:44.629751+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German politician resigns over surrogacy child controversy",
-    "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 14:20:32 GMT",
-    "source": "BBC News",
-    "id": "ea19a489c5204a7edfb34f7170f893b7",
-    "fetched_at": "2026-07-18T14:44:43.465614+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio convenes countries on left-wing political violence",
-    "summary": "Secretary of State Marco Rubio on Thursday convened leaders from more than 60 countries to take part in the Trump administration's latest effort to quell what it calls \"left wing\" political terrorism.",
-    "link": "https://www.npr.org/2026/07/17/g-s1-134148/rubio-convene-countries-on-left-wing-political-violence",
-    "published": "Fri, 17 Jul 2026 02:15:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "697821b9dcb9e39205f3938fdb41d6e2",
-    "fetched_at": "2026-07-18T14:44:42.297505+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-    "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 11:55:54 GMT",
-    "source": "BBC News",
-    "id": "93557554b6936ea708f27d730116acb4",
-    "fetched_at": "2026-07-18T12:57:55.938007+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-    "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 13:08:28 GMT",
-    "source": "BBC News",
-    "id": "18ed56ce39da82e8de84eabe170f396b",
-    "fetched_at": "2026-07-18T12:57:54.812566+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-    "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-    "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 17:22:31 GMT",
-    "source": "BBC News",
-    "id": "285ba802f9cb0259493d7e543ae732b0",
-    "fetched_at": "2026-07-18T12:57:53.694569+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
-    "summary": "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minister.",
-    "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
-    "published": "Wed, 15 Jul 2026 13:58:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "807ca8938c41c15ed9274001a7efcceb",
-    "fetched_at": "2026-07-18T12:57:52.568948+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
-    "summary": "Iran&apos;s confidential report prepared for President Masoud Pezeshkian reveals majority support regime change or deep reform amid surging public anger over food prices and corruption.",
-    "link": "https://www.foxnews.com/world/leaked-iran-report-finds-record-public-anger-regime-focuses-holding-power",
-    "published": "Fri, 17 Jul 2026 11:06:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d580db7b4256528498949cb47723f38",
-    "fetched_at": "2026-07-18T12:57:51.449752+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
-    "summary": "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
-    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
-    "published": "Sat, 18 Jul 2026 07:38:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "54ee2b6a37e40c4e9a1af257a02eabd5",
-    "fetched_at": "2026-07-18T12:57:50.327762+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-    "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-    "published": "Fri, 17 Jul 2026 03:17:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "8437d0f7b2ca527de084e4895e949ba9",
-    "fetched_at": "2026-07-18T12:57:49.214298+00:00"
   }
 ]
