@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Neighbours actor Terence Donovan dies aged 90",
+    "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
+    "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 08:18:32 GMT",
+    "source": "BBC News",
+    "id": "8eb23a68a84c03ec12009e90e3ba7c34",
+    "fetched_at": "2026-07-19T16:49:44.504686+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+    "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 14:50:11 GMT",
+    "source": "BBC News",
+    "id": "68dc2cf372373f38fcbb6e1f85c8ca09",
+    "fetched_at": "2026-07-19T16:49:44.504683+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 19th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-evening",
+    "published": "Sun, 19 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "93384e21c7df7ed0879698e1d45305e8",
+    "fetched_at": "2026-07-19T16:49:44.504657+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement",
+    "summary": "Record heat has fueled Europe&apos;s devastating wildfires, but experts say human error, suspected arson and land management have also played a major role in this summer&apos;s destruction.",
+    "link": "https://www.foxnews.com/world/europes-fires-reveal-deadly-mix-record-heat-human-error-arson-land-mismanagement",
+    "published": "Sun, 19 Jul 2026 12:11:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "015011cb258a642d751fa9ec95fbf638",
+    "fetched_at": "2026-07-19T16:49:43.367007+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration touts more than $1B in UN budget cuts as reform push gains momentum",
+    "summary": "The Trump administration says it secured over $1 billion in U.N. budget cuts in six months, including a $550 million peacekeeping budget reduction.",
+    "link": "https://www.foxnews.com/world/trump-administration-touts-1-billion-un-budget-cuts-reform-push-gains-momentum",
+    "published": "Sun, 19 Jul 2026 12:24:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "63b474e49828e54561deb8520977e0ca",
+    "fetched_at": "2026-07-19T16:49:42.231026+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
+    "summary": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+    "published": "Sat, 18 Jul 2026 14:14:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "a3b121bdbe28743bb05d76ba2db40aaa",
+    "fetched_at": "2026-07-19T16:49:41.079123+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+    "summary": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class divide.",
+    "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+    "published": "Sun, 19 Jul 2026 12:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "219e6ab73134942040a962d4bd5af8c0",
+    "fetched_at": "2026-07-19T16:49:39.925644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
+    "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 17:18:47 GMT",
+    "source": "BBC News",
+    "id": "fce12ec1ea6abc557799352c230f638a",
+    "fetched_at": "2026-07-19T16:49:38.781200+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+    "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 00:18:47 GMT",
+    "source": "BBC News",
+    "id": "8374dfba88235cff05cae64f87055206",
+    "fetched_at": "2026-07-19T16:49:37.626003+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Health officials identify source of US explosive diarrhoea outbreak",
+    "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 15:17:23 GMT",
+    "source": "BBC News",
+    "id": "fba9dd3e88529bb9f5883be767d76af8",
+    "fetched_at": "2026-07-19T16:49:36.468255+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
     "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
     "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "670d25959f13422526b1665175ed9e99",
     "fetched_at": "2026-07-18T22:41:15.550300+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-    "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 20:00:54 GMT",
-    "source": "BBC News",
-    "id": "cdbe8bcac673288437f138f7b3d4fc5f",
-    "fetched_at": "2026-07-18T20:38:56.743647+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-    "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-    "source": "BBC News",
-    "id": "497c033baeea645c21893d954e11de34",
-    "fetched_at": "2026-07-18T20:38:55.627566+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
-    "summary": "U.S. government photos show American soldiers unloading China&apos;s only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes.",
-    "link": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
-    "published": "Wed, 15 Jul 2026 15:09:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c9b309eaab9aa215210e3311fd0eb01a",
-    "fetched_at": "2026-07-18T20:38:54.506676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
-    "summary": "Trump says Putin is &quot;ready to make a deal&quot; to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets.",
-    "link": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
-    "published": "Wed, 15 Jul 2026 15:37:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b4281cee07f2d92b84d5dea206c61e32",
-    "fetched_at": "2026-07-18T20:38:53.389475+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
-    "summary": "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S. strikes Iranian infrastructure.",
-    "link": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
-    "published": "Thu, 16 Jul 2026 11:53:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "52d1886e0a598784e011b9d1398e3773",
-    "fetched_at": "2026-07-18T20:38:52.253319+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-    "summary": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
-    "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
-    "published": "Sat, 18 Jul 2026 16:06:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "37f7145e208b237815ea4384328e1ebb",
-    "fetched_at": "2026-07-18T20:38:51.121579+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two US troops killed in Jordan by Iranian attacks, US military says",
-    "summary": "The two US service members were killed Friday as the U.S. and partner forces defended against Iranian ballistic missile and drone attacks. These are the first U.S. deaths due to Iranian fire since the opening days of the war",
-    "link": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
-    "published": "Sat, 18 Jul 2026 20:06:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59236219dde2901994b5504993cd5d1c",
-    "fetched_at": "2026-07-18T18:52:25.338903+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
-    "summary": "President Tamás Sulyok signed the seventeenth amendment to the Fundamental Law on Saturday, he announced on Facebook. The sitting president’s mandate will end the day after it takes effect.",
-    "link": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
-    "published": "Sat, 18 Jul 2026 20:19:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1f1b04174f73aca5ac46d8975f5ce660",
-    "fetched_at": "2026-07-18T18:52:25.338867+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary's president agrees to stand down after parliament backs removal",
-    "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 17:33:28 GMT",
-    "source": "BBC News",
-    "id": "9a73446a67dfb0c07109a2dec72a7f73",
-    "fetched_at": "2026-07-18T18:52:24.205780+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
-    "summary": "Canada&apos;s own Senate report found prevention efforts haven&apos;t kept pace with wildfire threats, recommending prescribed burns and forest thinning.",
-    "link": "https://www.foxnews.com/world/canadian-wildfire-smoke-ignites-cross-border-feud-over-ottawas-willful-negligence",
-    "published": "Sat, 18 Jul 2026 14:31:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "696bcf0b527a76627f6873492b1961b3",
-    "fetched_at": "2026-07-18T18:52:23.068697+00:00"
   }
 ]
