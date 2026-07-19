@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "US launches new wave of strikes on Iran as Israel vows 'powerful' response to Tehran",
+    "summary": "Iran says the latest US strikes killed at least 50 people and wounded 517. Washington said the attacks were retaliation for a strike on a US base in Jordan that killed two US service members, left one missing and injured four others.",
+    "link": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
+    "published": "Sat, 18 Jul 2026 20:06:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59236219dde2901994b5504993cd5d1c",
+    "fetched_at": "2026-07-19T18:55:13.815091+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
+    "summary": "President Tamás Sulyok signed the seventeenth amendment to the Fundamental Law on Saturday, he announced on Facebook. The sitting president’s mandate will end the day after it takes effect.",
+    "link": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
+    "published": "Sat, 18 Jul 2026 20:19:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1f1b04174f73aca5ac46d8975f5ce660",
+    "fetched_at": "2026-07-19T18:55:13.815087+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New World Cup champions to receive record $51 million prize",
+    "summary": "The cash prize for either Argentina or Spain, while an increase on the last tournament, is a small figure when compared to the amounts spent on individual football players",
+    "link": "http://www.euronews.com/2026/07/19/new-world-cup-champions-51-million-prize",
+    "published": "Sun, 19 Jul 2026 18:55:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "48dd9c552cd3cb9cf081dbc22fed249d",
+    "fetched_at": "2026-07-19T18:55:13.815083+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+    "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 20:00:54 GMT",
+    "source": "BBC News",
+    "id": "cdbe8bcac673288437f138f7b3d4fc5f",
+    "fetched_at": "2026-07-19T18:55:13.815058+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+    "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 19:04:09 GMT",
+    "source": "BBC News",
+    "id": "497c033baeea645c21893d954e11de34",
+    "fetched_at": "2026-07-19T18:55:12.710827+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary's president agrees to stand down after parliament backs removal",
+    "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 19:34:16 GMT",
+    "source": "BBC News",
+    "id": "9a73446a67dfb0c07109a2dec72a7f73",
+    "fetched_at": "2026-07-19T18:55:11.597944+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
+    "summary": "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S. strikes Iranian infrastructure.",
+    "link": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
+    "published": "Thu, 16 Jul 2026 11:53:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "52d1886e0a598784e011b9d1398e3773",
+    "fetched_at": "2026-07-19T18:55:10.491765+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
+    "summary": "Canada&apos;s own Senate report found prevention efforts haven&apos;t kept pace with wildfire threats, recommending prescribed burns and forest thinning.",
+    "link": "https://www.foxnews.com/world/canadian-wildfire-smoke-ignites-cross-border-feud-over-ottawas-willful-negligence",
+    "published": "Sat, 18 Jul 2026 14:31:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "696bcf0b527a76627f6873492b1961b3",
+    "fetched_at": "2026-07-19T18:55:09.385940+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Earthquake shakes Peru's Andes region, killing at least 5, displacing hundreds",
+    "summary": "A magnitude 5.5 earthquake near Sicaya killed at least five people and left hundreds homeless as adobe buildings collapsed across Peru&apos;s Andes region.",
+    "link": "https://www.foxnews.com/world/earthquake-shakes-perus-andes-region-killing-least-5-displacing-hundreds",
+    "published": "Sun, 19 Jul 2026 13:50:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3f8de429ee18df3b283b7358f6e82bc7",
+    "fetched_at": "2026-07-19T18:55:08.237049+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+    "summary": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+    "published": "Sat, 18 Jul 2026 16:06:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "37f7145e208b237815ea4384328e1ebb",
+    "fetched_at": "2026-07-19T18:55:07.135170+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
+    "summary": "Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber.",
+    "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 18:51:38 GMT",
+    "source": "BBC News",
+    "id": "480dbc199b10f6836ae28ef7054f1e08",
+    "fetched_at": "2026-07-19T18:55:06.015770+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Neighbours actor Terence Donovan dies aged 90",
     "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
     "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "1a6f23ca5f10e26e3a47f09c002c8f36",
     "fetched_at": "2026-07-19T01:59:20.897070+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-    "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 23:59:26 GMT",
-    "source": "BBC News",
-    "id": "487c9543eaeab24e4bd6b4d9c274834d",
-    "fetched_at": "2026-07-19T01:59:19.760003+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Asian nation with 1,500-year-old imperial line insists only men can become emperor in policy revision",
-    "summary": "Japan&apos;s Parliament revised the Imperial House Law to cement male-only succession, blocking Princess Aiko from inheriting the throne despite public support.",
-    "link": "https://www.foxnews.com/world/asian-nation-1500-year-old-imperial-line-insists-only-men-become-emperor-policy-revision",
-    "published": "Fri, 17 Jul 2026 08:12:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b98030e0b31cb818ee82f0831f36e1f8",
-    "fetched_at": "2026-07-19T01:59:18.630972+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
-    "summary": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
-    "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-    "published": "Fri, 17 Jul 2026 07:13:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "75a1b9bade1e64c5aae3944763e7a8e8",
-    "fetched_at": "2026-07-19T01:59:17.502930+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "He made history in Congress - then the Supreme Court changed its mind",
-    "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-    "link": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 01:35:33 GMT",
-    "source": "BBC News",
-    "id": "2e8967853a3cbc9ef4324d03f62a93ad",
-    "fetched_at": "2026-07-19T01:59:16.377202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-    "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 23:44:04 GMT",
-    "source": "BBC News",
-    "id": "c9b78553c83f90bb31221875d2d5be6d",
-    "fetched_at": "2026-07-19T01:59:15.243513+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers arrested in US after more charges laid against them in UK",
-    "summary": "The Crown Prosecution Service said it would seek to extradite the brothers from the US, while their lawyer dismissed the new charges as \"slander\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 01:43:17 GMT",
-    "source": "BBC News",
-    "id": "74ad62f8442d440e9b38ec631a64054e",
-    "fetched_at": "2026-07-19T01:59:14.118364+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
-    "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 19:50:54 GMT",
-    "source": "BBC News",
-    "id": "2318105eb01c462c99db882c32212dc3",
-    "fetched_at": "2026-07-18T22:41:20.104735+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
-    "summary": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 21:29:22 GMT",
-    "source": "BBC News",
-    "id": "d3fe7779fb9e862757596fbf46d1adb9",
-    "fetched_at": "2026-07-18T22:41:18.974267+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How the World Cup made an 'NFL-obsessed' American a football fan",
-    "summary": "New fans tell the BBC they are fully invested after watching the World Cup on home soil, just don’t ask them to stop calling it soccer.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n22eprzpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 11:54:38 GMT",
-    "source": "BBC News",
-    "id": "4b8437e2c997fbe17022966dc9d21db6",
-    "fetched_at": "2026-07-18T22:41:17.845722+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What this desert city can teach the world about tackling heat deaths",
-    "summary": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
-    "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 23:56:08 GMT",
-    "source": "BBC News",
-    "id": "832046ad311b1ba94cb0d829a5b10dd1",
-    "fetched_at": "2026-07-18T22:41:16.699991+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-    "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 17:29:50 GMT",
-    "source": "BBC News",
-    "id": "670d25959f13422526b1665175ed9e99",
-    "fetched_at": "2026-07-18T22:41:15.550300+00:00"
   }
 ]
