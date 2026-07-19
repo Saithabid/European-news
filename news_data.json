@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 18 Jul 2026 07:05:19 GMT",
+    "source": "BBC News",
+    "id": "6a1bdf34cd45a21bddf5d5159bba78fa",
+    "fetched_at": "2026-07-19T08:04:10.013385+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+    "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 07:47:02 GMT",
+    "source": "BBC News",
+    "id": "0ed628325da01d0238254d195efbc9de",
+    "fetched_at": "2026-07-19T08:04:08.872342+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 18th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-morning",
+    "published": "Sat, 18 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "286f7081fa3d8fe2ff91cfbfff6fdc97",
+    "fetched_at": "2026-07-19T08:04:07.729562+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "England beat France 6-4 in World Cup third-place thriller",
+    "summary": "The 10-goal spectacle shattered several World Cup records, while Kylian Mbappé moved ahead of Lionel Messi on the tournament's all-time scoring list and strengthened his lead in the Golden Boot race.",
+    "link": "http://www.euronews.com/2026/07/19/england-beat-france-6-4-in-world-cup-third-place-thriller",
+    "published": "Sun, 19 Jul 2026 09:50:50 +0200",
+    "source": "News | Euronews RSS",
+    "id": "553e31797531f044b01e92b06248bd5c",
+    "fetched_at": "2026-07-19T08:04:06.578468+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "African growth boom follows Trump push to replace aid with trade",
+    "summary": "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment.",
+    "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
+    "published": "Thu, 16 Jul 2026 07:23:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cb56fc57031f2914b993dca818d5c963",
+    "fetched_at": "2026-07-19T08:04:05.425487+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
+    "summary": "The military said Friday it used intelligence sources to target militants over the previous 24 hours. The operations were in response to attacks by militants earlier in the week.",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
+    "published": "Fri, 17 Jul 2026 09:15:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "f400641165aefbd9930a091c5a6231b9",
+    "fetched_at": "2026-07-19T08:04:04.261846+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+    "summary": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+    "published": "Sun, 19 Jul 2026 03:27:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "5a3f86befa47abdf06527348a9bc1cf6",
+    "fetched_at": "2026-07-19T08:04:03.090826+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
     "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8437d0f7b2ca527de084e4895e949ba9",
     "fetched_at": "2026-07-18T12:57:49.214298+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is it so hard for the U.S. to win wars?",
-    "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
-    "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-    "published": "Sat, 18 Jul 2026 08:45:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "2d7a66716c1d52d1ed3af14d1cabfe97",
-    "fetched_at": "2026-07-18T12:57:48.087543+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
-    "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 09:30:32 GMT",
-    "source": "BBC News",
-    "id": "98ad1850ad34c5093c31211d964cf851",
-    "fetched_at": "2026-07-18T10:56:43.032654+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-midday",
-    "published": "Sat, 18 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4c603b1b6ca1996dcedd31af0db699ec",
-    "fetched_at": "2026-07-18T10:56:41.870556+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-    "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-    "published": "Fri, 17 Jul 2026 12:50:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "07e1c87600ba83ea91e7a9fecb225698",
-    "fetched_at": "2026-07-18T10:56:40.693461+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-    "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
-    "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
-    "published": "Sat, 18 Jul 2026 06:45:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "506b21971f6efe85a39bc8f31abbfe40",
-    "fetched_at": "2026-07-18T10:56:39.522813+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-    "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 11:37:00 GMT",
-    "source": "BBC News",
-    "id": "9da5955c6dd4497cb2790c793b37ee2a",
-    "fetched_at": "2026-07-18T10:56:38.361045+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
-    "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
-    "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
-    "published": "Fri, 17 Jul 2026 16:14:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2349e525303ebf0846ea54f5f3a6d551",
-    "fetched_at": "2026-07-18T09:17:26.571812+00:00"
   }
 ]
