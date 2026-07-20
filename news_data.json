@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+    "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 17:33:02 GMT",
+    "source": "BBC News",
+    "id": "446c6b5e117505e0e7db92894fef5c8a",
+    "fetched_at": "2026-07-20T19:29:06.941057+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway opens new memorial for victims of 2011 massacre",
+    "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 01:11:08 GMT",
+    "source": "BBC News",
+    "id": "3ea708900b0fea0d207ab653d575ed95",
+    "fetched_at": "2026-07-20T19:29:06.941054+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Victory for football? Spain beat Argentina to win World Cup",
+    "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 00:28:50 GMT",
+    "source": "BBC News",
+    "id": "b8205fcbed345ea818aa211060da3278",
+    "fetched_at": "2026-07-20T19:29:06.941051+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+    "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 00:19:12 GMT",
+    "source": "BBC News",
+    "id": "cc14762ea27b03c4fd0b8b8df0777176",
+    "fetched_at": "2026-07-20T19:29:06.941021+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
+    "summary": "ISIS fighters in Syria may have grown from 2,000 to 10,000 as the U.S. prepares to complete its Iraq withdrawal by Sept. 30, an expert warns.",
+    "link": "https://www.foxnews.com/world/isis-poised-exploit-historic-us-iraq-exit-terror-group-actively-waiting-gaps-expert-warns",
+    "published": "Sun, 19 Jul 2026 20:04:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "498729fe1fe9afd399b444327e3d5073",
+    "fetched_at": "2026-07-20T19:29:05.853721+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tate brothers due in Miami court as UK seeks extradition on rape, trafficking charges",
+    "summary": "Andrew and Tristan Tate face a Miami court hearing after their weekend arrest as Britain seeks extradition on 59 total charges including rape.",
+    "link": "https://www.foxnews.com/world/tate-brothers-due-miami-court-uk-seeks-extradition-rape-trafficking-charges",
+    "published": "Mon, 20 Jul 2026 14:10:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "da8633466748363ae741e30d81001a8a",
+    "fetched_at": "2026-07-20T19:29:04.726356+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe's 'green ideology' climate agenda risks crushing its industry, environment minister warns",
+    "summary": "Czech Environment Minister Igor Červený warns Europe will &quot;crush&quot; its industrial base unless leaders retreat from aggressive climate policies.",
+    "link": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
+    "published": "Mon, 20 Jul 2026 14:12:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6d4be31389beff8ee8d6151d576f12fa",
+    "fetched_at": "2026-07-20T19:29:03.595786+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+    "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+    "published": "Sun, 19 Jul 2026 05:14:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "874c7cf75d290158419eedf990f967da",
+    "fetched_at": "2026-07-20T19:29:02.459747+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+    "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+    "published": "Sun, 19 Jul 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "a03065f884a8eeb71d56fdf11d7fbd1d",
+    "fetched_at": "2026-07-20T19:29:01.338414+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tate brothers appear in US court for extradition proceedings",
+    "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+    "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 19:05:50 GMT",
+    "source": "BBC News",
+    "id": "bf377dca0d7f905aab6c12f811c1e4ad",
+    "fetched_at": "2026-07-20T19:29:00.196298+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+    "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 18:16:51 GMT",
+    "source": "BBC News",
+    "id": "508cf0ab9f590e169748cc3b351b8924",
+    "fetched_at": "2026-07-20T19:28:59.080452+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "IRGC pledges 'unforgettable lesson' for US as Iran signals return to talks",
     "summary": "The Revolutionary Guard told Ayatollah Khamenei it regarded his message as \"a binding command,\" as Iran's foreign ministry said diplomacy remained open and mediators sought a 10-day ceasefire to revive the framework deal.",
     "link": "http://www.euronews.com/2026/07/20/irgc-pledges-unforgettable-lesson-for-us-as-iran-signals-return-to-talks",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d0a71976b8482ea14449aa62c287db9c",
     "fetched_at": "2026-07-20T10:44:02.477604+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 930 people have died in Congo's Ebola outbreak",
-    "summary": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
-    "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-    "published": "Mon, 20 Jul 2026 06:36:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "7b07ebf83c9d4abd6ab7a616eccd459a",
-    "fetched_at": "2026-07-20T10:44:01.354998+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
-    "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 02:35:04 GMT",
-    "source": "BBC News",
-    "id": "fba9dd3e88529bb9f5883be767d76af8",
-    "fetched_at": "2026-07-20T10:44:00.222731+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-    "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 18:18:05 GMT",
-    "source": "BBC News",
-    "id": "36a7a62ab3c3368394bbd9584b68f23e",
-    "fetched_at": "2026-07-20T06:40:06.187244+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Food delivery rider wins China's top literary prize",
-    "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 03:53:07 GMT",
-    "source": "BBC News",
-    "id": "caa80093013fa984ae968cec69e1a885",
-    "fetched_at": "2026-07-20T06:40:06.187240+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
-    "summary": "Influencer brothers Andrew and Tristan Tate have been arrested in Miami ahead of an extradition request from the United Kingdom. British authorities accuse them of serious offences, including rape, human trafficking and sexual exploitation.",
-    "link": "http://www.euronews.com/2026/07/19/andrew-and-tristan-tate-arrested-in-miami-as-uk-seeks-extradition",
-    "published": "Sun, 19 Jul 2026 11:30:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "67697ecec9e64fadb9fa61860d064ae4",
-    "fetched_at": "2026-07-20T06:40:06.187238+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 19th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-midday",
-    "published": "Sun, 19 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cc0645593c81e81568ecbddb152dca47",
-    "fetched_at": "2026-07-20T06:40:06.187234+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran launches retaliatory strikes after ninth consecutive night of US attacks",
-    "summary": "The US carried out its ninth consecutive night of strikes on Iran following the death of three US service members in Jordan and Iraq.",
-    "link": "http://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes",
-    "published": "Mon, 20 Jul 2026 06:04:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a313fd43eb1706acc84406808f41d8f5",
-    "fetched_at": "2026-07-20T06:40:06.187203+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 20th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/20/latest-news-bulletin-july-20th-2026-morning",
-    "published": "Mon, 20 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ee02f9026c6aa49df808072edd0c48d4",
-    "fetched_at": "2026-07-20T06:40:05.080957+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-    "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 18:25:40 GMT",
-    "source": "BBC News",
-    "id": "bdd53434238ce8376a95e969046d3a0e",
-    "fetched_at": "2026-07-20T06:40:03.927132+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
-    "summary": "Iran&apos;s confidential report prepared for President Masoud Pezeshkian reveals majority support regime change or deep reform amid surging public anger over food prices and corruption.",
-    "link": "https://www.foxnews.com/world/leaked-iran-report-finds-record-public-anger-regime-focuses-holding-power",
-    "published": "Fri, 17 Jul 2026 11:06:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d580db7b4256528498949cb47723f38",
-    "fetched_at": "2026-07-20T06:40:02.806065+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
-    "summary": "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
-    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
-    "published": "Sat, 18 Jul 2026 07:38:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "54ee2b6a37e40c4e9a1af257a02eabd5",
-    "fetched_at": "2026-07-20T06:40:01.691531+00:00"
   }
 ]
