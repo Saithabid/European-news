@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+    "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 18:18:05 GMT",
+    "source": "BBC News",
+    "id": "36a7a62ab3c3368394bbd9584b68f23e",
+    "fetched_at": "2026-07-20T06:40:06.187244+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Food delivery rider wins China's top literary prize",
+    "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 03:53:07 GMT",
+    "source": "BBC News",
+    "id": "caa80093013fa984ae968cec69e1a885",
+    "fetched_at": "2026-07-20T06:40:06.187240+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
+    "summary": "Influencer brothers Andrew and Tristan Tate have been arrested in Miami ahead of an extradition request from the United Kingdom. British authorities accuse them of serious offences, including rape, human trafficking and sexual exploitation.",
+    "link": "http://www.euronews.com/2026/07/19/andrew-and-tristan-tate-arrested-in-miami-as-uk-seeks-extradition",
+    "published": "Sun, 19 Jul 2026 11:30:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "67697ecec9e64fadb9fa61860d064ae4",
+    "fetched_at": "2026-07-20T06:40:06.187238+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 19th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-midday",
+    "published": "Sun, 19 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cc0645593c81e81568ecbddb152dca47",
+    "fetched_at": "2026-07-20T06:40:06.187234+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran launches retaliatory strikes after ninth consecutive night of US attacks",
+    "summary": "The US carried out its ninth consecutive night of strikes on Iran following the death of three US service members in Jordan and Iraq.",
+    "link": "http://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes",
+    "published": "Mon, 20 Jul 2026 06:04:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a313fd43eb1706acc84406808f41d8f5",
+    "fetched_at": "2026-07-20T06:40:06.187203+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 20th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/20/latest-news-bulletin-july-20th-2026-morning",
+    "published": "Mon, 20 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ee02f9026c6aa49df808072edd0c48d4",
+    "fetched_at": "2026-07-20T06:40:05.080957+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+    "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 18:25:40 GMT",
+    "source": "BBC News",
+    "id": "bdd53434238ce8376a95e969046d3a0e",
+    "fetched_at": "2026-07-20T06:40:03.927132+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
+    "summary": "Iran&apos;s confidential report prepared for President Masoud Pezeshkian reveals majority support regime change or deep reform amid surging public anger over food prices and corruption.",
+    "link": "https://www.foxnews.com/world/leaked-iran-report-finds-record-public-anger-regime-focuses-holding-power",
+    "published": "Fri, 17 Jul 2026 11:06:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6d580db7b4256528498949cb47723f38",
+    "fetched_at": "2026-07-20T06:40:02.806065+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
+    "summary": "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
+    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
+    "published": "Sat, 18 Jul 2026 07:38:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "54ee2b6a37e40c4e9a1af257a02eabd5",
+    "fetched_at": "2026-07-20T06:40:01.691531+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+    "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+    "published": "Sat, 18 Jul 2026 06:45:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "506b21971f6efe85a39bc8f31abbfe40",
+    "fetched_at": "2026-07-20T06:40:00.571657+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is it so hard for the U.S. to win wars?",
+    "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
+    "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+    "published": "Sat, 18 Jul 2026 08:45:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "2d7a66716c1d52d1ed3af14d1cabfe97",
+    "fetched_at": "2026-07-20T06:39:59.377445+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Grandmother, 82, wins law change so she can enjoy Happy Hour at care home",
+    "summary": "Anita Le Brun, the face of a campaign to allow for alcohol to be served at care homes without a licence, is celebrating its success.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 12:46:47 GMT",
+    "source": "BBC News",
+    "id": "c8a4929ccbae3eba813d42a748bc7c5a",
+    "fetched_at": "2026-07-20T06:39:58.212194+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
     "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
     "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "fce12ec1ea6abc557799352c230f638a",
     "fetched_at": "2026-07-19T16:49:38.781200+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-    "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 00:18:47 GMT",
-    "source": "BBC News",
-    "id": "8374dfba88235cff05cae64f87055206",
-    "fetched_at": "2026-07-19T16:49:37.626003+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Health officials identify source of US explosive diarrhoea outbreak",
-    "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 15:17:23 GMT",
-    "source": "BBC News",
-    "id": "fba9dd3e88529bb9f5883be767d76af8",
-    "fetched_at": "2026-07-19T16:49:36.468255+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Runners take on 'world's coolest marathon' on drifting North Pole ice",
-    "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
-    "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 14:06:08 GMT",
-    "source": "BBC News",
-    "id": "b69b4391a48a84bf629b4d187cc97fde",
-    "fetched_at": "2026-07-19T14:48:27.496904+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Deaths from Venezuela earthquakes rise above 5,000",
-    "summary": "Venezuela has been able to unlock €302 million of funding from the International Monetary Fund to support recovery and reconstruction following the devastating earthquakes that hit the northern coastal region last month.",
-    "link": "http://www.euronews.com/my-europe/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000",
-    "published": "Sat, 18 Jul 2026 17:43:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "34432c3acea40c8474ebd25729fc812f",
-    "fetched_at": "2026-07-19T14:48:26.379213+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-evening",
-    "published": "Sat, 18 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c12d2a2b278f80f1dfc8ac67f46661f9",
-    "fetched_at": "2026-07-19T14:48:25.262816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-    "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 18:34:04 GMT",
-    "source": "BBC News",
-    "id": "0e91d83a65ce04af919816652516ae18",
-    "fetched_at": "2026-07-19T14:48:24.081388+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
-    "summary": "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men.",
-    "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
-    "published": "Sat, 18 Jul 2026 20:57:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "c411ebbfa52257c3378eb3a946c0d897",
-    "fetched_at": "2026-07-19T14:48:22.905187+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Passenger ferry carrying 116 people sinks off the coast of Guyana",
-    "summary": "A distress call to the coast guard was made just after 11pm local time. The search and rescue operation is ongoing.",
-    "link": "http://www.euronews.com/2026/07/19/passenger-ferry-carrying-116-people-sinks-off-the-coast-of-guyana",
-    "published": "Sun, 19 Jul 2026 13:53:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3d2a1cf8650ae23ccf7d51def6b03f3f",
-    "fetched_at": "2026-07-19T13:00:02.811426+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Magnitude 5.1 earthquake in central Peru leaves at least one dead and ten injured",
-    "summary": "A 5.1‑magnitude earthquake centred in Chupaca, Junín, left one person dead and around ten injured on Saturday night, and damaged hospitals and religious monuments in the Andean area.",
-    "link": "http://www.euronews.com/2026/07/19/magnitude-51-earthquake-in-central-peru-leaves-at-least-one-dead-and-ten-injured",
-    "published": "Sun, 19 Jul 2026 14:31:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cdf6978fae708bb5d3e7471aa629f376",
-    "fetched_at": "2026-07-19T13:00:01.650935+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-    "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-    "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 17:22:31 GMT",
-    "source": "BBC News",
-    "id": "285ba802f9cb0259493d7e543ae732b0",
-    "fetched_at": "2026-07-19T13:00:00.490802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German politician resigns over surrogacy child controversy",
-    "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 15:23:31 GMT",
-    "source": "BBC News",
-    "id": "ea19a489c5204a7edfb34f7170f893b7",
-    "fetched_at": "2026-07-19T12:59:59.349899+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
-    "summary": "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minister.",
-    "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
-    "published": "Wed, 15 Jul 2026 13:58:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "807ca8938c41c15ed9274001a7efcceb",
-    "fetched_at": "2026-07-19T12:59:58.201033+00:00"
   }
 ]
