@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Chaos erupts in Buenos Aires after Argentina's World Cup final defeat",
+    "summary": "Riot police use water cannon in Buenos Aires after Argentina's World Cup final defeat to Spain, as protests break out in the capital.",
+    "link": "http://www.euronews.com/video/2026/07/20/chaos-erupts-in-buenos-aires-after-argentinas-world-cup-final-defeat",
+    "published": "Mon, 20 Jul 2026 09:59:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a896f0d2c6f15233aee72065a0a41cda",
+    "fetched_at": "2026-07-20T13:52:05.945250+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "High divers take the plunge at Moscow's Two Rivers festival",
+    "summary": "High divers from 11 countries compete at Moscow's Two Rivers festival, featuring river jumps, rowing races and hydroflight performances.",
+    "link": "http://www.euronews.com/video/2026/07/20/high-divers-take-the-plunge-at-moscows-two-rivers-festival",
+    "published": "Mon, 20 Jul 2026 13:56:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f6ec06eba5873e71a6f24ec7eb1808de",
+    "fetched_at": "2026-07-20T13:52:05.945248+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+    "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+    "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 13:13:29 GMT",
+    "source": "BBC News",
+    "id": "fa082443ad394b761dcde3f6a410cf74",
+    "fetched_at": "2026-07-20T13:52:05.945245+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement",
+    "summary": "Record heat has fueled Europe&apos;s devastating wildfires, but experts say human error, suspected arson and land management have also played a major role in this summer&apos;s destruction.",
+    "link": "https://www.foxnews.com/world/europes-fires-reveal-deadly-mix-record-heat-human-error-arson-land-mismanagement",
+    "published": "Sun, 19 Jul 2026 12:11:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "015011cb258a642d751fa9ec95fbf638",
+    "fetched_at": "2026-07-20T13:52:05.945242+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration touts more than $1B in UN budget cuts as reform push gains momentum",
+    "summary": "The Trump administration says it secured over $1 billion in U.N. budget cuts in six months, including a $550 million peacekeeping budget reduction.",
+    "link": "https://www.foxnews.com/world/trump-administration-touts-1-billion-un-budget-cuts-reform-push-gains-momentum",
+    "published": "Sun, 19 Jul 2026 12:24:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "63b474e49828e54561deb8520977e0ca",
+    "fetched_at": "2026-07-20T13:52:05.945238+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Earthquake shakes Peru's Andes region, killing at least 5, displacing hundreds",
+    "summary": "A magnitude 5.5 earthquake near Sicaya killed at least five people and left hundreds homeless as adobe buildings collapsed across Peru&apos;s Andes region.",
+    "link": "https://www.foxnews.com/world/earthquake-shakes-perus-andes-region-killing-least-5-displacing-hundreds",
+    "published": "Sun, 19 Jul 2026 13:50:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3f8de429ee18df3b283b7358f6e82bc7",
+    "fetched_at": "2026-07-20T13:52:05.945212+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
+    "summary": "Publisher Steve Forbes calls for maximum pressure on Tehran regime, urges Trump administration to keep the Strait of Hormuz open as a non-negotiable imperative.",
+    "link": "https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs",
+    "published": "Mon, 20 Jul 2026 06:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e3e33d94376e3e1e5a2c8903e8c5e216",
+    "fetched_at": "2026-07-20T13:52:04.780283+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Andy Burnham takes over as UK prime minister, calls for 'new political model'",
+    "summary": "Andy Burnham enters Downing Street vowing to shift power away from London, but his past criticism of Trump could create early friction with Washington.",
+    "link": "https://www.foxnews.com/world/andy-burnham-takes-over-uk-prime-minister-calls-new-political-model",
+    "published": "Mon, 20 Jul 2026 08:11:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5bdddacdc66b0040e3203441b489aa84",
+    "fetched_at": "2026-07-20T13:52:03.626351+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+    "summary": "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister. Burnham's politics have been shaped by England's north-south class divide.",
+    "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+    "published": "Sun, 19 Jul 2026 12:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "219e6ab73134942040a962d4bd5af8c0",
+    "fetched_at": "2026-07-20T13:52:02.471438+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+    "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+    "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+    "published": "Mon, 20 Jul 2026 07:40:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "0319ebf902d3e5186e367eab720932ce",
+    "fetched_at": "2026-07-20T13:52:01.308535+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin meets North Korean foreign minister in diplomatic push",
+    "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
+    "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+    "published": "Mon, 20 Jul 2026 09:18:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "c6ba6eefda1036976c7f6047cb2d3d43",
+    "fetched_at": "2026-07-20T13:52:00.124610+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Utah firefighter and four family members killed in flash flooding",
+    "summary": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 12:13:58 GMT",
+    "source": "BBC News",
+    "id": "20e65dde041865d4a4a0268a1be1475e",
+    "fetched_at": "2026-07-20T13:51:58.981667+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+    "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+    "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 22:16:39 GMT",
+    "source": "BBC News",
+    "id": "480dbc199b10f6836ae28ef7054f1e08",
+    "fetched_at": "2026-07-20T13:51:57.817183+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
     "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
     "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "9e096bb2a7e5dedba6d619e524d272ae",
     "fetched_at": "2026-07-19T20:39:17.417291+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US service member killed in Iraq as troops recover unidentified remains in Jordan: CENTCOM",
-    "summary": "A U.S. service member was killed in Iraq while handling explosives from a downed Iranian drone as troops searching in Jordan recovered unidentified remains.",
-    "link": "https://www.foxnews.com/world/us-service-member-killed-iraq-troops-recover-unidentified-remains-jordan-centcom",
-    "published": "Sun, 19 Jul 2026 16:18:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a8d5b165b277d7d9e112292b602f96e5",
-    "fetched_at": "2026-07-19T20:39:16.300551+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
-    "summary": "Regime mouthpiece Seyed Mohammad Marandi claims Iran welcomes a U.S. ground invasion and has introduced a new missile as strikes hit Khorramabad.",
-    "link": "https://www.foxnews.com/world/we-want-land-invasion-iran-mouthpiece-touts-new-missile-boasts-decades-war-prep",
-    "published": "Sun, 19 Jul 2026 16:30:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "29902ca3b7b9cb619658e357aed9dbf7",
-    "fetched_at": "2026-07-19T20:39:15.184000+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "He made history in Congress - then the Supreme Court changed its mind",
-    "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-    "link": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 01:35:33 GMT",
-    "source": "BBC News",
-    "id": "2e8967853a3cbc9ef4324d03f62a93ad",
-    "fetched_at": "2026-07-19T20:39:14.070177+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What this desert city can teach the world about tackling heat deaths",
-    "summary": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
-    "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 23:56:08 GMT",
-    "source": "BBC News",
-    "id": "832046ad311b1ba94cb0d829a5b10dd1",
-    "fetched_at": "2026-07-19T20:39:12.935392+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-    "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 23:44:04 GMT",
-    "source": "BBC News",
-    "id": "c9b78553c83f90bb31221875d2d5be6d",
-    "fetched_at": "2026-07-19T20:39:11.825880+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-    "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 17:29:50 GMT",
-    "source": "BBC News",
-    "id": "670d25959f13422526b1665175ed9e99",
-    "fetched_at": "2026-07-19T20:39:10.720718+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers arrested in US as further UK charges take total to 59",
-    "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 12:53:20 GMT",
-    "source": "BBC News",
-    "id": "74ad62f8442d440e9b38ec631a64054e",
-    "fetched_at": "2026-07-19T20:39:09.516846+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US launches new wave of strikes on Iran as Israel vows 'powerful' response to Tehran",
-    "summary": "Iran says the latest US strikes killed at least 50 people and wounded 517. Washington said the attacks were retaliation for a strike on a US base in Jordan that killed two US service members, left one missing and injured four others.",
-    "link": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
-    "published": "Sat, 18 Jul 2026 20:06:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59236219dde2901994b5504993cd5d1c",
-    "fetched_at": "2026-07-19T18:55:13.815091+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungarian president Tamás Sulyok signs constitutional amendment ending his own mandate",
-    "summary": "President Tamás Sulyok signed the seventeenth amendment to the Fundamental Law on Saturday, he announced on Facebook. The sitting president’s mandate will end the day after it takes effect.",
-    "link": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
-    "published": "Sat, 18 Jul 2026 20:19:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1f1b04174f73aca5ac46d8975f5ce660",
-    "fetched_at": "2026-07-19T18:55:13.815087+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New World Cup champions to receive record $51 million prize",
-    "summary": "The cash prize for either Argentina or Spain, while an increase on the last tournament, is a small figure when compared to the amounts spent on individual football players",
-    "link": "http://www.euronews.com/2026/07/19/new-world-cup-champions-51-million-prize",
-    "published": "Sun, 19 Jul 2026 18:55:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "48dd9c552cd3cb9cf081dbc22fed249d",
-    "fetched_at": "2026-07-19T18:55:13.815083+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-    "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 20:00:54 GMT",
-    "source": "BBC News",
-    "id": "cdbe8bcac673288437f138f7b3d4fc5f",
-    "fetched_at": "2026-07-19T18:55:13.815058+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-    "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-    "source": "BBC News",
-    "id": "497c033baeea645c21893d954e11de34",
-    "fetched_at": "2026-07-19T18:55:12.710827+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary's president agrees to stand down after parliament backs removal",
-    "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 19:34:16 GMT",
-    "source": "BBC News",
-    "id": "9a73446a67dfb0c07109a2dec72a7f73",
-    "fetched_at": "2026-07-19T18:55:11.597944+00:00"
   }
 ]
