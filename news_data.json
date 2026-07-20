@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+    "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 07:47:02 GMT",
+    "source": "BBC News",
+    "id": "0ed628325da01d0238254d195efbc9de",
+    "fetched_at": "2026-07-20T02:14:30.650499+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "England beat France 6-4 to claim World Cup third place",
+    "summary": "Bukayo Saka scored a hat trick as England beat France 6-4 in a record-breaking World Cup third-place playoff. The Three Lions survived a dramatic French comeback to secure their best finish at the tournament since winning the title in 1966.",
+    "link": "http://www.euronews.com/2026/07/19/england-beat-france-6-4-in-world-cup-third-place-thriller",
+    "published": "Sun, 19 Jul 2026 09:50:50 +0200",
+    "source": "News | Euronews RSS",
+    "id": "553e31797531f044b01e92b06248bd5c",
+    "fetched_at": "2026-07-20T02:14:30.650497+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Spain fans erupt in celebration after World Cup final victory",
+    "summary": "Fans in Madrid and Barcelona celebrated long into the night after Spain defeated Argentina 1-0 in extra time to win their second FIFA World Cup title.",
+    "link": "http://www.euronews.com/video/2026/07/20/watch-spain-fans-erupt-in-celebration-after-world-cup-final-victory",
+    "published": "Mon, 20 Jul 2026 01:07:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2ed3605052686e31c973cb00b13cbd87",
+    "fetched_at": "2026-07-20T02:14:30.650495+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway opens new memorial for victims of 2011 Breivik massacre",
+    "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 01:11:08 GMT",
+    "source": "BBC News",
+    "id": "3ea708900b0fea0d207ab653d575ed95",
+    "fetched_at": "2026-07-20T02:14:30.650492+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Victory for football? Spain beat Argentina to win World Cup",
+    "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 00:28:50 GMT",
+    "source": "BBC News",
+    "id": "b8205fcbed345ea818aa211060da3278",
+    "fetched_at": "2026-07-20T02:14:30.650465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+    "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 00:19:12 GMT",
+    "source": "BBC News",
+    "id": "cc14762ea27b03c4fd0b8b8df0777176",
+    "fetched_at": "2026-07-20T02:14:29.559602+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
+    "summary": "ISIS fighters in Syria may have grown from 2,000 to 10,000 as the U.S. prepares to complete its Iraq withdrawal by Sept. 30, an expert warns.",
+    "link": "https://www.foxnews.com/world/isis-poised-exploit-historic-us-iraq-exit-terror-group-actively-waiting-gaps-expert-warns",
+    "published": "Sun, 19 Jul 2026 20:04:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "498729fe1fe9afd399b444327e3d5073",
+    "fetched_at": "2026-07-20T02:14:28.467094+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+    "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+    "published": "Sun, 19 Jul 2026 05:14:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "874c7cf75d290158419eedf990f967da",
+    "fetched_at": "2026-07-20T02:14:27.363338+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+    "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+    "published": "Sun, 19 Jul 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "a03065f884a8eeb71d56fdf11d7fbd1d",
+    "fetched_at": "2026-07-20T02:14:26.262664+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+    "summary": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+    "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 21:43:54 GMT",
+    "source": "BBC News",
+    "id": "32db958fd8cbf719d17901972adc7d6d",
+    "fetched_at": "2026-07-20T02:14:25.162326+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In pictures: Joyous fans gather across the US and Canada to watch World Cup final",
+    "summary": "Spirits were high despite none of the three tournament co-hosts making it to Saturday's nail-biting conclusion.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8e097155vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 22:25:32 GMT",
+    "source": "BBC News",
+    "id": "3c53ca78b9865084f4c529ca278d0409",
+    "fetched_at": "2026-07-20T02:14:24.057540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "JD Vance announces birth of baby boy with wife Usha",
+    "summary": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 19 Jul 2026 23:16:04 GMT",
+    "source": "BBC News",
+    "id": "087aaefa76749ddd05a2893d07673d6e",
+    "fetched_at": "2026-07-20T02:14:22.946611+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US soldier killed and one injured after Iranian attack in Iraq",
     "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "807ca8938c41c15ed9274001a7efcceb",
     "fetched_at": "2026-07-19T12:59:58.201033+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
-    "summary": "Iran&apos;s confidential report prepared for President Masoud Pezeshkian reveals majority support regime change or deep reform amid surging public anger over food prices and corruption.",
-    "link": "https://www.foxnews.com/world/leaked-iran-report-finds-record-public-anger-regime-focuses-holding-power",
-    "published": "Fri, 17 Jul 2026 11:06:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d580db7b4256528498949cb47723f38",
-    "fetched_at": "2026-07-19T12:59:57.059662+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
-    "summary": "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
-    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
-    "published": "Sat, 18 Jul 2026 07:38:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "54ee2b6a37e40c4e9a1af257a02eabd5",
-    "fetched_at": "2026-07-19T12:59:55.909651+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Grandmother, 82, wins law change so she can enjoy Happy Hour at care home",
-    "summary": "Anita Le Brun, the face of a campaign to allow for alcohol to be served at care homes without a licence, is celebrating its success.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 12:46:47 GMT",
-    "source": "BBC News",
-    "id": "c8a4929ccbae3eba813d42a748bc7c5a",
-    "fetched_at": "2026-07-19T12:59:54.742202+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
-    "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 11:10:20 GMT",
-    "source": "BBC News",
-    "id": "98ad1850ad34c5093c31211d964cf851",
-    "fetched_at": "2026-07-19T11:05:56.101744+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-    "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 09:59:41 GMT",
-    "source": "BBC News",
-    "id": "36a7a62ab3c3368394bbd9584b68f23e",
-    "fetched_at": "2026-07-19T11:05:56.101742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia launches major ballistic missile attack on Kyiv",
-    "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 09:54:50 GMT",
-    "source": "BBC News",
-    "id": "bdd53434238ce8376a95e969046d3a0e",
-    "fetched_at": "2026-07-19T11:05:56.101740+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-midday",
-    "published": "Sat, 18 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4c603b1b6ca1996dcedd31af0db699ec",
-    "fetched_at": "2026-07-19T11:05:56.101708+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
-    "summary": "Influencer brothers Andrew and Tristan Tate have been arrested in Miami ahead of an extradition request from the United Kingdom. British authorities accuse them of serious offences, including rape, human trafficking and sexual exploitation.",
-    "link": "http://www.euronews.com/2026/07/19/andrew-and-tristan-tate-arrested-in-miami-as-uk-seeks-extradition",
-    "published": "Sun, 19 Jul 2026 11:30:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "67697ecec9e64fadb9fa61860d064ae4",
-    "fetched_at": "2026-07-19T11:05:54.959893+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 19th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/19/latest-news-bulletin-july-19th-2026-midday",
-    "published": "Sun, 19 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cc0645593c81e81568ecbddb152dca47",
-    "fetched_at": "2026-07-19T11:05:53.814409+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-    "summary": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-    "published": "Fri, 17 Jul 2026 12:50:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "07e1c87600ba83ea91e7a9fecb225698",
-    "fetched_at": "2026-07-19T11:05:52.671631+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-    "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
-    "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
-    "published": "Sat, 18 Jul 2026 06:45:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "506b21971f6efe85a39bc8f31abbfe40",
-    "fetched_at": "2026-07-19T11:05:51.546501+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is it so hard for the U.S. to win wars?",
-    "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
-    "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-    "published": "Sat, 18 Jul 2026 08:45:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "2d7a66716c1d52d1ed3af14d1cabfe97",
-    "fetched_at": "2026-07-19T11:05:50.425586+00:00"
   }
 ]
