@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "High divers take the plunge at Moscow's Two Rivers festival",
+    "summary": "High divers from 11 countries compete at Moscow's Two Rivers festival, featuring river jumps, rowing races and hydroflight performances.",
+    "link": "http://www.euronews.com/video/2026/07/20/high-divers-take-the-plunge-at-moscows-two-rivers-festival",
+    "published": "Mon, 20 Jul 2026 13:56:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f6ec06eba5873e71a6f24ec7eb1808de",
+    "fetched_at": "2026-07-21T05:21:27.505509+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tanker attacked in Strait of Hormuz as US strikes Iran for tenth consecutive night",
+    "summary": "As fighting escalates between both sides, Iran's interior minister travelled to Pakistan, a key mediator in the conflict, for talks.",
+    "link": "http://www.euronews.com/2026/07/21/tanker-attacked-in-strait-of-hormuz-as-us-strikes-iran-for-tenth-consecutive-night",
+    "published": "Tue, 21 Jul 2026 05:17:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3a0013d42b6474e975c0329e15dff380",
+    "fetched_at": "2026-07-21T05:21:27.505505+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 21st, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/21/latest-news-bulletin-july-21st-2026-morning",
+    "published": "Tue, 21 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dac11791ab5d5d6a7221d1bfb27f9b02",
+    "fetched_at": "2026-07-21T05:21:27.505473+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump imposes 50% tariffs on Canadian goods citing disputes over autos",
+    "summary": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+    "link": "http://www.euronews.com/business/2026/07/21/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos",
+    "published": "Tue, 21 Jul 2026 07:18:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fe67a0b1c34c133d24c1c25028e142fb",
+    "fetched_at": "2026-07-21T05:21:26.378959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+    "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+    "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 13:13:29 GMT",
+    "source": "BBC News",
+    "id": "fa082443ad394b761dcde3f6a410cf74",
+    "fetched_at": "2026-07-21T05:21:25.244498+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
+    "summary": "Publisher Steve Forbes calls for maximum pressure on Tehran regime, urges Trump administration to keep the Strait of Hormuz open as a non-negotiable imperative.",
+    "link": "https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs",
+    "published": "Mon, 20 Jul 2026 06:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e3e33d94376e3e1e5a2c8903e8c5e216",
+    "fetched_at": "2026-07-21T05:21:24.107036+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Andy Burnham takes over as UK prime minister, calls for 'new political model'",
+    "summary": "Andy Burnham enters Downing Street vowing to shift power away from London, but his past criticism of Trump could create early friction with Washington.",
+    "link": "https://www.foxnews.com/world/andy-burnham-takes-over-uk-prime-minister-calls-new-political-model",
+    "published": "Mon, 20 Jul 2026 08:11:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5bdddacdc66b0040e3203441b489aa84",
+    "fetched_at": "2026-07-21T05:21:22.978551+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
+    "summary": "Nicaragua&apos;s President Daniel Ortega said the country will hold no more elections, eliminating any path for opposition to challenge his rule when his term ends.",
+    "link": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections",
+    "published": "Tue, 21 Jul 2026 00:56:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "191a7f46ba0949663387549167a05384",
+    "fetched_at": "2026-07-21T05:21:21.823721+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tropical Storm Bertha threatens US Gulf coast",
+    "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 02:42:44 GMT",
+    "source": "BBC News",
+    "id": "cb273682fbea9acbb4874e6a8e664ebf",
+    "fetched_at": "2026-07-21T05:21:20.664956+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+    "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
+    "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 02:16:05 GMT",
+    "source": "BBC News",
+    "id": "81d31ab84591371a85be711db236ccec",
+    "fetched_at": "2026-07-21T05:21:19.518505+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump and Infantino hand World Cup trophy to Spain",
     "summary": "Donald Trump and Gianni Infantino hand the World Cup trophy to Spain captain Rodri after Spain beat Argentina in the final near New York.",
     "link": "http://www.euronews.com/video/2026/07/20/trump-and-infantino-hand-world-cup-trophy-to-spain",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "2cd1a2671acf0e019f021ea08a20b444",
     "fetched_at": "2026-07-20T15:46:21.460511+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rare identical quadruplets born in Australia",
-    "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 12:57:32 GMT",
-    "source": "BBC News",
-    "id": "6856edfec7adf59fe637f2876fd05898",
-    "fetched_at": "2026-07-20T15:46:21.460508+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-    "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 12:31:10 GMT",
-    "source": "BBC News",
-    "id": "29a8e4bd4b2f2ba87286ad310edc1fe0",
-    "fetched_at": "2026-07-20T15:46:21.460504+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hamas names Khalil al-Hayya as new overall leader",
-    "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 14:02:31 GMT",
-    "source": "BBC News",
-    "id": "a7d1e78d6d7eac8a9e36860e1c50a532",
-    "fetched_at": "2026-07-20T15:46:21.460479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary's president agrees to stand down after parliament backs removal",
-    "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-    "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 19:34:16 GMT",
-    "source": "BBC News",
-    "id": "9a73446a67dfb0c07109a2dec72a7f73",
-    "fetched_at": "2026-07-20T15:46:20.343635+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-    "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 14:14:08 GMT",
-    "source": "BBC News",
-    "id": "0f41e3686c86b8f0bb39e73473b584a6",
-    "fetched_at": "2026-07-20T15:46:19.224146+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US service member killed in Iraq as troops recover unidentified remains in Jordan: CENTCOM",
-    "summary": "A U.S. service member was killed in Iraq while handling explosives from a downed Iranian drone as troops searching in Jordan recovered unidentified remains.",
-    "link": "https://www.foxnews.com/world/us-service-member-killed-iraq-troops-recover-unidentified-remains-jordan-centcom",
-    "published": "Sun, 19 Jul 2026 16:18:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a8d5b165b277d7d9e112292b602f96e5",
-    "fetched_at": "2026-07-20T15:46:18.085711+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
-    "summary": "Regime mouthpiece Seyed Mohammad Marandi claims Iran welcomes a U.S. ground invasion and has introduced a new missile as strikes hit Khorramabad.",
-    "link": "https://www.foxnews.com/world/we-want-land-invasion-iran-mouthpiece-touts-new-missile-boasts-decades-war-prep",
-    "published": "Sun, 19 Jul 2026 16:30:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "29902ca3b7b9cb619658e357aed9dbf7",
-    "fetched_at": "2026-07-20T15:46:16.947861+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What this desert city can teach the world about tackling heat deaths",
-    "summary": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
-    "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 23:56:08 GMT",
-    "source": "BBC News",
-    "id": "832046ad311b1ba94cb0d829a5b10dd1",
-    "fetched_at": "2026-07-20T15:46:15.826052+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-    "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 17:29:50 GMT",
-    "source": "BBC News",
-    "id": "670d25959f13422526b1665175ed9e99",
-    "fetched_at": "2026-07-20T15:46:14.684487+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers arrested in US as further UK charges take total to 59",
-    "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 12:53:20 GMT",
-    "source": "BBC News",
-    "id": "74ad62f8442d440e9b38ec631a64054e",
-    "fetched_at": "2026-07-20T15:46:13.564002+00:00"
   }
 ]
