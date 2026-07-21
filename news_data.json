@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+    "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 10:43:48 GMT",
+    "source": "BBC News",
+    "id": "725d02902b5f2c0e8ed38bac50d18fde",
+    "fetched_at": "2026-07-21T11:43:10.056838+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Yemen’s Houthis threaten Bab el-Mandeb closure in embargo on Saudi Arabia",
+    "summary": "The Iran-backed Houthis declared a maritime embargo on Saudi Arabia after accusing the kingdom of attacking Sana'a airport and maintaining a years-long blockade, putting one of the world's busiest shipping lanes at risk.",
+    "link": "http://www.euronews.com/2026/07/20/yemens-houthis-threaten-bab-el-mandeb-closure-in-embargo-on-saudi-arabia",
+    "published": "Mon, 20 Jul 2026 16:40:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6edc146f744e5ee6426a5f8ed1217f38",
+    "fetched_at": "2026-07-21T11:43:10.056835+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rare 48C heatwave forces Uzbekistan to adapt to extreme temperatures",
+    "summary": "Authorities slowed metro trains, restricted heavy vehicles and closed kindergartens as temperatures climbed to 48C in parts of the country during an unusually intense heatwave.",
+    "link": "http://www.euronews.com/2026/07/20/rare-48c-heatwave-forces-uzbekistan-to-adapt-to-extreme-temperatures",
+    "published": "Mon, 20 Jul 2026 17:01:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ce462223cf9dfc2b4c1007c6fc53ed28",
+    "fetched_at": "2026-07-21T11:43:10.056832+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 20th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/20/latest-news-bulletin-july-20th-2026-evening",
+    "published": "Mon, 20 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4fd7407c12d44a84e8fcd7bb8f82bdbd",
+    "fetched_at": "2026-07-21T11:43:10.056829+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 21st, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/21/latest-news-bulletin-july-21st-2026-midday",
+    "published": "Tue, 21 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4849e6ffe6c41f2f9c7d5f0f6159f1b7",
+    "fetched_at": "2026-07-21T11:43:10.056798+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran's IRGC claims attack on Amazon's main data hub in Bahrain",
+    "summary": "The IRGC claimed its cruise missiles destroyed Amazon's central data infrastructure in Bahrain and hit US air defence systems. Bahraini, US and Amazon officials have not responded.",
+    "link": "http://www.euronews.com/2026/07/21/irans-irgc-claims-attack-on-amazons-main-data-hub-in-bahrain",
+    "published": "Tue, 21 Jul 2026 12:06:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4f8cf5c2f6894b4e6c28baec3e5b60f5",
+    "fetched_at": "2026-07-21T11:43:08.921637+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine unleashes more than 400 drones near Moscow in one of war's biggest attacks",
+    "summary": "More than 400 drones targeted Moscow in one of Ukraine&apos;s largest attacks, striking an oil depot and logistics facilities more than 250 miles from the border.",
+    "link": "https://www.foxnews.com/world/ukraine-unleashes-more-than-400-drones-near-moscow-one-wars-biggest-attacks",
+    "published": "Mon, 20 Jul 2026 12:15:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "daf0775902147ad8392b299095757234",
+    "fetched_at": "2026-07-21T11:43:07.804789+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
+    "summary": "They call themselves the \"cockroaches\" and they're on the march — demanding action against corruption, amid a shortage of opportunities for young people in India.",
+    "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
+    "published": "Mon, 20 Jul 2026 12:36:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "22a40f60c373393dcf9a89cbca3abdfb",
+    "fetched_at": "2026-07-21T11:43:06.686050+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+    "summary": "The Houthis, a Shiite militia in Yemen, which is aligned with Iran, have announced a naval blockade of a key waterway, the Bab Al-Mandeb Strait.",
+    "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
+    "published": "Tue, 21 Jul 2026 06:21:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "9ec2a840e2625fdada13c6a6c1826dd7",
+    "fetched_at": "2026-07-21T11:43:05.552285+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+    "summary": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
+    "link": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
+    "published": "Tue, 21 Jul 2026 07:12:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "2229216ddb151a6bf82fdd07cc75e293",
+    "fetched_at": "2026-07-21T11:43:04.414898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+    "summary": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 11:28:30 GMT",
+    "source": "BBC News",
+    "id": "087aaefa76749ddd05a2893d07673d6e",
+    "fetched_at": "2026-07-21T11:43:03.196321+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+    "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 21:03:24 GMT",
+    "source": "BBC News",
+    "id": "f36ae546a178c89e66a081f3262cc528",
+    "fetched_at": "2026-07-21T11:43:02.039082+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Rare identical quadruplets born in Australia",
     "summary": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
     "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "2f94c0b03f9cf6c78e290fd5968296c5",
     "fetched_at": "2026-07-20T21:03:44.866700+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-    "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 17:33:02 GMT",
-    "source": "BBC News",
-    "id": "446c6b5e117505e0e7db92894fef5c8a",
-    "fetched_at": "2026-07-20T19:29:06.941057+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway opens new memorial for victims of 2011 massacre",
-    "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 01:11:08 GMT",
-    "source": "BBC News",
-    "id": "3ea708900b0fea0d207ab653d575ed95",
-    "fetched_at": "2026-07-20T19:29:06.941054+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Victory for football? Spain beat Argentina to win World Cup",
-    "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 00:28:50 GMT",
-    "source": "BBC News",
-    "id": "b8205fcbed345ea818aa211060da3278",
-    "fetched_at": "2026-07-20T19:29:06.941051+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-    "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 00:19:12 GMT",
-    "source": "BBC News",
-    "id": "cc14762ea27b03c4fd0b8b8df0777176",
-    "fetched_at": "2026-07-20T19:29:06.941021+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
-    "summary": "ISIS fighters in Syria may have grown from 2,000 to 10,000 as the U.S. prepares to complete its Iraq withdrawal by Sept. 30, an expert warns.",
-    "link": "https://www.foxnews.com/world/isis-poised-exploit-historic-us-iraq-exit-terror-group-actively-waiting-gaps-expert-warns",
-    "published": "Sun, 19 Jul 2026 20:04:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "498729fe1fe9afd399b444327e3d5073",
-    "fetched_at": "2026-07-20T19:29:05.853721+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers due in Miami court as UK seeks extradition on rape, trafficking charges",
-    "summary": "Andrew and Tristan Tate face a Miami court hearing after their weekend arrest as Britain seeks extradition on 59 total charges including rape.",
-    "link": "https://www.foxnews.com/world/tate-brothers-due-miami-court-uk-seeks-extradition-rape-trafficking-charges",
-    "published": "Mon, 20 Jul 2026 14:10:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "da8633466748363ae741e30d81001a8a",
-    "fetched_at": "2026-07-20T19:29:04.726356+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe's 'green ideology' climate agenda risks crushing its industry, environment minister warns",
-    "summary": "Czech Environment Minister Igor Červený warns Europe will &quot;crush&quot; its industrial base unless leaders retreat from aggressive climate policies.",
-    "link": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
-    "published": "Mon, 20 Jul 2026 14:12:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d4be31389beff8ee8d6151d576f12fa",
-    "fetched_at": "2026-07-20T19:29:03.595786+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-    "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
-    "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-    "published": "Sun, 19 Jul 2026 05:14:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "874c7cf75d290158419eedf990f967da",
-    "fetched_at": "2026-07-20T19:29:02.459747+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-    "summary": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
-    "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-    "published": "Sun, 19 Jul 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "a03065f884a8eeb71d56fdf11d7fbd1d",
-    "fetched_at": "2026-07-20T19:29:01.338414+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers appear in US court for extradition proceedings",
-    "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-    "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 19:05:50 GMT",
-    "source": "BBC News",
-    "id": "bf377dca0d7f905aab6c12f811c1e4ad",
-    "fetched_at": "2026-07-20T19:29:00.196298+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-    "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 18:16:51 GMT",
-    "source": "BBC News",
-    "id": "508cf0ab9f590e169748cc3b351b8924",
-    "fetched_at": "2026-07-20T19:28:59.080452+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "IRGC pledges 'unforgettable lesson' for US as Iran signals return to talks",
-    "summary": "The Revolutionary Guard told Ayatollah Khamenei it regarded his message as \"a binding command,\" as Iran's foreign ministry said diplomacy remained open and mediators sought a 10-day ceasefire to revive the framework deal.",
-    "link": "http://www.euronews.com/2026/07/20/irgc-pledges-unforgettable-lesson-for-us-as-iran-signals-return-to-talks",
-    "published": "Mon, 20 Jul 2026 16:09:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "18f46e13112061ce651dc60b6213d237",
-    "fetched_at": "2026-07-20T17:28:19.339216+00:00"
   }
 ]
