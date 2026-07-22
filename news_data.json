@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Fire kills 10 members of same family in Peru, police say",
+    "summary": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 20:56:26 GMT",
+    "source": "BBC News",
+    "id": "09ccff448cfac99d4404df67b9b5b209",
+    "fetched_at": "2026-07-22T22:55:40.163451+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
+    "summary": "Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests",
+    "published": "Wed, 22 Jul 2026 04:46:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "17234dbbbe920afcbdbd472534f166af",
+    "fetched_at": "2026-07-22T22:55:38.993492+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Group of Indigenous Taiwanese row over 100 miles to recreate their ancestors' journey",
+    "summary": "Indigenous people in Taiwan complete a journey to the Philippines in a traditional rowboat, recreating a journey their ancestors made thousands of years ago.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5871201/group-of-indigenous-taiwanese-row-over-100-miles-to-recreate-their-ancestors-journey",
+    "published": "Wed, 22 Jul 2026 04:47:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "60552aebdbfb0d4d70b30b8832d92596",
+    "fetched_at": "2026-07-22T22:55:37.827339+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'It's all literally rubble': Lebanese poet returns to see what has become of her home",
+    "summary": "A village destroyed. A home erased. One poet returns to remember what was lost.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5883746/its-all-literally-rubble-lebanese-poet-returns-to-see-what-has-become-of-her-home",
+    "published": "Wed, 22 Jul 2026 04:47:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "06122faaaf1a837f6f8ac2d7a2db0ab3",
+    "fetched_at": "2026-07-22T22:55:36.659448+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+    "summary": "The fighting comes as the Trump administration is seeking billions of dollars more from Congress for the war with Iran, which Defense Secretary Pete Hegseth says has already cost $37.5 billion.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
+    "published": "Wed, 22 Jul 2026 06:46:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "fd6fec5e761e1194375d88e140d91f2d",
+    "fetched_at": "2026-07-22T22:55:35.504049+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+    "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+    "published": "Wed, 22 Jul 2026 07:24:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "619a9a9d1cc106e026f7190ded957aaf",
+    "fetched_at": "2026-07-22T22:55:34.341569+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+    "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
+    "published": "Wed, 22 Jul 2026 17:17:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "3f4c2ec101a3715479e37e83c2b769ee",
+    "fetched_at": "2026-07-22T22:55:33.185944+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
+    "source": "BBC News",
+    "id": "af6c9a01765acfed279fb6d604fd4ade",
+    "fetched_at": "2026-07-22T22:55:32.022562+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mamdani says NYC lacks authority to arrest Israeli PM Netanyahu",
     "summary": "Netanyahu's office has dubbed the ICC a \"kangaroo court\" and called the arrest warrant against the Israeli leader \"bogus.\"",
     "link": "http://www.euronews.com/2026/07/22/mamdani-says-nyc-lacks-authority-to-arrest-israeli-pm-netanyahu",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "4f46342ea791c5ff9b7f01900088750a",
     "fetched_at": "2026-07-22T11:43:25.833304+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 22nd, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-midday",
-    "published": "Wed, 22 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d5a824bf4177de014e263abc8b9c2eca",
-    "fetched_at": "2026-07-22T11:43:25.833302+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's pick for the next UN Secretary General? Gianni Infantino, reportedly",
-    "summary": "Trump and Infantino, who heads football's world governing body FIFA, have formed a close and somewhat controversial relationship in recent years.",
-    "link": "http://www.euronews.com/2026/07/22/trumps-pick-for-the-next-un-secretary-general-gianni-infantino-reportedly",
-    "published": "Wed, 22 Jul 2026 12:01:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "82274757048cc7ab07d20c8759d6ab05",
-    "fetched_at": "2026-07-22T11:43:25.833300+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands sign petition supporting Turkish governor after cycling tights row",
-    "summary": "No reason was given for Mehmet Fatih Çiçekli's removal, but it came after he was criticised for posting pictures on a bike wearing cycling tights.",
-    "link": "https://www.bbc.co.uk/news/articles/cjej9dejl1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 16:00:22 GMT",
-    "source": "BBC News",
-    "id": "5dd63bae1fef6ca6699ed2cc7270c134",
-    "fetched_at": "2026-07-22T11:43:25.833297+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
-    "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 08:38:21 GMT",
-    "source": "BBC News",
-    "id": "fc21585de363aa1182d66f4b19d61d4c",
-    "fetched_at": "2026-07-22T11:43:25.833295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-    "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 11:38:21 GMT",
-    "source": "BBC News",
-    "id": "1a416fd5b8f19a7046e766b9d60ff12d",
-    "fetched_at": "2026-07-22T11:43:25.833292+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sinaloa Cartel boss 'El Mayo' sentenced to life, ordered to pay $15B in drug trafficking profits",
-    "summary": "Sinaloa Cartel co-founder Ismael &quot;El Mayo&quot; Zambada Garcia received a life sentence and was ordered to forfeit $15 billion in drug trafficking profits.",
-    "link": "https://www.foxnews.com/world/sinaloa-cartel-boss-el-mayo-sentenced-life-ordered-pay-15b-drug-trafficking-profits",
-    "published": "Mon, 20 Jul 2026 21:00:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "91eff189fa7b0da3fa655eefec679454",
-    "fetched_at": "2026-07-22T11:43:25.833289+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
-    "summary": "Trump administration officials are reportedly debating whether to support Iran&apos;s downfall, even as Trump says Iran is desperately seeking talks.",
-    "link": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
-    "published": "Wed, 22 Jul 2026 06:00:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "375abfdc3431a6a0fd7e7d7549bc2e59",
-    "fetched_at": "2026-07-22T11:43:25.833260+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
-    "summary": "Rev. Ezekiel Dachomo says Fulani militia killed nine of his family and now threatens his life as the State Department condemns Christian persecution.",
-    "link": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-    "published": "Wed, 22 Jul 2026 06:00:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "20e52550a24a9079d12a589a509326f8",
-    "fetched_at": "2026-07-22T11:43:24.716838+00:00"
   }
 ]
