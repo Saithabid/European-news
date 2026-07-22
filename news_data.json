@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Russia reports fresh drone strikes on Wildberries logistics hubs",
+    "summary": "Russia says Ukrainian drone strikes hit Wildberries warehouses for the second time in a week, with drone strikes reportedly triggering major fires and disrupting one of the country's largest e-commerce logistics networks.",
+    "link": "http://www.euronews.com/2026/07/22/russia-reports-fresh-drone-strikes-on-wildberries-logistics-hubs",
+    "published": "Wed, 22 Jul 2026 14:56:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d7351dbf24ebb2a315465961e789a9e4",
+    "fetched_at": "2026-07-22T13:26:12.369398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
+    "summary": "Nicaragua&apos;s President Daniel Ortega said the country will hold no more elections, eliminating any path for opposition to challenge his rule when his term ends.",
+    "link": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections",
+    "published": "Tue, 21 Jul 2026 00:56:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "191a7f46ba0949663387549167a05384",
+    "fetched_at": "2026-07-22T13:26:12.369395+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
+    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
+    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
+    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02a1f5864b17731f5d060eab78b938af",
+    "fetched_at": "2026-07-22T13:26:12.369365+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's President Ortega says no more elections, extending his 20-year rule",
+    "summary": "The announcement effectively canceled Nicaragua's next elections, originally scheduled for November 2027.",
+    "link": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
+    "published": "Tue, 21 Jul 2026 15:10:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "1a1861c5b2257f37d64389bf8df71717",
+    "fetched_at": "2026-07-22T13:26:11.218033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Canadian finance minister on Trump's tariff plan and its impact",
+    "summary": "NPR's Juana Summers speaks with Chrystia Freeland, former Canadian Finance Minister, about the potential impact of President Trump's proposed tariffs.",
+    "link": "https://www.npr.org/2026/07/21/nx-s1-5901973/former-canadian-finance-minister-on-trumps-tariff-plan-and-its-impact",
+    "published": "Tue, 21 Jul 2026 15:57:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "685b6b8d3784097ab36ac7db48ff06f1",
+    "fetched_at": "2026-07-22T13:26:10.065099+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Software error' led to almost 400 non-citizens voting in New Jersey, governor says",
+    "summary": "The department of motor vehicles wrongly registered 6,600 non-Americans to vote, despite their indicating they were not US citizens.",
+    "link": "https://www.bbc.co.uk/news/articles/cgew9xw314yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 20:07:11 GMT",
+    "source": "BBC News",
+    "id": "b98ddfb8bc332088d5fbee996607b478",
+    "fetched_at": "2026-07-22T13:26:08.916718+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Devastated' Millie Bobby Brown leads Kaylee Hottle tributes",
+    "summary": "The 18-year-old Godzilla vs Kong actress died in a car crash in Frederick, Maryland.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 12:04:49 GMT",
+    "source": "BBC News",
+    "id": "111af28403408e34bdd38d8b568dc27c",
+    "fetched_at": "2026-07-22T13:26:07.772458+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "YouTube star MrBeast marries Thea Booysen",
+    "summary": "The world's biggest YouTuber said he had finally found his \"Mrs Beast\".",
+    "link": "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 11:05:20 GMT",
+    "source": "BBC News",
+    "id": "1dfbf6b5f36ee84a74e33a31df7224fe",
+    "fetched_at": "2026-07-22T13:26:06.612242+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+    "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 12:40:46 GMT",
+    "source": "BBC News",
+    "id": "d3ebd3fde76345c480ce81a1ac3694d9",
+    "fetched_at": "2026-07-22T13:26:05.453024+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada's Carney under pressure to fight back against Trump tariffs",
+    "summary": "The Canadian leader must weigh whether to make more concessions or take a tough stance as difficult trade talks drag on.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5l2mn8lllo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 20:56:56 GMT",
+    "source": "BBC News",
+    "id": "53cc75247a68353c9b1ee3265637e9b8",
+    "fetched_at": "2026-07-22T13:26:04.283142+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
     "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
     "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "a4d4567b8767f54704f1e579d08595f2",
     "fetched_at": "2026-07-21T22:47:17.719853+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It's frustrating' - Canadians react to new US tariffs",
-    "summary": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
-    "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 20:52:08 GMT",
-    "source": "BBC News",
-    "id": "98d976c1b965e2fc448ae32659492354",
-    "fetched_at": "2026-07-21T22:47:16.573466+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war has cost US $37.5bn so far, Hegseth says",
-    "summary": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 22:26:49 GMT",
-    "source": "BBC News",
-    "id": "017fde03edb008c3929f3538804112e0",
-    "fetched_at": "2026-07-21T22:47:15.403937+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump promises US support for Lebanon in White House meeting with president",
-    "summary": "Lebanon and Israel have held rare direct talks mediated by Washington. Aoun’s visit was the first to the White House by a Lebanese president since 2009.",
-    "link": "http://www.euronews.com/2026/07/21/trump-promises-us-support-for-lebanon-in-white-house-meeting-with-president",
-    "published": "Tue, 21 Jul 2026 21:50:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d465d7d22e2f46aed5ea0e4d04d8dbc2",
-    "fetched_at": "2026-07-21T20:59:18.431138+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aliyev says former Russian and German officials were in Baku for possible meeting over Ukraine",
-    "summary": "Azerbaijan’s president revealed that former Russian and German officials were in Baku at the same time earlier in July, but that Azerbaijan’s authorities were neither notified nor aware of the meeting, which might have involved discussions over Ukraine.",
-    "link": "http://www.euronews.com/2026/07/21/aliyev-says-former-russian-and-german-officials-were-in-baku-for-possible-meeting-over-ukr",
-    "published": "Tue, 21 Jul 2026 22:26:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cf94614fde1c3e1fb9867f776def24ee",
-    "fetched_at": "2026-07-21T20:59:18.431135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
-    "summary": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 15:22:54 GMT",
-    "source": "BBC News",
-    "id": "39b1e624231775177c72f3bed9b82226",
-    "fetched_at": "2026-07-21T20:59:18.431132+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway teen did not plan to carry out 'hit' - court",
-    "summary": "Johannes Natland, 19, was arrested at a Huddersfield hotel with two guns and 19 ammunition rounds.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4pnknkyko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 17:07:46 GMT",
-    "source": "BBC News",
-    "id": "8832a79d65a9e3f7c5e8898596f499fa",
-    "fetched_at": "2026-07-21T20:59:18.431106+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Spain World Cup champions receive royal welcome in Madrid",
-    "summary": "After meeting the royal family, the squad boarded an open-top bus for a victory parade through the capital city, where nearly two million fans lined the streets.",
-    "link": "https://www.bbc.co.uk/news/videos/c78g69nddgeo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 22:58:06 GMT",
-    "source": "BBC News",
-    "id": "152ca88604f13fb41b61b9dc2bff6c9a",
-    "fetched_at": "2026-07-21T20:59:17.317245+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-    "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 16:10:38 GMT",
-    "source": "BBC News",
-    "id": "0f41e3686c86b8f0bb39e73473b584a6",
-    "fetched_at": "2026-07-21T20:59:16.160095+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian warship carried out firing exercise off Plymouth coast",
-    "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
-    "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 18:39:47 GMT",
-    "source": "BBC News",
-    "id": "d647a9f846df99df8cf878c6fbbbe3f2",
-    "fetched_at": "2026-07-21T20:59:15.035388+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-    "summary": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 19:57:38 GMT",
-    "source": "BBC News",
-    "id": "9f4923b5ed8ce673d93feb8e7b65d4a8",
-    "fetched_at": "2026-07-21T20:59:13.864760+00:00"
   }
 ]
