@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+    "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+    "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 05:33:04 GMT",
+    "source": "BBC News",
+    "id": "2223675f7be61e1d3590a0d3196975c2",
+    "fetched_at": "2026-07-22T08:12:52.840061+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Aerial footage reveals the scale of Spain’s La Mierla wildfire",
+    "summary": "Aerial footage shows the scale of the La Mierla wildfire in Guadalajara, Spain, as firefighters battle a blaze that has burned up to 30,000 hectares.",
+    "link": "http://www.euronews.com/video/2026/07/22/aerial-footage-reveals-the-scale-of-spains-la-mierla-wildfire",
+    "published": "Wed, 22 Jul 2026 08:12:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "439b698f3b89a7f5d2e0f40595680533",
+    "fetched_at": "2026-07-22T08:12:52.840030+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mamdani says NYC lacks authority to arrest Israeli PM Netanyahu",
+    "summary": "Netanyahu's office has dubbed the ICC a \"kangaroo court\" and called the arrest warrant against the Israeli leader \"bogus.\"",
+    "link": "http://www.euronews.com/2026/07/22/mamdani-says-nyc-lacks-authority-to-arrest-israeli-pm-netanyahu",
+    "published": "Wed, 22 Jul 2026 08:53:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "32894177703fae7eeb4a49fc4c4463eb",
+    "fetched_at": "2026-07-22T08:12:51.707222+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Boy, 13, dies during World Cup celebrations in Spain",
+    "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 10:02:44 GMT",
+    "source": "BBC News",
+    "id": "a1bcb16969e6b71e3bf7a01405528cdc",
+    "fetched_at": "2026-07-22T08:12:50.549629+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More Russian online retailer Wildberries sites hit by Ukrainian drones",
+    "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 08:07:12 GMT",
+    "source": "BBC News",
+    "id": "cbb2262176291f8dbb5aa1494bf18ee6",
+    "fetched_at": "2026-07-22T08:12:49.407981+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tate brothers to remain behind bars for now as UK seeks extradition on rape, trafficking charges",
+    "summary": "Andrew and Tristan Tate will remain behind bars for now after appearing in a Miami federal courtroom as they begin fighting Britain&apos;s extradition request on 59 charges, including rape and human trafficking.",
+    "link": "https://www.foxnews.com/world/tate-brothers-remain-behind-bars-now-uk-seeks-extradition-rape-trafficking-charges",
+    "published": "Mon, 20 Jul 2026 14:10:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "55ecc5e87718f25cc241133caf88b9f8",
+    "fetched_at": "2026-07-22T08:12:48.263541+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
+    "summary": "As the U.S-Iran war ramps up again, hundreds of diplomats are in limbo. The State Department drew down staffing due to Iran's attacks on Gulf states. It's unclear if they'll return to normal business.",
+    "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
+    "published": "Mon, 20 Jul 2026 16:55:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "4418148c4051f808b7064e8bb75c664a",
+    "fetched_at": "2026-07-22T08:12:47.105931+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French lawmakers approve a sweeping social media ban for children under 15",
+    "summary": "The move makes France the first country in the European Union to pass a blanket ban on platforms as concerns grow worldwide over the harmful effects of digital content on kids.",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
+    "published": "Wed, 22 Jul 2026 01:46:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "3db7f0b83f7a1cc484304475f26ef277",
+    "fetched_at": "2026-07-22T08:12:45.950420+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Beluga whales relocated from closed Canadian marine park arrive in US",
+    "summary": "Six beluga whales have arrived in the US after being moved from a Canadian marine park that could no longer care for them.",
+    "link": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 05:03:42 GMT",
+    "source": "BBC News",
+    "id": "1787d8bf443faf165dbc1971d5871a7a",
+    "fetched_at": "2026-07-22T08:12:44.797154+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
     "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
     "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "f1a3c9fa27f24aeb43f9c11197cf54e5",
     "fetched_at": "2026-07-21T17:08:39.114891+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands sign petition supporting Turkish governor after cycling tights row",
-    "summary": "No reason was given for Mehmet Fatih Çiçekli's removal, but it came after he was criticised for posting pictures on a bike wearing cycling tights.",
-    "link": "https://www.bbc.co.uk/news/articles/cjej9dejl1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 16:00:22 GMT",
-    "source": "BBC News",
-    "id": "5dd63bae1fef6ca6699ed2cc7270c134",
-    "fetched_at": "2026-07-21T17:08:39.114888+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sinaloa Cartel boss 'El Mayo' sentenced to life, ordered to pay $15B in drug trafficking profits",
-    "summary": "Sinaloa Cartel co-founder Ismael &quot;El Mayo&quot; Zambada Garcia received a life sentence and was ordered to forfeit $15 billion in drug trafficking profits.",
-    "link": "https://www.foxnews.com/world/sinaloa-cartel-boss-el-mayo-sentenced-life-ordered-pay-15b-drug-trafficking-profits",
-    "published": "Mon, 20 Jul 2026 21:00:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "91eff189fa7b0da3fa655eefec679454",
-    "fetched_at": "2026-07-21T17:08:39.114860+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-    "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
-    "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
-    "published": "Mon, 20 Jul 2026 07:40:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "0319ebf902d3e5186e367eab720932ce",
-    "fetched_at": "2026-07-21T17:08:37.969780+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin meets North Korean foreign minister in diplomatic push",
-    "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
-    "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
-    "published": "Mon, 20 Jul 2026 09:18:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "c6ba6eefda1036976c7f6047cb2d3d43",
-    "fetched_at": "2026-07-21T17:08:36.811092+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why World Cup can be game-changer for ambitious MLS",
-    "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 06:55:11 GMT",
-    "source": "BBC News",
-    "id": "f3d5be0ffe2cde2c9b785f5be5456000",
-    "fetched_at": "2026-07-21T17:08:35.669359+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tropical Storm Bertha threatens US Gulf coast",
-    "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 02:42:44 GMT",
-    "source": "BBC News",
-    "id": "cb273682fbea9acbb4874e6a8e664ebf",
-    "fetched_at": "2026-07-21T17:08:34.506101+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch rescuers save missing dog from San Francisco Bay",
-    "summary": "Rescuers in boats race toward the dog before making a one-handed grab to pluck the pup out of the water.",
-    "link": "https://www.bbc.co.uk/news/videos/cjrv25w93n9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 14:12:16 GMT",
-    "source": "BBC News",
-    "id": "d9d3d6442ce3f1ea7c9e10ee1d8a6b11",
-    "fetched_at": "2026-07-21T17:08:33.358100+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-    "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
-    "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 02:16:05 GMT",
-    "source": "BBC News",
-    "id": "81d31ab84591371a85be711db236ccec",
-    "fetched_at": "2026-07-21T17:08:32.207995+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ozempic-maker accuses rival of false advertising",
-    "summary": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 15:20:10 GMT",
-    "source": "BBC News",
-    "id": "5dda28198b23dae6a7fecc59dbede766",
-    "fetched_at": "2026-07-21T17:08:31.036491+00:00"
   }
 ]
