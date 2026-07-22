@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+    "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
+    "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 03:32:56 GMT",
+    "source": "BBC News",
+    "id": "3e5a045542922150b37de791f9b655fc",
+    "fetched_at": "2026-07-22T05:17:52.010385+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+    "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 22:26:19 GMT",
+    "source": "BBC News",
+    "id": "45189b3b8a11428a5c22e9469d43886f",
+    "fetched_at": "2026-07-22T05:17:52.010383+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France passes law banning under-15s from social media",
+    "summary": "The law will require social media platforms in France to verify all users age from January.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 03:50:55 GMT",
+    "source": "BBC News",
+    "id": "0283a0940c288e94e851e4a7e038fadc",
+    "fetched_at": "2026-07-22T05:17:52.010379+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+    "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 03:05:08 GMT",
+    "source": "BBC News",
+    "id": "1593d8f34b3d1df3fc44613460d94b52",
+    "fetched_at": "2026-07-22T05:17:52.010350+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US appeals court rejects Biden bid to block release of memoir ghostwriter recordings",
+    "summary": "A divided three-judge panel of the US Court of Appeals for the District of Columbia Circuit suspended its decision until 3 August to give Biden more time to consider a further appeal.",
+    "link": "http://www.euronews.com/2026/07/21/us-appeals-court-rejects-biden-bid-to-block-release-of-memoir-ghostwriter-recordings",
+    "published": "Tue, 21 Jul 2026 20:23:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "40085be73ef870e2d585bd695bfcd7d9",
+    "fetched_at": "2026-07-22T05:17:50.895275+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says US has no interest in Iran talks as cost of war increases",
+    "summary": "The US entered its 11th consecutive night of strikes on Iran, while Tehran expanded its offensive against Gulf states. Meanwhile, Pakistan stepped up diplomatic efforts in hopes of salvaging the interim deal between the two.",
+    "link": "http://www.euronews.com/2026/07/22/trump-says-us-has-no-interest-in-iran-talks-as-cost-of-war-increases",
+    "published": "Wed, 22 Jul 2026 05:45:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3ad1d0752d90a5591ee1395665905938",
+    "fetched_at": "2026-07-22T05:17:49.778061+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Outcry in Algeria over doctor deaths after gruelling on-call shifts",
+    "summary": "A resident neurosurgeon died of a heart attack after a 24-hour shift, and an anaesthesiologist died days later — deaths colleagues say reflect years of chronic overwork, understaffing and inadequate conditions in Algeria's public hospitals, demanding a revision of on-call rules dating back to 2013.",
+    "link": "http://www.euronews.com/2026/07/22/outcry-in-algeria-after-two-doctors-die-after-gruelling-on-call-shifts",
+    "published": "Wed, 22 Jul 2026 07:00:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "94e5ace56aaffe49f50ed02211217161",
+    "fetched_at": "2026-07-22T05:17:48.654454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 22nd, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-morning",
+    "published": "Wed, 22 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "467ab3361c7f209f638b206e2434d7b5",
+    "fetched_at": "2026-07-22T05:17:47.534505+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
+    "summary": "Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.",
+    "link": "https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat",
+    "published": "Tue, 21 Jul 2026 21:58:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f52af792ab8faaaa29328dbc2bdfda50",
+    "fetched_at": "2026-07-22T05:17:46.373847+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
+    "summary": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
+    "link": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
+    "published": "Tue, 21 Jul 2026 23:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "46e6186cbaf316ed2ceaf0ecd7a059bb",
+    "fetched_at": "2026-07-22T05:17:45.202982+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+    "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 02:33:11 GMT",
+    "source": "BBC News",
+    "id": "1c8076948efbfa442f4f0448e36855ef",
+    "fetched_at": "2026-07-22T05:17:44.084139+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN reports 144 dead or missing after migrant boat is stranded at sea for 25 days",
     "summary": "Two children onboard the boat bound for the Canary Islands lost their entire family before the passengers were picked up by a rescue operation from Mauritania.",
     "link": "http://www.euronews.com/2026/07/21/un-reports-144-dead-or-missing-after-migrant-boat-is-stranded-at-sea-for-25-days",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "5dda28198b23dae6a7fecc59dbede766",
     "fetched_at": "2026-07-21T17:08:31.036491+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli air strike in Gaza City kills family of six, medics say",
-    "summary": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 14:47:41 GMT",
-    "source": "BBC News",
-    "id": "be875ab7acefa3b369de4422f7a735fb",
-    "fetched_at": "2026-07-21T15:29:18.306794+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 09:48:20 GMT",
-    "source": "BBC News",
-    "id": "63d3b1cc0c1e7bd27b1e6962c1848fa0",
-    "fetched_at": "2026-07-21T15:29:18.306792+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire spreads in southeastern France as firefighters battle blaze",
-    "summary": "Firefighting aircrafts battled a fast-moving wildfire in southeastern France as the blaze spread across hundreds of hectares, prompting evacuations and threatening nearby communities.",
-    "link": "http://www.euronews.com/video/2026/07/21/wildfire-spreads-in-southeastern-france-as-firefighters-battle-blaze",
-    "published": "Tue, 21 Jul 2026 16:23:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6120e9300bed26b51faec7609703e7df",
-    "fetched_at": "2026-07-21T15:29:18.306788+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Firefighters battle major wildfire as thousands of hectares burn in central Spain",
-    "summary": "Firefighters battle a major wildfire in Spain's Guadalajara province as flames destroy thousands of hectares and force more than 1,200 people to flee.",
-    "link": "http://www.euronews.com/video/2026/07/21/firefighters-battle-major-wildfire-as-thousands-of-hectares-burn-in-central-spain",
-    "published": "Tue, 21 Jul 2026 17:25:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "abc31bab4a62bdb86ebad375efe8ed37",
-    "fetched_at": "2026-07-21T15:29:18.306759+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, 13, dies during World Cup celebrations in Spain",
-    "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 10:02:44 GMT",
-    "source": "BBC News",
-    "id": "a1bcb16969e6b71e3bf7a01405528cdc",
-    "fetched_at": "2026-07-21T15:29:17.180268+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-counterterrorism official Joe Kent continues calling for US military withdrawal from Middle East",
-    "summary": "Former National Counterterrorism Center Director Joe Kent is continuing to advocate for the withdrawal of U.S. forces from the Middle East.",
-    "link": "https://www.foxnews.com/world/ex-counterterrorism-official-joe-kent-continues-calling-us-military-withdrawal-middle-east",
-    "published": "Mon, 20 Jul 2026 06:18:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4496c9c82ceed425b862f320cc73ed3c",
-    "fetched_at": "2026-07-21T15:29:16.060362+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tate brothers to remain behind bars for now as UK seeks extradition on rape, trafficking charges",
-    "summary": "Andrew and Tristan Tate will remain behind bars for now after appearing in a Miami federal courtroom as they begin fighting Britain&apos;s extradition request on 59 charges, including rape and human trafficking.",
-    "link": "https://www.foxnews.com/world/tate-brothers-remain-behind-bars-now-uk-seeks-extradition-rape-trafficking-charges",
-    "published": "Mon, 20 Jul 2026 14:10:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "55ecc5e87718f25cc241133caf88b9f8",
-    "fetched_at": "2026-07-21T15:29:14.932361+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The war with Iran is escalating. What next?",
-    "summary": "NPR's Ailsa Chang speaks with Suzanne Maloney of the Brookings Institution about the U.S. war with Iran, the increase in hostilities and what it means for the wider region",
-    "link": "https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next",
-    "published": "Mon, 20 Jul 2026 15:56:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "baa1a315ad34c482900515c680844004",
-    "fetched_at": "2026-07-21T15:29:13.798465+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
-    "summary": "As the U.S-Iran war ramps up again, hundreds of diplomats are in limbo. The State Department drew down staffing due to Iran's attacks on Gulf states. It's unclear if they'll return to normal business.",
-    "link": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo",
-    "published": "Mon, 20 Jul 2026 16:55:53 -0400",
-    "source": "NPR Topics: World",
-    "id": "4418148c4051f808b7064e8bb75c664a",
-    "fetched_at": "2026-07-21T15:29:12.668660+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Paramount and Warner Bros mega merger paused by judge",
-    "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 19:48:13 GMT",
-    "source": "BBC News",
-    "id": "80c49d14f834206a65b7bd2516419418",
-    "fetched_at": "2026-07-21T15:29:11.543289+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 11:42:41 GMT",
-    "source": "BBC News",
-    "id": "64d986ad58393ac6f93e278efc231443",
-    "fetched_at": "2026-07-21T15:29:10.406305+00:00"
   }
 ]
