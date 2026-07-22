@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "French police formally investigate woman over 2025 killing of Briton",
+    "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:59:03 GMT",
+    "source": "BBC News",
+    "id": "72792aabb98d90116963f787b6a97b4d",
+    "fetched_at": "2026-07-22T17:09:05.545658+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+    "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+    "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 16:34:35 GMT",
+    "source": "BBC News",
+    "id": "2d46a9611814c1ce217bb01750323b9e",
+    "fetched_at": "2026-07-22T17:09:05.545655+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:50:17 GMT",
+    "source": "BBC News",
+    "id": "8ad0a225b311dc98bada6957a80c4d12",
+    "fetched_at": "2026-07-22T17:09:05.545652+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to bomb Tehran back for every Iranian attack in Hormuz",
+    "summary": "The US president said Washington would destroy one piece of civilian infrastructure — including sites near Tehran — each time Iran fires on a ship in the Strait of Hormuz, as the war entered its 11th consecutive day of US strikes.",
+    "link": "http://www.euronews.com/2026/07/22/trump-threatens-to-bomb-tehran-back-for-every-iranian-attack-in-hormuz",
+    "published": "Wed, 22 Jul 2026 17:36:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ac30b91a77ebd25d88753453fed0dc40",
+    "fetched_at": "2026-07-22T17:09:05.545648+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 22nd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-evening",
+    "published": "Wed, 22 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "913f8b06940a5318f91cf15586a4ac89",
+    "fetched_at": "2026-07-22T17:09:05.545621+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe's 'green ideology' climate agenda risks crushing its industry, environment minister warns",
+    "summary": "Czech Environment Minister Igor Červený warns Europe will &quot;crush&quot; its industrial base unless leaders retreat from aggressive climate policies.",
+    "link": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
+    "published": "Mon, 20 Jul 2026 14:12:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6d4be31389beff8ee8d6151d576f12fa",
+    "fetched_at": "2026-07-22T17:09:03.672621+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK's Burnham names Trump critic Ed Miliband foreign secretary; ex-Thatcher aide brands pick 'disastrous'",
+    "summary": "Ed Miliband’s appointment as the United Kingdom&apos;s foreign secretary sparks warnings of tension with President Trump over his past attacks, net-zero policies and foreign affairs.",
+    "link": "https://www.foxnews.com/world/uks-burnham-names-trump-critic-ed-miliband-foreign-secretary-ex-thatcher-aide-brands-pick-disastrous",
+    "published": "Tue, 21 Jul 2026 17:11:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2599cb190e75fb5a4f615300c8e21da8",
+    "fetched_at": "2026-07-22T17:09:02.523413+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine overhauls its military top brass for the fight against Russia",
+    "summary": "Ukraine pushed on with its fight against Russia's invasion under new military leadership Wednesday, after President Volodymyr Zelenskyy bowed to public pressure and fired his commander-in-chief.",
+    "link": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
+    "published": "Tue, 21 Jul 2026 17:30:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "fd34112d7889c31ddacce2dfb0416f87",
+    "fetched_at": "2026-07-22T17:09:01.367422+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'It makes me different': Meet the women breaking world records in lumberjack sports",
+    "summary": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
+    "link": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 05:06:35 GMT",
+    "source": "BBC News",
+    "id": "1a2ae27a0c400ff218a2ca0f16eae8cd",
+    "fetched_at": "2026-07-22T17:09:00.221982+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
+    "summary": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 16:48:35 GMT",
+    "source": "BBC News",
+    "id": "b441d2a30b33934b30f25b5c9863ee30",
+    "fetched_at": "2026-07-22T17:08:59.062056+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mamdani U-turn on threat to arrest Netanyahu citing lack of authority",
+    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 16:29:28 GMT",
+    "source": "BBC News",
+    "id": "e244b9575569c38b947a291a31aa71c3",
+    "fetched_at": "2026-07-22T17:08:57.887680+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+    "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 11:40:11 GMT",
+    "source": "BBC News",
+    "id": "9718a475f062bb6cfbe59a0801dc381a",
+    "fetched_at": "2026-07-22T17:08:56.720078+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
     "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
     "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "3e5a045542922150b37de791f9b655fc",
     "fetched_at": "2026-07-22T05:17:52.010385+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-    "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 22:26:19 GMT",
-    "source": "BBC News",
-    "id": "45189b3b8a11428a5c22e9469d43886f",
-    "fetched_at": "2026-07-22T05:17:52.010383+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France passes law banning under-15s from social media",
-    "summary": "The law will require social media platforms in France to verify all users age from January.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 03:50:55 GMT",
-    "source": "BBC News",
-    "id": "0283a0940c288e94e851e4a7e038fadc",
-    "fetched_at": "2026-07-22T05:17:52.010379+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-    "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 03:05:08 GMT",
-    "source": "BBC News",
-    "id": "1593d8f34b3d1df3fc44613460d94b52",
-    "fetched_at": "2026-07-22T05:17:52.010350+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US appeals court rejects Biden bid to block release of memoir ghostwriter recordings",
-    "summary": "A divided three-judge panel of the US Court of Appeals for the District of Columbia Circuit suspended its decision until 3 August to give Biden more time to consider a further appeal.",
-    "link": "http://www.euronews.com/2026/07/21/us-appeals-court-rejects-biden-bid-to-block-release-of-memoir-ghostwriter-recordings",
-    "published": "Tue, 21 Jul 2026 20:23:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "40085be73ef870e2d585bd695bfcd7d9",
-    "fetched_at": "2026-07-22T05:17:50.895275+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says US has no interest in Iran talks as cost of war increases",
-    "summary": "The US entered its 11th consecutive night of strikes on Iran, while Tehran expanded its offensive against Gulf states. Meanwhile, Pakistan stepped up diplomatic efforts in hopes of salvaging the interim deal between the two.",
-    "link": "http://www.euronews.com/2026/07/22/trump-says-us-has-no-interest-in-iran-talks-as-cost-of-war-increases",
-    "published": "Wed, 22 Jul 2026 05:45:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3ad1d0752d90a5591ee1395665905938",
-    "fetched_at": "2026-07-22T05:17:49.778061+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Outcry in Algeria over doctor deaths after gruelling on-call shifts",
-    "summary": "A resident neurosurgeon died of a heart attack after a 24-hour shift, and an anaesthesiologist died days later — deaths colleagues say reflect years of chronic overwork, understaffing and inadequate conditions in Algeria's public hospitals, demanding a revision of on-call rules dating back to 2013.",
-    "link": "http://www.euronews.com/2026/07/22/outcry-in-algeria-after-two-doctors-die-after-gruelling-on-call-shifts",
-    "published": "Wed, 22 Jul 2026 07:00:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "94e5ace56aaffe49f50ed02211217161",
-    "fetched_at": "2026-07-22T05:17:48.654454+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 22nd, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-morning",
-    "published": "Wed, 22 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "467ab3361c7f209f638b206e2434d7b5",
-    "fetched_at": "2026-07-22T05:17:47.534505+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
-    "summary": "Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.",
-    "link": "https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat",
-    "published": "Tue, 21 Jul 2026 21:58:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f52af792ab8faaaa29328dbc2bdfda50",
-    "fetched_at": "2026-07-22T05:17:46.373847+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
-    "summary": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
-    "link": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
-    "published": "Tue, 21 Jul 2026 23:56:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "46e6186cbaf316ed2ceaf0ecd7a059bb",
-    "fetched_at": "2026-07-22T05:17:45.202982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-    "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 02:33:11 GMT",
-    "source": "BBC News",
-    "id": "1c8076948efbfa442f4f0448e36855ef",
-    "fetched_at": "2026-07-22T05:17:44.084139+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN reports 144 dead or missing after migrant boat is stranded at sea for 25 days",
-    "summary": "Two children onboard the boat bound for the Canary Islands lost their entire family before the passengers were picked up by a rescue operation from Mauritania.",
-    "link": "http://www.euronews.com/2026/07/21/un-reports-144-dead-or-missing-after-migrant-boat-is-stranded-at-sea-for-25-days",
-    "published": "Tue, 21 Jul 2026 15:16:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "23020fef34610158b30510465eadd13c",
-    "fetched_at": "2026-07-22T01:57:04.708323+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-    "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 12:48:37 GMT",
-    "source": "BBC News",
-    "id": "3682dc99b8a32362cda280fea5e9f6c7",
-    "fetched_at": "2026-07-22T01:57:03.548942+00:00"
   }
 ]
