@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
+    "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 16:07:24 GMT",
+    "source": "BBC News",
+    "id": "d070c2a6dd9db189ff1ede1854165696",
+    "fetched_at": "2026-07-23T17:11:55.195941+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nicaragua's legislature debates barring opposition from elections",
+    "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
+    "link": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 15:54:41 GMT",
+    "source": "BBC News",
+    "id": "ee2b894d5ad1837e808453362bb338f2",
+    "fetched_at": "2026-07-23T17:11:55.195936+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+    "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 16:26:49 GMT",
+    "source": "BBC News",
+    "id": "4701ab0dfccb59648a34d5b06f3b4bb1",
+    "fetched_at": "2026-07-23T17:11:55.195908+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 23rd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-evening",
+    "published": "Thu, 23 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "767e93a119c6ddd0cf57eb7e97d6cdfd",
+    "fetched_at": "2026-07-23T17:11:54.019233+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Coexistence isn’t a medieval memory. Ask the rabbis of the Muslim world",
+    "summary": "Rabbi Mendy Chitrik argues that Europe should engage more with Jewish communities in Muslim-majority countries, viewing them as living bridges for dialogue, coexistence and cooperation rather than relics of the past.",
+    "link": "http://www.euronews.com/2026/07/23/coexistence-isnt-a-medieval-memory-ask-the-rabbis-of-the-muslim-world",
+    "published": "Thu, 23 Jul 2026 18:36:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1fed741f8f7603cf24968836d7cfd76c",
+    "fetched_at": "2026-07-23T17:11:52.852980+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
+    "summary": "Israel&apos;s UN ambassador called Mayor Zohran Mamdani a &quot;clown&quot; after he demanded federal authorities arrest Benjamin Netanyahu on an ICC warrant.",
+    "link": "https://www.foxnews.com/world/israeli-un-envoy-blasts-mamdani-clown-call-arrest-netanyahu-stunt",
+    "published": "Wed, 22 Jul 2026 19:35:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0554534a92f26f388849b247d2fd0d32",
+    "fetched_at": "2026-07-23T17:11:51.542416+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
+    "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
+    "published": "Wed, 22 Jul 2026 17:17:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "3f4c2ec101a3715479e37e83c2b769ee",
+    "fetched_at": "2026-07-23T17:11:50.357703+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
+    "source": "BBC News",
+    "id": "af6c9a01765acfed279fb6d604fd4ade",
+    "fetched_at": "2026-07-23T17:11:49.205141+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+    "summary": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 00:15:12 GMT",
+    "source": "BBC News",
+    "id": "6e156e26e57ecf99af1159d6071ea031",
+    "fetched_at": "2026-07-23T17:11:48.027104+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What we know about the US-Saudi nuclear deal",
+    "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+    "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 22:45:08 GMT",
+    "source": "BBC News",
+    "id": "eee605ff71dcd6d22e32305b6e5ab644",
+    "fetched_at": "2026-07-23T17:11:46.841923+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Oil prices hit $100 for the first time since May",
     "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
     "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "02a1f5864b17731f5d060eab78b938af",
     "fetched_at": "2026-07-23T06:24:58.909796+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
-    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
-    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
-    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e5a4d932aef384538b55af5639b8bbad",
-    "fetched_at": "2026-07-23T06:24:57.798933+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US signs landmark nuclear deal with Saudi Arabia",
-    "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 00:21:53 GMT",
-    "source": "BBC News",
-    "id": "d3ebd3fde76345c480ce81a1ac3694d9",
-    "fetched_at": "2026-07-23T06:24:56.677261+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 23:06:08 GMT",
-    "source": "BBC News",
-    "id": "cc8463dda311929307dcf92ce9d38419",
-    "fetched_at": "2026-07-23T02:04:47.595690+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 22nd, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-midday",
-    "published": "Wed, 22 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d5a824bf4177de014e263abc8b9c2eca",
-    "fetched_at": "2026-07-23T02:04:47.595687+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's pick for the next UN Secretary General? Gianni Infantino, reportedly",
-    "summary": "Trump and Infantino, who heads football's world governing body FIFA, have formed a close and somewhat controversial relationship in recent years.",
-    "link": "http://www.euronews.com/2026/07/22/trumps-pick-for-the-next-un-secretary-general-gianni-infantino-reportedly",
-    "published": "Wed, 22 Jul 2026 12:01:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "82274757048cc7ab07d20c8759d6ab05",
-    "fetched_at": "2026-07-23T02:04:47.595684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands sign petition supporting Turkish governor after cycling tights row",
-    "summary": "No reason was given for Mehmet Fatih Çiçekli's removal, but it came after he was criticised for posting pictures on a bike wearing cycling tights.",
-    "link": "https://www.bbc.co.uk/news/articles/cjej9dejl1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 16:00:22 GMT",
-    "source": "BBC News",
-    "id": "5dd63bae1fef6ca6699ed2cc7270c134",
-    "fetched_at": "2026-07-23T02:04:47.595680+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
-    "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 12:32:13 GMT",
-    "source": "BBC News",
-    "id": "fc21585de363aa1182d66f4b19d61d4c",
-    "fetched_at": "2026-07-23T02:04:47.595651+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Modelling scout linked to Epstein found dead in Paris",
-    "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 18:21:55 GMT",
-    "source": "BBC News",
-    "id": "1a416fd5b8f19a7046e766b9d60ff12d",
-    "fetched_at": "2026-07-23T02:04:46.446157+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
-    "summary": "Trump administration officials are reportedly debating whether to support Iran&apos;s downfall, even as Trump says Iran is desperately seeking talks.",
-    "link": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
-    "published": "Wed, 22 Jul 2026 06:00:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "375abfdc3431a6a0fd7e7d7549bc2e59",
-    "fetched_at": "2026-07-23T02:04:45.310608+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
-    "summary": "Rev. Ezekiel Dachomo says Fulani militia killed nine of his family and now threatens his life as the State Department condemns Christian persecution.",
-    "link": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-    "published": "Wed, 22 Jul 2026 06:00:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "20e52550a24a9079d12a589a509326f8",
-    "fetched_at": "2026-07-23T02:04:44.154352+00:00"
   }
 ]
