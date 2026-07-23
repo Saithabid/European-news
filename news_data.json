@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Google burning through cash with spiralling AI costs",
+    "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 23:02:32 GMT",
+    "source": "BBC News",
+    "id": "3af5f66029c60b4b89ac3fbbd7b8b312",
+    "fetched_at": "2026-07-23T06:25:04.437965+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+    "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 03:48:27 GMT",
+    "source": "BBC News",
+    "id": "ada8818512d5bc9c4b707ab5a8a2e7fe",
+    "fetched_at": "2026-07-23T06:25:03.335298+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US announces landmark nuclear deal with Saudi Arabia",
+    "summary": "The Trump administration did not release details of the deal, but the framework could potentially provide Saudi Arabia with a facility that would allow it to enrich uranium.",
+    "link": "http://www.euronews.com/2026/07/23/us-announces-landmark-nuclear-deal-with-saudi-arabia",
+    "published": "Thu, 23 Jul 2026 05:24:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "53959497eb3cd168e67bed2bb3522175",
+    "fetched_at": "2026-07-23T06:25:02.225780+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis claim strikes on Red Sea oil tankers as US continues attacks on Iran",
+    "summary": "The Tehran-backed Houthis said earlier this week they were imposing a maritime embargo against Saudi Arabia, while the US continued strikes on Iran for the 12th night.",
+    "link": "http://www.euronews.com/2026/07/23/yemen-houthis-claim-strikes-on-two-saudi-oil-tankers-in-red-sea",
+    "published": "Thu, 23 Jul 2026 06:06:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "48791314c76db85960f69519da72cea0",
+    "fetched_at": "2026-07-23T06:25:01.128167+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 23rd, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-morning",
+    "published": "Thu, 23 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f19e0b86c0557a2b2e0a30c320c898a0",
+    "fetched_at": "2026-07-23T06:25:00.018036+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
+    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
+    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
+    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02a1f5864b17731f5d060eab78b938af",
+    "fetched_at": "2026-07-23T06:24:58.909796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
+    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e5a4d932aef384538b55af5639b8bbad",
+    "fetched_at": "2026-07-23T06:24:57.798933+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US signs landmark nuclear deal with Saudi Arabia",
+    "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 00:21:53 GMT",
+    "source": "BBC News",
+    "id": "d3ebd3fde76345c480ce81a1ac3694d9",
+    "fetched_at": "2026-07-23T06:24:56.677261+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
     "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
     "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "0f41e3686c86b8f0bb39e73473b584a6",
     "fetched_at": "2026-07-22T15:26:55.444786+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian warship carried out firing exercise off Plymouth coast",
-    "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
-    "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 18:39:47 GMT",
-    "source": "BBC News",
-    "id": "d647a9f846df99df8cf878c6fbbbe3f2",
-    "fetched_at": "2026-07-22T15:26:54.356432+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
-    "source": "BBC News",
-    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
-    "fetched_at": "2026-07-22T15:26:53.257134+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-    "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 05:37:43 GMT",
-    "source": "BBC News",
-    "id": "9f4923b5ed8ce673d93feb8e7b65d4a8",
-    "fetched_at": "2026-07-22T15:26:52.150316+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
-    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
-    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
-    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "50f58dcdf42943dac42bfc04f484ef20",
-    "fetched_at": "2026-07-22T15:26:51.021777+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-    "summary": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
-    "link": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-    "published": "Wed, 22 Jul 2026 09:45:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "c9f1b9c36ef279179d7e3bbb4b24921c",
-    "fetched_at": "2026-07-22T15:26:49.889867+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-    "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 02:15:05 GMT",
-    "source": "BBC News",
-    "id": "017fde03edb008c3929f3538804112e0",
-    "fetched_at": "2026-07-22T15:26:48.785320+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It's frustrating' - Canadians react to new US tariffs",
-    "summary": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
-    "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 20:52:08 GMT",
-    "source": "BBC News",
-    "id": "98d976c1b965e2fc448ae32659492354",
-    "fetched_at": "2026-07-22T15:26:47.670822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia reports fresh drone strikes on Wildberries logistics hubs",
-    "summary": "Russia says Ukrainian drone strikes hit Wildberries warehouses for the second time in a week, with drone strikes reportedly triggering major fires and disrupting one of the country's largest e-commerce logistics networks.",
-    "link": "http://www.euronews.com/2026/07/22/russia-reports-fresh-drone-strikes-on-wildberries-logistics-hubs",
-    "published": "Wed, 22 Jul 2026 14:56:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d7351dbf24ebb2a315465961e789a9e4",
-    "fetched_at": "2026-07-22T13:26:12.369398+00:00"
   }
 ]
