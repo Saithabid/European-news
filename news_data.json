@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | July 23rd, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-midday",
+    "published": "Thu, 23 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7e82651a9c45f78edb32568806c7bcd5",
+    "fetched_at": "2026-07-23T22:49:21.415997+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
+    "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 07:54:03 GMT",
+    "source": "BBC News",
+    "id": "5c183c1d9fb0db6616a8d01e6ed66b0f",
+    "fetched_at": "2026-07-23T22:49:20.253295+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
+    "source": "BBC News",
+    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
+    "fetched_at": "2026-07-23T22:49:19.103265+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
+    "summary": "Daniel Siad&apos;s name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.",
+    "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
+    "published": "Thu, 23 Jul 2026 17:02:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ec67a0e49579c2c7580de2c0df0d715a",
+    "fetched_at": "2026-07-23T22:49:17.953152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Justice dept withdraws subpoenas over New York Times reports about Air Force One",
+    "summary": "The journalists covered alleged security issues with the president's new plane, gifted by Qatar.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyrjl04vnro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 21:43:38 GMT",
+    "source": "BBC News",
+    "id": "b51851e7e6d93ba66c301cae43b7d2e4",
+    "fetched_at": "2026-07-23T22:49:16.800272+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+    "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 20:58:35 GMT",
+    "source": "BBC News",
+    "id": "6b6aa0e38a4b1dde2d581676cd3f0b6a",
+    "fetched_at": "2026-07-23T22:49:15.658774+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 22:34:36 GMT",
+    "source": "BBC News",
+    "id": "2e9fe1a72808bcb787413102c6b4710a",
+    "fetched_at": "2026-07-23T22:49:14.516088+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What's going on with the US-Saudi nuclear deal?",
+    "summary": "Less than 24 hours after the agreement was signed, President Trump posted on social media that the deal required Saudi Arabia to sign up to the Abraham Accords.",
+    "link": "https://www.bbc.co.uk/news/videos/cd7ldlwlny8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 21:30:29 GMT",
+    "source": "BBC News",
+    "id": "0e308c32ea53801ba64681b5d51a5f1e",
+    "fetched_at": "2026-07-23T22:49:13.358616+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
     "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
     "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "7a4fe51bcfb67dfdc92772d4a86de6f4",
     "fetched_at": "2026-07-23T13:30:10.566894+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
-    "summary": "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
-    "published": "Thu, 23 Jul 2026 06:45:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "5c62e97ded32766ee9ccfaedb71d3f11",
-    "fetched_at": "2026-07-23T13:30:10.566891+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
-    "summary": "The agreement between the U.S. and Saudi Arabia gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
-    "published": "Thu, 23 Jul 2026 06:46:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "de7749ce5c1d110d8fbd69fd0246654a",
-    "fetched_at": "2026-07-23T13:30:10.566861+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
-    "summary": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-    "published": "Thu, 23 Jul 2026 06:55:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "a45c0ce736c1fe811669158b0f8d6154",
-    "fetched_at": "2026-07-23T13:30:09.387962+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-    "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
-    "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-    "published": "Thu, 23 Jul 2026 07:39:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "dd2386d9fc99b7c25ca8d37f937432e8",
-    "fetched_at": "2026-07-23T13:30:08.226235+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Miami mistakenly post James 'introductory' video",
-    "summary": "Miami Heat mistakenly post a link on YouTube to LeBron James' 'introductory press conference' despite the NBA great not yet deciding where he will play next season.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/c4gjwwny0zgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 20:54:08 GMT",
-    "source": "BBC News",
-    "id": "6c4e8fdbf8d8dce5b1c11aab73185488",
-    "fetched_at": "2026-07-23T13:30:06.828254+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:50:17 GMT",
-    "source": "BBC News",
-    "id": "8ad0a225b311dc98bada6957a80c4d12",
-    "fetched_at": "2026-07-23T13:30:05.655598+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 17:54:57 GMT",
-    "source": "BBC News",
-    "id": "e244b9575569c38b947a291a31aa71c3",
-    "fetched_at": "2026-07-23T13:30:04.469215+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
-    "summary": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 16:48:35 GMT",
-    "source": "BBC News",
-    "id": "b441d2a30b33934b30f25b5c9863ee30",
-    "fetched_at": "2026-07-23T13:30:03.269412+00:00"
   }
 ]
