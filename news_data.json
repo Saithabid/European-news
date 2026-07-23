@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+    "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 11:39:11 GMT",
+    "source": "BBC News",
+    "id": "38e99fb709212b73449d16162d795348",
+    "fetched_at": "2026-07-23T13:30:10.566914+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+    "summary": "The woman, who had wanted to end her pregnancy at 36 weeks, gave birth to a baby who doctors later killed.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 10:04:56 GMT",
+    "source": "BBC News",
+    "id": "d14555868484affb077fc007711604cb",
+    "fetched_at": "2026-07-23T13:30:10.566911+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tankers make sharp U-turns after Houthi shipping threat",
+    "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+    "source": "BBC News",
+    "id": "413b22e6b412d15ef37cf3206e2da5e5",
+    "fetched_at": "2026-07-23T13:30:10.566908+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+    "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+    "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 13:00:38 GMT",
+    "source": "BBC News",
+    "id": "c8cae83a6f746efaf52098a92f9e204e",
+    "fetched_at": "2026-07-23T13:30:10.566905+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giant swing offers breathtaking ride above the Swiss Alps",
+    "summary": "A giant swing opens at 2,110 metres on Switzerland's Grand Chamossaire peak, offering tourists an aerial ride above the Alps in Villars.",
+    "link": "http://www.euronews.com/video/2026/07/23/giant-swing-offers-breathtaking-ride-above-the-swiss-alps",
+    "published": "Thu, 23 Jul 2026 12:10:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "179116a9434a3706c509e4d71442c9a3",
+    "fetched_at": "2026-07-23T13:30:10.566901+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giant hot dog sculpture returns to New York Times Square",
+    "summary": "A giant hot dog sculpture returns to New York's Times Square as artists unveil a 65-foot installation marking America's 250th anniversary.",
+    "link": "http://www.euronews.com/video/2026/07/23/giant-hot-dog-sculpture-returns-to-new-york-times-square",
+    "published": "Thu, 23 Jul 2026 12:36:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f58ac8abaf5719855d4eae8f7e1c501f",
+    "fetched_at": "2026-07-23T13:30:10.566898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ebola death toll in DR Congo surpasses 1,000",
+    "summary": "Congo's Ebola outbreak has crossed the grim 1,000-death threshold, marking the fastest fatal surge in  recorded history of the virus.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5902980/ebola-congo-outbreak-deaths",
+    "published": "Thu, 23 Jul 2026 04:45:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "7a4fe51bcfb67dfdc92772d4a86de6f4",
+    "fetched_at": "2026-07-23T13:30:10.566894+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
+    "summary": "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
+    "published": "Thu, 23 Jul 2026 06:45:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "5c62e97ded32766ee9ccfaedb71d3f11",
+    "fetched_at": "2026-07-23T13:30:10.566891+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
+    "summary": "The agreement between the U.S. and Saudi Arabia gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
+    "published": "Thu, 23 Jul 2026 06:46:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "de7749ce5c1d110d8fbd69fd0246654a",
+    "fetched_at": "2026-07-23T13:30:10.566861+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+    "summary": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+    "published": "Thu, 23 Jul 2026 06:55:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "a45c0ce736c1fe811669158b0f8d6154",
+    "fetched_at": "2026-07-23T13:30:09.387962+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+    "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+    "published": "Thu, 23 Jul 2026 07:39:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "dd2386d9fc99b7c25ca8d37f937432e8",
+    "fetched_at": "2026-07-23T13:30:08.226235+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Miami mistakenly post James 'introductory' video",
+    "summary": "Miami Heat mistakenly post a link on YouTube to LeBron James' 'introductory press conference' despite the NBA great not yet deciding where he will play next season.",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/c4gjwwny0zgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 20:54:08 GMT",
+    "source": "BBC News",
+    "id": "6c4e8fdbf8d8dce5b1c11aab73185488",
+    "fetched_at": "2026-07-23T13:30:06.828254+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:50:17 GMT",
+    "source": "BBC News",
+    "id": "8ad0a225b311dc98bada6957a80c4d12",
+    "fetched_at": "2026-07-23T13:30:05.655598+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 17:54:57 GMT",
+    "source": "BBC News",
+    "id": "e244b9575569c38b947a291a31aa71c3",
+    "fetched_at": "2026-07-23T13:30:04.469215+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
+    "summary": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 16:48:35 GMT",
+    "source": "BBC News",
+    "id": "b441d2a30b33934b30f25b5c9863ee30",
+    "fetched_at": "2026-07-23T13:30:03.269412+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+    "summary": "Past US presidents insisted that Saudi Arabia normalise relations with Israel in exchange for nuclear technology.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 12:58:40 GMT",
+    "source": "BBC News",
+    "id": "66b01e776e6b028a1996e49d3c5b0241",
+    "fetched_at": "2026-07-23T13:30:02.068227+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
     "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
     "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "5a0404450ad0dbb8613fabee0d32e077",
     "fetched_at": "2026-07-22T20:57:18.363646+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-    "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-    "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 14:52:25 GMT",
-    "source": "BBC News",
-    "id": "cbb2262176291f8dbb5aa1494bf18ee6",
-    "fetched_at": "2026-07-22T20:57:17.210725+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France records more than 5,700 excess deaths during historic early summer heat wave",
-    "summary": "More than 5,700 excess deaths were recorded during France&apos;s unprecedented June heat wave, making it the country&apos;s deadliest since 2003, health officials said.",
-    "link": "https://www.foxnews.com/world/france-records-5700-excess-deaths-historic-early-summer-heat-wave",
-    "published": "Wed, 22 Jul 2026 16:30:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "16a287903ade3922b7923cb76a025bfb",
-    "fetched_at": "2026-07-22T20:57:16.077025+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French lawmakers approve a sweeping social media ban for children under 15",
-    "summary": "The move makes France the first country in the European Union to pass a blanket ban on platforms as concerns grow worldwide over the harmful effects of digital content on kids.",
-    "link": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-    "published": "Wed, 22 Jul 2026 01:46:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "3db7f0b83f7a1cc484304475f26ef277",
-    "fetched_at": "2026-07-22T20:57:14.920732+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
-    "summary": "NPR has confirmed a deal that would allow the U.S. to transfer nuclear technology to Saudi Arabia and allow the country to begin enriching uranium for civilian use.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
-    "published": "Wed, 22 Jul 2026 15:58:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "ec6b1b5df84e608ea60035b9049165ea",
-    "fetched_at": "2026-07-22T20:57:13.771467+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
-    "summary": "Six beluga whales have arrived in Illinois and Texas after being moved from a Canadian marine park that could no longer care for them.",
-    "link": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 05:03:42 GMT",
-    "source": "BBC News",
-    "id": "1787d8bf443faf165dbc1971d5871a7a",
-    "fetched_at": "2026-07-22T20:57:12.620101+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Teenager drops social media addiction lawsuit against Meta",
-    "summary": "Claims from a 15-year-old boy were set to go to trial next week in Los Angeles, but the case has now been dropped.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 19:04:47 GMT",
-    "source": "BBC News",
-    "id": "7b1255942e570a4308e9093fd2bdba18",
-    "fetched_at": "2026-07-22T20:57:11.462946+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-    "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 18:57:46 GMT",
-    "source": "BBC News",
-    "id": "1593d8f34b3d1df3fc44613460d94b52",
-    "fetched_at": "2026-07-22T19:01:31.471898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-    "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 12:48:37 GMT",
-    "source": "BBC News",
-    "id": "3682dc99b8a32362cda280fea5e9f6c7",
-    "fetched_at": "2026-07-22T19:01:30.322919+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France passes law banning under-15s from social media",
-    "summary": "The law will require social media platforms in France to verify all users age from January.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 03:50:55 GMT",
-    "source": "BBC News",
-    "id": "0283a0940c288e94e851e4a7e038fadc",
-    "fetched_at": "2026-07-22T19:01:29.160867+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
-    "summary": "Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.",
-    "link": "https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat",
-    "published": "Tue, 21 Jul 2026 21:58:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f52af792ab8faaaa29328dbc2bdfda50",
-    "fetched_at": "2026-07-22T19:01:28.008232+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
-    "summary": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
-    "link": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
-    "published": "Tue, 21 Jul 2026 23:56:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "46e6186cbaf316ed2ceaf0ecd7a059bb",
-    "fetched_at": "2026-07-22T19:01:26.851850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy shuts down effort linked to Gaza flotilla group to track Jewish, Israeli tourists",
-    "summary": "An anonymous online form asked the public to report locations of Israeli tourists and Italian Jews, drawing comparisons to fascist-era persecution.",
-    "link": "https://www.foxnews.com/world/italy-shuts-down-effort-linked-gaza-flotilla-group-track-jewish-israeli-tourists",
-    "published": "Wed, 22 Jul 2026 14:22:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5c75ce82d2a5b854603b8785c6a083c1",
-    "fetched_at": "2026-07-22T19:01:25.691946+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about Ukraine's military shakeup",
-    "summary": "After a week of nationwide protests over the direction of Ukraine's military strategy in the ongoing war with Russia, the Ukrainian military has a new commander, Mykhailo Drapatyi. Here's what to know.",
-    "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
-    "published": "Wed, 22 Jul 2026 14:01:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "91de53603cd874ecacfed8230faf2a3f",
-    "fetched_at": "2026-07-22T19:01:24.546804+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-    "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 02:33:11 GMT",
-    "source": "BBC News",
-    "id": "1c8076948efbfa442f4f0448e36855ef",
-    "fetched_at": "2026-07-22T19:01:23.397822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French police formally investigate woman over 2025 killing of Briton",
-    "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
-    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:59:03 GMT",
-    "source": "BBC News",
-    "id": "72792aabb98d90116963f787b6a97b4d",
-    "fetched_at": "2026-07-22T17:09:05.545658+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-    "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-    "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 16:34:35 GMT",
-    "source": "BBC News",
-    "id": "2d46a9611814c1ce217bb01750323b9e",
-    "fetched_at": "2026-07-22T17:09:05.545655+00:00"
   }
 ]
