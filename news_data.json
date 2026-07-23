@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+    "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 12:32:13 GMT",
+    "source": "BBC News",
+    "id": "fc21585de363aa1182d66f4b19d61d4c",
+    "fetched_at": "2026-07-23T19:03:08.757748+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Modelling scout linked to Epstein found dead in Paris",
+    "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 18:21:55 GMT",
+    "source": "BBC News",
+    "id": "1a416fd5b8f19a7046e766b9d60ff12d",
+    "fetched_at": "2026-07-23T19:03:08.757745+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 06:15:35 GMT",
+    "source": "BBC News",
+    "id": "cc8463dda311929307dcf92ce9d38419",
+    "fetched_at": "2026-07-23T19:03:08.757741+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's ousted defence minister insists on being reinstated",
+    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
+    "source": "BBC News",
+    "id": "de4c13107047c5f6ab8814924b9c436f",
+    "fetched_at": "2026-07-23T19:03:08.757711+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
+    "summary": "Trump administration officials are reportedly debating whether to support Iran&apos;s downfall, even as Trump says Iran is desperately seeking talks.",
+    "link": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
+    "published": "Wed, 22 Jul 2026 06:00:06 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "375abfdc3431a6a0fd7e7d7549bc2e59",
+    "fetched_at": "2026-07-23T19:03:07.647054+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
+    "summary": "Rev. Ezekiel Dachomo says Fulani militia killed nine of his family and now threatens his life as the State Department condemns Christian persecution.",
+    "link": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
+    "published": "Wed, 22 Jul 2026 06:00:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "20e52550a24a9079d12a589a509326f8",
+    "fetched_at": "2026-07-23T19:03:06.561765+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
+    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e5a4d932aef384538b55af5639b8bbad",
+    "fetched_at": "2026-07-23T19:03:05.441294+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Norway consider complaint over Balogun ban decision",
+    "summary": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 12:43:30 GMT",
+    "source": "BBC News",
+    "id": "348bafab8d4670b9edf5917a4086ad5a",
+    "fetched_at": "2026-07-23T19:03:04.333170+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+    "summary": "Jason Alexander said he \"truly regrets\" the Funny Or Die sketch he appeared in with Courtney Stodden.",
+    "link": "https://www.bbc.co.uk/news/articles/cz64pn37138o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 08:37:14 GMT",
+    "source": "BBC News",
+    "id": "ccfa2e13ba8fcd6056aab5a7edb8407c",
+    "fetched_at": "2026-07-23T19:03:03.206220+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",
+    "summary": "An American man sues OpenAI and its founder Sam Altman, claiming the popular chatbot \"repeatedly misdiagnosed\" him.",
+    "link": "https://www.bbc.co.uk/news/articles/cwylp3nxp5yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 17:20:06 GMT",
+    "source": "BBC News",
+    "id": "1170e81f7ba5d05db65541f4d6c78f27",
+    "fetched_at": "2026-07-23T19:03:02.092083+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Secret Service agent  in Vance's team under investigation over alleged leak",
+    "summary": "The Secret Service has not disclosed the agent's identity or the nature of the information allegedly leaked.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dgp46923o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 17:51:38 GMT",
+    "source": "BBC News",
+    "id": "ad0a454d9256040c30e09e2806f29635",
+    "fetched_at": "2026-07-23T19:03:00.969684+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
     "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
     "link": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
     "fetched_at": "2026-07-23T10:13:36.541497+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands evacuated in France fires",
-    "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 08:56:36 GMT",
-    "source": "BBC News",
-    "id": "c0b096ac1c92128db385aa5cb5aabfcd",
-    "fetched_at": "2026-07-23T10:13:35.421861+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
-    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
-    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
-    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "50f58dcdf42943dac42bfc04f484ef20",
-    "fetched_at": "2026-07-23T10:13:34.302033+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-    "summary": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
-    "link": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
-    "published": "Wed, 22 Jul 2026 09:45:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "c9f1b9c36ef279179d7e3bbb4b24921c",
-    "fetched_at": "2026-07-23T10:13:33.187257+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Beloved educator's detention fuels India's biggest protests in years",
-    "summary": "In India, the detention of a beloved educator on hunger strike has turned into its largest anti-government protests in years.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5901932/beloved-educators-detention-fuels-indias-biggest-protests-in-years",
-    "published": "Thu, 23 Jul 2026 04:45:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "d2f8bbdab16fd0cdbdd66eb9376ff012",
-    "fetched_at": "2026-07-23T10:13:32.058164+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-    "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 06:18:37 GMT",
-    "source": "BBC News",
-    "id": "6fe47454b2f840b40625b5b2e1ce6886",
-    "fetched_at": "2026-07-23T10:13:30.930770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Google burning through cash with spiralling AI costs",
-    "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 23:02:32 GMT",
-    "source": "BBC News",
-    "id": "3af5f66029c60b4b89ac3fbbd7b8b312",
-    "fetched_at": "2026-07-23T06:25:04.437965+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-    "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 03:48:27 GMT",
-    "source": "BBC News",
-    "id": "ada8818512d5bc9c4b707ab5a8a2e7fe",
-    "fetched_at": "2026-07-23T06:25:03.335298+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US announces landmark nuclear deal with Saudi Arabia",
-    "summary": "The Trump administration did not release details of the deal, but the framework could potentially provide Saudi Arabia with a facility that would allow it to enrich uranium.",
-    "link": "http://www.euronews.com/2026/07/23/us-announces-landmark-nuclear-deal-with-saudi-arabia",
-    "published": "Thu, 23 Jul 2026 05:24:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "53959497eb3cd168e67bed2bb3522175",
-    "fetched_at": "2026-07-23T06:25:02.225780+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis claim strikes on Red Sea oil tankers as US continues attacks on Iran",
-    "summary": "The Tehran-backed Houthis said earlier this week they were imposing a maritime embargo against Saudi Arabia, while the US continued strikes on Iran for the 12th night.",
-    "link": "http://www.euronews.com/2026/07/23/yemen-houthis-claim-strikes-on-two-saudi-oil-tankers-in-red-sea",
-    "published": "Thu, 23 Jul 2026 06:06:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "48791314c76db85960f69519da72cea0",
-    "fetched_at": "2026-07-23T06:25:01.128167+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 23rd, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-morning",
-    "published": "Thu, 23 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f19e0b86c0557a2b2e0a30c320c898a0",
-    "fetched_at": "2026-07-23T06:25:00.018036+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
-    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
-    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
-    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "02a1f5864b17731f5d060eab78b938af",
-    "fetched_at": "2026-07-23T06:24:58.909796+00:00"
   }
 ]
