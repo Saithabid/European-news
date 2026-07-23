@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+    "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 16:50:59 GMT",
+    "source": "BBC News",
+    "id": "ada8818512d5bc9c4b707ab5a8a2e7fe",
+    "fetched_at": "2026-07-23T20:54:35.658781+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "India activist ends hunger strike after 26 days",
+    "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+    "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 20:31:40 GMT",
+    "source": "BBC News",
+    "id": "d09703783352552adccbc90af4d43b71",
+    "fetched_at": "2026-07-23T20:54:35.658777+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "White House says Trump will not intervene in Tate brothers' extradition to UK",
+    "summary": "According to US media, Andrew Tate has also sought to build ties with Trump's sons, Donald Trump Jr. and Barron Trump.",
+    "link": "http://www.euronews.com/2026/07/23/white-house-says-trump-will-not-intervene-in-tate-brothers-extradition-to-uk",
+    "published": "Thu, 23 Jul 2026 22:04:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2c5c21eb90fdaf2bb991459f794d55d5",
+    "fetched_at": "2026-07-23T20:54:35.658752+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man fatally wounded in knife attack in German bank",
+    "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
+    "link": "https://www.bbc.co.uk/news/articles/cq89k12ygq0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 18:38:05 GMT",
+    "source": "BBC News",
+    "id": "2b2c26b64ccc4df986d54452cbf637e8",
+    "fetched_at": "2026-07-23T20:54:34.559672+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France evacuates 20,000 as wildfires spread in south-west",
+    "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 19:17:42 GMT",
+    "source": "BBC News",
+    "id": "c0b096ac1c92128db385aa5cb5aabfcd",
+    "fetched_at": "2026-07-23T20:54:33.452207+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
+    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
+    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
+    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02a1f5864b17731f5d060eab78b938af",
+    "fetched_at": "2026-07-23T20:54:32.342272+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
+    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
+    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
+    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "50f58dcdf42943dac42bfc04f484ef20",
+    "fetched_at": "2026-07-23T20:54:31.229347+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Beloved educator's detention fuels India's biggest protests in years",
+    "summary": "In India, the detention of a beloved educator on hunger strike has turned into its largest anti-government protests in years.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5901932/beloved-educators-detention-fuels-indias-biggest-protests-in-years",
+    "published": "Thu, 23 Jul 2026 04:45:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "d2f8bbdab16fd0cdbdd66eb9376ff012",
+    "fetched_at": "2026-07-23T20:54:30.098040+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+    "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 06:18:37 GMT",
+    "source": "BBC News",
+    "id": "6fe47454b2f840b40625b5b2e1ce6886",
+    "fetched_at": "2026-07-23T20:54:28.982682+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Everything on the table' as Canada plans response to US tariffs",
+    "summary": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 19:59:39 GMT",
+    "source": "BBC News",
+    "id": "7d751c2f0f9ed969bbe47aff80fea613",
+    "fetched_at": "2026-07-23T20:54:27.855822+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
     "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
     "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "b441d2a30b33934b30f25b5c9863ee30",
     "fetched_at": "2026-07-23T13:30:03.269412+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-    "summary": "Past US presidents insisted that Saudi Arabia normalise relations with Israel in exchange for nuclear technology.",
-    "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 12:58:40 GMT",
-    "source": "BBC News",
-    "id": "66b01e776e6b028a1996e49d3c5b0241",
-    "fetched_at": "2026-07-23T13:30:02.068227+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-    "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
-    "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 06:37:23 GMT",
-    "source": "BBC News",
-    "id": "1c8d8af083fca4fc04c7912b0de63ca2",
-    "fetched_at": "2026-07-23T10:13:38.871973+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish police evacuate residents as wildfire threatens homes near Madrid",
-    "summary": "Guardia Civil officers evacuate residents in Villa del Prado, central Spain, as a fast-moving wildfire threatens homes near Toledo with flames and smoke.",
-    "link": "http://www.euronews.com/video/2026/07/23/spanish-police-evacuate-residents-as-wildfire-threatens-homes-near-madrid",
-    "published": "Thu, 23 Jul 2026 09:34:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0524c124dabb3a3ae435d8f085d4dbc3",
-    "fetched_at": "2026-07-23T10:13:38.871970+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Divers restore Italy's Christ of the Abyss monument",
-    "summary": "Divers clean the Christ of the Abyss statue off San Fruttuoso, Italy, preserving the iconic underwater monument placed there in 1954.",
-    "link": "http://www.euronews.com/video/2026/07/23/divers-restore-italys-christ-of-the-abyss-monument",
-    "published": "Thu, 23 Jul 2026 10:00:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c4a4eb11e3d0c69fa5886e303774ce62",
-    "fetched_at": "2026-07-23T10:13:38.871968+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia strips rights of citizens abroad in sweeping new 'traitor' law",
-    "summary": "The Duma approved measures that freeze accounts, seize property and block consular services including passport renewal for Russians abroad who are evading charges at home. Lawyers said the law meant \"de facto loss of citizenship,\" with political activists and journalists among those most at risk.",
-    "link": "http://www.euronews.com/2026/07/23/russia-strips-rights-of-dissidents-abroad-in-sweeping-new-traitor-law",
-    "published": "Thu, 23 Jul 2026 10:28:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0a5595ba150fb2538b06822553982c7a",
-    "fetched_at": "2026-07-23T10:13:38.871965+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gulf oil producers race to build alternative routes to the Strait of Hormuz",
-    "summary": "Gulf oil producers are spending billions of dollars on pipelines designed to route crude around the Strait of Hormuz, as Iran's grip on the waterway drags on and the region's most important export artery remains precarious.",
-    "link": "http://www.euronews.com/business/2026/07/23/gulf-oil-producers-race-to-build-alternative-routes-to-the-strait-of-hormuz",
-    "published": "Thu, 23 Jul 2026 11:27:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0346133fea53f0cac462881d8e84f886",
-    "fetched_at": "2026-07-23T10:13:38.871963+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 23rd, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-midday",
-    "published": "Thu, 23 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7e82651a9c45f78edb32568806c7bcd5",
-    "fetched_at": "2026-07-23T10:13:38.871959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-    "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 05:37:43 GMT",
-    "source": "BBC News",
-    "id": "9f4923b5ed8ce673d93feb8e7b65d4a8",
-    "fetched_at": "2026-07-23T10:13:38.871929+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
-    "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 07:54:03 GMT",
-    "source": "BBC News",
-    "id": "5c183c1d9fb0db6616a8d01e6ed66b0f",
-    "fetched_at": "2026-07-23T10:13:37.666627+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
-    "source": "BBC News",
-    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
-    "fetched_at": "2026-07-23T10:13:36.541497+00:00"
   }
 ]
