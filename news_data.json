@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+    "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+    "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 06:37:23 GMT",
+    "source": "BBC News",
+    "id": "1c8d8af083fca4fc04c7912b0de63ca2",
+    "fetched_at": "2026-07-23T10:13:38.871973+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish police evacuate residents as wildfire threatens homes near Madrid",
+    "summary": "Guardia Civil officers evacuate residents in Villa del Prado, central Spain, as a fast-moving wildfire threatens homes near Toledo with flames and smoke.",
+    "link": "http://www.euronews.com/video/2026/07/23/spanish-police-evacuate-residents-as-wildfire-threatens-homes-near-madrid",
+    "published": "Thu, 23 Jul 2026 09:34:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0524c124dabb3a3ae435d8f085d4dbc3",
+    "fetched_at": "2026-07-23T10:13:38.871970+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Divers restore Italy's Christ of the Abyss monument",
+    "summary": "Divers clean the Christ of the Abyss statue off San Fruttuoso, Italy, preserving the iconic underwater monument placed there in 1954.",
+    "link": "http://www.euronews.com/video/2026/07/23/divers-restore-italys-christ-of-the-abyss-monument",
+    "published": "Thu, 23 Jul 2026 10:00:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c4a4eb11e3d0c69fa5886e303774ce62",
+    "fetched_at": "2026-07-23T10:13:38.871968+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia strips rights of citizens abroad in sweeping new 'traitor' law",
+    "summary": "The Duma approved measures that freeze accounts, seize property and block consular services including passport renewal for Russians abroad who are evading charges at home. Lawyers said the law meant \"de facto loss of citizenship,\" with political activists and journalists among those most at risk.",
+    "link": "http://www.euronews.com/2026/07/23/russia-strips-rights-of-dissidents-abroad-in-sweeping-new-traitor-law",
+    "published": "Thu, 23 Jul 2026 10:28:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0a5595ba150fb2538b06822553982c7a",
+    "fetched_at": "2026-07-23T10:13:38.871965+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gulf oil producers race to build alternative routes to the Strait of Hormuz",
+    "summary": "Gulf oil producers are spending billions of dollars on pipelines designed to route crude around the Strait of Hormuz, as Iran's grip on the waterway drags on and the region's most important export artery remains precarious.",
+    "link": "http://www.euronews.com/business/2026/07/23/gulf-oil-producers-race-to-build-alternative-routes-to-the-strait-of-hormuz",
+    "published": "Thu, 23 Jul 2026 11:27:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0346133fea53f0cac462881d8e84f886",
+    "fetched_at": "2026-07-23T10:13:38.871963+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 23rd, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-midday",
+    "published": "Thu, 23 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7e82651a9c45f78edb32568806c7bcd5",
+    "fetched_at": "2026-07-23T10:13:38.871959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+    "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 05:37:43 GMT",
+    "source": "BBC News",
+    "id": "9f4923b5ed8ce673d93feb8e7b65d4a8",
+    "fetched_at": "2026-07-23T10:13:38.871929+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ruiz & Gavi's reward for win... 150kg of tomatoes",
+    "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 07:54:03 GMT",
+    "source": "BBC News",
+    "id": "5c183c1d9fb0db6616a8d01e6ed66b0f",
+    "fetched_at": "2026-07-23T10:13:37.666627+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
+    "source": "BBC News",
+    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
+    "fetched_at": "2026-07-23T10:13:36.541497+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands evacuated in France fires",
+    "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 08:56:36 GMT",
+    "source": "BBC News",
+    "id": "c0b096ac1c92128db385aa5cb5aabfcd",
+    "fetched_at": "2026-07-23T10:13:35.421861+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
+    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
+    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
+    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "50f58dcdf42943dac42bfc04f484ef20",
+    "fetched_at": "2026-07-23T10:13:34.302033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+    "summary": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+    "published": "Wed, 22 Jul 2026 09:45:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "c9f1b9c36ef279179d7e3bbb4b24921c",
+    "fetched_at": "2026-07-23T10:13:33.187257+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Beloved educator's detention fuels India's biggest protests in years",
+    "summary": "In India, the detention of a beloved educator on hunger strike has turned into its largest anti-government protests in years.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5901932/beloved-educators-detention-fuels-indias-biggest-protests-in-years",
+    "published": "Thu, 23 Jul 2026 04:45:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "d2f8bbdab16fd0cdbdd66eb9376ff012",
+    "fetched_at": "2026-07-23T10:13:32.058164+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+    "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 06:18:37 GMT",
+    "source": "BBC News",
+    "id": "6fe47454b2f840b40625b5b2e1ce6886",
+    "fetched_at": "2026-07-23T10:13:30.930770+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Google burning through cash with spiralling AI costs",
     "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
     "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "2d46a9611814c1ce217bb01750323b9e",
     "fetched_at": "2026-07-22T17:09:05.545655+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-    "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:50:17 GMT",
-    "source": "BBC News",
-    "id": "8ad0a225b311dc98bada6957a80c4d12",
-    "fetched_at": "2026-07-22T17:09:05.545652+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens to bomb Tehran back for every Iranian attack in Hormuz",
-    "summary": "The US president said Washington would destroy one piece of civilian infrastructure — including sites near Tehran — each time Iran fires on a ship in the Strait of Hormuz, as the war entered its 11th consecutive day of US strikes.",
-    "link": "http://www.euronews.com/2026/07/22/trump-threatens-to-bomb-tehran-back-for-every-iranian-attack-in-hormuz",
-    "published": "Wed, 22 Jul 2026 17:36:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ac30b91a77ebd25d88753453fed0dc40",
-    "fetched_at": "2026-07-22T17:09:05.545648+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 22nd, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-evening",
-    "published": "Wed, 22 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "913f8b06940a5318f91cf15586a4ac89",
-    "fetched_at": "2026-07-22T17:09:05.545621+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe's 'green ideology' climate agenda risks crushing its industry, environment minister warns",
-    "summary": "Czech Environment Minister Igor Červený warns Europe will &quot;crush&quot; its industrial base unless leaders retreat from aggressive climate policies.",
-    "link": "https://www.foxnews.com/world/europes-climate-agenda-risks-crushing-its-industry-environment-minister-warns",
-    "published": "Mon, 20 Jul 2026 14:12:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d4be31389beff8ee8d6151d576f12fa",
-    "fetched_at": "2026-07-22T17:09:03.672621+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK's Burnham names Trump critic Ed Miliband foreign secretary; ex-Thatcher aide brands pick 'disastrous'",
-    "summary": "Ed Miliband’s appointment as the United Kingdom&apos;s foreign secretary sparks warnings of tension with President Trump over his past attacks, net-zero policies and foreign affairs.",
-    "link": "https://www.foxnews.com/world/uks-burnham-names-trump-critic-ed-miliband-foreign-secretary-ex-thatcher-aide-brands-pick-disastrous",
-    "published": "Tue, 21 Jul 2026 17:11:27 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2599cb190e75fb5a4f615300c8e21da8",
-    "fetched_at": "2026-07-22T17:09:02.523413+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine overhauls its military top brass for the fight against Russia",
-    "summary": "Ukraine pushed on with its fight against Russia's invasion under new military leadership Wednesday, after President Volodymyr Zelenskyy bowed to public pressure and fired his commander-in-chief.",
-    "link": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
-    "published": "Tue, 21 Jul 2026 17:30:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "fd34112d7889c31ddacce2dfb0416f87",
-    "fetched_at": "2026-07-22T17:09:01.367422+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It makes me different': Meet the women breaking world records in lumberjack sports",
-    "summary": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
-    "link": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 05:06:35 GMT",
-    "source": "BBC News",
-    "id": "1a2ae27a0c400ff218a2ca0f16eae8cd",
-    "fetched_at": "2026-07-22T17:09:00.221982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cause of Nolan Wells' death still unknown, initial results of independent autopsy show",
-    "summary": "Wells' family are seeking answers after the teenager was found dead in Mississippi waters earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cgr7njdxxp9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 16:48:35 GMT",
-    "source": "BBC News",
-    "id": "b441d2a30b33934b30f25b5c9863ee30",
-    "fetched_at": "2026-07-22T17:08:59.062056+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mamdani U-turn on threat to arrest Netanyahu citing lack of authority",
-    "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 16:29:28 GMT",
-    "source": "BBC News",
-    "id": "e244b9575569c38b947a291a31aa71c3",
-    "fetched_at": "2026-07-22T17:08:57.887680+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-    "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 11:40:11 GMT",
-    "source": "BBC News",
-    "id": "9718a475f062bb6cfbe59a0801dc381a",
-    "fetched_at": "2026-07-22T17:08:56.720078+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-    "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
-    "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 14:14:16 GMT",
-    "source": "BBC News",
-    "id": "425ce93dcc7bedcbb9f544bc889c67e9",
-    "fetched_at": "2026-07-22T15:26:55.444818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tankers make sharp U-turns after Houthi shipping threat",
-    "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 14:42:49 GMT",
-    "source": "BBC News",
-    "id": "413b22e6b412d15ef37cf3206e2da5e5",
-    "fetched_at": "2026-07-22T15:26:55.444816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nicolas Maduro returns to court in US drug trafficking case",
-    "summary": "The US in April allowed Venezuela to pay for Maduro's and Flores's legal defence, something previously prohibited under US sanctions.",
-    "link": "http://www.euronews.com/2026/07/22/nicolas-maduro-returns-to-court-in-us-drug-trafficking-case",
-    "published": "Wed, 22 Jul 2026 16:54:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "57fd385c9d9eea314c4af5f5745565f1",
-    "fetched_at": "2026-07-22T15:26:55.444813+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-    "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 16:10:38 GMT",
-    "source": "BBC News",
-    "id": "0f41e3686c86b8f0bb39e73473b584a6",
-    "fetched_at": "2026-07-22T15:26:55.444786+00:00"
   }
 ]
