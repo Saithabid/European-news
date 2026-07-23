@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Oil prices hit $100 for the first time since May",
+    "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 15:31:00 GMT",
+    "source": "BBC News",
+    "id": "8f5c5a678704c4355658b5d83fd3719f",
+    "fetched_at": "2026-07-23T15:49:45.904478+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands evacuated as wildfire spreads in southwestern France",
+    "summary": "A wildfire spreads near Le Porge in Gironde, France, as firefighters battle flames across the forest and thousands of people are evacuated.",
+    "link": "http://www.euronews.com/video/2026/07/23/thousands-evacuated-as-wildfire-spreads-in-southwestern-france",
+    "published": "Thu, 23 Jul 2026 14:14:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "476c034f41e1488f5a45d11599ee4ad4",
+    "fetched_at": "2026-07-23T15:49:45.904476+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela earthquake damages add up to almost $20 billion, World Bank says",
+    "summary": "Almost a month after the devastating earthquakes, Venezuela has a mammoth task ahead in terms of rebuilding, rehabilitating and mitigating the social and economic damage of the biggest natural disaster in decades.",
+    "link": "http://www.euronews.com/business/2026/07/23/venezuela-earthquake-damages-add-up-to-almost-20-billion-world-bank-says",
+    "published": "Thu, 23 Jul 2026 16:03:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bed4d000fd200c249d656d50a4efd868",
+    "fetched_at": "2026-07-23T15:49:45.904474+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Liberia seizes €277 million worth of cocaine linked to 'organised and well-funded' trafficking network",
+    "summary": "According to the Global Initiative Against Transnational Organized Crime, West Africa is a key transit hub for cocaine bound for Europe.",
+    "link": "http://www.euronews.com/2026/07/23/liberia-seizes-277-million-worth-of-cocaine-linked-to-organised-and-well-funded-traffickin",
+    "published": "Thu, 23 Jul 2026 16:29:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "31f760ecbb3a6aa45bd0dd38b666e689",
+    "fetched_at": "2026-07-23T15:49:45.904471+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Modi adresses India's youth's 'Cockroach' movement as protesters hold capital sit-in",
+    "summary": "The \"Cockroach\" protests which have gained a wider following from Indians of all ages over government accountability, unemployment and economic opportunity is considered one of Prime Minister Narendra Modi's government's biggest challenge yet.",
+    "link": "http://www.euronews.com/2026/07/23/modi-adresses-indias-youths-cockroach-movement-as-protesters-hold-capital-sit-in",
+    "published": "Thu, 23 Jul 2026 17:34:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9ad04ec59bf61a10e7a5980d9f816794",
+    "fetched_at": "2026-07-23T15:49:45.904469+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France passes law banning under-15s from social media",
+    "summary": "The law will require social media platforms in France to verify all users age from January.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 03:50:55 GMT",
+    "source": "BBC News",
+    "id": "0283a0940c288e94e851e4a7e038fadc",
+    "fetched_at": "2026-07-23T15:49:45.904465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Police formally investigate woman after Brit stabbed to death in French village",
+    "summary": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 19:03:08 GMT",
+    "source": "BBC News",
+    "id": "72792aabb98d90116963f787b6a97b4d",
+    "fetched_at": "2026-07-23T15:49:45.904437+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
+    "summary": "Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.",
+    "link": "https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat",
+    "published": "Tue, 21 Jul 2026 21:58:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f52af792ab8faaaa29328dbc2bdfda50",
+    "fetched_at": "2026-07-23T15:49:44.750167+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
+    "summary": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
+    "link": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
+    "published": "Tue, 21 Jul 2026 23:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "46e6186cbaf316ed2ceaf0ecd7a059bb",
+    "fetched_at": "2026-07-23T15:49:43.634503+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Italy shuts down effort linked to Gaza flotilla group to track Jewish, Israeli tourists",
+    "summary": "An anonymous online form asked the public to report locations of Israeli tourists and Italian Jews, drawing comparisons to fascist-era persecution.",
+    "link": "https://www.foxnews.com/world/italy-shuts-down-effort-linked-gaza-flotilla-group-track-jewish-israeli-tourists",
+    "published": "Wed, 22 Jul 2026 14:22:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5c75ce82d2a5b854603b8785c6a083c1",
+    "fetched_at": "2026-07-23T15:49:42.509677+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France records more than 5,700 excess deaths during historic early summer heat wave",
+    "summary": "More than 5,700 excess deaths were recorded during France&apos;s unprecedented June heat wave, making it the country&apos;s deadliest since 2003, health officials said.",
+    "link": "https://www.foxnews.com/world/france-records-5700-excess-deaths-historic-early-summer-heat-wave",
+    "published": "Wed, 22 Jul 2026 16:30:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "16a287903ade3922b7923cb76a025bfb",
+    "fetched_at": "2026-07-23T15:49:41.380160+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know about Ukraine's military shakeup",
+    "summary": "After a week of nationwide protests over the direction of Ukraine's military strategy in the ongoing war with Russia, the Ukrainian military has a new commander, Mykhailo Drapatyi. Here's what to know.",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
+    "published": "Wed, 22 Jul 2026 14:01:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "91de53603cd874ecacfed8230faf2a3f",
+    "fetched_at": "2026-07-23T15:49:40.247700+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why the U.S. and Saudi Arabia signed a nuclear agreement",
+    "summary": "NPR has confirmed a deal that would allow the U.S. to transfer nuclear technology to Saudi Arabia and allow the country to begin enriching uranium for civilian use.",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5903077/why-the-u-s-and-saudi-arabia-signed-a-nuclear-agreement",
+    "published": "Wed, 22 Jul 2026 15:58:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "ec6b1b5df84e608ea60035b9049165ea",
+    "fetched_at": "2026-07-23T15:49:39.136003+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+    "summary": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+    "published": "Thu, 23 Jul 2026 10:56:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "cbb1728899d628f8b0e68cfa13079c33",
+    "fetched_at": "2026-07-23T15:49:38.000298+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
     "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
     "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "20e52550a24a9079d12a589a509326f8",
     "fetched_at": "2026-07-23T02:04:44.154352+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
-    "summary": "Israel&apos;s UN ambassador called Mayor Zohran Mamdani a &quot;clown&quot; after he demanded federal authorities arrest Benjamin Netanyahu on an ICC warrant.",
-    "link": "https://www.foxnews.com/world/israeli-un-envoy-blasts-mamdani-clown-call-arrest-netanyahu-stunt",
-    "published": "Wed, 22 Jul 2026 19:35:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0554534a92f26f388849b247d2fd0d32",
-    "fetched_at": "2026-07-23T02:04:43.038330+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-    "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 01:52:10 GMT",
-    "source": "BBC News",
-    "id": "8ba0f358b30abf596561fd0ac49f848e",
-    "fetched_at": "2026-07-23T02:04:41.882868+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-    "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 00:15:12 GMT",
-    "source": "BBC News",
-    "id": "6e156e26e57ecf99af1159d6071ea031",
-    "fetched_at": "2026-07-23T02:04:40.716955+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: What we know about the US-Saudi nuclear deal",
-    "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
-    "link": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 22:45:08 GMT",
-    "source": "BBC News",
-    "id": "eee605ff71dcd6d22e32305b6e5ab644",
-    "fetched_at": "2026-07-23T02:04:39.553498+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fire kills 10 members of same family in Peru, police say",
-    "summary": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 20:56:26 GMT",
-    "source": "BBC News",
-    "id": "09ccff448cfac99d4404df67b9b5b209",
-    "fetched_at": "2026-07-22T22:55:40.163451+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
-    "summary": "Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests",
-    "published": "Wed, 22 Jul 2026 04:46:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "17234dbbbe920afcbdbd472534f166af",
-    "fetched_at": "2026-07-22T22:55:38.993492+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Group of Indigenous Taiwanese row over 100 miles to recreate their ancestors' journey",
-    "summary": "Indigenous people in Taiwan complete a journey to the Philippines in a traditional rowboat, recreating a journey their ancestors made thousands of years ago.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5871201/group-of-indigenous-taiwanese-row-over-100-miles-to-recreate-their-ancestors-journey",
-    "published": "Wed, 22 Jul 2026 04:47:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "60552aebdbfb0d4d70b30b8832d92596",
-    "fetched_at": "2026-07-22T22:55:37.827339+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It's all literally rubble': Lebanese poet returns to see what has become of her home",
-    "summary": "A village destroyed. A home erased. One poet returns to remember what was lost.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5883746/its-all-literally-rubble-lebanese-poet-returns-to-see-what-has-become-of-her-home",
-    "published": "Wed, 22 Jul 2026 04:47:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "06122faaaf1a837f6f8ac2d7a2db0ab3",
-    "fetched_at": "2026-07-22T22:55:36.659448+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-    "summary": "The fighting comes as the Trump administration is seeking billions of dollars more from Congress for the war with Iran, which Defense Secretary Pete Hegseth says has already cost $37.5 billion.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-    "published": "Wed, 22 Jul 2026 06:46:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "fd6fec5e761e1194375d88e140d91f2d",
-    "fetched_at": "2026-07-22T22:55:35.504049+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-    "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
-    "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
-    "published": "Wed, 22 Jul 2026 07:24:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "619a9a9d1cc106e026f7190ded957aaf",
-    "fetched_at": "2026-07-22T22:55:34.341569+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
-    "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
-    "published": "Wed, 22 Jul 2026 17:17:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "3f4c2ec101a3715479e37e83c2b769ee",
-    "fetched_at": "2026-07-22T22:55:33.185944+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
-    "source": "BBC News",
-    "id": "af6c9a01765acfed279fb6d604fd4ade",
-    "fetched_at": "2026-07-22T22:55:32.022562+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mamdani says NYC lacks authority to arrest Israeli PM Netanyahu",
-    "summary": "Netanyahu's office has dubbed the ICC a \"kangaroo court\" and called the arrest warrant against the Israeli leader \"bogus.\"",
-    "link": "http://www.euronews.com/2026/07/22/mamdani-says-nyc-lacks-authority-to-arrest-israeli-pm-netanyahu",
-    "published": "Wed, 22 Jul 2026 08:53:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "32894177703fae7eeb4a49fc4c4463eb",
-    "fetched_at": "2026-07-22T20:57:19.518108+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Congo's Ebola outbreak kills more than 1,000 people",
-    "summary": "The World Health Organization has said that the true scale of the outbreak could be two to four times larger than official figures indicate.",
-    "link": "http://www.euronews.com/2026/07/22/congos-ebola-outbreak-kills-more-than-1000-people",
-    "published": "Wed, 22 Jul 2026 21:53:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5a0404450ad0dbb8613fabee0d32e077",
-    "fetched_at": "2026-07-22T20:57:18.363646+00:00"
   }
 ]
