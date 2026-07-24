@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Iran military says it targeted US bases in Bahrain, Jordan and Kuwait",
+    "summary": "Tehran says any facility or base in the Middle East used by the US military to launch attacks on Iran is a legitimate target for retaliation.",
+    "link": "http://www.euronews.com/2026/07/24/iran-military-says-it-targeted-us-bases-in-bahrain-jordan-and-kuwait",
+    "published": "Fri, 24 Jul 2026 22:06:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2a69a1263ded10fcaa79a254709e5de8",
+    "fetched_at": "2026-07-24T20:56:34.106451+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "ICC top prosecutor removed over sexual misconduct allegations",
+    "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 20:47:51 GMT",
+    "source": "BBC News",
+    "id": "d15308f6ad42528bf16f18028cb1b3df",
+    "fetched_at": "2026-07-24T20:56:34.106449+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France records more than 5,700 excess deaths during historic early summer heat wave",
+    "summary": "More than 5,700 excess deaths were recorded during France&apos;s unprecedented June heat wave, making it the country&apos;s deadliest since 2003, health officials said.",
+    "link": "https://www.foxnews.com/world/france-records-5700-excess-deaths-historic-early-summer-heat-wave",
+    "published": "Wed, 22 Jul 2026 16:30:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "16a287903ade3922b7923cb76a025bfb",
+    "fetched_at": "2026-07-24T20:56:34.106417+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+    "summary": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+    "published": "Thu, 23 Jul 2026 10:56:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "cbb1728899d628f8b0e68cfa13079c33",
+    "fetched_at": "2026-07-24T20:56:32.954789+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+    "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
+    "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
+    "published": "Fri, 24 Jul 2026 01:45:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "85349939a49c9b633978bf1c69121700",
+    "fetched_at": "2026-07-24T20:56:31.807688+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
+    "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
+    "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+    "published": "Fri, 24 Jul 2026 01:56:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "281cb29d665aaee41a67277eca6286cb",
+    "fetched_at": "2026-07-24T20:56:30.667670+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICC member nations vote to remove chief prosecutor",
+    "summary": "Member nations voted to remove chief prosecutor Karim Khan on Friday and the Trump administration is vowing to do whatever it can to dismantle the court.",
+    "link": "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor",
+    "published": "Fri, 24 Jul 2026 16:25:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "58b1abcbbd0cd712a0d32b989dce592d",
+    "fetched_at": "2026-07-24T20:56:29.522055+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How Jimothy the raccoon became the internet's latest animal obsession",
+    "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
+    "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 14:27:46 GMT",
+    "source": "BBC News",
+    "id": "fc04c97718158589b23b8e1299a01d9d",
+    "fetched_at": "2026-07-24T20:56:28.371366+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former NFL star Tony Romo arrested for driving intoxicated",
+    "summary": "Romo was arrested outside Milwaukee on Thursday night, and arrested after performing poorly on field sobriety tests.",
+    "link": "https://www.bbc.co.uk/news/articles/c0ejgpwv95go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 20:12:48 GMT",
+    "source": "BBC News",
+    "id": "5ff99bf196438f9e5cfbc2de573977d1",
+    "fetched_at": "2026-07-24T20:56:27.198809+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
+    "summary": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 17:49:11 GMT",
+    "source": "BBC News",
+    "id": "c7f7fd87eb3ef9f50eb6c559cd4e34c3",
+    "fetched_at": "2026-07-24T20:56:26.038957+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
     "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
     "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "93bf115e43483348e6480a16a6c2ef23",
     "fetched_at": "2026-07-24T11:37:41.574867+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France passes law banning under-15s from social media",
-    "summary": "The law will require social media platforms in France to verify all users age from January.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 03:50:55 GMT",
-    "source": "BBC News",
-    "id": "0283a0940c288e94e851e4a7e038fadc",
-    "fetched_at": "2026-07-24T11:37:41.574864+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Guardiola turns down Italy manager job",
-    "summary": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 09:47:25 GMT",
-    "source": "BBC News",
-    "id": "f4e9c6bd068bca9b87416fd78342f875",
-    "fetched_at": "2026-07-24T11:37:41.574862+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-    "summary": "Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 09:33:22 GMT",
-    "source": "BBC News",
-    "id": "f32bfa48b9f700fe85a4ef28b43b873d",
-    "fetched_at": "2026-07-24T11:37:41.574858+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy shuts down effort linked to Gaza flotilla group to track Jewish, Israeli tourists",
-    "summary": "An anonymous online form asked the public to report locations of Israeli tourists and Italian Jews, drawing comparisons to fascist-era persecution.",
-    "link": "https://www.foxnews.com/world/italy-shuts-down-effort-linked-gaza-flotilla-group-track-jewish-israeli-tourists",
-    "published": "Wed, 22 Jul 2026 14:22:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5c75ce82d2a5b854603b8785c6a083c1",
-    "fetched_at": "2026-07-24T11:37:41.574827+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is Israel really isolated? Polls and diplomacy point in opposite directions",
-    "summary": "Trump says the Saudi Arabia nuclear deal hinges on joining the Abraham Accords, as experts debate whether Israel faces isolation or expanding ties.",
-    "link": "https://www.foxnews.com/world/israel-really-isolated-polls-diplomacy-point-opposite-directions",
-    "published": "Fri, 24 Jul 2026 06:00:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "009e90f9525ff19af0fb00b9c1163013",
-    "fetched_at": "2026-07-24T11:37:40.443950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-    "summary": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-    "published": "Fri, 24 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "13234baf1c224df1b4bef5ab2ecb5503",
-    "fetched_at": "2026-07-24T11:37:39.322391+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-    "summary": "Australia and the European Union were among U.S. trade partners who condemned the tariffs.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-    "published": "Fri, 24 Jul 2026 06:31:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "c04bbfcd1d77bd739e67c358783993a7",
-    "fetched_at": "2026-07-24T11:37:38.201567+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How the Houthis blockade of the Red Sea could affect the global economy",
-    "summary": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
-    "published": "Fri, 24 Jul 2026 06:44:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "b56db29d264026c5b12a5f7dd46ad275",
-    "fetched_at": "2026-07-24T11:37:37.092532+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-    "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 02:25:07 GMT",
-    "source": "BBC News",
-    "id": "1c8076948efbfa442f4f0448e36855ef",
-    "fetched_at": "2026-07-24T11:37:35.976709+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Using a bathroom 20 times a day - life in the middle of US cyclospora outbreak",
-    "summary": "A historic cyclospora outbreak spreading across the US is causing havoc in pockets of Michigan, the hardest hit state.",
-    "link": "https://www.bbc.co.uk/news/articles/c8dn92m0mqjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 10:58:10 GMT",
-    "source": "BBC News",
-    "id": "2d39a64c1421446a6bae48a3fc4dafa9",
-    "fetched_at": "2026-07-24T11:37:34.845108+00:00"
   }
 ]
