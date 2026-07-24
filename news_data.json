@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 14:41:32 GMT",
+    "source": "BBC News",
+    "id": "844c107590a8287f9912ea1b96ab8622",
+    "fetched_at": "2026-07-24T15:21:48.104496+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Modelling scout linked to Epstein found dead in Paris",
+    "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 18:21:55 GMT",
+    "source": "BBC News",
+    "id": "1a416fd5b8f19a7046e766b9d60ff12d",
+    "fetched_at": "2026-07-24T15:21:48.104465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 06:15:35 GMT",
+    "source": "BBC News",
+    "id": "cc8463dda311929307dcf92ce9d38419",
+    "fetched_at": "2026-07-24T15:21:46.978667+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's ousted defence minister insists on being reinstated",
+    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
+    "source": "BBC News",
+    "id": "de4c13107047c5f6ab8814924b9c436f",
+    "fetched_at": "2026-07-24T15:21:45.815201+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 15:12:11 GMT",
+    "source": "BBC News",
+    "id": "8633dd4505a5368d0c0761032e4b57f6",
+    "fetched_at": "2026-07-24T15:21:44.665955+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
+    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
+    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
+    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02a1f5864b17731f5d060eab78b938af",
+    "fetched_at": "2026-07-24T15:21:43.537477+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
+    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
+    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
+    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "50f58dcdf42943dac42bfc04f484ef20",
+    "fetched_at": "2026-07-24T15:21:42.405479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could this African nation become Trump's next terror target as jihadists close in on power?",
+    "summary": "Mali&apos;s gold and lithium deposits add a minerals dimension as Trump&apos;s team reportedly weighs strikes against al Qaeda-linked terrorists in the Sahel.",
+    "link": "https://www.foxnews.com/world/could-african-nation-become-trumps-next-terror-target-jihadists-close-power",
+    "published": "Fri, 24 Jul 2026 11:00:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "afca52787e31ad5fedfbefe84f88cb51",
+    "fetched_at": "2026-07-24T15:21:41.245166+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Everything on the table' including retaliation as Canada plans response to US tariffs",
+    "summary": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 13:58:34 GMT",
+    "source": "BBC News",
+    "id": "7d751c2f0f9ed969bbe47aff80fea613",
+    "fetched_at": "2026-07-24T15:21:40.092815+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Oil prices hit $100 for the first time since May",
     "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
     "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
     "fetched_at": "2026-07-23T22:49:19.103265+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
-    "summary": "Daniel Siad&apos;s name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.",
-    "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
-    "published": "Thu, 23 Jul 2026 17:02:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ec67a0e49579c2c7580de2c0df0d715a",
-    "fetched_at": "2026-07-23T22:49:17.953152+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Justice dept withdraws subpoenas over New York Times reports about Air Force One",
-    "summary": "The journalists covered alleged security issues with the president's new plane, gifted by Qatar.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyrjl04vnro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 21:43:38 GMT",
-    "source": "BBC News",
-    "id": "b51851e7e6d93ba66c301cae43b7d2e4",
-    "fetched_at": "2026-07-23T22:49:16.800272+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-    "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 20:58:35 GMT",
-    "source": "BBC News",
-    "id": "6b6aa0e38a4b1dde2d581676cd3f0b6a",
-    "fetched_at": "2026-07-23T22:49:15.658774+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
-    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 22:34:36 GMT",
-    "source": "BBC News",
-    "id": "2e9fe1a72808bcb787413102c6b4710a",
-    "fetched_at": "2026-07-23T22:49:14.516088+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's going on with the US-Saudi nuclear deal?",
-    "summary": "Less than 24 hours after the agreement was signed, President Trump posted on social media that the deal required Saudi Arabia to sign up to the Abraham Accords.",
-    "link": "https://www.bbc.co.uk/news/videos/cd7ldlwlny8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 21:30:29 GMT",
-    "source": "BBC News",
-    "id": "0e308c32ea53801ba64681b5d51a5f1e",
-    "fetched_at": "2026-07-23T22:49:13.358616+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-    "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 16:50:59 GMT",
-    "source": "BBC News",
-    "id": "ada8818512d5bc9c4b707ab5a8a2e7fe",
-    "fetched_at": "2026-07-23T20:54:35.658781+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India activist ends hunger strike after 26 days",
-    "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 20:31:40 GMT",
-    "source": "BBC News",
-    "id": "d09703783352552adccbc90af4d43b71",
-    "fetched_at": "2026-07-23T20:54:35.658777+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "White House says Trump will not intervene in Tate brothers' extradition to UK",
-    "summary": "According to US media, Andrew Tate has also sought to build ties with Trump's sons, Donald Trump Jr. and Barron Trump.",
-    "link": "http://www.euronews.com/2026/07/23/white-house-says-trump-will-not-intervene-in-tate-brothers-extradition-to-uk",
-    "published": "Thu, 23 Jul 2026 22:04:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2c5c21eb90fdaf2bb991459f794d55d5",
-    "fetched_at": "2026-07-23T20:54:35.658752+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man fatally wounded in knife attack in German bank",
-    "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
-    "link": "https://www.bbc.co.uk/news/articles/cq89k12ygq0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 18:38:05 GMT",
-    "source": "BBC News",
-    "id": "2b2c26b64ccc4df986d54452cbf637e8",
-    "fetched_at": "2026-07-23T20:54:34.559672+00:00"
   }
 ]
