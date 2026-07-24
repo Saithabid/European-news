@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+    "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 13:33:06 GMT",
+    "source": "BBC News",
+    "id": "9f3e028c6a4c1d035fafb317370a151e",
+    "fetched_at": "2026-07-24T19:15:38.199428+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfires up 57% in Europe in just four years, WHO warns",
+    "summary": "As wildfires rage across parts of Europe, the WHO has warned of a sharp rise in wildfires across the region and their growing toll on human health.",
+    "link": "http://www.euronews.com/2026/07/24/wildfires-up-57-in-europe-in-just-four-years-who-warns",
+    "published": "Fri, 24 Jul 2026 20:01:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "87fcfb8da5fb3e0f43357d40a98a50e3",
+    "fetched_at": "2026-07-24T19:15:38.199371+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump and Zelenskyy to meet in Washington next week",
+    "summary": "Kyiv did not immediately confirm whether President Volodymyr Zelenskyy will meet President Donald Trump in Washington next week or attend the funeral of Senator Lindsey Graham",
+    "link": "http://www.euronews.com/2026/07/24/trump-and-zelenskyy-to-meet-in-washington-next-week",
+    "published": "Fri, 24 Jul 2026 20:19:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "47b46ef11a31eec2b3fd090e044d389c",
+    "fetched_at": "2026-07-24T19:15:37.070472+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
+    "source": "BBC News",
+    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
+    "fetched_at": "2026-07-24T19:15:35.930452+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
+    "summary": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+    "published": "Thu, 23 Jul 2026 06:55:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "a45c0ce736c1fe811669158b0f8d6154",
+    "fetched_at": "2026-07-24T19:15:34.807749+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+    "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+    "published": "Thu, 23 Jul 2026 07:39:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "dd2386d9fc99b7c25ca8d37f937432e8",
+    "fetched_at": "2026-07-24T19:15:33.635482+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US measles cases reach 35-year high",
+    "summary": "There have been 2,318 confirmed cases of the virus, higher than last year's total  with five months to go.",
+    "link": "https://www.bbc.co.uk/news/articles/c36dw75dkw5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:18:30 GMT",
+    "source": "BBC News",
+    "id": "793fb23d8aed844c55c120952ba86df4",
+    "fetched_at": "2026-07-24T19:15:32.512154+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump vows to investigate EU over fining of US tech companies",
+    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:57:39 GMT",
+    "source": "BBC News",
+    "id": "23bb56a2af883e1441e87c06d6d1f914",
+    "fetched_at": "2026-07-24T19:15:31.369725+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cyclospora outbreak expands to nine US states, health officials say",
+    "summary": "Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:00:03 GMT",
+    "source": "BBC News",
+    "id": "bfccad8cc37a2f25f71bd28d38e02c4d",
+    "fetched_at": "2026-07-24T19:15:30.231085+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
     "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
     "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "2d39a64c1421446a6bae48a3fc4dafa9",
     "fetched_at": "2026-07-24T11:37:34.845108+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
-    "summary": "A bridge linking Michigan to Ontario is about to open but Canada has disinvited US dignitaries from the ceremony.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 05:56:55 GMT",
-    "source": "BBC News",
-    "id": "c7f7fd87eb3ef9f50eb6c559cd4e34c3",
-    "fetched_at": "2026-07-24T11:37:33.725282+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-    "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 11:39:11 GMT",
-    "source": "BBC News",
-    "id": "38e99fb709212b73449d16162d795348",
-    "fetched_at": "2026-07-24T08:12:24.133997+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France: Massive blaze engulfs Cap Ferret forests as thousands evacuated",
-    "summary": "A fast-moving wildfire forced the evacuation of the entire Cap Ferret peninsula after destroying dozens of homes, as 700 firefighters battled to contain the blaze.",
-    "link": "http://www.euronews.com/video/2026/07/24/france-massive-blaze-engulfs-cap-ferret-forests-as-thousands-evacuated",
-    "published": "Fri, 24 Jul 2026 10:06:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fd826ca55eb64a2a9828545de5559960",
-    "fetched_at": "2026-07-24T08:12:22.988374+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
-    "summary": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 07:59:28 GMT",
-    "source": "BBC News",
-    "id": "3aa13dce46cf20cb886572db7ccc0479",
-    "fetched_at": "2026-07-24T08:12:21.834032+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France records more than 5,700 excess deaths during historic early summer heat wave",
-    "summary": "More than 5,700 excess deaths were recorded during France&apos;s unprecedented June heat wave, making it the country&apos;s deadliest since 2003, health officials said.",
-    "link": "https://www.foxnews.com/world/france-records-5700-excess-deaths-historic-early-summer-heat-wave",
-    "published": "Wed, 22 Jul 2026 16:30:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "16a287903ade3922b7923cb76a025bfb",
-    "fetched_at": "2026-07-24T08:12:20.694030+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "In a first, Chinese woman wins the prestigious Fields Medal",
-    "summary": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
-    "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
-    "published": "Thu, 23 Jul 2026 10:56:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "cbb1728899d628f8b0e68cfa13079c33",
-    "fetched_at": "2026-07-24T08:12:19.548119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-    "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
-    "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-    "published": "Fri, 24 Jul 2026 01:45:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "85349939a49c9b633978bf1c69121700",
-    "fetched_at": "2026-07-24T08:12:18.391176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-    "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-    "published": "Fri, 24 Jul 2026 01:56:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "281cb29d665aaee41a67277eca6286cb",
-    "fetched_at": "2026-07-24T08:12:17.255499+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens to use frozen Iranian assets to pay for shipping damage",
-    "summary": "Tehran said Friday that US President Donald Trump's threat to pay for shipping damage with Iranian assets was an 'incendiary precedent'.",
-    "link": "http://www.euronews.com/2026/07/24/trump-threatens-to-use-frozen-iranian-assets-to-pay-for-shipping-damage",
-    "published": "Fri, 24 Jul 2026 06:22:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cbe8ece0d916f8a7f27be4fe6d813cd2",
-    "fetched_at": "2026-07-24T05:25:50.682579+00:00"
   }
 ]
