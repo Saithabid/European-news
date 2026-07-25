@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+    "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+    "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:13:02 GMT",
+    "source": "BBC News",
+    "id": "fafea0acd9149eafb46362599a2f1836",
+    "fetched_at": "2026-07-25T01:59:09.193194+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+    "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+    "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 23:01:06 GMT",
+    "source": "BBC News",
+    "id": "99ae8eb293a7688ea8e13af1d754f865",
+    "fetched_at": "2026-07-25T01:59:08.037677+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfire emergency near Madrid forces over 10,000 to flee as Spain sounds alarm",
+    "summary": "Civil Guard officers, firefighters and the Military Emergency Unit battle fierce wildfires near Madrid, with more than 10,000 people evacuated amid extreme heat.",
+    "link": "http://www.euronews.com/video/2026/07/24/wildfire-emergency-near-madrid-forces-over-10000-to-flee-as-spain-sounds-alarm",
+    "published": "Fri, 24 Jul 2026 12:48:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "34c738acb2cf624105bb4ab7f89fd271",
+    "fetched_at": "2026-07-25T01:59:06.896773+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uzbek economy grows 8.5% as services and investment expand",
+    "summary": "Official figures presented at a presidential review showed investment reaching €24.6 billion and exports €12.7 billion in the first half of 2026, as Moody's upgraded Uzbekistan's sovereign credit rating and Fitch shifted its outlook to positive.",
+    "link": "http://www.euronews.com/2026/07/24/uzbek-economy-grows-85-as-services-and-investment-expand",
+    "published": "Fri, 24 Jul 2026 13:09:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "98da5c2cb387f0f51e6f71dab213f16d",
+    "fetched_at": "2026-07-25T01:59:05.758325+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'All paths appear closed': Iranians weigh prospect of US invasion of their country",
+    "summary": "Euronews spoke to five Iranians about whether US boots on Iranian soil would mean liberation or catastrophe. Their answers revealed a country that has run out of easy answers after nearly 50 years of the Islamic Republic and months of war.",
+    "link": "http://www.euronews.com/2026/07/24/all-paths-appear-closed-iranians-weigh-prospect-of-us-invasion-of-their-country",
+    "published": "Fri, 24 Jul 2026 13:24:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "93bf115e43483348e6480a16a6c2ef23",
+    "fetched_at": "2026-07-25T01:59:04.608469+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+    "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
+    "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
+    "published": "Fri, 24 Jul 2026 07:37:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "53bcaf5b5bc9c7a63cba1dc9b6663964",
+    "fetched_at": "2026-07-25T01:59:03.458702+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+    "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 00:41:50 GMT",
+    "source": "BBC News",
+    "id": "5a1cf499d1058d4bb3ce4505b7e87b50",
+    "fetched_at": "2026-07-25T01:59:02.299725+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+    "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+    "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 01:00:31 GMT",
+    "source": "BBC News",
+    "id": "c3f5d04fff84891813e9b19c5ecb84cc",
+    "fetched_at": "2026-07-25T01:59:01.150722+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Guardiola turns down Italy manager job",
     "summary": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "8f5c5a678704c4355658b5d83fd3719f",
     "fetched_at": "2026-07-24T13:22:09.022477+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-    "summary": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 12:55:58 GMT",
-    "source": "BBC News",
-    "id": "81dacdf1da182db5a2e870638374546a",
-    "fetched_at": "2026-07-24T13:22:09.022475+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
-    "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
-    "link": "http://www.euronews.com/video/2026/07/24/armoured-fighters-storm-denmarks-spottrup-castle-for-imcf-world-championship",
-    "published": "Fri, 24 Jul 2026 14:46:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2470e488f760bc83b97031bbbf6543f8",
-    "fetched_at": "2026-07-24T13:22:09.022471+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu orders 'firm' military action after deadly West Bank clash",
-    "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
-    "link": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
-    "published": "Fri, 24 Jul 2026 15:06:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "46d71113e54297df249522b428f37ab1",
-    "fetched_at": "2026-07-24T13:22:09.022440+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
-    "source": "BBC News",
-    "id": "af6c9a01765acfed279fb6d604fd4ade",
-    "fetched_at": "2026-07-24T13:22:07.900860+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
-    "summary": "Rev. Ezekiel Dachomo says Fulani militia killed nine of his family and now threatens his life as the State Department condemns Christian persecution.",
-    "link": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-    "published": "Wed, 22 Jul 2026 06:00:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "20e52550a24a9079d12a589a509326f8",
-    "fetched_at": "2026-07-24T13:22:06.775244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
-    "summary": "Israel&apos;s UN ambassador called Mayor Zohran Mamdani a &quot;clown&quot; after he demanded federal authorities arrest Benjamin Netanyahu on an ICC warrant.",
-    "link": "https://www.foxnews.com/world/israeli-un-envoy-blasts-mamdani-clown-call-arrest-netanyahu-stunt",
-    "published": "Wed, 22 Jul 2026 19:35:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0554534a92f26f388849b247d2fd0d32",
-    "fetched_at": "2026-07-24T13:22:05.642778+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
-    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
-    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
-    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e5a4d932aef384538b55af5639b8bbad",
-    "fetched_at": "2026-07-24T13:22:04.514674+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
-    "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-    "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-    "published": "Fri, 24 Jul 2026 07:30:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "44fb316a93c0c37d51e0a7f739dc5a69",
-    "fetched_at": "2026-07-24T13:22:03.382907+00:00"
   }
 ]
