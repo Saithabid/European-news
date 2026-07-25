@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+    "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 05:12:57 GMT",
+    "source": "BBC News",
+    "id": "10aed7e09456774f870c8a3df75985da",
+    "fetched_at": "2026-07-25T05:17:47.854148+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+    "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 04:48:40 GMT",
+    "source": "BBC News",
+    "id": "743eae2909a9f1c7db7dfe7b1ff1efb1",
+    "fetched_at": "2026-07-25T05:17:47.854144+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
+    "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
+    "link": "http://www.euronews.com/video/2026/07/24/armoured-fighters-storm-denmarks-spottrup-castle-for-imcf-world-championship",
+    "published": "Fri, 24 Jul 2026 14:46:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2470e488f760bc83b97031bbbf6543f8",
+    "fetched_at": "2026-07-25T05:17:47.854116+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Netanyahu orders 'firm' military action after deadly West Bank clash",
+    "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
+    "link": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
+    "published": "Fri, 24 Jul 2026 15:06:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "46d71113e54297df249522b428f37ab1",
+    "fetched_at": "2026-07-25T05:17:46.716646+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 25th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-morning",
+    "published": "Sat, 25 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0649136660113e1de7c472e6c58fbb2d",
+    "fetched_at": "2026-07-25T05:17:45.576652+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
+    "source": "BBC News",
+    "id": "af6c9a01765acfed279fb6d604fd4ade",
+    "fetched_at": "2026-07-25T05:17:44.437011+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
+    "summary": "Israel&apos;s UN ambassador called Mayor Zohran Mamdani a &quot;clown&quot; after he demanded federal authorities arrest Benjamin Netanyahu on an ICC warrant.",
+    "link": "https://www.foxnews.com/world/israeli-un-envoy-blasts-mamdani-clown-call-arrest-netanyahu-stunt",
+    "published": "Wed, 22 Jul 2026 19:35:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0554534a92f26f388849b247d2fd0d32",
+    "fetched_at": "2026-07-25T05:17:43.298004+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
+    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e5a4d932aef384538b55af5639b8bbad",
+    "fetched_at": "2026-07-25T05:17:42.151027+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+    "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+    "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+    "published": "Fri, 24 Jul 2026 07:30:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "44fb316a93c0c37d51e0a7f739dc5a69",
+    "fetched_at": "2026-07-25T05:17:41.003301+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+    "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+    "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 02:23:09 GMT",
+    "source": "BBC News",
+    "id": "9577085c0e0ca06c7bdc9111fcf45fe5",
+    "fetched_at": "2026-07-25T05:17:39.846017+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
     "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
     "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "95c363207d65c6f5bc461b6febf86b3a",
     "fetched_at": "2026-07-24T17:22:35.610521+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-    "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 14:41:32 GMT",
-    "source": "BBC News",
-    "id": "844c107590a8287f9912ea1b96ab8622",
-    "fetched_at": "2026-07-24T15:21:48.104496+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Modelling scout linked to Epstein found dead in Paris",
-    "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 18:21:55 GMT",
-    "source": "BBC News",
-    "id": "1a416fd5b8f19a7046e766b9d60ff12d",
-    "fetched_at": "2026-07-24T15:21:48.104465+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 06:15:35 GMT",
-    "source": "BBC News",
-    "id": "cc8463dda311929307dcf92ce9d38419",
-    "fetched_at": "2026-07-24T15:21:46.978667+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine's ousted defence minister insists on being reinstated",
-    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
-    "source": "BBC News",
-    "id": "de4c13107047c5f6ab8814924b9c436f",
-    "fetched_at": "2026-07-24T15:21:45.815201+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 15:12:11 GMT",
-    "source": "BBC News",
-    "id": "8633dd4505a5368d0c0761032e4b57f6",
-    "fetched_at": "2026-07-24T15:21:44.665955+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
-    "summary": "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct. 7 assault.",
-    "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
-    "published": "Wed, 22 Jul 2026 08:56:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "02a1f5864b17731f5d060eab78b938af",
-    "fetched_at": "2026-07-24T15:21:43.537477+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
-    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
-    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
-    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "50f58dcdf42943dac42bfc04f484ef20",
-    "fetched_at": "2026-07-24T15:21:42.405479+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Could this African nation become Trump's next terror target as jihadists close in on power?",
-    "summary": "Mali&apos;s gold and lithium deposits add a minerals dimension as Trump&apos;s team reportedly weighs strikes against al Qaeda-linked terrorists in the Sahel.",
-    "link": "https://www.foxnews.com/world/could-african-nation-become-trumps-next-terror-target-jihadists-close-power",
-    "published": "Fri, 24 Jul 2026 11:00:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "afca52787e31ad5fedfbefe84f88cb51",
-    "fetched_at": "2026-07-24T15:21:41.245166+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Everything on the table' including retaliation as Canada plans response to US tariffs",
-    "summary": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect in August.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 13:58:34 GMT",
-    "source": "BBC News",
-    "id": "7d751c2f0f9ed969bbe47aff80fea613",
-    "fetched_at": "2026-07-24T15:21:40.092815+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oil prices hit $100 for the first time since May",
-    "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 15:31:00 GMT",
-    "source": "BBC News",
-    "id": "8f5c5a678704c4355658b5d83fd3719f",
-    "fetched_at": "2026-07-24T13:22:09.022477+00:00"
   }
 ]
