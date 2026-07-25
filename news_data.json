@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "US hits dozens of countries with new wave of tariffs",
+    "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 12:40:44 GMT",
+    "source": "BBC News",
+    "id": "2e9fe1a72808bcb787413102c6b4710a",
+    "fetched_at": "2026-07-25T11:03:19.771770+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 25th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-midday",
+    "published": "Sat, 25 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "248ce56beaaca8e0ebc75f24e9b55a70",
+    "fetched_at": "2026-07-25T11:03:18.637488+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man fatally wounded in knife attack in German bank",
+    "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
+    "link": "https://www.bbc.co.uk/news/articles/cq89k12ygq0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 18:38:05 GMT",
+    "source": "BBC News",
+    "id": "2b2c26b64ccc4df986d54452cbf637e8",
+    "fetched_at": "2026-07-25T11:03:17.513228+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+    "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+    "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 16:08:51 GMT",
+    "source": "BBC News",
+    "id": "31552352d42b693efd6c4bb4073c9197",
+    "fetched_at": "2026-07-25T11:03:16.378458+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
+    "summary": "Daniel Siad&apos;s name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.",
+    "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
+    "published": "Thu, 23 Jul 2026 17:02:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ec67a0e49579c2c7580de2c0df0d715a",
+    "fetched_at": "2026-07-25T11:03:15.245959+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Monsoon floods kill at least 41 in India's Assam state",
     "summary": "Heavy monsoon floods submerge homes and roads in Assam, India, as rescue efforts continue after at least 41 people were killed.",
     "link": "http://www.euronews.com/video/2026/07/25/assam-monsoon-flooding-kills-at-least-41-as-rescue-operations-continue",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
     "fetched_at": "2026-07-24T19:15:35.930452+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
-    "summary": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-    "published": "Thu, 23 Jul 2026 06:55:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "a45c0ce736c1fe811669158b0f8d6154",
-    "fetched_at": "2026-07-24T19:15:34.807749+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-    "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death.",
-    "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-    "published": "Thu, 23 Jul 2026 07:39:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "dd2386d9fc99b7c25ca8d37f937432e8",
-    "fetched_at": "2026-07-24T19:15:33.635482+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US measles cases reach 35-year high",
-    "summary": "There have been 2,318 confirmed cases of the virus, higher than last year's total  with five months to go.",
-    "link": "https://www.bbc.co.uk/news/articles/c36dw75dkw5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 18:18:30 GMT",
-    "source": "BBC News",
-    "id": "793fb23d8aed844c55c120952ba86df4",
-    "fetched_at": "2026-07-24T19:15:32.512154+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump vows to investigate EU over fining of US tech companies",
-    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 18:57:39 GMT",
-    "source": "BBC News",
-    "id": "23bb56a2af883e1441e87c06d6d1f914",
-    "fetched_at": "2026-07-24T19:15:31.369725+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cyclospora outbreak expands to nine US states, health officials say",
-    "summary": "Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 18:00:03 GMT",
-    "source": "BBC News",
-    "id": "bfccad8cc37a2f25f71bd28d38e02c4d",
-    "fetched_at": "2026-07-24T19:15:30.231085+00:00"
   }
 ]
