@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Monsoon floods kill at least 41 in India's Assam state",
+    "summary": "Heavy monsoon floods submerge homes and roads in Assam, India, as rescue efforts continue after at least 41 people were killed.",
+    "link": "http://www.euronews.com/video/2026/07/25/assam-monsoon-flooding-kills-at-least-41-as-rescue-operations-continue",
+    "published": "Sat, 25 Jul 2026 10:05:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "defc014954c7524ec06c941b095a47b1",
+    "fetched_at": "2026-07-25T09:39:14.220786+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ski resort in Lesotho offers rare winter escape in Africa",
+    "summary": "Skiers visit Lesotho's Afriski Mountain Resort, where snowy slopes in the Maluti Mountains attract beginners and winter sports fans from Africa.",
+    "link": "http://www.euronews.com/video/2026/07/25/ski-resort-in-lesotho-offers-rare-winter-escape-in-africa",
+    "published": "Sat, 25 Jul 2026 10:33:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a8b66b9f58d4ca9747b82d82e0dbf49e",
+    "fetched_at": "2026-07-25T09:39:13.074135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump returns to White House Correspondents' Dinner after April shooting",
+    "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
+    "link": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
+    "published": "Sat, 25 Jul 2026 10:39:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fdb817d74a9f619344e55debe91733fc",
+    "fetched_at": "2026-07-25T09:39:11.938047+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Red sun, orange sky as Madrid battles worst wildfire in its history",
+    "summary": "Wildfires near Madrid and Ávila forced tens of thousands to evacuate, turning the sky orange and the sun blood-red over affected towns.",
+    "link": "http://www.euronews.com/video/2026/07/25/red-sun-orange-sky-as-madrid-battles-worst-wildfire-in-its-history",
+    "published": "Sat, 25 Jul 2026 11:12:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "534be132c40357ff9837354b6802b4e4",
+    "fetched_at": "2026-07-25T09:39:10.803303+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally",
+    "summary": "A Romanian F-16 shot down an unauthorized drone over Buzău County, marking the first such interception in the NATO member&apos;s national airspace.",
+    "link": "https://www.foxnews.com/world/romanian-f-16-shoots-down-drone-after-airspace-breach-marking-first-nato-ally",
+    "published": "Fri, 24 Jul 2026 11:42:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f8d799e0451d1ae57989f3e134247cbd",
+    "fetched_at": "2026-07-25T09:39:09.659394+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NBA superstar LeBron James to join Philadelphia 76ers",
+    "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
+    "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 16:07:33 GMT",
+    "source": "BBC News",
+    "id": "53e3d6eebfd21b2f075db3d7248572df",
+    "fetched_at": "2026-07-25T09:39:08.514436+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wisconsin officials open investigation into fatal police shooting",
+    "summary": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
+    "link": "https://www.bbc.co.uk/news/articles/c78ge6z459xo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 22:00:09 GMT",
+    "source": "BBC News",
+    "id": "95c363207d65c6f5bc461b6febf86b3a",
+    "fetched_at": "2026-07-25T09:39:07.371828+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Four Palestinians and two Israelis killed in West Bank shooting",
     "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
     "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "bfccad8cc37a2f25f71bd28d38e02c4d",
     "fetched_at": "2026-07-24T19:15:30.231085+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-    "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 10:31:10 GMT",
-    "source": "BBC News",
-    "id": "d09703783352552adccbc90af4d43b71",
-    "fetched_at": "2026-07-24T17:22:43.598539+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria's president approves largest military expansion in recent times",
-    "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 15:22:56 GMT",
-    "source": "BBC News",
-    "id": "794df1075abb662532ba841b55a66bef",
-    "fetched_at": "2026-07-24T17:22:43.598536+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 24th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/24/latest-news-bulletin-july-24th-2026-evening",
-    "published": "Fri, 24 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "149c9acd479ad776dcddd4106f7d8ebd",
-    "fetched_at": "2026-07-24T17:22:43.598533+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suicide bomber kills 15 at security checkpoint in northwest Pakistan",
-    "summary": "Pakistan has witnessed a surge in militant attacks targeting security forces in recent years, with authorities blaming the TTP and allied groups for much of the violence.",
-    "link": "http://www.euronews.com/2026/07/24/suicide-bomber-kills-15-at-security-checkpoint-in-northwest-pakistan",
-    "published": "Fri, 24 Jul 2026 18:34:59 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fecad9a8f06fb3a73b777be60fe46069",
-    "fetched_at": "2026-07-24T17:22:43.598530+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man fatally wounded in knife attack in German bank",
-    "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
-    "link": "https://www.bbc.co.uk/news/articles/cq89k12ygq0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 18:38:05 GMT",
-    "source": "BBC News",
-    "id": "2b2c26b64ccc4df986d54452cbf637e8",
-    "fetched_at": "2026-07-24T17:22:43.598526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-    "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-    "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 16:08:51 GMT",
-    "source": "BBC News",
-    "id": "31552352d42b693efd6c4bb4073c9197",
-    "fetched_at": "2026-07-24T17:22:43.598495+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
-    "summary": "Daniel Siad&apos;s name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.",
-    "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
-    "published": "Thu, 23 Jul 2026 17:02:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ec67a0e49579c2c7580de2c0df0d715a",
-    "fetched_at": "2026-07-24T17:22:42.469665+00:00"
   }
 ]
