@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Russian central bank cuts GDP growth forecast to zero, expects faster inflation",
+    "summary": "Russia's central bank has cut its 2026 GDP forecast to 0.0-1.0% and expects faster inflation as the fuel crisis drives up prices for many goods and services, its head Elvira Nabiullina said.",
+    "link": "http://www.euronews.com/2026/07/25/russian-central-bank-cuts-gdp-growth-forecast-to-zero-expects-faster-inflation",
+    "published": "Sat, 25 Jul 2026 16:06:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "169d49c721c55de2e09e2c47ad771abe",
+    "fetched_at": "2026-07-25T14:56:41.109446+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+    "summary": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office",
+    "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+    "published": "Sat, 25 Jul 2026 10:48:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "cddb1bf814cfd301aa14ab3e9e6d863c",
+    "fetched_at": "2026-07-25T14:56:39.850712+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
+    "summary": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 17:49:11 GMT",
+    "source": "BBC News",
+    "id": "c7f7fd87eb3ef9f50eb6c559cd4e34c3",
+    "fetched_at": "2026-07-25T14:56:38.610673+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Security was tighter this time': Inside the room at Trump press dinner",
+    "summary": "The BBC's Bernd Debusmann Jr attended the rearranged dinner after the first was disrupted by a gunman.",
+    "link": "https://www.bbc.co.uk/news/videos/cm2gjrn0rvqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 06:33:22 GMT",
+    "source": "BBC News",
+    "id": "4afb68cef14239a0cb052b0ec4ae2b08",
+    "fetched_at": "2026-07-25T14:56:37.366089+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN chief urges global support for Syria during first Damascus visit since 2009",
     "summary": "United Nations Secretary-General António Guterres is the first UN chief to visit Syria since his predecessor Ban Ki-moon in 2009, two years before the start of Syria's civil war.",
     "link": "http://www.euronews.com/2026/07/25/un-chief-urges-global-support-for-syria-during-first-damascus-visit-since-2009",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "85349939a49c9b633978bf1c69121700",
     "fetched_at": "2026-07-24T20:56:31.807688+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-    "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister resigns.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-    "published": "Fri, 24 Jul 2026 01:56:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "281cb29d665aaee41a67277eca6286cb",
-    "fetched_at": "2026-07-24T20:56:30.667670+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICC member nations vote to remove chief prosecutor",
-    "summary": "Member nations voted to remove chief prosecutor Karim Khan on Friday and the Trump administration is vowing to do whatever it can to dismantle the court.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor",
-    "published": "Fri, 24 Jul 2026 16:25:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "58b1abcbbd0cd712a0d32b989dce592d",
-    "fetched_at": "2026-07-24T20:56:29.522055+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Jimothy the raccoon became the internet's latest animal obsession",
-    "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
-    "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 14:27:46 GMT",
-    "source": "BBC News",
-    "id": "fc04c97718158589b23b8e1299a01d9d",
-    "fetched_at": "2026-07-24T20:56:28.371366+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former NFL star Tony Romo arrested for driving intoxicated",
-    "summary": "Romo was arrested outside Milwaukee on Thursday night, and arrested after performing poorly on field sobriety tests.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ejgpwv95go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 20:12:48 GMT",
-    "source": "BBC News",
-    "id": "5ff99bf196438f9e5cfbc2de573977d1",
-    "fetched_at": "2026-07-24T20:56:27.198809+00:00"
   }
 ]
