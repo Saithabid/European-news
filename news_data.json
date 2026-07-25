@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "UN chief urges global support for Syria during first Damascus visit since 2009",
+    "summary": "United Nations Secretary-General António Guterres is the first UN chief to visit Syria since his predecessor Ban Ki-moon in 2009, two years before the start of Syria's civil war.",
+    "link": "http://www.euronews.com/2026/07/25/un-chief-urges-global-support-for-syria-during-first-damascus-visit-since-2009",
+    "published": "Sat, 25 Jul 2026 14:40:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a619ccb4491ec853d981ce5e22c0637d",
+    "fetched_at": "2026-07-25T13:07:13.404815+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
+    "summary": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers",
+    "published": "Sat, 25 Jul 2026 07:43:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "dda7f266b2d7bef78eafbaa0187836ad",
+    "fetched_at": "2026-07-25T13:07:12.291619+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US measles cases reach 35-year high",
+    "summary": "There have been 2,318 confirmed cases of the virus, higher than last year's total  with five months to go.",
+    "link": "https://www.bbc.co.uk/news/articles/c36dw75dkw5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:18:30 GMT",
+    "source": "BBC News",
+    "id": "793fb23d8aed844c55c120952ba86df4",
+    "fetched_at": "2026-07-25T13:07:11.183616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump vows to investigate EU over fining of US tech companies",
+    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 20:23:58 GMT",
+    "source": "BBC News",
+    "id": "23bb56a2af883e1441e87c06d6d1f914",
+    "fetched_at": "2026-07-25T13:07:10.073072+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cyclospora outbreak expands to nine US states, health officials say",
+    "summary": "Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 18:00:03 GMT",
+    "source": "BBC News",
+    "id": "bfccad8cc37a2f25f71bd28d38e02c4d",
+    "fetched_at": "2026-07-25T13:07:08.953855+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US hits dozens of countries with new wave of tariffs",
     "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
     "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "5ff99bf196438f9e5cfbc2de573977d1",
     "fetched_at": "2026-07-24T20:56:27.198809+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
-    "summary": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 17:49:11 GMT",
-    "source": "BBC News",
-    "id": "c7f7fd87eb3ef9f50eb6c559cd4e34c3",
-    "fetched_at": "2026-07-24T20:56:26.038957+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-    "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-    "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 13:33:06 GMT",
-    "source": "BBC News",
-    "id": "9f3e028c6a4c1d035fafb317370a151e",
-    "fetched_at": "2026-07-24T19:15:38.199428+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfires up 57% in Europe in just four years, WHO warns",
-    "summary": "As wildfires rage across parts of Europe, the WHO has warned of a sharp rise in wildfires across the region and their growing toll on human health.",
-    "link": "http://www.euronews.com/2026/07/24/wildfires-up-57-in-europe-in-just-four-years-who-warns",
-    "published": "Fri, 24 Jul 2026 20:01:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "87fcfb8da5fb3e0f43357d40a98a50e3",
-    "fetched_at": "2026-07-24T19:15:38.199371+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump and Zelenskyy to meet in Washington next week",
-    "summary": "Kyiv did not immediately confirm whether President Volodymyr Zelenskyy will meet President Donald Trump in Washington next week or attend the funeral of Senator Lindsey Graham",
-    "link": "http://www.euronews.com/2026/07/24/trump-and-zelenskyy-to-meet-in-washington-next-week",
-    "published": "Fri, 24 Jul 2026 20:19:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "47b46ef11a31eec2b3fd090e044d389c",
-    "fetched_at": "2026-07-24T19:15:37.070472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-    "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 15:19:48 GMT",
-    "source": "BBC News",
-    "id": "ec2d64e4d0a89e7051eec4e75e0b9210",
-    "fetched_at": "2026-07-24T19:15:35.930452+00:00"
   }
 ]
