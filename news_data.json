@@ -1,5 +1,85 @@
 [
   {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 25th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-evening",
+    "published": "Sat, 25 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4e276a69bd164039abb7b500faef54b4",
+    "fetched_at": "2026-07-26T16:51:29.764048+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN chief calls for end of all sanctions on Syria during second day of visit",
+    "summary": "Western countries including the United States have announced the easing of sanctions on Syria, but investors have remained cautious.",
+    "link": "http://www.euronews.com/2026/07/26/un-chief-calls-for-end-of-all-sanctions-on-syria-during-second-day-of-visit",
+    "published": "Sun, 26 Jul 2026 17:02:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5c497dc5c7d439caa6f951c3308234fd",
+    "fetched_at": "2026-07-26T16:51:28.638578+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 26th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/26/latest-news-bulletin-july-26th-2026-evening",
+    "published": "Sun, 26 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a158bdd10cf30a14c7ed88d8b80bd23c",
+    "fetched_at": "2026-07-26T16:51:27.515924+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Berlin Pride attack believed to be an act of Islamic terror, suspect on the run: German minister",
+    "summary": "German authorities say Abdul Ballout, linked to Berlin&apos;s Islamist scene, remains armed and dangerous after the deadly attack near the Pride festival.",
+    "link": "https://www.foxnews.com/world/berlin-pride-attack-believed-act-islamic-terror-suspect-run-german-minister",
+    "published": "Sun, 26 Jul 2026 11:20:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "91a2e971074675ffbb877a2d15934a87",
+    "fetched_at": "2026-07-26T16:51:26.387710+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto police investigate gunfire, vandalism targeting Jewish-owned bakery chain",
+    "summary": "Toronto police say gunfire struck one location of a Jewish-owned bakery chain while a second sustained window damage, prompting a hate crime investigation.",
+    "link": "https://www.foxnews.com/world/toronto-police-investigate-gunfire-vandalism-targeting-jewish-owned-bakery-chain",
+    "published": "Sun, 26 Jul 2026 12:19:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "19498ec6e0ee769d0a16363f3c6a8f3e",
+    "fetched_at": "2026-07-26T16:51:25.274293+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICC member nations vote to remove chief prosecutor",
+    "summary": "Member nations voted to remove chief prosecutor Karim Khan on Friday and the Trump administration is vowing to do whatever it can to dismantle the court.",
+    "link": "https://www.npr.org/2026/07/24/nx-s1-5901054/icc-member-nations-vote-to-remove-chief-prosecutor",
+    "published": "Fri, 24 Jul 2026 16:25:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "58b1abcbbd0cd712a0d32b989dce592d",
+    "fetched_at": "2026-07-26T16:51:24.142708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
+    "summary": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
+    "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+    "published": "Sat, 25 Jul 2026 10:48:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "cddb1bf814cfd301aa14ab3e9e6d863c",
+    "fetched_at": "2026-07-26T16:51:23.005519+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
+    "summary": "A bridge linking Michigan to Ontario is about to open but Canada disinvited US dignitaries from Friday's ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 17:49:11 GMT",
+    "source": "BBC News",
+    "id": "c7f7fd87eb3ef9f50eb6c559cd4e34c3",
+    "fetched_at": "2026-07-26T16:51:21.863001+00:00"
+  },
+  {
     "region": "USA",
     "title": "The cooling crisis: How climate change forced air conditioning onto France's agenda",
     "summary": "For a country that's never needed -- and often looked down on -- air conditioning, this has been a summer of reckoning. As France suffers through successive extreme heatwaves, AC has become a political issue too.",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b56db29d264026c5b12a5f7dd46ad275",
     "fetched_at": "2026-07-25T20:41:57.792380+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India's 'cockroach' protest called off after education minister quits",
-    "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 17:44:46 GMT",
-    "source": "BBC News",
-    "id": "0be6f20673f2f3086323008094e193a6",
-    "fetched_at": "2026-07-25T18:56:31.871217+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 250,000 flee wildfires in France and Spain",
-    "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 17:13:40 GMT",
-    "source": "BBC News",
-    "id": "96300ea9ab0f34d83377db8528327ba4",
-    "fetched_at": "2026-07-25T18:56:30.746750+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brazil's Flávio Bolsonaro to challenge Lula after winning party nomination",
-    "summary": "Flávio Bolsonaro received backing from Argentine President Javier Milei and a message of support from Israeli Prime Minister Benjamin Netanyahu, while he seeks further endorsements from allies of US President Donald Trump",
-    "link": "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination",
-    "published": "Sat, 25 Jul 2026 19:56:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2e23b91d968d5f2927f36ee0a0162def",
-    "fetched_at": "2026-07-25T18:56:29.635971+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ICC top prosecutor removed over sexual misconduct allegations",
-    "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 21:02:30 GMT",
-    "source": "BBC News",
-    "id": "d15308f6ad42528bf16f18028cb1b3df",
-    "fetched_at": "2026-07-25T18:56:28.521518+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France records more than 5,700 excess deaths during historic early summer heat wave",
-    "summary": "More than 5,700 excess deaths were recorded during France&apos;s unprecedented June heat wave, making it the country&apos;s deadliest since 2003, health officials said.",
-    "link": "https://www.foxnews.com/world/france-records-5700-excess-deaths-historic-early-summer-heat-wave",
-    "published": "Wed, 22 Jul 2026 16:30:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "16a287903ade3922b7923cb76a025bfb",
-    "fetched_at": "2026-07-25T18:56:27.412399+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICC member states vote to remove chief prosecutor Karim Khan",
-    "summary": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
-    "link": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
-    "published": "Fri, 24 Jul 2026 17:37:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "82bd318003098e90d1f6dcd81736499e",
-    "fetched_at": "2026-07-25T18:56:26.291381+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India's 'Cockroach' movement ends protests after education minister resigns",
-    "summary": "Dharmendra Pradhan announced his resignation in a post on X, handing a major victory to the youth movement that spearheaded nationwide demonstrations, sit-ins and hunger strikes.",
-    "link": "http://www.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns",
-    "published": "Sat, 25 Jul 2026 17:39:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e476245065e171e16cb924b67dc566fd",
-    "fetched_at": "2026-07-25T16:49:00.590234+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The toll of the tragedy one month after Venezuela's double earthquake",
-    "summary": "One month after twin earthquakes in Venezuela, the official toll is over 5,500 dead and 16,700 injured; damage is put at 19.6 billion dollars. Thousands remain homeless and the number of missing has not been updated since late June.",
-    "link": "http://www.euronews.com/2026/07/25/the-toll-of-the-tragedy-one-month-after-venezuelas-double-earthquake",
-    "published": "Sat, 25 Jul 2026 17:52:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fb771545d329a3edead2b14c448a34f1",
-    "fetched_at": "2026-07-25T16:48:59.482382+00:00"
   }
 ]
