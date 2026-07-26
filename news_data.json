@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "India's 'cockroach' protest called off after education minister quits",
+    "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 17:44:46 GMT",
+    "source": "BBC News",
+    "id": "0be6f20673f2f3086323008094e193a6",
+    "fetched_at": "2026-07-26T19:00:28.174088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Brazil's Flávio Bolsonaro to challenge Lula after winning party nomination",
+    "summary": "Flávio Bolsonaro received backing from Argentine President Javier Milei and a message of support from Israeli Prime Minister Benjamin Netanyahu, while he seeks further endorsements from allies of US President Donald Trump",
+    "link": "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination",
+    "published": "Sat, 25 Jul 2026 19:56:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2e23b91d968d5f2927f36ee0a0162def",
+    "fetched_at": "2026-07-26T19:00:27.058054+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine responds as Kazakh president Tokayev urges Putin to freeze the war in Ukraine",
+    "summary": "Kazakh president Kassym-Jomart Tokayev urged Vladimir Putin in a face-to-face meeting to freeze the war in Ukraine and return to negotiations as \"it is a shame, young people are dying\". Ukrainian Foreign Minister Andrii Sybiha called it \"a realistic, timely, and wise message.\"",
+    "link": "http://www.euronews.com/2026/07/26/ukraine-responds-as-kazakh-president-tokayev-urges-putin-to-freeze-the-war-in-ukraine",
+    "published": "Sun, 26 Jul 2026 20:27:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f9ca73e94c65dcc0aeb285c2e1bc1341",
+    "fetched_at": "2026-07-26T19:00:25.952891+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "ICC top prosecutor removed over sexual misconduct allegations",
+    "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 21:02:30 GMT",
+    "source": "BBC News",
+    "id": "d15308f6ad42528bf16f18028cb1b3df",
+    "fetched_at": "2026-07-26T19:00:24.843616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICC member states vote to remove chief prosecutor Karim Khan",
+    "summary": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.",
+    "link": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
+    "published": "Fri, 24 Jul 2026 17:37:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "82bd318003098e90d1f6dcd81736499e",
+    "fetched_at": "2026-07-26T19:00:23.739643+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+    "summary": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+    "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+    "published": "Sun, 26 Jul 2026 13:16:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "7c28d8bfc52bbdd23aaf4bb810715d97",
+    "fetched_at": "2026-07-26T19:00:22.630204+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+    "summary": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+    "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+    "published": "Sun, 26 Jul 2026 14:13:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "1e4c76fd1bbf0dfe47708270cb7a3200",
+    "fetched_at": "2026-07-26T19:00:21.512005+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+    "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 18:04:53 GMT",
+    "source": "BBC News",
+    "id": "6cb527d320eed23f77ee9aa2f1e1f61e",
+    "fetched_at": "2026-07-26T19:00:20.389407+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | July 25th, 2026 – Evening",
     "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-evening",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "5a1cf499d1058d4bb3ce4505b7e87b50",
     "fetched_at": "2026-07-25T22:45:36.784763+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-    "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-    "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 02:14:50 GMT",
-    "source": "BBC News",
-    "id": "c3f5d04fff84891813e9b19c5ecb84cc",
-    "fetched_at": "2026-07-25T22:45:35.641717+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary opens fairy tale themed 4.5-hectare corn maze for visitors to explore",
-    "summary": "Since 2008, a group of enthusiastic locals has been picking up hoes and measuring tools each year to create one of the region's biggest attractions.",
-    "link": "http://www.euronews.com/2026/07/25/hungary-opens-fairy-tale-themed-45-hectare-corn-maze-for-visitors-to-explore",
-    "published": "Sat, 25 Jul 2026 21:49:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a46184f35cfc039cc79c3636c034c9ba",
-    "fetched_at": "2026-07-25T20:42:04.616459+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy shuts down effort linked to Gaza flotilla group to track Jewish, Israeli tourists",
-    "summary": "An anonymous online form asked the public to report locations of Israeli tourists and Italian Jews, drawing comparisons to fascist-era persecution.",
-    "link": "https://www.foxnews.com/world/italy-shuts-down-effort-linked-gaza-flotilla-group-track-jewish-israeli-tourists",
-    "published": "Wed, 22 Jul 2026 14:22:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5c75ce82d2a5b854603b8785c6a083c1",
-    "fetched_at": "2026-07-25T20:42:03.475199+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is Israel really isolated? Polls and diplomacy point in opposite directions",
-    "summary": "Trump says the Saudi Arabia nuclear deal hinges on joining the Abraham Accords, as experts debate whether Israel faces isolation or expanding ties.",
-    "link": "https://www.foxnews.com/world/israel-really-isolated-polls-diplomacy-point-opposite-directions",
-    "published": "Fri, 24 Jul 2026 06:00:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "009e90f9525ff19af0fb00b9c1163013",
-    "fetched_at": "2026-07-25T20:42:02.340818+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICC prosecutor whose Netanyahu warrant fueled Mamdani arrest threat is fired over sexual misconduct",
-    "summary": "ICC member states voted to remove chief prosecutor Karim Khan over sexual misconduct allegations, marking the first such dismissal in the court&apos;s history. His lawyer says he will appeal decision.",
-    "link": "https://www.foxnews.com/world/icc-prosecutor-whose-netanyahu-warrant-fueled-mamdani-arrest-threat-fired-over-sexual-misconduct",
-    "published": "Fri, 24 Jul 2026 17:10:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b45f7805bd580a27b761b2db9866aae2",
-    "fetched_at": "2026-07-25T20:42:01.193299+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-    "summary": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-    "published": "Fri, 24 Jul 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "13234baf1c224df1b4bef5ab2ecb5503",
-    "fetched_at": "2026-07-25T20:42:00.051555+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
-    "summary": "Australia and the European Union were among U.S. trade partners who criticized the tariffs.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-    "published": "Fri, 24 Jul 2026 06:31:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "c04bbfcd1d77bd739e67c358783993a7",
-    "fetched_at": "2026-07-25T20:41:58.925766+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How the Houthis blockade of the Red Sea could affect the global economy",
-    "summary": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
-    "published": "Fri, 24 Jul 2026 06:44:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "b56db29d264026c5b12a5f7dd46ad275",
-    "fetched_at": "2026-07-25T20:41:57.792380+00:00"
   }
 ]
