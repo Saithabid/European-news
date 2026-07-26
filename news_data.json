@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+    "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+    "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 23:01:06 GMT",
+    "source": "BBC News",
+    "id": "99ae8eb293a7688ea8e13af1d754f865",
+    "fetched_at": "2026-07-26T02:03:42.662968+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
+    "summary": "Israel&apos;s UN ambassador called Mayor Zohran Mamdani a &quot;clown&quot; after he demanded federal authorities arrest Benjamin Netanyahu on an ICC warrant.",
+    "link": "https://www.foxnews.com/world/israeli-un-envoy-blasts-mamdani-clown-call-arrest-netanyahu-stunt",
+    "published": "Wed, 22 Jul 2026 19:35:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0554534a92f26f388849b247d2fd0d32",
+    "fetched_at": "2026-07-26T02:03:41.570512+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+    "summary": "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
+    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+    "published": "Thu, 23 Jul 2026 00:39:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e5a4d932aef384538b55af5639b8bbad",
+    "fetched_at": "2026-07-26T02:03:40.474796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+    "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+    "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+    "published": "Fri, 24 Jul 2026 07:30:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "44fb316a93c0c37d51e0a7f739dc5a69",
+    "fetched_at": "2026-07-26T02:03:39.366441+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France and Spain fires force more than 200,000 to flee homes",
+    "summary": "At least one person has died in a fire in Spain, according to officials.",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+    "published": "Sat, 25 Jul 2026 21:05:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "3f34bd10879e344376eb740d8337be5e",
+    "fetched_at": "2026-07-26T02:03:38.264677+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One dead, several injured after vehicle plows through crowd at LGBTQ+ event in Germany",
+    "summary": "A search is underway for one or two suspects, according to Berlin police.",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured",
+    "published": "Sat, 25 Jul 2026 21:10:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "7bbb6685e092049a506712ca392dd4b7",
+    "fetched_at": "2026-07-26T02:03:37.148738+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+    "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+    "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 02:23:09 GMT",
+    "source": "BBC News",
+    "id": "9577085c0e0ca06c7bdc9111fcf45fe5",
+    "fetched_at": "2026-07-26T02:03:36.030606+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
     "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
     "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "50f58dcdf42943dac42bfc04f484ef20",
     "fetched_at": "2026-07-25T07:54:19.600830+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Could this African nation become Trump's next terror target as jihadists close in on power?",
-    "summary": "Mali&apos;s gold and lithium deposits add a minerals dimension as Trump&apos;s team reportedly weighs strikes against al Qaeda-linked terrorists in the Sahel.",
-    "link": "https://www.foxnews.com/world/could-african-nation-become-trumps-next-terror-target-jihadists-close-power",
-    "published": "Fri, 24 Jul 2026 11:00:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "afca52787e31ad5fedfbefe84f88cb51",
-    "fetched_at": "2026-07-25T07:54:18.479882+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump pokes fun at press during White House Correspondents' Dinner",
-    "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 05:12:57 GMT",
-    "source": "BBC News",
-    "id": "10aed7e09456774f870c8a3df75985da",
-    "fetched_at": "2026-07-25T05:17:47.854148+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
-    "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 04:48:40 GMT",
-    "source": "BBC News",
-    "id": "743eae2909a9f1c7db7dfe7b1ff1efb1",
-    "fetched_at": "2026-07-25T05:17:47.854144+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
-    "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
-    "link": "http://www.euronews.com/video/2026/07/24/armoured-fighters-storm-denmarks-spottrup-castle-for-imcf-world-championship",
-    "published": "Fri, 24 Jul 2026 14:46:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2470e488f760bc83b97031bbbf6543f8",
-    "fetched_at": "2026-07-25T05:17:47.854116+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu orders 'firm' military action after deadly West Bank clash",
-    "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
-    "link": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
-    "published": "Fri, 24 Jul 2026 15:06:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "46d71113e54297df249522b428f37ab1",
-    "fetched_at": "2026-07-25T05:17:46.716646+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 25th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-morning",
-    "published": "Sat, 25 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0649136660113e1de7c472e6c58fbb2d",
-    "fetched_at": "2026-07-25T05:17:45.576652+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
-    "source": "BBC News",
-    "id": "af6c9a01765acfed279fb6d604fd4ade",
-    "fetched_at": "2026-07-25T05:17:44.437011+00:00"
   }
 ]
