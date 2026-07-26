@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 22:49:59 GMT",
+    "source": "BBC News",
+    "id": "844c107590a8287f9912ea1b96ab8622",
+    "fetched_at": "2026-07-26T09:52:27.035629+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What we know so far about the Berlin Pride ramming attack",
+    "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+    "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 09:18:33 GMT",
+    "source": "BBC News",
+    "id": "089606385314317d9e6e1d82513f7644",
+    "fetched_at": "2026-07-26T09:52:25.914400+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's ousted defence minister insists on being reinstated",
+    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
+    "source": "BBC News",
+    "id": "de4c13107047c5f6ab8814924b9c436f",
+    "fetched_at": "2026-07-26T09:52:24.677038+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 00:06:53 GMT",
+    "source": "BBC News",
+    "id": "8633dd4505a5368d0c0761032e4b57f6",
+    "fetched_at": "2026-07-26T09:52:23.558713+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+    "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 09:16:46 GMT",
+    "source": "BBC News",
+    "id": "0308a7a143adf82f864d6ebea11a17a2",
+    "fetched_at": "2026-07-26T09:52:22.443812+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
     "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
     "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "ec67a0e49579c2c7580de2c0df0d715a",
     "fetched_at": "2026-07-25T11:03:15.245959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Monsoon floods kill at least 41 in India's Assam state",
-    "summary": "Heavy monsoon floods submerge homes and roads in Assam, India, as rescue efforts continue after at least 41 people were killed.",
-    "link": "http://www.euronews.com/video/2026/07/25/assam-monsoon-flooding-kills-at-least-41-as-rescue-operations-continue",
-    "published": "Sat, 25 Jul 2026 10:05:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "defc014954c7524ec06c941b095a47b1",
-    "fetched_at": "2026-07-25T09:39:14.220786+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ski resort in Lesotho offers rare winter escape in Africa",
-    "summary": "Skiers visit Lesotho's Afriski Mountain Resort, where snowy slopes in the Maluti Mountains attract beginners and winter sports fans from Africa.",
-    "link": "http://www.euronews.com/video/2026/07/25/ski-resort-in-lesotho-offers-rare-winter-escape-in-africa",
-    "published": "Sat, 25 Jul 2026 10:33:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a8b66b9f58d4ca9747b82d82e0dbf49e",
-    "fetched_at": "2026-07-25T09:39:13.074135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump returns to White House Correspondents' Dinner after April shooting",
-    "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
-    "link": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
-    "published": "Sat, 25 Jul 2026 10:39:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fdb817d74a9f619344e55debe91733fc",
-    "fetched_at": "2026-07-25T09:39:11.938047+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Red sun, orange sky as Madrid battles worst wildfire in its history",
-    "summary": "Wildfires near Madrid and Ávila forced tens of thousands to evacuate, turning the sky orange and the sun blood-red over affected towns.",
-    "link": "http://www.euronews.com/video/2026/07/25/red-sun-orange-sky-as-madrid-battles-worst-wildfire-in-its-history",
-    "published": "Sat, 25 Jul 2026 11:12:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "534be132c40357ff9837354b6802b4e4",
-    "fetched_at": "2026-07-25T09:39:10.803303+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally",
-    "summary": "A Romanian F-16 shot down an unauthorized drone over Buzău County, marking the first such interception in the NATO member&apos;s national airspace.",
-    "link": "https://www.foxnews.com/world/romanian-f-16-shoots-down-drone-after-airspace-breach-marking-first-nato-ally",
-    "published": "Fri, 24 Jul 2026 11:42:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f8d799e0451d1ae57989f3e134247cbd",
-    "fetched_at": "2026-07-25T09:39:09.659394+00:00"
   }
 ]
