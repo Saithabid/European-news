@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+    "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 06:34:40 GMT",
+    "source": "BBC News",
+    "id": "743eae2909a9f1c7db7dfe7b1ff1efb1",
+    "fetched_at": "2026-07-26T06:30:51.460420+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Chickenpox sweeps Gaza camps as thousands of cases emerge in two weeks",
+    "summary": "Doctors say the real scale of the outbreak is likely far larger, as overcrowding makes isolation impossible, and families of six or more share tents of a few square metres. Thousands of children born during the war could not complete their vaccination, leaving the most vulnerable without protection.",
+    "link": "http://www.euronews.com/2026/07/26/chickenpox-sweeps-gaza-camps-as-thousands-of-cases-emerge-in-two-weeks",
+    "published": "Sun, 26 Jul 2026 07:00:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d74db0782562c49e0932ba6a1006e9e8",
+    "fetched_at": "2026-07-26T06:30:50.322320+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 26th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/26/latest-news-bulletin-july-26th-2026-morning",
+    "published": "Sun, 26 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e929e36ba7c7500384dea2137353cf95",
+    "fetched_at": "2026-07-26T06:30:49.167420+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+    "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 21:33:01 GMT",
+    "source": "BBC News",
+    "id": "af6c9a01765acfed279fb6d604fd4ade",
+    "fetched_at": "2026-07-26T06:30:48.021215+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could this African nation become Trump's next terror target as jihadists close in on power?",
+    "summary": "Mali&apos;s gold and lithium deposits add a minerals dimension as Trump&apos;s team reportedly weighs strikes against al Qaeda-linked terrorists in the Sahel.",
+    "link": "https://www.foxnews.com/world/could-african-nation-become-trumps-next-terror-target-jihadists-close-power",
+    "published": "Fri, 24 Jul 2026 11:00:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "afca52787e31ad5fedfbefe84f88cb51",
+    "fetched_at": "2026-07-26T06:30:46.865835+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+    "summary": "Berlin police <a href=\"https://x.com/polizeiberlin/status/2081188935871418557?s=20\" target=\"_blank\">said</a> they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+    "published": "Sat, 25 Jul 2026 21:10:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "14493aac32f3d3327a3de15b09e041ce",
+    "fetched_at": "2026-07-26T06:30:45.716969+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+    "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 25 Jul 2026 13:51:07 GMT",
+    "source": "BBC News",
+    "id": "10aed7e09456774f870c8a3df75985da",
+    "fetched_at": "2026-07-26T06:30:44.551753+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
     "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
     "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "f8d799e0451d1ae57989f3e134247cbd",
     "fetched_at": "2026-07-25T09:39:09.659394+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NBA superstar LeBron James to join Philadelphia 76ers",
-    "summary": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
-    "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 16:07:33 GMT",
-    "source": "BBC News",
-    "id": "53e3d6eebfd21b2f075db3d7248572df",
-    "fetched_at": "2026-07-25T09:39:08.514436+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wisconsin officials open investigation into fatal police shooting",
-    "summary": "Corey Ruiz, 38, was shot and killed on Wednesday in an altercation with four officers. Police say he resisted arrest and pulled a knife during the incident.",
-    "link": "https://www.bbc.co.uk/news/articles/c78ge6z459xo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 22:00:09 GMT",
-    "source": "BBC News",
-    "id": "95c363207d65c6f5bc461b6febf86b3a",
-    "fetched_at": "2026-07-25T09:39:07.371828+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-    "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 22:49:59 GMT",
-    "source": "BBC News",
-    "id": "844c107590a8287f9912ea1b96ab8622",
-    "fetched_at": "2026-07-25T07:54:23.997501+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tunisia marks Saied's emergency measures anniversary amid deadly power crisis",
-    "summary": "Between 150 and 200 people are reported dead after more than a week of blackouts during an exceptional heatwave, as Tunisia marks five years since President Kais Saied suspended parliament and concentrated power in the presidency. The authorities have not confirmed the death toll.",
-    "link": "http://www.euronews.com/2026/07/25/tunisia-marks-saieds-emergency-measures-anniversary-amid-deadly-power-crisis",
-    "published": "Sat, 25 Jul 2026 07:30:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8cfc8338a837d6be4a7bc04a6a85eb93",
-    "fetched_at": "2026-07-25T07:54:22.915206+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine's ousted defence minister insists on being reinstated",
-    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
-    "source": "BBC News",
-    "id": "de4c13107047c5f6ab8814924b9c436f",
-    "fetched_at": "2026-07-25T07:54:21.811958+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 00:06:53 GMT",
-    "source": "BBC News",
-    "id": "8633dd4505a5368d0c0761032e4b57f6",
-    "fetched_at": "2026-07-25T07:54:20.709931+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
-    "summary": "Marco Rubio accuses Iran of flying IRGC members into Yemen, saying the flights helped ignite a renewed confrontation between Saudi Arabia and the Houthis.",
-    "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
-    "published": "Wed, 22 Jul 2026 10:05:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "50f58dcdf42943dac42bfc04f484ef20",
-    "fetched_at": "2026-07-25T07:54:19.600830+00:00"
   }
 ]
