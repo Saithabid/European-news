@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+    "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 10:26:05 GMT",
+    "source": "BBC News",
+    "id": "e14f2b4d8f80aabc657e2d91ba658572",
+    "fetched_at": "2026-07-26T11:14:50.421359+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 26th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/26/latest-news-bulletin-july-26th-2026-midday",
+    "published": "Sun, 26 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "061ce566aaabd83564009cb0b82472d9",
+    "fetched_at": "2026-07-26T11:14:49.275427+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine strikes Russian Iran-bound cargo as Iran war widens",
+    "summary": "Ukraine says it has struck long-range routes moving Russian military equipment linked to Iran, while Zelensky claims Moscow gave Tehran satellite data for attacks on US sites in the Middle East.",
+    "link": "http://www.euronews.com/2026/07/26/ukraine-strikes-russian-iran-bound-cargo-as-iran-war-widens",
+    "published": "Sun, 26 Jul 2026 13:06:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "38b363b17afd9db98c8f59a127775faf",
+    "fetched_at": "2026-07-26T11:14:48.113379+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally",
+    "summary": "A Romanian F-16 shot down an unauthorized drone over Buzău County, marking the first such interception in the NATO member&apos;s national airspace.",
+    "link": "https://www.foxnews.com/world/romanian-f-16-shoots-down-drone-after-airspace-breach-marking-first-nato-ally",
+    "published": "Fri, 24 Jul 2026 11:42:02 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f8d799e0451d1ae57989f3e134247cbd",
+    "fetched_at": "2026-07-26T11:14:46.961002+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lebanese displaced by war turn to satellites to check their homes",
+    "summary": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+    "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+    "published": "Sun, 26 Jul 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "12e28f03435b929ce06cdb1f016533a7",
+    "fetched_at": "2026-07-26T11:14:45.803662+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Four Palestinians and two Israelis killed in West Bank shooting",
     "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
     "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "bfccad8cc37a2f25f71bd28d38e02c4d",
     "fetched_at": "2026-07-25T13:07:08.953855+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US hits dozens of countries with new wave of tariffs",
-    "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 12:40:44 GMT",
-    "source": "BBC News",
-    "id": "2e9fe1a72808bcb787413102c6b4710a",
-    "fetched_at": "2026-07-25T11:03:19.771770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 25th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/25/latest-news-bulletin-july-25th-2026-midday",
-    "published": "Sat, 25 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "248ce56beaaca8e0ebc75f24e9b55a70",
-    "fetched_at": "2026-07-25T11:03:18.637488+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man fatally wounded in knife attack in German bank",
-    "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
-    "link": "https://www.bbc.co.uk/news/articles/cq89k12ygq0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 18:38:05 GMT",
-    "source": "BBC News",
-    "id": "2b2c26b64ccc4df986d54452cbf637e8",
-    "fetched_at": "2026-07-25T11:03:17.513228+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-    "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-    "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 16:08:51 GMT",
-    "source": "BBC News",
-    "id": "31552352d42b693efd6c4bb4073c9197",
-    "fetched_at": "2026-07-25T11:03:16.378458+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
-    "summary": "Daniel Siad&apos;s name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.",
-    "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
-    "published": "Thu, 23 Jul 2026 17:02:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ec67a0e49579c2c7580de2c0df0d715a",
-    "fetched_at": "2026-07-25T11:03:15.245959+00:00"
   }
 ]
