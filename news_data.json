@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Ukraine keeps up long-range strikes on Russian export and oil facilities as pressure on Moscow builds",
+    "summary": "Ukrainian President Volodymyr Zelenskyy said his forces had struck an export terminal in the western Rostov region, as well as oil facilities in the Yaroslavl and Udmurtia regions far from the front line.",
+    "link": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo",
+    "published": "Mon, 27 Jul 2026 21:54:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "691c4f3f94d7550e3e6e6c967062c677",
+    "fetched_at": "2026-07-27T21:04:18.535073+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
+    "summary": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 09:52:21 GMT",
+    "source": "BBC News",
+    "id": "db183180524a1c061a3977386132bcf6",
+    "fetched_at": "2026-07-27T21:04:17.382638+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
+    "summary": "Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+    "published": "Sat, 25 Jul 2026 21:10:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "14493aac32f3d3327a3de15b09e041ce",
+    "fetched_at": "2026-07-27T21:04:16.204616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can the U.S. and Iran take the off-ramp?",
+    "summary": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
+    "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+    "published": "Mon, 27 Jul 2026 01:57:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "bed3b0ec8bc14f5077368e1f7ce978f8",
+    "fetched_at": "2026-07-27T21:04:15.027989+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US mother's mental health was getting 'worse and worse' before her children's  murders, ex-husband says",
+    "summary": "Prosecutors say Lindsay Clancy  \"knew exactly what she was doing\" and made a \"calculated\" decision to kill the three small children.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5lv820586o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 20:36:12 GMT",
+    "source": "BBC News",
+    "id": "51b1370b65265966355ff01cc258bbb9",
+    "fetched_at": "2026-07-27T21:04:13.865802+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
+    "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 19:54:24 GMT",
+    "source": "BBC News",
+    "id": "2966c3c60a65eddf3a2c9b1ef3d15352",
+    "fetched_at": "2026-07-27T21:04:12.686599+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Berlin Pride attack suspect shot and killed during police operation",
     "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
     "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "7382f064d3c08a26149b5c588b24594d",
     "fetched_at": "2026-07-27T11:12:35.975866+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine's ousted defence minister insists on being reinstated",
-    "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-    "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 17:37:59 GMT",
-    "source": "BBC News",
-    "id": "de4c13107047c5f6ab8814924b9c436f",
-    "fetched_at": "2026-07-27T11:12:35.975837+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-    "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-    "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 25 Jul 2026 00:06:53 GMT",
-    "source": "BBC News",
-    "id": "8633dd4505a5368d0c0761032e4b57f6",
-    "fetched_at": "2026-07-27T11:12:34.838777+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
-    "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 11:03:15 GMT",
-    "source": "BBC News",
-    "id": "013fad0fe07d4a4c4194ac3fe70c7015",
-    "fetched_at": "2026-07-27T11:12:33.681441+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally",
-    "summary": "A Romanian F-16 shot down an unauthorized drone over Buzău County, marking the first such interception in the NATO member&apos;s national airspace.",
-    "link": "https://www.foxnews.com/world/romanian-f-16-shoots-down-drone-after-airspace-breach-marking-first-nato-ally",
-    "published": "Fri, 24 Jul 2026 11:42:02 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f8d799e0451d1ae57989f3e134247cbd",
-    "fetched_at": "2026-07-27T11:12:32.545504+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lebanese displaced by war turn to satellites to check their homes",
-    "summary": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
-    "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-    "published": "Sun, 26 Jul 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "12e28f03435b929ce06cdb1f016533a7",
-    "fetched_at": "2026-07-27T11:12:31.407982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-    "summary": "In southern France a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
-    "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-    "published": "Mon, 27 Jul 2026 06:50:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "40ae98a218fd5b498bac92c33be2c3bd",
-    "fetched_at": "2026-07-27T11:12:30.267582+00:00"
   }
 ]
