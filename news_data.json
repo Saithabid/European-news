@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 01:53:58 GMT",
+    "source": "BBC News",
+    "id": "6111518e11d6c2e1f23ba5ca75ddbc9e",
+    "fetched_at": "2026-07-28T04:58:22.697880+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seattle police say shooting incident at food festival over the weekend may have been gang related",
+    "summary": "The shooting incident killed three people, one of them now identified as one of the shooters, and injured four others, including a two-year-old boy, according to Seattle police.",
+    "link": "http://www.euronews.com/2026/07/28/seattle-police-say-shooting-incident-at-food-festival-over-the-weekend-may-have-been-gang-",
+    "published": "Tue, 28 Jul 2026 06:26:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e532062321d6dd80e8fce24ab790a127",
+    "fetched_at": "2026-07-28T04:58:21.593335+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump vows to investigate EU over fining of US tech companies",
+    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 24 Jul 2026 20:23:58 GMT",
+    "source": "BBC News",
+    "id": "23bb56a2af883e1441e87c06d6d1f914",
+    "fetched_at": "2026-07-28T04:58:20.470913+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+    "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 12:33:31 GMT",
+    "source": "BBC News",
+    "id": "b2078bbf1a31be4c982738bea941b8d7",
+    "fetched_at": "2026-07-28T04:58:19.362312+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Africa’s illegal migration backlash mirrors political battles across the West",
+    "summary": "Over 160,000 immigrants have fled as the March and March movement goes house-to-house demanding foreigners leave amid 32.7% unemployment rate.",
+    "link": "https://www.foxnews.com/world/south-africas-illegal-migration-backlash-mirrors-political-battles-across-west",
+    "published": "Sun, 26 Jul 2026 07:17:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fc4b267c0f16e43a1940a0f840de34af",
+    "fetched_at": "2026-07-28T04:58:18.238589+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wildfires displace more than 250,000 in France, threaten famed wine region",
+    "summary": "The Gironde fire has burned 162 square miles as 2,500 firefighters and 1,500 soldiers battle the blaze advancing erratically toward Bordeaux.",
+    "link": "https://www.foxnews.com/world/wildfires-displace-250000-france-threaten-famed-wine-region",
+    "published": "Sun, 26 Jul 2026 08:20:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dfc0d7dae487154471c8d008de8aa828",
+    "fetched_at": "2026-07-28T04:58:17.127983+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I just found all the classified stuff downstairs' - Biden to ghostwriter",
+    "summary": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
+    "link": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 03:20:20 GMT",
+    "source": "BBC News",
+    "id": "48ee5d969119ee278e17461176f3a81c",
+    "fetched_at": "2026-07-28T04:58:16.016198+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "China's new challenge as natural disasters strike - fake AI videos",
     "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
     "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "adf8dcead7223ff3f213ea40a9bf7bd9",
     "fetched_at": "2026-07-27T17:37:05.281995+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
-    "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
-    "link": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 12:28:07 GMT",
-    "source": "BBC News",
-    "id": "612ae3dff72d8e2086e87f8da525a19d",
-    "fetched_at": "2026-07-27T14:15:10.610453+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Carly Simon reveals Parkinson's diagnosis",
-    "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 14:04:01 GMT",
-    "source": "BBC News",
-    "id": "18c54b7a0831a2392e70c24384eeba7f",
-    "fetched_at": "2026-07-27T14:15:10.610451+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 600 US military service members injured since Iran War began in February",
-    "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
-    "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 13:31:57 GMT",
-    "source": "BBC News",
-    "id": "235008421d24fe98f511c666c3799028",
-    "fetched_at": "2026-07-27T14:15:10.610448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Waste pickers work at Indonesia's largest landfill",
-    "summary": "Waste pickers at Indonesia's Bantargebang landfill fear for their livelihoods as the government tightens open dumping rules and reforms waste management.",
-    "link": "http://www.euronews.com/video/2026/07/27/waste-pickers-work-at-indonesias-largest-landfill",
-    "published": "Mon, 27 Jul 2026 12:13:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ca69063af1788db997c7ddad2909dfd5",
-    "fetched_at": "2026-07-27T14:15:10.610446+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Masked performers fill Porto-Novo streets in Benin festival",
-    "summary": "Thousands gather in Porto-Novo for Benin's Mask Festival, celebrating ancestral traditions with colourful costumes, dances and masks.",
-    "link": "http://www.euronews.com/video/2026/07/27/masked-performers-fill-porto-novo-streets-in-benin-festival",
-    "published": "Mon, 27 Jul 2026 15:14:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "aa546b6bf532b2bb0de83d1065233439",
-    "fetched_at": "2026-07-27T14:15:10.610443+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US court to set schedule for Tate brothers' UK extradition",
-    "summary": "The Tates promote wealth, male dominance and misogyny through their social media empire and are among the world’s most polarizing internet personalities.",
-    "link": "http://www.euronews.com/2026/07/27/us-court-to-set-schedule-for-tate-brothers-uk-extradition",
-    "published": "Mon, 27 Jul 2026 16:10:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8b7c88cb159096ec934e3bc5088b3ed8",
-    "fetched_at": "2026-07-27T14:15:10.610440+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-    "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-    "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 16:08:51 GMT",
-    "source": "BBC News",
-    "id": "31552352d42b693efd6c4bb4073c9197",
-    "fetched_at": "2026-07-27T14:15:10.610436+00:00"
   }
 ]
