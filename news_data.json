@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+    "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+    "source": "BBC News",
+    "id": "b82e899f37c301c84a36ac20b5a74de3",
+    "fetched_at": "2026-07-28T08:21:16.065959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers to remain in jail as they fight UK extradition",
+    "summary": "The Tates promote wealth, male dominance and misogyny through their social media empire and are among the world’s most polarizing internet personalities.",
+    "link": "http://www.euronews.com/2026/07/27/us-court-to-set-schedule-for-tate-brothers-uk-extradition",
+    "published": "Mon, 27 Jul 2026 16:10:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8b7c88cb159096ec934e3bc5088b3ed8",
+    "fetched_at": "2026-07-28T08:21:16.065955+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 28th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-morning",
+    "published": "Tue, 28 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "585c81333e3155217fae69482b219f77",
+    "fetched_at": "2026-07-28T08:21:16.065924+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "High-wire artists walk cables across Jerusalem's Hinnom Valley",
+    "summary": "Four high-wire artists rehearse above Jerusalem's Hinnom Valley ahead of the 65th Israel Festival, paying tribute to Philippe Petit's 1987 crossing.",
+    "link": "http://www.euronews.com/video/2026/07/28/high-wire-artists-walk-cables-across-jerusalems-hinnom-valley",
+    "published": "Tue, 28 Jul 2026 07:50:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "44ce57a8af72073b545f89def1ede5a6",
+    "fetched_at": "2026-07-28T08:21:14.937550+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "White House prepares for high-stakes talks with Zelenskyy and Netanyahu",
+    "summary": "The meetings will showcase Washington's foreign policy balancing act as it tries to broker peace in Ukraine, despite being the instigator of military action in the Middle East.",
+    "link": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
+    "published": "Tue, 28 Jul 2026 08:59:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8d08890669dfc954c1711588ccde4c06",
+    "fetched_at": "2026-07-28T08:21:13.703116+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gunman fired at US consulate in Toronto, second time building was shot at this year",
+    "summary": "The second shooting at the U.S. Consulate in Toronto this year triggered an hour-long police chase, although no arrest was made as officials continue to investigate.",
+    "link": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year",
+    "published": "Tue, 28 Jul 2026 02:53:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5b0ab2181ca223fdf8968c400341585e",
+    "fetched_at": "2026-07-28T08:21:12.570936+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+    "summary": "French President Emmanuel Macron said France was \"facing a completely unprecedented fire,\" describing the situation as France's worst fire-related crisis since World War II.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+    "published": "Tue, 28 Jul 2026 02:25:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "8c1b8ff250bf3c1b1ad256615211f154",
+    "fetched_at": "2026-07-28T08:21:11.439326+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+    "summary": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+    "published": "Tue, 28 Jul 2026 03:42:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "c256cd1273a0c0bb4556a50e48def50c",
+    "fetched_at": "2026-07-28T08:21:10.314052+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 07:33:12 GMT",
+    "source": "BBC News",
+    "id": "64fafd4df33566ba7fe885c4d310517e",
+    "fetched_at": "2026-07-28T08:21:09.057938+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+    "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
+    "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 00:30:11 GMT",
+    "source": "BBC News",
+    "id": "2993ed78081ecc3cc5acf5278036631a",
+    "fetched_at": "2026-07-28T08:21:07.915276+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
     "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
     "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "91a2e971074675ffbb877a2d15934a87",
     "fetched_at": "2026-07-27T17:37:13.156414+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Toronto police investigate gunfire, vandalism targeting Jewish-owned bakery chain",
-    "summary": "Toronto police say gunfire struck one location of a Jewish-owned bakery chain while a second sustained window damage, prompting a hate crime investigation.",
-    "link": "https://www.foxnews.com/world/toronto-police-investigate-gunfire-vandalism-targeting-jewish-owned-bakery-chain",
-    "published": "Sun, 26 Jul 2026 12:19:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "19498ec6e0ee769d0a16363f3c6a8f3e",
-    "fetched_at": "2026-07-27T17:37:13.156412+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Waltz slams France after stunning social media attack on US after UN vote",
-    "summary": "France accused the U.S. of standing alongside North Korea and Russia after a contentious U.N. vote to reappoint Volker Türk as human rights chief.",
-    "link": "https://www.foxnews.com/world/waltz-slams-france-after-stunning-social-media-attack-us-after-un-vote",
-    "published": "Mon, 27 Jul 2026 11:27:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7daf78dc9dde263fb1d9b4d3bfa59f79",
-    "fetched_at": "2026-07-27T17:37:13.156408+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Allah commanded me': Three women stabbed in Paris, crowd subdues suspect",
-    "summary": "The Paris stabbing suspect uttered &quot;it is Allah who commanded me&quot; as a crowd pinned him down after three women were attacked at the brewery.",
-    "link": "https://www.foxnews.com/world/paris-stabbing-suspect-says-allah-commanded-attack-three-women",
-    "published": "Mon, 27 Jul 2026 12:08:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1bc8fd5378ae0d6d762a979b12f8a611",
-    "fetched_at": "2026-07-27T17:37:13.156379+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Breakfasts around the world: Syrnyky, or curd-cheese hotcakes in Ukraine",
-    "summary": "Everyone in Ukraine has a story about syrnyki, the tangy, curd-cheese pancakes that have been a breakfast staple for hundreds of years.",
-    "link": "https://www.npr.org/2026/07/26/nx-s1-5890876/breakfasts-around-the-world-syrnyky-or-curd-cheese-hotcakes-in-ukraine",
-    "published": "Sun, 26 Jul 2026 08:50:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "5359f7d36923a4b04ec64fb698306f65",
-    "fetched_at": "2026-07-27T17:37:12.064746+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-    "summary": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
-    "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-    "published": "Sun, 26 Jul 2026 13:16:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "7c28d8bfc52bbdd23aaf4bb810715d97",
-    "fetched_at": "2026-07-27T17:37:10.940389+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
-    "summary": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
-    "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
-    "published": "Sun, 26 Jul 2026 14:13:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "1e4c76fd1bbf0dfe47708270cb7a3200",
-    "fetched_at": "2026-07-27T17:37:09.810101+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-    "summary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
-    "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
-    "published": "Mon, 27 Jul 2026 12:54:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "ca1d4567bceffe70a30b809257981fee",
-    "fetched_at": "2026-07-27T17:37:08.680837+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
-    "summary": "Neither the US nor Iran have launched attacks in the last three nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 08:14:46 GMT",
-    "source": "BBC News",
-    "id": "6cb527d320eed23f77ee9aa2f1e1f61e",
-    "fetched_at": "2026-07-27T17:37:07.551089+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shots fired at US consulate in Toronto for a second time this year",
-    "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 16:56:57 GMT",
-    "source": "BBC News",
-    "id": "f52c6b544dc439fcb74ec1256d4f3c38",
-    "fetched_at": "2026-07-27T17:37:06.420616+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
-    "summary": "The 84-year-old Republican senator has been away from work for weeks amid ongoing speculation about his health.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yd8k3rgj7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 17:25:29 GMT",
-    "source": "BBC News",
-    "id": "adf8dcead7223ff3f213ea40a9bf7bd9",
-    "fetched_at": "2026-07-27T17:37:05.281995+00:00"
   }
 ]
