@@ -1,6 +1,226 @@
 [
   {
     "region": "Europe",
+    "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+    "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 04:59:36 GMT",
+    "source": "BBC News",
+    "id": "e828648dfa705f614fc3e6021796ff5d",
+    "fetched_at": "2026-07-28T11:51:59.596154+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ariana Grande sues hackers who leaked music and videos",
+    "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 08:37:12 GMT",
+    "source": "BBC News",
+    "id": "fc5097cce12b3a3f3f062ad22aaf05a9",
+    "fetched_at": "2026-07-28T11:51:59.596150+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+    "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+    "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 09:45:10 GMT",
+    "source": "BBC News",
+    "id": "bf141e6fd9040a4552b358630b149cfb",
+    "fetched_at": "2026-07-28T11:51:59.596147+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tripoli erupts in protests over power cuts with calls to topple government",
+    "summary": "Demonstrators blocked roads, shut state institutions and sealed off government buildings as temperatures reached up to 50 degrees Celsius and daily blackouts stretched to 14 hours. The protests quickly widened into demands for the removal of governments in both eastern and western Libya.",
+    "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
+    "published": "Tue, 28 Jul 2026 10:08:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a38b4ffa937665e806fa0bc0f1d50e3d",
+    "fetched_at": "2026-07-28T11:51:59.596144+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran publicly executes two Isfahan protesters despite UN calls to stop",
+    "summary": "Two protesters were publicly executed in Isfahan on Tuesday morning, bringing the total to four deaths out of 12 sentenced in the same case, after UN experts slammed coerced confessions and closed trials.",
+    "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
+    "published": "Tue, 28 Jul 2026 10:44:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7bba5de197dd4eec270e0ee50367874a",
+    "fetched_at": "2026-07-28T11:51:59.596141+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France wildfire: Residents douse embers with water after blaze destroys 170 homes in Le Porge",
+    "summary": "Residents in Le Porge, in southwestern France's Gironde region, are working to prevent a devastating wildfire from reigniting by spraying water on smouldering forest embers. The blaze destroyed at least 170 homes, while smoke continues to rise from the scorched landscape as recovery begins.",
+    "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
+    "published": "Tue, 28 Jul 2026 11:28:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e188fb468c7f477c9e850eaa4b0089c4",
+    "fetched_at": "2026-07-28T11:51:59.596138+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "The timing of war and peace is not yours to decide, Iran tells US",
+    "summary": "Tehran's foreign ministry said Iran would not allow Washington to determine \"the timing of war and peace,\" as Trump claimed the Islamic Republic had requested negotiations and mediators sought to revive the collapsed interim deal.",
+    "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
+    "published": "Tue, 28 Jul 2026 11:43:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "abe311b6000b6702d82321763f506d44",
+    "fetched_at": "2026-07-28T11:51:59.596135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 28th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-midday",
+    "published": "Tue, 28 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "36c0d54cf5c31ae492edc0236b74f715",
+    "fetched_at": "2026-07-28T11:51:59.596132+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Medieval costumes and parades fill Sighisoara streets in Romania",
+    "summary": "Sighisoara's medieval festival brings knights, costumes, music and combat displays to Romania's historic Transylvanian citadel.",
+    "link": "http://www.euronews.com/video/2026/07/28/medieval-costumes-and-parades-fill-sighisoara-streets-in-romania",
+    "published": "Tue, 28 Jul 2026 13:09:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e20ab16177b158d5e0dfb163d60f350f",
+    "fetched_at": "2026-07-28T11:51:59.596129+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Berlin community remembers victims of Pride parade attack",
+    "summary": "Berliners leave flowers, candles and messages at Tiergarten memorial after a deadly vehicle and machete attack near the Pride parade.",
+    "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
+    "published": "Tue, 28 Jul 2026 13:19:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "48981ce5673f90eb0279adf60c95c144",
+    "fetched_at": "2026-07-28T11:51:59.596126+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US walks out of UN Security Council meeting during France's remarks",
+    "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+    "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 09:32:25 GMT",
+    "source": "BBC News",
+    "id": "0438ad849ce0594450fd2b31ee03b91f",
+    "fetched_at": "2026-07-28T11:51:59.596122+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zidane confirmed as France head coach",
+    "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 09:03:49 GMT",
+    "source": "BBC News",
+    "id": "2018edd914b8bf02f439387cb13ba4b5",
+    "fetched_at": "2026-07-28T11:51:59.596117+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky to press Trump on air defences while in Washington",
+    "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 10:41:41 GMT",
+    "source": "BBC News",
+    "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
+    "fetched_at": "2026-07-28T11:51:59.596114+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Toronto police investigate gunfire, vandalism targeting Jewish-owned bakery chain",
+    "summary": "Toronto police say gunfire struck one location of a Jewish-owned bakery chain while a second sustained window damage, prompting a hate crime investigation.",
+    "link": "https://www.foxnews.com/world/toronto-police-investigate-gunfire-vandalism-targeting-jewish-owned-bakery-chain",
+    "published": "Sun, 26 Jul 2026 12:19:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "19498ec6e0ee769d0a16363f3c6a8f3e",
+    "fetched_at": "2026-07-28T11:51:59.596109+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Waltz slams France after stunning social media attack on US after UN vote",
+    "summary": "France accused the U.S. of standing alongside North Korea and Russia after a contentious U.N. vote to reappoint Volker Türk as human rights chief.",
+    "link": "https://www.foxnews.com/world/waltz-slams-france-after-stunning-social-media-attack-us-after-un-vote",
+    "published": "Mon, 27 Jul 2026 11:27:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7daf78dc9dde263fb1d9b4d3bfa59f79",
+    "fetched_at": "2026-07-28T11:51:59.596071+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Allah commanded me': Three women stabbed in Paris, crowd subdues suspect",
+    "summary": "The Paris stabbing suspect uttered &quot;it is Allah who commanded me&quot; as a crowd pinned him down after three women were attacked at the brewery.",
+    "link": "https://www.foxnews.com/world/paris-stabbing-suspect-says-allah-commanded-attack-three-women",
+    "published": "Mon, 27 Jul 2026 12:08:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1bc8fd5378ae0d6d762a979b12f8a611",
+    "fetched_at": "2026-07-28T11:51:58.484060+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
+    "summary": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
+    "link": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
+    "published": "Tue, 28 Jul 2026 06:00:22 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "aa39e0abee59aeb1c7b70babe8c9f77b",
+    "fetched_at": "2026-07-28T11:51:57.323003+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+    "summary": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+    "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+    "published": "Sun, 26 Jul 2026 13:16:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "7c28d8bfc52bbdd23aaf4bb810715d97",
+    "fetched_at": "2026-07-28T11:51:56.213032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+    "summary": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+    "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+    "published": "Sun, 26 Jul 2026 14:13:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "1e4c76fd1bbf0dfe47708270cb7a3200",
+    "fetched_at": "2026-07-28T11:51:55.045281+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+    "summary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+    "published": "Mon, 27 Jul 2026 12:54:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca1d4567bceffe70a30b809257981fee",
+    "fetched_at": "2026-07-28T11:51:53.917713+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+    "summary": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+    "published": "Tue, 28 Jul 2026 07:26:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "82281a2d5728fe999ba459d05eb29a15",
+    "fetched_at": "2026-07-28T11:51:52.783046+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shots fired at US consulate in Toronto for a second time this year",
+    "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 00:36:16 GMT",
+    "source": "BBC News",
+    "id": "f52c6b544dc439fcb74ec1256d4f3c38",
+    "fetched_at": "2026-07-28T11:51:51.666581+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
     "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
     "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
@@ -378,225 +598,5 @@
     "source": "BBC News",
     "id": "51b1370b65265966355ff01cc258bbb9",
     "fetched_at": "2026-07-27T21:04:13.865802+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
-    "summary": "The US journalist has made several social media pleas for the abductors of her mother Nancy to share where she is.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 19:54:24 GMT",
-    "source": "BBC News",
-    "id": "2966c3c60a65eddf3a2c9b1ef3d15352",
-    "fetched_at": "2026-07-27T21:04:12.686599+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Berlin Pride attack suspect shot and killed during police operation",
-    "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-    "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 26 Jul 2026 19:21:26 GMT",
-    "source": "BBC News",
-    "id": "0bcbe8e075cf91750dd13feec6ea7bee",
-    "fetched_at": "2026-07-27T19:16:29.182864+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-    "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 17:50:42 GMT",
-    "source": "BBC News",
-    "id": "6fb966409910ea6b86d55e225dfaf26d",
-    "fetched_at": "2026-07-27T19:16:29.182861+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe will one day thank Trump for 'shaking' it out of its 'complacency': UK defense chief",
-    "summary": "Wes Streeting says Europe will ultimately thank President Trump for forcing NATO allies to end their overreliance on the U.S. for defense and security.",
-    "link": "https://www.foxnews.com/world/europe-one-day-thank-trump-shaking-out-its-complacency-uk-defense-chief",
-    "published": "Sun, 26 Jul 2026 18:11:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "60439bd28ec769be614d13bc36c45ec1",
-    "fetched_at": "2026-07-27T19:16:29.182858+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hamas taps 'ultimate institutional survivor' as terror chief, sending message to Israel: expert",
-    "summary": "Khalil al-Hayya, whose four sons were killed in Israeli strikes, takes over as Hamas political chief in a move experts say signals continuity over change.",
-    "link": "https://www.foxnews.com/world/hamas-taps-ultimate-institutional-survivor-terror-chief-sending-message-israel-expert",
-    "published": "Sun, 26 Jul 2026 20:49:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "806f7d54fd3351567ee425dfcf7fc79b",
-    "fetched_at": "2026-07-27T19:16:29.182829+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "German officials want to know why Berlin attack suspect was free despite alleged ISIS support",
-    "summary": "German officials are left to scrutinize why the suspect in a violent attack in Germany was roaming the streets despite alleged ISIS sympathies.",
-    "link": "https://www.foxnews.com/world/german-officials-want-know-why-berlin-attack-suspect-was-free-despite-alleged-isis-support",
-    "published": "Mon, 27 Jul 2026 14:00:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d0e900a34c95b178a1d687ff5e0a2258",
-    "fetched_at": "2026-07-27T19:16:28.054050+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Christian persecution concerns rise in Egypt as State Department presses religious freedom",
-    "summary": "Egypt&apos;s 20 million Coptic Christians face discrimination and occasional violence as experts say the state fails to address anti-Christian fanaticism seriously.",
-    "link": "https://www.foxnews.com/world/christian-persecution-concerns-rise-egypt-state-department-presses-religious-freedom",
-    "published": "Mon, 27 Jul 2026 15:11:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2a406ba42fdd9368698eafd070cd4cab",
-    "fetched_at": "2026-07-27T19:16:26.916596+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France and Spain fires force more than 300,000 to flee homes",
-    "summary": "In France, around 50,000 people were evacuated from their homes overnight into Sunday, according to interior minister Laurent Nuñez. At least one person has died in a fire in Spain, officials said<strong>.</strong>",
-    "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-    "published": "Sat, 25 Jul 2026 21:05:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "3f34bd10879e344376eb740d8337be5e",
-    "fetched_at": "2026-07-27T19:16:25.778428+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-    "summary": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
-    "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 18:49:54 GMT",
-    "source": "BBC News",
-    "id": "802c9533f9d9bc06ca6e4ccb2e98b2d4",
-    "fetched_at": "2026-07-27T19:16:24.660265+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How a bridge became a symbol of US-Canada tensions",
-    "summary": "The Gordie Howe International Bridge has officially opened to motorists amid a trade row between both countries.",
-    "link": "https://www.bbc.co.uk/news/videos/cq564e1l6zno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 18:27:12 GMT",
-    "source": "BBC News",
-    "id": "f5481ce9f1e642a8fbbb170f2a956928",
-    "fetched_at": "2026-07-27T19:16:23.528996+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Secret Service agent among three charged over alleged violent fraternity hazing",
-    "summary": "The suspected hazing involved repeated beatings with canes and paddles, Florida authorities say, which put two people in hospital.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdrg2pxv0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 18:13:37 GMT",
-    "source": "BBC News",
-    "id": "1e6c4532a102b9eb8aa3a46c0e293a89",
-    "fetched_at": "2026-07-27T19:16:22.401195+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-    "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 15:39:54 GMT",
-    "source": "BBC News",
-    "id": "4db8f168b4a72eac6b1ff4cda3d2dc5f",
-    "fetched_at": "2026-07-27T19:16:21.282975+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-    "summary": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 14:26:50 GMT",
-    "source": "BBC News",
-    "id": "0456e979a0e44c9aa4d52138b9dfd1ee",
-    "fetched_at": "2026-07-27T17:37:13.156432+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-    "summary": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
-    "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 15:49:45 GMT",
-    "source": "BBC News",
-    "id": "ceaf4bc09893c0c9f39057a30b3f73e8",
-    "fetched_at": "2026-07-27T17:37:13.156430+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Devastating European wildfires in maps - and how they're being tackled",
-    "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 15:59:27 GMT",
-    "source": "BBC News",
-    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
-    "fetched_at": "2026-07-27T17:37:13.156429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rabbis visit Qatar's emir for condolences in show of interfaith bonds",
-    "summary": "Following a meeting with Qatar's emir, Rabbi Mendy Chitrik of the Alliance of Rabbis in Islamic States said the delegation felt warmly welcomed and called for greater dialogue to strengthen Muslim-Jewish relations.",
-    "link": "http://www.euronews.com/2026/07/27/rabbis-visit-qatars-emir-for-condolences-in-show-of-interfaith-bonds",
-    "published": "Mon, 27 Jul 2026 16:49:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5f7bf9c685a963c6b120fbf1fae5f0d5",
-    "fetched_at": "2026-07-27T17:37:13.156427+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Colombia's president-elect to close embassies in three European countries in diplomatic overhaul",
-    "summary": "Abelardo de la Espriella says he will cut diplomatic ties with Havana and Managua and close 15 consulates and 14 embassies to reduce costs and bolster security. The president-elect will be sworn in on 7 August in Cali.",
-    "link": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
-    "published": "Mon, 27 Jul 2026 17:03:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4971d514dd6a1c05bcfcbd8b53f39638",
-    "fetched_at": "2026-07-27T17:37:13.156425+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain wildfires leave destruction across Ávila province",
-    "summary": "Firefighters battle wildfires in central Spain as burned homes, cars and scorched landscapes reveal the devastation across Ávila province.",
-    "link": "http://www.euronews.com/video/2026/07/27/spain-wildfires-leave-destruction-across-avila-province",
-    "published": "Mon, 27 Jul 2026 17:12:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e039c5d1bdae9f377da707917ff15c71",
-    "fetched_at": "2026-07-27T17:37:13.156423+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 27th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/27/latest-news-bulletin-july-27th-2026-evening",
-    "published": "Mon, 27 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "34367d09a3ca02690d1a318d84027854",
-    "fetched_at": "2026-07-27T17:37:13.156421+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ICC top prosecutor removed over sexual misconduct allegations",
-    "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 21:02:30 GMT",
-    "source": "BBC News",
-    "id": "d15308f6ad42528bf16f18028cb1b3df",
-    "fetched_at": "2026-07-27T17:37:13.156419+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-    "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 16:33:05 GMT",
-    "source": "BBC News",
-    "id": "e85ff68e3221f0510ef866a62037bd6e",
-    "fetched_at": "2026-07-27T17:37:13.156417+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Berlin Pride attack suspect killed in police confrontation: AP",
-    "summary": "German authorities say Abdul Ballout, linked to Berlin&apos;s Islamist scene, was killed in a nearby suburb after the deadly attack near the Pride festival.",
-    "link": "https://www.foxnews.com/world/berlin-pride-attack-believed-act-islamic-terror-suspect-run-german-minister",
-    "published": "Sun, 26 Jul 2026 11:20:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "91a2e971074675ffbb877a2d15934a87",
-    "fetched_at": "2026-07-27T17:37:13.156414+00:00"
   }
 ]
