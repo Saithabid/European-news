@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Keiko Fujimori takes office as Peru's president, vowing to end decade of instability",
+    "summary": "The Popular Force leader becomes Peru's first female president, returning Fujimorism to power after 26 years. She is due to deliver her inaugural address and unveil her cabinet. King Felipe VI attended the ceremony in Lima.",
+    "link": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
+    "published": "Tue, 28 Jul 2026 21:57:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b2c1a8752d182bb7f66d3dd468214606",
+    "fetched_at": "2026-07-28T21:01:41.622164+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky to press Trump on air defences while in Washington",
+    "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 10:41:41 GMT",
+    "source": "BBC News",
+    "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
+    "fetched_at": "2026-07-28T21:01:41.622161+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
+    "summary": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
+    "link": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
+    "published": "Tue, 28 Jul 2026 06:00:22 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "aa39e0abee59aeb1c7b70babe8c9f77b",
+    "fetched_at": "2026-07-28T21:01:41.622157+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "World-famous Catholic shrine torched, 'Devil in a skirt' scrawled on Virgin Mary statue",
+    "summary": "Surveillance footage shows a man pouring gasoline on the altar at St. James Church as the Medjugorje shrine was vandalized days before a major festival.",
+    "link": "https://www.foxnews.com/world/world-famous-catholic-shrine-torched-devil-skirt-scrawled-virgin-mary-statue",
+    "published": "Tue, 28 Jul 2026 15:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0eb958462f1b2dda5984c41dbfd8dc61",
+    "fetched_at": "2026-07-28T21:01:41.622128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening",
+    "summary": "A massive explosion ripped through Aeon Mall in Kumamoto just weeks after its grand reopening, leaving up to 30 employees unaccounted for.",
+    "link": "https://www.foxnews.com/world/japan-mall-rebuilt-after-deadly-earthquake-destroyed-major-temblor-weeks-after-fresh-start-reopening",
+    "published": "Tue, 28 Jul 2026 16:05:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "27780c825722da529f9b15879c482fe0",
+    "fetched_at": "2026-07-28T21:01:40.450666+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+    "summary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+    "published": "Mon, 27 Jul 2026 12:54:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca1d4567bceffe70a30b809257981fee",
+    "fetched_at": "2026-07-28T21:01:39.294544+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine negotiator: 'We have the upper hand'",
+    "summary": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
+    "published": "Tue, 28 Jul 2026 16:10:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "243fe8a859588edd1255206dab349638",
+    "fetched_at": "2026-07-28T21:01:38.134695+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump meets Ukrainian, Israeli leaders as they pay respects to Lindsey Graham",
+    "summary": "President Trump holds talks with Ukrainian and Israeli leaders on the sidelines of Senator Lindsey Graham's funeral.",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910540/trump-meets-ukrainian-israeli-leaders-as-they-pay-respects-to-lindsey-graham",
+    "published": "Tue, 28 Jul 2026 16:14:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "b2a978faf63b601d42d421cee1adf0aa",
+    "fetched_at": "2026-07-28T21:01:36.987898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+    "summary": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+    "published": "Tue, 28 Jul 2026 16:30:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "ada59cb00654d6afb53c1a0238fe75a9",
+    "fetched_at": "2026-07-28T21:01:35.830578+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+    "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 20:57:29 GMT",
+    "source": "BBC News",
+    "id": "40aefd5258ee305ffb58d72e7376ccae",
+    "fetched_at": "2026-07-28T21:01:34.682388+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
+    "summary": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 20:42:56 GMT",
+    "source": "BBC News",
+    "id": "2c7cc8c0de6206c713abde2abb2739c1",
+    "fetched_at": "2026-07-28T21:01:33.526996+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
     "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
     "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "e828648dfa705f614fc3e6021796ff5d",
     "fetched_at": "2026-07-28T11:51:59.596154+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ariana Grande sues hackers who leaked music and videos",
-    "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
-    "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 08:37:12 GMT",
-    "source": "BBC News",
-    "id": "fc5097cce12b3a3f3f062ad22aaf05a9",
-    "fetched_at": "2026-07-28T11:51:59.596150+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-    "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-    "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 09:45:10 GMT",
-    "source": "BBC News",
-    "id": "bf141e6fd9040a4552b358630b149cfb",
-    "fetched_at": "2026-07-28T11:51:59.596147+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tripoli erupts in protests over power cuts with calls to topple government",
-    "summary": "Demonstrators blocked roads, shut state institutions and sealed off government buildings as temperatures reached up to 50 degrees Celsius and daily blackouts stretched to 14 hours. The protests quickly widened into demands for the removal of governments in both eastern and western Libya.",
-    "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
-    "published": "Tue, 28 Jul 2026 10:08:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a38b4ffa937665e806fa0bc0f1d50e3d",
-    "fetched_at": "2026-07-28T11:51:59.596144+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran publicly executes two Isfahan protesters despite UN calls to stop",
-    "summary": "Two protesters were publicly executed in Isfahan on Tuesday morning, bringing the total to four deaths out of 12 sentenced in the same case, after UN experts slammed coerced confessions and closed trials.",
-    "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
-    "published": "Tue, 28 Jul 2026 10:44:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7bba5de197dd4eec270e0ee50367874a",
-    "fetched_at": "2026-07-28T11:51:59.596141+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France wildfire: Residents douse embers with water after blaze destroys 170 homes in Le Porge",
-    "summary": "Residents in Le Porge, in southwestern France's Gironde region, are working to prevent a devastating wildfire from reigniting by spraying water on smouldering forest embers. The blaze destroyed at least 170 homes, while smoke continues to rise from the scorched landscape as recovery begins.",
-    "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
-    "published": "Tue, 28 Jul 2026 11:28:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e188fb468c7f477c9e850eaa4b0089c4",
-    "fetched_at": "2026-07-28T11:51:59.596138+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The timing of war and peace is not yours to decide, Iran tells US",
-    "summary": "Tehran's foreign ministry said Iran would not allow Washington to determine \"the timing of war and peace,\" as Trump claimed the Islamic Republic had requested negotiations and mediators sought to revive the collapsed interim deal.",
-    "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
-    "published": "Tue, 28 Jul 2026 11:43:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "abe311b6000b6702d82321763f506d44",
-    "fetched_at": "2026-07-28T11:51:59.596135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 28th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-midday",
-    "published": "Tue, 28 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "36c0d54cf5c31ae492edc0236b74f715",
-    "fetched_at": "2026-07-28T11:51:59.596132+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Medieval costumes and parades fill Sighisoara streets in Romania",
-    "summary": "Sighisoara's medieval festival brings knights, costumes, music and combat displays to Romania's historic Transylvanian citadel.",
-    "link": "http://www.euronews.com/video/2026/07/28/medieval-costumes-and-parades-fill-sighisoara-streets-in-romania",
-    "published": "Tue, 28 Jul 2026 13:09:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e20ab16177b158d5e0dfb163d60f350f",
-    "fetched_at": "2026-07-28T11:51:59.596129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Berlin community remembers victims of Pride parade attack",
-    "summary": "Berliners leave flowers, candles and messages at Tiergarten memorial after a deadly vehicle and machete attack near the Pride parade.",
-    "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
-    "published": "Tue, 28 Jul 2026 13:19:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "48981ce5673f90eb0279adf60c95c144",
-    "fetched_at": "2026-07-28T11:51:59.596126+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US walks out of UN Security Council meeting during France's remarks",
-    "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-    "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 09:32:25 GMT",
-    "source": "BBC News",
-    "id": "0438ad849ce0594450fd2b31ee03b91f",
-    "fetched_at": "2026-07-28T11:51:59.596122+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zidane confirmed as France head coach",
-    "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 09:03:49 GMT",
-    "source": "BBC News",
-    "id": "2018edd914b8bf02f439387cb13ba4b5",
-    "fetched_at": "2026-07-28T11:51:59.596117+00:00"
   }
 ]
