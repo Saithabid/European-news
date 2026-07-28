@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+    "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+    "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 16:37:02 GMT",
+    "source": "BBC News",
+    "id": "3dec83558618a74d1b46825488233da5",
+    "fetched_at": "2026-07-28T17:40:11.940718+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 28th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-evening",
+    "published": "Tue, 28 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6818dcd1243adfffb86c3cc8f8477321",
+    "fetched_at": "2026-07-28T17:40:11.940690+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "WATCH: US envoy defends walkout during France's 'condescending' remarks, vows boycott",
+    "summary": "Dan Negrea accused France of &quot;disingenuous grandstanding&quot; and vowed American diplomats will keep walking out during French statements at the U.N.",
+    "link": "https://www.foxnews.com/world/watch-us-envoy-defends-walkout-during-frances-condescending-remarks-vows-boycott",
+    "published": "Tue, 28 Jul 2026 13:19:06 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f149003e7f463e7c7dd4ccaf836fcb7d",
+    "fetched_at": "2026-07-28T17:40:10.789609+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukrainian peace negotiator says drone strikes could force Russia into ceasefire",
+    "summary": "Sergiy Kyslytsya, a top Ukrainian peace negotiator, says long-range drone strikes into Russia have strengthened Ukraine's hand and could compel Vladimir Putin toward a ceasefire deal.",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5906461/ukrainian-peace-negotiator-says-drone-strikes-could-force-russia-into-ceasefire",
+    "published": "Mon, 27 Jul 2026 04:43:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "9c18af53fe671a01f2273560d7b8121c",
+    "fetched_at": "2026-07-28T17:40:09.636993+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+    "summary": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+    "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+    "published": "Mon, 27 Jul 2026 07:45:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "8d0c60adf38a717016dd0dffa1c5f0df",
+    "fetched_at": "2026-07-28T17:40:08.479593+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+    "summary": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+    "published": "Tue, 28 Jul 2026 03:42:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "c256cd1273a0c0bb4556a50e48def50c",
+    "fetched_at": "2026-07-28T17:40:07.319633+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 10:15:47 GMT",
+    "source": "BBC News",
+    "id": "64fafd4df33566ba7fe885c4d310517e",
+    "fetched_at": "2026-07-28T17:40:06.162143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 01:53:58 GMT",
+    "source": "BBC News",
+    "id": "6111518e11d6c2e1f23ba5ca75ddbc9e",
+    "fetched_at": "2026-07-28T17:40:05.017654+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording",
+    "summary": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
+    "link": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 07:14:51 GMT",
+    "source": "BBC News",
+    "id": "48ee5d969119ee278e17461176f3a81c",
+    "fetched_at": "2026-07-28T17:40:03.844162+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "French Navy carries out 'shooting drill' mid interview",
     "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
     "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "ca1d4567bceffe70a30b809257981fee",
     "fetched_at": "2026-07-28T11:51:53.917713+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
-    "summary": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
-    "published": "Tue, 28 Jul 2026 07:26:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "82281a2d5728fe999ba459d05eb29a15",
-    "fetched_at": "2026-07-28T11:51:52.783046+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shots fired at US consulate in Toronto for a second time this year",
-    "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 00:36:16 GMT",
-    "source": "BBC News",
-    "id": "f52c6b544dc439fcb74ec1256d4f3c38",
-    "fetched_at": "2026-07-28T11:51:51.666581+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-    "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 05:01:19 GMT",
-    "source": "BBC News",
-    "id": "b82e899f37c301c84a36ac20b5a74de3",
-    "fetched_at": "2026-07-28T08:21:16.065959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tate brothers to remain in jail as they fight UK extradition",
-    "summary": "The Tates promote wealth, male dominance and misogyny through their social media empire and are among the world’s most polarizing internet personalities.",
-    "link": "http://www.euronews.com/2026/07/27/us-court-to-set-schedule-for-tate-brothers-uk-extradition",
-    "published": "Mon, 27 Jul 2026 16:10:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8b7c88cb159096ec934e3bc5088b3ed8",
-    "fetched_at": "2026-07-28T08:21:16.065955+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 28th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-morning",
-    "published": "Tue, 28 Jul 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "585c81333e3155217fae69482b219f77",
-    "fetched_at": "2026-07-28T08:21:16.065924+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "High-wire artists walk cables across Jerusalem's Hinnom Valley",
-    "summary": "Four high-wire artists rehearse above Jerusalem's Hinnom Valley ahead of the 65th Israel Festival, paying tribute to Philippe Petit's 1987 crossing.",
-    "link": "http://www.euronews.com/video/2026/07/28/high-wire-artists-walk-cables-across-jerusalems-hinnom-valley",
-    "published": "Tue, 28 Jul 2026 07:50:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "44ce57a8af72073b545f89def1ede5a6",
-    "fetched_at": "2026-07-28T08:21:14.937550+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "White House prepares for high-stakes talks with Zelenskyy and Netanyahu",
-    "summary": "The meetings will showcase Washington's foreign policy balancing act as it tries to broker peace in Ukraine, despite being the instigator of military action in the Middle East.",
-    "link": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
-    "published": "Tue, 28 Jul 2026 08:59:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8d08890669dfc954c1711588ccde4c06",
-    "fetched_at": "2026-07-28T08:21:13.703116+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman fired at US consulate in Toronto, second time building was shot at this year",
-    "summary": "The second shooting at the U.S. Consulate in Toronto this year triggered an hour-long police chase, although no arrest was made as officials continue to investigate.",
-    "link": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year",
-    "published": "Tue, 28 Jul 2026 02:53:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5b0ab2181ca223fdf8968c400341585e",
-    "fetched_at": "2026-07-28T08:21:12.570936+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-    "summary": "French President Emmanuel Macron said France was \"facing a completely unprecedented fire,\" describing the situation as France's worst fire-related crisis since World War II.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-    "published": "Tue, 28 Jul 2026 02:25:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "8c1b8ff250bf3c1b1ad256615211f154",
-    "fetched_at": "2026-07-28T08:21:11.439326+00:00"
   }
 ]
