@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "French Navy carries out 'shooting drill' mid interview",
+    "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 13:53:26 GMT",
+    "source": "BBC News",
+    "id": "db1b086f87fba407e61a4377ded2e05f",
+    "fetched_at": "2026-07-28T16:00:13.559849+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa reacts with fury to Infantino World Cup plan",
+    "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+    "source": "BBC News",
+    "id": "a0dd136f618d6fef24412550e6d04548",
+    "fetched_at": "2026-07-28T16:00:13.559847+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Many feared dead after quake leaves shoppers trapped in Japanese mall",
+    "summary": "Police received reports of an explosion at the Aeon Mall outlet in the Kumamoto region but the force did not provide information on damage or any casualties.",
+    "link": "http://www.euronews.com/2026/07/28/tsunami-warning-lifted-in-southern-japan-after-71-quake",
+    "published": "Tue, 28 Jul 2026 13:56:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "15e392a0bb67d11c85c10f45e389c2eb",
+    "fetched_at": "2026-07-28T16:00:13.559844+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Aerial footage shows wildfires spreading across Spain's Madrid region",
+    "summary": "Firefighters are battling to contain wildfires in Spain's Madrid region with water-carrying aircraft dispatched to douse the area and reduce extreme heat and dry conditions fueling the flames.",
+    "link": "http://www.euronews.com/video/2026/07/28/aerial-footage-shows-wildfires-spreading-across-spains-madrid-region",
+    "published": "Tue, 28 Jul 2026 14:10:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "83c24d4a43b28f611260cbb19099c71a",
+    "fetched_at": "2026-07-28T16:00:13.559842+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tsunami alert follows powerful earthquake in southwest Japan",
+    "summary": "Japan issued a tsunami alert after a 7.1 magnitude earthquake struck Kyushu, damaging buildings, cutting power and prompting emergency response efforts.",
+    "link": "http://www.euronews.com/video/2026/07/28/tsunami-alert-follows-powerful-earthquake-in-southwest-japan",
+    "published": "Tue, 28 Jul 2026 14:40:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7295d89db4d1212df6d5f9747fe7fb91",
+    "fetched_at": "2026-07-28T16:00:13.559840+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rescue teams evacuate flooded villages in Sheikhupura Pakistan",
+    "summary": "Rescue teams evacuate villagers by boat in Sheikhupura, Pakistan, after monsoon floods submerged homes and left communities without basic supplies.",
+    "link": "http://www.euronews.com/video/2026/07/28/rescue-teams-evacuate-flooded-villages-in-sheikhupura-pakistan",
+    "published": "Tue, 28 Jul 2026 16:14:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "af406e7bbbea1cc36290bbbf822f9739",
+    "fetched_at": "2026-07-28T16:00:13.559837+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Audio recordings appear to show Biden discussing classified information with his ghostwriter",
+    "summary": "Biden was 74 when the interviews began and 81 when Hur released his report in early 2024, as he sought re-election.",
+    "link": "http://www.euronews.com/2026/07/28/audio-recordings-appear-to-show-biden-discussing-classified-information-with-his-ghostwrit",
+    "published": "Tue, 28 Jul 2026 17:15:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7a568b0624c62e2ba6ef8648dc0dd548",
+    "fetched_at": "2026-07-28T16:00:13.559835+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelenskyy meets Trump at White House as Ukraine seeks more US support",
+    "summary": "Since returning to power early last year, Trump has halted direct US arms deliveries to Kyiv in favour of a programme allowing European countries to buy weapons for Ukraine.",
+    "link": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
+    "published": "Tue, 28 Jul 2026 17:55:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9f156a6a6b4ef7078e6501a3c81ac35a",
+    "fetched_at": "2026-07-28T16:00:13.559831+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+    "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 20:01:03 GMT",
+    "source": "BBC News",
+    "id": "013fad0fe07d4a4c4194ac3fe70c7015",
+    "fetched_at": "2026-07-28T16:00:13.559829+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mancini reappointed Italy boss after Pirlo controversy",
+    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 13:54:00 GMT",
+    "source": "BBC News",
+    "id": "47e939197e2104ff907a404f10564fd3",
+    "fetched_at": "2026-07-28T16:00:13.559824+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Golden Dome could leave US vulnerable to drone attacks without Israeli systems",
+    "summary": "A new report warns Golden Dome&apos;s focus on space-based missile defense could leave U.S. cities vulnerable to drone attacks over the homeland.",
+    "link": "https://www.foxnews.com/world/golden-dome-leave-us-vulnerable-drone-attacks-without-israeli-systems",
+    "published": "Tue, 28 Jul 2026 11:20:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "35a96cc5aa20a0db4393f9139784b295",
+    "fetched_at": "2026-07-28T16:00:13.559796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can the U.S. and Iran take the off-ramp?",
+    "summary": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
+    "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+    "published": "Mon, 27 Jul 2026 01:57:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "bed3b0ec8bc14f5077368e1f7ce978f8",
+    "fetched_at": "2026-07-28T16:00:12.399921+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+    "summary": "In southern France, a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+    "published": "Mon, 27 Jul 2026 06:50:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "40ae98a218fd5b498bac92c33be2c3bd",
+    "fetched_at": "2026-07-28T16:00:11.239364+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Georgia's Okefenokee Swamp becomes a UNESCO World Heritage site",
+    "summary": "The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.",
+    "link": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
+    "published": "Mon, 27 Jul 2026 17:22:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "95df3cae886f2a9e71c8de22fb0d5cda",
+    "fetched_at": "2026-07-28T16:00:10.028886+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Photos: Spain and France's battle record wildfires",
+    "summary": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
+    "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
+    "published": "Tue, 28 Jul 2026 11:24:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "f09688429dc63e288c7b5ccdf1b4fbb6",
+    "fetched_at": "2026-07-28T16:00:08.870773+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+    "summary": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 23:24:28 GMT",
+    "source": "BBC News",
+    "id": "89f81fc366d6c3c5879e7ea555703402",
+    "fetched_at": "2026-07-28T16:00:07.698308+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+    "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 12:31:45 GMT",
+    "source": "BBC News",
+    "id": "6ed0537c611dc0952de251a65eaf8c30",
+    "fetched_at": "2026-07-28T16:00:06.332528+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+    "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 21:06:42 GMT",
+    "source": "BBC News",
+    "id": "82b7980fb90d80e7884227dc422c8206",
+    "fetched_at": "2026-07-28T16:00:05.147898+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zoo staff rescue near-extinct snails from remote rock",
     "summary": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
     "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
@@ -418,185 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8c1b8ff250bf3c1b1ad256615211f154",
     "fetched_at": "2026-07-28T08:21:11.439326+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-    "summary": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-    "published": "Tue, 28 Jul 2026 03:42:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "c256cd1273a0c0bb4556a50e48def50c",
-    "fetched_at": "2026-07-28T08:21:10.314052+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-    "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 07:33:12 GMT",
-    "source": "BBC News",
-    "id": "64fafd4df33566ba7fe885c4d310517e",
-    "fetched_at": "2026-07-28T08:21:09.057938+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-    "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-    "link": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 00:30:11 GMT",
-    "source": "BBC News",
-    "id": "2993ed78081ecc3cc5acf5278036631a",
-    "fetched_at": "2026-07-28T08:21:07.915276+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
-    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 01:53:58 GMT",
-    "source": "BBC News",
-    "id": "6111518e11d6c2e1f23ba5ca75ddbc9e",
-    "fetched_at": "2026-07-28T04:58:22.697880+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seattle police say shooting incident at food festival over the weekend may have been gang related",
-    "summary": "The shooting incident killed three people, one of them now identified as one of the shooters, and injured four others, including a two-year-old boy, according to Seattle police.",
-    "link": "http://www.euronews.com/2026/07/28/seattle-police-say-shooting-incident-at-food-festival-over-the-weekend-may-have-been-gang-",
-    "published": "Tue, 28 Jul 2026 06:26:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e532062321d6dd80e8fce24ab790a127",
-    "fetched_at": "2026-07-28T04:58:21.593335+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump vows to investigate EU over fining of US tech companies",
-    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 20:23:58 GMT",
-    "source": "BBC News",
-    "id": "23bb56a2af883e1441e87c06d6d1f914",
-    "fetched_at": "2026-07-28T04:58:20.470913+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-    "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 12:33:31 GMT",
-    "source": "BBC News",
-    "id": "b2078bbf1a31be4c982738bea941b8d7",
-    "fetched_at": "2026-07-28T04:58:19.362312+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Africa’s illegal migration backlash mirrors political battles across the West",
-    "summary": "Over 160,000 immigrants have fled as the March and March movement goes house-to-house demanding foreigners leave amid 32.7% unemployment rate.",
-    "link": "https://www.foxnews.com/world/south-africas-illegal-migration-backlash-mirrors-political-battles-across-west",
-    "published": "Sun, 26 Jul 2026 07:17:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fc4b267c0f16e43a1940a0f840de34af",
-    "fetched_at": "2026-07-28T04:58:18.238589+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wildfires displace more than 250,000 in France, threaten famed wine region",
-    "summary": "The Gironde fire has burned 162 square miles as 2,500 firefighters and 1,500 soldiers battle the blaze advancing erratically toward Bordeaux.",
-    "link": "https://www.foxnews.com/world/wildfires-displace-250000-france-threaten-famed-wine-region",
-    "published": "Sun, 26 Jul 2026 08:20:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dfc0d7dae487154471c8d008de8aa828",
-    "fetched_at": "2026-07-28T04:58:17.127983+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I just found all the classified stuff downstairs' - Biden to ghostwriter",
-    "summary": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
-    "link": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 03:20:20 GMT",
-    "source": "BBC News",
-    "id": "48ee5d969119ee278e17461176f3a81c",
-    "fetched_at": "2026-07-28T04:58:16.016198+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China's new challenge as natural disasters strike - fake AI videos",
-    "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
-    "link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 22:07:23 GMT",
-    "source": "BBC News",
-    "id": "92e1c8093b5cbcc4e02c02eb72f4326c",
-    "fetched_at": "2026-07-28T01:51:50.670900+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds dressed in red recreate Kate Bush’s Wuthering Heights dance",
-    "summary": "Hundreds dressed in red recreate Kate Bush's 'Wuthering Heights' dance at Folkestone Harbour Arm during a global celebration event.",
-    "link": "http://www.euronews.com/video/2026/07/27/hundreds-dressed-in-red-recreate-kate-bushs-wuthering-heights-dance",
-    "published": "Mon, 27 Jul 2026 10:24:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7614150e8d4e538462b80ff20fcc07c1",
-    "fetched_at": "2026-07-28T01:51:49.514102+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 27th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/27/latest-news-bulletin-july-27th-2026-midday",
-    "published": "Mon, 27 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7382f064d3c08a26149b5c588b24594d",
-    "fetched_at": "2026-07-28T01:51:48.122213+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-    "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
-    "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 10:59:13 GMT",
-    "source": "BBC News",
-    "id": "4445f5f8ba59330b1a0c699100084f9a",
-    "fetched_at": "2026-07-28T01:51:46.969559+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-    "summary": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-    "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-    "published": "Mon, 27 Jul 2026 07:45:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "8d0c60adf38a717016dd0dffa1c5f0df",
-    "fetched_at": "2026-07-28T01:51:45.816745+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
-    "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
-    "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 19:50:35 GMT",
-    "source": "BBC News",
-    "id": "80eb3d95a75c9387ae2a4a9426fbf606",
-    "fetched_at": "2026-07-27T22:54:42.558088+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "A Japanese town wrestles with identity after protests over its first mosque",
-    "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-    "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 22:08:21 GMT",
-    "source": "BBC News",
-    "id": "ddb8588a3ce580882134187fcc79c985",
-    "fetched_at": "2026-07-27T22:54:42.558071+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says Iran war talks taking place during lull in strikes",
-    "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-    "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 21:10:56 GMT",
-    "source": "BBC News",
-    "id": "27a1a6f4c9d529ab74473a3db04dd1dc",
-    "fetched_at": "2026-07-27T22:54:42.558066+00:00"
   }
 ]
