@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+    "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:47:05 GMT",
+    "source": "BBC News",
+    "id": "fb50c5c735bfa75df659fddfc9a549ee",
+    "fetched_at": "2026-07-29T22:54:36.392133+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+    "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 15:33:14 GMT",
+    "source": "BBC News",
+    "id": "54e96c51a96765a86a9aa567fc8cf39e",
+    "fetched_at": "2026-07-29T22:54:36.392107+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Salman Rushdie attacker convicted of terror offenses",
+    "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+    "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:15:33 GMT",
+    "source": "BBC News",
+    "id": "468546ea72fc201f6761eed2ae9775dd",
+    "fetched_at": "2026-07-29T22:54:35.237345+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iraq eyes supplying Turkey with 1 million oil barrels a day amid Hormuz crisis",
+    "summary": "Iraqi Prime Minister Ali Zeydi visited Ankara for his first talks with Erdoğan since taking office, offering to supply Turkey with 1 million barrels of oil per day as Ankara seeks to reduce its dependence on disrupted Gulf routes.",
+    "link": "http://www.euronews.com/2026/07/29/iraq-eyes-supplying-turkey-with-1-million-oil-barrels-a-day-amid-hormuz-crisis",
+    "published": "Wed, 29 Jul 2026 13:01:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "22e6604a1870e4d7e7942364c68a1e5b",
+    "fetched_at": "2026-07-29T22:54:34.086582+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gaza residents flee before Israeli strike hits mosque area",
+    "summary": "Israeli strikes hit Gaza City and Deir al-Balah after an evacuation warning, with footage showing explosions, flames and smoke rising into the night sky.",
+    "link": "http://www.euronews.com/video/2026/07/29/gaza-residents-flee-before-israeli-strike-hits-mosque-area",
+    "published": "Wed, 29 Jul 2026 13:30:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "552776ac18683907ded155f040649889",
+    "fetched_at": "2026-07-29T22:54:32.937888+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French Navy carries out 'shooting drill' mid interview",
+    "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 16:12:35 GMT",
+    "source": "BBC News",
+    "id": "db1b086f87fba407e61a4377ded2e05f",
+    "fetched_at": "2026-07-29T22:54:31.782213+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meta shares fall as frustration grows over AI spending plans",
+    "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+    "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:44:18 GMT",
+    "source": "BBC News",
+    "id": "628d18510dc4eb933591e9b99d30c1a3",
+    "fetched_at": "2026-07-29T22:54:30.634666+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A look at Trump's $22bn plans to makeover Dulles Airport near Washington",
+    "summary": "The BBC's Shaimaa Khalil reports from aboard one of the airport's iconic 'people movers' that have been in use since 1962.",
+    "link": "https://www.bbc.co.uk/news/videos/c1m1zg5xzj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 21:14:34 GMT",
+    "source": "BBC News",
+    "id": "d9c76aa58fe6b51223335f5ade782e0a",
+    "fetched_at": "2026-07-29T22:54:29.488314+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+    "summary": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+    "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:23:08 GMT",
+    "source": "BBC News",
+    "id": "a7215792e4aceafcd568c42b31f939cd",
+    "fetched_at": "2026-07-29T22:54:28.318910+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Fifa opens disciplinary proceedings against Argentina",
     "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
     "fetched_at": "2026-07-29T13:59:04.699337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran expert brands Islamic Center of England Iran's 'UK office,' urges immediate closure",
-    "summary": "An Iran expert urges Britain to shut down the Islamic Center of England, claiming it operates as the supreme leader&apos;s office amid IRGC smuggling threats.",
-    "link": "https://www.foxnews.com/world/iran-expert-brands-islamic-center-england-irans-uk-office-urges-immediate-closure",
-    "published": "Tue, 28 Jul 2026 14:16:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e360478554b83116800cea95cce313c9",
-    "fetched_at": "2026-07-29T13:59:04.699333+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Burma approves death penalty for scammers months after FBI's $8 billion crypto crackdown",
-    "summary": "Burma&apos;s new law mandates the death penalty for internet scammers months after the FBI&apos;s $8 billion Bitcoin seizure from a criminal network.",
-    "link": "https://www.foxnews.com/world/burma-approves-death-penalty-scammers-months-after-fbi-8-billion-crypto-crackdown",
-    "published": "Tue, 28 Jul 2026 14:27:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "eb7fcd8963014da5204c4e4c9b63924e",
-    "fetched_at": "2026-07-29T13:59:04.699307+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World-famous Catholic shrine torched, 'Devil in a skirt' scrawled on Virgin Mary statue",
-    "summary": "Surveillance footage shows a man pouring gasoline on the altar at St. James Church as the Medjugorje shrine was vandalized days before a major festival.",
-    "link": "https://www.foxnews.com/world/world-famous-catholic-shrine-torched-devil-skirt-scrawled-virgin-mary-statue",
-    "published": "Tue, 28 Jul 2026 15:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0eb958462f1b2dda5984c41dbfd8dc61",
-    "fetched_at": "2026-07-29T13:59:03.499923+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening",
-    "summary": "A massive explosion ripped through Aeon Mall in Kumamoto just weeks after its grand reopening, leaving up to 30 employees unaccounted for.",
-    "link": "https://www.foxnews.com/world/japan-mall-rebuilt-after-deadly-earthquake-destroyed-major-temblor-weeks-after-fresh-start-reopening",
-    "published": "Tue, 28 Jul 2026 16:05:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "27780c825722da529f9b15879c482fe0",
-    "fetched_at": "2026-07-29T13:59:02.306001+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine negotiator: 'We have the upper hand'",
-    "summary": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
-    "published": "Tue, 28 Jul 2026 16:10:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "243fe8a859588edd1255206dab349638",
-    "fetched_at": "2026-07-29T13:59:01.105022+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump meets Ukrainian, Israeli leaders as they pay respects to Lindsey Graham",
-    "summary": "President Trump holds talks with Ukrainian and Israeli leaders on the sidelines of Senator Lindsey Graham's funeral.",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5910540/trump-meets-ukrainian-israeli-leaders-as-they-pay-respects-to-lindsey-graham",
-    "published": "Tue, 28 Jul 2026 16:14:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "b2a978faf63b601d42d421cee1adf0aa",
-    "fetched_at": "2026-07-29T13:58:59.843260+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-    "summary": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
-    "published": "Tue, 28 Jul 2026 16:30:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "ada59cb00654d6afb53c1a0238fe75a9",
-    "fetched_at": "2026-07-29T13:58:58.637719+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
-    "summary": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 21:38:37 GMT",
-    "source": "BBC News",
-    "id": "2c7cc8c0de6206c713abde2abb2739c1",
-    "fetched_at": "2026-07-29T13:58:57.429280+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-    "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 12:17:42 GMT",
-    "source": "BBC News",
-    "id": "40aefd5258ee305ffb58d72e7376ccae",
-    "fetched_at": "2026-07-29T13:58:56.224891+00:00"
   }
 ]
