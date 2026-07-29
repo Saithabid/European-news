@@ -1,6 +1,196 @@
 [
   {
     "region": "Europe",
+    "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
+    "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+    "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 09:07:40 GMT",
+    "source": "BBC News",
+    "id": "b0e9f6942866530c8fb20f6403309b7f",
+    "fetched_at": "2026-07-29T11:56:23.664363+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
+    "summary": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 09:02:48 GMT",
+    "source": "BBC News",
+    "id": "68eaaba4c46ed95f23905503a024206f",
+    "fetched_at": "2026-07-29T11:56:23.664361+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+    "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:44:40 GMT",
+    "source": "BBC News",
+    "id": "54e96c51a96765a86a9aa567fc8cf39e",
+    "fetched_at": "2026-07-29T11:56:23.664359+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+    "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 10:23:29 GMT",
+    "source": "BBC News",
+    "id": "205c4c5be51db1fa3b3f0f2e3bcdfd23",
+    "fetched_at": "2026-07-29T11:56:23.664356+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+    "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:47:05 GMT",
+    "source": "BBC News",
+    "id": "fb50c5c735bfa75df659fddfc9a549ee",
+    "fetched_at": "2026-07-29T11:56:23.664353+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dramatic California beach rescue after powerful waves hit Santa Cruz",
+    "summary": "A 16-year-old California lifeguard rescued a 10-year-old boy from powerful waves at Santa Cruz's Seabright State Beach in a dramatic ocean rescue.",
+    "link": "http://www.euronews.com/video/2026/07/29/dramatic-california-beach-rescue-after-powerful-waves-hit-santa-cruz",
+    "published": "Wed, 29 Jul 2026 11:13:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ab960b130bec2a8fe067cc2698d2a63b",
+    "fetched_at": "2026-07-29T11:56:23.664351+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 29th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-midday",
+    "published": "Wed, 29 Jul 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ff796576aacb930179ad653e8e9c5d75",
+    "fetched_at": "2026-07-29T11:56:23.664348+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Syria hunts down suspects in March coastal attacks, dismantles IS cells in Aleppo",
+    "summary": "Security forces lured a militia commander accused of leading one of the March 2025 assault units into an ambush near Jableh, killing him and a second suspect in an exchange of fire. IS cells were separately dismantled in Aleppo and al-Bab.",
+    "link": "http://www.euronews.com/2026/07/29/syria-hunts-down-suspects-in-march-coastal-attacks-dismantles-is-cells-in-aleppo",
+    "published": "Wed, 29 Jul 2026 12:01:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ad887e4286ce721431402426531ed841",
+    "fetched_at": "2026-07-29T11:56:23.664345+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Navas del Rey residents return after Spain wildfire evacuation",
+    "summary": "Residents returned to Navas del Rey after Spain's wildfires, finding burned homes and scorched gardens as firefighters continued battling nearby blazes.",
+    "link": "http://www.euronews.com/video/2026/07/29/navas-del-rey-residents-return-after-spain-wildfire-evacuation",
+    "published": "Wed, 29 Jul 2026 12:07:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9839ef36ad7c7a3ae7dbaedd3a142b7e",
+    "fetched_at": "2026-07-29T11:56:23.664343+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iraq eyes supplying Turkey with 1 million oil barrels a day amid Hormuz crisis",
+    "summary": "Iraqi Prime Minister Ali Zeydi visited Ankara for his first talks with Erdoğan since taking office, offering to supply Turkey with 1 million barrels of oil per day as Ankara seeks to reduce its dependence on disrupted Gulf routes.",
+    "link": "http://www.euronews.com/2026/07/29/iraq-eyes-supplying-turkey-with-1-million-oil-barrels-a-day-amid-hormuz-crisis",
+    "published": "Wed, 29 Jul 2026 13:01:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "22e6604a1870e4d7e7942364c68a1e5b",
+    "fetched_at": "2026-07-29T11:56:23.664339+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gaza residents flee before Israeli strike hits mosque area",
+    "summary": "Israeli strikes hit Gaza City and Deir al-Balah after an evacuation warning, with footage showing explosions, flames and smoke rising into the night sky.",
+    "link": "http://www.euronews.com/video/2026/07/29/gaza-residents-flee-before-israeli-strike-hits-mosque-area",
+    "published": "Wed, 29 Jul 2026 13:30:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "552776ac18683907ded155f040649889",
+    "fetched_at": "2026-07-29T11:56:23.664335+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French Navy carries out 'shooting drill' mid interview",
+    "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 16:12:35 GMT",
+    "source": "BBC News",
+    "id": "db1b086f87fba407e61a4377ded2e05f",
+    "fetched_at": "2026-07-29T11:56:23.664311+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa and PM criticise Infantino World Cup plan",
+    "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 15:36:29 GMT",
+    "source": "BBC News",
+    "id": "a0dd136f618d6fef24412550e6d04548",
+    "fetched_at": "2026-07-29T11:56:22.523046+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+    "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+    "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 10:35:13 GMT",
+    "source": "BBC News",
+    "id": "f838cf5e58798e0fd4aa34203eac1a1f",
+    "fetched_at": "2026-07-29T11:56:21.380507+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+    "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:42:05 GMT",
+    "source": "BBC News",
+    "id": "d81929e26ca0800f69fa6274cdae7c2b",
+    "fetched_at": "2026-07-29T11:56:20.237079+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+    "summary": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+    "link": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+    "published": "Wed, 29 Jul 2026 06:00:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b580dbc28e2e8102c2a9f088c83ebb35",
+    "fetched_at": "2026-07-29T11:56:19.086841+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Antisemitic violence reaches deadliest level since 1994, new global report finds",
+    "summary": "The J7 report reveals 20 people were killed in antisemitic attacks in 2025, marking the deadliest year since 1994 with a 97% rise in violence.",
+    "link": "https://www.foxnews.com/world/antisemitic-violence-reaches-deadliest-level-since-1994-new-global-report-finds",
+    "published": "Wed, 29 Jul 2026 06:20:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "79b1d1e9437760fba47510caed810add",
+    "fetched_at": "2026-07-29T11:56:17.948945+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+    "summary": "Jordan intercepted five missiles launched from Iran, the country's military said, hours after the U.S. military said it had knocked down an Iranian missile barrage launched against American forces.",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+    "published": "Wed, 29 Jul 2026 05:07:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "b6591db536cfba2ae6103c8e681df116",
+    "fetched_at": "2026-07-29T11:56:16.797638+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+    "summary": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+    "published": "Wed, 29 Jul 2026 07:00:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "918162978c0d8678d1e245ead3763779",
+    "fetched_at": "2026-07-29T11:56:15.638224+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
     "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
     "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
@@ -408,195 +598,5 @@
     "source": "BBC News",
     "id": "0438ad849ce0594450fd2b31ee03b91f",
     "fetched_at": "2026-07-28T22:53:09.691998+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Keiko Fujimori takes office as Peru's president, vowing to end decade of instability",
-    "summary": "The Popular Force leader becomes Peru's first female president, returning Fujimorism to power after 26 years. She is due to deliver her inaugural address and unveil her cabinet. King Felipe VI attended the ceremony in Lima.",
-    "link": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
-    "published": "Tue, 28 Jul 2026 21:57:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b2c1a8752d182bb7f66d3dd468214606",
-    "fetched_at": "2026-07-28T21:01:41.622164+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky to press Trump on air defences while in Washington",
-    "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 10:41:41 GMT",
-    "source": "BBC News",
-    "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
-    "fetched_at": "2026-07-28T21:01:41.622161+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
-    "summary": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
-    "link": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
-    "published": "Tue, 28 Jul 2026 06:00:22 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "aa39e0abee59aeb1c7b70babe8c9f77b",
-    "fetched_at": "2026-07-28T21:01:41.622157+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World-famous Catholic shrine torched, 'Devil in a skirt' scrawled on Virgin Mary statue",
-    "summary": "Surveillance footage shows a man pouring gasoline on the altar at St. James Church as the Medjugorje shrine was vandalized days before a major festival.",
-    "link": "https://www.foxnews.com/world/world-famous-catholic-shrine-torched-devil-skirt-scrawled-virgin-mary-statue",
-    "published": "Tue, 28 Jul 2026 15:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0eb958462f1b2dda5984c41dbfd8dc61",
-    "fetched_at": "2026-07-28T21:01:41.622128+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening",
-    "summary": "A massive explosion ripped through Aeon Mall in Kumamoto just weeks after its grand reopening, leaving up to 30 employees unaccounted for.",
-    "link": "https://www.foxnews.com/world/japan-mall-rebuilt-after-deadly-earthquake-destroyed-major-temblor-weeks-after-fresh-start-reopening",
-    "published": "Tue, 28 Jul 2026 16:05:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "27780c825722da529f9b15879c482fe0",
-    "fetched_at": "2026-07-28T21:01:40.450666+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-    "summary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
-    "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
-    "published": "Mon, 27 Jul 2026 12:54:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "ca1d4567bceffe70a30b809257981fee",
-    "fetched_at": "2026-07-28T21:01:39.294544+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine negotiator: 'We have the upper hand'",
-    "summary": "In an interview with NPR, one of Ukraine's top negotiators Sergiy Kyslytsya explains why Kyiv believes it now has the leverage to force Russia into serious negotiations.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135640/ukraine-war-peace-negotiator-russia",
-    "published": "Tue, 28 Jul 2026 16:10:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "243fe8a859588edd1255206dab349638",
-    "fetched_at": "2026-07-28T21:01:38.134695+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump meets Ukrainian, Israeli leaders as they pay respects to Lindsey Graham",
-    "summary": "President Trump holds talks with Ukrainian and Israeli leaders on the sidelines of Senator Lindsey Graham's funeral.",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5910540/trump-meets-ukrainian-israeli-leaders-as-they-pay-respects-to-lindsey-graham",
-    "published": "Tue, 28 Jul 2026 16:14:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "b2a978faf63b601d42d421cee1adf0aa",
-    "fetched_at": "2026-07-28T21:01:36.987898+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-    "summary": "The 51-year-old daughter of the late former President Alberto Fujimori, Peru's new conservative leader has pledged to fight crime with an \"iron fist.\"",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
-    "published": "Tue, 28 Jul 2026 16:30:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "ada59cb00654d6afb53c1a0238fe75a9",
-    "fetched_at": "2026-07-28T21:01:35.830578+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-    "summary": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 20:57:29 GMT",
-    "source": "BBC News",
-    "id": "40aefd5258ee305ffb58d72e7376ccae",
-    "fetched_at": "2026-07-28T21:01:34.682388+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
-    "summary": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 20:42:56 GMT",
-    "source": "BBC News",
-    "id": "2c7cc8c0de6206c713abde2abb2739c1",
-    "fetched_at": "2026-07-28T21:01:33.526996+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-    "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 05:01:19 GMT",
-    "source": "BBC News",
-    "id": "b82e899f37c301c84a36ac20b5a74de3",
-    "fetched_at": "2026-07-28T19:12:28.761542+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-    "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-    "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 18:19:57 GMT",
-    "source": "BBC News",
-    "id": "96ce98a3e4f0d97fe1be3791c11b3e37",
-    "fetched_at": "2026-07-28T19:12:27.612729+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump and Netanyahu hold first face-to-face talks since their 'disagreement' on the Iran war",
-    "summary": "The meeting was the eighth between Trump and Netanyahu since the US president returned to office in early 2025 and came ahead of elections in Israel and US midterms later this year.",
-    "link": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
-    "published": "Tue, 28 Jul 2026 20:12:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0cf8097defeafa22166b63564443cabe",
-    "fetched_at": "2026-07-28T19:12:26.453912+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman fired at US consulate in Toronto, second time building was shot at this year",
-    "summary": "The second shooting at the U.S. Consulate in Toronto this year triggered an hourlong police chase, although no arrest was made as officials continue to investigate.",
-    "link": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year",
-    "published": "Tue, 28 Jul 2026 02:53:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5b0ab2181ca223fdf8968c400341585e",
-    "fetched_at": "2026-07-28T19:12:25.290889+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran expert brands Islamic Center of England Iran's 'UK office,' urges immediate closure",
-    "summary": "An Iran expert urges Britain to shut down the Islamic Center of England, claiming it operates as the supreme leader&apos;s office amid IRGC smuggling threats.",
-    "link": "https://www.foxnews.com/world/iran-expert-brands-islamic-center-england-irans-uk-office-urges-immediate-closure",
-    "published": "Tue, 28 Jul 2026 14:16:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e360478554b83116800cea95cce313c9",
-    "fetched_at": "2026-07-28T19:12:24.137595+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Burma approves death penalty for scammers months after FBI's $8 billion crypto crackdown",
-    "summary": "Burma&apos;s new law mandates the death penalty for internet scammers months after the FBI&apos;s $8 billion Bitcoin seizure from a criminal network.",
-    "link": "https://www.foxnews.com/world/burma-approves-death-penalty-scammers-months-after-fbi-8-billion-crypto-crackdown",
-    "published": "Tue, 28 Jul 2026 14:27:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "eb7fcd8963014da5204c4e4c9b63924e",
-    "fetched_at": "2026-07-28T19:12:22.985169+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-    "summary": "French authorities ordered nearly 4,000 people evacuated Tuesday from tourist sites on the Atlantic coast as returning heat threatened firefighters' fragile hold on a vast wildfire west of Bordeaux.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-    "published": "Tue, 28 Jul 2026 02:25:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "8c1b8ff250bf3c1b1ad256615211f154",
-    "fetched_at": "2026-07-28T19:12:21.825608+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
-    "summary": "President Trump is set to hold separate meetings with Ukrainian leader Volodymyr Zelenskyy and Israeli Prime Minister Benjamin Netanyahu are today. And, Temporary Protected Status holders may face deportation soon.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
-    "published": "Tue, 28 Jul 2026 07:26:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "82281a2d5728fe999ba459d05eb29a15",
-    "fetched_at": "2026-07-28T19:12:20.647404+00:00"
   }
 ]
