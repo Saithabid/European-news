@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+    "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 08:16:15 GMT",
+    "source": "BBC News",
+    "id": "6095f734a2a57312ca027fd9d2d1803c",
+    "fetched_at": "2026-07-29T17:07:23.196138+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France fire crews face searing heat in battle to contain flames",
+    "summary": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region.",
+    "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 16:49:41 GMT",
+    "source": "BBC News",
+    "id": "917a626a6beffa14afa53a5cf746c6b7",
+    "fetched_at": "2026-07-29T17:07:23.196135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 29th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-evening",
+    "published": "Wed, 29 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1f2f768d3bce5f5a9b7d92633b74bd7f",
+    "fetched_at": "2026-07-29T17:07:23.196132+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+    "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 16:33:05 GMT",
+    "source": "BBC News",
+    "id": "e85ff68e3221f0510ef866a62037bd6e",
+    "fetched_at": "2026-07-29T17:07:23.196102+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Devastating European wildfires in maps - and how they're being tackled",
+    "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
+    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:53:40 GMT",
+    "source": "BBC News",
+    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
+    "fetched_at": "2026-07-29T17:07:22.073310+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
+    "summary": "Two young men were publicly hanged in Isfahan&apos;s Shahid Alikhani Square, prompting onlookers to protest before Iranian security forces fired tear gas.",
+    "link": "https://www.foxnews.com/world/iran-hangs-2-protesters-public-crowd-cries-dishonorable-security-fires-tear-gas",
+    "published": "Tue, 28 Jul 2026 20:24:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f98582538edc80e2ae9f6fd261a17803",
+    "fetched_at": "2026-07-29T17:07:20.957316+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report",
+    "summary": "Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran&apos;s executions, with some sewing their lips shut in protest.",
+    "link": "https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report",
+    "published": "Tue, 28 Jul 2026 22:08:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7ffdd02add0944157604b0c2017a71a2",
+    "fetched_at": "2026-07-29T17:07:19.844358+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+    "summary": "The author and translator of <em>Taiwan Travelogue, </em>the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan's colonial ties to Japan and escalating geopolitical pressure from China.",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+    "published": "Wed, 29 Jul 2026 12:55:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "4e1d6f38189d50b638361d8c2b27df0a",
+    "fetched_at": "2026-07-29T17:07:18.727365+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 02:30:50 GMT",
+    "source": "BBC News",
+    "id": "d71e922d34d6e603efed26aa9c2882c4",
+    "fetched_at": "2026-07-29T17:07:17.610109+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "OpenAI says its rogue AI tried to hack other companies",
+    "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 08:49:27 GMT",
+    "source": "BBC News",
+    "id": "bfb87dcdf8b469660b551bb777b22bf5",
+    "fetched_at": "2026-07-29T17:07:16.477788+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+    "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 13:48:41 GMT",
+    "source": "BBC News",
+    "id": "5dfebed2afde879440aa458179d7ee77",
+    "fetched_at": "2026-07-29T17:07:15.343694+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "F1 says Qatar and Abu Dhabi races remain on despite war contingency plans",
     "summary": "The world's top racing competition said the final two races of the 2026 season remain on track, but a mid-September review will determine whether the championship concludes in Europe instead.",
     "link": "http://www.euronews.com/2026/07/29/f1-says-qatar-and-abu-dhabi-races-remain-on-despite-war-contingency-plans",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "19d882720f47b1075b1d0117a17b72fe",
     "fetched_at": "2026-07-29T08:26:48.789212+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan earthquake shakes Kumamoto newsroom as staff shelter under desks",
-    "summary": "Footage shows newsroom staff taking cover as a magnitude 7.1 earthquake struck Kumamoto in southwestern Japan, killing 13 people.",
-    "link": "http://www.euronews.com/video/2026/07/29/japan-earthquake-shakes-kumamoto-newsroom-as-staff-shelter-under-desks",
-    "published": "Wed, 29 Jul 2026 08:11:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4f87b4e5b7da7dad17b1660985fea458",
-    "fetched_at": "2026-07-29T08:26:48.789209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli protesters march in Tel Aviv against West Bank settler violence",
-    "summary": "Israeli protesters marched in Tel Aviv against settler violence in the occupied West Bank as police blocked their route and confronted demonstrators.",
-    "link": "http://www.euronews.com/video/2026/07/29/israeli-protesters-march-in-tel-aviv-against-west-bank-settler-violence",
-    "published": "Wed, 29 Jul 2026 08:35:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59264e0f37581b47b0fec5012a9824cd",
-    "fetched_at": "2026-07-29T08:26:48.789206+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wisconsin tornado leaves homes damaged and streets covered in debris",
-    "summary": "Residents in Menasha, Wisconsin, survey tornado damage as crews assess destroyed homes, fallen trees and damaged power lines after the storm.",
-    "link": "http://www.euronews.com/video/2026/07/29/wisconsin-tornado-leaves-homes-damaged-and-streets-covered-in-debris",
-    "published": "Wed, 29 Jul 2026 09:29:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "83fd126e108907f649426288ef7b3b08",
-    "fetched_at": "2026-07-29T08:26:48.789202+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia issues international arrest warrant for Telegram founder Durov",
-    "summary": "Durov, who holds French and UAE passports and has lived outside Russia for years, called the case politically motivated. The Kremlin frequently targets its political enemies on charges of supporting \"terrorism\" or \"extremism\".",
-    "link": "http://www.euronews.com/2026/07/29/russia-issues-international-arrest-warrant-for-telegram-founder-durov",
-    "published": "Wed, 29 Jul 2026 10:13:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4a70c5cff3a2cd60de6b97239275cd6a",
-    "fetched_at": "2026-07-29T08:26:48.789172+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drone footage shows Mount Etna cable car above volcanic landscape",
-    "summary": "Sicily's Etna cable car carries visitors up Europe's active volcano while engineers manage risks from eruptions, gases and harsh conditions.",
-    "link": "http://www.euronews.com/video/2026/07/29/drone-footage-shows-mount-etna-cable-car-above-volcanic-landscape",
-    "published": "Wed, 29 Jul 2026 10:20:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "92b6d6d1aef90271ef3699cc58f752ce",
-    "fetched_at": "2026-07-29T08:26:47.681393+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mancini reappointed Italy boss after Pirlo controversy",
-    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 13:54:00 GMT",
-    "source": "BBC News",
-    "id": "47e939197e2104ff907a404f10564fd3",
-    "fetched_at": "2026-07-29T08:26:46.580261+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Golden Dome could leave US vulnerable to drone attacks without Israeli systems",
-    "summary": "A new report warns Golden Dome&apos;s focus on space-based missile defense could leave U.S. cities vulnerable to drone attacks over the homeland.",
-    "link": "https://www.foxnews.com/world/golden-dome-leave-us-vulnerable-drone-attacks-without-israeli-systems",
-    "published": "Tue, 28 Jul 2026 11:20:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "35a96cc5aa20a0db4393f9139784b295",
-    "fetched_at": "2026-07-29T08:26:45.457612+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French man discovers 5 dead babies hidden in boxes in his home after argument with wife: prosecutors",
-    "summary": "A husband in France found five decomposing babies in cardboard boxes after arguing with his wife, who had given birth at home to a baby boy the day before.",
-    "link": "https://www.foxnews.com/world/french-man-discovers-5-dead-babies-hidden-boxes-home-after-argument-wife-prosecutors",
-    "published": "Wed, 29 Jul 2026 02:55:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "421fbbabbcd9299176e178f12b336278",
-    "fetched_at": "2026-07-29T08:26:44.326632+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
-    "summary": "Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people.",
-    "link": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
-    "published": "Wed, 29 Jul 2026 01:34:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "a790fb89d70fd935aa7baca22992c846",
-    "fetched_at": "2026-07-29T08:26:43.208452+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
-    "summary": "French authorities ordered 4,000 more people evacuated from tourist sites along its Atlantic coast, widening what may be France's largest peacetime evacuation.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
-    "published": "Wed, 29 Jul 2026 03:22:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "3dddf6605f27501f73b57891dd1f1cd8",
-    "fetched_at": "2026-07-29T08:26:42.084790+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-    "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 05:00:07 GMT",
-    "source": "BBC News",
-    "id": "7b27dadc023d7e926d6541f23b3094f3",
-    "fetched_at": "2026-07-29T08:26:40.962209+00:00"
   }
 ]
