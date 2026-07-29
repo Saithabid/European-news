@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 01:22:14 GMT",
+    "source": "BBC News",
+    "id": "d71e922d34d6e603efed26aa9c2882c4",
+    "fetched_at": "2026-07-29T01:55:09.970833+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+    "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+    "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:25:53 GMT",
+    "source": "BBC News",
+    "id": "6803a8402a915f2cd7631dc59693412b",
+    "fetched_at": "2026-07-29T01:55:09.970803+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran and US trade strikes, shattering brief lull in fighting",
+    "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 00:51:45 GMT",
+    "source": "BBC News",
+    "id": "5dfebed2afde879440aa458179d7ee77",
+    "fetched_at": "2026-07-29T01:55:08.854613+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: The moment quake hit Japan",
+    "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+    "source": "BBC News",
+    "id": "3daf85373d0ffe825a3ba61cfed9c639",
+    "fetched_at": "2026-07-29T01:55:07.722279+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+    "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 16:14:03 GMT",
+    "source": "BBC News",
+    "id": "79a1e2c9213b75c0cd5cac8a66d68b75",
+    "fetched_at": "2026-07-29T01:55:06.607507+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
+    "summary": "Two young men were publicly hanged in Isfahan&apos;s Shahid Alikhani Square, prompting onlookers to protest before Iranian security forces fired tear gas.",
+    "link": "https://www.foxnews.com/world/iran-hangs-2-protesters-public-crowd-cries-dishonorable-security-fires-tear-gas",
+    "published": "Tue, 28 Jul 2026 20:24:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f98582538edc80e2ae9f6fd261a17803",
+    "fetched_at": "2026-07-29T01:55:05.484431+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
+    "summary": "The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
+    "published": "Tue, 28 Jul 2026 08:51:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "554d0e8d9d78ee3fa16e70ab787e3a41",
+    "fetched_at": "2026-07-29T01:55:04.372682+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
+    "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
+    "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 21:43:30 GMT",
+    "source": "BBC News",
+    "id": "2e7b1909fea9064f3c4596579c399ec9",
+    "fetched_at": "2026-07-29T01:55:03.248392+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+    "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:12:09 GMT",
+    "source": "BBC News",
+    "id": "d71784b8683f690df1aba3f267633499",
+    "fetched_at": "2026-07-29T01:55:02.119664+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Odyssey translator writes scathing review of Nolan film adaptation",
     "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
     "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "40ae98a218fd5b498bac92c33be2c3bd",
     "fetched_at": "2026-07-28T16:00:11.239364+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Georgia's Okefenokee Swamp becomes a UNESCO World Heritage site",
-    "summary": "The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.",
-    "link": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
-    "published": "Mon, 27 Jul 2026 17:22:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "95df3cae886f2a9e71c8de22fb0d5cda",
-    "fetched_at": "2026-07-28T16:00:10.028886+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Photos: Spain and France's battle record wildfires",
-    "summary": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
-    "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
-    "published": "Tue, 28 Jul 2026 11:24:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "f09688429dc63e288c7b5ccdf1b4fbb6",
-    "fetched_at": "2026-07-28T16:00:08.870773+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-    "summary": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 23:24:28 GMT",
-    "source": "BBC News",
-    "id": "89f81fc366d6c3c5879e7ea555703402",
-    "fetched_at": "2026-07-28T16:00:07.698308+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-    "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 12:31:45 GMT",
-    "source": "BBC News",
-    "id": "6ed0537c611dc0952de251a65eaf8c30",
-    "fetched_at": "2026-07-28T16:00:06.332528+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-    "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 21:06:42 GMT",
-    "source": "BBC News",
-    "id": "82b7980fb90d80e7884227dc422c8206",
-    "fetched_at": "2026-07-28T16:00:05.147898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zoo staff rescue near-extinct snails from remote rock",
-    "summary": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 08:50:20 GMT",
-    "source": "BBC News",
-    "id": "b19a6ffd40ab161ac773cead689be7fc",
-    "fetched_at": "2026-07-28T13:46:45.781183+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-    "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 16:33:05 GMT",
-    "source": "BBC News",
-    "id": "e85ff68e3221f0510ef866a62037bd6e",
-    "fetched_at": "2026-07-28T13:46:45.781181+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Devastating European wildfires in maps - and how they're being tackled",
-    "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 27 Jul 2026 15:59:27 GMT",
-    "source": "BBC News",
-    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
-    "fetched_at": "2026-07-28T13:46:45.781178+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-    "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 13:03:38 GMT",
-    "source": "BBC News",
-    "id": "b9a0ebf177ddd6c23c5a8d7ca90e0744",
-    "fetched_at": "2026-07-28T13:46:45.781176+00:00"
   }
 ]
