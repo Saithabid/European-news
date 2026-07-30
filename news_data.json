@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+    "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+    "link": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 03:03:12 GMT",
+    "source": "BBC News",
+    "id": "b84f1019edc13e7f3be6275ab317a3b0",
+    "fetched_at": "2026-07-30T04:52:22.729431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+    "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+    "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 02:54:54 GMT",
+    "source": "BBC News",
+    "id": "c153559f62d70933df510763634a5a67",
+    "fetched_at": "2026-07-30T04:52:22.729427+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France veterinary team treats pets of wildfire evacuees",
+    "summary": "A French veterinary team in Bordeaux is caring for pets of Gironde wildfire evacuees, providing food, treatment and support while families await their return home.",
+    "link": "http://www.euronews.com/video/2026/07/29/france-veterinary-team-treats-pets-of-wildfire-evacuees",
+    "published": "Wed, 29 Jul 2026 14:57:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a35aaad27b2a35f8fb5c3f88bb24eb05",
+    "fetched_at": "2026-07-30T04:52:22.729399+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US resumes direct attacks on Iran one day after its foiled strikes on Jordanian bases hosting American troops",
+    "summary": "The latest attacks come after Trump vowed “very hard” strikes on Iran following their recent strikes on bases hosting American troops in Jordan, and other US allies in the region, including Egypt and the Gulf Arab states.",
+    "link": "http://www.euronews.com/2026/07/30/washington-resumes-direct-attacks-on-iran-a-day-after-its-foiled-strikes-on-jordanian-base",
+    "published": "Thu, 30 Jul 2026 05:53:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "17bfd57247e6d51b2d7347564865fe21",
+    "fetched_at": "2026-07-30T04:52:21.605383+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Death toll from Japan's earthquake rises to 23 as vital 72-hour window for rescues enters critical phase",
+    "summary": "Rescue efforts are continuing as time runs down on the critical 72 hour window for rescues following the quake. Officials have not detailed how many people were reported missing but local media say dozens remain unaccounted for.",
+    "link": "http://www.euronews.com/2026/07/30/death-toll-from-japans-earthquake-rises-to-23-as-vital-72-hour-window-for-rescues-enters-c",
+    "published": "Thu, 30 Jul 2026 06:27:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4adc2128e204a89f5a41355321243960",
+    "fetched_at": "2026-07-30T04:52:20.413343+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky to press Trump on air defences while in Washington",
+    "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 10:41:41 GMT",
+    "source": "BBC News",
+    "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
+    "fetched_at": "2026-07-30T04:52:19.267673+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Red Cross declares crisis over blood supply shortage in US for second time its history",
+    "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 23:04:35 GMT",
+    "source": "BBC News",
+    "id": "f2c602ba5d64cd8ff636fac553ff6b67",
+    "fetched_at": "2026-07-30T04:52:18.132866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The once-destroyed community that's now a global energy giant",
+    "summary": "A US county wiped out by a hurricane is now the world's largest exporter of liquified natural gas.",
+    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 02:08:24 GMT",
+    "source": "BBC News",
+    "id": "e5b1dbe832632893cbcfc3c3a4bb322f",
+    "fetched_at": "2026-07-30T04:52:16.983242+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fauci to face contempt vote after refusing to answer Covid questions in Congress",
+    "summary": "Senator Rand Paul says: \"I think there is a very real chance that he could be prosecuted for that.\"",
+    "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 02:39:49 GMT",
+    "source": "BBC News",
+    "id": "7dbfafa1f529f6cd9732f63438ce98c3",
+    "fetched_at": "2026-07-30T04:52:15.846586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+    "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 03:33:01 GMT",
+    "source": "BBC News",
+    "id": "421a79f26b48bc268cf109ae653b4a1d",
+    "fetched_at": "2026-07-30T04:52:14.687048+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump considering AI controls after OpenAI hacking incidents",
     "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
     "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "8d92f336d76286208265e2f64c319412",
     "fetched_at": "2026-07-29T15:50:20.424849+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran rejects Hormuz deal and launches surprise strike on US forces in Jordan",
-    "summary": "Tehran rejected an Omani proposal to divide the strait equally and declared Hormuz would \"never return to its prewar situation,\" hours before the IRGC launched multiple ballistic missiles at US forces in Jordan in what CENTCOM called an attempted surprise attack.",
-    "link": "http://www.euronews.com/2026/07/29/iran-rejects-hormuz-deal-and-launches-surprise-strike-on-us-forces-in-jordan",
-    "published": "Wed, 29 Jul 2026 16:57:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9a547b9b61ea31843a30154e53fbd763",
-    "fetched_at": "2026-07-29T15:50:20.424847+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis to copy Iran's Hormuz playbook with Red Sea toll plan",
-    "summary": "Yemen's information minister said intelligence confirmed IRGC advisers were directly involved in designing a Houthi-enforced toll system for the Bab el-Mandeb, mirroring Iran's contested claim to charge fees in the Strait of Hormuz.",
-    "link": "http://www.euronews.com/2026/07/29/houthis-to-copy-irans-hormuz-playbook-with-red-sea-toll-plan",
-    "published": "Wed, 29 Jul 2026 17:28:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0956ac90f987b97e99e232ba26cb5016",
-    "fetched_at": "2026-07-29T15:50:20.424844+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zidane confirmed as France head coach",
-    "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 09:03:49 GMT",
-    "source": "BBC News",
-    "id": "2018edd914b8bf02f439387cb13ba4b5",
-    "fetched_at": "2026-07-29T15:50:20.424841+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Deadly French wildfires threaten missile plants, nuclear sites as fourth heatwave looms",
-    "summary": "Missile factories and nuclear research sites near Bordeaux face evacuation as wildfires scorch over 104,000 acres in France&apos;s worst blaze on record.",
-    "link": "https://www.foxnews.com/world/deadly-french-wildfires-threaten-missile-plants-nuclear-sites-fourth-heatwave-looms",
-    "published": "Tue, 28 Jul 2026 17:56:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4601adf6b3e565c3cce5eb466dc1430d",
-    "fetched_at": "2026-07-29T15:50:20.424811+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As Spain battles wildfires, its politicians battle over climate change's role",
-    "summary": "Crews are still battling wildfires that broke out last week and have burned nearly 200,000 acres across Spain. The country is bracing for another round of extreme heat, with temperatures expected to top 100 degrees Fahrenheit starting Wednesday.",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
-    "published": "Tue, 28 Jul 2026 16:31:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "4a933bd8d31f220364a6026f7c1782e7",
-    "fetched_at": "2026-07-29T15:50:19.274424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-    "summary": "Chitral borders Afghanistan and isn't easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-    "published": "Wed, 29 Jul 2026 10:21:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "fbe105de2a2213b6e8050b53a5ab4cb8",
-    "fetched_at": "2026-07-29T15:50:18.011613+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-    "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 23:12:09 GMT",
-    "source": "BBC News",
-    "id": "d71784b8683f690df1aba3f267633499",
-    "fetched_at": "2026-07-29T15:50:16.757749+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "eBay agrees $56m settlement with bloggers over harassment case",
-    "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
-    "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 21:49:16 GMT",
-    "source": "BBC News",
-    "id": "2bb121d90db8ed97c3416c74ce380506",
-    "fetched_at": "2026-07-29T15:50:15.591575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US walks out of UN Security Council meeting during France's remarks",
-    "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-    "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 09:32:25 GMT",
-    "source": "BBC News",
-    "id": "0438ad849ce0594450fd2b31ee03b91f",
-    "fetched_at": "2026-07-29T15:50:14.436594+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-    "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
-    "link": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 21:09:21 GMT",
-    "source": "BBC News",
-    "id": "0b8fa6b63df6249c4f946cdbef694807",
-    "fetched_at": "2026-07-29T15:50:13.181266+00:00"
   }
 ]
