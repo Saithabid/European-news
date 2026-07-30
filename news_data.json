@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+    "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 12:14:00 GMT",
+    "source": "BBC News",
+    "id": "2f5da98877a6a57b48714b9fac15d9f8",
+    "fetched_at": "2026-07-30T15:46:31.909375+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of migrants storm Ceuta border from Morocco",
+    "summary": "Thousands crossed into Spain's North African enclave of Ceuta from Morocco, prompting local authorities to request a national emergency and military support.",
+    "link": "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco",
+    "published": "Thu, 30 Jul 2026 17:10:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fe3bb26168fc864620bbf6a91bd4857b",
+    "fetched_at": "2026-07-30T15:46:31.909344+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Milei authorises expulsion of foreigners over anti-Argentina hate speech",
+    "summary": "The government said the changes were a response to what it described as \"recent displays of hostility towards the Argentine Republic and Argentinians,\" although it did not cite specific examples.",
+    "link": "http://www.euronews.com/2026/07/30/milei-authorises-expulsion-of-foreigners-over-anti-argentina-hate-speech",
+    "published": "Thu, 30 Jul 2026 17:26:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b0e2e233877454f307bd8bca4a07eb6",
+    "fetched_at": "2026-07-30T15:46:30.802255+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
+    "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+    "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 10:35:13 GMT",
+    "source": "BBC News",
+    "id": "f838cf5e58798e0fd4aa34203eac1a1f",
+    "fetched_at": "2026-07-30T15:46:29.685298+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa to boycott World Cups if Fifa plans approved",
+    "summary": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:33:31 GMT",
+    "source": "BBC News",
+    "id": "4dcb37ee7aa8baf6d2febd9ef675dabd",
+    "fetched_at": "2026-07-30T15:46:28.569200+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+    "summary": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+    "link": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+    "published": "Wed, 29 Jul 2026 06:00:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b580dbc28e2e8102c2a9f088c83ebb35",
+    "fetched_at": "2026-07-30T15:46:27.458036+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Antisemitic violence reaches deadliest level since 1994, new global report finds",
+    "summary": "The J7 report reveals 20 people were killed in antisemitic attacks in 2025, marking the deadliest year since 1994 with a 97% rise in violence.",
+    "link": "https://www.foxnews.com/world/antisemitic-violence-reaches-deadliest-level-since-1994-new-global-report-finds",
+    "published": "Wed, 29 Jul 2026 06:20:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "79b1d1e9437760fba47510caed810add",
+    "fetched_at": "2026-07-30T15:46:26.338424+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+    "summary": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+    "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:23:08 GMT",
+    "source": "BBC News",
+    "id": "a7215792e4aceafcd568c42b31f939cd",
+    "fetched_at": "2026-07-30T15:46:25.220707+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Salman Rushdie attacker convicted of terror offences",
+    "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+    "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:15:33 GMT",
+    "source": "BBC News",
+    "id": "468546ea72fc201f6761eed2ae9775dd",
+    "fetched_at": "2026-07-30T15:46:24.098971+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
     "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
     "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "4adc2128e204a89f5a41355321243960",
     "fetched_at": "2026-07-30T04:52:20.413343+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky to press Trump on air defences while in Washington",
-    "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 10:41:41 GMT",
-    "source": "BBC News",
-    "id": "296c6ddd4c7d5e1a2697d7e1a4c201d2",
-    "fetched_at": "2026-07-30T04:52:19.267673+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Red Cross declares crisis over blood supply shortage in US for second time its history",
-    "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 23:04:35 GMT",
-    "source": "BBC News",
-    "id": "f2c602ba5d64cd8ff636fac553ff6b67",
-    "fetched_at": "2026-07-30T04:52:18.132866+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The once-destroyed community that's now a global energy giant",
-    "summary": "A US county wiped out by a hurricane is now the world's largest exporter of liquified natural gas.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 02:08:24 GMT",
-    "source": "BBC News",
-    "id": "e5b1dbe832632893cbcfc3c3a4bb322f",
-    "fetched_at": "2026-07-30T04:52:16.983242+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fauci to face contempt vote after refusing to answer Covid questions in Congress",
-    "summary": "Senator Rand Paul says: \"I think there is a very real chance that he could be prosecuted for that.\"",
-    "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 02:39:49 GMT",
-    "source": "BBC News",
-    "id": "7dbfafa1f529f6cd9732f63438ce98c3",
-    "fetched_at": "2026-07-30T04:52:15.846586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-    "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 03:33:01 GMT",
-    "source": "BBC News",
-    "id": "421a79f26b48bc268cf109ae653b4a1d",
-    "fetched_at": "2026-07-30T04:52:14.687048+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump considering AI controls after OpenAI hacking incidents",
-    "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 00:41:28 GMT",
-    "source": "BBC News",
-    "id": "709ad09e92ed9c08c583775dadebf533",
-    "fetched_at": "2026-07-30T01:47:20.485723+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World-famous Catholic shrine torched, 'Devil in a skirt' scrawled on Virgin Mary statue",
-    "summary": "Surveillance footage shows a man pouring gasoline on the altar at St. James Church as the Medjugorje shrine was vandalized days before a major festival.",
-    "link": "https://www.foxnews.com/world/world-famous-catholic-shrine-torched-devil-skirt-scrawled-virgin-mary-statue",
-    "published": "Tue, 28 Jul 2026 15:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0eb958462f1b2dda5984c41dbfd8dc61",
-    "fetched_at": "2026-07-30T01:47:19.378432+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening",
-    "summary": "A massive explosion ripped through Aeon Mall in Kumamoto just weeks after its grand reopening, leaving up to 30 employees unaccounted for.",
-    "link": "https://www.foxnews.com/world/japan-mall-rebuilt-after-deadly-earthquake-destroyed-major-temblor-weeks-after-fresh-start-reopening",
-    "published": "Tue, 28 Jul 2026 16:05:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "27780c825722da529f9b15879c482fe0",
-    "fetched_at": "2026-07-30T01:47:18.230256+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia launches ballistic missile attack on Kyiv hours after Zelenskyy warns of major strike",
-    "summary": "Multiple explosions rocked Kyiv after Russia launched ballistic missiles, hours after Volodymyr Zelenskyy warned of a massive overnight assault.",
-    "link": "https://www.foxnews.com/world/russia-launches-ballistic-missile-attack-kyiv-hours-after-zelenskyy-warns-major-strike",
-    "published": "Wed, 29 Jul 2026 21:14:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9a75c76d9fd1ca27408966e67b5b8684",
-    "fetched_at": "2026-07-30T01:47:17.108967+00:00"
   }
 ]
