@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Anthropic says AI models hacked three firms during cyber tests",
+    "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 01:31:14 GMT",
+    "source": "BBC News",
+    "id": "34552a0a88b4091830981d389be3a91c",
+    "fetched_at": "2026-07-31T02:04:45.149170+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+    "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 00:52:54 GMT",
+    "source": "BBC News",
+    "id": "c48f55e4fcf3646a3165eb9a9eca416e",
+    "fetched_at": "2026-07-31T02:04:44.048029+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+    "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+    "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 01:48:36 GMT",
+    "source": "BBC News",
+    "id": "3b219dd49c6d93043cd236ee3d53c1ba",
+    "fetched_at": "2026-07-31T02:04:42.926248+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 9 dead",
+    "summary": "Video shows thousands of migrants overwhelming Ceuta&apos;s Tarajal border as Spain deploys its military and at least nine people die during crossings.",
+    "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
+    "published": "Thu, 30 Jul 2026 21:35:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8d3df9646ae63397c9af920c19ae3274",
+    "fetched_at": "2026-07-31T02:04:41.820904+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US economic growth sees surprise slowdown in second quarter",
+    "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
+    "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 14:24:41 GMT",
+    "source": "BBC News",
+    "id": "d97bc32deb63e26fbb3f2230cdbc7633",
+    "fetched_at": "2026-07-31T02:04:40.706003+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | July 30th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this July 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/07/30/latest-news-bulletin-july-30th-2026-midday",
@@ -548,55 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b6591db536cfba2ae6103c8e681df116",
     "fetched_at": "2026-07-30T13:42:13.933405+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-    "summary": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-    "published": "Wed, 29 Jul 2026 07:00:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "918162978c0d8678d1e245ead3763779",
-    "fetched_at": "2026-07-30T13:42:12.797879+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Latest Mideast strikes between U.S. and Iran draw Saudi Arabia into conflict",
-    "summary": "The U.S. and Saudi Arabia struck Iran-backed militias in Iraq after they launched attacks.",
-    "link": "https://www.npr.org/2026/07/29/nx-s1-5911806/latest-mideast-strikes-between-u-s-and-iran-draw-saudi-arabia-into-conflict",
-    "published": "Wed, 29 Jul 2026 16:22:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "bb5a597c909c4ddae795f1e9da210e3c",
-    "fetched_at": "2026-07-30T13:42:11.659972+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The race is on for the next United Nations secretary general",
-    "summary": "The United Nations Security Council will begin straw polls Thursday to whittle down the field of candidates for the next U.N. secretary-general. Seven candidates are running to replace António Guterres.",
-    "link": "https://www.npr.org/2026/07/29/nx-s1-5909162/the-race-is-on-for-the-next-united-nations-secretary-general",
-    "published": "Wed, 29 Jul 2026 16:28:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "064974ab68553ee7d0c2f216c2b73553",
-    "fetched_at": "2026-07-30T13:42:10.518812+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
-    "summary": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process.",
-    "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
-    "published": "Thu, 30 Jul 2026 07:45:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "7e7b2b61bcd6a8393a4785d3112bccd6",
-    "fetched_at": "2026-07-30T13:42:09.347686+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-    "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 21:36:06 GMT",
-    "source": "BBC News",
-    "id": "7b27dadc023d7e926d6541f23b3094f3",
-    "fetched_at": "2026-07-30T13:42:08.210020+00:00"
   }
 ]
