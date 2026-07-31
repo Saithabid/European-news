@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 05:21:18 GMT",
+    "source": "BBC News",
+    "id": "aabba1aee81c215bacf83d760a8a3011",
+    "fetched_at": "2026-07-31T22:53:33.269985+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fifa says 'nobody selling football' as plan continues",
+    "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 08:21:37 GMT",
+    "source": "BBC News",
+    "id": "d86c0a49136bbe8a65618486ddfbe176",
+    "fetched_at": "2026-07-31T22:53:32.143676+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sudan's forgotten war leaves millions hungry as global attention remains elsewhere",
+    "summary": "El Fasher and El Obeid remain flashpoints as UN reports detail war crimes, mass rape, and genocide conditions in Sudan&apos;s escalating civil war.",
+    "link": "https://www.foxnews.com/world/sudans-forgotten-war-leaves-millions-hungry-global-attention-remains-elsewhere",
+    "published": "Wed, 29 Jul 2026 16:13:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b149a98037be8a22885146128558f680",
+    "fetched_at": "2026-07-31T22:53:31.030863+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO member scrambles fighter jets as Russian attack on Ukraine kills 8",
+    "summary": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered its airspace during a massive barrage of over 70 missiles and 280 drones.",
+    "link": "https://www.foxnews.com/world/nato-member-scrambles-fighter-jets-russian-attack-ukraine-kills-8",
+    "published": "Thu, 30 Jul 2026 07:41:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3eae713bdee62d6ac4182baeb5733efc",
+    "fetched_at": "2026-07-31T22:53:29.908704+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+    "summary": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 19:03:28 GMT",
+    "source": "BBC News",
+    "id": "559b4b1483577c51e71c81db54a9b65f",
+    "fetched_at": "2026-07-31T22:53:28.782612+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+    "summary": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 21:18:30 GMT",
+    "source": "BBC News",
+    "id": "843900518436158ec1a7f2051755ddaf",
+    "fetched_at": "2026-07-31T22:53:27.656151+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration drops Reflecting Pool vandalism charge and admits flawed repairs",
+    "summary": "Former Olympian David Hearn had been arrested, but prosecutors now say he did not cause the damage.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 22:45:20 GMT",
+    "source": "BBC News",
+    "id": "779a493ef359a935f4ec549c790b48a9",
+    "fetched_at": "2026-07-31T22:53:26.522560+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+    "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognisable by a member of the public and lead to a suspect.",
+    "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 22:46:44 GMT",
+    "source": "BBC News",
+    "id": "3e79af215b94e861ae80c920576baccb",
+    "fetched_at": "2026-07-31T22:53:25.406334+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
     "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Algeria.",
     "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "421a79f26b48bc268cf109ae653b4a1d",
     "fetched_at": "2026-07-31T13:46:53.294720+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
-    "summary": "The suspect was working as an intern in Nato's Supreme Headquarters Allied Powers (Shape) Europe in Mons, Belgium.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymk20n0v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 16:48:40 GMT",
-    "source": "BBC News",
-    "id": "c417288ec58cdd46c69db385becb79a2",
-    "fetched_at": "2026-07-31T13:46:52.173787+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AC Milan and Italy great Baresi dies aged 66",
-    "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 09:44:48 GMT",
-    "source": "BBC News",
-    "id": "ed933033eb755b09a38b43a0531e225f",
-    "fetched_at": "2026-07-31T10:30:44.523375+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Giant land art project urges UK PM Andy Burnham to restore aid",
-    "summary": "A campaign calling on the UK to restore humanitarian aid has been launched with a striking land art portrait of UK Prime Minister Andy Burnham in northern England.",
-    "link": "http://www.euronews.com/video/2026/07/31/giant-land-art-project-urges-uk-pm-andy-burnham-to-restore-aid",
-    "published": "Fri, 31 Jul 2026 10:23:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "32df4010a53406fb99ab48e205b7c106",
-    "fetched_at": "2026-07-31T10:30:44.523371+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Giant lifelike sculptures bring art closer to Chicago crowds",
-    "summary": "Carole Feuerman's hyperrealistic sculptures transform Chicago's Magnificent Mile into an open-air gallery, inviting visitors to interact with public art.",
-    "link": "http://www.euronews.com/video/2026/07/31/giant-lifelike-sculptures-bring-art-closer-to-chicago-crowds",
-    "published": "Fri, 31 Jul 2026 11:45:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cf315063e635c7b07a89988c09501e4c",
-    "fetched_at": "2026-07-31T10:30:44.523344+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Renowned Nepali mountaineer Nirmal Purja among missing climbers after avalanche on Broad Peak",
-    "summary": "Nepal’s Nirmal Purja, who led the expedition of 10 climbers, set a world record in 2019, becoming the first person ever to climb all 14 of the world’s highest peaks surpassing the 8,000 metre mark, in just 189 days.",
-    "link": "http://www.euronews.com/2026/07/31/renowned-nepali-mountaineer-nirmal-purja-among-missing-climbers-after-avalanche-on-broad-p",
-    "published": "Fri, 31 Jul 2026 11:56:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e1ddc2c71d9a9e78dee1c7d16d7ce2c7",
-    "fetched_at": "2026-07-31T10:30:43.392319+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 31st, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-midday",
-    "published": "Fri, 31 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0a7abd29391e699f3fc1d197c9b9d30e",
-    "fetched_at": "2026-07-31T10:30:42.248551+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
-    "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 09:51:38 GMT",
-    "source": "BBC News",
-    "id": "69964494dbf540135be54f65c9333da7",
-    "fetched_at": "2026-07-31T10:30:41.108011+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French man discovers 5 dead babies hidden in boxes in his home after argument with wife: prosecutors",
-    "summary": "A husband in France found five decomposing babies in cardboard boxes after arguing with his wife, who had given birth at home to a baby boy the day before.",
-    "link": "https://www.foxnews.com/world/french-man-discovers-5-dead-babies-hidden-boxes-home-after-argument-wife-prosecutors",
-    "published": "Wed, 29 Jul 2026 02:55:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "421fbbabbcd9299176e178f12b336278",
-    "fetched_at": "2026-07-31T10:30:39.957668+00:00"
   }
 ]
