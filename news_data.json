@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+    "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 14:26:07 GMT",
+    "source": "BBC News",
+    "id": "cc4e02cdfc80b5087677ff624e3a2188",
+    "fetched_at": "2026-07-31T15:57:41.495605+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 15:18:31 GMT",
+    "source": "BBC News",
+    "id": "3e0319f4b52a57d84026c92f76ccb4a8",
+    "fetched_at": "2026-07-31T15:57:41.495602+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cosplayers perform and pose at ChinaJoy gaming festival",
+    "summary": "Cosplayers in elaborate costumes gather at ChinaJoy in Shanghai, where gaming fans meet characters inspired by popular video games.",
+    "link": "http://www.euronews.com/video/2026/07/31/cosplayers-perform-and-pose-at-chinajoy-gaming-festival",
+    "published": "Fri, 31 Jul 2026 15:57:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "06e47e07c3cdce21d55da0b9e530c1c4",
+    "fetched_at": "2026-07-31T15:57:41.495599+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sovereignty, sarcasm, blame: How North Africa reacted to Ceuta crisis",
+    "summary": "Morocco's press framed Ceuta as a sovereignty question, Algerian media accused Rabat of \"weaponising\" migration, and Tunisian social media responded with dark humour, as the region's own economic and political crises remained in the background.",
+    "link": "http://www.euronews.com/2026/07/31/sovereignty-sarcasm-blame-how-north-africa-reacted-to-ceuta-crisis",
+    "published": "Fri, 31 Jul 2026 16:38:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9d4feab05f8080eaa62d015e6c455066",
+    "fetched_at": "2026-07-31T15:57:41.495594+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Greek police probe 'foul play' in death of woman found in suitcase",
+    "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
+    "link": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 13:47:19 GMT",
+    "source": "BBC News",
+    "id": "1993497326223bcc31542f4edcf244ae",
+    "fetched_at": "2026-07-31T15:57:41.495562+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia launches ballistic missile attack on Kyiv hours after Zelenskyy warns of major strike",
+    "summary": "Multiple explosions rocked Kyiv after Russia launched ballistic missiles, hours after Volodymyr Zelenskyy warned of a massive overnight assault.",
+    "link": "https://www.foxnews.com/world/russia-launches-ballistic-missile-attack-kyiv-hours-after-zelenskyy-warns-major-strike",
+    "published": "Wed, 29 Jul 2026 21:14:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9a75c76d9fd1ca27408966e67b5b8684",
+    "fetched_at": "2026-07-31T15:57:40.357738+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Javier Bardem shares how he became villain Max Cady in Apple TV's 'Cape Fear'",
+    "summary": "Javier Bardem discusses taking on the iconic role of Max Cady in Apple TV's<em> Cape Fear, </em>the joy of playing villains, and continuing to speak out for Palestinian rights.",
+    "link": "https://www.npr.org/2026/07/30/nx-s1-5699398/javier-bardem-max-cady-cape-fear",
+    "published": "Thu, 30 Jul 2026 04:41:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbada05b2696ffde5b6255589ea255b8",
+    "fetched_at": "2026-07-31T15:57:39.211586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
+    "summary": "The US medical expert faces possible contempt-of-Congress proceedings for refusing to answer questions during a hearing on Covid.",
+    "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 08:06:57 GMT",
+    "source": "BBC News",
+    "id": "7dbfafa1f529f6cd9732f63438ce98c3",
+    "fetched_at": "2026-07-31T15:57:38.045293+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Wiped out by a hurricane, this US community is now a global energy giant",
+    "summary": "A US county flattened by Hurricane Rita is now the world's largest exporter of liquified natural gas.",
+    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 02:08:24 GMT",
+    "source": "BBC News",
+    "id": "e5b1dbe832632893cbcfc3c3a4bb322f",
+    "fetched_at": "2026-07-31T15:57:36.899868+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man impaled by a hiking pole treks 10 miles down mountain",
+    "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:47:09 GMT",
+    "source": "BBC News",
+    "id": "a755ab333c9a7bb00e7e50bf6cdf4154",
+    "fetched_at": "2026-07-31T15:57:35.753350+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nevada wildfire still burning out of control near secretive Area 51",
+    "summary": "The Quail Springs Fire, which was caused by lightning, now covers more than 13,500 acres, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 18:48:35 GMT",
+    "source": "BBC News",
+    "id": "31f1edc6e95eea24f1327c5c90867d97",
+    "fetched_at": "2026-07-31T15:57:34.591074+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Father of teen school shooter sentenced to 15 years in prison",
+    "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:33:41 GMT",
+    "source": "BBC News",
+    "id": "0e7b444ce63322bfe72255ac7188ad36",
+    "fetched_at": "2026-07-31T15:57:33.437680+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
     "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
     "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "f98582538edc80e2ae9f6fd261a17803",
     "fetched_at": "2026-07-30T20:59:01.539950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report",
-    "summary": "Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran&apos;s executions, with some sewing their lips shut in protest.",
-    "link": "https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report",
-    "published": "Tue, 28 Jul 2026 22:08:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7ffdd02add0944157604b0c2017a71a2",
-    "fetched_at": "2026-07-30T20:59:00.406488+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump retaliates after Iran attack as expert warns regime is growing more dangerous",
-    "summary": "Trump vowed to hit Iran hard after CENTCOM confirmed all ballistic missiles targeting U.S. forces in Jordan were intercepted with no casualties reported.",
-    "link": "https://www.foxnews.com/world/trump-retaliates-after-iran-attack-expert-warns-regime-growing-more-dangerous",
-    "published": "Thu, 30 Jul 2026 06:00:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6c97a1102bbfcc76690e86c29acc6fca",
-    "fetched_at": "2026-07-30T20:58:59.269261+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
-    "summary": "The author and translator of <em>Taiwan Travelogue, </em>the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan's colonial ties to Japan and escalating geopolitical pressure from China.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
-    "published": "Wed, 29 Jul 2026 12:55:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "4e1d6f38189d50b638361d8c2b27df0a",
-    "fetched_at": "2026-07-30T20:58:58.126337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
-    "summary": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
-    "published": "Thu, 30 Jul 2026 04:55:53 -0400",
-    "source": "NPR Topics: World",
-    "id": "7fe97dee04fb3864b99331f80fd9fc18",
-    "fetched_at": "2026-07-30T20:58:56.982011+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland",
-    "summary": "A Russian missile and drone barrage across Ukraine killed at least 10 civilians, including children, and NATO scrambled jets after one of the missiles crossed the border into Poland.",
-    "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
-    "published": "Thu, 30 Jul 2026 05:53:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "7d64bdb6d3bc60594552be8fed2fb09b",
-    "fetched_at": "2026-07-30T20:58:55.827131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-    "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 17:19:27 GMT",
-    "source": "BBC News",
-    "id": "de3b109e9a45fbed1cba7b74afa3c247",
-    "fetched_at": "2026-07-30T19:13:57.048567+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Why limited war with the US may suit Iran better than peace",
-    "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 17:26:01 GMT",
-    "source": "BBC News",
-    "id": "314fa89326b5da70172df7dafecdfc46",
-    "fetched_at": "2026-07-30T19:13:57.048540+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-    "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 17:55:24 GMT",
-    "source": "BBC News",
-    "id": "39acda8f3a81486ab2d54a4295b5f9dd",
-    "fetched_at": "2026-07-30T19:13:55.943635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
-    "summary": "Video captured thousands of migrants stampeding through Ceuta as Spain&apos;s government denies the enclave president&apos;s request for a national emergency.",
-    "link": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
-    "published": "Thu, 30 Jul 2026 14:19:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cbb6eb985569333e086f644063c69270",
-    "fetched_at": "2026-07-30T19:13:54.723553+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-    "summary": "Chitral borders Afghanistan and isn't easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-    "published": "Wed, 29 Jul 2026 10:21:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "fbe105de2a2213b6e8050b53a5ab4cb8",
-    "fetched_at": "2026-07-30T19:13:53.614042+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 25",
-    "summary": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan 's southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
-    "published": "Thu, 30 Jul 2026 01:18:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "0485d2da6085deb82a7fd08899aa573f",
-    "fetched_at": "2026-07-30T19:13:52.508773+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-    "summary": "In an unprecedented step, European nations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-    "published": "Thu, 30 Jul 2026 13:38:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "daf386e91772c42c7fc00e828e42552d",
-    "fetched_at": "2026-07-30T19:13:51.406240+00:00"
   }
 ]
