@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Why limited war with the US may suit Iran better than peace",
+    "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:26:01 GMT",
+    "source": "BBC News",
+    "id": "314fa89326b5da70172df7dafecdfc46",
+    "fetched_at": "2026-07-31T17:27:28.280961+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+    "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 08:09:17 GMT",
+    "source": "BBC News",
+    "id": "de3b109e9a45fbed1cba7b74afa3c247",
+    "fetched_at": "2026-07-31T17:27:28.280958+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 31st, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-evening",
+    "published": "Fri, 31 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "68d497510bd96cb1fea96678414436a8",
+    "fetched_at": "2026-07-31T17:27:28.280956+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five wildfires still burn in Turkey as risk extends into next week",
+    "summary": "Of 206 fires recorded since Wednesday, 202 had been brought under control by Friday, but some remained active across western and southern coasts, with high temperatures and strong winds forecast to persist across 10 provinces.",
+    "link": "http://www.euronews.com/2026/07/31/five-wildfires-still-burn-in-turkey-as-risk-extends-into-next-week",
+    "published": "Fri, 31 Jul 2026 18:04:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "32ff38596cb941f33ff625bb96ea678e",
+    "fetched_at": "2026-07-31T17:27:28.280952+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Liberia sacks officials after record cocaine seizures worth $336 million",
+    "summary": "The drug busts have intensified scrutiny of Liberia's narcotics problem, with social media users, political commentators and local media calling for greater accountability from public officials and swift progress in the investigation.",
+    "link": "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million",
+    "published": "Fri, 31 Jul 2026 19:11:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7dad67c9141dcd69f52f36ed5748eb37",
+    "fetched_at": "2026-07-31T17:27:28.280923+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:55:24 GMT",
+    "source": "BBC News",
+    "id": "39acda8f3a81486ab2d54a4295b5f9dd",
+    "fetched_at": "2026-07-31T17:27:27.144631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report",
+    "summary": "Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran&apos;s executions, with some sewing their lips shut in protest.",
+    "link": "https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report",
+    "published": "Tue, 28 Jul 2026 22:08:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7ffdd02add0944157604b0c2017a71a2",
+    "fetched_at": "2026-07-31T17:27:25.991858+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump retaliates after Iran attack as expert warns regime is growing more dangerous",
+    "summary": "Trump vowed to hit Iran hard after CENTCOM confirmed all ballistic missiles targeting U.S. forces in Jordan were intercepted with no casualties reported.",
+    "link": "https://www.foxnews.com/world/trump-retaliates-after-iran-attack-expert-warns-regime-growing-more-dangerous",
+    "published": "Thu, 30 Jul 2026 06:00:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6c97a1102bbfcc76690e86c29acc6fca",
+    "fetched_at": "2026-07-31T17:27:24.839460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
+    "summary": "Video captured thousands of migrants stampeding through Ceuta as Spain&apos;s government denies the enclave president&apos;s request for a national emergency.",
+    "link": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
+    "published": "Thu, 30 Jul 2026 14:19:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cbb6eb985569333e086f644063c69270",
+    "fetched_at": "2026-07-31T17:27:23.697693+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
+    "summary": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
+    "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
+    "published": "Thu, 30 Jul 2026 04:55:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "7fe97dee04fb3864b99331f80fd9fc18",
+    "fetched_at": "2026-07-31T17:27:22.535897+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland",
+    "summary": "A Russian missile and drone barrage across Ukraine killed at least 10 civilians, including children, and NATO scrambled jets after one of the missiles crossed the border into Poland.",
+    "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
+    "published": "Thu, 30 Jul 2026 05:53:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "7d64bdb6d3bc60594552be8fed2fb09b",
+    "fetched_at": "2026-07-31T17:27:21.377896+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
+    "summary": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
+    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
+    "published": "Thu, 30 Jul 2026 13:38:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "daf386e91772c42c7fc00e828e42552d",
+    "fetched_at": "2026-07-31T17:27:20.178590+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
     "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
     "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "34552a0a88b4091830981d389be3a91c",
     "fetched_at": "2026-07-31T02:04:45.149170+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-    "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 00:52:54 GMT",
-    "source": "BBC News",
-    "id": "c48f55e4fcf3646a3165eb9a9eca416e",
-    "fetched_at": "2026-07-31T02:04:44.048029+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-    "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-    "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 01:48:36 GMT",
-    "source": "BBC News",
-    "id": "3b219dd49c6d93043cd236ee3d53c1ba",
-    "fetched_at": "2026-07-31T02:04:42.926248+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 9 dead",
-    "summary": "Video shows thousands of migrants overwhelming Ceuta&apos;s Tarajal border as Spain deploys its military and at least nine people die during crossings.",
-    "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
-    "published": "Thu, 30 Jul 2026 21:35:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8d3df9646ae63397c9af920c19ae3274",
-    "fetched_at": "2026-07-31T02:04:41.820904+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US economic growth sees surprise slowdown in second quarter",
-    "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
-    "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 14:24:41 GMT",
-    "source": "BBC News",
-    "id": "d97bc32deb63e26fbb3f2230cdbc7633",
-    "fetched_at": "2026-07-31T02:04:40.706003+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 30th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/30/latest-news-bulletin-july-30th-2026-midday",
-    "published": "Thu, 30 Jul 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "536431739a7903ede4278e3af9604835",
-    "fetched_at": "2026-07-30T22:58:15.679968+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crete wildfire kills two firefighters as fierce flames spread in Greece",
-    "summary": "Wildfires continue to burn across Crete, Greece, where two firefighters died as strong winds fuelled the blaze and aircraft joined rescue efforts.",
-    "link": "http://www.euronews.com/video/2026/07/30/crete-wildfire-kills-two-firefighters-as-fierce-flames-spread-in-greece",
-    "published": "Thu, 30 Jul 2026 13:29:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f4a2d5fbaee4431d1b7d8975fdece88f",
-    "fetched_at": "2026-07-30T22:58:14.526300+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fifa could receive first external money in October",
-    "summary": "Fifa could bank first lot of private World Cup cash by end of October as European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to controversial World Cup plans.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 09:29:58 GMT",
-    "source": "BBC News",
-    "id": "8e0c23bf11ab60b30608be9149f6220a",
-    "fetched_at": "2026-07-30T22:58:13.288062+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Devastating European wildfires in maps - and how they're being tackled",
-    "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 11:53:40 GMT",
-    "source": "BBC News",
-    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
-    "fetched_at": "2026-07-30T22:58:12.147805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-    "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-    "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 16:04:53 GMT",
-    "source": "BBC News",
-    "id": "3a07d7bf59183d4a8a3b31b8579aca14",
-    "fetched_at": "2026-07-30T22:58:10.992250+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 15:35:50 GMT",
-    "source": "BBC News",
-    "id": "e6b5eeffcaed564e9312b3c0d7ca323f",
-    "fetched_at": "2026-07-30T20:59:03.841501+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-    "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 15:20:19 GMT",
-    "source": "BBC News",
-    "id": "b6979c360e162def0d199859bfb240a8",
-    "fetched_at": "2026-07-30T20:59:02.691962+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
-    "summary": "Two young men were publicly hanged in Isfahan&apos;s Shahid Alikhani Square, prompting onlookers to protest before Iranian security forces fired tear gas.",
-    "link": "https://www.foxnews.com/world/iran-hangs-2-protesters-public-crowd-cries-dishonorable-security-fires-tear-gas",
-    "published": "Tue, 28 Jul 2026 20:24:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f98582538edc80e2ae9f6fd261a17803",
-    "fetched_at": "2026-07-30T20:59:01.539950+00:00"
   }
 ]
