@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
+    "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Algeria.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 19:17:09 GMT",
+    "source": "BBC News",
+    "id": "65e5461d26eee8d18744995902a05ab6",
+    "fetched_at": "2026-07-31T20:56:40.683032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Migrant crisis pushes Italy to restore border checks with Spain, testing Europe's open-border system",
+    "summary": "Conservative leaders across Europe react as an estimated 60,000 migrants crossed into Ceuta from Morocco within 24 hours, threatening its open-border policies.",
+    "link": "https://www.foxnews.com/world/migrant-crisis-pushes-italy-restore-border-checks-spain-testing-europes-open-border-system",
+    "published": "Fri, 31 Jul 2026 16:08:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2e85c1feead4e4d92726ea68a84c66b7",
+    "fetched_at": "2026-07-31T20:56:39.570590+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+    "summary": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process.",
+    "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
+    "published": "Thu, 30 Jul 2026 07:45:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "7e7b2b61bcd6a8393a4785d3112bccd6",
+    "fetched_at": "2026-07-31T20:56:38.446858+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announces deal for Hamas to disarm, militants demand Israel withdraws from Gaza first",
+    "summary": "President Trump announced that his Board of Peace has reached a deal with Hamas to completely disarm, calling it a \"historic breakthrough.\" But a senior Hamas official says Israel must withdraw first.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+    "published": "Fri, 31 Jul 2026 01:20:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "9e29ebbc0eb22bab12851718aadf5c7f",
+    "fetched_at": "2026-07-31T20:56:37.315270+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from southwestern Japan quake climbs to 34",
+    "summary": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+    "published": "Fri, 31 Jul 2026 01:40:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "90eac85fb243902006b80ac531036d15",
+    "fetched_at": "2026-07-31T20:56:36.186554+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+    "summary": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+    "published": "Fri, 31 Jul 2026 02:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "c45d132888dff39b01d5fbb6913022ab",
+    "fetched_at": "2026-07-31T20:56:35.062634+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
+    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
+    "published": "Fri, 31 Jul 2026 16:22:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "6a05abb007083dbc39152ebb0736ea6b",
+    "fetched_at": "2026-07-31T20:56:33.939110+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone delivery helps in Rwanda, but only so much",
+    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+    "published": "Fri, 31 Jul 2026 16:28:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "daa60640df4b7994e69a83dc361e3d4d",
+    "fetched_at": "2026-07-31T20:56:32.837818+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
     "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
     "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "421fbbabbcd9299176e178f12b336278",
     "fetched_at": "2026-07-31T10:30:39.957668+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sudan's forgotten war leaves millions hungry as global attention remains elsewhere",
-    "summary": "El Fasher and El Obeid remain flashpoints as UN reports detail war crimes, mass rape, and genocide conditions in Sudan&apos;s escalating civil war.",
-    "link": "https://www.foxnews.com/world/sudans-forgotten-war-leaves-millions-hungry-global-attention-remains-elsewhere",
-    "published": "Wed, 29 Jul 2026 16:13:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b149a98037be8a22885146128558f680",
-    "fetched_at": "2026-07-31T10:30:38.837515+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO member scrambles fighter jets as Russian attack on Ukraine kills 8",
-    "summary": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered its airspace during a massive barrage of over 70 missiles and 280 drones.",
-    "link": "https://www.foxnews.com/world/nato-member-scrambles-fighter-jets-russian-attack-ukraine-kills-8",
-    "published": "Thu, 30 Jul 2026 07:41:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3eae713bdee62d6ac4182baeb5733efc",
-    "fetched_at": "2026-07-31T10:30:37.712307+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US cyber defence agency warns of water attacks after Minnesota targeted",
-    "summary": "More than 30 water systems in the state faced an attack this week - with US media indicating Iran could be behind it.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 01:46:58 GMT",
-    "source": "BBC News",
-    "id": "559b4b1483577c51e71c81db54a9b65f",
-    "fetched_at": "2026-07-31T10:30:36.569410+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fifa says 'nobody selling football' as plan continues",
-    "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 06:31:44 GMT",
-    "source": "BBC News",
-    "id": "d86c0a49136bbe8a65618486ddfbe176",
-    "fetched_at": "2026-07-31T06:38:06.534271+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-    "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 05:21:18 GMT",
-    "source": "BBC News",
-    "id": "aabba1aee81c215bacf83d760a8a3011",
-    "fetched_at": "2026-07-31T06:38:06.534268+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-    "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 04:25:49 GMT",
-    "source": "BBC News",
-    "id": "0b6c9ef144d053e96a47260a810b0454",
-    "fetched_at": "2026-07-31T06:38:06.534266+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hamas agrees to 'historic' disarmament deal that includes Israeli withdrawal from Gaza",
-    "summary": "Trump said the deal to advance his 20-point peace plan will be rolled out in “carefully structured phases”, but did not announce a timeline as to when the process may be completed.",
-    "link": "http://www.euronews.com/2026/07/31/trump-announces-historic-deal-for-the-complete-disarmament-of-hamas-and-israeli-withdrawal",
-    "published": "Fri, 31 Jul 2026 06:25:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "077055102d0c043e4242b460d3dd8051",
-    "fetched_at": "2026-07-31T06:38:06.534262+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase",
-    "summary": "The announcement comes just days after rivals OpenAI revealed that their popular ChatGPT platform went rogue during its testing phase of its most powerful AI model, where it too infiltrated other organisations’ cyberspace.",
-    "link": "http://www.euronews.com/next/2026/07/31/anthropic-admits-its-most-powerful-ai-model-hacked-into-three-organisations-systems-during",
-    "published": "Fri, 31 Jul 2026 06:50:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b62189aec6750bca09138c51d5caf10b",
-    "fetched_at": "2026-07-31T06:38:06.534233+00:00"
   }
 ]
