@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Fifa says 'nobody selling football' as plan continues",
+    "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 06:31:44 GMT",
+    "source": "BBC News",
+    "id": "d86c0a49136bbe8a65618486ddfbe176",
+    "fetched_at": "2026-07-31T06:38:06.534271+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 05:21:18 GMT",
+    "source": "BBC News",
+    "id": "aabba1aee81c215bacf83d760a8a3011",
+    "fetched_at": "2026-07-31T06:38:06.534268+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+    "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 04:25:49 GMT",
+    "source": "BBC News",
+    "id": "0b6c9ef144d053e96a47260a810b0454",
+    "fetched_at": "2026-07-31T06:38:06.534266+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hamas agrees to 'historic' disarmament deal that includes Israeli withdrawal from Gaza",
+    "summary": "Trump said the deal to advance his 20-point peace plan will be rolled out in “carefully structured phases”, but did not announce a timeline as to when the process may be completed.",
+    "link": "http://www.euronews.com/2026/07/31/trump-announces-historic-deal-for-the-complete-disarmament-of-hamas-and-israeli-withdrawal",
+    "published": "Fri, 31 Jul 2026 06:25:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "077055102d0c043e4242b460d3dd8051",
+    "fetched_at": "2026-07-31T06:38:06.534262+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase",
+    "summary": "The announcement comes just days after rivals OpenAI revealed that their popular ChatGPT platform went rogue during its testing phase of its most powerful AI model, where it too infiltrated other organisations’ cyberspace.",
+    "link": "http://www.euronews.com/next/2026/07/31/anthropic-admits-its-most-powerful-ai-model-hacked-into-three-organisations-systems-during",
+    "published": "Fri, 31 Jul 2026 06:50:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b62189aec6750bca09138c51d5caf10b",
+    "fetched_at": "2026-07-31T06:38:06.534233+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 31st, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-morning",
+    "published": "Fri, 31 Jul 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "19414f1b5e91c7d2487f20c762c85e8c",
+    "fetched_at": "2026-07-31T06:38:05.420274+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK announces £8 billion investment in nuclear submarines",
+    "summary": "UK defence contractor BAE Systems has been tasked with delivering four Dreadnought Class nuclear-powered submarines as part of Britain's nuclear deterrent.",
+    "link": "http://www.euronews.com/2026/07/31/uk-announces-8-billion-investment-in-nuclear-submarines",
+    "published": "Fri, 31 Jul 2026 08:11:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "743751385742dc34fc17e15208f9bedd",
+    "fetched_at": "2026-07-31T06:38:04.305160+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The race is on for the next United Nations secretary general",
+    "summary": "The United Nations Security Council will begin straw polls Thursday to whittle down the field of candidates for the next U.N. secretary-general. Seven candidates are running to replace António Guterres.",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5909162/the-race-is-on-for-the-next-united-nations-secretary-general",
+    "published": "Wed, 29 Jul 2026 16:28:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "064974ab68553ee7d0c2f216c2b73553",
+    "fetched_at": "2026-07-31T06:38:03.203566+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+    "summary": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process.",
+    "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
+    "published": "Thu, 30 Jul 2026 07:45:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "7e7b2b61bcd6a8393a4785d3112bccd6",
+    "fetched_at": "2026-07-31T06:38:02.084904+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
+    "summary": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palestinian territory.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+    "published": "Fri, 31 Jul 2026 01:20:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "9e29ebbc0eb22bab12851718aadf5c7f",
+    "fetched_at": "2026-07-31T06:38:00.965956+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from southwestern Japan quake climbs to 34",
+    "summary": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+    "published": "Fri, 31 Jul 2026 01:40:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "90eac85fb243902006b80ac531036d15",
+    "fetched_at": "2026-07-31T06:37:59.843753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain deploys military to Ceuta after thousands of people breach Morocco's border",
+    "summary": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+    "published": "Fri, 31 Jul 2026 02:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "c45d132888dff39b01d5fbb6913022ab",
+    "fetched_at": "2026-07-31T06:37:58.729385+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Anthropic says AI models hacked three firms during cyber tests",
     "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
     "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "79b1d1e9437760fba47510caed810add",
     "fetched_at": "2026-07-30T15:46:26.338424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-    "summary": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
-    "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 22:23:08 GMT",
-    "source": "BBC News",
-    "id": "a7215792e4aceafcd568c42b31f939cd",
-    "fetched_at": "2026-07-30T15:46:25.220707+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Salman Rushdie attacker convicted of terror offences",
-    "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-    "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 22:15:33 GMT",
-    "source": "BBC News",
-    "id": "468546ea72fc201f6761eed2ae9775dd",
-    "fetched_at": "2026-07-30T15:46:24.098971+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-    "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-    "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 18:41:31 GMT",
-    "source": "BBC News",
-    "id": "88db9369960c8bb152f74444f7116d0f",
-    "fetched_at": "2026-07-30T13:42:13.933452+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seven dead after helicopter crashes during firefighting mission in Argentina",
-    "summary": "Seven people, including four senior officials from San Juan, were killed when a Bell 412 helicopter crashed during wildfire training en route to La Rioja.",
-    "link": "http://www.euronews.com/2026/07/30/seven-dead-after-helicopter-crashes-during-firefighting-mission-in-argentina",
-    "published": "Thu, 30 Jul 2026 13:48:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5fb535c125683641737b3226a7c9c308",
-    "fetched_at": "2026-07-30T13:42:13.933450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan shopping mall explosion after 7.1 quake captured on dashcam footage",
-    "summary": "Dashcam footage shows a shopping mall explosion after a 7.1-magnitude earthquake hit Kumamoto, Japan, as rescuers search for survivors.",
-    "link": "http://www.euronews.com/video/2026/07/30/japan-shopping-mall-explosion-after-71-quake-captured-on-dashcam-footage",
-    "published": "Thu, 30 Jul 2026 14:02:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3403debd2fed6a5dae42e39b251134f8",
-    "fetched_at": "2026-07-30T13:42:13.933448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'They are lying': Teresa Ribera slams climate deniers as fires rage in Euronews interview",
-    "summary": "In her interview with Euronews, Ribera took aim at 'dangerous and stupid' European politicians who cast doubt on climate science and dismiss environmental policies as ideological rather than grounded in evidence.",
-    "link": "http://www.euronews.com/2026/07/30/they-are-lying-teresa-ribera-slams-climate-deniers-as-fires-rage-in-euronews-interview",
-    "published": "Thu, 30 Jul 2026 15:09:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e50e3199ba85048866b2b99cee797b19",
-    "fetched_at": "2026-07-30T13:42:13.933446+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drone footage captures massive Castellon wildfire in eastern Spain",
-    "summary": "Wildfires continue to burn across Spain as crews battle blazes in Castellon and Zamora, with thousands evacuated and aircraft supporting firefighting efforts.",
-    "link": "http://www.euronews.com/video/2026/07/30/drone-footage-captures-massive-castellon-wildfire-in-eastern-spain",
-    "published": "Thu, 30 Jul 2026 15:34:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a89dd0266c72be0caea665e5b63adf5f",
-    "fetched_at": "2026-07-30T13:42:13.933443+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mancini reappointed Italy boss after Pirlo controversy",
-    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 13:54:00 GMT",
-    "source": "BBC News",
-    "id": "47e939197e2104ff907a404f10564fd3",
-    "fetched_at": "2026-07-30T13:42:13.933441+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French man discovers 5 dead babies hidden in boxes in his home after argument with wife: prosecutors",
-    "summary": "A husband in France found five decomposing babies in cardboard boxes after arguing with his wife, who had given birth at home to a baby boy the day before.",
-    "link": "https://www.foxnews.com/world/french-man-discovers-5-dead-babies-hidden-boxes-home-after-argument-wife-prosecutors",
-    "published": "Wed, 29 Jul 2026 02:55:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "421fbbabbcd9299176e178f12b336278",
-    "fetched_at": "2026-07-30T13:42:13.933438+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sudan's forgotten war leaves millions hungry as global attention remains elsewhere",
-    "summary": "El Fasher and El Obeid remain flashpoints as UN reports detail war crimes, mass rape, and genocide conditions in Sudan&apos;s escalating civil war.",
-    "link": "https://www.foxnews.com/world/sudans-forgotten-war-leaves-millions-hungry-global-attention-remains-elsewhere",
-    "published": "Wed, 29 Jul 2026 16:13:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b149a98037be8a22885146128558f680",
-    "fetched_at": "2026-07-30T13:42:13.933435+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO member scrambles fighter jets as Russian attack on Ukraine kills 8",
-    "summary": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered its airspace during a massive barrage of over 70 missiles and 280 drones.",
-    "link": "https://www.foxnews.com/world/nato-member-scrambles-fighter-jets-russian-attack-ukraine-kills-8",
-    "published": "Thu, 30 Jul 2026 07:41:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3eae713bdee62d6ac4182baeb5733efc",
-    "fetched_at": "2026-07-30T13:42:13.933431+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-    "summary": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy.",
-    "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-    "published": "Wed, 29 Jul 2026 05:07:03 -0400",
-    "source": "NPR Topics: World",
-    "id": "b6591db536cfba2ae6103c8e681df116",
-    "fetched_at": "2026-07-30T13:42:13.933405+00:00"
   }
 ]
