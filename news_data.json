@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+    "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 10:32:17 GMT",
+    "source": "BBC News",
+    "id": "ee61948a283cc71fce477928d0c45a40",
+    "fetched_at": "2026-07-31T13:46:59.960505+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Exclusive: MEPs demand Infantino appear before European Parliament over FIFA's private investment plan",
+    "summary": "As European football associations threaten to boycott the World Cup, a draft letter obtained by Euronews accused the FIFA President of using the organisation as a “political career ladder”.",
+    "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
+    "published": "Fri, 31 Jul 2026 13:32:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b0332e474307ff322f7535657c572950",
+    "fetched_at": "2026-07-31T13:46:59.960502+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'This is our wake-up call': EU crisis chief slams climate deniers after French fires",
+    "summary": "In an exclusive interview with Euronews, the EU's crisis chief said the fires served as a \"wake up call for Europe\" and insisted that prevention is key to reducing the risk of future wildfires as she called to invest more.",
+    "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
+    "published": "Fri, 31 Jul 2026 13:57:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5dcf02659094adbca070bd90919b9f26",
+    "fetched_at": "2026-07-31T13:46:59.960499+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
+    "summary": "Houthi leader Abdul-Malik al-Houthi warned Saudi Arabia of an all-out response hours before Riyadh announced a new multinational maritime defence coalition, with 14 countries, including Pakistan, Turkey and Egypt, signing a founding statement to protect Red Sea shipping.",
+    "link": "http://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
+    "published": "Fri, 31 Jul 2026 14:01:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8186df5591575a31578b2c9987e62b58",
+    "fetched_at": "2026-07-31T13:46:59.960496+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
+    "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+    "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 10:35:13 GMT",
+    "source": "BBC News",
+    "id": "f838cf5e58798e0fd4aa34203eac1a1f",
+    "fetched_at": "2026-07-31T13:46:59.960492+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa to boycott World Cups if Fifa plans approved",
+    "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+    "source": "BBC News",
+    "id": "4dcb37ee7aa8baf6d2febd9ef675dabd",
+    "fetched_at": "2026-07-31T13:46:59.960465+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+    "summary": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+    "link": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+    "published": "Wed, 29 Jul 2026 06:00:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b580dbc28e2e8102c2a9f088c83ebb35",
+    "fetched_at": "2026-07-31T13:46:58.852098+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Antisemitic violence reaches deadliest level since 1994, new global report finds",
+    "summary": "The J7 report reveals 20 people were killed in antisemitic attacks in 2025, marking the deadliest year since 1994 with a 97% rise in violence.",
+    "link": "https://www.foxnews.com/world/antisemitic-violence-reaches-deadliest-level-since-1994-new-global-report-finds",
+    "published": "Wed, 29 Jul 2026 06:20:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "79b1d1e9437760fba47510caed810add",
+    "fetched_at": "2026-07-31T13:46:57.740540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
+    "summary": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
+    "published": "Fri, 31 Jul 2026 04:45:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "df9ed6432e51ad5032e5478a9715222e",
+    "fetched_at": "2026-07-31T13:46:56.626557+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+    "published": "Fri, 31 Jul 2026 07:30:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "3b72b09a66d1cb88bd6dda134328ed1e",
+    "fetched_at": "2026-07-31T13:46:55.519258+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
+    "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which the US state department rejects.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:02:39 GMT",
+    "source": "BBC News",
+    "id": "754a4f9cdb4a28f2ef9445537211e11b",
+    "fetched_at": "2026-07-31T13:46:54.407229+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+    "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+    "source": "BBC News",
+    "id": "421a79f26b48bc268cf109ae653b4a1d",
+    "fetched_at": "2026-07-31T13:46:53.294720+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
+    "summary": "The suspect was working as an intern in Nato's Supreme Headquarters Allied Powers (Shape) Europe in Mons, Belgium.",
+    "link": "https://www.bbc.co.uk/news/articles/cwymk20n0v7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 16:48:40 GMT",
+    "source": "BBC News",
+    "id": "c417288ec58cdd46c69db385becb79a2",
+    "fetched_at": "2026-07-31T13:46:52.173787+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "AC Milan and Italy great Baresi dies aged 66",
     "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
     "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "daf386e91772c42c7fc00e828e42552d",
     "fetched_at": "2026-07-30T19:13:51.406240+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nevada wildfire still burning out of control near secretive Area 51",
-    "summary": "The Quail Springs Fire, which was caused by lightning, now covers more than 13,500 acres, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 18:48:35 GMT",
-    "source": "BBC News",
-    "id": "31f1edc6e95eea24f1327c5c90867d97",
-    "fetched_at": "2026-07-30T19:13:50.302810+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Father of teen school shooter sentenced to 15 years in prison",
-    "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 17:33:41 GMT",
-    "source": "BBC News",
-    "id": "0e7b444ce63322bfe72255ac7188ad36",
-    "fetched_at": "2026-07-30T19:13:49.187805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | July 30th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this July 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/07/30/latest-news-bulletin-july-30th-2026-evening",
-    "published": "Thu, 30 Jul 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4d64d4d3b2472d5a9c4f26796d7c935e",
-    "fetched_at": "2026-07-30T17:18:14.917652+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe wants to be a strong partner of the US in the Moon race, ESA astronaut says",
-    "summary": "Italian astronaut Luca Parmitano will pilot the Artemis III mission, NASA's next step towards its first Moon landing in decades. He tells Euronews how he is preparing, his thoughts on the space race and what European aspects he’ll bring into orbit.",
-    "link": "http://www.euronews.com/my-europe/2026/07/30/europe-wants-to-be-a-strong-partner-of-the-us-in-the-moon-race-esa-astronaut-says",
-    "published": "Thu, 30 Jul 2026 18:26:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bc558d879f190f6d08c8603d2258205b",
-    "fetched_at": "2026-07-30T17:18:14.917650+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greek police probe 'foul play' in death of woman found in suitcase",
-    "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
-    "link": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 13:47:19 GMT",
-    "source": "BBC News",
-    "id": "1993497326223bcc31542f4edcf244ae",
-    "fetched_at": "2026-07-30T17:18:14.917647+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia launches ballistic missile attack on Kyiv hours after Zelenskyy warns of major strike",
-    "summary": "Multiple explosions rocked Kyiv after Russia launched ballistic missiles, hours after Volodymyr Zelenskyy warned of a massive overnight assault.",
-    "link": "https://www.foxnews.com/world/russia-launches-ballistic-missile-attack-kyiv-hours-after-zelenskyy-warns-major-strike",
-    "published": "Wed, 29 Jul 2026 21:14:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9a75c76d9fd1ca27408966e67b5b8684",
-    "fetched_at": "2026-07-30T17:18:14.917645+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Javier Bardem shares how he became villain Max Cady in Apple TV's 'Cape Fear'",
-    "summary": "Javier Bardem discusses taking on the iconic role of Max Cady in Apple TV's<em> Cape Fear, </em>the joy of playing villains, and continuing to speak out for Palestinian rights.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5699398/javier-bardem-max-cady-cape-fear",
-    "published": "Thu, 30 Jul 2026 04:41:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbada05b2696ffde5b6255589ea255b8",
-    "fetched_at": "2026-07-30T17:18:14.917642+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump considering AI controls after OpenAI hacking incidents",
-    "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 07:23:11 GMT",
-    "source": "BBC News",
-    "id": "709ad09e92ed9c08c583775dadebf533",
-    "fetched_at": "2026-07-30T17:18:14.917639+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dashcam captures tornado toppling power lines onto car",
-    "summary": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
-    "link": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 13:44:23 GMT",
-    "source": "BBC News",
-    "id": "fe426714c5b359da3c3a6339734906ce",
-    "fetched_at": "2026-07-30T17:18:14.917611+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Red Cross declares crisis over blood supply shortage in US for second time in its history",
-    "summary": "Fewer donations and higher demand has seen a supply shortage worsen, the American Red Cross tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c74gze89783o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 23:04:35 GMT",
-    "source": "BBC News",
-    "id": "f2c602ba5d64cd8ff636fac553ff6b67",
-    "fetched_at": "2026-07-30T17:18:13.746923+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wiped out by a hurricane, this US community is now a global energy giant",
-    "summary": "A US county flattened by Hurricane Rita is now the world's largest exporter of liquified natural gas.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 02:08:24 GMT",
-    "source": "BBC News",
-    "id": "e5b1dbe832632893cbcfc3c3a4bb322f",
-    "fetched_at": "2026-07-30T17:18:12.603862+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-    "summary": "The US medical expert faces possible contempt-of-Congress proceedings for refusing to answer questions during a hearing on Covid.",
-    "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 10:29:15 GMT",
-    "source": "BBC News",
-    "id": "7dbfafa1f529f6cd9732f63438ce98c3",
-    "fetched_at": "2026-07-30T17:18:11.421328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Man impaled by a hiking pole treks 10 miles down mountain",
-    "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
-    "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 15:47:09 GMT",
-    "source": "BBC News",
-    "id": "a755ab333c9a7bb00e7e50bf6cdf4154",
-    "fetched_at": "2026-07-30T17:18:10.286408+00:00"
   }
 ]
