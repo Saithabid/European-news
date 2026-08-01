@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Devastating European wildfires in maps - and how they're being tackled",
+    "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
+    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 11:53:40 GMT",
+    "source": "BBC News",
+    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
+    "fetched_at": "2026-08-01T14:53:46.084559+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:35:50 GMT",
+    "source": "BBC News",
+    "id": "e6b5eeffcaed564e9312b3c0d7ca323f",
+    "fetched_at": "2026-08-01T14:53:44.954483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 18 dead",
+    "summary": "Video shows thousands of migrants overwhelming Ceuta&apos;s Tarajal border as Spain deploys its military and at least 18 people die during crossings.",
+    "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
+    "published": "Thu, 30 Jul 2026 21:35:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8d3df9646ae63397c9af920c19ae3274",
+    "fetched_at": "2026-08-01T14:53:43.834840+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US economic growth sees surprise slowdown in second quarter",
+    "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
+    "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 14:24:41 GMT",
+    "source": "BBC News",
+    "id": "d97bc32deb63e26fbb3f2230cdbc7633",
+    "fetched_at": "2026-08-01T14:53:42.702724+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
     "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
     "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "90eac85fb243902006b80ac531036d15",
     "fetched_at": "2026-07-31T20:56:36.186554+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
-    "summary": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-    "published": "Fri, 31 Jul 2026 02:02:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "c45d132888dff39b01d5fbb6913022ab",
-    "fetched_at": "2026-07-31T20:56:35.062634+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
-    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
-    "published": "Fri, 31 Jul 2026 16:22:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a05abb007083dbc39152ebb0736ea6b",
-    "fetched_at": "2026-07-31T20:56:33.939110+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone delivery helps in Rwanda, but only so much",
-    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
-    "published": "Fri, 31 Jul 2026 16:28:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "daa60640df4b7994e69a83dc361e3d4d",
-    "fetched_at": "2026-07-31T20:56:32.837818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-    "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 16:41:59 GMT",
-    "source": "BBC News",
-    "id": "c48f55e4fcf3646a3165eb9a9eca416e",
-    "fetched_at": "2026-07-31T19:13:15.019192+00:00"
   }
 ]
