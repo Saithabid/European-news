@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+    "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+    "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 23:58:12 GMT",
+    "source": "BBC News",
+    "id": "698a5fefe6784e39acccebb2e7a62fc5",
+    "fetched_at": "2026-08-01T06:22:02.702074+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+    "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 04:06:34 GMT",
+    "source": "BBC News",
+    "id": "4c7083646130488d4f40ae354dea47af",
+    "fetched_at": "2026-08-01T06:22:02.702022+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 05:01:56 GMT",
+    "source": "BBC News",
+    "id": "fb847163ae0ffb19a64154273cb7cdb4",
+    "fetched_at": "2026-08-01T06:22:01.585531+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fifa scraps controversial World Cup investment plan",
+    "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 05:42:31 GMT",
+    "source": "BBC News",
+    "id": "a09cd518757962787edc918160de8df4",
+    "fetched_at": "2026-08-01T06:22:00.418715+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 1st, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-morning",
+    "published": "Sat, 01 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9ef650f1081efcf90e63249b5ced24ca",
+    "fetched_at": "2026-08-01T06:21:59.307253+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Antisemitic violence reaches deadliest level since 1994, new global report finds",
+    "summary": "The J7 report reveals 20 people were killed in antisemitic attacks in 2025, marking the deadliest year since 1994 with a 97% rise in violence.",
+    "link": "https://www.foxnews.com/world/antisemitic-violence-reaches-deadliest-level-since-1994-new-global-report-finds",
+    "published": "Wed, 29 Jul 2026 06:20:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "79b1d1e9437760fba47510caed810add",
+    "fetched_at": "2026-08-01T06:21:58.171637+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
+    "summary": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
+    "published": "Fri, 31 Jul 2026 04:45:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "df9ed6432e51ad5032e5478a9715222e",
+    "fetched_at": "2026-08-01T06:21:57.056804+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+    "published": "Fri, 31 Jul 2026 07:30:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "3b72b09a66d1cb88bd6dda134328ed1e",
+    "fetched_at": "2026-08-01T06:21:55.944846+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
+    "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which the US state department rejects.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:02:39 GMT",
+    "source": "BBC News",
+    "id": "754a4f9cdb4a28f2ef9445537211e11b",
+    "fetched_at": "2026-08-01T06:21:54.820105+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Renowned Nepali mountaineer Nirmal Purja among missing climbers after avalanche on Broad Peak",
     "summary": "Nepal’s Nirmal Purja, who led the expedition of 10 climbers, set a world record in 2019, becoming the first person ever to climb all 14 of the world’s highest peaks surpassing the 8,000 metre mark, in just 189 days.",
     "link": "http://www.euronews.com/2026/07/31/renowned-nepali-mountaineer-nirmal-purja-among-missing-climbers-after-avalanche-on-broad-p",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "a755ab333c9a7bb00e7e50bf6cdf4154",
     "fetched_at": "2026-07-31T15:57:35.753350+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nevada wildfire still burning out of control near secretive Area 51",
-    "summary": "The Quail Springs Fire, which was caused by lightning, now covers more than 13,500 acres, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 18:48:35 GMT",
-    "source": "BBC News",
-    "id": "31f1edc6e95eea24f1327c5c90867d97",
-    "fetched_at": "2026-07-31T15:57:34.591074+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Father of teen school shooter sentenced to 15 years in prison",
-    "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-    "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 17:33:41 GMT",
-    "source": "BBC News",
-    "id": "0e7b444ce63322bfe72255ac7188ad36",
-    "fetched_at": "2026-07-31T15:57:33.437680+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-    "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 10:32:17 GMT",
-    "source": "BBC News",
-    "id": "ee61948a283cc71fce477928d0c45a40",
-    "fetched_at": "2026-07-31T13:46:59.960505+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Exclusive: MEPs demand Infantino appear before European Parliament over FIFA's private investment plan",
-    "summary": "As European football associations threaten to boycott the World Cup, a draft letter obtained by Euronews accused the FIFA President of using the organisation as a “political career ladder”.",
-    "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
-    "published": "Fri, 31 Jul 2026 13:32:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b0332e474307ff322f7535657c572950",
-    "fetched_at": "2026-07-31T13:46:59.960502+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'This is our wake-up call': EU crisis chief slams climate deniers after French fires",
-    "summary": "In an exclusive interview with Euronews, the EU's crisis chief said the fires served as a \"wake up call for Europe\" and insisted that prevention is key to reducing the risk of future wildfires as she called to invest more.",
-    "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
-    "published": "Fri, 31 Jul 2026 13:57:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5dcf02659094adbca070bd90919b9f26",
-    "fetched_at": "2026-07-31T13:46:59.960499+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
-    "summary": "Houthi leader Abdul-Malik al-Houthi warned Saudi Arabia of an all-out response hours before Riyadh announced a new multinational maritime defence coalition, with 14 countries, including Pakistan, Turkey and Egypt, signing a founding statement to protect Red Sea shipping.",
-    "link": "http://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
-    "published": "Fri, 31 Jul 2026 14:01:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8186df5591575a31578b2c9987e62b58",
-    "fetched_at": "2026-07-31T13:46:59.960496+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
-    "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-    "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 10:35:13 GMT",
-    "source": "BBC News",
-    "id": "f838cf5e58798e0fd4aa34203eac1a1f",
-    "fetched_at": "2026-07-31T13:46:59.960492+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Uefa to boycott World Cups if Fifa plans approved",
-    "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 16:47:40 GMT",
-    "source": "BBC News",
-    "id": "4dcb37ee7aa8baf6d2febd9ef675dabd",
-    "fetched_at": "2026-07-31T13:46:59.960465+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
-    "summary": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
-    "link": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
-    "published": "Wed, 29 Jul 2026 06:00:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b580dbc28e2e8102c2a9f088c83ebb35",
-    "fetched_at": "2026-07-31T13:46:58.852098+00:00"
   }
 ]
