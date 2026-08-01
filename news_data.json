@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+    "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 02:21:29 GMT",
+    "source": "BBC News",
+    "id": "ee61948a283cc71fce477928d0c45a40",
+    "fetched_at": "2026-08-01T09:52:02.113407+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Exclusive: MEPs demand Infantino appear before European Parliament over FIFA's private investment plan",
+    "summary": "As European football associations threaten to boycott the World Cup, a draft letter obtained by Euronews accused the FIFA President of using the organisation as a “political career ladder”.",
+    "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
+    "published": "Fri, 31 Jul 2026 13:32:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b0332e474307ff322f7535657c572950",
+    "fetched_at": "2026-08-01T09:52:02.113404+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'This is our wake-up call': EU crisis chief slams climate deniers after French fires",
+    "summary": "In an exclusive interview with Euronews, the EU's crisis chief said the fires served as a \"wake up call for Europe\" and insisted that prevention is key to reducing the risk of future wildfires as she called to invest more.",
+    "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
+    "published": "Fri, 31 Jul 2026 13:57:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5dcf02659094adbca070bd90919b9f26",
+    "fetched_at": "2026-08-01T09:52:02.113400+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
+    "summary": "Houthi leader Abdul-Malik al-Houthi warned Saudi Arabia of an all-out response hours before Riyadh announced a new multinational maritime defence coalition, with 14 countries, including Pakistan, Turkey and Egypt, signing a founding statement to protect Red Sea shipping.",
+    "link": "http://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
+    "published": "Fri, 31 Jul 2026 14:01:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8186df5591575a31578b2c9987e62b58",
+    "fetched_at": "2026-08-01T09:52:02.113372+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two reported attacks on tankers near Strait of Hormuz",
+    "summary": "The Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, is one of the world's most crucial oil and gas transit chokepoints, carrying roughly a quarter of the global seaborne oil trade.",
+    "link": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
+    "published": "Sat, 01 Aug 2026 10:48:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "57305814b455179e26f6eee15dd906eb",
+    "fetched_at": "2026-08-01T09:52:00.955635+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mancini reappointed Italy boss after Pirlo controversy",
+    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 13:54:00 GMT",
+    "source": "BBC News",
+    "id": "47e939197e2104ff907a404f10564fd3",
+    "fetched_at": "2026-08-01T09:51:59.813609+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa to boycott World Cups if Fifa plans approved",
+    "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+    "source": "BBC News",
+    "id": "4dcb37ee7aa8baf6d2febd9ef675dabd",
+    "fetched_at": "2026-08-01T09:51:58.665562+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+    "summary": "A new report documents 616 instances of security cooperation among China, Russia, Iran and North Korea, warning of a dangerous simultaneity problem.",
+    "link": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+    "published": "Wed, 29 Jul 2026 06:00:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b580dbc28e2e8102c2a9f088c83ebb35",
+    "fetched_at": "2026-08-01T09:51:57.517419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+    "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+    "published": "Sat, 01 Aug 2026 05:36:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "9401febd7a0d2ba25aa6daaaf53686a4",
+    "fetched_at": "2026-08-01T09:51:56.367711+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nevada wildfire still burning out of control near secretive Area 51",
+    "summary": "The Quail Springs Fire, which was caused by lightning, now covers more than 13,500 acres, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nenqg10wo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 18:48:35 GMT",
+    "source": "BBC News",
+    "id": "31f1edc6e95eea24f1327c5c90867d97",
+    "fetched_at": "2026-08-01T09:51:55.231961+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Father of teen school shooter sentenced to 15 years in prison",
+    "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:33:41 GMT",
+    "source": "BBC News",
+    "id": "0e7b444ce63322bfe72255ac7188ad36",
+    "fetched_at": "2026-08-01T09:51:54.106668+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
     "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
     "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "7d64bdb6d3bc60594552be8fed2fb09b",
     "fetched_at": "2026-07-31T17:27:21.377896+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-    "summary": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-    "published": "Thu, 30 Jul 2026 13:38:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "daf386e91772c42c7fc00e828e42552d",
-    "fetched_at": "2026-07-31T17:27:20.178590+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-    "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 14:26:07 GMT",
-    "source": "BBC News",
-    "id": "cc4e02cdfc80b5087677ff624e3a2188",
-    "fetched_at": "2026-07-31T15:57:41.495605+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 15:18:31 GMT",
-    "source": "BBC News",
-    "id": "3e0319f4b52a57d84026c92f76ccb4a8",
-    "fetched_at": "2026-07-31T15:57:41.495602+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cosplayers perform and pose at ChinaJoy gaming festival",
-    "summary": "Cosplayers in elaborate costumes gather at ChinaJoy in Shanghai, where gaming fans meet characters inspired by popular video games.",
-    "link": "http://www.euronews.com/video/2026/07/31/cosplayers-perform-and-pose-at-chinajoy-gaming-festival",
-    "published": "Fri, 31 Jul 2026 15:57:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "06e47e07c3cdce21d55da0b9e530c1c4",
-    "fetched_at": "2026-07-31T15:57:41.495599+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sovereignty, sarcasm, blame: How North Africa reacted to Ceuta crisis",
-    "summary": "Morocco's press framed Ceuta as a sovereignty question, Algerian media accused Rabat of \"weaponising\" migration, and Tunisian social media responded with dark humour, as the region's own economic and political crises remained in the background.",
-    "link": "http://www.euronews.com/2026/07/31/sovereignty-sarcasm-blame-how-north-africa-reacted-to-ceuta-crisis",
-    "published": "Fri, 31 Jul 2026 16:38:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9d4feab05f8080eaa62d015e6c455066",
-    "fetched_at": "2026-07-31T15:57:41.495594+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greek police probe 'foul play' in death of woman found in suitcase",
-    "summary": "Elisabeth-Jane Ross's body was found in an abandoned building in the Kypseli district in Athens on 18 July.",
-    "link": "https://www.bbc.co.uk/news/articles/cy07w28jn5lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 13:47:19 GMT",
-    "source": "BBC News",
-    "id": "1993497326223bcc31542f4edcf244ae",
-    "fetched_at": "2026-07-31T15:57:41.495562+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia launches ballistic missile attack on Kyiv hours after Zelenskyy warns of major strike",
-    "summary": "Multiple explosions rocked Kyiv after Russia launched ballistic missiles, hours after Volodymyr Zelenskyy warned of a massive overnight assault.",
-    "link": "https://www.foxnews.com/world/russia-launches-ballistic-missile-attack-kyiv-hours-after-zelenskyy-warns-major-strike",
-    "published": "Wed, 29 Jul 2026 21:14:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9a75c76d9fd1ca27408966e67b5b8684",
-    "fetched_at": "2026-07-31T15:57:40.357738+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Javier Bardem shares how he became villain Max Cady in Apple TV's 'Cape Fear'",
-    "summary": "Javier Bardem discusses taking on the iconic role of Max Cady in Apple TV's<em> Cape Fear, </em>the joy of playing villains, and continuing to speak out for Palestinian rights.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5699398/javier-bardem-max-cady-cape-fear",
-    "published": "Thu, 30 Jul 2026 04:41:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbada05b2696ffde5b6255589ea255b8",
-    "fetched_at": "2026-07-31T15:57:39.211586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-    "summary": "The US medical expert faces possible contempt-of-Congress proceedings for refusing to answer questions during a hearing on Covid.",
-    "link": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 08:06:57 GMT",
-    "source": "BBC News",
-    "id": "7dbfafa1f529f6cd9732f63438ce98c3",
-    "fetched_at": "2026-07-31T15:57:38.045293+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wiped out by a hurricane, this US community is now a global energy giant",
-    "summary": "A US county flattened by Hurricane Rita is now the world's largest exporter of liquified natural gas.",
-    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 02:08:24 GMT",
-    "source": "BBC News",
-    "id": "e5b1dbe832632893cbcfc3c3a4bb322f",
-    "fetched_at": "2026-07-31T15:57:36.899868+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Man impaled by a hiking pole treks 10 miles down mountain",
-    "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
-    "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 15:47:09 GMT",
-    "source": "BBC News",
-    "id": "a755ab333c9a7bb00e7e50bf6cdf4154",
-    "fetched_at": "2026-07-31T15:57:35.753350+00:00"
   }
 ]
