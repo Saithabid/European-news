@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | August 1st, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-evening",
+    "published": "Sat, 01 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f29e73fb98a23567e94c9719fe080151",
+    "fetched_at": "2026-08-01T16:52:45.013968+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
+    "summary": "Israel&apos;s president praised Trump&apos;s deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan&apos;s ICC dismissal, U.S.-Israel relations and Zohran Mamdani&apos;s rhetoric.",
+    "link": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
+    "published": "Sat, 01 Aug 2026 10:57:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd99267fb5a45b58e2eb1bdee461a31b",
+    "fetched_at": "2026-08-01T16:52:45.013941+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+    "summary": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+    "published": "Fri, 31 Jul 2026 02:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "c45d132888dff39b01d5fbb6913022ab",
+    "fetched_at": "2026-08-01T16:52:43.920238+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
+    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
+    "published": "Fri, 31 Jul 2026 16:22:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "6a05abb007083dbc39152ebb0736ea6b",
+    "fetched_at": "2026-08-01T16:52:42.799157+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone delivery helps in Rwanda, but only so much",
+    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+    "published": "Fri, 31 Jul 2026 16:28:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "daa60640df4b7994e69a83dc361e3d4d",
+    "fetched_at": "2026-08-01T16:52:41.689828+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trying to understand student deaths and protests in India",
+    "summary": "Anti-government protests in India were partly triggered by students who died by suicide after they were ordered to retest for a medical exam. Why?",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5911927/trying-to-understand-students-deaths-and-protests-in-india",
+    "published": "Fri, 31 Jul 2026 16:28:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "114bfe97f33b1d1ef2c66974af3b169a",
+    "fetched_at": "2026-08-01T16:52:40.572524+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+    "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 07:22:30 GMT",
+    "source": "BBC News",
+    "id": "c48f55e4fcf3646a3165eb9a9eca416e",
+    "fetched_at": "2026-08-01T16:52:39.458053+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+    "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+    "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 16:16:16 GMT",
+    "source": "BBC News",
+    "id": "be2428b9ed90747b4d735097f0b2f465",
+    "fetched_at": "2026-08-01T16:52:38.351126+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens to revive $1.8bn 'anti-weaponisation' fund as Senate standoff deepens",
+    "summary": "\"It will immediately be back on the table, and I will get it done,\" the president wrote.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 15:58:10 GMT",
+    "source": "BBC News",
+    "id": "327be81c1dd411a9fa8855cf7d21e10a",
+    "fetched_at": "2026-08-01T16:52:37.238940+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Devastating European wildfires in maps - and how they're being tackled",
     "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
     "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "3eae713bdee62d6ac4182baeb5733efc",
     "fetched_at": "2026-07-31T22:53:29.908704+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Minnesota not Iran to blame for state's water issues, says Trump",
-    "summary": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 19:03:28 GMT",
-    "source": "BBC News",
-    "id": "559b4b1483577c51e71c81db54a9b65f",
-    "fetched_at": "2026-07-31T22:53:28.782612+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
-    "summary": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
-    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 21:18:30 GMT",
-    "source": "BBC News",
-    "id": "843900518436158ec1a7f2051755ddaf",
-    "fetched_at": "2026-07-31T22:53:27.656151+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration drops Reflecting Pool vandalism charge and admits flawed repairs",
-    "summary": "Former Olympian David Hearn had been arrested, but prosecutors now say he did not cause the damage.",
-    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 22:45:20 GMT",
-    "source": "BBC News",
-    "id": "779a493ef359a935f4ec549c790b48a9",
-    "fetched_at": "2026-07-31T22:53:26.522560+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-    "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognisable by a member of the public and lead to a suspect.",
-    "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 22:46:44 GMT",
-    "source": "BBC News",
-    "id": "3e79af215b94e861ae80c920576baccb",
-    "fetched_at": "2026-07-31T22:53:25.406334+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
-    "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Algeria.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 19:17:09 GMT",
-    "source": "BBC News",
-    "id": "65e5461d26eee8d18744995902a05ab6",
-    "fetched_at": "2026-07-31T20:56:40.683032+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Migrant crisis pushes Italy to restore border checks with Spain, testing Europe's open-border system",
-    "summary": "Conservative leaders across Europe react as an estimated 60,000 migrants crossed into Ceuta from Morocco within 24 hours, threatening its open-border policies.",
-    "link": "https://www.foxnews.com/world/migrant-crisis-pushes-italy-restore-border-checks-spain-testing-europes-open-border-system",
-    "published": "Fri, 31 Jul 2026 16:08:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2e85c1feead4e4d92726ea68a84c66b7",
-    "fetched_at": "2026-07-31T20:56:39.570590+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
-    "summary": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process.",
-    "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
-    "published": "Thu, 30 Jul 2026 07:45:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "7e7b2b61bcd6a8393a4785d3112bccd6",
-    "fetched_at": "2026-07-31T20:56:38.446858+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump announces deal for Hamas to disarm, militants demand Israel withdraws from Gaza first",
-    "summary": "President Trump announced that his Board of Peace has reached a deal with Hamas to completely disarm, calling it a \"historic breakthrough.\" But a senior Hamas official says Israel must withdraw first.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
-    "published": "Fri, 31 Jul 2026 01:20:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "9e29ebbc0eb22bab12851718aadf5c7f",
-    "fetched_at": "2026-07-31T20:56:37.315270+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Death toll from southwestern Japan quake climbs to 34",
-    "summary": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
-    "published": "Fri, 31 Jul 2026 01:40:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "90eac85fb243902006b80ac531036d15",
-    "fetched_at": "2026-07-31T20:56:36.186554+00:00"
   }
 ]
