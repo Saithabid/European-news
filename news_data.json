@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "At least five dead and 41 missing after an Indonesian ferry caught fire at sea",
+    "summary": "A total of 225 people on the ferry were rescued, while some passengers jumped into the sea to escape the fire, according to Basarnas, Indonesia's National Search and Rescue Agency.",
+    "link": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea",
+    "published": "Sun, 02 Aug 2026 13:23:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "855b3a88a639408b67177e965b963c07",
+    "fetched_at": "2026-08-02T13:04:48.872021+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 15:35:50 GMT",
+    "source": "BBC News",
+    "id": "e6b5eeffcaed564e9312b3c0d7ca323f",
+    "fetched_at": "2026-08-02T13:04:47.716975+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's war on Americans began decades ago. These families still carry the scars",
+    "summary": "Robert Bartlett says he died three times after an Iranian-supplied EFP tore through his Humvee in Baghdad, launching a decades-long fight for justice.",
+    "link": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars",
+    "published": "Sun, 02 Aug 2026 08:00:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "45d1f05c0867fadba3d0d5429b9fd223",
+    "fetched_at": "2026-08-02T13:04:46.570854+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
+    "summary": "The Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve home to endangered wildlife off Oman&apos;s coast.",
+    "link": "https://www.foxnews.com/world/satellite-images-show-evidence-oil-leak-spreading-sanctioned-vessel-near-oman",
+    "published": "Sun, 02 Aug 2026 08:35:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e7e10343d8013f8c42879b50f76e0ac6",
+    "fetched_at": "2026-08-02T13:04:45.434929+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone delivery helps in Rwanda, but only so much",
+    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+    "published": "Fri, 31 Jul 2026 16:28:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "daa60640df4b7994e69a83dc361e3d4d",
+    "fetched_at": "2026-08-02T13:04:44.281321+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trying to understand student deaths and protests in India",
+    "summary": "Anti-government protests in India were partly triggered by students who died by suicide after they were ordered to retest for a medical exam. Why?",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5911927/trying-to-understand-students-deaths-and-protests-in-india",
+    "published": "Fri, 31 Jul 2026 16:28:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "114bfe97f33b1d1ef2c66974af3b169a",
+    "fetched_at": "2026-08-02T13:04:42.999506+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Breakfasts around the world: In Australia, being denied vegemite is grounds for suing",
+    "summary": "As part of our series on breakfasts from around the world, we take a look at Vegemite, the iconic salty, yeasty spread popular in Australia.",
+    "link": "https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing",
+    "published": "Sun, 02 Aug 2026 08:08:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "9a0a30c912aca415257f1fbc2fcab985",
+    "fetched_at": "2026-08-02T13:04:41.843442+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens to revive $1.8bn 'anti-weaponisation' fund as Senate standoff deepens",
+    "summary": "\"It will immediately be back on the table, and I will get it done,\" the president wrote.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 15:58:10 GMT",
+    "source": "BBC News",
+    "id": "327be81c1dd411a9fa8855cf7d21e10a",
+    "fetched_at": "2026-08-02T13:04:40.674792+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
     "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
     "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "f813237f2e1a8c1189b40be65e5be654",
     "fetched_at": "2026-08-01T18:58:23.554584+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Minnesota not Iran to blame for state's water issues, says Trump",
-    "summary": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 19:03:28 GMT",
-    "source": "BBC News",
-    "id": "559b4b1483577c51e71c81db54a9b65f",
-    "fetched_at": "2026-08-01T18:58:22.414442+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
-    "summary": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
-    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 21:18:30 GMT",
-    "source": "BBC News",
-    "id": "843900518436158ec1a7f2051755ddaf",
-    "fetched_at": "2026-08-01T18:58:21.257972+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-    "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:16:51 GMT",
-    "source": "BBC News",
-    "id": "779a493ef359a935f4ec549c790b48a9",
-    "fetched_at": "2026-08-01T18:58:20.107132+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
-    "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
-    "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 15:38:38 GMT",
-    "source": "BBC News",
-    "id": "3e79af215b94e861ae80c920576baccb",
-    "fetched_at": "2026-08-01T18:58:18.957210+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 1st, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-evening",
-    "published": "Sat, 01 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f29e73fb98a23567e94c9719fe080151",
-    "fetched_at": "2026-08-01T16:52:45.013968+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
-    "summary": "Israel&apos;s president praised Trump&apos;s deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan&apos;s ICC dismissal, U.S.-Israel relations and Zohran Mamdani&apos;s rhetoric.",
-    "link": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
-    "published": "Sat, 01 Aug 2026 10:57:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd99267fb5a45b58e2eb1bdee461a31b",
-    "fetched_at": "2026-08-01T16:52:45.013941+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
-    "summary": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-    "published": "Fri, 31 Jul 2026 02:02:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "c45d132888dff39b01d5fbb6913022ab",
-    "fetched_at": "2026-08-01T16:52:43.920238+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
-    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
-    "published": "Fri, 31 Jul 2026 16:22:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a05abb007083dbc39152ebb0736ea6b",
-    "fetched_at": "2026-08-01T16:52:42.799157+00:00"
   }
 ]
