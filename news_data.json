@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Russian ship defies sanctions to send military vehicles to Mali",
+    "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 23:03:23 GMT",
+    "source": "BBC News",
+    "id": "cef35787fef270197b88e17fec517b84",
+    "fetched_at": "2026-08-02T02:02:48.827803+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+    "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+    "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 23:03:15 GMT",
+    "source": "BBC News",
+    "id": "c099f42705248bc57247c216570d77aa",
+    "fetched_at": "2026-08-02T02:02:48.827775+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+    "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+    "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+    "source": "BBC News",
+    "id": "043cea5ec7212cda627c339f65503da1",
+    "fetched_at": "2026-08-02T02:02:47.706325+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+    "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+    "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 00:55:16 GMT",
+    "source": "BBC News",
+    "id": "6e3379c04d5c9c904d715eeb3a49d215",
+    "fetched_at": "2026-08-02T02:02:46.590492+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+    "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 13:35:39 GMT",
+    "source": "BBC News",
+    "id": "4c7083646130488d4f40ae354dea47af",
+    "fetched_at": "2026-08-02T02:02:45.472390+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
+    "summary": "Tens of thousands of migrants surged into Spain&apos;s Ceuta from Morocco, prompting a military deployment and a new State Department travel advisory.",
+    "link": "https://www.foxnews.com/world/state-department-raises-travel-warning-part-spain-migrant-surge-sparks-military-deployment",
+    "published": "Sat, 01 Aug 2026 19:16:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bb5f254174d9545dac861125b0b079c1",
+    "fetched_at": "2026-08-02T02:02:44.358954+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+    "summary": "The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+    "published": "Sat, 01 Aug 2026 05:36:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "9401febd7a0d2ba25aa6daaaf53686a4",
+    "fetched_at": "2026-08-02T02:02:43.233118+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Father of teen school shooter sentenced to 15 years in prison",
+    "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:33:41 GMT",
+    "source": "BBC News",
+    "id": "0e7b444ce63322bfe72255ac7188ad36",
+    "fetched_at": "2026-08-02T02:02:42.116329+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Sopranos star Vincent Pastore dies aged 80",
+    "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 22:57:55 GMT",
+    "source": "BBC News",
+    "id": "404a64fdf74e1082c4c43995ed0b4c4d",
+    "fetched_at": "2026-08-02T02:02:40.993398+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
     "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
     "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "9a75c76d9fd1ca27408966e67b5b8684",
     "fetched_at": "2026-08-01T11:12:01.974926+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What’s old is new again: Trump-style conservative is back as PM of European nation",
-    "summary": "Janez Janša formed a coalition government after losing Slovenia&apos;s election, reversing Robert Golob&apos;s policies on Israel, immigration,and business.",
-    "link": "https://www.foxnews.com/world/whats-old-new-again-trump-style-conservative-back-pm-european-nation",
-    "published": "Sat, 01 Aug 2026 06:00:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7cbb93ed9efd713f8d45ea1521595648",
-    "fetched_at": "2026-08-01T11:12:00.821208+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-    "summary": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-    "published": "Thu, 30 Jul 2026 13:38:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "daf386e91772c42c7fc00e828e42552d",
-    "fetched_at": "2026-08-01T11:11:59.674530+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-    "summary": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
-    "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-    "published": "Sat, 01 Aug 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "ec8f6d6facc5b5db43c143e6d172ed2f",
-    "fetched_at": "2026-08-01T11:11:58.524916+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-    "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 02:21:29 GMT",
-    "source": "BBC News",
-    "id": "ee61948a283cc71fce477928d0c45a40",
-    "fetched_at": "2026-08-01T09:52:02.113407+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Exclusive: MEPs demand Infantino appear before European Parliament over FIFA's private investment plan",
-    "summary": "As European football associations threaten to boycott the World Cup, a draft letter obtained by Euronews accused the FIFA President of using the organisation as a “political career ladder”.",
-    "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
-    "published": "Fri, 31 Jul 2026 13:32:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b0332e474307ff322f7535657c572950",
-    "fetched_at": "2026-08-01T09:52:02.113404+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'This is our wake-up call': EU crisis chief slams climate deniers after French fires",
-    "summary": "In an exclusive interview with Euronews, the EU's crisis chief said the fires served as a \"wake up call for Europe\" and insisted that prevention is key to reducing the risk of future wildfires as she called to invest more.",
-    "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
-    "published": "Fri, 31 Jul 2026 13:57:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5dcf02659094adbca070bd90919b9f26",
-    "fetched_at": "2026-08-01T09:52:02.113400+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis vow 'full escalation' as Saudi Arabia launches Red Sea coalition",
-    "summary": "Houthi leader Abdul-Malik al-Houthi warned Saudi Arabia of an all-out response hours before Riyadh announced a new multinational maritime defence coalition, with 14 countries, including Pakistan, Turkey and Egypt, signing a founding statement to protect Red Sea shipping.",
-    "link": "http://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
-    "published": "Fri, 31 Jul 2026 14:01:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8186df5591575a31578b2c9987e62b58",
-    "fetched_at": "2026-08-01T09:52:02.113372+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two reported attacks on tankers near Strait of Hormuz",
-    "summary": "The Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, is one of the world's most crucial oil and gas transit chokepoints, carrying roughly a quarter of the global seaborne oil trade.",
-    "link": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
-    "published": "Sat, 01 Aug 2026 10:48:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "57305814b455179e26f6eee15dd906eb",
-    "fetched_at": "2026-08-01T09:52:00.955635+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mancini reappointed Italy boss after Pirlo controversy",
-    "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 13:54:00 GMT",
-    "source": "BBC News",
-    "id": "47e939197e2104ff907a404f10564fd3",
-    "fetched_at": "2026-08-01T09:51:59.813609+00:00"
   }
 ]
