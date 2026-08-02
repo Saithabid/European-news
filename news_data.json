@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Two reported attacks on tankers near Strait of Hormuz",
+    "summary": "The Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, is one of the world's most crucial oil and gas transit chokepoints, carrying roughly a quarter of the global seaborne oil trade.",
+    "link": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
+    "published": "Sat, 01 Aug 2026 10:48:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "57305814b455179e26f6eee15dd906eb",
+    "fetched_at": "2026-08-02T22:48:24.303148+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 2nd, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-morning",
+    "published": "Sun, 02 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "22886e90a48f07922037b9a4bcb99f3d",
+    "fetched_at": "2026-08-02T22:48:23.191872+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
+    "summary": "On Friday, Trump had said he was \"losing faith\" in the prospect of a peace deal and threatened to hit Iran \"very hard.\"",
+    "link": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
+    "published": "Sun, 02 Aug 2026 08:10:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4c9cf7b6db6eb063b14392cb24371b47",
+    "fetched_at": "2026-08-02T22:48:22.089032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+    "summary": "Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
+    "link": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
+    "published": "Sat, 01 Aug 2026 21:59:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "610baba7f081d3e7398927be2ce9cca2",
+    "fetched_at": "2026-08-02T22:48:20.966423+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+    "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says.",
+    "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 21:02:29 GMT",
+    "source": "BBC News",
+    "id": "4380dc3abf68556a642691806530e8da",
+    "fetched_at": "2026-08-02T22:48:19.852987+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+    "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+    "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+    "source": "BBC News",
+    "id": "037425178eb33486d2d95fc939a68b76",
+    "fetched_at": "2026-08-02T22:48:18.726709+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
     "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
     "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "9d4feab05f8080eaa62d015e6c455066",
     "fetched_at": "2026-08-02T09:50:04.507869+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 1st, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-midday",
-    "published": "Sat, 01 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1a0ac31098cdfafa35b07db52201c961",
-    "fetched_at": "2026-08-02T09:50:03.381699+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-    "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-    "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 14:26:07 GMT",
-    "source": "BBC News",
-    "id": "cc4e02cdfc80b5087677ff624e3a2188",
-    "fetched_at": "2026-08-02T09:50:02.257090+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Call for 'full review' as pressure grows on Infantino",
-    "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:07:46 GMT",
-    "source": "BBC News",
-    "id": "eeb9d1e08f575d46d780e7e7b44eafdc",
-    "fetched_at": "2026-08-02T09:50:01.106874+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says he's cancelling Iran strikes, deal pending",
-    "summary": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
-    "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-    "published": "Sun, 02 Aug 2026 03:34:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "27b6f698e1c81aaed7aea2d6fca9afc9",
-    "fetched_at": "2026-08-02T09:49:59.972892+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-    "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 23:42:32 GMT",
-    "source": "BBC News",
-    "id": "4eeedda6225047fe9c20c9c60f801711",
-    "fetched_at": "2026-08-02T09:49:58.843112+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-    "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 23:56:19 GMT",
-    "source": "BBC News",
-    "id": "010b99a20cab93704c0f950ebea6d2b3",
-    "fetched_at": "2026-08-02T09:49:57.731752+00:00"
   }
 ]
