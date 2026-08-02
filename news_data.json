@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+    "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 16:37:02 GMT",
+    "source": "BBC News",
+    "id": "9815a3b5505c166e7517e53f9e9eccca",
+    "fetched_at": "2026-08-02T16:52:22.011861+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Helicopters fighting Greece wildfires collide in mid-air",
+    "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+    "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 15:21:56 GMT",
+    "source": "BBC News",
+    "id": "9fe088b5644c492091f9898c112e4005",
+    "fetched_at": "2026-08-02T16:52:22.011858+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rhine River hits record low as drought grips Germany",
+    "summary": "Record low water levels on Germany's Rhine River left boats stranded in Cologne, as prolonged heat and drought pushed the country's busiest waterway to its lowest level on record.",
+    "link": "http://www.euronews.com/video/2026/08/02/rhine-river-hits-record-low-as-drought-grips-germany",
+    "published": "Sun, 02 Aug 2026 17:30:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "16b20beef1f101a0360c88a1ae73bab2",
+    "fetched_at": "2026-08-02T16:52:22.011856+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 2nd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-evening",
+    "published": "Sun, 02 Aug 2026 18:00:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9c7ff099e2204da39d36fbdbdcdb474c",
+    "fetched_at": "2026-08-02T16:52:22.011852+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "2,000km, eight countries, 29 days - the fastest runner to cross the Alps",
+    "summary": "Ultra-runner Sophie Woods runs 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina - one of the world's toughest endurance challenges.",
+    "link": "https://www.bbc.co.uk/sport/articles/cg7mdjkrr22o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 12:37:23 GMT",
+    "source": "BBC News",
+    "id": "54b9fe5e3eb9c7c557f78c40bfa3aefe",
+    "fetched_at": "2026-08-02T16:52:22.011819+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italy putting nearly all major cities on highest heat alert",
+    "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 17:51:46 GMT",
+    "source": "BBC News",
+    "id": "b9ed161f490da720a71faf0f2a9c95ef",
+    "fetched_at": "2026-08-02T16:52:20.878197+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+    "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+    "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 15:48:00 GMT",
+    "source": "BBC News",
+    "id": "4318b8aaab8abcf6d53b5a7b107e0001",
+    "fetched_at": "2026-08-02T16:52:19.747521+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Socialist Spanish PM blasts Meloni over restored border controls after Ceuta surge, demands emergency meeting",
+    "summary": "Pedro Sánchez called Europe&apos;s response &quot;selfish&quot; and &quot;unlawful&quot; after Italy suspended Schengen Area free-travel arrangements with Spain over the crisis.",
+    "link": "https://www.foxnews.com/world/socialist-spanish-pm-blasts-meloni-restored-border-controls-ceuta-surge-demands-emergency-meeting",
+    "published": "Sat, 01 Aug 2026 14:58:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94ac4c0b1142902fe68d2b2740136bfb",
+    "fetched_at": "2026-08-02T16:52:18.623104+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+    "summary": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
+    "link": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
+    "published": "Sun, 02 Aug 2026 11:18:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1fa4420809b4a24ea76b17b8a1b695e0",
+    "fetched_at": "2026-08-02T16:52:17.323455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+    "summary": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+    "published": "Sat, 01 Aug 2026 14:33:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "f813237f2e1a8c1189b40be65e5be654",
+    "fetched_at": "2026-08-02T16:52:16.190566+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+    "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+    "published": "Sat, 01 Aug 2026 16:27:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "18ed9da94492189697350dca28204fdf",
+    "fetched_at": "2026-08-02T16:52:15.041729+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hundreds of flights cancelled as workers strike at Canada's WestJet",
+    "summary": "The strike by flight attendants at Canada's second-largest air carrier hits travellers on one of the busiest summer holiday weekends.",
+    "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 16:39:57 GMT",
+    "source": "BBC News",
+    "id": "a4e25914b7a974d221ae6517494428e1",
+    "fetched_at": "2026-08-02T16:52:13.909934+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
     "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "0e7b444ce63322bfe72255ac7188ad36",
     "fetched_at": "2026-08-02T02:02:42.116329+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Sopranos star Vincent Pastore dies aged 80",
-    "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 22:57:55 GMT",
-    "source": "BBC News",
-    "id": "404a64fdf74e1082c4c43995ed0b4c4d",
-    "fetched_at": "2026-08-02T02:02:40.993398+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 05:01:56 GMT",
-    "source": "BBC News",
-    "id": "fb847163ae0ffb19a64154273cb7cdb4",
-    "fetched_at": "2026-08-01T22:46:33.964380+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 1st, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-morning",
-    "published": "Sat, 01 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9ef650f1081efcf90e63249b5ced24ca",
-    "fetched_at": "2026-08-01T22:46:32.816967+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 20:09:27 GMT",
-    "source": "BBC News",
-    "id": "fa3557a0486c22d454ec001acebce9cd",
-    "fetched_at": "2026-08-01T22:46:31.670202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
-    "summary": "A homemade explosive device killed three people at a Moscow restaurant, and injured many more on Saturday night, Russian officials said.",
-    "link": "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
-    "published": "Sat, 01 Aug 2026 17:45:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e68f6dee6fa853cc7d3fe25cd67b6b00",
-    "fetched_at": "2026-08-01T22:46:30.532715+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
-    "summary": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
-    "published": "Fri, 31 Jul 2026 04:45:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "df9ed6432e51ad5032e5478a9715222e",
-    "fetched_at": "2026-08-01T22:46:29.396591+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-    "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-    "published": "Fri, 31 Jul 2026 07:30:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "3b72b09a66d1cb88bd6dda134328ed1e",
-    "fetched_at": "2026-08-01T22:46:28.273779+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-    "summary": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
-    "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-    "published": "Sat, 01 Aug 2026 18:23:39 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e32a35a62a5a8f3cefd3edefa3ca323",
-    "fetched_at": "2026-08-01T22:46:27.141658+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tourist plane crashes in Peru, killing 13",
-    "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-    "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 20:36:49 GMT",
-    "source": "BBC News",
-    "id": "07e61deeecc759e965a77ebfd14bef39",
-    "fetched_at": "2026-08-01T20:41:37.219199+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
-    "summary": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
-    "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 20:39:16 GMT",
-    "source": "BBC News",
-    "id": "9bb71021d492d682b06057f3d0c5400c",
-    "fetched_at": "2026-08-01T20:41:36.077249+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO member scrambles fighter jets as Russian attack on Ukraine kills 8",
-    "summary": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered its airspace during a massive barrage of over 70 missiles and 280 drones.",
-    "link": "https://www.foxnews.com/world/nato-member-scrambles-fighter-jets-russian-attack-ukraine-kills-8",
-    "published": "Thu, 30 Jul 2026 07:41:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3eae713bdee62d6ac4182baeb5733efc",
-    "fetched_at": "2026-08-01T20:41:34.966995+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American climber's remains found after avalanche in Pakistan, other mountaineers still missing",
-    "summary": "American climber Sarah Mallory Geis was among at least 10 mountaineers caught in a Broad Peak avalanche as rescue teams search for others.",
-    "link": "https://www.foxnews.com/world/american-climber-remains-found-avalanche-pakistan-mountaineers-missing",
-    "published": "Fri, 31 Jul 2026 21:57:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "22fa03b3d538b5ad416e5146dc4cc532",
-    "fetched_at": "2026-08-01T20:41:33.862336+00:00"
   }
 ]
