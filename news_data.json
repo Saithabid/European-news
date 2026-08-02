@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+    "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+    "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 14:46:16 GMT",
+    "source": "BBC News",
+    "id": "aaf9e0450a170ed825c40d96c4f179e4",
+    "fetched_at": "2026-08-02T14:55:53.265041+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 1st, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-evening",
+    "published": "Sat, 01 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f29e73fb98a23567e94c9719fe080151",
+    "fetched_at": "2026-08-02T14:55:52.157552+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+    "summary": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+    "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+    "source": "BBC News",
+    "id": "e97f86d4635e7ff3bf94181672923df9",
+    "fetched_at": "2026-08-02T14:55:51.043374+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
+    "summary": "Israel&apos;s president praised Trump&apos;s deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan&apos;s ICC dismissal, U.S.-Israel relations and Zohran Mamdani.",
+    "link": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
+    "published": "Sat, 01 Aug 2026 10:57:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd99267fb5a45b58e2eb1bdee461a31b",
+    "fetched_at": "2026-08-02T14:55:49.932257+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands of migrants crossed into Spanish territory from Morocco this week",
+    "summary": "Many of the migrants have now returned. Spanish authorities reported that at least 57 died, among them those who drowned as they attempted to swim to Ceuta, a Spanish autonomous city.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5914657/tens-of-thousands-of-migrants-crossed-into-spanish-territory-from-morocco-this-week",
+    "published": "Fri, 31 Jul 2026 16:22:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "6a05abb007083dbc39152ebb0736ea6b",
+    "fetched_at": "2026-08-02T14:55:48.821757+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+    "summary": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 21:18:30 GMT",
+    "source": "BBC News",
+    "id": "843900518436158ec1a7f2051755ddaf",
+    "fetched_at": "2026-08-02T14:55:47.703524+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+    "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 17:16:51 GMT",
+    "source": "BBC News",
+    "id": "779a493ef359a935f4ec549c790b48a9",
+    "fetched_at": "2026-08-02T14:55:46.581869+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+    "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+    "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 15:38:38 GMT",
+    "source": "BBC News",
+    "id": "3e79af215b94e861ae80c920576baccb",
+    "fetched_at": "2026-08-02T14:55:45.473216+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least five dead and 41 missing after an Indonesian ferry caught fire at sea",
     "summary": "A total of 225 people on the ferry were rescued, while some passengers jumped into the sea to escape the fire, according to Basarnas, Indonesia's National Search and Rescue Agency.",
     "link": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "22fa03b3d538b5ad416e5146dc4cc532",
     "fetched_at": "2026-08-01T20:41:33.862336+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Socialist Spanish PM blasts Meloni over restored border controls after Ceuta surge, demands emergency meeting",
-    "summary": "Pedro Sánchez called Europe&apos;s response &quot;selfish&quot; and &quot;unlawful&quot; after Italy suspended Schengen Area free-travel arrangements with Spain over the crisis.",
-    "link": "https://www.foxnews.com/world/socialist-spanish-pm-blasts-meloni-restored-border-controls-ceuta-surge-demands-emergency-meeting",
-    "published": "Sat, 01 Aug 2026 14:58:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94ac4c0b1142902fe68d2b2740136bfb",
-    "fetched_at": "2026-08-01T20:41:32.685708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-    "summary": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
-    "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-    "published": "Sat, 01 Aug 2026 16:27:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "18ed9da94492189697350dca28204fdf",
-    "fetched_at": "2026-08-01T20:41:31.544960+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
-    "summary": "The potential strike by flight attendants for Canada's second-largest air carrier comes during the busy August long weekend in the country.",
-    "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 18:55:52 GMT",
-    "source": "BBC News",
-    "id": "a4e25914b7a974d221ae6517494428e1",
-    "fetched_at": "2026-08-01T20:41:30.417133+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy putting nearly all major cities on highest heat alert",
-    "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:51:46 GMT",
-    "source": "BBC News",
-    "id": "b9ed161f490da720a71faf0f2a9c95ef",
-    "fetched_at": "2026-08-01T18:58:26.992154+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Influx of migrants to Ceuta gives Spain diplomatic headache",
-    "summary": "The incident has sparked concern in Europe while Spain also faces a challenge in balancing its relations with neighbouring Morocco and Algeria.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k49p7enjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 19:17:09 GMT",
-    "source": "BBC News",
-    "id": "65e5461d26eee8d18744995902a05ab6",
-    "fetched_at": "2026-08-01T18:58:26.992125+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Migrant crisis pushes Italy to restore border checks with Spain, testing Europe's open-border system",
-    "summary": "Conservative leaders across Europe react as an estimated 60,000 migrants crossed into Ceuta from Morocco within 24 hours, threatening its open-border policies.",
-    "link": "https://www.foxnews.com/world/migrant-crisis-pushes-italy-restore-border-checks-spain-testing-europes-open-border-system",
-    "published": "Fri, 31 Jul 2026 16:08:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2e85c1feead4e4d92726ea68a84c66b7",
-    "fetched_at": "2026-08-01T18:58:25.849938+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Death toll from southwestern Japan quake climbs to 34",
-    "summary": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
-    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
-    "published": "Fri, 31 Jul 2026 01:40:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "90eac85fb243902006b80ac531036d15",
-    "fetched_at": "2026-08-01T18:58:24.700632+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-    "summary": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
-    "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-    "published": "Sat, 01 Aug 2026 14:33:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "f813237f2e1a8c1189b40be65e5be654",
-    "fetched_at": "2026-08-01T18:58:23.554584+00:00"
   }
 ]
