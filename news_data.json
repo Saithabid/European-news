@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+    "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+    "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 10:46:47 GMT",
+    "source": "BBC News",
+    "id": "b30312b3bb34513df2d1932f3152a984",
+    "fetched_at": "2026-08-02T11:12:00.561936+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | July 31st, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this July 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-evening",
+    "published": "Fri, 31 Jul 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "68d497510bd96cb1fea96678414436a8",
+    "fetched_at": "2026-08-02T11:12:00.561908+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five wildfires still burn in Turkey as risk extends into next week",
+    "summary": "Of 206 fires recorded since Wednesday, 202 had been brought under control by Friday, but some remained active across western and southern coasts, with high temperatures and strong winds forecast to persist across 10 provinces.",
+    "link": "http://www.euronews.com/2026/07/31/five-wildfires-still-burn-in-turkey-as-risk-extends-into-next-week",
+    "published": "Fri, 31 Jul 2026 18:04:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "32ff38596cb941f33ff625bb96ea678e",
+    "fetched_at": "2026-08-02T11:11:59.388750+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Liberia sacks officials after record cocaine seizures worth $336 million",
+    "summary": "The drug busts have intensified scrutiny of Liberia's narcotics problem, with social media users, political commentators and local media calling for greater accountability from public officials and swift progress in the investigation.",
+    "link": "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million",
+    "published": "Fri, 31 Jul 2026 19:11:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7dad67c9141dcd69f52f36ed5748eb37",
+    "fetched_at": "2026-08-02T11:11:58.260547+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 2nd, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-midday",
+    "published": "Sun, 02 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f962f72eb4c0151522299ad37cc26f37",
+    "fetched_at": "2026-08-02T11:11:57.134959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+    "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 30 Jul 2026 17:55:24 GMT",
+    "source": "BBC News",
+    "id": "39acda8f3a81486ab2d54a4295b5f9dd",
+    "fetched_at": "2026-08-02T11:11:56.012764+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US companies win billions in African data center deals in direct competition with China",
+    "summary": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
+    "link": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+    "published": "Sun, 02 Aug 2026 06:00:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "50ea3a05ca2dda674ed041174bdfbafe",
+    "fetched_at": "2026-08-02T11:11:54.870960+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli orphans of fallen heroes find pride, connection on US journey",
+    "summary": "A young Oct. 7 hostage survivor shared his story with fellow bereaved children during the IDF Widows &amp; Orphans Organization&apos;s Bar/Bat Mitzvah trip.",
+    "link": "https://www.foxnews.com/world/israeli-orphans-fallen-heroes-find-pride-connection-us-journey",
+    "published": "Sun, 02 Aug 2026 06:00:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dfa89af9a98be3ee34b46fd0d2eabbbf",
+    "fetched_at": "2026-08-02T11:11:53.751661+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Washington state wildfires trigger evacuations",
+    "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+    "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 10:20:10 GMT",
+    "source": "BBC News",
+    "id": "46e4a1172d1a1bcf18a75eed30c8185e",
+    "fetched_at": "2026-08-02T11:11:52.623466+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
     "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
     "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6a05abb007083dbc39152ebb0736ea6b",
     "fetched_at": "2026-08-01T16:52:42.799157+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone delivery helps in Rwanda, but only so much",
-    "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
-    "published": "Fri, 31 Jul 2026 16:28:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "daa60640df4b7994e69a83dc361e3d4d",
-    "fetched_at": "2026-08-01T16:52:41.689828+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trying to understand student deaths and protests in India",
-    "summary": "Anti-government protests in India were partly triggered by students who died by suicide after they were ordered to retest for a medical exam. Why?",
-    "link": "https://www.npr.org/2026/07/31/nx-s1-5911927/trying-to-understand-students-deaths-and-protests-in-india",
-    "published": "Fri, 31 Jul 2026 16:28:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "114bfe97f33b1d1ef2c66974af3b169a",
-    "fetched_at": "2026-08-01T16:52:40.572524+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-    "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 07:22:30 GMT",
-    "source": "BBC News",
-    "id": "c48f55e4fcf3646a3165eb9a9eca416e",
-    "fetched_at": "2026-08-01T16:52:39.458053+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-    "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-    "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 16:16:16 GMT",
-    "source": "BBC News",
-    "id": "be2428b9ed90747b4d735097f0b2f465",
-    "fetched_at": "2026-08-01T16:52:38.351126+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens to revive $1.8bn 'anti-weaponisation' fund as Senate standoff deepens",
-    "summary": "\"It will immediately be back on the table, and I will get it done,\" the president wrote.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 15:58:10 GMT",
-    "source": "BBC News",
-    "id": "327be81c1dd411a9fa8855cf7d21e10a",
-    "fetched_at": "2026-08-01T16:52:37.238940+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Devastating European wildfires in maps - and how they're being tackled",
-    "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 11:53:40 GMT",
-    "source": "BBC News",
-    "id": "dd65754d1448b981c8a0bc2cc1ffa957",
-    "fetched_at": "2026-08-01T14:53:46.084559+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 15:35:50 GMT",
-    "source": "BBC News",
-    "id": "e6b5eeffcaed564e9312b3c0d7ca323f",
-    "fetched_at": "2026-08-01T14:53:44.954483+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 18 dead",
-    "summary": "Video shows thousands of migrants overwhelming Ceuta&apos;s Tarajal border as Spain deploys its military and at least 18 people die during crossings.",
-    "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
-    "published": "Thu, 30 Jul 2026 21:35:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8d3df9646ae63397c9af920c19ae3274",
-    "fetched_at": "2026-08-01T14:53:43.834840+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US economic growth sees surprise slowdown in second quarter",
-    "summary": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
-    "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 14:24:41 GMT",
-    "source": "BBC News",
-    "id": "d97bc32deb63e26fbb3f2230cdbc7633",
-    "fetched_at": "2026-08-01T14:53:42.702724+00:00"
   }
 ]
