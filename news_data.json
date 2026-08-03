@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Russian anti-war politician says he has fled the country",
+    "summary": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 15:41:08 GMT",
+    "source": "BBC News",
+    "id": "52fcfa26f70ba994eb7b6da566c63797",
+    "fetched_at": "2026-08-03T17:45:14.622607+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 15:57:27 GMT",
+    "source": "BBC News",
+    "id": "b696dc5085d3ac4e293d6bad66cf23a0",
+    "fetched_at": "2026-08-03T17:45:14.622605+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 3rd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-evening",
+    "published": "Mon, 03 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ae20f729f7c4da751e64e0bf4693319c",
+    "fetched_at": "2026-08-03T17:45:14.622601+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+    "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+    "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 10:54:44 GMT",
+    "source": "BBC News",
+    "id": "9bb71021d492d682b06057f3d0c5400c",
+    "fetched_at": "2026-08-03T17:45:14.622570+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+    "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+    "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 02 Aug 2026 10:32:28 GMT",
+    "source": "BBC News",
+    "id": "6e3379c04d5c9c904d715eeb3a49d215",
+    "fetched_at": "2026-08-03T17:45:13.494885+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+    "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+    "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 01:03:31 GMT",
+    "source": "BBC News",
+    "id": "9fe088b5644c492091f9898c112e4005",
+    "fetched_at": "2026-08-03T17:45:12.354962+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+    "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 16:27:43 GMT",
+    "source": "BBC News",
+    "id": "cdaf4f2f368d6a940226685e29af25eb",
+    "fetched_at": "2026-08-03T17:45:11.226042+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department raises travel warning for part of Spain as migrant surge sparks military deployment",
+    "summary": "Tens of thousands of migrants surged into Spain&apos;s Ceuta from Morocco, prompting a military deployment and a new State Department travel advisory.",
+    "link": "https://www.foxnews.com/world/state-department-raises-travel-warning-part-spain-migrant-surge-sparks-military-deployment",
+    "published": "Sat, 01 Aug 2026 19:16:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bb5f254174d9545dac861125b0b079c1",
+    "fetched_at": "2026-08-03T17:45:10.097455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+    "summary": "Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
+    "link": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
+    "published": "Sat, 01 Aug 2026 21:59:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "610baba7f081d3e7398927be2ce9cca2",
+    "fetched_at": "2026-08-03T17:45:08.961313+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran reaffirms support for Hamas as Trump pushes to disarm terror group",
+    "summary": "Iran&apos;s president pledged continued support to Hamas&apos; new leader even as Trump promotes his landmark Gaza disarmament deal and Board of Peace roadmap.",
+    "link": "https://www.foxnews.com/world/iran-reaffirms-support-hamas-trump-pushes-disarm-terror-group",
+    "published": "Mon, 03 Aug 2026 13:20:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "628035c71cf5a9d4a246335085ac0203",
+    "fetched_at": "2026-08-03T17:45:07.825829+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+    "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+    "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 10:59:12 GMT",
+    "source": "BBC News",
+    "id": "4380dc3abf68556a642691806530e8da",
+    "fetched_at": "2026-08-03T17:45:06.698284+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
     "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
     "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "dfa89af9a98be3ee34b46fd0d2eabbbf",
     "fetched_at": "2026-08-03T06:53:28.047944+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is the rate of premature births so high in this community?",
-    "summary": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down.",
-    "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-    "published": "Sun, 02 Aug 2026 07:03:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "b546a30fbbea889db2607d78e86cf661",
-    "fetched_at": "2026-08-03T06:53:26.954173+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-    "summary": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
-    "published": "Mon, 03 Aug 2026 00:06:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f071c991935205ffe397d2aad2add6b",
-    "fetched_at": "2026-08-03T06:53:25.862615+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-    "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-    "published": "Mon, 03 Aug 2026 01:41:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee2439801b83abc18e9a3bdd45877079",
-    "fetched_at": "2026-08-03T06:53:24.756143+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
-    "summary": "South Korea is moving away from its policy of prioritizing the immediate denuclearization of North Korea. But despite that shift, experts doubt Pyongyang will return to the negotiating table.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
-    "published": "Mon, 03 Aug 2026 02:49:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "ae543af36b5d49c8bccb7babbb28471f",
-    "fetched_at": "2026-08-03T06:53:23.608120+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 1st, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-midday",
-    "published": "Sat, 01 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1a0ac31098cdfafa35b07db52201c961",
-    "fetched_at": "2026-08-03T02:05:20.740153+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Call for 'full review' as pressure grows on Infantino",
-    "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:07:46 GMT",
-    "source": "BBC News",
-    "id": "eeb9d1e08f575d46d780e7e7b44eafdc",
-    "fetched_at": "2026-08-03T02:05:19.598633+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
-    "summary": "A former Ukrainian official describes &quot;scandalous situations&quot; in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors.",
-    "link": "https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens",
-    "published": "Sun, 02 Aug 2026 19:20:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "57b9c6c81d951d5832eb0d55de2fc7c3",
-    "fetched_at": "2026-08-03T02:05:18.459226+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says he's cancelling Iran strikes, deal pending",
-    "summary": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
-    "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-    "published": "Sun, 02 Aug 2026 03:34:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "27b6f698e1c81aaed7aea2d6fca9afc9",
-    "fetched_at": "2026-08-03T02:05:17.317354+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
-    "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 23:42:32 GMT",
-    "source": "BBC News",
-    "id": "4eeedda6225047fe9c20c9c60f801711",
-    "fetched_at": "2026-08-03T02:05:16.188486+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-    "summary": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 23:56:19 GMT",
-    "source": "BBC News",
-    "id": "010b99a20cab93704c0f950ebea6d2b3",
-    "fetched_at": "2026-08-03T02:05:15.052119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump suggests new talks with Iran to begin on Monday",
-    "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 00:11:18 GMT",
-    "source": "BBC News",
-    "id": "170011fc8a0e37f660592a591530eceb",
-    "fetched_at": "2026-08-03T02:05:13.917078+00:00"
   }
 ]
