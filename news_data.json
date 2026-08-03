@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Moment drone strikes Russian Black Sea beach resort",
+    "summary": "Social media footage showed what appeared to be a drone crashing into a busy beach at Arkhipo-Osipovka, as tourists looked on from the shore and in the water.",
+    "link": "http://www.euronews.com/video/2026/08/03/moment-drone-strikes-russian-black-sea-beach-resort",
+    "published": "Mon, 03 Aug 2026 23:36:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d225a3f5758eddc2066ac1674c3ccfdc",
+    "fetched_at": "2026-08-03T22:54:32.578329+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU calls for stronger borders after Ceuta migrant crossings",
+    "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+    "source": "BBC News",
+    "id": "7ad9ccfc32a53e7a357d6219eb350bec",
+    "fetched_at": "2026-08-03T22:54:31.454825+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Moscow bombing exposes potential security gaps around Putin’s military elite, expert says",
+    "summary": "An analyst warns Putin’s effort to project normalcy may have left Moscow exposed after a fatal restaurant bombing reportedly targeted a senior Russian general at a private celebration.",
+    "link": "https://www.foxnews.com/world/moscow-bombing-exposes-potential-security-gaps-around-putins-military-elite-expert-says",
+    "published": "Mon, 03 Aug 2026 17:11:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cc926a766ff17e16d0895f6d5b0793ac",
+    "fetched_at": "2026-08-03T22:54:30.314364+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
+    "summary": "Trump's controversial $1.8bn \"anti-weaponisation\" fund  could have been used to compensate people prosecuted over the US Capitol riot.",
+    "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 17:18:04 GMT",
+    "source": "BBC News",
+    "id": "3a647f58fbeb26d7246267691c3830a7",
+    "fetched_at": "2026-08-03T22:54:29.183564+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
     "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
     "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8e0ad1238cf7e9e83f4ed289f077f08d",
     "fetched_at": "2026-08-03T11:14:53.896296+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
-    "summary": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-    "published": "Mon, 03 Aug 2026 05:42:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "c57f3ea872ed99df88b7b2cd5e7e9f3b",
-    "fetched_at": "2026-08-03T11:14:52.742516+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-    "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:16:51 GMT",
-    "source": "BBC News",
-    "id": "779a493ef359a935f4ec549c790b48a9",
-    "fetched_at": "2026-08-03T11:14:51.595984+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Japan take action to prop up yen in rare joint move",
-    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-    "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 07:30:52 GMT",
-    "source": "BBC News",
-    "id": "442d6699b4a8b79098eacdd7203c9f97",
-    "fetched_at": "2026-08-03T11:14:50.396914+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Washington state wildfires force 60,000 people to evacuate homes",
-    "summary": "Videos from Spokane - the second most populus city in Washington - show huge plumes of smoke and roaring fires close to nearby houses.",
-    "link": "https://www.bbc.co.uk/news/articles/c3046g80yj7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 11:11:36 GMT",
-    "source": "BBC News",
-    "id": "dbc09d92585f91b0e8b4da037679c874",
-    "fetched_at": "2026-08-03T11:14:49.248421+00:00"
   }
 ]
