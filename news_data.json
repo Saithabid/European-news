@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+    "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 20:05:46 GMT",
+    "source": "BBC News",
+    "id": "bd3789243c70701737fe261384c4c20c",
+    "fetched_at": "2026-08-03T20:56:56.404335+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump warns Tehran facing 'last chance before decapitation'",
+    "summary": "\"We're talking about the Strait, the opening of the Strait, having it open literally by tomorrow, completely open,\" Trump told reporters while speaking from the White House on Monday.",
+    "link": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
+    "published": "Mon, 03 Aug 2026 22:26:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "99cb45f72cb90833d9f6ffed3292835c",
+    "fetched_at": "2026-08-03T20:56:55.293835+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US companies win billions in African data center deals in direct competition with China",
+    "summary": "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa.",
+    "link": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+    "published": "Sun, 02 Aug 2026 06:00:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "50ea3a05ca2dda674ed041174bdfbafe",
+    "fetched_at": "2026-08-03T20:56:54.119574+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli orphans of fallen heroes find pride, connection on US journey",
+    "summary": "A young Oct. 7 hostage survivor shared his story with fellow bereaved children during the IDF Widows &amp; Orphans Organization&apos;s Bar/Bat Mitzvah trip.",
+    "link": "https://www.foxnews.com/world/israeli-orphans-fallen-heroes-find-pride-connection-us-journey",
+    "published": "Sun, 02 Aug 2026 06:00:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dfa89af9a98be3ee34b46fd0d2eabbbf",
+    "fetched_at": "2026-08-03T20:56:52.984029+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Infantino opponents threaten 'non co-operation' with Fifa",
     "summary": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "dbc09d92585f91b0e8b4da037679c874",
     "fetched_at": "2026-08-03T11:14:49.248421+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Blanche formally withdraws Trump fund plan, ahead of AG confirmation vote",
-    "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
-    "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 11:07:13 GMT",
-    "source": "BBC News",
-    "id": "3a647f58fbeb26d7246267691c3830a7",
-    "fetched_at": "2026-08-03T11:14:48.103562+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Malaysian boy on trial for allegedly murdering girl in school",
-    "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-    "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 01:43:16 GMT",
-    "source": "BBC News",
-    "id": "434a7fbb25b122ccac1fd93935ac3ff1",
-    "fetched_at": "2026-08-03T06:53:31.324262+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Massive Attack respond after Singapore ban over Palestine display",
-    "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
-    "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 01:31:05 GMT",
-    "source": "BBC News",
-    "id": "820e267e8607ebdade8aed7124e62198",
-    "fetched_at": "2026-08-03T06:53:31.324260+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-    "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 03:32:21 GMT",
-    "source": "BBC News",
-    "id": "3623a2415470a03ffa911d2d0921a70b",
-    "fetched_at": "2026-08-03T06:53:31.324258+00:00"
   }
 ]
