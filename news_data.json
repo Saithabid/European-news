@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+    "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+    "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 21:24:50 GMT",
+    "source": "BBC News",
+    "id": "113ddb40b355b2a057decacdebf0597c",
+    "fetched_at": "2026-08-04T22:55:39.356500+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+    "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 11:19:01 GMT",
+    "source": "BBC News",
+    "id": "5ab2f3aa48aba8c3980be0c089a56a91",
+    "fetched_at": "2026-08-04T22:55:38.244644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Arson arrest made over largest of Washington state's wildfires",
+    "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:18:45 GMT",
+    "source": "BBC News",
+    "id": "2dc68210191254a268a6aa5972161960",
+    "fetched_at": "2026-08-04T22:55:37.127540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What will happen when a SpaceX rocket collides with the Moon?",
+    "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+    "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 09:13:37 GMT",
+    "source": "BBC News",
+    "id": "be08eb1ee80a59ed6a66e7461c5ad251",
+    "fetched_at": "2026-08-04T22:55:36.012357+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US revokes Brazilian ambassador's visa, official says, as diplomatic tensions escalate",
+    "summary": "It comes after the Brazilian government refused to grant visas for two US state department officials.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 21:43:28 GMT",
+    "source": "BBC News",
+    "id": "80e6ffa6243c511099561b1bf1640e29",
+    "fetched_at": "2026-08-04T22:55:34.892865+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'The fire's right there' - Families recount fleeing Washington state wildfires",
+    "summary": "Some have returned to find their homes reduced to ash and rubble, with only the charred trunks of trees rising from the smouldering ground.",
+    "link": "https://www.bbc.co.uk/news/articles/c8xn1nlpd7xo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 21:48:39 GMT",
+    "source": "BBC News",
+    "id": "7da6b429953cd06af2bdf862968813d0",
+    "fetched_at": "2026-08-04T22:55:33.775924+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Michigan to decide bitter Senate Democratic primary in test for divided party",
+    "summary": "Moderate congresswoman Haley Stevens faces a stiff challenge from left-wing outsider Abdul El-Sayed.",
+    "link": "https://www.bbc.co.uk/news/articles/c62q0kkr6k2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:10:57 GMT",
+    "source": "BBC News",
+    "id": "7f23c10bb8116e1094fd7f7e616f25bf",
+    "fetched_at": "2026-08-04T22:55:32.657783+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US congressman refuses to drop re-election bid over ex-wife's abuse claims",
+    "summary": "Ohio Republican Max Miller, who is fighting for his political life, told CNN: \"I'm never going to back down.\"",
+    "link": "https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 22:36:40 GMT",
+    "source": "BBC News",
+    "id": "943a3e056d2261bd90b5d6b375699168",
+    "fetched_at": "2026-08-04T22:55:31.535973+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Arrests in Egypt after people allegedly impersonate judges",
     "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
     "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "91dd78f0dc7d1222479e5bd949289a7f",
     "fetched_at": "2026-08-04T11:58:28.624121+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greece: Firefighters battle major wildfire as strong winds fuel flames",
-    "summary": "Hundreds of firefighters, backed by helicopters and water-dropping aircraft, are battling a major wildfire west of Athens.",
-    "link": "http://www.euronews.com/video/2026/08/04/greece-firefighters-battle-major-wildfire-as-strong-winds-fuel-flames",
-    "published": "Tue, 04 Aug 2026 13:20:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9cc2ed3a49139fdc9f3cf4bad597ea2d",
-    "fetched_at": "2026-08-04T11:58:28.624118+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-    "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
-    "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 17:53:09 GMT",
-    "source": "BBC News",
-    "id": "e97f86d4635e7ff3bf94181672923df9",
-    "fetched_at": "2026-08-04T11:58:28.624116+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
-    "summary": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 09:23:06 GMT",
-    "source": "BBC News",
-    "id": "1e3c7b54b78fd55435319b245d14b586",
-    "fetched_at": "2026-08-04T11:58:28.624114+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mourners line streets of Milan for legend Baresi's funeral",
-    "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:45:34 GMT",
-    "source": "BBC News",
-    "id": "97b19c2f6477f586809873b21255db0f",
-    "fetched_at": "2026-08-04T11:58:28.624111+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
-    "summary": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
-    "link": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
-    "published": "Sun, 02 Aug 2026 11:18:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1fa4420809b4a24ea76b17b8a1b695e0",
-    "fetched_at": "2026-08-04T11:58:28.624080+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-    "summary": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.",
-    "link": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
-    "published": "Sun, 02 Aug 2026 13:01:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d10f1306c327777970b7e625e3f7dd21",
-    "fetched_at": "2026-08-04T11:58:27.511782+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Holy Land battle: Solomon's Pools become flashpoint in fight over Israel's biblical heritage",
-    "summary": "Israeli officials say the ancient Solomon&apos;s Pools have fallen into disrepair under Palestinian Authority administration, raising concerns over preservation and biblical heritage.",
-    "link": "https://www.foxnews.com/world/holy-land-battle-solomons-pools-flashpoint-fight-israels-biblical-heritage",
-    "published": "Tue, 04 Aug 2026 06:25:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e9d3c31865eafb87e1c773b2010257c1",
-    "fetched_at": "2026-08-04T11:58:26.386961+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-    "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-    "published": "Mon, 03 Aug 2026 07:57:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "05592e35d4598799712f016563e5635c",
-    "fetched_at": "2026-08-04T11:58:25.270737+00:00"
   }
 ]
