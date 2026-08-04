@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "WHO calls for more support to tackle Ebola outbreak",
+    "summary": "Despite being declared less than three months ago, the outbreak has already become the largest ever recorded in the Democratic Republic of Congo.",
+    "link": "http://www.euronews.com/2026/08/04/who-calls-for-more-support-to-tackle-ebola-outbreak",
+    "published": "Tue, 04 Aug 2026 20:14:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "95cc54082936c59fd3c1fb729c92d96e",
+    "fetched_at": "2026-08-04T19:21:27.225191+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
+    "summary": "The Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve home to endangered wildlife off Oman&apos;s coast.",
+    "link": "https://www.foxnews.com/world/satellite-images-show-evidence-oil-leak-spreading-sanctioned-vessel-near-oman",
+    "published": "Sun, 02 Aug 2026 08:35:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e7e10343d8013f8c42879b50f76e0ac6",
+    "fetched_at": "2026-08-04T19:21:26.080613+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel says it has serious concerns with the White House's Hamas disarmament deal",
+    "summary": "President Trump announced a proposed disarmament deal with Hamas last week. Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.",
+    "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+    "published": "Mon, 03 Aug 2026 03:03:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "125fb3c8039614fbef69fbf8240a161c",
+    "fetched_at": "2026-08-04T19:21:24.953788+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
+    "summary": "Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.",
+    "link": "https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100",
+    "published": "Mon, 03 Aug 2026 04:44:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "598d231668c9a923f449a3affffb35bb",
+    "fetched_at": "2026-08-04T19:21:23.809553+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. steps in to help shore up Japanese yen",
+    "summary": "The U.S. dollar weakened against the Japanese yen Monday after the leaders of both countries confirmed they intervened in the markets to help shore up Japan's currency.",
+    "link": "https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen",
+    "published": "Mon, 03 Aug 2026 04:44:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "8e0ad1238cf7e9e83f4ed289f077f08d",
+    "fetched_at": "2026-08-04T19:21:22.662703+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+    "summary": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
+    "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+    "published": "Tue, 04 Aug 2026 14:01:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "dbf09bcda1b776f149977f1953eb4552",
+    "fetched_at": "2026-08-04T19:21:21.520208+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US states sue to block Trump tariffs impacting dozens of countries",
+    "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 09:08:40 GMT",
+    "source": "BBC News",
+    "id": "0f95cdfdc1084cfd26297f5e39886a9b",
+    "fetched_at": "2026-08-04T19:21:20.383037+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Analysis: Trump challenged by cold reality from top allies",
+    "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+    "source": "BBC News",
+    "id": "7c972d4b1e4c6a0594885744dee21e94",
+    "fetched_at": "2026-08-04T19:21:19.217551+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
     "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
     "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "e0f2ad5107347685449418dfdf6d89ed",
     "fetched_at": "2026-08-04T08:25:34.358588+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Soldier kills four, including civilians, in Crimea, Moscow-installed governor says",
-    "summary": "Crimea, a peninsula illegally annexed by Russia from Ukraine in 2014, has for weeks been the target of Ukrainian retaliatory attacks aimed at disrupting the logistics of Russian forces deployed in southern Ukraine.",
-    "link": "http://www.euronews.com/2026/08/04/soldier-kills-four-including-civilians-in-crimea-moscow-installed-governor-says",
-    "published": "Tue, 04 Aug 2026 10:19:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b0fff364d83caaf9b9968c5f05128945",
-    "fetched_at": "2026-08-04T08:25:34.358584+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
-    "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 03:53:05 GMT",
-    "source": "BBC News",
-    "id": "8db30b8af11d57d615998e857db1c65a",
-    "fetched_at": "2026-08-04T08:25:34.358556+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran's war on Americans began decades ago. These families still carry the scars",
-    "summary": "Robert Bartlett says he died three times after an Iranian-supplied EFP tore through his Humvee in Baghdad, launching a decades-long fight for justice.",
-    "link": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars",
-    "published": "Sun, 02 Aug 2026 08:00:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "45d1f05c0867fadba3d0d5429b9fd223",
-    "fetched_at": "2026-08-04T08:25:33.235182+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
-    "summary": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.",
-    "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
-    "published": "Tue, 04 Aug 2026 02:59:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "debc1e85e6357c2c696b20d7f55f3433",
-    "fetched_at": "2026-08-04T08:25:32.095672+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'She folded like an umbrella' - Trump slams Jeanine Pirro over Reflecting Pool case",
-    "summary": "Federal prosecutors dismissed charges against a former Olympian accused of vandalising the landmark pool, blaming contractors for a rushed job.",
-    "link": "https://www.bbc.co.uk/news/videos/ce34xngy03ro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 19:56:58 GMT",
-    "source": "BBC News",
-    "id": "4b166c15d71ebc229f2c2a576be7c712",
-    "fetched_at": "2026-08-04T08:25:30.963891+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-    "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-    "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 00:17:48 GMT",
-    "source": "BBC News",
-    "id": "62cd1bdd30a34ed35a6e8780cc3a559d",
-    "fetched_at": "2026-08-04T08:25:29.834223+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
-    "summary": "The star told fans at her Chicago show on Monday that \"boundaries need to be set\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 06:36:18 GMT",
-    "source": "BBC News",
-    "id": "104e70e124dad62891df834b6a2ed9ec",
-    "fetched_at": "2026-08-04T08:25:28.707998+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction",
-    "summary": "BBC Verify has matched videos posted online in the aftermath with images of the same streets before the fires to assess the damage in Washington state.",
-    "link": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 21:23:42 GMT",
-    "source": "BBC News",
-    "id": "f0a16693571e51db3568b2bfe5f324dc",
-    "fetched_at": "2026-08-04T08:25:27.588854+00:00"
   }
 ]
