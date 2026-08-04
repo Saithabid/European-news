@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Arrests in Egypt after people allegedly impersonate judges",
+    "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:25:00 GMT",
+    "source": "BBC News",
+    "id": "da92f6a5b421e2f49d3b6ae8b812534b",
+    "fetched_at": "2026-08-04T21:04:07.364321+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Netanyahu rejects Gaza withdrawal until Hamas disarms",
+    "summary": "Benjamin Netanyahu has pushed back against a US-backed Gaza deal, saying Israel will not withdraw from the territory until Hamas has completely disarmed, despite Washington's efforts to advance a ceasefire.",
+    "link": "http://www.euronews.com/2026/08/04/netanyahu-rejects-gaza-withdrawal-until-hamas-disarms",
+    "published": "Tue, 04 Aug 2026 22:31:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f40aeedcb5eec23b425d167550b87b83",
+    "fetched_at": "2026-08-04T21:04:07.364317+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How to avoid the worst of the Italian heat",
+    "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
+    "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 18:21:00 GMT",
+    "source": "BBC News",
+    "id": "5879d5b98505680c998060d3f1694492",
+    "fetched_at": "2026-08-04T21:04:07.364288+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s unseen supreme leader becomes weapon in escalating power struggle, experts say",
+    "summary": "Iran&apos;s rival factions invoke Mojtaba Khamenei&apos;s name to attack opponents, but his prolonged public absence raises questions about who governs.",
+    "link": "https://www.foxnews.com/world/irans-unseen-supreme-leader-becomes-weapon-escalating-power-struggle-experts-say",
+    "published": "Tue, 04 Aug 2026 15:14:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "96bbff34fd1ccbd85f343f03c0f1ccf6",
+    "fetched_at": "2026-08-04T21:04:06.227937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+    "summary": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.",
+    "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+    "published": "Tue, 04 Aug 2026 02:59:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "debc1e85e6357c2c696b20d7f55f3433",
+    "fetched_at": "2026-08-04T21:04:05.079496+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine's air defenses are proving to be a weak point",
+    "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
+    "link": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
+    "published": "Tue, 04 Aug 2026 16:16:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "36b5308236aa1660587f968c4d26242c",
+    "fetched_at": "2026-08-04T21:04:03.963826+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Before and after images show Spokane wildfire destruction",
+    "summary": "BBC Verify matched wildfire videos with images of the same areas before the fires struck to assess the damage in Washington state.",
+    "link": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 21:23:42 GMT",
+    "source": "BBC News",
+    "id": "f0a16693571e51db3568b2bfe5f324dc",
+    "fetched_at": "2026-08-04T21:04:02.832947+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Paramount chief executive David Ellison breaks silence on Warner Bros mega merger",
+    "summary": "The chief executive of Paramount-Skydance says criticism of $110bn (£82m) merger with Warner Bros. relies on outdated Hollywood model.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvp2nkxd9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:48:06 GMT",
+    "source": "BBC News",
+    "id": "be6cbbbabf7d55025b246cc3dc4c80b0",
+    "fetched_at": "2026-08-04T21:04:01.687226+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Like a bomb' - Residents react after Spokane fires destroy hundreds of homes",
+    "summary": "More than 700 homes have been destroyed in the Washington state flames, with one suspect arrested on first-degree arson charges.",
+    "link": "https://www.bbc.co.uk/news/videos/c3v0nyyeg3wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:25:46 GMT",
+    "source": "BBC News",
+    "id": "6a7456d8a9ec04a1051d3d0a8e6b61ba",
+    "fetched_at": "2026-08-04T21:04:00.549664+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SpaceX's first-ever earnings show a loss and huge spending",
+    "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 20:48:59 GMT",
+    "source": "BBC News",
+    "id": "150a5e259b294242035328580fcff7de",
+    "fetched_at": "2026-08-04T21:03:59.254219+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "WHO calls for more support to tackle Ebola outbreak",
     "summary": "Despite being declared less than three months ago, the outbreak has already become the largest ever recorded in the Democratic Republic of Congo.",
     "link": "http://www.euronews.com/2026/08/04/who-calls-for-more-support-to-tackle-ebola-outbreak",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "05592e35d4598799712f016563e5635c",
     "fetched_at": "2026-08-04T11:58:25.270737+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What will happen when a SpaceX rocket collides with the Moon?",
-    "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-    "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 09:13:37 GMT",
-    "source": "BBC News",
-    "id": "be08eb1ee80a59ed6a66e7461c5ad251",
-    "fetched_at": "2026-08-04T11:58:24.132247+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-    "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:34:45 GMT",
-    "source": "BBC News",
-    "id": "45fc7b5aa0a13dad842364c207d5653f",
-    "fetched_at": "2026-08-04T11:58:23.001912+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Arson arrest made over largest of Washington state's wildfires",
-    "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 09:32:12 GMT",
-    "source": "BBC News",
-    "id": "2dc68210191254a268a6aa5972161960",
-    "fetched_at": "2026-08-04T11:58:21.843036+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Michigan to decide bitter Senate Democratic primary in test for divided party",
-    "summary": "Moderate congresswoman Haley Stevens faces a stiff challenge from left-wing outsider Abdul El-Sayed.",
-    "link": "https://www.bbc.co.uk/news/articles/c62q0kkr6k2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 09:03:31 GMT",
-    "source": "BBC News",
-    "id": "7f23c10bb8116e1094fd7f7e616f25bf",
-    "fetched_at": "2026-08-04T11:58:20.698247+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-    "summary": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 07:13:40 GMT",
-    "source": "BBC News",
-    "id": "b09792ca70e3e7c0a8a9578dcda354bb",
-    "fetched_at": "2026-08-04T08:25:34.358601+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-    "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 07:42:56 GMT",
-    "source": "BBC News",
-    "id": "5ab2f3aa48aba8c3980be0c089a56a91",
-    "fetched_at": "2026-08-04T08:25:34.358599+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 4th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-morning",
-    "published": "Tue, 04 Aug 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6d77b58ec6e0a46f6db0d56efeae184c",
-    "fetched_at": "2026-08-04T08:25:34.358596+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Guatemalan authorities issue 'danger' alert after Fuego volcano erupts",
-    "summary": "Guatemala lies on the Pacific \"Ring of Fire\" and experiences frequent seismic and volcanic activity.",
-    "link": "http://www.euronews.com/2026/08/04/guatemalan-authorities-issue-danger-alert-after-fuego-volcano-erupts",
-    "published": "Tue, 04 Aug 2026 07:10:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f40336f421ae78e5c8015f19ae79b8a7",
-    "fetched_at": "2026-08-04T08:25:34.358594+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man from El Salvador dies in immigration jail in New Jersey, ICE officials say",
-    "summary": "People held at the Newark facility have asked for improved living conditions and better medical care, as they say some are being denied medication.",
-    "link": "http://www.euronews.com/2026/08/04/man-from-el-salvador-dies-in-immigration-jail-in-new-jersey-ice-officials-say",
-    "published": "Tue, 04 Aug 2026 09:12:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9b20449f37dd111d978ac04c96e90798",
-    "fetched_at": "2026-08-04T08:25:34.358590+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burned homes, blackened cars: Greek wildfires leave trail of destruction in Porto Germeno",
-    "summary": "Porto Germeno faces severe wildfire damage as Greece enters a second week of major fires. Firefighters remain deployed and at least five people have died.",
-    "link": "http://www.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-trail-of-destruction-in-porto-germeno",
-    "published": "Tue, 04 Aug 2026 09:57:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e0f2ad5107347685449418dfdf6d89ed",
-    "fetched_at": "2026-08-04T08:25:34.358588+00:00"
   }
 ]
