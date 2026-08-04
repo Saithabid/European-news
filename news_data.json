@@ -1,5 +1,55 @@
 [
   {
+    "region": "USA",
+    "title": "Mexican cartel boss linked to influencer’s livestreamed murder arrested, officials say",
+    "summary": "Ramón Ángel Álvarez Ayala, alleged leader of Los Rs tied to CJNG, faces charges in the livestreamed killing of Valeria Márquez and a mayor&apos;s assassination.",
+    "link": "https://www.foxnews.com/world/mexican-cartel-boss-linked-influencers-livestreamed-murder-arrested-officials-say",
+    "published": "Mon, 03 Aug 2026 18:52:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "64c136b013ae6d494fb6644543220355",
+    "fetched_at": "2026-08-04T01:50:36.345954+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+    "summary": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
+    "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+    "published": "Mon, 03 Aug 2026 05:42:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "c57f3ea872ed99df88b7b2cd5e7e9f3b",
+    "fetched_at": "2026-08-04T01:50:35.217063+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+    "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 01 Aug 2026 17:16:51 GMT",
+    "source": "BBC News",
+    "id": "779a493ef359a935f4ec549c790b48a9",
+    "fetched_at": "2026-08-04T01:50:34.099145+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US and Japan take action to prop up yen in rare joint move",
+    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+    "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 07:30:52 GMT",
+    "source": "BBC News",
+    "id": "442d6699b4a8b79098eacdd7203c9f97",
+    "fetched_at": "2026-08-04T01:50:32.990245+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Washington state wildfires force 60,000 people to evacuate homes",
+    "summary": "Videos from Spokane - the second most populous city in Washington - show huge plumes of smoke and roaring fires tearing through houses.",
+    "link": "https://www.bbc.co.uk/news/articles/c3046g80yj7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 23:44:49 GMT",
+    "source": "BBC News",
+    "id": "dbc09d92585f91b0e8b4da037679c874",
+    "fetched_at": "2026-08-04T01:50:31.847935+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Moment drone strikes Russian Black Sea beach resort",
     "summary": "Social media footage showed what appeared to be a drone crashing into a busy beach at Arkhipo-Osipovka, as tourists looked on from the shore and in the water.",
@@ -548,55 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "45d1f05c0867fadba3d0d5429b9fd223",
     "fetched_at": "2026-08-03T11:14:56.152578+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
-    "summary": "The Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve home to endangered wildlife off Oman&apos;s coast.",
-    "link": "https://www.foxnews.com/world/satellite-images-show-evidence-oil-leak-spreading-sanctioned-vessel-near-oman",
-    "published": "Sun, 02 Aug 2026 08:35:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e7e10343d8013f8c42879b50f76e0ac6",
-    "fetched_at": "2026-08-03T11:14:56.152575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Breakfasts around the world: In Australia, being denied vegemite is grounds for suing",
-    "summary": "As part of our series on breakfasts from around the world, we take a look at Vegemite, the iconic salty, yeasty spread popular in Australia.",
-    "link": "https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing",
-    "published": "Sun, 02 Aug 2026 08:08:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "9a0a30c912aca415257f1fbc2fcab985",
-    "fetched_at": "2026-08-03T11:14:56.152573+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel says it has serious concerns with Hamas disarmament deal",
-    "summary": "President Trump announced a proposed disarmament deal with Hamas last week. Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
-    "published": "Mon, 03 Aug 2026 03:03:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "125fb3c8039614fbef69fbf8240a161c",
-    "fetched_at": "2026-08-03T11:14:56.152541+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Morocco denies responsibility for events at its border with Spain, as deaths near 100",
-    "summary": "Four days after tens of thousands of migrants crossed from Morocco into the small Spanish territory of Ceuta, the death toll continues to rise -- nearing 100.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5915771/morocco-denies-responsibility-for-events-at-its-border-with-spain-as-deaths-near-100",
-    "published": "Mon, 03 Aug 2026 04:44:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "598d231668c9a923f449a3affffb35bb",
-    "fetched_at": "2026-08-03T11:14:55.027839+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. steps in to help shore up Japanese yen",
-    "summary": "The U.S. dollar weakened against the Japanese yen Monday after the leaders of both countries confirmed they intervened in the markets to help shore up Japan's currency.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5917867/u-s-steps-in-to-help-shore-up-japanese-yen",
-    "published": "Mon, 03 Aug 2026 04:44:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e0ad1238cf7e9e83f4ed289f077f08d",
-    "fetched_at": "2026-08-03T11:14:53.896296+00:00"
   }
 ]
