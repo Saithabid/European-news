@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+    "summary": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 07:13:40 GMT",
+    "source": "BBC News",
+    "id": "b09792ca70e3e7c0a8a9578dcda354bb",
+    "fetched_at": "2026-08-04T08:25:34.358601+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 07:42:56 GMT",
+    "source": "BBC News",
+    "id": "5ab2f3aa48aba8c3980be0c089a56a91",
+    "fetched_at": "2026-08-04T08:25:34.358599+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 4th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-morning",
+    "published": "Tue, 04 Aug 2026 07:00:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6d77b58ec6e0a46f6db0d56efeae184c",
+    "fetched_at": "2026-08-04T08:25:34.358596+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Guatemalan authorities issue 'danger' alert after Fuego volcano erupts",
+    "summary": "Guatemala lies on the Pacific \"Ring of Fire\" and experiences frequent seismic and volcanic activity.",
+    "link": "http://www.euronews.com/2026/08/04/guatemalan-authorities-issue-danger-alert-after-fuego-volcano-erupts",
+    "published": "Tue, 04 Aug 2026 07:10:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f40336f421ae78e5c8015f19ae79b8a7",
+    "fetched_at": "2026-08-04T08:25:34.358594+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man from El Salvador dies in immigration jail in New Jersey, ICE officials say",
+    "summary": "People held at the Newark facility have asked for improved living conditions and better medical care, as they say some are being denied medication.",
+    "link": "http://www.euronews.com/2026/08/04/man-from-el-salvador-dies-in-immigration-jail-in-new-jersey-ice-officials-say",
+    "published": "Tue, 04 Aug 2026 09:12:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9b20449f37dd111d978ac04c96e90798",
+    "fetched_at": "2026-08-04T08:25:34.358590+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burned homes, blackened cars: Greek wildfires leave trail of destruction in Porto Germeno",
+    "summary": "Porto Germeno faces severe wildfire damage as Greece enters a second week of major fires. Firefighters remain deployed and at least five people have died.",
+    "link": "http://www.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-trail-of-destruction-in-porto-germeno",
+    "published": "Tue, 04 Aug 2026 09:57:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e0f2ad5107347685449418dfdf6d89ed",
+    "fetched_at": "2026-08-04T08:25:34.358588+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Soldier kills four, including civilians, in Crimea, Moscow-installed governor says",
+    "summary": "Crimea, a peninsula illegally annexed by Russia from Ukraine in 2014, has for weeks been the target of Ukrainian retaliatory attacks aimed at disrupting the logistics of Russian forces deployed in southern Ukraine.",
+    "link": "http://www.euronews.com/2026/08/04/soldier-kills-four-including-civilians-in-crimea-moscow-installed-governor-says",
+    "published": "Tue, 04 Aug 2026 10:19:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b0fff364d83caaf9b9968c5f05128945",
+    "fetched_at": "2026-08-04T08:25:34.358584+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
+    "summary": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 03:53:05 GMT",
+    "source": "BBC News",
+    "id": "8db30b8af11d57d615998e857db1c65a",
+    "fetched_at": "2026-08-04T08:25:34.358556+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's war on Americans began decades ago. These families still carry the scars",
+    "summary": "Robert Bartlett says he died three times after an Iranian-supplied EFP tore through his Humvee in Baghdad, launching a decades-long fight for justice.",
+    "link": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars",
+    "published": "Sun, 02 Aug 2026 08:00:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "45d1f05c0867fadba3d0d5429b9fd223",
+    "fetched_at": "2026-08-04T08:25:33.235182+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+    "summary": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.",
+    "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+    "published": "Tue, 04 Aug 2026 02:59:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "debc1e85e6357c2c696b20d7f55f3433",
+    "fetched_at": "2026-08-04T08:25:32.095672+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'She folded like an umbrella' - Trump slams Jeanine Pirro over Reflecting Pool case",
+    "summary": "Federal prosecutors dismissed charges against a former Olympian accused of vandalising the landmark pool, blaming contractors for a rushed job.",
+    "link": "https://www.bbc.co.uk/news/videos/ce34xngy03ro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 19:56:58 GMT",
+    "source": "BBC News",
+    "id": "4b166c15d71ebc229f2c2a576be7c712",
+    "fetched_at": "2026-08-04T08:25:30.963891+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+    "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+    "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 00:17:48 GMT",
+    "source": "BBC News",
+    "id": "62cd1bdd30a34ed35a6e8780cc3a559d",
+    "fetched_at": "2026-08-04T08:25:29.834223+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+    "summary": "The star told fans at her Chicago show on Monday that \"boundaries need to be set\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 06:36:18 GMT",
+    "source": "BBC News",
+    "id": "104e70e124dad62891df834b6a2ed9ec",
+    "fetched_at": "2026-08-04T08:25:28.707998+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction",
+    "summary": "BBC Verify has matched videos posted online in the aftermath with images of the same streets before the fires to assess the damage in Washington state.",
+    "link": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 03 Aug 2026 21:23:42 GMT",
+    "source": "BBC News",
+    "id": "f0a16693571e51db3568b2bfe5f324dc",
+    "fetched_at": "2026-08-04T08:25:27.588854+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Analysis: Trump challenged by cold reality from top allies",
+    "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 00:02:40 GMT",
+    "source": "BBC News",
+    "id": "7c972d4b1e4c6a0594885744dee21e94",
+    "fetched_at": "2026-08-04T08:25:26.450027+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US states sue to block Trump tariffs impacting dozens of countries",
     "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "de2a5c182f9a040d1f41e2995e31b02b",
     "fetched_at": "2026-08-03T14:22:12.529819+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "PM Sanae Takaichi visits quake-hit southern Japan as cleanup begins in intense heat",
-    "summary": "More than 46,000 households remained without water and many also face fuel shortages as the region suffers sweltering heat, stoking fears of heat-related illness.",
-    "link": "http://www.euronews.com/2026/08/03/pm-sanae-takaichi-visits-quake-hit-southern-japan-as-cleanup-begins-in-intense-heat",
-    "published": "Mon, 03 Aug 2026 14:38:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "df9a5965ecfbdc85f92823e73b8a24d4",
-    "fetched_at": "2026-08-03T14:22:12.529816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire uncovers unexploded WWII shells in France",
-    "summary": "A wildfire in southwest France exposed unexploded World War II shells, forcing bomb disposal teams to clear the area before evacuated residents can return home.",
-    "link": "http://www.euronews.com/video/2026/08/03/wildfire-uncovers-unexploded-wwii-shells-in-france",
-    "published": "Mon, 03 Aug 2026 15:34:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5493169dae312b2cfdebc6554a386572",
-    "fetched_at": "2026-08-03T14:22:12.529814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "2,000km, eight countries, 29 days - the fastest runner to cross the Alps",
-    "summary": "Ultra-runner Sophie Woods runs 2,000km across eight countries in only 29 days to break the record for completing the Via Alpina - one of the world's toughest endurance challenges.",
-    "link": "https://www.bbc.co.uk/sport/articles/cg7mdjkrr22o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 12:37:23 GMT",
-    "source": "BBC News",
-    "id": "54b9fe5e3eb9c7c557f78c40bfa3aefe",
-    "fetched_at": "2026-08-03T14:22:12.529811+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy putting nearly all major cities on highest heat alert",
-    "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 17:51:46 GMT",
-    "source": "BBC News",
-    "id": "b9ed161f490da720a71faf0f2a9c95ef",
-    "fetched_at": "2026-08-03T14:22:12.529808+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 20:09:27 GMT",
-    "source": "BBC News",
-    "id": "fa3557a0486c22d454ec001acebce9cd",
-    "fetched_at": "2026-08-03T14:22:12.529805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-    "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
-    "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 17:53:09 GMT",
-    "source": "BBC News",
-    "id": "e97f86d4635e7ff3bf94181672923df9",
-    "fetched_at": "2026-08-03T14:22:12.529801+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-    "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-    "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 15:48:00 GMT",
-    "source": "BBC News",
-    "id": "4318b8aaab8abcf6d53b5a7b107e0001",
-    "fetched_at": "2026-08-03T14:22:12.529775+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
-    "summary": "A homemade explosive device killed three people at a Moscow restaurant, and injured many more on Saturday night, Russian officials said.",
-    "link": "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
-    "published": "Sat, 01 Aug 2026 17:45:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e68f6dee6fa853cc7d3fe25cd67b6b00",
-    "fetched_at": "2026-08-03T14:22:11.371258+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
-    "summary": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
-    "link": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
-    "published": "Sun, 02 Aug 2026 11:18:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1fa4420809b4a24ea76b17b8a1b695e0",
-    "fetched_at": "2026-08-03T14:22:10.230185+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-    "summary": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.",
-    "link": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
-    "published": "Sun, 02 Aug 2026 13:01:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d10f1306c327777970b7e625e3f7dd21",
-    "fetched_at": "2026-08-03T14:22:09.083850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-    "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-    "published": "Mon, 03 Aug 2026 07:57:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "05592e35d4598799712f016563e5635c",
-    "fetched_at": "2026-08-03T14:22:07.945343+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Sopranos star Vincent Pastore dies aged 80",
-    "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 01 Aug 2026 22:57:55 GMT",
-    "source": "BBC News",
-    "id": "404a64fdf74e1082c4c43995ed0b4c4d",
-    "fetched_at": "2026-08-03T14:22:06.798766+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hundreds of flights cancelled as workers strike at Canada's WestJet",
-    "summary": "The strike by flight attendants at Canada's second-largest air carrier hits travellers on one of the busiest summer holiday weekends.",
-    "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 16:39:57 GMT",
-    "source": "BBC News",
-    "id": "a4e25914b7a974d221ae6517494428e1",
-    "fetched_at": "2026-08-03T14:22:05.654987+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How ransom notes could help catch Nancy Guthrie's kidnappers",
-    "summary": "A forensic linguist tells the BBC it's possible to glean crucial information about a person from just a few sentences.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dkng21dg2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 02 Aug 2026 18:40:22 GMT",
-    "source": "BBC News",
-    "id": "433032a6b3b8fd1b8d0ebeb6c797bb0e",
-    "fetched_at": "2026-08-03T14:22:04.507150+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sudan army drone strike on court session kills 35, rights group says",
-    "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-    "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 10:29:24 GMT",
-    "source": "BBC News",
-    "id": "8a01c1c2e573742809f25862353a99c3",
-    "fetched_at": "2026-08-03T11:14:56.152598+00:00"
   }
 ]
