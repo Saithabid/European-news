@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+    "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 01:35:29 GMT",
+    "source": "BBC News",
+    "id": "01191ee09548c07bb45130a1b05d37f1",
+    "fetched_at": "2026-08-05T01:51:21.323850+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Greece: Firefighters battle major wildfire as strong winds fuel flames",
+    "summary": "Hundreds of firefighters, backed by helicopters and water-dropping aircraft, are battling a major wildfire west of Athens.",
+    "link": "http://www.euronews.com/video/2026/08/04/greece-firefighters-battle-major-wildfire-as-strong-winds-fuel-flames",
+    "published": "Tue, 04 Aug 2026 13:20:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9cc2ed3a49139fdc9f3cf4bad597ea2d",
+    "fetched_at": "2026-08-05T01:51:21.323824+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+    "summary": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+    "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 09:23:06 GMT",
+    "source": "BBC News",
+    "id": "1e3c7b54b78fd55435319b245d14b586",
+    "fetched_at": "2026-08-05T01:51:20.178547+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mourners line streets of Milan for legend Baresi's funeral",
+    "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 10:45:34 GMT",
+    "source": "BBC News",
+    "id": "97b19c2f6477f586809873b21255db0f",
+    "fetched_at": "2026-08-05T01:51:19.056514+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+    "summary": "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three.",
+    "link": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
+    "published": "Sun, 02 Aug 2026 11:18:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1fa4420809b4a24ea76b17b8a1b695e0",
+    "fetched_at": "2026-08-05T01:51:17.888224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
+    "summary": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.",
+    "link": "https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis",
+    "published": "Sun, 02 Aug 2026 13:01:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d10f1306c327777970b7e625e3f7dd21",
+    "fetched_at": "2026-08-05T01:51:16.673197+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Holy Land battle: Solomon's Pools become flashpoint in fight over Israel's biblical heritage",
+    "summary": "Israeli officials say the ancient Solomon&apos;s Pools have fallen into disrepair under Palestinian Authority administration, raising concerns over preservation and biblical heritage.",
+    "link": "https://www.foxnews.com/world/holy-land-battle-solomons-pools-flashpoint-fight-israels-biblical-heritage",
+    "published": "Tue, 04 Aug 2026 06:25:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e9d3c31865eafb87e1c773b2010257c1",
+    "fetched_at": "2026-08-05T01:51:15.531147+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+    "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
+    "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+    "published": "Mon, 03 Aug 2026 07:57:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "05592e35d4598799712f016563e5635c",
+    "fetched_at": "2026-08-05T01:51:14.312237+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+    "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+    "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 00:19:04 GMT",
+    "source": "BBC News",
+    "id": "d054caea9f0c10714e630f52327952e3",
+    "fetched_at": "2026-08-05T01:51:13.171287+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Projectile sinks Indian-flagged ship off Yemen coast",
     "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
     "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "fd06cd766430a18debc36714e78789e3",
     "fetched_at": "2026-08-04T14:13:53.835363+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Did Iran hack water systems in seven US states?",
-    "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 02:29:03 GMT",
-    "source": "BBC News",
-    "id": "27ab6d5ab550f388bebc4c63055b60fd",
-    "fetched_at": "2026-08-04T14:13:52.693153+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-    "summary": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:04:53 GMT",
-    "source": "BBC News",
-    "id": "9963993c304859b76fba4dc884a2274a",
-    "fetched_at": "2026-08-04T11:58:28.624132+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Guatemala volcano eruption sends lava spewing into the air",
-    "summary": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
-    "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:56:50 GMT",
-    "source": "BBC News",
-    "id": "d0e372393869669dd668c21bc65d7d5d",
-    "fetched_at": "2026-08-04T11:58:28.624130+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 150 migrants rescued after boat catches fire in Channel",
-    "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 11:19:08 GMT",
-    "source": "BBC News",
-    "id": "f9c98988fb84ce0fc9191924a75894fa",
-    "fetched_at": "2026-08-04T11:58:28.624129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sri Lanka closes schools as heavy rains trigger floods and mudslides, killing at least five",
-    "summary": "Mudslides and floods are among the most destructive natural disasters, causing severe damage to lives and property in Sri Lanka every year.",
-    "link": "http://www.euronews.com/2026/08/04/sri-lanka-closes-schools-as-heavy-rains-trigger-floods-and-mudslides-killing-at-least-five",
-    "published": "Tue, 04 Aug 2026 10:35:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ebfcfbf1b954497facd5d4c2d887d008",
-    "fetched_at": "2026-08-04T11:58:28.624128+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspected heatstroke kills three lions at Japan zoo, spokesperson says",
-    "summary": "Ten of the 16 lions in Tama Zoological Park have suffered symptoms such as \"loss of appetite and decreased activity\" since mid-July, and three lionesses died, the zoo said in a statement.",
-    "link": "http://www.euronews.com/2026/08/04/suspected-heatstroke-kills-three-lions-at-japan-zoo-spokesperson-says",
-    "published": "Tue, 04 Aug 2026 11:25:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "40cf76b444febbe07b064347a1c8c5f3",
-    "fetched_at": "2026-08-04T11:58:28.624126+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish foreign ministry denounces attacks on two civilian cargo ships in Black Sea",
-    "summary": "At the end of May, Turkey had warned of an \"uncontrolled escalation\" in the Black Sea region after a drone attack on a Turkish cargo ship.",
-    "link": "http://www.euronews.com/2026/08/04/turkish-foreign-ministry-denounces-attacks-on-two-civilian-cargo-ships-in-black-sea",
-    "published": "Tue, 04 Aug 2026 11:55:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f5614ce76f4520cd413bbe3779ed23f3",
-    "fetched_at": "2026-08-04T11:58:28.624125+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 4th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-midday",
-    "published": "Tue, 04 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8345125beea398221eb9faa141f12c58",
-    "fetched_at": "2026-08-04T11:58:28.624123+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany: Yayoi Kusama exhibition breaks attendance record in Cologne",
-    "summary": "Nearly 470,000 visitors made the exhibition the biggest success in Museum Ludwig's history.",
-    "link": "http://www.euronews.com/video/2026/08/04/germany-yayoi-kusama-exhibition-breaks-attendance-record-in-cologne",
-    "published": "Tue, 04 Aug 2026 12:31:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "91dd78f0dc7d1222479e5bd949289a7f",
-    "fetched_at": "2026-08-04T11:58:28.624121+00:00"
   }
 ]
