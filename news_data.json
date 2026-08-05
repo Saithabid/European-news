@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | August 4th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-midday",
+    "published": "Tue, 04 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8345125beea398221eb9faa141f12c58",
+    "fetched_at": "2026-08-05T04:58:57.704399+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany: Yayoi Kusama exhibition breaks attendance record in Cologne",
+    "summary": "Nearly 470,000 visitors made the exhibition the biggest success in Museum Ludwig's history.",
+    "link": "http://www.euronews.com/video/2026/08/04/germany-yayoi-kusama-exhibition-breaks-attendance-record-in-cologne",
+    "published": "Tue, 04 Aug 2026 12:31:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "91dd78f0dc7d1222479e5bd949289a7f",
+    "fetched_at": "2026-08-05T04:58:56.587751+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran and Oman draft waterway deal while Trump rejects Tehran's control and transit fees",
+    "summary": "Tehran and Muscat are drafting an agreement to reopen the waterway via shared routes and service fees. However, implementation hinges on Washington lifting its blockade, with President Trump rejecting Iranian control or any shipping tolls.",
+    "link": "http://www.euronews.com/2026/08/05/iran-and-oman-draft-waterway-deal-while-trump-rejects-tehrans-control-and-transit-fees",
+    "published": "Wed, 05 Aug 2026 04:54:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8b37742bf317e62fbeebc39fe330309f",
+    "fetched_at": "2026-08-05T04:58:55.463812+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Brazil - Argentina diplomatic relations downgrade to 'Chargé d'Affaires'",
+    "summary": "Brasilia has requested the recall of Argentina’s ambassador and reduced diplomatic representation to Charge d'Affaires level as Argentine President Javier Milei called President Luiz Inacio Lula da Silva a thief.",
+    "link": "http://www.euronews.com/2026/08/05/brazil-argentina-diplomatic-relations-downgrade-to-charge-daffaires",
+    "published": "Wed, 05 Aug 2026 06:14:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "50f2bad6319900d030cac766db7395c6",
+    "fetched_at": "2026-08-05T04:58:54.333989+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
     "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "628035c71cf5a9d4a246335085ac0203",
     "fetched_at": "2026-08-04T14:13:58.412879+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-    "summary": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
-    "published": "Mon, 03 Aug 2026 00:06:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f071c991935205ffe397d2aad2add6b",
-    "fetched_at": "2026-08-04T14:13:57.259582+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-    "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-    "published": "Mon, 03 Aug 2026 01:41:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee2439801b83abc18e9a3bdd45877079",
-    "fetched_at": "2026-08-04T14:13:56.107107+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
-    "summary": "South Korea is moving away from its policy of prioritizing the immediate denuclearization of North Korea. But despite that shift, experts doubt Pyongyang will return to the negotiating table.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
-    "published": "Mon, 03 Aug 2026 02:49:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "ae543af36b5d49c8bccb7babbb28471f",
-    "fetched_at": "2026-08-04T14:13:54.960993+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
-    "summary": "For years, many Cubans hoping to leave the island looked to the United States. Now, with legal pathways largely closed, a growing number are heading to Brazil instead.",
-    "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
-    "published": "Mon, 03 Aug 2026 15:05:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "fd06cd766430a18debc36714e78789e3",
-    "fetched_at": "2026-08-04T14:13:53.835363+00:00"
   }
 ]
