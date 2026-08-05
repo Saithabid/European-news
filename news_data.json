@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+    "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 18:38:46 GMT",
+    "source": "BBC News",
+    "id": "5d1d99bca432ed58878dabc8de1be7a4",
+    "fetched_at": "2026-08-05T20:59:57.263993+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+    "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+    "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 20:03:36 GMT",
+    "source": "BBC News",
+    "id": "4975d3e84a7d9c3f69688058e4fe8108",
+    "fetched_at": "2026-08-05T20:59:57.263990+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "IDF to continue to 'operate proactively' in Gaza, military chief says",
+    "summary": "The statement came after Israeli Prime Minister Benjamin Netanyahu said Israel had not agreed to a US-backed plan for Gaza.",
+    "link": "http://www.euronews.com/2026/08/05/idf-to-continue-to-operate-proactively-in-gaza-military-chief-says",
+    "published": "Wed, 05 Aug 2026 21:42:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6e1c737370a8546abf587b37b8a93f02",
+    "fetched_at": "2026-08-05T20:59:57.263963+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Capybaras crash Brazilian lawmakers' voting session and steal the show",
+    "summary": "Capybaras wandered through the front door of the Mato Grosso state legislature in Brazil, surprising lawmakers preparing for a vote last week.",
+    "link": "https://www.foxnews.com/world/capybaras-crash-brazilian-lawmakers-voting-session-steal-show",
+    "published": "Wed, 05 Aug 2026 02:00:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "69a2fbf17569d96ebc03a38303cfb3ae",
+    "fetched_at": "2026-08-05T20:59:56.143199+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
+    "summary": "Nuclear experts urged President Trump to keep Iran’s nuclear program at the center of talks, warning Tehran could seek sanctions relief before addressing remaining nuclear capabilities.",
+    "link": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
+    "published": "Wed, 05 Aug 2026 15:32:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fcc93e917300e0077e0aedea7c4dae47",
+    "fetched_at": "2026-08-05T20:59:54.992081+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
+    "summary": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a &quot;safari.&quot;",
+    "link": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
+    "published": "Wed, 05 Aug 2026 16:12:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7d279511916fbe08b78563574f9bcb66",
+    "fetched_at": "2026-08-05T20:59:53.850153+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel is facing a shortage of army reservists",
+    "summary": "Israel is facing a substantial shortage in troop numbers as reservists, exhausted from war, are failing to turn up for duty. Experts say Israel's multiple war fronts are putting a huge mental, political, and financial strain on reservists.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5902952/israel-is-facing-a-shortage-of-army-reservists",
+    "published": "Wed, 05 Aug 2026 16:22:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "8044dbf5f549323fadc8da99368368ca",
+    "fetched_at": "2026-08-05T20:59:52.713079+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Myanmar's conflict tops 100,000 dead as junta benefits from world's inattention",
+    "summary": "A 2021 military coup plunged Myanmar into a brutal civil war, ousting Aung San Suu Kyi's elected government. For years, the world isolated the junta. That isolation is breaking down.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5919735/myanmars-conflict-tops-100-000-dead-as-junta-benefits-from-worlds-inattention",
+    "published": "Wed, 05 Aug 2026 16:22:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "6c35fe861a752bd55e6e54c7e9122bb6",
+    "fetched_at": "2026-08-05T20:59:51.588416+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kyiv residents face attacks with fewer defenses overhead",
+    "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead",
+    "published": "Wed, 05 Aug 2026 16:23:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbd53c178a9610db4a557c069dc2b141",
+    "fetched_at": "2026-08-05T20:59:50.420241+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+    "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+    "published": "Wed, 05 Aug 2026 16:43:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "8e0fb2c5d29cb6475399f7116a7277a3",
+    "fetched_at": "2026-08-05T20:59:49.282217+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Iran and Oman agree route for ships in Strait of Hormuz, Tehran says",
     "summary": "Tehran has announced that Iran and Oman have agreed on the geographic route for shipping through the Strait of Hormuz, claiming that the US was not involved in the agreement. At the same time, the US President has claimed Hormuz negotiations with Iran are “moving along very nicely”.",
     "link": "http://www.euronews.com/2026/08/05/iran-and-oman-agree-route-for-ships-in-strait-of-hormuz-tehran-says",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "356f5c4c173a268fea31085f000ac0a1",
     "fetched_at": "2026-08-05T11:52:25.049327+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-    "summary": "The 56-year-old, who shot to prominence in 1991 musical comedy film The Commitments, died in a motorcycle crash last week.",
-    "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 17:01:19 GMT",
-    "source": "BBC News",
-    "id": "60fd3152a7774a2644317b4f9c6bdd59",
-    "fetched_at": "2026-08-05T11:52:23.910263+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
-    "summary": "A former Ukrainian official describes &quot;scandalous situations&quot; in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors.",
-    "link": "https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens",
-    "published": "Sun, 02 Aug 2026 19:20:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "57b9c6c81d951d5832eb0d55de2fc7c3",
-    "fetched_at": "2026-08-05T11:52:22.782839+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran reaffirms support for Hamas as Trump pushes to disarm terror group",
-    "summary": "Iran&apos;s president pledged continued support to Hamas&apos; new leader even as Trump promotes his landmark Gaza disarmament deal and Board of Peace roadmap.",
-    "link": "https://www.foxnews.com/world/iran-reaffirms-support-hamas-trump-pushes-disarm-terror-group",
-    "published": "Mon, 03 Aug 2026 13:20:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "628035c71cf5a9d4a246335085ac0203",
-    "fetched_at": "2026-08-05T11:52:21.653818+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Unrest mounts in Kashmir as Pakistani security crackdown stokes reform movement",
-    "summary": "Pakistani forces blockade Kashmir as protesters demand electoral reforms and -- increasingly -- revolution.",
-    "link": "https://www.npr.org/2026/08/05/nx-s1-5919736/unrest-mounts-in-kashmir-as-pakistani-security-crackdown-stokes-reform-movement",
-    "published": "Wed, 05 Aug 2026 04:44:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "b695c872e266cca64a2b5b93b932c02e",
-    "fetched_at": "2026-08-05T11:52:20.525473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-    "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said.",
-    "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-    "published": "Wed, 05 Aug 2026 06:15:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f702b9b2897be494417dbdb5b2e1d27",
-    "fetched_at": "2026-08-05T11:52:19.402688+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-    "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-    "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 11:19:24 GMT",
-    "source": "BBC News",
-    "id": "942988c214d9c3a7db1d4e8a6475dfe8",
-    "fetched_at": "2026-08-05T11:52:18.267062+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Afghan boxer appears in court in connection with death of Scottish woman",
-    "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
-    "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 08:21:53 GMT",
-    "source": "BBC News",
-    "id": "286f9c11000ac5747288e58e6b293572",
-    "fetched_at": "2026-08-05T08:23:26.254563+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-    "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-    "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 07:04:45 GMT",
-    "source": "BBC News",
-    "id": "d5f8296b941d11f8c12d8f5a23db1d4d",
-    "fetched_at": "2026-08-05T08:23:26.254537+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fuego volcano spews more ash and lava as Guatemala shelters 1,700 who fled nearby villages",
-    "summary": "Emergency services issued a red alert, the most severe warning, after Central America's most active volcano erupted on Monday morning, with conditions intensifying by nightfall.",
-    "link": "http://www.euronews.com/2026/08/05/fuego-volcano-spews-more-ash-and-lava-as-guatemala-shelters-1700-who-fled-nearby-villages",
-    "published": "Wed, 05 Aug 2026 06:58:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4c02e210a9eb2d914b112ca6ec5b76c1",
-    "fetched_at": "2026-08-05T08:23:25.120160+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 5th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-morning",
-    "published": "Wed, 05 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2825376c8050e54d020c29e91ab959a2",
-    "fetched_at": "2026-08-05T08:23:23.979959+00:00"
   }
 ]
