@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+    "summary": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
+    "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 14:58:41 GMT",
+    "source": "BBC News",
+    "id": "ac774979bc0bc82c2ff61dab26a37045",
+    "fetched_at": "2026-08-05T15:56:13.242604+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN rights chief alarmed by rise in Iran executions since March",
+    "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
+    "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 14:04:09 GMT",
+    "source": "BBC News",
+    "id": "021bfd28efdc7f73b1c2bd9c738ba070",
+    "fetched_at": "2026-08-05T15:56:13.242602+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mass funeral held in Gaza for victims of 2023 air strike",
+    "summary": "Funeral held in Gaza after crews recover 112 bodies from the site of a deadly 2023 air strike, with many victims still missing beneath rubble.",
+    "link": "http://www.euronews.com/video/2026/08/05/mass-funeral-held-in-gaza-for-victims-of-2023-air-strike",
+    "published": "Wed, 05 Aug 2026 11:19:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4c650f7306f6b91e67fb8c615fd39dd0",
+    "fetched_at": "2026-08-05T15:56:13.242598+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dublin bids farewell to singer-songwriter Glen Hansard",
+    "summary": "Hundreds gather in Dublin to honour Glen Hansard as musicians, actors and fans pay tribute during the singer-songwriter's funeral service",
+    "link": "http://www.euronews.com/video/2026/08/05/dublin-bids-farewell-to-singer-songwriter-glen-hansard",
+    "published": "Wed, 05 Aug 2026 15:57:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6ce2a87fd2279363ae1b57e232f6b8bc",
+    "fetched_at": "2026-08-05T15:56:13.242567+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How to avoid the worst of the Italian heat",
+    "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
+    "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 18:21:00 GMT",
+    "source": "BBC News",
+    "id": "5879d5b98505680c998060d3f1694492",
+    "fetched_at": "2026-08-05T15:56:12.099427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s unseen supreme leader becomes weapon in escalating power struggle, experts say",
+    "summary": "Iran&apos;s rival factions invoke Mojtaba Khamenei&apos;s name to attack opponents, but his prolonged public absence raises questions about who governs.",
+    "link": "https://www.foxnews.com/world/irans-unseen-supreme-leader-becomes-weapon-escalating-power-struggle-experts-say",
+    "published": "Tue, 04 Aug 2026 15:14:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "96bbff34fd1ccbd85f343f03c0f1ccf6",
+    "fetched_at": "2026-08-05T15:56:10.971044+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+    "summary": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.",
+    "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+    "published": "Tue, 04 Aug 2026 02:59:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "debc1e85e6357c2c696b20d7f55f3433",
+    "fetched_at": "2026-08-05T15:56:09.850768+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine's air defenses are proving to be a weak point",
+    "summary": "Ukraine's defenses have held the line on most fronts, but there's one glaring weakness -- Russian ballistic missiles. Ukraine is desperately short of U.S.-made Patriot air defense missiles needed to defend against the Russians.",
+    "link": "https://www.npr.org/2026/08/04/nx-s1-5909140/ukraines-air-defenses-are-proving-to-be-a-weak-point",
+    "published": "Tue, 04 Aug 2026 16:16:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "36b5308236aa1660587f968c4d26242c",
+    "fetched_at": "2026-08-05T15:56:08.720598+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+    "summary": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+    "published": "Wed, 05 Aug 2026 11:26:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "60350987ac180e85834289aff2e39980",
+    "fetched_at": "2026-08-05T15:56:07.600723+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+    "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 15:05:30 GMT",
+    "source": "BBC News",
+    "id": "b6a05fc7e39b7dadf9388d1f4205d84d",
+    "fetched_at": "2026-08-05T15:56:06.473168+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "El-Sayed's victory sends tremors through Democratic Party",
+    "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
+    "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 14:54:07 GMT",
+    "source": "BBC News",
+    "id": "6ab31888954934f34edfa6dd084667f4",
+    "fetched_at": "2026-08-05T15:56:05.337601+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
     "summary": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
     "link": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "e9d3c31865eafb87e1c773b2010257c1",
     "fetched_at": "2026-08-05T01:51:15.531147+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-    "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-    "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-    "published": "Mon, 03 Aug 2026 07:57:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "05592e35d4598799712f016563e5635c",
-    "fetched_at": "2026-08-05T01:51:14.312237+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-    "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-    "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 00:19:04 GMT",
-    "source": "BBC News",
-    "id": "d054caea9f0c10714e630f52327952e3",
-    "fetched_at": "2026-08-05T01:51:13.171287+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Projectile sinks Indian-flagged ship off Yemen coast",
-    "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
-    "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:24:50 GMT",
-    "source": "BBC News",
-    "id": "113ddb40b355b2a057decacdebf0597c",
-    "fetched_at": "2026-08-04T22:55:39.356500+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-    "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 11:19:01 GMT",
-    "source": "BBC News",
-    "id": "5ab2f3aa48aba8c3980be0c089a56a91",
-    "fetched_at": "2026-08-04T22:55:38.244644+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Arson arrest made over largest of Washington state's wildfires",
-    "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 19:18:45 GMT",
-    "source": "BBC News",
-    "id": "2dc68210191254a268a6aa5972161960",
-    "fetched_at": "2026-08-04T22:55:37.127540+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What will happen when a SpaceX rocket collides with the Moon?",
-    "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-    "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 09:13:37 GMT",
-    "source": "BBC News",
-    "id": "be08eb1ee80a59ed6a66e7461c5ad251",
-    "fetched_at": "2026-08-04T22:55:36.012357+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US revokes Brazilian ambassador's visa, official says, as diplomatic tensions escalate",
-    "summary": "It comes after the Brazilian government refused to grant visas for two US state department officials.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:43:28 GMT",
-    "source": "BBC News",
-    "id": "80e6ffa6243c511099561b1bf1640e29",
-    "fetched_at": "2026-08-04T22:55:34.892865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'The fire's right there' - Families recount fleeing Washington state wildfires",
-    "summary": "Some have returned to find their homes reduced to ash and rubble, with only the charred trunks of trees rising from the smouldering ground.",
-    "link": "https://www.bbc.co.uk/news/articles/c8xn1nlpd7xo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:48:39 GMT",
-    "source": "BBC News",
-    "id": "7da6b429953cd06af2bdf862968813d0",
-    "fetched_at": "2026-08-04T22:55:33.775924+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Michigan to decide bitter Senate Democratic primary in test for divided party",
-    "summary": "Moderate congresswoman Haley Stevens faces a stiff challenge from left-wing outsider Abdul El-Sayed.",
-    "link": "https://www.bbc.co.uk/news/articles/c62q0kkr6k2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 19:10:57 GMT",
-    "source": "BBC News",
-    "id": "7f23c10bb8116e1094fd7f7e616f25bf",
-    "fetched_at": "2026-08-04T22:55:32.657783+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US congressman refuses to drop re-election bid over ex-wife's abuse claims",
-    "summary": "Ohio Republican Max Miller, who is fighting for his political life, told CNN: \"I'm never going to back down.\"",
-    "link": "https://www.bbc.co.uk/news/articles/czrj1751r02o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 22:36:40 GMT",
-    "source": "BBC News",
-    "id": "943a3e056d2261bd90b5d6b375699168",
-    "fetched_at": "2026-08-04T22:55:31.535973+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Arrests in Egypt after people allegedly impersonate judges",
-    "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 19:25:00 GMT",
-    "source": "BBC News",
-    "id": "da92f6a5b421e2f49d3b6ae8b812534b",
-    "fetched_at": "2026-08-04T21:04:07.364321+00:00"
   }
 ]
