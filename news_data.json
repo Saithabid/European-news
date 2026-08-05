@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+    "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
+    "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 08:21:53 GMT",
+    "source": "BBC News",
+    "id": "286f9c11000ac5747288e58e6b293572",
+    "fetched_at": "2026-08-05T08:23:26.254563+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+    "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+    "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 07:04:45 GMT",
+    "source": "BBC News",
+    "id": "d5f8296b941d11f8c12d8f5a23db1d4d",
+    "fetched_at": "2026-08-05T08:23:26.254537+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fuego volcano spews more ash and lava as Guatemala shelters 1,700 who fled nearby villages",
+    "summary": "Emergency services issued a red alert, the most severe warning, after Central America's most active volcano erupted on Monday morning, with conditions intensifying by nightfall.",
+    "link": "http://www.euronews.com/2026/08/05/fuego-volcano-spews-more-ash-and-lava-as-guatemala-shelters-1700-who-fled-nearby-villages",
+    "published": "Wed, 05 Aug 2026 06:58:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4c02e210a9eb2d914b112ca6ec5b76c1",
+    "fetched_at": "2026-08-05T08:23:25.120160+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 5th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-morning",
+    "published": "Wed, 05 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2825376c8050e54d020c29e91ab959a2",
+    "fetched_at": "2026-08-05T08:23:23.979959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eight South Korean students held over US military base break-in attempt",
+    "summary": "Students gathered outside the main hub of the US Air Force in South Korea, arguing the US military's presence in Gwangju could complicate Seoul's major chipmaking project planned there.",
+    "link": "http://www.euronews.com/2026/08/05/eight-south-korean-students-held-over-us-military-base-break-in-attempt",
+    "published": "Wed, 05 Aug 2026 08:38:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "917979b07b2bc1a1646052d9308d34bf",
+    "fetched_at": "2026-08-05T08:23:22.850952+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fuego volcano eruption forces mass evacuations in Guatemala",
+    "summary": "Guatemala raised its alert to red and evacuated 659 people from eight villages after the Fuego volcano erupted on Monday, spewing lava fountains and pyroclastic flows down its slopes.",
+    "link": "http://www.euronews.com/video/2026/08/05/fuego-volcano-eruption-forces-mass-evacuations-in-guatemala",
+    "published": "Wed, 05 Aug 2026 08:40:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f36a8a770004d595695710fedaee6cd1",
+    "fetched_at": "2026-08-05T08:23:21.711547+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anger, fear, shock and compassion: Ceuta's uncertain path back to normality",
+    "summary": "Our reporter Julián López Gómez reached the Autonomous City just two days after at least 72,000 people illegally crossed its border with Morocco. Amid widespread confusion, anxiety and bewilderment, this is what he saw and heard.",
+    "link": "http://www.euronews.com/2026/08/05/anger-fear-shock-and-compassion-ceutas-uncertain-path-back-to-normality",
+    "published": "Wed, 05 Aug 2026 09:36:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a8992d620559a16ea6c91084980918e2",
+    "fetched_at": "2026-08-05T08:23:20.556764+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Capybaras crash Brazilian lawmakers' voting session and steal the show",
+    "summary": "Capybaras wandered through the front door of the Mato Grosso state legislature in Brazil, surprising lawmakers preparing for a vote last week.",
+    "link": "https://www.foxnews.com/world/capybaras-crash-brazilian-lawmakers-voting-session-steal-show",
+    "published": "Wed, 05 Aug 2026 02:00:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "69a2fbf17569d96ebc03a38303cfb3ae",
+    "fetched_at": "2026-08-05T08:23:19.406637+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
+    "summary": "For years, many Cubans hoping to leave the island looked to the United States. Now, with legal pathways largely closed, a growing number are heading to Brazil instead.",
+    "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
+    "published": "Mon, 03 Aug 2026 15:05:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "fd06cd766430a18debc36714e78789e3",
+    "fetched_at": "2026-08-05T08:23:18.253453+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 4th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-midday",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "8bc179bc2c4c4d6d866b0171954eef39",
     "fetched_at": "2026-08-04T17:37:39.343131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World's oldest president reshuffles army as his absence stokes unease",
-    "summary": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 12:43:52 GMT",
-    "source": "BBC News",
-    "id": "26047886d5afbe405a2c196f789960b8",
-    "fetched_at": "2026-08-04T14:14:00.710071+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-    "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 13:59:24 GMT",
-    "source": "BBC News",
-    "id": "913f9abb522f365a3552ff18f6203b17",
-    "fetched_at": "2026-08-04T14:14:00.710068+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar says whole region engaged in stopping war escalation, but no direct talks yet",
-    "summary": "Qatar says US-Iran mediation is at an advanced stage, but no direct talks are expected at the moment, as Doha calls for the return to free navigation through Hormuz. Qatar urges pressure on Israel to fully implement the Gaza roadmap.",
-    "link": "http://www.euronews.com/2026/08/04/qatar-says-whole-region-engaged-in-stopping-war-escalation-but-no-direct-talks-yet",
-    "published": "Tue, 04 Aug 2026 15:18:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9a20920e8c24062d113c06b370ff59df",
-    "fetched_at": "2026-08-04T14:14:00.710066+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Civilian hunted and attacked by Russian drone in Kherson",
-    "summary": "Ukrainian police have released footage showing a civilian being pursued by a Russian FPV drone in a marketplace in the southern city of Kherson. According to police, the 52-year-old man survived the attack but suffered injuries and a concussion.",
-    "link": "http://www.euronews.com/video/2026/08/04/civilian-hunted-and-attacked-by-russian-drone-in-kherson",
-    "published": "Tue, 04 Aug 2026 15:30:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "70360db2d1eb79de864537aa2ec35226",
-    "fetched_at": "2026-08-04T14:14:00.710063+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-    "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-    "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 01:03:31 GMT",
-    "source": "BBC News",
-    "id": "9fe088b5644c492091f9898c112e4005",
-    "fetched_at": "2026-08-04T14:14:00.710060+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-    "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 16:27:43 GMT",
-    "source": "BBC News",
-    "id": "cdaf4f2f368d6a940226685e29af25eb",
-    "fetched_at": "2026-08-04T14:14:00.710056+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-    "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-    "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 03:37:14 GMT",
-    "source": "BBC News",
-    "id": "356f5c4c173a268fea31085f000ac0a1",
-    "fetched_at": "2026-08-04T14:14:00.710030+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
-    "summary": "A former Ukrainian official describes &quot;scandalous situations&quot; in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors.",
-    "link": "https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens",
-    "published": "Sun, 02 Aug 2026 19:20:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "57b9c6c81d951d5832eb0d55de2fc7c3",
-    "fetched_at": "2026-08-04T14:13:59.564356+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran reaffirms support for Hamas as Trump pushes to disarm terror group",
-    "summary": "Iran&apos;s president pledged continued support to Hamas&apos; new leader even as Trump promotes his landmark Gaza disarmament deal and Board of Peace roadmap.",
-    "link": "https://www.foxnews.com/world/iran-reaffirms-support-hamas-trump-pushes-disarm-terror-group",
-    "published": "Mon, 03 Aug 2026 13:20:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "628035c71cf5a9d4a246335085ac0203",
-    "fetched_at": "2026-08-04T14:13:58.412879+00:00"
   }
 ]
