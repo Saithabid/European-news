@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Mexico and Peru restore diplomatic relations after asylum row",
+    "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 15:38:28 GMT",
+    "source": "BBC News",
+    "id": "1255ebd285d21de0da99b3917f68f582",
+    "fetched_at": "2026-08-07T16:44:24.672404+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 7th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-evening",
+    "published": "Fri, 07 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e1e59b6b3067c7278b07eb32314b08e8",
+    "fetched_at": "2026-08-07T16:44:24.672367+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
+    "source": "BBC News",
+    "id": "84e0f0354936221be8a9aeb2559d173a",
+    "fetched_at": "2026-08-07T16:44:23.530659+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+    "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:33:50 GMT",
+    "source": "BBC News",
+    "id": "fc75e66e1473892367886322373f509f",
+    "fetched_at": "2026-08-07T16:44:22.417548+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
+    "summary": "Retired Gen. Jack Keane accuses Pakistan, Qatar and Saudi Arabia of being compromised mediators who steer Trump away from military pressure on Iran.",
+    "link": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
+    "published": "Thu, 06 Aug 2026 06:00:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3d19472f978ee6c74ab0680886173e0d",
+    "fetched_at": "2026-08-07T16:44:21.301906+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+    "summary": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco \"reaffirmed their full support\" for his presidency.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+    "published": "Thu, 06 Aug 2026 04:52:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "b6536a7fb1fab8b52df735aafa30f81d",
+    "fetched_at": "2026-08-07T16:44:20.137782+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "59ae999027e5b0ccea3addadca8973c5",
+    "fetched_at": "2026-08-07T16:44:19.018218+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Pentagon releases fresh UFO videos in new document dump",
+    "summary": "The fifth batch of files released on 7 August include 41 documents, images and videos related to Unidentified Anomalous Phenomena (UAP).",
+    "link": "https://www.bbc.co.uk/news/videos/ce34k5ypwygo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 14:21:11 GMT",
+    "source": "BBC News",
+    "id": "786bf8fbcc631632cf1daa91a0670674",
+    "fetched_at": "2026-08-07T16:44:17.890291+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:31:54 GMT",
+    "source": "BBC News",
+    "id": "8a3954f35a86caeae929dffdbcafa7b2",
+    "fetched_at": "2026-08-07T16:44:16.751014+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
     "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
     "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "67c5db72991be6116843a44c584c1bf8",
     "fetched_at": "2026-08-07T07:02:53.545450+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "90,000 rubber ducks race down Chicago River for charity",
-    "summary": "Rubber ducks race down Chicago River in the annual Ducky Derby, raising funds for Special Olympics Illinois and its athletes.",
-    "link": "http://www.euronews.com/video/2026/08/07/90000-rubber-ducks-race-down-chicago-river-for-charity",
-    "published": "Fri, 07 Aug 2026 08:45:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "58022e0cbbe1751ee3537d21ffb31f9c",
-    "fetched_at": "2026-08-07T07:02:53.545415+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
-    "summary": "Nuclear experts urged President Trump to keep Iran’s nuclear program at the center of talks, warning Tehran could seek sanctions relief before addressing remaining nuclear capabilities.",
-    "link": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
-    "published": "Wed, 05 Aug 2026 15:32:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fcc93e917300e0077e0aedea7c4dae47",
-    "fetched_at": "2026-08-07T07:02:52.281746+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
-    "summary": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a &quot;safari.&quot;",
-    "link": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
-    "published": "Wed, 05 Aug 2026 16:12:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7d279511916fbe08b78563574f9bcb66",
-    "fetched_at": "2026-08-07T07:02:51.012898+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kyiv residents face attacks with fewer defenses overhead",
-    "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
-    "link": "https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead",
-    "published": "Wed, 05 Aug 2026 16:23:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbd53c178a9610db4a557c069dc2b141",
-    "fetched_at": "2026-08-07T07:02:49.759562+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-    "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
-    "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-    "published": "Wed, 05 Aug 2026 16:43:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e0fb2c5d29cb6475399f7116a7277a3",
-    "fetched_at": "2026-08-07T07:02:48.513167+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "This country is the latest to hit the elusive 95/95/95 HIV target",
-    "summary": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year.",
-    "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
-    "published": "Thu, 06 Aug 2026 09:13:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "7d1597d8930889fbaeb5895ce12e1217",
-    "fetched_at": "2026-08-07T07:02:47.249479+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Student shoots multiple people at a high school in Thailand, authorities say",
-    "summary": "The shooter was a student and deaths and injuries were reported.<br /><br />",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
-    "published": "Fri, 07 Aug 2026 01:34:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "f6630dbe1190b7b42922d0468a04dcc3",
-    "fetched_at": "2026-08-07T07:02:46.074804+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
-    "summary": "Aaron Farinacci is accused of setting the Old Trails Fire, the largest of three burning around the city that have destroyed hundreds of buildings.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j5nyxk68o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 00:54:58 GMT",
-    "source": "BBC News",
-    "id": "429fa0ebad001c2ff119f59de2bef66d",
-    "fetched_at": "2026-08-07T07:02:44.798466+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-    "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-    "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 00:34:14 GMT",
-    "source": "BBC News",
-    "id": "7b3554b7aa7018dcbe3c8cdab3bd327e",
-    "fetched_at": "2026-08-07T05:28:41.364728+00:00"
   }
 ]
