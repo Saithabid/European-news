@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Australia grants citizenship to two Iranian women footballers who sought asylum",
+    "summary": "The Refugee Council of Australia, a nonprofit umbrella organisation representing asylum-seekers, said refugees usually must live in Australia on a valid visa for four years before they can apply for citizenship.",
+    "link": "http://www.euronews.com/2026/08/07/australia-grants-citizenship-to-two-iranian-women-footballers-who-sought-asylum",
+    "published": "Fri, 07 Aug 2026 08:00:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cb6df3e01fa12b3a54e70f75eedcc0d8",
+    "fetched_at": "2026-08-07T07:02:53.545454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korea recovers landmines believed to have washed from North by monsoon floods",
+    "summary": "The Demilitarised Zone (DMZ), splitting the Koreas since their 1950-53 war ended with an armistice, is one of the most heavily mined places on Earth.",
+    "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
+    "published": "Fri, 07 Aug 2026 08:29:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "67c5db72991be6116843a44c584c1bf8",
+    "fetched_at": "2026-08-07T07:02:53.545450+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "90,000 rubber ducks race down Chicago River for charity",
+    "summary": "Rubber ducks race down Chicago River in the annual Ducky Derby, raising funds for Special Olympics Illinois and its athletes.",
+    "link": "http://www.euronews.com/video/2026/08/07/90000-rubber-ducks-race-down-chicago-river-for-charity",
+    "published": "Fri, 07 Aug 2026 08:45:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "58022e0cbbe1751ee3537d21ffb31f9c",
+    "fetched_at": "2026-08-07T07:02:53.545415+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
+    "summary": "Nuclear experts urged President Trump to keep Iran’s nuclear program at the center of talks, warning Tehran could seek sanctions relief before addressing remaining nuclear capabilities.",
+    "link": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
+    "published": "Wed, 05 Aug 2026 15:32:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fcc93e917300e0077e0aedea7c4dae47",
+    "fetched_at": "2026-08-07T07:02:52.281746+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
+    "summary": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a &quot;safari.&quot;",
+    "link": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
+    "published": "Wed, 05 Aug 2026 16:12:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7d279511916fbe08b78563574f9bcb66",
+    "fetched_at": "2026-08-07T07:02:51.012898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kyiv residents face attacks with fewer defenses overhead",
+    "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead",
+    "published": "Wed, 05 Aug 2026 16:23:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbd53c178a9610db4a557c069dc2b141",
+    "fetched_at": "2026-08-07T07:02:49.759562+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+    "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+    "published": "Wed, 05 Aug 2026 16:43:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "8e0fb2c5d29cb6475399f7116a7277a3",
+    "fetched_at": "2026-08-07T07:02:48.513167+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This country is the latest to hit the elusive 95/95/95 HIV target",
+    "summary": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year.",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+    "published": "Thu, 06 Aug 2026 09:13:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "7d1597d8930889fbaeb5895ce12e1217",
+    "fetched_at": "2026-08-07T07:02:47.249479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+    "summary": "The shooter was a student and deaths and injuries were reported.<br /><br />",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+    "published": "Fri, 07 Aug 2026 01:34:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "f6630dbe1190b7b42922d0468a04dcc3",
+    "fetched_at": "2026-08-07T07:02:46.074804+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
+    "summary": "Aaron Farinacci is accused of setting the Old Trails Fire, the largest of three burning around the city that have destroyed hundreds of buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j5nyxk68o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 00:54:58 GMT",
+    "source": "BBC News",
+    "id": "429fa0ebad001c2ff119f59de2bef66d",
+    "fetched_at": "2026-08-07T07:02:44.798466+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
     "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
     "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "4547c311dba817363203bf67e1d89b40",
     "fetched_at": "2026-08-06T23:52:20.661762+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Team of former prison inmates on frontline of Spokane wildfires",
-    "summary": "The Arcadia 20 team worked on preventing the spread of the Autumn Lane fire that continues to threaten areas of Spokane, Washington.",
-    "link": "https://www.bbc.co.uk/news/videos/c4gv412z85lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 16:56:34 GMT",
-    "source": "BBC News",
-    "id": "3fca0c74c03f7c1bf6e06e3fa3739caf",
-    "fetched_at": "2026-08-06T23:52:19.518003+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mitch McConnell returns home weeks after hospital admission sparked health speculation",
-    "summary": "The 84-year-old Republican Senator, who was admitted to hospital in June, says he will continue to work from home for now.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rn37m7pjvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 20:09:16 GMT",
-    "source": "BBC News",
-    "id": "446cc60a529aae5c8f90149917f43045",
-    "fetched_at": "2026-08-06T23:52:18.357065+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-    "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 18:53:51 GMT",
-    "source": "BBC News",
-    "id": "605ab86e2577938851c2a7c1ad552150",
-    "fetched_at": "2026-08-06T23:52:17.198684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-    "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 13:46:27 GMT",
-    "source": "BBC News",
-    "id": "38cfab59b042beec72a9dec659d09050",
-    "fetched_at": "2026-08-06T14:10:39.391525+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-    "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
-    "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 14:05:30 GMT",
-    "source": "BBC News",
-    "id": "3bb5859ce377650ce55682821ba3f988",
-    "fetched_at": "2026-08-06T14:10:39.391522+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits two oil refineries deep in Russian territory",
-    "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 12:18:48 GMT",
-    "source": "BBC News",
-    "id": "ed9e570f44987e78a21b05f9de3484a1",
-    "fetched_at": "2026-08-06T14:10:39.391518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rome's Spin Time residents sleep outside after fire, amid heatwave",
-    "summary": "About 400 Spin Time residents sleep outside in Rome after a fire forced their evacuation, with volunteers helping during a heatwave.",
-    "link": "http://www.euronews.com/video/2026/08/06/romes-spin-time-residents-sleep-outside-after-fire-amid-heatwave",
-    "published": "Thu, 06 Aug 2026 15:31:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "197647b661fa38b6f514c0024f031553",
-    "fetched_at": "2026-08-06T14:10:39.391516+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mourners line streets of Milan for legend Baresi's funeral",
-    "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:45:34 GMT",
-    "source": "BBC News",
-    "id": "97b19c2f6477f586809873b21255db0f",
-    "fetched_at": "2026-08-06T14:10:39.391512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-    "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 18:19:51 GMT",
-    "source": "BBC News",
-    "id": "180811b83048678726184152ba7c88e1",
-    "fetched_at": "2026-08-06T14:10:39.391486+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man behind deadly Munich car ramming handed life sentence",
-    "summary": "Farhad N, who is found guilty of killing two and injuring dozens more, will likely not be released from prison.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqp5yy15lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 12:52:20 GMT",
-    "source": "BBC News",
-    "id": "dc09caafcbe66d5a32797ff12f934e15",
-    "fetched_at": "2026-08-06T14:10:38.264250+00:00"
   }
 ]
