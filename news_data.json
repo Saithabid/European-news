@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+    "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 05:44:29 GMT",
+    "source": "BBC News",
+    "id": "02ce97c4d852de22fedb71a65124ef71",
+    "fetched_at": "2026-08-07T14:46:46.816119+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven killed after Thai student opens fire at home and school",
+    "summary": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
+    "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 14:44:35 GMT",
+    "source": "BBC News",
+    "id": "e7d97da7fe0866c6790f32fba6908515",
+    "fetched_at": "2026-08-07T14:46:46.816088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Taiwan tests emergency response with air raid drill",
+    "summary": "Taiwan holds an air raid drill in Kaohsiung, stopping traffic and guiding residents as authorities test civilian emergency responses.",
+    "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
+    "published": "Fri, 07 Aug 2026 15:36:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bde66b35b365fb0db321daea26865a5e",
+    "fetched_at": "2026-08-07T14:46:45.689682+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfire burns 100 hectares near Narbonne in France",
+    "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
+    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
+    "published": "Fri, 07 Aug 2026 16:40:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "80e55aeeef380336d8d81a8269b87090",
+    "fetched_at": "2026-08-07T14:46:44.541265+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mourners line streets of Milan for legend Baresi's funeral",
+    "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 10:45:34 GMT",
+    "source": "BBC News",
+    "id": "97b19c2f6477f586809873b21255db0f",
+    "fetched_at": "2026-08-07T14:46:43.404722+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+    "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+    "source": "BBC News",
+    "id": "f72e4157db96725ca6fb6f15725eb669",
+    "fetched_at": "2026-08-07T14:46:42.282584+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
+    "source": "BBC News",
+    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
+    "fetched_at": "2026-08-07T14:46:41.158010+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
+    "source": "BBC News",
+    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
+    "fetched_at": "2026-08-07T14:46:40.019078+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Surprise fall in US jobs last month as slow summer continues",
+    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 14:03:55 GMT",
+    "source": "BBC News",
+    "id": "14d3a802bf10e877279754323bc2da2f",
+    "fetched_at": "2026-08-07T14:46:38.876027+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
     "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
     "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "7b3554b7aa7018dcbe3c8cdab3bd327e",
     "fetched_at": "2026-08-07T05:28:41.364728+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea fires at least one ballistic missile into sea, South Korea's military says",
-    "summary": "North Korea has repeatedly declared itself an \"irreversible\" nuclear state since leader Kim Jong- un's 2019 summit with US President Donald Trump collapsed over the scope of denuclearisation and sanctions relief.",
-    "link": "http://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says",
-    "published": "Thu, 06 Aug 2026 12:55:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "adf046189cb83f531e80d36b26aed50f",
-    "fetched_at": "2026-08-07T05:28:41.364724+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moment rare Amur tiger is released into Kazakh wild",
-    "summary": "Kazakhstan released the Amur tiger Umit into the Ile-Balkhash Nature Reserve, marking a key step in a project to restore a wild tiger population to Central Asia for the first time in more than 70 years.",
-    "link": "http://www.euronews.com/video/2026/08/06/moment-rare-amur-tiger-is-released-into-kazakh-wild",
-    "published": "Thu, 06 Aug 2026 13:41:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "07d020b4bb1d0212e7e8f30057d57815",
-    "fetched_at": "2026-08-07T05:28:41.364698+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia, Turkiye and Pakistan to sign joint defence pact amid regional escalation",
-    "summary": "Crown Prince Mohammed bin Salman, President Recep Tayyip Erdoğan, and Prime Minister Shehbaz Sharif will meet in Jeddah to formalise a joint agreement. The landmark pact aims to strengthen regional security ties following escalations from the US-Iran conflict.",
-    "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
-    "published": "Fri, 07 Aug 2026 05:36:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c2fdc507349ddde90b8a2f0226d7a4db",
-    "fetched_at": "2026-08-07T05:28:40.225675+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Meta ordered to pay $567 Mn to US for 'public nuisance' and 'child harm'",
-    "summary": "A New Mexico judge has penalised the tech giant for creating a public nuisance and endangering children online. Meta confirmed it plans to appeal, insisting it works hard to protect young users across its platforms.",
-    "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
-    "published": "Fri, 07 Aug 2026 06:15:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "262ce5a8ef48712ed2d9b2b589913d52",
-    "fetched_at": "2026-08-07T05:28:39.104718+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two dead and several wounded in Thailand school shooting, local official says",
-    "summary": "Some reports said police officers had shot and killed the suspect, while others said he had died by suicide.",
-    "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
-    "published": "Fri, 07 Aug 2026 06:54:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f0b3b66f9bebaec0f46cada42828b60c",
-    "fetched_at": "2026-08-07T05:28:37.982004+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 7th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-morning",
-    "published": "Fri, 07 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6ad730a6189ba17bc5c393a707e6b40c",
-    "fetched_at": "2026-08-07T05:28:36.713211+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
-    "summary": "Retired Gen. Jack Keane accuses Pakistan, Qatar and Saudi Arabia of being compromised mediators who steer Trump away from military pressure on Iran.",
-    "link": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
-    "published": "Thu, 06 Aug 2026 06:00:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3d19472f978ee6c74ab0680886173e0d",
-    "fetched_at": "2026-08-07T05:28:35.587559+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-    "summary": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
-    "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
-    "published": "Wed, 05 Aug 2026 12:06:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "fb4d80bf976da6f0b8d5168d209a0757",
-    "fetched_at": "2026-08-07T05:28:34.463270+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
-    "summary": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco \"reaffirmed their full support\" for his presidency.",
-    "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
-    "published": "Thu, 06 Aug 2026 04:52:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "b6536a7fb1fab8b52df735aafa30f81d",
-    "fetched_at": "2026-08-07T05:28:33.349584+00:00"
   }
 ]
