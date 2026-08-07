@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:02:28 GMT",
+    "source": "BBC News",
+    "id": "bbc4da856a1fddf3a16d71e324490d0e",
+    "fetched_at": "2026-08-07T12:45:04.090553+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
+    "summary": "The 56-year-old, who shot to prominence in 1991 musical comedy film The Commitments, died in a motorcycle crash last week.",
+    "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 17:01:19 GMT",
+    "source": "BBC News",
+    "id": "60fd3152a7774a2644317b4f9c6bdd59",
+    "fetched_at": "2026-08-07T12:45:04.090551+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+    "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
+    "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 12:33:43 GMT",
+    "source": "BBC News",
+    "id": "b90ce95b9fcea0d8c521018486617e2a",
+    "fetched_at": "2026-08-07T12:45:04.090548+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+    "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+    "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 06 Aug 2026 17:36:07 GMT",
+    "source": "BBC News",
+    "id": "c809a67f40f715ef6c8bb96becde747d",
+    "fetched_at": "2026-08-07T12:45:04.090546+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia deploys North Korean missile unit to Ukraine; Moscow-Pyongyang axis deepens: report",
+    "summary": "A Ukrainian intelligence official says Russia is deploying a North Korean unit with up to 120 ballistic missiles in its war against Ukraine.",
+    "link": "https://www.foxnews.com/world/russia-deploys-north-korean-missile-unit-ukraine-moscow-pyongyang-axis-deepens",
+    "published": "Wed, 05 Aug 2026 17:20:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5c86b70c74cd9ec631f82a2afbcb1684",
+    "fetched_at": "2026-08-07T12:45:04.090542+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
+    "summary": "An explosive-armed drone was found near a Ukrainian plane at Leipzig/Halle Airport, prompting Germany&apos;s interior minister to warn of a hybrid attack.",
+    "link": "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
+    "published": "Wed, 05 Aug 2026 19:32:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "644a2f239961a76f1ed01606dd25d2d2",
+    "fetched_at": "2026-08-07T12:45:04.090512+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
+    "summary": "A projectile struck a crowded Russian Black Sea beach Monday, killing seven people, including four children, and injuring 58. Russia blamed a Ukrainian drone attack as video captured the deadly impact.",
+    "link": "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
+    "published": "Wed, 05 Aug 2026 21:46:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6808b6d9932ee00ddca9bf8540a8d1ae",
+    "fetched_at": "2026-08-07T12:45:02.826627+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
+    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
+    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
+    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2ef52d2296d707176b6f53cba1d9abf1",
+    "fetched_at": "2026-08-07T12:45:01.568209+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
+    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
+    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
+    "fetched_at": "2026-08-07T12:45:00.411917+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+    "summary": "Regional police and prosecutors said an airport employee discovered a drone near the airport's south runway with \"an unknown explosive device,\" and the object was examined by police",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+    "published": "Thu, 06 Aug 2026 01:23:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "0933feb9228869f5a3d230ab04866109",
+    "fetched_at": "2026-08-07T12:44:59.251211+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+    "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+    "published": "Fri, 07 Aug 2026 06:56:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "349fede6ad0de73306ce7bd39935f985",
+    "fetched_at": "2026-08-07T12:44:58.008074+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meta fined $567m in largest child safety ruling against social media giant",
+    "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 09:22:03 GMT",
+    "source": "BBC News",
+    "id": "74218703482f01f1503dd97d5d074386",
+    "fetched_at": "2026-08-07T12:44:56.836570+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Murkowski opposes Blanche nomination as attorney general, putting confirmation in doubt",
+    "summary": "Murkowski cited concerns over the “politicisation” of the Justice Department, putting Blanche's confirmation in jeopardy.",
+    "link": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:16:46 GMT",
+    "source": "BBC News",
+    "id": "d336e0b9d91a1c092c97da421f755341",
+    "fetched_at": "2026-08-07T12:44:55.578526+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
     "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
     "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b6536a7fb1fab8b52df735aafa30f81d",
     "fetched_at": "2026-08-07T05:28:33.349584+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump imposes 15% tariff on key chip material to counter China",
-    "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 01:03:35 GMT",
-    "source": "BBC News",
-    "id": "de6a41a38656c71617fea4be0d0c7b0e",
-    "fetched_at": "2026-08-07T02:15:15.200322+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-    "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 23:55:35 GMT",
-    "source": "BBC News",
-    "id": "d3dea93ce30fe61bb8659b5bc93cff3d",
-    "fetched_at": "2026-08-07T02:15:15.200319+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two people convicted in relation to death of French streamer",
-    "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 00:51:40 GMT",
-    "source": "BBC News",
-    "id": "7fc776f080e2fb12e50f4fdd2b9b057c",
-    "fetched_at": "2026-08-07T02:15:15.200317+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-    "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-    "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 02:07:46 GMT",
-    "source": "BBC News",
-    "id": "02ce97c4d852de22fedb71a65124ef71",
-    "fetched_at": "2026-08-07T02:15:15.200315+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump dismisses reports of munitions shortages, says US has 'massive amounts'",
-    "summary": "The Washington Post reported that Trump demanded answers about the munitions shortages from Pentagon chief Pete Hegseth last Friday, when they attended a cabinet meeting at the Camp David presidential retreat.",
-    "link": "http://www.euronews.com/2026/08/06/trump-dismisses-reports-of-munitions-shortages-says-us-has-massive-amounts",
-    "published": "Thu, 06 Aug 2026 09:40:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "70776138a7e9e5a7228d25fbcdedb940",
-    "fetched_at": "2026-08-07T02:15:15.200312+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Smoke towers above Washington forests as firefighting continues",
-    "summary": "Aerial footage shows wildfire smoke over central and eastern Washington as helicopters drop water on forest fires while crews reinforce containment lines.",
-    "link": "http://www.euronews.com/video/2026/08/06/smoke-towers-above-washington-forests-as-firefighting-continues",
-    "published": "Thu, 06 Aug 2026 09:56:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f8a08fb4ebd75fd86e614914b0dbcb78",
-    "fetched_at": "2026-08-07T02:15:15.200309+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 6th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/06/latest-news-bulletin-august-6th-2026-evening",
-    "published": "Thu, 06 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f62e31a2d82f17be8e4b73e13c2ce59c",
-    "fetched_at": "2026-08-07T02:15:15.200306+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belarus designates Euronews’ website as 'extremist' media",
-    "summary": "Euronews condemns Belarus’ obscure and unilateral decision to designate Euronews’ digital news coverage as “extremist,” a measure which exposes Euronews’ huge audience in Belarus to legal penalties for “storing or distributing” Euronews’ pan-European content.",
-    "link": "http://www.euronews.com/my-europe/2026/08/06/belarus-designates-euronews-website-as-extremist-media",
-    "published": "Thu, 06 Aug 2026 18:17:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "adfaa0834cd6ad10f283cc8a7b6f7b7b",
-    "fetched_at": "2026-08-07T02:15:15.200303+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump administration to pay €1.06 billion to cancel RWE offshore wind leases",
-    "summary": "US President Donald Trump, long a critic of wind energy, has repeatedly dismissed wind turbines as unsightly and has labelled them an \"economic and environmental disaster.\"",
-    "link": "http://www.euronews.com/2026/08/06/trump-administration-to-pay-106-billion-to-cancel-rwe-offshore-wind-leases",
-    "published": "Thu, 06 Aug 2026 22:02:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b9cec50827181ca514657f341b20e2fe",
-    "fetched_at": "2026-08-07T02:15:15.200299+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-    "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 17:26:06 GMT",
-    "source": "BBC News",
-    "id": "f72e4157db96725ca6fb6f15725eb669",
-    "fetched_at": "2026-08-07T02:15:15.200272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
-    "source": "BBC News",
-    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
-    "fetched_at": "2026-08-07T02:15:14.067366+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drone carrying explosives found at German airport, police say",
-    "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 20:01:51 GMT",
-    "source": "BBC News",
-    "id": "86ffaa370eaf4ee7f0783ed584e91894",
-    "fetched_at": "2026-08-07T02:15:12.923176+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-    "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 05:00:54 GMT",
-    "source": "BBC News",
-    "id": "b6f3fe3314e97327bd43aeeaaf104b6c",
-    "fetched_at": "2026-08-07T02:15:11.781882+00:00"
   }
 ]
