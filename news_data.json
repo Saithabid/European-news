@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+    "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+    "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 00:34:14 GMT",
+    "source": "BBC News",
+    "id": "7b3554b7aa7018dcbe3c8cdab3bd327e",
+    "fetched_at": "2026-08-07T05:28:41.364728+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "North Korea fires at least one ballistic missile into sea, South Korea's military says",
+    "summary": "North Korea has repeatedly declared itself an \"irreversible\" nuclear state since leader Kim Jong- un's 2019 summit with US President Donald Trump collapsed over the scope of denuclearisation and sanctions relief.",
+    "link": "http://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says",
+    "published": "Thu, 06 Aug 2026 12:55:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "adf046189cb83f531e80d36b26aed50f",
+    "fetched_at": "2026-08-07T05:28:41.364724+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment rare Amur tiger is released into Kazakh wild",
+    "summary": "Kazakhstan released the Amur tiger Umit into the Ile-Balkhash Nature Reserve, marking a key step in a project to restore a wild tiger population to Central Asia for the first time in more than 70 years.",
+    "link": "http://www.euronews.com/video/2026/08/06/moment-rare-amur-tiger-is-released-into-kazakh-wild",
+    "published": "Thu, 06 Aug 2026 13:41:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "07d020b4bb1d0212e7e8f30057d57815",
+    "fetched_at": "2026-08-07T05:28:41.364698+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia, Turkiye and Pakistan to sign joint defence pact amid regional escalation",
+    "summary": "Crown Prince Mohammed bin Salman, President Recep Tayyip Erdoğan, and Prime Minister Shehbaz Sharif will meet in Jeddah to formalise a joint agreement. The landmark pact aims to strengthen regional security ties following escalations from the US-Iran conflict.",
+    "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
+    "published": "Fri, 07 Aug 2026 05:36:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c2fdc507349ddde90b8a2f0226d7a4db",
+    "fetched_at": "2026-08-07T05:28:40.225675+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Meta ordered to pay $567 Mn to US for 'public nuisance' and 'child harm'",
+    "summary": "A New Mexico judge has penalised the tech giant for creating a public nuisance and endangering children online. Meta confirmed it plans to appeal, insisting it works hard to protect young users across its platforms.",
+    "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
+    "published": "Fri, 07 Aug 2026 06:15:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "262ce5a8ef48712ed2d9b2b589913d52",
+    "fetched_at": "2026-08-07T05:28:39.104718+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two dead and several wounded in Thailand school shooting, local official says",
+    "summary": "Some reports said police officers had shot and killed the suspect, while others said he had died by suicide.",
+    "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
+    "published": "Fri, 07 Aug 2026 06:54:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f0b3b66f9bebaec0f46cada42828b60c",
+    "fetched_at": "2026-08-07T05:28:37.982004+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 7th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-morning",
+    "published": "Fri, 07 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6ad730a6189ba17bc5c393a707e6b40c",
+    "fetched_at": "2026-08-07T05:28:36.713211+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
+    "summary": "Retired Gen. Jack Keane accuses Pakistan, Qatar and Saudi Arabia of being compromised mediators who steer Trump away from military pressure on Iran.",
+    "link": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
+    "published": "Thu, 06 Aug 2026 06:00:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3d19472f978ee6c74ab0680886173e0d",
+    "fetched_at": "2026-08-07T05:28:35.587559+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+    "summary": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
+    "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+    "published": "Wed, 05 Aug 2026 12:06:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "fb4d80bf976da6f0b8d5168d209a0757",
+    "fetched_at": "2026-08-07T05:28:34.463270+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+    "summary": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco \"reaffirmed their full support\" for his presidency.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
+    "published": "Thu, 06 Aug 2026 04:52:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "b6536a7fb1fab8b52df735aafa30f81d",
+    "fetched_at": "2026-08-07T05:28:33.349584+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump imposes 15% tariff on key chip material to counter China",
     "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
     "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "dc09caafcbe66d5a32797ff12f934e15",
     "fetched_at": "2026-08-06T14:10:38.264250+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Capybaras crash Brazilian lawmakers' voting session and steal the show",
-    "summary": "Capybaras wandered through the front door of the Mato Grosso state legislature in Brazil, surprising lawmakers preparing for a vote last week.",
-    "link": "https://www.foxnews.com/world/capybaras-crash-brazilian-lawmakers-voting-session-steal-show",
-    "published": "Wed, 05 Aug 2026 02:00:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "69a2fbf17569d96ebc03a38303cfb3ae",
-    "fetched_at": "2026-08-06T14:10:37.098001+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
-    "summary": "Nuclear experts urged President Trump to keep Iran’s nuclear program at the center of talks, warning Tehran could seek sanctions relief before addressing remaining nuclear capabilities.",
-    "link": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
-    "published": "Wed, 05 Aug 2026 15:32:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fcc93e917300e0077e0aedea7c4dae47",
-    "fetched_at": "2026-08-06T14:10:35.926237+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
-    "summary": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a &quot;safari.&quot;",
-    "link": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
-    "published": "Wed, 05 Aug 2026 16:12:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7d279511916fbe08b78563574f9bcb66",
-    "fetched_at": "2026-08-06T14:10:34.764532+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kyiv residents face attacks with fewer defenses overhead",
-    "summary": "Another overnight attack killed at least 17 people in and around Kyiv. The strikes come as Ukraine faces a growing shortage of the interceptor missiles used to defend the capital.",
-    "link": "https://www.npr.org/2026/08/05/nx-s1-5921395/kyiv-residents-face-attacks-with-fewer-defenses-overhead",
-    "published": "Wed, 05 Aug 2026 16:23:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbd53c178a9610db4a557c069dc2b141",
-    "fetched_at": "2026-08-06T14:10:33.614344+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-    "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
-    "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-    "published": "Wed, 05 Aug 2026 16:43:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e0fb2c5d29cb6475399f7116a7277a3",
-    "fetched_at": "2026-08-06T14:10:32.457881+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
-    "summary": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year.",
-    "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
-    "published": "Thu, 06 Aug 2026 09:13:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "7d1597d8930889fbaeb5895ce12e1217",
-    "fetched_at": "2026-08-06T14:10:31.291898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Air India's new CEO faces financial and safety turbulence",
-    "summary": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
-    "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 08:18:02 GMT",
-    "source": "BBC News",
-    "id": "414df6449c68d3b66aeddaebed0ba499",
-    "fetched_at": "2026-08-06T11:58:20.097742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian footballers who defied Tehran become Australian citizens",
-    "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 09:04:17 GMT",
-    "source": "BBC News",
-    "id": "c33f3c2b29e4207aa4bb1528f218c028",
-    "fetched_at": "2026-08-06T11:58:20.097740+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 6th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/06/latest-news-bulletin-august-6th-2026-midday",
-    "published": "Thu, 06 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a403cba4451bccff1ddc8263824dc7f4",
-    "fetched_at": "2026-08-06T11:58:20.097738+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Record-low Danube exposes sandbanks, strands boats in Serbia",
-    "summary": "Record-low Danube water levels in northern Serbia expose sandbanks, dry marinas and leave cargo vessels stranded along the river.",
-    "link": "http://www.euronews.com/video/2026/08/06/record-low-danube-exposes-sandbanks-strands-boats-in-serbia",
-    "published": "Thu, 06 Aug 2026 12:43:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9d3db9bba8e3612b89ecaba45d8ba818",
-    "fetched_at": "2026-08-06T11:58:20.097736+00:00"
   }
 ]
