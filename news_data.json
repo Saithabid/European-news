@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "The phone book that led us to Assad's spy chief in hiding",
+    "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+    "source": "BBC News",
+    "id": "af690836b471fedef2f6c331aa5299ad",
+    "fetched_at": "2026-08-08T08:31:18.451403+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Taiwan tests emergency response with air raid drill",
+    "summary": "Taiwan holds an air raid drill in Kaohsiung, stopping traffic and guiding residents as authorities test civilian emergency responses.",
+    "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
+    "published": "Fri, 07 Aug 2026 15:36:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bde66b35b365fb0db321daea26865a5e",
+    "fetched_at": "2026-08-08T08:31:17.329051+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
+    "summary": "US President Donald Trump has been highly complementary of de la Espriella, calling him a \"smart, strong, and tough leader.\"",
+    "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
+    "published": "Sat, 08 Aug 2026 09:33:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "53f50591986532e74128a8b7a725f00f",
+    "fetched_at": "2026-08-08T08:31:16.146328+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "59ae999027e5b0ccea3addadca8973c5",
+    "fetched_at": "2026-08-08T08:31:14.949954+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
+    "source": "BBC News",
+    "id": "8a3954f35a86caeae929dffdbcafa7b2",
+    "fetched_at": "2026-08-08T08:31:13.793841+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Wildfire burns 100 hectares near Narbonne in France",
     "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
     "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "1255ebd285d21de0da99b3917f68f582",
     "fetched_at": "2026-08-07T16:44:24.672404+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 7th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-evening",
-    "published": "Fri, 07 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e1e59b6b3067c7278b07eb32314b08e8",
-    "fetched_at": "2026-08-07T16:44:24.672367+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
-    "source": "BBC News",
-    "id": "84e0f0354936221be8a9aeb2559d173a",
-    "fetched_at": "2026-08-07T16:44:23.530659+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-    "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:33:50 GMT",
-    "source": "BBC News",
-    "id": "fc75e66e1473892367886322373f509f",
-    "fetched_at": "2026-08-07T16:44:22.417548+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
-    "summary": "Retired Gen. Jack Keane accuses Pakistan, Qatar and Saudi Arabia of being compromised mediators who steer Trump away from military pressure on Iran.",
-    "link": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
-    "published": "Thu, 06 Aug 2026 06:00:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3d19472f978ee6c74ab0680886173e0d",
-    "fetched_at": "2026-08-07T16:44:21.301906+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
-    "summary": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino's failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco \"reaffirmed their full support\" for his presidency.",
-    "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
-    "published": "Thu, 06 Aug 2026 04:52:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "b6536a7fb1fab8b52df735aafa30f81d",
-    "fetched_at": "2026-08-07T16:44:20.137782+00:00"
   }
 ]
