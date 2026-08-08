@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | August 7th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
+    "published": "Fri, 07 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bdcda30d060ec02efb8b618c2efcf6f0",
+    "fetched_at": "2026-08-08T22:20:35.774181+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German airport drone-bomb: Could Russia be involved?",
+    "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 08:48:16 GMT",
+    "source": "BBC News",
+    "id": "3dc2525e1ea0ef4697764854d5e961fa",
+    "fetched_at": "2026-08-08T22:20:34.548384+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
+    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
+    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
+    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2ef52d2296d707176b6f53cba1d9abf1",
+    "fetched_at": "2026-08-08T22:20:33.417280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
+    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
+    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
+    "fetched_at": "2026-08-08T22:20:32.289866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
+    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
+    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
+    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b1c6f5739f70c6fa34e97217a2323f20",
+    "fetched_at": "2026-08-08T22:20:31.152722+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+    "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+    "published": "Fri, 07 Aug 2026 06:56:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "349fede6ad0de73306ce7bd39935f985",
+    "fetched_at": "2026-08-08T22:20:30.015931+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tanker sailors still face danger in the Strait of Hormuz",
+    "summary": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+    "published": "Sat, 08 Aug 2026 17:19:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "a6e28af0d3b955afc2b5388a7653d304",
+    "fetched_at": "2026-08-08T22:20:28.875064+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Paris tells e-scooter riders to wear safety gear or face fines",
     "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
     "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
     "fetched_at": "2026-08-08T06:37:54.931702+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
-    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
-    "source": "BBC News",
-    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
-    "fetched_at": "2026-08-08T06:37:53.800165+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
-    "source": "BBC News",
-    "id": "bbc4da856a1fddf3a16d71e324490d0e",
-    "fetched_at": "2026-08-08T06:37:52.593401+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Surprise fall in US jobs last month as slow summer continues",
-    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 14:03:55 GMT",
-    "source": "BBC News",
-    "id": "14d3a802bf10e877279754323bc2da2f",
-    "fetched_at": "2026-08-08T06:37:51.444254+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
-    "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
-    "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 18:06:58 GMT",
-    "source": "BBC News",
-    "id": "f39ceaafedaf35a0a3d6a080b5e832c4",
-    "fetched_at": "2026-08-08T04:48:38.965308+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-    "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 00:02:49 GMT",
-    "source": "BBC News",
-    "id": "e094686fc7201138fa52f848f688fe36",
-    "fetched_at": "2026-08-08T04:48:38.965273+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Child among three killed in Russian missile attacks near Kyiv",
-    "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 04:23:33 GMT",
-    "source": "BBC News",
-    "id": "dc4e8ebc805c7634b6960a2031bd90b8",
-    "fetched_at": "2026-08-08T04:48:37.845579+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
-    "summary": "An explosive-armed drone was found near a Ukrainian plane at Leipzig/Halle Airport, prompting Germany&apos;s interior minister to warn of a hybrid attack.",
-    "link": "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
-    "published": "Wed, 05 Aug 2026 19:32:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "644a2f239961a76f1ed01606dd25d2d2",
-    "fetched_at": "2026-08-08T04:48:36.701911+00:00"
   }
 ]
