@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+    "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+    "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 21:19:27 GMT",
+    "source": "BBC News",
+    "id": "15273bab35b69bbcad7bbae2e454a554",
+    "fetched_at": "2026-08-08T18:25:51.858978+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+    "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 18:13:49 GMT",
+    "source": "BBC News",
+    "id": "16ffb56829b87c0e774a2ee3a833d165",
+    "fetched_at": "2026-08-08T18:25:51.858975+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+    "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 15:59:37 GMT",
+    "source": "BBC News",
+    "id": "71012d90b1ab1addd154a42f439ebd32",
+    "fetched_at": "2026-08-08T18:25:51.858942+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man behind deadly Munich car ramming handed life sentence",
+    "summary": "Farhad N, who is found guilty of killing two and injuring dozens more, will likely not be released from prison.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqp5yy15lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 06 Aug 2026 12:52:20 GMT",
+    "source": "BBC News",
+    "id": "dc09caafcbe66d5a32797ff12f934e15",
+    "fetched_at": "2026-08-08T18:25:50.709343+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine hits two oil refineries deep in Russian territory",
+    "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+    "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 06 Aug 2026 15:41:05 GMT",
+    "source": "BBC News",
+    "id": "ed9e570f44987e78a21b05f9de3484a1",
+    "fetched_at": "2026-08-08T18:25:49.544703+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+    "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 20:40:56 GMT",
+    "source": "BBC News",
+    "id": "aa3e531370bbcb8b65881cb0604477e8",
+    "fetched_at": "2026-08-08T18:25:48.428466+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine mourns \"collector of souls\" Oleksiy Yukov, killed recovering war dead",
+    "summary": "Oleksiy Yukov spent two decades recovering the bodies of soldiers – including many Russians. He was killed during a recovery mission after stepping on a landmine.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+    "published": "Sat, 08 Aug 2026 13:46:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "3a316113c56bea2e660db6c56dbae37c",
+    "fetched_at": "2026-08-08T18:25:47.306929+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is birthright citizenship and how common is birth tourism in the US?",
+    "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 21:09:51 GMT",
+    "source": "BBC News",
+    "id": "9ec33ca457df50e90b14f0c92447bbfd",
+    "fetched_at": "2026-08-08T18:25:46.160631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'My neighbourhood is just gone' - BBC sees devastation from Washington state fires",
+    "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 01:10:58 GMT",
+    "source": "BBC News",
+    "id": "647339eeafd8b97be101e2d6bf4060f3",
+    "fetched_at": "2026-08-08T18:25:45.013551+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
+    "source": "BBC News",
+    "id": "4742e5695eec02a58812c916d3f2f849",
+    "fetched_at": "2026-08-08T18:25:43.852762+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Messi's father Jorge dies aged 68 after illness",
     "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
     "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "b1c6f5739f70c6fa34e97217a2323f20",
     "fetched_at": "2026-08-08T03:18:16.462509+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
-    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ad711f40422bd10137d4771e22894",
-    "fetched_at": "2026-08-08T03:18:15.359487+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
-    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
-    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
-    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "11d77fc67b38a75a35d048ac7166bf41",
-    "fetched_at": "2026-08-08T03:18:14.249434+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Senator Cassidy will vote to confirm Blanche for AG, likely saving teetering nomination",
-    "summary": "Earlier, Republican Senator Lisa Murkowski said she opposed Trump's pick to lead the justice department",
-    "link": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:16:43 GMT",
-    "source": "BBC News",
-    "id": "d336e0b9d91a1c092c97da421f755341",
-    "fetched_at": "2026-08-08T03:18:13.132069+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "American flown to New Zealand hospital in rare midwinter Antarctic rescue mission",
-    "summary": "The sun last set at the geographic South Pole on 23 March and will not rise until 21 September.",
-    "link": "http://www.euronews.com/2026/08/07/american-flown-to-new-zealand-hospital-in-rare-midwinter-antarctic-rescue-mission",
-    "published": "Fri, 07 Aug 2026 09:41:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "74b0a944639007845118aa2d0324595d",
-    "fetched_at": "2026-08-08T01:03:18.226244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
-    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
-    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
-    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "733511e3df9becdabfd8adb34dc3023d",
-    "fetched_at": "2026-08-08T01:03:18.226217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
-    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
-    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
-    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "453f03c67b852df080480596e03dd881",
-    "fetched_at": "2026-08-08T01:03:17.058066+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
-    "summary": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
-    "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
-    "published": "Thu, 06 Aug 2026 10:19:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "f28df39985667f55332fe4be974d0a2d",
-    "fetched_at": "2026-08-08T01:03:15.879085+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more.",
-    "summary": "A new study is out that looked at various ways to try to tackle poverty in Ethiopia. Turns out, cash helps, but the impact of therapy is less clear.",
-    "link": "https://www.npr.org/2026/08/06/nx-s1-5821120/what-is-the-best-way-to-tackle-poverty-in-ethiopia-this-new-study-tries-cash-therapy-and-more",
-    "published": "Thu, 06 Aug 2026 16:35:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "f353f8f20fb1e5a844a173ecd72e10ff",
-    "fetched_at": "2026-08-08T01:03:14.712496+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-    "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
-    "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-    "published": "Thu, 06 Aug 2026 16:58:56 -0400",
-    "source": "NPR Topics: World",
-    "id": "30fbe036e3c6ad9721d028f8e72524ae",
-    "fetched_at": "2026-08-08T01:03:13.555095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-    "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-    "published": "Fri, 07 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "927cbe727549a61b969d10295828d288",
-    "fetched_at": "2026-08-08T01:03:12.402228+00:00"
   }
 ]
