@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+    "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 20:18:28 GMT",
+    "source": "BBC News",
+    "id": "54935686cfc1857f7e459befaa38765d",
+    "fetched_at": "2026-08-08T20:20:27.088640+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
+    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
+    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
+    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bc9ad711f40422bd10137d4771e22894",
+    "fetched_at": "2026-08-08T20:20:27.088636+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
+    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
+    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
+    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "11d77fc67b38a75a35d048ac7166bf41",
+    "fetched_at": "2026-08-08T20:20:27.088608+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "733511e3df9becdabfd8adb34dc3023d",
+    "fetched_at": "2026-08-08T20:20:25.941066+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "453f03c67b852df080480596e03dd881",
+    "fetched_at": "2026-08-08T20:20:24.809685+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+    "summary": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
+    "published": "Thu, 06 Aug 2026 10:19:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "f28df39985667f55332fe4be974d0a2d",
+    "fetched_at": "2026-08-08T20:20:23.671563+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more.",
+    "summary": "A new study is out that looked at various ways to try to tackle poverty in Ethiopia. Turns out, cash helps, but the impact of therapy is less clear.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5821120/what-is-the-best-way-to-tackle-poverty-in-ethiopia-this-new-study-tries-cash-therapy-and-more",
+    "published": "Thu, 06 Aug 2026 16:35:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "f353f8f20fb1e5a844a173ecd72e10ff",
+    "fetched_at": "2026-08-08T20:20:22.563004+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+    "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+    "published": "Thu, 06 Aug 2026 16:58:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "30fbe036e3c6ad9721d028f8e72524ae",
+    "fetched_at": "2026-08-08T20:20:21.436946+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+    "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+    "published": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "927cbe727549a61b969d10295828d288",
+    "fetched_at": "2026-08-08T20:20:20.291704+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+    "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+    "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+    "source": "BBC News",
+    "id": "0d8d4335f9d668febe1b60ce6e05f772",
+    "fetched_at": "2026-08-08T20:20:19.122179+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
     "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
     "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "644a2f239961a76f1ed01606dd25d2d2",
     "fetched_at": "2026-08-08T04:48:36.701911+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
-    "summary": "A projectile struck a crowded Russian Black Sea beach Monday, killing seven people, including four children, and injuring 58. Russia blamed a Ukrainian drone attack as video captured the deadly impact.",
-    "link": "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
-    "published": "Wed, 05 Aug 2026 21:46:12 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6808b6d9932ee00ddca9bf8540a8d1ae",
-    "fetched_at": "2026-08-08T04:48:35.581284+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
-    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
-    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
-    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2ef52d2296d707176b6f53cba1d9abf1",
-    "fetched_at": "2026-08-08T04:48:34.468758+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
-    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
-    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
-    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
-    "fetched_at": "2026-08-08T04:48:33.341402+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
-    "summary": "Regional police and prosecutors said an airport employee discovered a drone near the airport's south runway with \"an unknown explosive device,\" and the object was examined by police",
-    "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
-    "published": "Thu, 06 Aug 2026 01:23:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "0933feb9228869f5a3d230ab04866109",
-    "fetched_at": "2026-08-08T04:48:32.229771+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-    "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
-    "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-    "published": "Fri, 07 Aug 2026 06:56:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "349fede6ad0de73306ce7bd39935f985",
-    "fetched_at": "2026-08-08T04:48:31.111746+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-    "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 08:32:57 GMT",
-    "source": "BBC News",
-    "id": "43e81bcdc9a059a5f49aab7756b6931c",
-    "fetched_at": "2026-08-08T03:18:20.892385+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
-    "summary": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
-    "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
-    "published": "Fri, 07 Aug 2026 10:43:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a2676415d7521d5da5ec06a2a4dcc6d6",
-    "fetched_at": "2026-08-08T03:18:19.777850+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 7th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
-    "published": "Fri, 07 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bdcda30d060ec02efb8b618c2efcf6f0",
-    "fetched_at": "2026-08-08T03:18:18.663868+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German airport drone-bomb: Could Russia be involved?",
-    "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 08:48:16 GMT",
-    "source": "BBC News",
-    "id": "3dc2525e1ea0ef4697764854d5e961fa",
-    "fetched_at": "2026-08-08T03:18:17.564307+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
-    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
-    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b1c6f5739f70c6fa34e97217a2323f20",
-    "fetched_at": "2026-08-08T03:18:16.462509+00:00"
   }
 ]
