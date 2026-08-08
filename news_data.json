@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+    "summary": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+    "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 18:06:58 GMT",
+    "source": "BBC News",
+    "id": "f39ceaafedaf35a0a3d6a080b5e832c4",
+    "fetched_at": "2026-08-08T04:48:38.965308+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+    "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+    "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 00:02:49 GMT",
+    "source": "BBC News",
+    "id": "e094686fc7201138fa52f848f688fe36",
+    "fetched_at": "2026-08-08T04:48:38.965273+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 04:23:33 GMT",
+    "source": "BBC News",
+    "id": "dc4e8ebc805c7634b6960a2031bd90b8",
+    "fetched_at": "2026-08-08T04:48:37.845579+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosive drone forces shutdown at major German airport serving NATO, Ukraine flights",
+    "summary": "An explosive-armed drone was found near a Ukrainian plane at Leipzig/Halle Airport, prompting Germany&apos;s interior minister to warn of a hybrid attack.",
+    "link": "https://www.foxnews.com/world/explosive-drone-forces-shutdown-major-german-airport-serving-nato-ukraine-flights",
+    "published": "Wed, 05 Aug 2026 19:32:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "644a2f239961a76f1ed01606dd25d2d2",
+    "fetched_at": "2026-08-08T04:48:36.701911+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
+    "summary": "A projectile struck a crowded Russian Black Sea beach Monday, killing seven people, including four children, and injuring 58. Russia blamed a Ukrainian drone attack as video captured the deadly impact.",
+    "link": "https://www.foxnews.com/world/crowded-russian-beach-descends-chaos-alleged-ukrainian-drone-incident-kills-7-including-4-children",
+    "published": "Wed, 05 Aug 2026 21:46:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6808b6d9932ee00ddca9bf8540a8d1ae",
+    "fetched_at": "2026-08-08T04:48:35.581284+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
+    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
+    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
+    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2ef52d2296d707176b6f53cba1d9abf1",
+    "fetched_at": "2026-08-08T04:48:34.468758+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
+    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
+    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
+    "fetched_at": "2026-08-08T04:48:33.341402+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+    "summary": "Regional police and prosecutors said an airport employee discovered a drone near the airport's south runway with \"an unknown explosive device,\" and the object was examined by police",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+    "published": "Thu, 06 Aug 2026 01:23:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "0933feb9228869f5a3d230ab04866109",
+    "fetched_at": "2026-08-08T04:48:32.229771+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+    "summary": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+    "published": "Fri, 07 Aug 2026 06:56:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "349fede6ad0de73306ce7bd39935f985",
+    "fetched_at": "2026-08-08T04:48:31.111746+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
     "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
     "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "bde66b35b365fb0db321daea26865a5e",
     "fetched_at": "2026-08-07T14:46:45.689682+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire burns 100 hectares near Narbonne in France",
-    "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
-    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
-    "published": "Fri, 07 Aug 2026 16:40:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "80e55aeeef380336d8d81a8269b87090",
-    "fetched_at": "2026-08-07T14:46:44.541265+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mourners line streets of Milan for legend Baresi's funeral",
-    "summary": "Thousands gather on the streets of Milan for the funeral of legendary former AC Milan and Italy defender Franco Baresi.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:45:34 GMT",
-    "source": "BBC News",
-    "id": "97b19c2f6477f586809873b21255db0f",
-    "fetched_at": "2026-08-07T14:46:43.404722+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-    "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 17:26:06 GMT",
-    "source": "BBC News",
-    "id": "f72e4157db96725ca6fb6f15725eb669",
-    "fetched_at": "2026-08-07T14:46:42.282584+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
-    "source": "BBC News",
-    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
-    "fetched_at": "2026-08-07T14:46:41.158010+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
-    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
-    "source": "BBC News",
-    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
-    "fetched_at": "2026-08-07T14:46:40.019078+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Surprise fall in US jobs last month as slow summer continues",
-    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 14:03:55 GMT",
-    "source": "BBC News",
-    "id": "14d3a802bf10e877279754323bc2da2f",
-    "fetched_at": "2026-08-07T14:46:38.876027+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:02:28 GMT",
-    "source": "BBC News",
-    "id": "bbc4da856a1fddf3a16d71e324490d0e",
-    "fetched_at": "2026-08-07T12:45:04.090553+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-    "summary": "The 56-year-old, who shot to prominence in 1991 musical comedy film The Commitments, died in a motorcycle crash last week.",
-    "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 17:01:19 GMT",
-    "source": "BBC News",
-    "id": "60fd3152a7774a2644317b4f9c6bdd59",
-    "fetched_at": "2026-08-07T12:45:04.090551+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-    "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-    "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 12:33:43 GMT",
-    "source": "BBC News",
-    "id": "b90ce95b9fcea0d8c521018486617e2a",
-    "fetched_at": "2026-08-07T12:45:04.090548+00:00"
   }
 ]
