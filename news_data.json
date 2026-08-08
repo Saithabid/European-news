@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "NBA forward Clarke's death due to effects of drugs",
+    "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 12:05:04 GMT",
+    "source": "BBC News",
+    "id": "70d895a46b92672e68b9f78f57693836",
+    "fetched_at": "2026-08-08T14:24:12.078696+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+    "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+    "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+    "published": "Fri, 07 Aug 2026 20:20:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f7350011f034d1693fe5e6a4cb7b60cc",
+    "fetched_at": "2026-08-08T14:24:10.811692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain's migrant surge reignites debate over Europe’s Islamist terror threat",
+    "summary": "Spain recorded the EU&apos;s highest jihadist terrorism arrests in 2025 as suspected extremists were identified among 72,000 migrants flooding into Ceuta.",
+    "link": "https://www.foxnews.com/world/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
+    "published": "Sat, 08 Aug 2026 09:23:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "692e97d309cd0654f1b5640497297e03",
+    "fetched_at": "2026-08-08T14:24:09.631361+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "K-pop's global wave inspires Chile's next pop stars",
+    "summary": "K-pop conquered the world — now Chile's young creatives are remixing the movement and making it their own.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+    "published": "Sat, 08 Aug 2026 09:34:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "4705836e1ec8e36fca5e60ec2d7cc0e2",
+    "fetched_at": "2026-08-08T14:24:08.364516+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
     "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "9ec33ca457df50e90b14f0c92447bbfd",
     "fetched_at": "2026-08-07T22:27:16.696225+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-    "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 21:05:45 GMT",
-    "source": "BBC News",
-    "id": "e9e92bb57d0fc5add17d72becfeab156",
-    "fetched_at": "2026-08-07T22:27:15.553792+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Coroners try to identify dozens of bodies kept in 'deplorable conditions' at US funeral home",
-    "summary": "The medical examiner's office in Chicago said the process to identify the remains could take days.",
-    "link": "https://www.bbc.co.uk/news/articles/c86nv0elnzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:58:14 GMT",
-    "source": "BBC News",
-    "id": "666e2a56c40481185b5e0c3be0c26c55",
-    "fetched_at": "2026-08-07T22:27:14.425142+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-    "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 22:07:00 GMT",
-    "source": "BBC News",
-    "id": "e2ef1a0474065f9ddc955765edc8cafe",
-    "fetched_at": "2026-08-07T22:27:13.290556+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US appeals court orders halt to Trump ballroom construction without congressional approval",
-    "summary": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
-    "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
-    "published": "Fri, 07 Aug 2026 20:55:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f44be6e665a3687c629ef0a98b6e96f8",
-    "fetched_at": "2026-08-07T20:32:33.124303+00:00"
   }
 ]
