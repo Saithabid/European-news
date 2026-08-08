@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "American flown to New Zealand hospital in rare midwinter Antarctic rescue mission",
+    "summary": "The sun last set at the geographic South Pole on 23 March and will not rise until 21 September.",
+    "link": "http://www.euronews.com/2026/08/07/american-flown-to-new-zealand-hospital-in-rare-midwinter-antarctic-rescue-mission",
+    "published": "Fri, 07 Aug 2026 09:41:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "74b0a944639007845118aa2d0324595d",
+    "fetched_at": "2026-08-08T01:03:18.226244+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "733511e3df9becdabfd8adb34dc3023d",
+    "fetched_at": "2026-08-08T01:03:18.226217+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "453f03c67b852df080480596e03dd881",
+    "fetched_at": "2026-08-08T01:03:17.058066+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+    "summary": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
+    "published": "Thu, 06 Aug 2026 10:19:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "f28df39985667f55332fe4be974d0a2d",
+    "fetched_at": "2026-08-08T01:03:15.879085+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is the best way to tackle poverty in Ethiopia? This new study tries cash, therapy, and more.",
+    "summary": "A new study is out that looked at various ways to try to tackle poverty in Ethiopia. Turns out, cash helps, but the impact of therapy is less clear.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5821120/what-is-the-best-way-to-tackle-poverty-in-ethiopia-this-new-study-tries-cash-therapy-and-more",
+    "published": "Thu, 06 Aug 2026 16:35:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "f353f8f20fb1e5a844a173ecd72e10ff",
+    "fetched_at": "2026-08-08T01:03:14.712496+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+    "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
+    "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+    "published": "Thu, 06 Aug 2026 16:58:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "30fbe036e3c6ad9721d028f8e72524ae",
+    "fetched_at": "2026-08-08T01:03:13.555095+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+    "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+    "published": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "927cbe727549a61b969d10295828d288",
+    "fetched_at": "2026-08-08T01:03:12.402228+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'My neighbourhood is just gone' - BBC sees devastation from Washington state fires",
+    "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 01:10:58 GMT",
+    "source": "BBC News",
+    "id": "647339eeafd8b97be101e2d6bf4060f3",
+    "fetched_at": "2026-08-08T01:03:11.233802+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
+    "source": "BBC News",
+    "id": "4742e5695eec02a58812c916d3f2f849",
+    "fetched_at": "2026-08-08T01:03:10.059397+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
     "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
     "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "349fede6ad0de73306ce7bd39935f985",
     "fetched_at": "2026-08-07T12:44:58.008074+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meta fined $567m in largest child safety ruling against social media giant",
-    "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 09:22:03 GMT",
-    "source": "BBC News",
-    "id": "74218703482f01f1503dd97d5d074386",
-    "fetched_at": "2026-08-07T12:44:56.836570+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Murkowski opposes Blanche nomination as attorney general, putting confirmation in doubt",
-    "summary": "Murkowski cited concerns over the “politicisation” of the Justice Department, putting Blanche's confirmation in jeopardy.",
-    "link": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:16:46 GMT",
-    "source": "BBC News",
-    "id": "d336e0b9d91a1c092c97da421f755341",
-    "fetched_at": "2026-08-07T12:44:55.578526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-    "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 08:32:57 GMT",
-    "source": "BBC News",
-    "id": "43e81bcdc9a059a5f49aab7756b6931c",
-    "fetched_at": "2026-08-07T10:44:29.552675+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
-    "summary": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
-    "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
-    "published": "Fri, 07 Aug 2026 10:43:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a2676415d7521d5da5ec06a2a4dcc6d6",
-    "fetched_at": "2026-08-07T10:44:29.552672+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 7th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
-    "published": "Fri, 07 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bdcda30d060ec02efb8b618c2efcf6f0",
-    "fetched_at": "2026-08-07T10:44:29.552670+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German airport drone-bomb: Could Russia be involved?",
-    "summary": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 08:48:16 GMT",
-    "source": "BBC News",
-    "id": "3dc2525e1ea0ef4697764854d5e961fa",
-    "fetched_at": "2026-08-07T10:44:29.552667+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
-    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
-    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b1c6f5739f70c6fa34e97217a2323f20",
-    "fetched_at": "2026-08-07T10:44:29.552664+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
-    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ad711f40422bd10137d4771e22894",
-    "fetched_at": "2026-08-07T10:44:29.552661+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
-    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
-    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
-    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "11d77fc67b38a75a35d048ac7166bf41",
-    "fetched_at": "2026-08-07T10:44:29.552658+00:00"
   }
 ]
