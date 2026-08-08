@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Messi's father Jorge dies aged 68 after illness",
+    "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 15:51:11 GMT",
+    "source": "BBC News",
+    "id": "79450dc266fcab66b4bd16f2cc728427",
+    "fetched_at": "2026-08-08T16:23:30.251701+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+    "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 15:15:17 GMT",
+    "source": "BBC News",
+    "id": "7fbd6bc2945e5328df67ffe31a29ec40",
+    "fetched_at": "2026-08-08T16:23:30.251673+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+    "summary": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+    "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+    "published": "Fri, 07 Aug 2026 20:55:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f44be6e665a3687c629ef0a98b6e96f8",
+    "fetched_at": "2026-08-08T16:23:29.091059+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 8th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-evening",
+    "published": "Sat, 08 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "45f6687e3e276df5045ef4ad3473183f",
+    "fetched_at": "2026-08-08T16:23:27.933560+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nigeria's largest rescue operation frees 308 hostages held by militants in Kwara State",
+    "summary": "Victims of a six-month jihadi kidnapping in Nigeria&apos;s Kwara State describe starvation, forced births, and burying fellow captives in a forest hideout.",
+    "link": "https://www.foxnews.com/world/nigerias-largest-rescue-operation-frees-308-hostages-held-militants-kwara-state",
+    "published": "Sat, 08 Aug 2026 10:33:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8d29208d154eb6a5fbc3d87d5932426f",
+    "fetched_at": "2026-08-08T16:23:26.778058+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+    "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 21:05:45 GMT",
+    "source": "BBC News",
+    "id": "e9e92bb57d0fc5add17d72becfeab156",
+    "fetched_at": "2026-08-08T16:23:25.625184+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Coroners try to identify dozens of bodies kept in 'deplorable conditions' at US funeral home",
+    "summary": "The medical examiner's office in Chicago said the process to identify the remains could take days.",
+    "link": "https://www.bbc.co.uk/news/articles/c86nv0elnzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 20:58:14 GMT",
+    "source": "BBC News",
+    "id": "666e2a56c40481185b5e0c3be0c26c55",
+    "fetched_at": "2026-08-08T16:23:24.470947+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+    "summary": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 22:07:00 GMT",
+    "source": "BBC News",
+    "id": "e2ef1a0474065f9ddc955765edc8cafe",
+    "fetched_at": "2026-08-08T16:23:23.316183+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'My Ray of Light': Madonna remembers acclaimed producer William Orbit",
+    "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+    "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 15:44:08 GMT",
+    "source": "BBC News",
+    "id": "cc5166a8d97281c0fb3fbf6cfe257f87",
+    "fetched_at": "2026-08-08T16:23:22.157795+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "NBA forward Clarke's death due to effects of drugs",
     "summary": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
     "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "927cbe727549a61b969d10295828d288",
     "fetched_at": "2026-08-08T01:03:12.402228+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'My neighbourhood is just gone' - BBC sees devastation from Washington state fires",
-    "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings.",
-    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 01:10:58 GMT",
-    "source": "BBC News",
-    "id": "647339eeafd8b97be101e2d6bf4060f3",
-    "fetched_at": "2026-08-08T01:03:11.233802+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
-    "source": "BBC News",
-    "id": "4742e5695eec02a58812c916d3f2f849",
-    "fetched_at": "2026-08-08T01:03:10.059397+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-    "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 14:20:27 GMT",
-    "source": "BBC News",
-    "id": "cd2689cac1bda4aa1e36641aa4ee0adb",
-    "fetched_at": "2026-08-07T22:27:21.188209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-    "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-    "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 21:19:27 GMT",
-    "source": "BBC News",
-    "id": "15273bab35b69bbcad7bbae2e454a554",
-    "fetched_at": "2026-08-07T22:27:21.188205+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Berlin unveils rainbow bench for Pride attack victims",
-    "summary": "Berlin officials and LGBTQ community members unveil a rainbow bench and plant a maple tree in Tiergarten to honour victims of the CSD attack.",
-    "link": "http://www.euronews.com/video/2026/08/07/berlin-unveils-rainbow-bench-for-pride-attack-victims",
-    "published": "Fri, 07 Aug 2026 09:45:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a86f865e80c40f0bb0d21623bf8c7027",
-    "fetched_at": "2026-08-07T22:27:21.188174+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man behind deadly Munich car ramming handed life sentence",
-    "summary": "Farhad N, who is found guilty of killing two and injuring dozens more, will likely not be released from prison.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqp5yy15lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 12:52:20 GMT",
-    "source": "BBC News",
-    "id": "dc09caafcbe66d5a32797ff12f934e15",
-    "fetched_at": "2026-08-07T22:27:20.067902+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine hits two oil refineries deep in Russian territory",
-    "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-    "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 06 Aug 2026 15:41:05 GMT",
-    "source": "BBC News",
-    "id": "ed9e570f44987e78a21b05f9de3484a1",
-    "fetched_at": "2026-08-07T22:27:18.925757+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-    "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:40:56 GMT",
-    "source": "BBC News",
-    "id": "aa3e531370bbcb8b65881cb0604477e8",
-    "fetched_at": "2026-08-07T22:27:17.806913+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What is birthright citizenship and how common is birth tourism in the US?",
-    "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 21:09:51 GMT",
-    "source": "BBC News",
-    "id": "9ec33ca457df50e90b14f0c92447bbfd",
-    "fetched_at": "2026-08-07T22:27:16.696225+00:00"
   }
 ]
