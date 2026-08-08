@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+    "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 12:01:42 GMT",
+    "source": "BBC News",
+    "id": "81f4b8f36218f1b4df330e7a5cb11206",
+    "fetched_at": "2026-08-08T12:31:47.772440+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+    "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 10:19:46 GMT",
+    "source": "BBC News",
+    "id": "92ad35377f5255e5877512cb1b64549d",
+    "fetched_at": "2026-08-08T12:31:46.626673+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This country is the latest to hit the elusive 95/95/95 HIV target",
+    "summary": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year.",
+    "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+    "published": "Thu, 06 Aug 2026 09:13:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "7d1597d8930889fbaeb5895ce12e1217",
+    "fetched_at": "2026-08-08T12:31:45.474507+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student gunman kills at least 7 near Bangkok, officials say",
+    "summary": "The motive is still under investigation, though there were reports he had been stressed in connection with school.<br />",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+    "published": "Fri, 07 Aug 2026 01:34:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "f6630dbe1190b7b42922d0468a04dcc3",
+    "fetched_at": "2026-08-08T12:31:44.316962+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+    "summary": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+    "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+    "published": "Sat, 08 Aug 2026 07:01:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "ac67eaebf49039706ec7dd2a1712041c",
+    "fetched_at": "2026-08-08T12:31:43.173941+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mysterious orb seen racing over residential area in new UFO files",
+    "summary": "The Pentagon has released more never-before-seen videos of unidentified anomalous phenomena.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kr7p2pmdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:25:35 GMT",
+    "source": "BBC News",
+    "id": "cd9463fbf4b8c5c279269bc8e6ef8eec",
+    "fetched_at": "2026-08-08T12:31:42.015243+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 7th, 2026 – Evening",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-evening",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "f44be6e665a3687c629ef0a98b6e96f8",
     "fetched_at": "2026-08-07T20:32:33.124303+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli efforts to seize more Palestinian land have reached a frenzied pitch",
-    "summary": "Israeli efforts to establish new Jewish settlements and seize Palestinian land have reached a frenzied pitch in the occupied West Bank, where Palestinian residents say they have been encircled and besieged by violent settlers.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5914041/israeli-efforts-to-seize-more-palestinian-land-have-reached-a-frenzied-pitch",
-    "published": "Fri, 07 Aug 2026 16:24:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "4143594a8f64a1323feec9f95cea0a54",
-    "fetched_at": "2026-08-07T20:32:31.999375+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump looks for a breakthrough on the Strait of Hormuz but is feeling the pressure",
-    "summary": "President Trump is looking for a breakthrough on the Strait of Hormuz and is feeling the pressure of the ongoing war.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5910857/trump-looks-for-a-breakthrough-on-the-strait-of-hormuz-but-is-feeling-the-pressure",
-    "published": "Fri, 07 Aug 2026 16:24:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "9ba67136f45bf047d462d00ac42e498d",
-    "fetched_at": "2026-08-07T20:32:30.864808+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hunter Biden tells BBC pardon was 'not good' for his father's legacy or American people",
-    "summary": "Hunter Biden talks to BBC Newsnight about his father's decision to issue him a pardon.",
-    "link": "https://www.bbc.co.uk/news/videos/cr7kjl93jvdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:07:56 GMT",
-    "source": "BBC News",
-    "id": "3e862063afa5e0d447eb873859cd682f",
-    "fetched_at": "2026-08-07T20:32:29.716595+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "90,000 rubber ducks race down Chicago River for charity",
-    "summary": "Rubber ducks race down Chicago River in the annual Ducky Derby, raising funds for Special Olympics Illinois and its athletes.",
-    "link": "http://www.euronews.com/video/2026/08/07/90000-rubber-ducks-race-down-chicago-river-for-charity",
-    "published": "Fri, 07 Aug 2026 08:45:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "58022e0cbbe1751ee3537d21ffb31f9c",
-    "fetched_at": "2026-08-07T18:43:20.006407+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
-    "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
-    "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
-    "published": "Fri, 07 Aug 2026 20:20:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f7350011f034d1693fe5e6a4cb7b60cc",
-    "fetched_at": "2026-08-07T18:43:18.895173+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
-    "summary": "Video shows a Russian drone stalking a vegetable vendor through a Kherson market before detonating near him, in what Zelenskyy calls a &quot;safari.&quot;",
-    "link": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
-    "published": "Wed, 05 Aug 2026 16:12:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7d279511916fbe08b78563574f9bcb66",
-    "fetched_at": "2026-08-07T18:43:17.754034+00:00"
   }
 ]
