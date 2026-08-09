@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+    "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 23:43:44 GMT",
+    "source": "BBC News",
+    "id": "3deba5198de39066edee3388e8350240",
+    "fetched_at": "2026-08-09T18:28:28.847877+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Puerto Rico rations water supplies due to intense drought",
+    "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:43:23 GMT",
+    "source": "BBC News",
+    "id": "a519cb1fe9b8f06552e09047be2ebf63",
+    "fetched_at": "2026-08-09T18:28:27.706155+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
+    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
+    "source": "BBC News",
+    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
+    "fetched_at": "2026-08-09T18:28:26.565151+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
+    "source": "BBC News",
+    "id": "bbc4da856a1fddf3a16d71e324490d0e",
+    "fetched_at": "2026-08-09T18:28:25.416680+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
+    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "59ae999027e5b0ccea3addadca8973c5",
+    "fetched_at": "2026-08-09T18:28:24.269575+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Solar eclipse to occur next week. Here is what to know",
+    "summary": "It will be visible in parts of the U.S. on Wednesday.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+    "published": "Sat, 08 Aug 2026 20:56:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "c939d73e0c469bb707e5feff13dca952",
+    "fetched_at": "2026-08-09T18:28:23.114185+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
+    "source": "BBC News",
+    "id": "8a3954f35a86caeae929dffdbcafa7b2",
+    "fetched_at": "2026-08-09T18:28:21.968216+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ecuador charges ex-minister over presidential candidate assassination case",
     "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
     "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "569011b9e1d1ccee664e61d3472b691e",
     "fetched_at": "2026-08-09T06:41:48.344733+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
-    "source": "BBC News",
-    "id": "84e0f0354936221be8a9aeb2559d173a",
-    "fetched_at": "2026-08-09T06:41:47.211341+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
-    "source": "BBC News",
-    "id": "fc75e66e1473892367886322373f509f",
-    "fetched_at": "2026-08-09T06:41:46.064903+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gen Keane questions whether Pakistan, Saudi Arabia and Qatar can be trusted in Iran talks",
-    "summary": "Retired Gen. Jack Keane accuses Pakistan, Qatar and Saudi Arabia of being compromised mediators who steer Trump away from military pressure on Iran.",
-    "link": "https://www.foxnews.com/world/gen-keane-questions-whether-pakistan-saudi-arabia-qatar-trusted-iran-talks",
-    "published": "Thu, 06 Aug 2026 06:00:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3d19472f978ee6c74ab0680886173e0d",
-    "fetched_at": "2026-08-09T06:41:44.925928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mysterious orb seen racing over residential area in new UFO files",
-    "summary": "The Pentagon has released more never-before-seen videos of unidentified anomalous phenomena.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8kr7p2pmdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:25:35 GMT",
-    "source": "BBC News",
-    "id": "cd9463fbf4b8c5c279269bc8e6ef8eec",
-    "fetched_at": "2026-08-09T06:41:43.775617+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-    "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
-    "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 00:15:28 GMT",
-    "source": "BBC News",
-    "id": "1b00294b021aaeaa2aacf13d9bd41c23",
-    "fetched_at": "2026-08-09T04:57:12.332582+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Perez Hilton faces long recovery after self-harm livestream",
-    "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 04:32:06 GMT",
-    "source": "BBC News",
-    "id": "086f912c172a69d71b59fcd1a4e58160",
-    "fetched_at": "2026-08-09T04:57:11.187277+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds arrested over French wildfires, but who is to blame?",
-    "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 23:59:23 GMT",
-    "source": "BBC News",
-    "id": "ff529b09d597a079d7f36fa734532db6",
-    "fetched_at": "2026-08-09T04:57:10.049065+00:00"
   }
 ]
