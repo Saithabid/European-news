@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Wildfire burns 100 hectares near Narbonne in France",
+    "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
+    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
+    "published": "Fri, 07 Aug 2026 16:40:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "80e55aeeef380336d8d81a8269b87090",
+    "fetched_at": "2026-08-09T03:26:25.998552+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 8th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-morning",
+    "published": "Sat, 08 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "21595f585862641a804712a85befcbb9",
+    "fetched_at": "2026-08-09T03:26:24.850193+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
+    "source": "BBC News",
+    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
+    "fetched_at": "2026-08-09T03:26:23.706682+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
+    "source": "BBC News",
+    "id": "8a3954f35a86caeae929dffdbcafa7b2",
+    "fetched_at": "2026-08-09T03:26:22.545651+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Child among three killed in Russian missile attacks near Kyiv",
     "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b6536a7fb1fab8b52df735aafa30f81d",
     "fetched_at": "2026-08-08T10:23:17.027200+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The phone book that led us to Assad's spy chief in hiding",
-    "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 23:23:12 GMT",
-    "source": "BBC News",
-    "id": "af690836b471fedef2f6c331aa5299ad",
-    "fetched_at": "2026-08-08T08:31:18.451403+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Taiwan tests emergency response with air raid drill",
-    "summary": "Taiwan holds an air raid drill in Kaohsiung, stopping traffic and guiding residents as authorities test civilian emergency responses.",
-    "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
-    "published": "Fri, 07 Aug 2026 15:36:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bde66b35b365fb0db321daea26865a5e",
-    "fetched_at": "2026-08-08T08:31:17.329051+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
-    "summary": "US President Donald Trump has been highly complementary of de la Espriella, calling him a \"smart, strong, and tough leader.\"",
-    "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
-    "published": "Sat, 08 Aug 2026 09:33:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "53f50591986532e74128a8b7a725f00f",
-    "fetched_at": "2026-08-08T08:31:16.146328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "59ae999027e5b0ccea3addadca8973c5",
-    "fetched_at": "2026-08-08T08:31:14.949954+00:00"
   }
 ]
