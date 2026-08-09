@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+    "source": "BBC News",
+    "id": "dc4e8ebc805c7634b6960a2031bd90b8",
+    "fetched_at": "2026-08-09T01:07:24.571445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
+    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
+    "source": "BBC News",
+    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
+    "fetched_at": "2026-08-09T01:07:23.416871+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
+    "source": "BBC News",
+    "id": "bbc4da856a1fddf3a16d71e324490d0e",
+    "fetched_at": "2026-08-09T01:07:22.254725+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Solar eclipse to occur next week. Here is what to know",
+    "summary": "It will be visible in parts of the U.S. on Wednesday.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+    "published": "Sat, 08 Aug 2026 20:56:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "c939d73e0c469bb707e5feff13dca952",
+    "fetched_at": "2026-08-09T01:07:21.105349+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 7th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "59ae999027e5b0ccea3addadca8973c5",
     "fetched_at": "2026-08-08T08:31:14.949954+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
-    "source": "BBC News",
-    "id": "8a3954f35a86caeae929dffdbcafa7b2",
-    "fetched_at": "2026-08-08T08:31:13.793841+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire burns 100 hectares near Narbonne in France",
-    "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
-    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
-    "published": "Fri, 07 Aug 2026 16:40:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "80e55aeeef380336d8d81a8269b87090",
-    "fetched_at": "2026-08-08T06:37:57.206687+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 8th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-morning",
-    "published": "Sat, 08 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21595f585862641a804712a85befcbb9",
-    "fetched_at": "2026-08-08T06:37:56.085016+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
-    "source": "BBC News",
-    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
-    "fetched_at": "2026-08-08T06:37:54.931702+00:00"
   }
 ]
