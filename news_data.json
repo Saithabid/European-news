@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+    "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 15:34:04 GMT",
+    "source": "BBC News",
+    "id": "3eb02b5f063893ffecc395c0bb5ab6c1",
+    "fetched_at": "2026-08-09T16:25:02.254979+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 9th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-evening",
+    "published": "Sun, 09 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0b66166c3a2c6c4eb1374344abc6555a",
+    "fetched_at": "2026-08-09T16:25:02.254977+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+    "source": "BBC News",
+    "id": "79d2b250eec45170bb30649a2a9f7a38",
+    "fetched_at": "2026-08-09T16:25:02.254973+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
+    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
+    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
+    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2ef52d2296d707176b6f53cba1d9abf1",
+    "fetched_at": "2026-08-09T16:25:02.254971+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
+    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
+    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
+    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
+    "fetched_at": "2026-08-09T16:25:02.254968+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
+    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
+    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
+    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b1c6f5739f70c6fa34e97217a2323f20",
+    "fetched_at": "2026-08-09T16:25:02.254937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
+    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
+    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
+    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bc9ad711f40422bd10137d4771e22894",
+    "fetched_at": "2026-08-09T16:25:01.151355+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
+    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
+    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
+    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "11d77fc67b38a75a35d048ac7166bf41",
+    "fetched_at": "2026-08-09T16:25:00.025344+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "733511e3df9becdabfd8adb34dc3023d",
+    "fetched_at": "2026-08-09T16:24:58.920848+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "453f03c67b852df080480596e03dd881",
+    "fetched_at": "2026-08-09T16:24:57.705510+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tanker sailors still face danger in the Strait of Hormuz",
+    "summary": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+    "published": "Sat, 08 Aug 2026 17:19:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "a6e28af0d3b955afc2b5388a7653d304",
+    "fetched_at": "2026-08-09T16:24:56.593376+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meet the man circumnavigating the Arctic Ocean, alone",
+    "summary": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
+    "published": "Sat, 08 Aug 2026 17:30:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "d1f36c6c4c131a7244af777aa9bfd08a",
+    "fetched_at": "2026-08-09T16:24:55.473621+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+    "summary": "A Good Samaritan vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+    "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:09:51 GMT",
+    "source": "BBC News",
+    "id": "bddf7e22da0a75c475b74b4934d09005",
+    "fetched_at": "2026-08-09T16:24:54.358435+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Yemen's Houthis attack kills 11 in Yemen, hit Saudi refinery",
     "summary": "Strikes by Iran-backed Houthi rebels on Sunday killed at least 11 people in the Yemeni port city of Mokha, says a medical source, after an earlier drone salvo targeted a Saudi oil refinery. Attacks from the armed group have increased since the 2022 truce seems to have been broken last month.",
     "link": "http://www.euronews.com/2026/08/09/yemens-houthis-claim-attack-on-saudi-arabia-refinery",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "ff529b09d597a079d7f36fa734532db6",
     "fetched_at": "2026-08-09T04:57:10.049065+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-    "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 23:43:44 GMT",
-    "source": "BBC News",
-    "id": "3deba5198de39066edee3388e8350240",
-    "fetched_at": "2026-08-09T04:57:08.908824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Taiwan tests emergency response with air raid drill",
-    "summary": "Taiwan holds an air raid drill in Kaohsiung, stopping traffic and guiding residents as authorities test civilian emergency responses.",
-    "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
-    "published": "Fri, 07 Aug 2026 15:36:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bde66b35b365fb0db321daea26865a5e",
-    "fetched_at": "2026-08-09T04:57:07.783334+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
-    "summary": "US President Donald Trump has been highly complementary of de la Espriella, calling him a \"smart, strong, and tough leader.\"",
-    "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
-    "published": "Sat, 08 Aug 2026 09:33:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "53f50591986532e74128a8b7a725f00f",
-    "fetched_at": "2026-08-09T04:57:06.636852+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "59ae999027e5b0ccea3addadca8973c5",
-    "fetched_at": "2026-08-09T04:57:05.497317+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire burns 100 hectares near Narbonne in France",
-    "summary": "Canadairs and helicopters battle a wildfire that has burned around 100 hectares in France's Corbières massif near Narbonne after a road accident.",
-    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
-    "published": "Fri, 07 Aug 2026 16:40:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "80e55aeeef380336d8d81a8269b87090",
-    "fetched_at": "2026-08-09T03:26:25.998552+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 8th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-morning",
-    "published": "Sat, 08 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21595f585862641a804712a85befcbb9",
-    "fetched_at": "2026-08-09T03:26:24.850193+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-    "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 21:45:20 GMT",
-    "source": "BBC News",
-    "id": "2fd003a6c1463b1e5ebb1a3024b0a80a",
-    "fetched_at": "2026-08-09T03:26:23.706682+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
-    "source": "BBC News",
-    "id": "8a3954f35a86caeae929dffdbcafa7b2",
-    "fetched_at": "2026-08-09T03:26:22.545651+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Child among three killed in Russian missile attacks near Kyiv",
-    "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 18:06:25 GMT",
-    "source": "BBC News",
-    "id": "dc4e8ebc805c7634b6960a2031bd90b8",
-    "fetched_at": "2026-08-09T01:07:24.571445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
-    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
-    "source": "BBC News",
-    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
-    "fetched_at": "2026-08-09T01:07:23.416871+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
-    "source": "BBC News",
-    "id": "bbc4da856a1fddf3a16d71e324490d0e",
-    "fetched_at": "2026-08-09T01:07:22.254725+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Solar eclipse to occur next week. Here is what to know",
-    "summary": "It will be visible in parts of the U.S. on Wednesday.",
-    "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
-    "published": "Sat, 08 Aug 2026 20:56:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "c939d73e0c469bb707e5feff13dca952",
-    "fetched_at": "2026-08-09T01:07:21.105349+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 7th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
-    "published": "Fri, 07 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bdcda30d060ec02efb8b618c2efcf6f0",
-    "fetched_at": "2026-08-08T22:20:35.774181+00:00"
   }
 ]
