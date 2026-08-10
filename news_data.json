@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Saudi factory fire kills 16 Bangladeshis, Dhaka announces",
+    "summary": "Bangladesh's foreign ministry reported \"the tragic deaths of 16 Bangladeshi nationals in a fire at a sofa manufacturing factory in Riyadh\" in its Monday statement.",
+    "link": "http://www.euronews.com/2026/08/10/saudi-factory-fire-kills-16-bangladeshis-dhaka-announces",
+    "published": "Mon, 10 Aug 2026 14:56:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b65c5f934c68958419c5afcbed6f681f",
+    "fetched_at": "2026-08-10T14:51:31.258166+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Chess player' Iran says Hormuz stays shut until US pays up",
+    "summary": "Iran's foreign ministry spokesperson shot back that Iranians had \"shown they are professional chess players\" after Trump said he was \"low-keying it\" and likened talks with Tehran to a chess game.",
+    "link": "http://www.euronews.com/2026/08/10/chess-player-iran-says-hormuz-stays-shut-until-us-pays-up",
+    "published": "Mon, 10 Aug 2026 15:26:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e81ed7140d7b87d7fd2845029fa5a2be",
+    "fetched_at": "2026-08-10T14:51:31.258163+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Powerful 6.6-magnitude quake rocks Colombia, geological agency says",
+    "summary": "The Colombian geological service put the magnitude of the quake at 6.6 while its American counterpart USGS put it at 7.4.",
+    "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
+    "published": "Mon, 10 Aug 2026 15:42:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4480e970c2b96286234b4b43931135a9",
+    "fetched_at": "2026-08-10T14:51:31.258135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+    "source": "BBC News",
+    "id": "79d2b250eec45170bb30649a2a9f7a38",
+    "fetched_at": "2026-08-10T14:51:30.150171+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
+    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
+    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
+    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b1c6f5739f70c6fa34e97217a2323f20",
+    "fetched_at": "2026-08-10T14:51:29.047813+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
+    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
+    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
+    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bc9ad711f40422bd10137d4771e22894",
+    "fetched_at": "2026-08-10T14:51:27.943347+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
+    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
+    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
+    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "11d77fc67b38a75a35d048ac7166bf41",
+    "fetched_at": "2026-08-10T14:51:26.827031+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "733511e3df9becdabfd8adb34dc3023d",
+    "fetched_at": "2026-08-10T14:51:25.717180+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "453f03c67b852df080480596e03dd881",
+    "fetched_at": "2026-08-10T14:51:24.609183+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Solar eclipse to occur next week. Here is what to know",
+    "summary": "It will be visible in parts of the U.S. on Wednesday.",
+    "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+    "published": "Sat, 08 Aug 2026 20:56:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "c939d73e0c469bb707e5feff13dca952",
+    "fetched_at": "2026-08-10T14:51:23.494827+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Battle for Mali base has killed dozens of militants, army says",
     "summary": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
     "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "086f912c172a69d71b59fcd1a4e58160",
     "fetched_at": "2026-08-09T20:22:36.935126+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-    "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 19:57:28 GMT",
-    "source": "BBC News",
-    "id": "36279d996e88c1dfccb07cb153fd70da",
-    "fetched_at": "2026-08-09T20:22:35.829493+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Messi says farewell to his father in hometown Rosario",
-    "summary": "Lionel Messi attended a private funeral for his father and longtime agent Jorge Messi at El Prado cemetery in Rosario on Sunday, days after his death at the age of 68.",
-    "link": "http://www.euronews.com/video/2026/08/09/messi-says-farewell-to-his-father-in-hometown-rosario",
-    "published": "Sun, 09 Aug 2026 20:58:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "85007d4b380708efc375cf815eddfa7f",
-    "fetched_at": "2026-08-09T20:22:34.726317+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
-    "source": "BBC News",
-    "id": "84e0f0354936221be8a9aeb2559d173a",
-    "fetched_at": "2026-08-09T20:22:33.626175+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
-    "source": "BBC News",
-    "id": "fc75e66e1473892367886322373f509f",
-    "fetched_at": "2026-08-09T20:22:32.502075+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
-    "summary": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
-    "link": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
-    "published": "Sun, 09 Aug 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "054246829aa7f543359895a558e99839",
-    "fetched_at": "2026-08-09T20:22:31.389872+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
-    "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
-    "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-    "published": "Sun, 09 Aug 2026 14:21:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "1c446a91b73616c7b7aa4601701b31f1",
-    "fetched_at": "2026-08-09T20:22:30.273015+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-    "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-    "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 23:43:44 GMT",
-    "source": "BBC News",
-    "id": "3deba5198de39066edee3388e8350240",
-    "fetched_at": "2026-08-09T18:28:28.847877+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Puerto Rico rations water supplies due to intense drought",
-    "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:43:23 GMT",
-    "source": "BBC News",
-    "id": "a519cb1fe9b8f06552e09047be2ebf63",
-    "fetched_at": "2026-08-09T18:28:27.706155+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
-    "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:04:25 GMT",
-    "source": "BBC News",
-    "id": "a4b2b8a19e2e2ad062a8be0cd9f7b666",
-    "fetched_at": "2026-08-09T18:28:26.565151+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
-    "source": "BBC News",
-    "id": "bbc4da856a1fddf3a16d71e324490d0e",
-    "fetched_at": "2026-08-09T18:28:25.416680+00:00"
   }
 ]
