@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Battle for Mali base has killed dozens of militants, army says",
+    "summary": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 12:32:26 GMT",
+    "source": "BBC News",
+    "id": "aec9922b88972d89b6fab4707106b38a",
+    "fetched_at": "2026-08-10T12:51:58.001214+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "India police fire tear gas at protesters seeking exam reforms",
+    "summary": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
+    "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 10:41:04 GMT",
+    "source": "BBC News",
+    "id": "a9f024ee528bcdc77c97de812f12adac",
+    "fetched_at": "2026-08-10T12:51:58.001211+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+    "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 12:23:21 GMT",
+    "source": "BBC News",
+    "id": "6c7143e0fefcaa508b9603245d50a53a",
+    "fetched_at": "2026-08-10T12:51:58.001208+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 10th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-midday",
+    "published": "Mon, 10 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5dd167a2eeaffce518e8c36975cba121",
+    "fetched_at": "2026-08-10T12:51:58.001205+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Costumed paddleboarders float down Moscow river in carnival",
+    "summary": "Hundreds of costumed paddleboarders floated down Moscow's Yauza river on Sunday for an annual stand-up paddleboard carnival, cheered on by live bands and crowds on the bridges above.",
+    "link": "http://www.euronews.com/video/2026/08/10/costumed-paddleboarders-float-down-moscow-river-in-carnival",
+    "published": "Mon, 10 Aug 2026 12:52:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e0e22679ba0c822536f81670eb6b93e8",
+    "fetched_at": "2026-08-10T12:51:58.001201+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Six Colombian rebels killed in 'message' by President Abelardo de la Espriella's new government",
+    "summary": "The six killed by Colombian forces on Sunday include four members of a splinter faction of the former FARC guerrilla group, as well as, two members of the Gulf Clan, Colombia's main drug cartel, in Antioquia department in the northwest.",
+    "link": "http://www.euronews.com/2026/08/10/six-colombian-rebels-killed-in-message-by-president-abelardo-de-la-espriellas-new-governme",
+    "published": "Mon, 10 Aug 2026 13:15:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ad118b8ce82d77c7113d6f21951613a1",
+    "fetched_at": "2026-08-10T12:51:58.001175+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hundreds join Copenhagen kayak parade in support of Greenland",
+    "summary": "Hundreds of kayakers paddled through Copenhagen harbour on Sunday waving Greenlandic flags, marking the International Day of the World's Indigenous Peoples in a show of solidarity with Greenland.",
+    "link": "http://www.euronews.com/video/2026/08/10/hundreds-join-copenhagen-kayak-parade-in-support-of-greenland",
+    "published": "Mon, 10 Aug 2026 13:30:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "be6d36fa3f25623bff6f8cdbb50b888a",
+    "fetched_at": "2026-08-10T12:51:56.886248+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Firefighters battle wildfire in eastern Spain's Castellón",
+    "summary": "More than 300 firefighters and 21 aircraft are battling a wildfire in Tírig, eastern Spain, which has burned 810 hectares since breaking out on Friday.",
+    "link": "http://www.euronews.com/video/2026/08/10/firefighters-battle-wildfire-in-eastern-spains-castellon",
+    "published": "Mon, 10 Aug 2026 14:26:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "525729bae70d009d30df54b01ddbce8c",
+    "fetched_at": "2026-08-10T12:51:55.751308+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Days of heavy rain leave at least 13 dead in Philippines, rescuers say",
+    "summary": "The Philippines is the first major landmass facing the Pacific cyclone belt and the archipelago is hit by an average of 20 storms and typhoons each year.",
+    "link": "http://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say",
+    "published": "Mon, 10 Aug 2026 14:37:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "27da4bdba0c1e7e0468f9484fa2a0304",
+    "fetched_at": "2026-08-10T12:51:54.587556+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World's oceans hit record-high July temperatures",
+    "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+    "source": "BBC News",
+    "id": "f0e9bef5e0d1b9cc4959603ba50fac64",
+    "fetched_at": "2026-08-10T12:51:53.446103+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+    "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
+    "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+    "published": "Mon, 10 Aug 2026 07:42:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "cec0b629600df5d34500b28c491b9ad0",
+    "fetched_at": "2026-08-10T12:51:52.302211+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+    "summary": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
+    "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+    "published": "Mon, 10 Aug 2026 08:39:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b973b27e56625b11824d51000aae72b",
+    "fetched_at": "2026-08-10T12:51:51.167431+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+    "summary": "\"What was meant to be a joyful family outing ended in unimaginable tragedy,\" said colleagues of the woman who died.",
+    "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 11:28:01 GMT",
+    "source": "BBC News",
+    "id": "bddf7e22da0a75c475b74b4934d09005",
+    "fetched_at": "2026-08-10T12:51:49.875863+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
     "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
     "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "bbc4da856a1fddf3a16d71e324490d0e",
     "fetched_at": "2026-08-09T18:28:25.416680+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-    "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-    "published": "Fri, 07 Aug 2026 11:41:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "59ae999027e5b0ccea3addadca8973c5",
-    "fetched_at": "2026-08-09T18:28:24.269575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Solar eclipse to occur next week. Here is what to know",
-    "summary": "It will be visible in parts of the U.S. on Wednesday.",
-    "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
-    "published": "Sat, 08 Aug 2026 20:56:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "c939d73e0c469bb707e5feff13dca952",
-    "fetched_at": "2026-08-09T18:28:23.114185+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-    "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 17:41:30 GMT",
-    "source": "BBC News",
-    "id": "8a3954f35a86caeae929dffdbcafa7b2",
-    "fetched_at": "2026-08-09T18:28:21.968216+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-    "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 15:34:04 GMT",
-    "source": "BBC News",
-    "id": "3eb02b5f063893ffecc395c0bb5ab6c1",
-    "fetched_at": "2026-08-09T16:25:02.254979+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 9th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-evening",
-    "published": "Sun, 09 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0b66166c3a2c6c4eb1374344abc6555a",
-    "fetched_at": "2026-08-09T16:25:02.254977+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones spotted over German base days after Leipzig bomb incident",
-    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
-    "source": "BBC News",
-    "id": "79d2b250eec45170bb30649a2a9f7a38",
-    "fetched_at": "2026-08-09T16:25:02.254973+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran’s president blames foreign pressure as expert warns regime's economy nears breaking point",
-    "summary": "Reports of Iranians stealing bread, cheese and meat from supermarkets align with food inflation exceeding 112%, raising fears of a breaking point.",
-    "link": "https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point",
-    "published": "Thu, 06 Aug 2026 11:33:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2ef52d2296d707176b6f53cba1d9abf1",
-    "fetched_at": "2026-08-09T16:25:02.254971+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US says North Korea missile launch poses no immediate threat, 'consulting closely' with allies",
-    "summary": "U.S. Indo-Pacific Command said it is &quot;consulting closely with our allies and partners&quot; Thursday after North Korea test-fired a ballistic missile.",
-    "link": "https://www.foxnews.com/world/us-north-korea-missile-launch-poses-no-immediate-threat-consulting-closely-allies",
-    "published": "Thu, 06 Aug 2026 12:25:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "371f9f38f2f721b6ef6ff16b61dcf390",
-    "fetched_at": "2026-08-09T16:25:02.254968+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
-    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
-    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b1c6f5739f70c6fa34e97217a2323f20",
-    "fetched_at": "2026-08-09T16:25:02.254937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
-    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ad711f40422bd10137d4771e22894",
-    "fetched_at": "2026-08-09T16:25:01.151355+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Student perpetrates deadly shooting at Thailand high school, authorities say",
-    "summary": "A student opened fire at a high school in Thailand on Friday, ending the lives of at least six individuals and injuring others, police said.",
-    "link": "https://www.foxnews.com/world/student-perpetrates-deadly-shooting-thailand-high-school-authorities-say",
-    "published": "Fri, 07 Aug 2026 06:12:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "11d77fc67b38a75a35d048ac7166bf41",
-    "fetched_at": "2026-08-09T16:25:00.025344+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
-    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
-    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
-    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "733511e3df9becdabfd8adb34dc3023d",
-    "fetched_at": "2026-08-09T16:24:58.920848+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
-    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
-    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
-    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "453f03c67b852df080480596e03dd881",
-    "fetched_at": "2026-08-09T16:24:57.705510+00:00"
   }
 ]
