@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | August 10th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-evening",
+    "published": "Mon, 10 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "233ee02576d7485371b788bfe9a7b94b",
+    "fetched_at": "2026-08-10T16:44:56.836038+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 17:42:54 GMT",
+    "source": "BBC News",
+    "id": "bbc4da856a1fddf3a16d71e324490d0e",
+    "fetched_at": "2026-08-10T16:44:56.836037+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
+    "source": "BBC News",
+    "id": "84e0f0354936221be8a9aeb2559d173a",
+    "fetched_at": "2026-08-10T16:44:56.836034+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
+    "source": "BBC News",
+    "id": "fc75e66e1473892367886322373f509f",
+    "fetched_at": "2026-08-10T16:44:56.836001+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
+    "summary": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
+    "link": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
+    "published": "Sun, 09 Aug 2026 15:34:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "054246829aa7f543359895a558e99839",
+    "fetched_at": "2026-08-10T16:44:55.690406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+    "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
+    "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+    "published": "Sun, 09 Aug 2026 14:21:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "1c446a91b73616c7b7aa4601701b31f1",
+    "fetched_at": "2026-08-10T16:44:54.574161+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+    "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
+    "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+    "published": "Mon, 10 Aug 2026 12:08:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "233e92d43a3d2e2de31a6fbbac2d8489",
+    "fetched_at": "2026-08-10T16:44:53.450072+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
+    "summary": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
+    "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 15:10:33 GMT",
+    "source": "BBC News",
+    "id": "5cd1fd5e4e748f056420cc401dfe0ba4",
+    "fetched_at": "2026-08-10T16:44:52.292233+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+    "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:43:08 GMT",
+    "source": "BBC News",
+    "id": "09d7a914b3b5ce652a477a0a08602d83",
+    "fetched_at": "2026-08-10T16:44:51.174675+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Not afraid to stay': The Canadians who want to change how wildfires are fought",
+    "summary": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 23:02:39 GMT",
+    "source": "BBC News",
+    "id": "589ebf01882fde8627f74fc656481b00",
+    "fetched_at": "2026-08-10T16:44:50.011204+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+    "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 16:10:56 GMT",
+    "source": "BBC News",
+    "id": "ed3fda28b64517c16eefc2daed6af9f2",
+    "fetched_at": "2026-08-10T16:44:48.846741+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Saudi factory fire kills 16 Bangladeshis, Dhaka announces",
     "summary": "Bangladesh's foreign ministry reported \"the tragic deaths of 16 Bangladeshi nationals in a fire at a sofa manufacturing factory in Riyadh\" in its Monday statement.",
     "link": "http://www.euronews.com/2026/08/10/saudi-factory-fire-kills-16-bangladeshis-dhaka-announces",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "eea30f55f60e4a3a3543592d77e0530b",
     "fetched_at": "2026-08-10T03:45:58.390526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Evidence that South African special forces murdered top detective shared with BBC",
-    "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 23:05:29 GMT",
-    "source": "BBC News",
-    "id": "f1dc61f75b67912b98a91831b91c6e47",
-    "fetched_at": "2026-08-10T01:09:26.677611+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Coroners try to identify dozens of bodies kept in 'deplorable conditions' at US funeral home",
-    "summary": "The medical examiner's office in Chicago said the process to identify the remains could take days.",
-    "link": "https://www.bbc.co.uk/news/articles/c86nv0elnzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:58:14 GMT",
-    "source": "BBC News",
-    "id": "666e2a56c40481185b5e0c3be0c26c55",
-    "fetched_at": "2026-08-10T01:09:25.490659+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-    "summary": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 22:07:00 GMT",
-    "source": "BBC News",
-    "id": "e2ef1a0474065f9ddc955765edc8cafe",
-    "fetched_at": "2026-08-10T01:09:24.323144+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-    "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 17:23:31 GMT",
-    "source": "BBC News",
-    "id": "cc5166a8d97281c0fb3fbf6cfe257f87",
-    "fetched_at": "2026-08-10T01:09:23.072388+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain's migrant surge reignites debate over Europe’s Islamist terror threat",
-    "summary": "Spain recorded the EU&apos;s highest number of jihadist terrorism arrests in 2025 as suspected extremists were identified among 72,000 migrants flooding into Ceuta.",
-    "link": "https://www.foxnews.com/world/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
-    "published": "Sat, 08 Aug 2026 09:23:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "692e97d309cd0654f1b5640497297e03",
-    "fetched_at": "2026-08-09T22:21:45.075202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
-    "summary": "Draganfly CEO Cameron Chell says drone company leaders are now primary targets as Russia and Ukraine race for battlefield AI and autonomy advantages.",
-    "link": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
-    "published": "Sun, 09 Aug 2026 17:29:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "084e9ac3b5986f10e0f6e27435d20514",
-    "fetched_at": "2026-08-09T22:21:43.971923+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Iran's 'Axis of Resistance' has shaped the war",
-    "summary": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
-    "link": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
-    "published": "Sun, 09 Aug 2026 17:27:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "7deca127c182114002e0612b99da9eea",
-    "fetched_at": "2026-08-09T22:21:42.877437+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Demi Vollering wins Tour de France for the 2nd time",
-    "summary": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney.",
-    "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
-    "published": "Sun, 09 Aug 2026 18:00:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "460d922e67f25af47a7dfde4e64b52c4",
-    "fetched_at": "2026-08-09T22:21:41.762819+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-    "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 15:56:39 GMT",
-    "source": "BBC News",
-    "id": "92ad35377f5255e5877512cb1b64549d",
-    "fetched_at": "2026-08-09T22:21:40.648803+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
-    "summary": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
-    "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 00:15:28 GMT",
-    "source": "BBC News",
-    "id": "1b00294b021aaeaa2aacf13d9bd41c23",
-    "fetched_at": "2026-08-09T20:22:38.043659+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-    "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 04:32:06 GMT",
-    "source": "BBC News",
-    "id": "086f912c172a69d71b59fcd1a4e58160",
-    "fetched_at": "2026-08-09T20:22:36.935126+00:00"
   }
 ]
