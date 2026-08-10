@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Western Europe sets new temperature record as heat waves continue to pummel region",
+    "summary": "Last month saw the highest average sea surface temperature ever recorded for July across the extra-polar oceans, or the oceans free of seasonal sea ice, Copernicus said.",
+    "link": "http://www.euronews.com/2026/08/10/western-europe-sets-new-temperature-record-as-heat-waves-continue-to-pummel-region",
+    "published": "Mon, 10 Aug 2026 06:10:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e083de0db4da47c15fd804673f8cede1",
+    "fetched_at": "2026-08-10T05:18:43.533658+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 10th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-morning",
+    "published": "Mon, 10 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2b25fcdf15432ed6c8240242f5e8eb34",
+    "fetched_at": "2026-08-10T05:18:42.387782+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+    "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+    "source": "BBC News",
+    "id": "04fed5edd7a41a0291ef3fd5e01819c6",
+    "fetched_at": "2026-08-10T05:18:41.247127+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
+    "source": "BBC News",
+    "id": "4742e5695eec02a58812c916d3f2f849",
+    "fetched_at": "2026-08-10T05:18:39.976788+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 9th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-midday",
@@ -558,45 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "6d31f922b3d273e3891bb21cd64f76ff",
     "fetched_at": "2026-08-09T12:34:33.654478+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-    "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:40:56 GMT",
-    "source": "BBC News",
-    "id": "aa3e531370bbcb8b65881cb0604477e8",
-    "fetched_at": "2026-08-09T12:34:32.515717+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-    "summary": "Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine.",
-    "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
-    "published": "Sat, 08 Aug 2026 13:46:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "3a316113c56bea2e660db6c56dbae37c",
-    "fetched_at": "2026-08-09T12:34:31.370728+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-    "summary": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
-    "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
-    "published": "Sun, 09 Aug 2026 07:58:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "6313451db8ed48377d8a3f506e774751",
-    "fetched_at": "2026-08-09T12:34:30.228482+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'My neighbourhood is just gone' - BBC sees devastation from Washington state fires",
-    "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings.",
-    "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 01:10:58 GMT",
-    "source": "BBC News",
-    "id": "647339eeafd8b97be101e2d6bf4060f3",
-    "fetched_at": "2026-08-09T12:34:29.080590+00:00"
   }
 ]
