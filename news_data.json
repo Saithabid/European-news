@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+    "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+    "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:50:10 GMT",
+    "source": "BBC News",
+    "id": "f0343eb56fa70660bfb6346ad8758d35",
+    "fetched_at": "2026-08-11T22:33:53.985948+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Belarusian opposition politician and scientist Aliaksandr Milinkevich dies at 79",
+    "summary": "The former Sakharov Prize laureate ran against Aliaksandr Lukashenka for the Belarusian presidency in 2006.",
+    "link": "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79",
+    "published": "Tue, 11 Aug 2026 22:47:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d8d2ffb60ee79131fd1a40d993a23da3",
+    "fetched_at": "2026-08-11T22:33:52.870319+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
+    "source": "BBC News",
+    "id": "fc75e66e1473892367886322373f509f",
+    "fetched_at": "2026-08-11T22:33:51.757046+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+    "source": "BBC News",
+    "id": "63e0b1893682ab3113ab49ba53a23931",
+    "fetched_at": "2026-08-11T22:33:50.641020+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+    "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
+    "source": "BBC News",
+    "id": "c8532d47b8f7a74a20c3fdec57a44391",
+    "fetched_at": "2026-08-11T22:33:49.515410+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
     "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
     "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
     "fetched_at": "2026-08-11T12:46:10.722560+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Russia and Ukraine can't stop each other's air attacks",
-    "summary": "Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks",
-    "published": "Mon, 10 Aug 2026 16:14:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "120a7b14e172f78fbfb8a64e058facd6",
-    "fetched_at": "2026-08-11T12:46:09.583169+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-    "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-    "published": "Tue, 11 Aug 2026 07:11:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "c996bd771dea024d29dae59878322d25",
-    "fetched_at": "2026-08-11T12:46:08.429655+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-    "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-    "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 10:00:04 GMT",
-    "source": "BBC News",
-    "id": "eef912aae9e11b33b0485134294d102c",
-    "fetched_at": "2026-08-11T12:46:07.289289+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The big questions in Luigi Mangione case as he returns to court",
-    "summary": "His trial is a month away and his lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
-    "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 11:35:20 GMT",
-    "source": "BBC News",
-    "id": "0bf989a8a4222de0eeae96e7645d23ff",
-    "fetched_at": "2026-08-11T12:46:06.141301+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
-    "summary": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
-    "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 07:55:22 GMT",
-    "source": "BBC News",
-    "id": "626cdabacfe8fd4cd7dcd79bf76a8b7a",
-    "fetched_at": "2026-08-11T10:43:20.333561+00:00"
   }
 ]
