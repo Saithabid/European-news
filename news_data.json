@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+    "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 19:09:52 GMT",
+    "source": "BBC News",
+    "id": "eb96d42f3ae600786a59947bd4114fa6",
+    "fetched_at": "2026-08-11T20:35:52.988289+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia frees former US Marine Robert Gilman after more than four years in prison",
+    "summary": "Gilman was arrested and detained in Russia in 2022, accused of assaulting a police officer following an incident on a train in Voronezh, to the south of Moscow.",
+    "link": "http://www.euronews.com/2026/08/11/russia-frees-former-us-marine-robert-gilman-after-more-than-four-years-in-prison",
+    "published": "Tue, 11 Aug 2026 19:33:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d2ff463292f175c23f1ccfcc60f6d80e",
+    "fetched_at": "2026-08-11T20:35:52.988262+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ferry capsizes on Lake Kariba in Zimbabwe with 95 people on board",
+    "summary": "Locals are said to use the ferry to get from rural parts of the region to the town of Kariba, which is on the north side of Lake Kariba, close to the border with Zambia.",
+    "link": "http://www.euronews.com/2026/08/11/ferry-capsizes-on-lake-kariba-in-zimbabwe-with-95-people-on-board",
+    "published": "Tue, 11 Aug 2026 21:37:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9b929b63431ab7a2dea8a0e99c6aec55",
+    "fetched_at": "2026-08-11T20:35:51.879543+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
+    "summary": "A United Nations-backed survey found no widespread acute malnutrition in Gaza, prompting Israel&apos;s ambassador to call prior famine claims a blood libel.",
+    "link": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
+    "published": "Tue, 11 Aug 2026 06:00:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "99b750e6501380bfa48cc5fdad9828b1",
+    "fetched_at": "2026-08-11T20:35:50.774422+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China's courts side with workers displaced by AI, but job anxiety persists",
+    "summary": "China's workers are vulnerable as the push to adopt AI comes from top leaders amid a sluggish economy.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
+    "published": "Mon, 10 Aug 2026 16:14:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "f5923553f07d2ddc9015a8bb22bad0a1",
+    "fetched_at": "2026-08-11T20:35:49.675178+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Syrian President Assad sentenced to death in absentia",
+    "summary": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+    "published": "Tue, 11 Aug 2026 06:07:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "ce89af79876e46f82deecd83721765e8",
+    "fetched_at": "2026-08-11T20:35:48.572093+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Miss Universe Canada contestants apologise for wearing indigenous dress",
+    "summary": "\"My outfit caused hurt and offence to people in the indigenous community,\" one of the contestants said after the pageant.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kv12nqx6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 18:04:48 GMT",
+    "source": "BBC News",
+    "id": "b4cc808ef8eebe7ec8adfd7e1b5bbd70",
+    "fetched_at": "2026-08-11T20:35:47.459657+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+    "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 20:04:11 GMT",
+    "source": "BBC News",
+    "id": "255f1085da36560225fa9ff089548430",
+    "fetched_at": "2026-08-11T20:35:46.327826+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+    "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:47:28 GMT",
+    "source": "BBC News",
+    "id": "a3a1ebd94ae5b6d258432fa62ea272a9",
+    "fetched_at": "2026-08-11T20:35:45.214405+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Former judge removed by Orbán elected Hungarian president",
     "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
     "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "626cdabacfe8fd4cd7dcd79bf76a8b7a",
     "fetched_at": "2026-08-11T10:43:20.333561+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Libyan authorities battle big blaze at major oil refinery",
-    "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
-    "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 08:28:24 GMT",
-    "source": "BBC News",
-    "id": "611c13c34165798e6f770ca8beb277b4",
-    "fetched_at": "2026-08-11T10:43:20.333558+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-    "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-    "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 09:42:48 GMT",
-    "source": "BBC News",
-    "id": "f0343eb56fa70660bfb6346ad8758d35",
-    "fetched_at": "2026-08-11T10:43:20.333555+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
-    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 09:39:58 GMT",
-    "source": "BBC News",
-    "id": "63e0b1893682ab3113ab49ba53a23931",
-    "fetched_at": "2026-08-11T10:43:20.333552+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Syria sentences Bashar al-Assad to death in absentia for war crimes and crimes against humanity",
-    "summary": "A Syrian court handed death sentences to Bashar al-Assad and his brother Maher — both in absentia — alongside their cousin Atef Najib, who attended the trial in a cage and was found guilty of leading the 2011 Daraa crackdown that sparked the civil war.",
-    "link": "http://www.euronews.com/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-for-war-crimes-and-crimes-against-hum",
-    "published": "Tue, 11 Aug 2026 11:09:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "69e753d48d5d313197c53584207bd7e3",
-    "fetched_at": "2026-08-11T10:43:20.333548+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran executes woman who claimed self-defence against sexual assault",
-    "summary": "Marzieh Nieri, 23, was executed at Qazvin Central Prison after a court rejected her account of wounding a man who had attempted to assault her, bringing the number of women executed in Iran since the start of 2026 to at least 14.",
-    "link": "http://www.euronews.com/2026/08/11/iran-executes-woman-who-claimed-self-defence-against-sexual-assault",
-    "published": "Tue, 11 Aug 2026 11:13:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2badcdaff60121ed0d05e42ffab265c7",
-    "fetched_at": "2026-08-11T10:43:20.333545+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 11th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/11/latest-news-bulletin-august-11th-2026-midday",
-    "published": "Tue, 11 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2fd0a6cdf38f711bb0497cee1b7ba2c1",
-    "fetched_at": "2026-08-11T10:43:20.333542+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Deadly earthquake in Colombia hits Manizales, damaging cathedral and homes",
-    "summary": "Manizales, in Colombia’s western Caldas department, was among the areas hardest hit by Monday’s 7.4-magnitude earthquake, with streets littered with rubble as rescue teams searched damaged buildings for survivors.",
-    "link": "http://www.euronews.com/video/2026/08/11/deadly-earthquake-in-colombia-hits-manizales-damaging-cathedral-and-homes",
-    "published": "Tue, 11 Aug 2026 12:09:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "86ef66ab6fc4775939dd4f58a4035541",
-    "fetched_at": "2026-08-11T10:43:20.333516+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-    "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
-    "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 16:13:45 GMT",
-    "source": "BBC News",
-    "id": "84e0f0354936221be8a9aeb2559d173a",
-    "fetched_at": "2026-08-11T10:43:19.219982+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
-    "source": "BBC News",
-    "id": "fc75e66e1473892367886322373f509f",
-    "fetched_at": "2026-08-11T10:43:18.082974+00:00"
   }
 ]
