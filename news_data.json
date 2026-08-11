@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Thailand suspends new gun permits after mass shooting",
+    "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 15:11:54 GMT",
+    "source": "BBC News",
+    "id": "0ed73c00ab9fd34f65809368f6f026d5",
+    "fetched_at": "2026-08-11T16:51:01.596492+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+    "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 15:41:13 GMT",
+    "source": "BBC News",
+    "id": "ae38b6c44d23803eff6375bfcc53823c",
+    "fetched_at": "2026-08-11T16:51:01.596490+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lebanon parliament votes to abolish death penalty",
+    "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+    "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 15:24:07 GMT",
+    "source": "BBC News",
+    "id": "18d55094b65feea3198798c346494c6f",
+    "fetched_at": "2026-08-11T16:51:01.596488+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Family escapes home during Colombia earthquake",
+    "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+    "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 10:12:21 GMT",
+    "source": "BBC News",
+    "id": "cc9b3eb27acd11221aa64fb4f083563c",
+    "fetched_at": "2026-08-11T16:51:01.596485+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italy’s Po river runs low as drought threatens farms and water supplies",
+    "summary": "Italy’s Po River has fallen to historically low levels as the country endures its fourth heatwave of the summer, exposing wide stretches of dry riverbed near Pavia and raising fresh concerns over water supplies and farming across northern Italy.",
+    "link": "http://www.euronews.com/video/2026/08/11/italys-po-river-runs-low-as-drought-threatens-farms-and-water-supplies",
+    "published": "Tue, 11 Aug 2026 16:54:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a699804bb001a681564d76f8893887b8",
+    "fetched_at": "2026-08-11T16:51:01.596483+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 11th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/11/latest-news-bulletin-august-11th-2026-evening",
+    "published": "Tue, 11 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5ee267bb3f366c36b666f1654f358217",
+    "fetched_at": "2026-08-11T16:51:01.596479+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bulgaria lights up its Black Sea coast with digital art festival",
+    "summary": "Bulgaria’s southern Black Sea coast became an open‑air gallery from 7 to 10 August, as the second LUNAR: Sea of Lights festival brought 17 light and digital artworks to five seaside communities.",
+    "link": "http://www.euronews.com/video/2026/08/11/bulgaria-lights-up-its-black-sea-coast-with-digital-art-festival",
+    "published": "Tue, 11 Aug 2026 18:01:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b8b28cfb1531e1599d20dc5d40052c41",
+    "fetched_at": "2026-08-11T16:51:01.596448+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+    "source": "BBC News",
+    "id": "79d2b250eec45170bb30649a2a9f7a38",
+    "fetched_at": "2026-08-11T16:51:00.389743+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "6c76acecc65c415828c86b2e0e4ffd19",
+    "fetched_at": "2026-08-11T16:50:59.252233+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+    "published": "Tue, 11 Aug 2026 01:48:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "d69cf11aa3cffa976b84f2bba501ea16",
+    "fetched_at": "2026-08-11T16:50:58.123852+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+    "published": "Tue, 11 Aug 2026 02:03:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "9049ed6da926ba4e0bfbd31516bda2ce",
+    "fetched_at": "2026-08-11T16:50:56.986698+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
+    "summary": "The actress responds to social media critics who suggested her bump didn't look real at a premiere.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 16:07:08 GMT",
+    "source": "BBC News",
+    "id": "ce45ed6cfab82a69e21473d9dfb4c5e0",
+    "fetched_at": "2026-08-11T16:50:55.851457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone captures devastating aftermath of Spokane wildfires",
+    "summary": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
+    "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:02:07 GMT",
+    "source": "BBC News",
+    "id": "aaf24b461f7bdea82db241d270ec728d",
+    "fetched_at": "2026-08-11T16:50:54.712654+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia releases former US Marine reported in poor health",
+    "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 15:47:53 GMT",
+    "source": "BBC News",
+    "id": "91517b773560b77f7303bde3eae9cf9f",
+    "fetched_at": "2026-08-11T16:50:53.568268+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mexican crews expected to arrive for wildfire fight in western Canada after 20,000 flee",
     "summary": "The Royal Canadian Mounted Police have opened a criminal investigation into the cause of the fire, which broke out on Friday.",
     "link": "http://www.euronews.com/2026/08/11/mexican-crews-expected-to-arrive-for-wildfire-fight-in-western-canada-after-20000-flee",
@@ -458,145 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "f4e67584fed0b0fcbff9353f65291626",
     "fetched_at": "2026-08-11T08:45:34.113912+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rescuers search rubble in Cali as Colombia’s strongest quake in decades hits",
-    "summary": "Rescuers in Cali search rubble after Colombia’s strongest quake this century, which killed over 130 people, left hundreds injured and many missing.",
-    "link": "http://www.euronews.com/video/2026/08/11/rescuers-search-rubble-in-cali-as-colombias-strongest-quake-in-decades-hits",
-    "published": "Tue, 11 Aug 2026 08:53:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "77bcb7eb9e60c5f1ec7f4879fa0038fc",
-    "fetched_at": "2026-08-11T08:45:34.113908+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia fired North Korean missiles in attack that killed six in Zaporizhzhia, Zelenskyy says",
-    "summary": "Ukraine's president has repeatedly sounded the alarm over deepening military ties between Moscow and Pyongyang, often while appealing for more Western air-defence supplies.",
-    "link": "http://www.euronews.com/2026/08/11/russia-fired-north-korean-missiles-in-attack-that-killed-six-in-zaporizhzhia-zelenskyy-say",
-    "published": "Tue, 11 Aug 2026 10:14:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b515ecd8f07b5962428dc13ea5a3305b",
-    "fetched_at": "2026-08-11T08:45:34.113881+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia's PM Anthony Albanese under fire for 'melons' gag about Japanese leader",
-    "summary": "Asked whether he would say sorry for his \"disrespectful behaviour\" in parliament on Tuesday, the Australian leader said: \"I reject the assertion in the question.\"",
-    "link": "http://www.euronews.com/2026/08/11/australias-pm-anthony-albanese-under-fire-for-melons-gag-about-japanese-leader",
-    "published": "Tue, 11 Aug 2026 10:32:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9dd66b6d58e7f830063349df17c8f8bd",
-    "fetched_at": "2026-08-11T08:45:32.974877+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
-    "summary": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
-    "link": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
-    "published": "Sun, 09 Aug 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "054246829aa7f543359895a558e99839",
-    "fetched_at": "2026-08-11T08:45:31.850411+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-    "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
-    "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-    "published": "Mon, 10 Aug 2026 12:08:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "233e92d43a3d2e2de31a6fbbac2d8489",
-    "fetched_at": "2026-08-11T08:45:30.713923+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-    "summary": "Kashmir, the disputed region at the center of the rivalry between Pakistan and India, is now holding elections amid demands for better representation and calls for a boycott.",
-    "link": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-    "published": "Tue, 11 Aug 2026 04:31:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "0c9b96e765fca2a3602d438c9ed61f5a",
-    "fetched_at": "2026-08-11T08:45:29.574303+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
-    "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
-    "link": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 06:33:03 GMT",
-    "source": "BBC News",
-    "id": "e72c62bd0ce1cc0d2d1fdedf7a7a5aaf",
-    "fetched_at": "2026-08-11T08:45:28.431472+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-    "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 08:44:52 GMT",
-    "source": "BBC News",
-    "id": "cfcbfc03ba2849655ffb0b10be4a3047",
-    "fetched_at": "2026-08-11T08:45:27.270089+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-    "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 19:17:11 GMT",
-    "source": "BBC News",
-    "id": "ed3fda28b64517c16eefc2daed6af9f2",
-    "fetched_at": "2026-08-11T08:45:26.133494+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
-    "summary": "The order recommends giving all childhood vaccinations at separate visits whenever feasible, which had earlier been blocked by a federal judge, and dividing the measles, mumps, and rubella vaccine into three distinct single injections",
-    "link": "http://www.euronews.com/health/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
-    "published": "Tue, 11 Aug 2026 06:31:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "64d3ac7e89e285c6af2fbb37437222fd",
-    "fetched_at": "2026-08-11T06:53:54.160497+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 11th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/11/latest-news-bulletin-august-11th-2026-morning",
-    "published": "Tue, 11 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e9904c32697c6685381f7936b676efc5",
-    "fetched_at": "2026-08-11T06:53:53.047606+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kazakhstan offers crypto amnesty as it seeks to bring billions in digital assets home",
-    "summary": "Astana has introduced tax incentives and regulatory reforms to encourage crypto investors to move their digital assets onto domestic licensed platforms, hoping to revive an industry that largely left after a post-mining-boom halt.",
-    "link": "http://www.euronews.com/next/2026/08/11/kazakhstan-offers-crypto-amnesty-as-it-seeks-to-bring-billions-in-digital-assets-home",
-    "published": "Tue, 11 Aug 2026 07:00:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "39cbb999b8fb24075846ad7cdda41728",
-    "fetched_at": "2026-08-11T06:53:51.931185+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain’s Huelva blaze threatens homes, 800 evacuated amid severe drought",
-    "summary": "A massive wildfire in Spain’s Huelva province has forced 800 evacuations, burned around 20,000 hectares and comes during Europe’s worsening drought crisis.",
-    "link": "http://www.euronews.com/video/2026/08/11/spains-huelva-blaze-threatens-homes-800-evacuated-amid-severe-drought",
-    "published": "Tue, 11 Aug 2026 08:38:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cf55612b89e074e388421aedc49ec847",
-    "fetched_at": "2026-08-11T06:53:50.821869+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 132 dead, 570 injured after Colombia quake: Cali and Pereira impose curfew",
-    "summary": "The cities of Cali, Pereira and Caldas have imposed night-time curfews after extensive damage from the 7.4-magnitude quake, to deter looting and support emergency crews.",
-    "link": "http://www.euronews.com/2026/08/11/at-least-132-dead-570-injured-after-colombia-quake-cali-and-pereira-impose-curfew",
-    "published": "Tue, 11 Aug 2026 08:45:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "396b4528ffd237029649c39a0b31815d",
-    "fetched_at": "2026-08-11T06:53:49.676760+00:00"
   }
 ]
