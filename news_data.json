@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
+    "summary": "More than 900 flights, or about 40% of those expected, were cancelled in Shanghai’s Hongqiao and Pudong airports after about 1,300 were canceled the day before, according to Shanghai Airport Group.",
+    "link": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
+    "published": "Tue, 11 Aug 2026 06:14:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2dd01bb964a9c6ad9d2a8cc1615aefb4",
+    "fetched_at": "2026-08-11T04:59:44.471132+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
+    "summary": "The order recommends giving all childhood vaccinations at separate visits whenever feasible, which had earlier been blocked by a federal judge, and dividing the measles, mumps, and rubella vaccine into three distinct single injections",
+    "link": "http://www.euronews.com/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
+    "published": "Tue, 11 Aug 2026 06:31:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e86140a0e6df59fd4d715261b9f3eea1",
+    "fetched_at": "2026-08-11T04:59:43.227653+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "733511e3df9becdabfd8adb34dc3023d",
+    "fetched_at": "2026-08-11T04:59:41.981228+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
+    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "453f03c67b852df080480596e03dd881",
+    "fetched_at": "2026-08-11T04:59:40.836244+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "6c76acecc65c415828c86b2e0e4ffd19",
+    "fetched_at": "2026-08-11T04:59:39.685898+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
     "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
     "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "b65c5f934c68958419c5afcbed6f681f",
     "fetched_at": "2026-08-10T14:51:31.258166+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Chess player' Iran says Hormuz stays shut until US pays up",
-    "summary": "Iran's foreign ministry spokesperson shot back that Iranians had \"shown they are professional chess players\" after Trump said he was \"low-keying it\" and likened talks with Tehran to a chess game.",
-    "link": "http://www.euronews.com/2026/08/10/chess-player-iran-says-hormuz-stays-shut-until-us-pays-up",
-    "published": "Mon, 10 Aug 2026 15:26:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e81ed7140d7b87d7fd2845029fa5a2be",
-    "fetched_at": "2026-08-10T14:51:31.258163+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Powerful 6.6-magnitude quake rocks Colombia, geological agency says",
-    "summary": "The Colombian geological service put the magnitude of the quake at 6.6 while its American counterpart USGS put it at 7.4.",
-    "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
-    "published": "Mon, 10 Aug 2026 15:42:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4480e970c2b96286234b4b43931135a9",
-    "fetched_at": "2026-08-10T14:51:31.258135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones spotted over German base days after Leipzig bomb incident",
-    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
-    "source": "BBC News",
-    "id": "79d2b250eec45170bb30649a2a9f7a38",
-    "fetched_at": "2026-08-10T14:51:30.150171+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands of migrants remain in Spanish territory after border rush, death toll hits about 100: Ceuta official",
-    "summary": "Ceuta president Juan Jesus Vivas told the European Parliament that at least 100 people died in the border rush and thousands of migrants remain.",
-    "link": "https://www.foxnews.com/world/thousands-migrants-remain-spanish-territory-border-rush-death-toll-hits-100-ceuta-official",
-    "published": "Thu, 06 Aug 2026 13:16:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b1c6f5739f70c6fa34e97217a2323f20",
-    "fetched_at": "2026-08-10T14:51:29.047813+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American ex-Marine feared near death after weeks in catatonic state in Russian prison",
-    "summary": "Robert Gilman has been fed through a tube for 46 days after falling into a stupor, and advocacy groups say Russia has barred his mother from visiting.",
-    "link": "https://www.foxnews.com/world/american-ex-marine-feared-near-death-after-weeks-catatonic-state-russian-prison",
-    "published": "Thu, 06 Aug 2026 16:22:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ad711f40422bd10137d4771e22894",
-    "fetched_at": "2026-08-10T14:51:27.943347+00:00"
   }
 ]
