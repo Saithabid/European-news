@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Mexican crews expected to arrive for wildfire fight in western Canada after 20,000 flee",
+    "summary": "The Royal Canadian Mounted Police have opened a criminal investigation into the cause of the fire, which broke out on Friday.",
+    "link": "http://www.euronews.com/2026/08/11/mexican-crews-expected-to-arrive-for-wildfire-fight-in-western-canada-after-20000-flee",
+    "published": "Tue, 11 Aug 2026 16:06:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bff7058421142adba34be2da18a1da0c",
+    "fetched_at": "2026-08-11T14:51:35.599725+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France’s oldest lumberjack contest puts axe skills to the test",
+    "summary": "France’s 73rd lumberjacking championship in Chamrousse saw 60 competitors race axes through logs, preserving Alpine forestry traditions for 2,000 spectators.",
+    "link": "http://www.euronews.com/video/2026/08/11/frances-oldest-lumberjack-contest-puts-axe-skills-to-the-test",
+    "published": "Tue, 11 Aug 2026 16:37:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "456e411002163becff6963e6b9ed3523",
+    "fetched_at": "2026-08-11T14:51:35.599723+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ancient Roman shipwreck discovered off Sicily coast",
+    "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 12:27:26 GMT",
+    "source": "BBC News",
+    "id": "dd501664c14565a5254146ab0a6d0836",
+    "fetched_at": "2026-08-11T14:51:35.599720+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World's oceans hit record-high July temperatures",
+    "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+    "source": "BBC News",
+    "id": "f0e9bef5e0d1b9cc4959603ba50fac64",
+    "fetched_at": "2026-08-11T14:51:35.599717+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+    "source": "BBC News",
+    "id": "104a9ee1ca92ce3e55f590c6e3e57f92",
+    "fetched_at": "2026-08-11T14:51:35.599714+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France bans unsolicited telemarketing calls",
+    "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:19:45 GMT",
+    "source": "BBC News",
+    "id": "7e17f8ddffc3f09bd8e746c8762e755c",
+    "fetched_at": "2026-08-11T14:51:35.599681+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu rejects Board of Peace's Gaza plan: No 'withdrawal until Hamas is genuinely disarmed'",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu rejects the Board of Peace&apos;s 15-point Gaza proposal, demanding Hamas surrender all weapons before any withdrawal.",
+    "link": "https://www.foxnews.com/world/netanyahu-rejects-board-peace-gaza-plan-no-withdrawal-until-hamas-genuinely-disarmed",
+    "published": "Sun, 09 Aug 2026 09:14:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "171314f96020b41a0dc33eb335ee2aa1",
+    "fetched_at": "2026-08-11T14:51:34.469228+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
+    "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
+    "link": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
+    "published": "Mon, 10 Aug 2026 19:08:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5af1bf25995f078a17c9bf1c7b816954",
+    "fetched_at": "2026-08-11T14:51:33.339952+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Syrian President Assad sentenced to death in absentia",
+    "summary": "Syrian President Bashar Assad and his brother Maher were sentenced to death in absentia by a Damascus court for war crimes and crimes against humanity.",
+    "link": "https://www.foxnews.com/world/former-syrian-president-assad-sentenced-death-absentia",
+    "published": "Tue, 11 Aug 2026 08:58:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "31d154f6a14df7de6d0511b45faf0f72",
+    "fetched_at": "2026-08-11T14:51:32.208064+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+    "summary": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
+    "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+    "published": "Mon, 10 Aug 2026 08:39:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b973b27e56625b11824d51000aae72b",
+    "fetched_at": "2026-08-11T14:51:31.079460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dashcam video shows moment lorry slams into New York overpass",
+    "summary": "The driver aboard the tractor trailer was not injured, but he was ticketed for having a vehicle that exceeded the maximum height.",
+    "link": "https://www.bbc.co.uk/news/videos/crrv12d55pko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 00:40:29 GMT",
+    "source": "BBC News",
+    "id": "3981f3eec17f1f9cf7de6df838cebfbd",
+    "fetched_at": "2026-08-11T14:51:29.935287+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
+    "summary": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 08:08:30 GMT",
+    "source": "BBC News",
+    "id": "dfc6e1ebe7cd6c9afc0992f08ef12ba8",
+    "fetched_at": "2026-08-11T14:51:28.787115+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada flight cancelled after child refuses to wear seat belt",
+    "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+    "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 21:06:27 GMT",
+    "source": "BBC News",
+    "id": "cb0b6a2ba3faa9bbe18952ae3f438e30",
+    "fetched_at": "2026-08-11T14:51:27.628693+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Oil prices and US bond yields rise as Trump and Iran trade reparations demands",
     "summary": "Oil prices and US government bond yields both climbed on Tuesday after US President Donald Trump answered Iran's demand for war reparations with a sweeping counterclaim of his own, pushing a deal to reopen the Strait of Hormuz further out of reach.",
     "link": "http://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands",
@@ -468,135 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "396b4528ffd237029649c39a0b31815d",
     "fetched_at": "2026-08-11T06:53:49.676760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones spotted over German base days after Leipzig bomb incident",
-    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
-    "source": "BBC News",
-    "id": "79d2b250eec45170bb30649a2a9f7a38",
-    "fetched_at": "2026-08-11T06:53:48.539414+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-    "published": "Tue, 11 Aug 2026 01:48:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "d69cf11aa3cffa976b84f2bba501ea16",
-    "fetched_at": "2026-08-11T06:53:47.414692+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-    "published": "Tue, 11 Aug 2026 02:03:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "9049ed6da926ba4e0bfbd31516bda2ce",
-    "fetched_at": "2026-08-11T06:53:46.294739+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
-    "summary": "More than 900 flights, or about 40% of those expected, were cancelled in Shanghai’s Hongqiao and Pudong airports after about 1,300 were canceled the day before, according to Shanghai Airport Group.",
-    "link": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
-    "published": "Tue, 11 Aug 2026 06:14:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2dd01bb964a9c6ad9d2a8cc1615aefb4",
-    "fetched_at": "2026-08-11T04:59:44.471132+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
-    "summary": "The order recommends giving all childhood vaccinations at separate visits whenever feasible, which had earlier been blocked by a federal judge, and dividing the measles, mumps, and rubella vaccine into three distinct single injections",
-    "link": "http://www.euronews.com/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
-    "published": "Tue, 11 Aug 2026 06:31:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e86140a0e6df59fd4d715261b9f3eea1",
-    "fetched_at": "2026-08-11T04:59:43.227653+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
-    "summary": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
-    "link": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
-    "published": "Fri, 07 Aug 2026 18:40:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "733511e3df9becdabfd8adb34dc3023d",
-    "fetched_at": "2026-08-11T04:59:41.981228+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift",
-    "summary": "Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
-    "link": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
-    "published": "Fri, 07 Aug 2026 20:03:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "453f03c67b852df080480596e03dd881",
-    "fetched_at": "2026-08-11T04:59:40.836244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "6c76acecc65c415828c86b2e0e4ffd19",
-    "fetched_at": "2026-08-11T04:59:39.685898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-    "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-    "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 20:45:29 GMT",
-    "source": "BBC News",
-    "id": "71db0980f7faefb4af7a4b6ce0364d2b",
-    "fetched_at": "2026-08-11T03:28:38.690343+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 132 killed in Colombia's largest  earthquake in years",
-    "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-    "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 01:59:40 GMT",
-    "source": "BBC News",
-    "id": "0370e2b14b276a5d14f1a5f677dd2765",
-    "fetched_at": "2026-08-11T03:28:37.594964+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds join Copenhagen kayak parade in support of Greenland",
-    "summary": "Hundreds of kayakers paddled through Copenhagen harbour on Sunday waving Greenlandic flags, marking the International Day of the World's Indigenous Peoples in a show of solidarity with Greenland.",
-    "link": "http://www.euronews.com/video/2026/08/10/hundreds-join-copenhagen-kayak-parade-in-support-of-greenland",
-    "published": "Mon, 10 Aug 2026 13:30:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "be6d36fa3f25623bff6f8cdbb50b888a",
-    "fetched_at": "2026-08-11T03:28:36.493623+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Firefighters battle wildfire in eastern Spain's Castellón",
-    "summary": "More than 300 firefighters and 21 aircraft are battling a wildfire in Tírig, eastern Spain, which has burned 810 hectares since breaking out on Friday.",
-    "link": "http://www.euronews.com/video/2026/08/10/firefighters-battle-wildfire-in-eastern-spains-castellon",
-    "published": "Mon, 10 Aug 2026 14:26:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "525729bae70d009d30df54b01ddbce8c",
-    "fetched_at": "2026-08-11T03:28:35.400509+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Days of heavy rain leave at least 13 dead in Philippines, rescuers say",
-    "summary": "The Philippines is the first major landmass facing the Pacific cyclone belt and the archipelago is hit by an average of 20 storms and typhoons each year.",
-    "link": "http://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say",
-    "published": "Mon, 10 Aug 2026 14:37:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "27da4bdba0c1e7e0468f9484fa2a0304",
-    "fetched_at": "2026-08-11T03:28:34.302882+00:00"
   }
 ]
