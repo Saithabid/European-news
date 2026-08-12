@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+    "summary": "The vessel is said to have overturned after being hit by strong waves.",
+    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 06:21:42 GMT",
+    "source": "BBC News",
+    "id": "ada479ca2a26abd27cef1b12d1272d22",
+    "fetched_at": "2026-08-12T07:13:01.501189+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Colombia: Rescuers search for survivors after 7.6 magnitude earthquake kills 216 people",
+    "summary": "As rescuers search through the rubble for survivors, volunteers join to help clear the wreckage. People brought water and food to the victimes and lined up in front of blood donation centres.",
+    "link": "http://www.euronews.com/2026/08/12/colombia-rescuers-search-for-survivors-after-76-magnitude-earthquake-kills-216-people",
+    "published": "Wed, 12 Aug 2026 07:58:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "821cdbb377ae10ce63363b17bf32b60e",
+    "fetched_at": "2026-08-12T07:13:00.390244+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World markets mixed as oil and gold rise ahead of US inflation data",
+    "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation reading.",
+    "link": "http://www.euronews.com/business/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data",
+    "published": "Wed, 12 Aug 2026 08:34:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4d120c9f0728fc8642ed61e94d478b09",
+    "fetched_at": "2026-08-12T07:12:59.292622+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe scrambles for eclipse glasses as solar power output set to dip",
+    "summary": "Shops and opticians across Europe are running short of certified eclipse glasses ahead of Wednesday’s total solar eclipse, with queues forming in Paris, London and Brussels as demand surges.",
+    "link": "http://www.euronews.com/video/2026/08/12/europe-scrambles-for-eclipse-glasses-as-solar-power-output-set-to-dip",
+    "published": "Wed, 12 Aug 2026 09:05:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fc1ab3cabc01682bef8386ddb559f33c",
+    "fetched_at": "2026-08-12T07:12:58.197352+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ancient Roman shipwreck discovered off Sicily coast",
+    "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 12:27:26 GMT",
+    "source": "BBC News",
+    "id": "dd501664c14565a5254146ab0a6d0836",
+    "fetched_at": "2026-08-12T07:12:57.099935+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World's oceans hit record-high July temperatures",
+    "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+    "source": "BBC News",
+    "id": "f0e9bef5e0d1b9cc4959603ba50fac64",
+    "fetched_at": "2026-08-12T07:12:55.993843+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+    "source": "BBC News",
+    "id": "104a9ee1ca92ce3e55f590c6e3e57f92",
+    "fetched_at": "2026-08-12T07:12:54.882406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia releases former US Marine reported in poor health",
+    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
+    "source": "BBC News",
+    "id": "91517b773560b77f7303bde3eae9cf9f",
+    "fetched_at": "2026-08-12T07:12:53.789256+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Secret Service and military wanted me off Air Force One in Turkey due to threat, Trump says",
     "summary": "“They wanted me to go on a different flight, a different plane,” Trump told reporters after returning from an event in Ohio. “I guess there was a threat out there. I didn’t really ask too much about it,” he said. “I get a lot of threats.”",
     "link": "http://www.euronews.com/2026/08/12/secret-service-and-military-wanted-me-off-air-force-one-in-turkey-due-to-threat-trump-says",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "18d55094b65feea3198798c346494c6f",
     "fetched_at": "2026-08-11T16:51:01.596488+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Family escapes home during Colombia earthquake",
-    "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
-    "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 10:12:21 GMT",
-    "source": "BBC News",
-    "id": "cc9b3eb27acd11221aa64fb4f083563c",
-    "fetched_at": "2026-08-11T16:51:01.596485+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy’s Po river runs low as drought threatens farms and water supplies",
-    "summary": "Italy’s Po River has fallen to historically low levels as the country endures its fourth heatwave of the summer, exposing wide stretches of dry riverbed near Pavia and raising fresh concerns over water supplies and farming across northern Italy.",
-    "link": "http://www.euronews.com/video/2026/08/11/italys-po-river-runs-low-as-drought-threatens-farms-and-water-supplies",
-    "published": "Tue, 11 Aug 2026 16:54:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a699804bb001a681564d76f8893887b8",
-    "fetched_at": "2026-08-11T16:51:01.596483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 11th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/11/latest-news-bulletin-august-11th-2026-evening",
-    "published": "Tue, 11 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5ee267bb3f366c36b666f1654f358217",
-    "fetched_at": "2026-08-11T16:51:01.596479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bulgaria lights up its Black Sea coast with digital art festival",
-    "summary": "Bulgaria’s southern Black Sea coast became an open‑air gallery from 7 to 10 August, as the second LUNAR: Sea of Lights festival brought 17 light and digital artworks to five seaside communities.",
-    "link": "http://www.euronews.com/video/2026/08/11/bulgaria-lights-up-its-black-sea-coast-with-digital-art-festival",
-    "published": "Tue, 11 Aug 2026 18:01:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b8b28cfb1531e1599d20dc5d40052c41",
-    "fetched_at": "2026-08-11T16:51:01.596448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones spotted over German base days after Leipzig bomb incident",
-    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
-    "source": "BBC News",
-    "id": "79d2b250eec45170bb30649a2a9f7a38",
-    "fetched_at": "2026-08-11T16:51:00.389743+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "6c76acecc65c415828c86b2e0e4ffd19",
-    "fetched_at": "2026-08-11T16:50:59.252233+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-    "published": "Tue, 11 Aug 2026 01:48:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "d69cf11aa3cffa976b84f2bba501ea16",
-    "fetched_at": "2026-08-11T16:50:58.123852+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-    "published": "Tue, 11 Aug 2026 02:03:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "9049ed6da926ba4e0bfbd31516bda2ce",
-    "fetched_at": "2026-08-11T16:50:56.986698+00:00"
   }
 ]
