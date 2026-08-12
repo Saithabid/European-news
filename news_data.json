@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+    "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
+    "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 08:50:52 GMT",
+    "source": "BBC News",
+    "id": "fc27e929628c83e7c2d4c64efe630bf4",
+    "fetched_at": "2026-08-12T09:04:41.449340+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+    "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+    "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 07:44:44 GMT",
+    "source": "BBC News",
+    "id": "b82c8fd54df72d9beeb2eab306ba1b0e",
+    "fetched_at": "2026-08-12T09:04:41.449309+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment Cali hospital collapses after powerful Colombia earthquake",
+    "summary": "A 7.4 quake in Colombia partially collapsed the Hospital Universitario del Valle in Cali on Monday, forcing patients outside as rescuers search for hundreds feared trapped.",
+    "link": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
+    "published": "Wed, 12 Aug 2026 09:18:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1ac9c9efb2b6bf86d0507d69bdfffc49",
+    "fetched_at": "2026-08-12T09:04:40.347397+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pyongyang tests another missile within one week and ahead of US-South Korean military drills",
+    "summary": "A ballistic missile fired from the North’s eastern coastal Wonsan area around 6am flew more than 700 kilometres, South Korea’s Joint Chiefs of Staff said. Seoul condemned the test and warned it remains ready to repel any provocation in cooperation with the US.",
+    "link": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
+    "published": "Wed, 12 Aug 2026 10:14:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7b00dc034e6ce17fec305c1b301dd60e",
+    "fetched_at": "2026-08-12T09:04:39.231795+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drones spotted over German base days after Leipzig bomb incident",
+    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
+    "source": "BBC News",
+    "id": "79d2b250eec45170bb30649a2a9f7a38",
+    "fetched_at": "2026-08-12T09:04:38.105380+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "6c76acecc65c415828c86b2e0e4ffd19",
+    "fetched_at": "2026-08-12T09:04:36.986846+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+    "published": "Tue, 11 Aug 2026 01:48:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "d69cf11aa3cffa976b84f2bba501ea16",
+    "fetched_at": "2026-08-12T09:04:35.874446+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+    "published": "Tue, 11 Aug 2026 02:03:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "9049ed6da926ba4e0bfbd31516bda2ce",
+    "fetched_at": "2026-08-12T09:04:34.750409+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How a road could change West Africa's urban future",
+    "summary": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world's most consequential transformations.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
+    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "61a9e474159e7a417335e19b10fd07e0",
+    "fetched_at": "2026-08-12T09:04:33.622570+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
     "summary": "The vessel is said to have overturned after being hit by strong waves.",
     "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "af44bc238069266c1cc4c670db8c0b43",
     "fetched_at": "2026-08-11T18:51:51.918244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
-    "summary": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
-    "link": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
-    "published": "Sun, 09 Aug 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "054246829aa7f543359895a558e99839",
-    "fetched_at": "2026-08-11T18:51:50.756062+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
-    "summary": "Videos show rescue workers combing through rubble as more than 3,000 people remain missing on Tuesday after a 7.4-magnitude earthquake in Colombia.",
-    "link": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
-    "published": "Tue, 11 Aug 2026 13:07:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbf8d8e1abb7fd74af3b4843c0957562",
-    "fetched_at": "2026-08-11T18:51:49.610467+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-    "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
-    "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-    "published": "Mon, 10 Aug 2026 12:08:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "233e92d43a3d2e2de31a6fbbac2d8489",
-    "fetched_at": "2026-08-11T18:51:48.458598+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-    "summary": "Kashmir, the disputed region at the center of the rivalry between Pakistan and India, is now holding elections amid demands for better representation and calls for a boycott.",
-    "link": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-    "published": "Tue, 11 Aug 2026 04:31:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "0c9b96e765fca2a3602d438c9ed61f5a",
-    "fetched_at": "2026-08-11T18:51:47.306107+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-    "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 19:17:11 GMT",
-    "source": "BBC News",
-    "id": "ed3fda28b64517c16eefc2daed6af9f2",
-    "fetched_at": "2026-08-11T18:51:46.158550+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
-    "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
-    "link": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 06:33:03 GMT",
-    "source": "BBC News",
-    "id": "e72c62bd0ce1cc0d2d1fdedf7a7a5aaf",
-    "fetched_at": "2026-08-11T18:51:44.998453+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thailand suspends new gun permits after mass shooting",
-    "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 15:11:54 GMT",
-    "source": "BBC News",
-    "id": "0ed73c00ab9fd34f65809368f6f026d5",
-    "fetched_at": "2026-08-11T16:51:01.596492+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-    "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 15:41:13 GMT",
-    "source": "BBC News",
-    "id": "ae38b6c44d23803eff6375bfcc53823c",
-    "fetched_at": "2026-08-11T16:51:01.596490+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lebanon parliament votes to abolish death penalty",
-    "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-    "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 15:24:07 GMT",
-    "source": "BBC News",
-    "id": "18d55094b65feea3198798c346494c6f",
-    "fetched_at": "2026-08-11T16:51:01.596488+00:00"
   }
 ]
