@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+    "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
+    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 00:02:06 GMT",
+    "source": "BBC News",
+    "id": "3f7cdabd2d28bc88efb534fa90a860e1",
+    "fetched_at": "2026-08-12T01:16:09.569923+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+    "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:31:18 GMT",
+    "source": "BBC News",
+    "id": "2c316a3ca309e2b825a304a2146620c3",
+    "fetched_at": "2026-08-12T01:16:09.569892+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taliban wipes out decades of progress as 2.4M Afghan girls remain locked out of school, UN agency says",
+    "summary": "UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.",
+    "link": "https://www.foxnews.com/world/taliban-wipes-out-decades-progress-2-4m-afghan-girls-remain-locked-school-un-agency-says",
+    "published": "Tue, 11 Aug 2026 19:01:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ac84b62bfd402f7bf93b0c620cf07336",
+    "fetched_at": "2026-08-12T01:16:08.425965+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why Russia and Ukraine can't stop each other's air attacks",
+    "summary": "Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks",
+    "published": "Mon, 10 Aug 2026 16:14:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "120a7b14e172f78fbfb8a64e058facd6",
+    "fetched_at": "2026-08-12T01:16:07.300402+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+    "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+    "published": "Tue, 11 Aug 2026 07:11:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "c996bd771dea024d29dae59878322d25",
+    "fetched_at": "2026-08-12T01:16:06.185274+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luigi Mangione murder trial to have anonymous jury",
+    "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
+    "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 19:12:54 GMT",
+    "source": "BBC News",
+    "id": "0bf989a8a4222de0eeae96e7645d23ff",
+    "fetched_at": "2026-08-12T01:16:05.045145+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
+    "summary": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:16:38 GMT",
+    "source": "BBC News",
+    "id": "2945f72720c28e730bf1e098d7b45908",
+    "fetched_at": "2026-08-12T01:16:03.912928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
+    "summary": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
+    "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 22:22:33 GMT",
+    "source": "BBC News",
+    "id": "457642d0312d968d14061c97d3725d65",
+    "fetched_at": "2026-08-12T01:16:02.785738+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+    "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes Anthony Zurcher.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+    "source": "BBC News",
+    "id": "0e5fa51d3156e993de5f83ce9ea07768",
+    "fetched_at": "2026-08-12T01:16:01.646267+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
     "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
     "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "6de8a54584a5d51322b93d758a0ad1fb",
     "fetched_at": "2026-08-11T12:46:14.152104+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-    "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 20:40:56 GMT",
-    "source": "BBC News",
-    "id": "aa3e531370bbcb8b65881cb0604477e8",
-    "fetched_at": "2026-08-11T12:46:14.152103+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-    "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 09:33:25 GMT",
-    "source": "BBC News",
-    "id": "04fed5edd7a41a0291ef3fd5e01819c6",
-    "fetched_at": "2026-08-11T12:46:14.152100+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New train service connects Finland and Sweden for first time in decades",
-    "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:28:11 GMT",
-    "source": "BBC News",
-    "id": "50a2b63ec91173f1174689badaf60fff",
-    "fetched_at": "2026-08-11T12:46:14.152098+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:19:41 GMT",
-    "source": "BBC News",
-    "id": "22067fc0f2cff33b9c83b727b08ac865",
-    "fetched_at": "2026-08-11T12:46:14.152096+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain's migrant surge reignites debate over Europe’s Islamist terror threat",
-    "summary": "Spain recorded the EU&apos;s highest number of jihadist terrorism arrests in 2025 as suspected extremists were identified among 72,000 migrants flooding into Ceuta.",
-    "link": "https://www.foxnews.com/world/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
-    "published": "Sat, 08 Aug 2026 09:23:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "692e97d309cd0654f1b5640497297e03",
-    "fetched_at": "2026-08-11T12:46:14.152093+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigeria's largest rescue operation frees 308 hostages held by militants in Kwara State",
-    "summary": "Victims of a six-month jihadi kidnapping in Nigeria&apos;s Kwara State describe starvation, forced births and the burying of fellow captives in a forest hideout.",
-    "link": "https://www.foxnews.com/world/nigerias-largest-rescue-operation-frees-308-hostages-held-militants-kwara-state",
-    "published": "Sat, 08 Aug 2026 10:33:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8d29208d154eb6a5fbc3d87d5932426f",
-    "fetched_at": "2026-08-11T12:46:14.152068+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
-    "summary": "Draganfly CEO Cameron Chell says drone company leaders are now primary targets as Russia and Ukraine race for battlefield AI and autonomy advantages.",
-    "link": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
-    "published": "Sun, 09 Aug 2026 17:29:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "084e9ac3b5986f10e0f6e27435d20514",
-    "fetched_at": "2026-08-11T12:46:13.005692+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia building collapses on camera as earthquake brings death, destruction",
-    "summary": "Video posted to social media shows a building crumbling in Pereira, Colombia, as a magnitude 7.4 earthquake struck western Colombia, killing at least 111 people.",
-    "link": "https://www.foxnews.com/world/colombia-building-collapses-camera-earthquake-brings-death-destruction",
-    "published": "Mon, 10 Aug 2026 13:28:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "eb710f53984aa19977254f46ce64a112",
-    "fetched_at": "2026-08-11T12:46:11.855373+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-    "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
-    "link": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
-    "published": "Mon, 10 Aug 2026 14:45:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
-    "fetched_at": "2026-08-11T12:46:10.722560+00:00"
   }
 ]
