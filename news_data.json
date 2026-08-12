@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+    "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
+    "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 12:10:45 GMT",
+    "source": "BBC News",
+    "id": "d2b22a5606dd6ccd996afc3d1cd3ba6c",
+    "fetched_at": "2026-08-12T12:51:34.138659+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli settlers besieging Palestinian families in West Bank village",
+    "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 12:16:22 GMT",
+    "source": "BBC News",
+    "id": "7fc14694c35324d04af5d3a3705ec3ef",
+    "fetched_at": "2026-08-12T12:51:34.138656+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 11:28:02 GMT",
+    "source": "BBC News",
+    "id": "39a15cb021ebfb8f2beea59056f0b11f",
+    "fetched_at": "2026-08-12T12:51:34.138653+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former judge removed by Orbán elected Hungarian president",
+    "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
+    "source": "BBC News",
+    "id": "af44bc238069266c1cc4c670db8c0b43",
+    "fetched_at": "2026-08-12T12:51:34.138650+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+    "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 11:28:05 GMT",
+    "source": "BBC News",
+    "id": "affff1cda06fd0127c2b774fd706ba01",
+    "fetched_at": "2026-08-12T12:51:34.138619+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
+    "summary": "A United Nations-backed survey found no widespread acute malnutrition in Gaza, prompting Israel&apos;s ambassador to call prior famine claims a blood libel.",
+    "link": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
+    "published": "Tue, 11 Aug 2026 06:00:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "99b750e6501380bfa48cc5fdad9828b1",
+    "fetched_at": "2026-08-12T12:51:33.032464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Syrian President Assad sentenced to death in absentia",
+    "summary": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+    "published": "Tue, 11 Aug 2026 06:07:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "ce89af79876e46f82deecd83721765e8",
+    "fetched_at": "2026-08-12T12:51:31.922934+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+    "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+    "published": "Wed, 12 Aug 2026 07:25:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "23791a046ac9886cdd1d9f67416162dc",
+    "fetched_at": "2026-08-12T12:51:30.819636+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
+    "summary": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy.",
+    "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+    "published": "Wed, 12 Aug 2026 08:36:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "1cb1504504dfbe85493584c312c7e028",
+    "fetched_at": "2026-08-12T12:51:29.709601+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
+    "summary": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 08:08:30 GMT",
+    "source": "BBC News",
+    "id": "dfc6e1ebe7cd6c9afc0992f08ef12ba8",
+    "fetched_at": "2026-08-12T12:51:28.603583+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+    "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 21:14:56 GMT",
+    "source": "BBC News",
+    "id": "255f1085da36560225fa9ff089548430",
+    "fetched_at": "2026-08-12T12:51:27.493183+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Miss Universe Canada contestants apologise for wearing indigenous dress",
+    "summary": "\"My outfit caused hurt and offence to people in the indigenous community,\" one of the contestants said after the pageant.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kv12nqx6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 18:04:48 GMT",
+    "source": "BBC News",
+    "id": "b4cc808ef8eebe7ec8adfd7e1b5bbd70",
+    "fetched_at": "2026-08-12T12:51:26.370844+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Lebanon parliament votes to abolish death penalty",
     "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
     "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "ac84b62bfd402f7bf93b0c620cf07336",
     "fetched_at": "2026-08-12T01:16:08.425965+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Russia and Ukraine can't stop each other's air attacks",
-    "summary": "Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5921306/why-russia-and-ukraine-cant-stop-each-others-air-attacks",
-    "published": "Mon, 10 Aug 2026 16:14:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "120a7b14e172f78fbfb8a64e058facd6",
-    "fetched_at": "2026-08-12T01:16:07.300402+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-    "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-    "published": "Tue, 11 Aug 2026 07:11:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "c996bd771dea024d29dae59878322d25",
-    "fetched_at": "2026-08-12T01:16:06.185274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Luigi Mangione murder trial to have anonymous jury",
-    "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
-    "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 19:12:54 GMT",
-    "source": "BBC News",
-    "id": "0bf989a8a4222de0eeae96e7645d23ff",
-    "fetched_at": "2026-08-12T01:16:05.045145+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
-    "summary": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
-    "link": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:16:38 GMT",
-    "source": "BBC News",
-    "id": "2945f72720c28e730bf1e098d7b45908",
-    "fetched_at": "2026-08-12T01:16:03.912928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
-    "summary": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 22:22:33 GMT",
-    "source": "BBC News",
-    "id": "457642d0312d968d14061c97d3725d65",
-    "fetched_at": "2026-08-12T01:16:02.785738+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-    "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes Anthony Zurcher.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
-    "source": "BBC News",
-    "id": "0e5fa51d3156e993de5f83ce9ea07768",
-    "fetched_at": "2026-08-12T01:16:01.646267+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-    "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-    "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 14:50:10 GMT",
-    "source": "BBC News",
-    "id": "f0343eb56fa70660bfb6346ad8758d35",
-    "fetched_at": "2026-08-11T22:33:53.985948+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belarusian opposition politician and scientist Aliaksandr Milinkevich dies at 79",
-    "summary": "The former Sakharov Prize laureate ran against Aliaksandr Lukashenka for the Belarusian presidency in 2006.",
-    "link": "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79",
-    "published": "Tue, 11 Aug 2026 22:47:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d8d2ffb60ee79131fd1a40d993a23da3",
-    "fetched_at": "2026-08-11T22:33:52.870319+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-    "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 14:25:19 GMT",
-    "source": "BBC News",
-    "id": "fc75e66e1473892367886322373f509f",
-    "fetched_at": "2026-08-11T22:33:51.757046+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
-    "source": "BBC News",
-    "id": "63e0b1893682ab3113ab49ba53a23931",
-    "fetched_at": "2026-08-11T22:33:50.641020+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-    "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
-    "source": "BBC News",
-    "id": "c8532d47b8f7a74a20c3fdec57a44391",
-    "fetched_at": "2026-08-11T22:33:49.515410+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-    "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 19:09:52 GMT",
-    "source": "BBC News",
-    "id": "eb96d42f3ae600786a59947bd4114fa6",
-    "fetched_at": "2026-08-11T20:35:52.988289+00:00"
   }
 ]
