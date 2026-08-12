@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "World's oceans hit record-high July temperatures",
+    "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 10:24:46 GMT",
+    "source": "BBC News",
+    "id": "f0e9bef5e0d1b9cc4959603ba50fac64",
+    "fetched_at": "2026-08-12T18:52:30.324554+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+    "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:34:25 GMT",
+    "source": "BBC News",
+    "id": "104a9ee1ca92ce3e55f590c6e3e57f92",
+    "fetched_at": "2026-08-12T18:52:30.324552+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France bans unsolicited telemarketing calls",
+    "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:19:45 GMT",
+    "source": "BBC News",
+    "id": "7e17f8ddffc3f09bd8e746c8762e755c",
+    "fetched_at": "2026-08-12T18:52:30.324550+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+    "source": "BBC News",
+    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
+    "fetched_at": "2026-08-12T18:52:30.324518+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
+    "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
+    "link": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
+    "published": "Mon, 10 Aug 2026 19:08:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5af1bf25995f078a17c9bf1c7b816954",
+    "fetched_at": "2026-08-12T18:52:29.222804+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Syrian President Assad sentenced to death in absentia",
+    "summary": "Syrian President Bashar Assad and his brother Maher were sentenced to death in absentia by a Damascus court for war crimes and crimes against humanity.",
+    "link": "https://www.foxnews.com/world/former-syrian-president-assad-sentenced-death-absentia",
+    "published": "Tue, 11 Aug 2026 08:58:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "31d154f6a14df7de6d0511b45faf0f72",
+    "fetched_at": "2026-08-12T18:52:28.123699+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Earthquake response strains Colombia's new government and rescuers",
+    "summary": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000.",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+    "published": "Wed, 12 Aug 2026 01:13:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "85e6c8f286da91fa25f9b04227af197a",
+    "fetched_at": "2026-08-12T18:52:27.024761+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Marine held in Russia on disputed charges has been released",
+    "summary": "Russia released an American military veteran, allowing his return to the U.S. after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment.",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
+    "published": "Wed, 12 Aug 2026 01:27:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "ed9ef4bb780a6472a351c6e2b4d0ff5e",
+    "fetched_at": "2026-08-12T18:52:25.913937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Has the U.S. lost its dominance to China?",
+    "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. <em>The New Yorker</em>'s Evan Osnos discusses his story <a href=\"https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china\" target=\"_blank\">\"The Future, Made in China.\"</a>",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+    "published": "Wed, 12 Aug 2026 14:24:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b16bce5b14d88c036eed52a5abe0632",
+    "fetched_at": "2026-08-12T18:52:24.807565+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia releases former US Marine reported in poor health",
+    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
+    "source": "BBC News",
+    "id": "91517b773560b77f7303bde3eae9cf9f",
+    "fetched_at": "2026-08-12T18:52:23.714572+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sixteen inmates injured after lightning strikes US prison",
+    "summary": "Ohio and other midwestern states have seen severe storms in recent days, which have damaged homes and have been linked to three fatalities.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg0zn3dv9ko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 16:57:59 GMT",
+    "source": "BBC News",
+    "id": "21ef7139171b625eec30f4f66eea91ac",
+    "fetched_at": "2026-08-12T18:52:22.605140+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "LA Lakers to be sold in record $12.5bn deal",
     "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
     "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "b82c8fd54df72d9beeb2eab306ba1b0e",
     "fetched_at": "2026-08-12T09:04:41.449309+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moment Cali hospital collapses after powerful Colombia earthquake",
-    "summary": "A 7.4 quake in Colombia partially collapsed the Hospital Universitario del Valle in Cali on Monday, forcing patients outside as rescuers search for hundreds feared trapped.",
-    "link": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
-    "published": "Wed, 12 Aug 2026 09:18:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1ac9c9efb2b6bf86d0507d69bdfffc49",
-    "fetched_at": "2026-08-12T09:04:40.347397+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pyongyang tests another missile within one week and ahead of US-South Korean military drills",
-    "summary": "A ballistic missile fired from the North’s eastern coastal Wonsan area around 6am flew more than 700 kilometres, South Korea’s Joint Chiefs of Staff said. Seoul condemned the test and warned it remains ready to repel any provocation in cooperation with the US.",
-    "link": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
-    "published": "Wed, 12 Aug 2026 10:14:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7b00dc034e6ce17fec305c1b301dd60e",
-    "fetched_at": "2026-08-12T09:04:39.231795+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones spotted over German base days after Leipzig bomb incident",
-    "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 16:18:10 GMT",
-    "source": "BBC News",
-    "id": "79d2b250eec45170bb30649a2a9f7a38",
-    "fetched_at": "2026-08-12T09:04:38.105380+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-    "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers.",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-    "published": "Mon, 10 Aug 2026 23:39:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "6c76acecc65c415828c86b2e0e4ffd19",
-    "fetched_at": "2026-08-12T09:04:36.986846+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-    "summary": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-    "published": "Tue, 11 Aug 2026 01:48:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "d69cf11aa3cffa976b84f2bba501ea16",
-    "fetched_at": "2026-08-12T09:04:35.874446+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-    "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-    "published": "Tue, 11 Aug 2026 02:03:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "9049ed6da926ba4e0bfbd31516bda2ce",
-    "fetched_at": "2026-08-12T09:04:34.750409+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How a road could change West Africa's urban future",
-    "summary": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world's most consequential transformations.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "61a9e474159e7a417335e19b10fd07e0",
-    "fetched_at": "2026-08-12T09:04:33.622570+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
-    "summary": "The vessel is said to have overturned after being hit by strong waves.",
-    "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 06:21:42 GMT",
-    "source": "BBC News",
-    "id": "ada479ca2a26abd27cef1b12d1272d22",
-    "fetched_at": "2026-08-12T07:13:01.501189+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Colombia: Rescuers search for survivors after 7.6 magnitude earthquake kills 216 people",
-    "summary": "As rescuers search through the rubble for survivors, volunteers join to help clear the wreckage. People brought water and food to the victimes and lined up in front of blood donation centres.",
-    "link": "http://www.euronews.com/2026/08/12/colombia-rescuers-search-for-survivors-after-76-magnitude-earthquake-kills-216-people",
-    "published": "Wed, 12 Aug 2026 07:58:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "821cdbb377ae10ce63363b17bf32b60e",
-    "fetched_at": "2026-08-12T07:13:00.390244+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World markets mixed as oil and gold rise ahead of US inflation data",
-    "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation reading.",
-    "link": "http://www.euronews.com/business/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data",
-    "published": "Wed, 12 Aug 2026 08:34:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4d120c9f0728fc8642ed61e94d478b09",
-    "fetched_at": "2026-08-12T07:12:59.292622+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe scrambles for eclipse glasses as solar power output set to dip",
-    "summary": "Shops and opticians across Europe are running short of certified eclipse glasses ahead of Wednesday’s total solar eclipse, with queues forming in Paris, London and Brussels as demand surges.",
-    "link": "http://www.euronews.com/video/2026/08/12/europe-scrambles-for-eclipse-glasses-as-solar-power-output-set-to-dip",
-    "published": "Wed, 12 Aug 2026 09:05:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fc1ab3cabc01682bef8386ddb559f33c",
-    "fetched_at": "2026-08-12T07:12:58.197352+00:00"
   }
 ]
