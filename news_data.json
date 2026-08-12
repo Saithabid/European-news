@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Moment Cali hospital collapses after powerful Colombia earthquake",
+    "summary": "A 7.4 quake in Colombia partially collapsed the Hospital Universitario del Valle in Cali on Monday, forcing patients outside as rescuers search for hundreds feared trapped.",
+    "link": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
+    "published": "Wed, 12 Aug 2026 09:18:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1ac9c9efb2b6bf86d0507d69bdfffc49",
+    "fetched_at": "2026-08-12T20:35:34.665189+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pyongyang tests another missile within one week and ahead of US-South Korean military drills",
+    "summary": "A ballistic missile fired from the North’s eastern coastal Wonsan area around 6am flew more than 700 kilometres, South Korea’s Joint Chiefs of Staff said. Seoul condemned the test and warned it remains ready to repel any provocation in cooperation with the US.",
+    "link": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
+    "published": "Wed, 12 Aug 2026 10:14:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7b00dc034e6ce17fec305c1b301dd60e",
+    "fetched_at": "2026-08-12T20:35:33.566996+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "White House press secretary Karoline Leavitt to leave role at end of month, Trump says",
+    "summary": "Leavitt, who served Trump as a press aide during his first term in the White House, has been one of the most visible advocates of Trump’s “Make America Great Again” movement.",
+    "link": "http://www.euronews.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave-role-at-end-of-month-trump-says",
+    "published": "Wed, 12 Aug 2026 21:58:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1dd7cacfc26af3317e7531701a1b1678",
+    "fetched_at": "2026-08-12T20:35:32.463207+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How a road could change West Africa's urban future",
+    "summary": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world's most consequential transformations.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
+    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "61a9e474159e7a417335e19b10fd07e0",
+    "fetched_at": "2026-08-12T20:35:31.367387+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "K-pop's global wave inspires Chile's next pop stars",
+    "summary": "K-pop has conquered the world. Now, Chile's young creatives are remixing the movement and making it their own.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5899791-e1/k-pops-global-wave-inspires-chiles-next-pop-stars",
+    "published": "Wed, 12 Aug 2026 16:22:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "dda21effb05543cb131e696d9432c3ec",
+    "fetched_at": "2026-08-12T20:35:30.262978+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump sued over Truth Social's $100,000 early access service",
+    "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:48:56 GMT",
+    "source": "BBC News",
+    "id": "cbdffa24e20e81960c574b64d11c64a9",
+    "fetched_at": "2026-08-12T20:35:29.165024+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+    "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 19:21:22 GMT",
+    "source": "BBC News",
+    "id": "76b582bb3f7eb247a1dbfce10836c5a2",
+    "fetched_at": "2026-08-12T20:35:28.057602+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+    "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 20:16:55 GMT",
+    "source": "BBC News",
+    "id": "09fddf747c47c10e06e85412e1649c83",
+    "fetched_at": "2026-08-12T20:35:26.942813+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "World's oceans hit record-high July temperatures",
     "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
     "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "05b9fe4e7bcfd67d388d9da69c25a5a2",
     "fetched_at": "2026-08-12T10:54:06.792160+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Quake leaves Colombian towns in ruins as Valle del Cauca counts dead",
-    "summary": "Western Colombia hit by deadly quake as Zarzal, Roldanillo and El Cairo report widespread damage.",
-    "link": "http://www.euronews.com/video/2026/08/12/quake-leaves-colombian-towns-in-ruins-as-valle-del-cauca-counts-dead",
-    "published": "Wed, 12 Aug 2026 12:00:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a4c537ae8931a2a5bba8050379306550",
-    "fetched_at": "2026-08-12T10:54:05.655223+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's new $634M German-built 'doomsday' sub gives major boost to Iran deterrence",
-    "summary": "The INS Drakon is the largest submarine built in Germany since World War II, carrying a $634 million price tag as Israel bolsters naval power.",
-    "link": "https://www.foxnews.com/world/israel-receives-634-million-submarine-germany-major-boost-naval-deterrence",
-    "published": "Sun, 09 Aug 2026 15:34:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "054246829aa7f543359895a558e99839",
-    "fetched_at": "2026-08-12T10:54:04.518229+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
-    "summary": "Videos show rescue workers combing through rubble as more than 3,000 people remain missing on Tuesday after a 7.4-magnitude earthquake in Colombia.",
-    "link": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
-    "published": "Tue, 11 Aug 2026 13:07:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbf8d8e1abb7fd74af3b4843c0957562",
-    "fetched_at": "2026-08-12T10:54:03.385022+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan-administered Kashmir holds elections amid calls for a boycott",
-    "summary": "Kashmir, the disputed region at the center of the rivalry between Pakistan and India, is now holding elections amid demands for better representation and calls for a boycott.",
-    "link": "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott",
-    "published": "Tue, 11 Aug 2026 04:31:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "0c9b96e765fca2a3602d438c9ed61f5a",
-    "fetched_at": "2026-08-12T10:54:02.260966+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
-    "summary": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
-    "published": "Wed, 12 Aug 2026 06:47:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "13e7a021e1586f50d12935b688266818",
-    "fetched_at": "2026-08-12T10:54:01.123055+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
-    "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
-    "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 09:55:40 GMT",
-    "source": "BBC News",
-    "id": "357050df24ca45806d9c9756774a303a",
-    "fetched_at": "2026-08-12T10:53:59.973991+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tata Group Chairman N Chandrasekaran to step down in February",
-    "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
-    "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 08:50:52 GMT",
-    "source": "BBC News",
-    "id": "fc27e929628c83e7c2d4c64efe630bf4",
-    "fetched_at": "2026-08-12T09:04:41.449340+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-    "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-    "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 07:44:44 GMT",
-    "source": "BBC News",
-    "id": "b82c8fd54df72d9beeb2eab306ba1b0e",
-    "fetched_at": "2026-08-12T09:04:41.449309+00:00"
   }
 ]
