@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "New Zealand PM survives second leadership challenge ahead of election",
+    "summary": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 02:51:02 GMT",
+    "source": "BBC News",
+    "id": "fb1f42a8d6f6625ff97e3de2af7e6274",
+    "fetched_at": "2026-08-12T03:58:48.153205+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bondi Beach shooting hero's assault charges dropped by police",
+    "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
+    "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 02:59:51 GMT",
+    "source": "BBC News",
+    "id": "d8b2ac797adcb11ec92979f51012be5b",
+    "fetched_at": "2026-08-12T03:58:48.153202+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Baby Shark Boy set to make K-pop debut",
+    "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
+    "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 03:26:32 GMT",
+    "source": "BBC News",
+    "id": "b01128dbaae406271deb191b1c38ce01",
+    "fetched_at": "2026-08-12T03:58:48.153198+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New train service connects Finland and Sweden for first time in decades",
+    "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 18:28:11 GMT",
+    "source": "BBC News",
+    "id": "50a2b63ec91173f1174689badaf60fff",
+    "fetched_at": "2026-08-12T03:58:48.153171+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 18:19:41 GMT",
+    "source": "BBC News",
+    "id": "22067fc0f2cff33b9c83b727b08ac865",
+    "fetched_at": "2026-08-12T03:58:47.008339+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
+    "summary": "Draganfly CEO Cameron Chell says drone company leaders are now primary targets as Russia and Ukraine race for battlefield AI and autonomy advantages.",
+    "link": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
+    "published": "Sun, 09 Aug 2026 17:29:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "084e9ac3b5986f10e0f6e27435d20514",
+    "fetched_at": "2026-08-12T03:58:45.874779+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia building collapses on camera as earthquake brings death, destruction",
+    "summary": "Video posted to social media shows a building crumbling in Pereira, Colombia, as a magnitude 7.4 earthquake struck western Colombia, killing at least 111 people.",
+    "link": "https://www.foxnews.com/world/colombia-building-collapses-camera-earthquake-brings-death-destruction",
+    "published": "Mon, 10 Aug 2026 13:28:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "eb710f53984aa19977254f46ce64a112",
+    "fetched_at": "2026-08-12T03:58:44.735753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
+    "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
+    "link": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
+    "published": "Mon, 10 Aug 2026 14:45:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
+    "fetched_at": "2026-08-12T03:58:43.600444+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "North Korea launches another ballistic missile as US, South Korea prepare for military drills",
+    "summary": "North Korea&apos;s second ballistic missile launch in less than a week comes as the U.S. and South Korea prepare for Ulchi Freedom Shield exercises.",
+    "link": "https://www.foxnews.com/world/north-korea-launches-ballistic-missile-us-south-korea-prepare-military-drills",
+    "published": "Tue, 11 Aug 2026 22:00:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2cbe0191894f7d27539905c5dc659c36",
+    "fetched_at": "2026-08-12T03:58:42.446346+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The death toll climbs from Monday's 7.4 magnitude earthquake in Colombia",
+    "summary": "Hundreds of rescue workers have been deployed in hardest hit cities trying to free victims still trapped under the rubble. Hundreds of people are still missing.",
+    "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
+    "published": "Tue, 11 Aug 2026 17:12:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "4beec3f796c24f79fb6ecd676b3d4966",
+    "fetched_at": "2026-08-12T03:58:41.305317+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says he switched planes after Nato summit because of possible threat",
+    "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 03:44:55 GMT",
+    "source": "BBC News",
+    "id": "a1eb934d9e52355318e2fd39ad82adfd",
+    "fetched_at": "2026-08-12T03:58:40.160754+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
     "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
     "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "104a9ee1ca92ce3e55f590c6e3e57f92",
     "fetched_at": "2026-08-11T14:51:35.599714+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France bans unsolicited telemarketing calls",
-    "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 14:19:45 GMT",
-    "source": "BBC News",
-    "id": "7e17f8ddffc3f09bd8e746c8762e755c",
-    "fetched_at": "2026-08-11T14:51:35.599681+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu rejects Board of Peace's Gaza plan: No 'withdrawal until Hamas is genuinely disarmed'",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu rejects the Board of Peace&apos;s 15-point Gaza proposal, demanding Hamas surrender all weapons before any withdrawal.",
-    "link": "https://www.foxnews.com/world/netanyahu-rejects-board-peace-gaza-plan-no-withdrawal-until-hamas-genuinely-disarmed",
-    "published": "Sun, 09 Aug 2026 09:14:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "171314f96020b41a0dc33eb335ee2aa1",
-    "fetched_at": "2026-08-11T14:51:34.469228+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
-    "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
-    "link": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
-    "published": "Mon, 10 Aug 2026 19:08:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5af1bf25995f078a17c9bf1c7b816954",
-    "fetched_at": "2026-08-11T14:51:33.339952+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Syrian President Assad sentenced to death in absentia",
-    "summary": "Syrian President Bashar Assad and his brother Maher were sentenced to death in absentia by a Damascus court for war crimes and crimes against humanity.",
-    "link": "https://www.foxnews.com/world/former-syrian-president-assad-sentenced-death-absentia",
-    "published": "Tue, 11 Aug 2026 08:58:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "31d154f6a14df7de6d0511b45faf0f72",
-    "fetched_at": "2026-08-11T14:51:32.208064+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
-    "summary": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
-    "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-    "published": "Mon, 10 Aug 2026 08:39:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "8b973b27e56625b11824d51000aae72b",
-    "fetched_at": "2026-08-11T14:51:31.079460+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dashcam video shows moment lorry slams into New York overpass",
-    "summary": "The driver aboard the tractor trailer was not injured, but he was ticketed for having a vehicle that exceeded the maximum height.",
-    "link": "https://www.bbc.co.uk/news/videos/crrv12d55pko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 00:40:29 GMT",
-    "source": "BBC News",
-    "id": "3981f3eec17f1f9cf7de6df838cebfbd",
-    "fetched_at": "2026-08-11T14:51:29.935287+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
-    "summary": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 08:08:30 GMT",
-    "source": "BBC News",
-    "id": "dfc6e1ebe7cd6c9afc0992f08ef12ba8",
-    "fetched_at": "2026-08-11T14:51:28.787115+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada flight cancelled after child refuses to wear seat belt",
-    "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-    "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 21:06:27 GMT",
-    "source": "BBC News",
-    "id": "cb0b6a2ba3faa9bbe18952ae3f438e30",
-    "fetched_at": "2026-08-11T14:51:27.628693+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oil prices and US bond yields rise as Trump and Iran trade reparations demands",
-    "summary": "Oil prices and US government bond yields both climbed on Tuesday after US President Donald Trump answered Iran's demand for war reparations with a sweeping counterclaim of his own, pushing a deal to reopen the Strait of Hormuz further out of reach.",
-    "link": "http://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands",
-    "published": "Tue, 11 Aug 2026 13:25:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ccfeb630d7ad3fe250ea6f0aec099d8d",
-    "fetched_at": "2026-08-11T12:46:14.152107+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia launches massive overnight barrage on Ukraine, leaving nine dead",
-    "summary": "Russia killed at least nine people in Ukraine overnight on Tuesday, as missile and drone strikes hit Kyiv, Zaporizhzhia and Dnipropetrovsk, according to regional authorities.",
-    "link": "http://www.euronews.com/video/2026/08/11/russia-launches-massive-overnight-barrage-on-ukraine-leaving-nine-dead",
-    "published": "Tue, 11 Aug 2026 13:52:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5b7ba447724abc13dbb8b883754d47ba",
-    "fetched_at": "2026-08-11T12:46:14.152106+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar sees 'positive' signs in Iran-Oman talks on reopening Hormuz",
-    "summary": "Doha said Iran and Oman had reached the technical stage of negotiations and were finalising shipping route coordinates, but warned against delay as only six vessels transited Hormuz on Monday compared with 130-140 before the war.",
-    "link": "http://www.euronews.com/2026/08/11/qatar-sees-positive-signs-in-iran-oman-talks-on-reopening-hormuz",
-    "published": "Tue, 11 Aug 2026 14:17:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6de8a54584a5d51322b93d758a0ad1fb",
-    "fetched_at": "2026-08-11T12:46:14.152104+00:00"
   }
 ]
