@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "US inflation eases as food and fuel costs cool",
+    "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 14:09:48 GMT",
+    "source": "BBC News",
+    "id": "17787f14efaf051a2fb0893a1fb94976",
+    "fetched_at": "2026-08-12T14:51:01.884495+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Colombia declares three days mourning for quake victims as EU pledges assistance",
+    "summary": "The quake overwhelmed parts of the health system, turning the rescue effort into one of Colombia's largest disaster responses in years.",
+    "link": "http://www.euronews.com/2026/08/12/colombia-declares-three-days-mourning-for-quake-victims-as-eu-pledges-assistance",
+    "published": "Wed, 12 Aug 2026 15:46:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "759c15687ec1dbce492baf61188aebf9",
+    "fetched_at": "2026-08-12T14:51:01.884493+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+    "source": "BBC News",
+    "id": "63e0b1893682ab3113ab49ba53a23931",
+    "fetched_at": "2026-08-12T14:51:01.884490+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
+    "summary": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti&apos;s reliability and China&apos;s expanding presence.",
+    "link": "https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
+    "published": "Wed, 12 Aug 2026 09:15:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6c230439659c35561f3cb5b67126cd6d",
+    "fetched_at": "2026-08-12T14:51:01.884461+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
+    "summary": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.",
+    "link": "https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
+    "published": "Wed, 12 Aug 2026 09:53:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a8da0ee07e5a80ff24128c92d13953d7",
+    "fetched_at": "2026-08-12T14:51:00.765964+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+    "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
+    "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+    "published": "Tue, 11 Aug 2026 07:11:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "c996bd771dea024d29dae59878322d25",
+    "fetched_at": "2026-08-12T14:50:59.633012+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+    "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+    "published": "Wed, 12 Aug 2026 09:38:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "ea8a95ef86913244b08925ef46471f9d",
+    "fetched_at": "2026-08-12T14:50:58.511554+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luigi Mangione murder trial to have anonymous jury",
+    "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
+    "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 19:12:54 GMT",
+    "source": "BBC News",
+    "id": "0bf989a8a4222de0eeae96e7645d23ff",
+    "fetched_at": "2026-08-12T14:50:57.379047+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
+    "summary": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
+    "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 22:22:33 GMT",
+    "source": "BBC News",
+    "id": "457642d0312d968d14061c97d3725d65",
+    "fetched_at": "2026-08-12T14:50:56.260021+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+    "summary": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
+    "source": "BBC News",
+    "id": "c8532d47b8f7a74a20c3fdec57a44391",
+    "fetched_at": "2026-08-12T14:50:55.126996+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+    "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
+    "source": "BBC News",
+    "id": "0e5fa51d3156e993de5f83ce9ea07768",
+    "fetched_at": "2026-08-12T14:50:53.986853+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
     "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
     "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "b01128dbaae406271deb191b1c38ce01",
     "fetched_at": "2026-08-12T03:58:48.153198+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New train service connects Finland and Sweden for first time in decades",
-    "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:28:11 GMT",
-    "source": "BBC News",
-    "id": "50a2b63ec91173f1174689badaf60fff",
-    "fetched_at": "2026-08-12T03:58:48.153171+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:19:41 GMT",
-    "source": "BBC News",
-    "id": "22067fc0f2cff33b9c83b727b08ac865",
-    "fetched_at": "2026-08-12T03:58:47.008339+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
-    "summary": "Draganfly CEO Cameron Chell says drone company leaders are now primary targets as Russia and Ukraine race for battlefield AI and autonomy advantages.",
-    "link": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
-    "published": "Sun, 09 Aug 2026 17:29:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "084e9ac3b5986f10e0f6e27435d20514",
-    "fetched_at": "2026-08-12T03:58:45.874779+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colombia building collapses on camera as earthquake brings death, destruction",
-    "summary": "Video posted to social media shows a building crumbling in Pereira, Colombia, as a magnitude 7.4 earthquake struck western Colombia, killing at least 111 people.",
-    "link": "https://www.foxnews.com/world/colombia-building-collapses-camera-earthquake-brings-death-destruction",
-    "published": "Mon, 10 Aug 2026 13:28:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "eb710f53984aa19977254f46ce64a112",
-    "fetched_at": "2026-08-12T03:58:44.735753+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-    "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
-    "link": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
-    "published": "Mon, 10 Aug 2026 14:45:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
-    "fetched_at": "2026-08-12T03:58:43.600444+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "North Korea launches another ballistic missile as US, South Korea prepare for military drills",
-    "summary": "North Korea&apos;s second ballistic missile launch in less than a week comes as the U.S. and South Korea prepare for Ulchi Freedom Shield exercises.",
-    "link": "https://www.foxnews.com/world/north-korea-launches-ballistic-missile-us-south-korea-prepare-military-drills",
-    "published": "Tue, 11 Aug 2026 22:00:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2cbe0191894f7d27539905c5dc659c36",
-    "fetched_at": "2026-08-12T03:58:42.446346+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The death toll climbs from Monday's 7.4 magnitude earthquake in Colombia",
-    "summary": "Hundreds of rescue workers have been deployed in hardest hit cities trying to free victims still trapped under the rubble. Hundreds of people are still missing.",
-    "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
-    "published": "Tue, 11 Aug 2026 17:12:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "4beec3f796c24f79fb6ecd676b3d4966",
-    "fetched_at": "2026-08-12T03:58:41.305317+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says he switched planes after Nato summit because of possible threat",
-    "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
-    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 03:44:55 GMT",
-    "source": "BBC News",
-    "id": "a1eb934d9e52355318e2fd39ad82adfd",
-    "fetched_at": "2026-08-12T03:58:40.160754+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-    "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
-    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 00:02:06 GMT",
-    "source": "BBC News",
-    "id": "3f7cdabd2d28bc88efb534fa90a860e1",
-    "fetched_at": "2026-08-12T01:16:09.569923+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-    "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:31:18 GMT",
-    "source": "BBC News",
-    "id": "2c316a3ca309e2b825a304a2146620c3",
-    "fetched_at": "2026-08-12T01:16:09.569892+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taliban wipes out decades of progress as 2.4M Afghan girls remain locked out of school, UN agency says",
-    "summary": "UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.",
-    "link": "https://www.foxnews.com/world/taliban-wipes-out-decades-progress-2-4m-afghan-girls-remain-locked-school-un-agency-says",
-    "published": "Tue, 11 Aug 2026 19:01:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ac84b62bfd402f7bf93b0c620cf07336",
-    "fetched_at": "2026-08-12T01:16:08.425965+00:00"
   }
 ]
