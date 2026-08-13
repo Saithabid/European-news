@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "France accues Iran of 'bloodshed' over use of death penalty",
+    "summary": "After a statement condemning Iran's use of the death penalty, tensions rose between senior diplomats. Paris accused Tehran of 'bloodshed' and Iran called France's stance 'blatant hypocrisy.'",
+    "link": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty",
+    "published": "Thu, 13 Aug 2026 14:03:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "91342af736ad615948938f80765b73e6",
+    "fetched_at": "2026-08-13T22:33:25.294865+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Azerbaijan bets on the pomegranate as its next big export",
+    "summary": "Azerbaijan is turning pomegranates, a fruit with 2,000 years of cultural history, into a global brand, with €48.2 million in exports and more than 200 cultivated varieties putting it in direct competition with Iran, Turkey and Spain",
+    "link": "http://www.euronews.com/business/2026/08/13/azerbaijan-bets-on-the-pomegranate-as-its-next-big-export",
+    "published": "Thu, 13 Aug 2026 14:14:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d690164e423594f07486d49a56a7964c",
+    "fetched_at": "2026-08-13T22:33:24.068298+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 21:43:47 GMT",
+    "source": "BBC News",
+    "id": "e1e53d14aa13f362316ffa2dade6b8d1",
+    "fetched_at": "2026-08-13T22:33:22.952166+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK ‘in free fall’ on free speech, expert warns as British MP brands Trump admin grant 'MAGA money meddling'",
+    "summary": "The U.S. Embassy in London is offering up to $500,000 for projects promoting Anglo-American principles including freedom of speech, limited government and the rule of law.",
+    "link": "https://www.foxnews.com/world/uk-free-fall-free-speech-expert-warns-british-mp-brands-trump-admin-grant-maga-money-meddling",
+    "published": "Thu, 13 Aug 2026 08:08:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a28c85f96932c4f280986325439370ac",
+    "fetched_at": "2026-08-13T22:33:21.770349+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s ‘Amazon’ in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
+    "summary": "Ukraine&apos;s drone strikes have knocked out 27% of Wildberries warehouse capacity, with losses estimated up to $8.5 billion as Russia&apos;s logistics reels.",
+    "link": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
+    "published": "Thu, 13 Aug 2026 17:20:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7679526e43f081ca79562c1c7faa8fb6",
+    "fetched_at": "2026-08-13T22:33:20.655566+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+    "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+    "published": "Thu, 13 Aug 2026 07:31:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "4ff1dffabe0e5dcfa02f65ccf383cf89",
+    "fetched_at": "2026-08-13T22:33:19.527399+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
+    "summary": "U.S. ambassador to Israel Mike Huckabee called settlers besieging a West Bank home of an American-Palestinian family \"terrorists.\"",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
+    "published": "Thu, 13 Aug 2026 17:11:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "9d7a7bc53fc85df55e1b535304a73fd1",
+    "fetched_at": "2026-08-13T22:33:18.411432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+    "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+    "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 20:37:14 GMT",
+    "source": "BBC News",
+    "id": "38018e9653dcc1786f299b026515ec2d",
+    "fetched_at": "2026-08-13T22:33:17.288462+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
     "summary": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
     "link": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "1cb1504504dfbe85493584c312c7e028",
     "fetched_at": "2026-08-13T14:50:59.385825+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Photos: See the best photos from the solar eclipse",
-    "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
-    "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-    "published": "Wed, 12 Aug 2026 21:38:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "c2a511f47a9403e15108f66fab7dfcaa",
-    "fetched_at": "2026-08-13T14:50:58.257987+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-    "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
-    "published": "Thu, 13 Aug 2026 09:18:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "e15364283a2bfddc82e367b1d7b9ab78",
-    "fetched_at": "2026-08-13T14:50:57.125251+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Travis Kelce says wedding to Taylor Swift was 'best night of my life'",
-    "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 01:19:23 GMT",
-    "source": "BBC News",
-    "id": "b3998ae854a36d687b1988ae6866c431",
-    "fetched_at": "2026-08-13T14:50:56.005556+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zambians voting as president bids for second term",
-    "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 10:51:35 GMT",
-    "source": "BBC News",
-    "id": "ef9d8448815cc48f5519b40e51f96306",
-    "fetched_at": "2026-08-13T12:53:12.415886+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
-    "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 08:15:10 GMT",
-    "source": "BBC News",
-    "id": "af5843371ac3527e865e4e7b68ebfec3",
-    "fetched_at": "2026-08-13T12:53:12.415884+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-    "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 11:10:31 GMT",
-    "source": "BBC News",
-    "id": "585f1f878ca4c606638350da54e7cb01",
-    "fetched_at": "2026-08-13T12:53:12.415881+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin watches Russian navy drills off Russia's Sakhalin Island",
-    "summary": "Russia's President Vladimir Putin observed naval exercises off Sakhalin Island on Thursday before travelling to the disputed Kuril Islands, prompting a strong protest from Japan.",
-    "link": "http://www.euronews.com/video/2026/08/13/putin-watches-russian-navy-drills-off-russias-sakhalin-island",
-    "published": "Thu, 13 Aug 2026 13:00:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2440536f82e386304de441b65158cc7a",
-    "fetched_at": "2026-08-13T12:53:12.415878+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Mohsen Rezaei, Iran's new security chief with an Interpol Red Notice?",
-    "summary": "Mohsen Rezaei is one of the Islamic Republic's founding military figures, a four-time failed presidential candidate and the subject of an Interpol Red Notice over the 1994 Buenos Aires bombing that killed 85 people. Here is what we know about Iran's new security council chief.",
-    "link": "http://www.euronews.com/2026/08/13/who-is-mohsen-rezaei-irans-new-security-chief-with-an-interpol-red-notice",
-    "published": "Thu, 13 Aug 2026 13:27:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6a0f1e9563ae757e31854ffa50e2e43c",
-    "fetched_at": "2026-08-13T12:53:12.415876+00:00"
   }
 ]
