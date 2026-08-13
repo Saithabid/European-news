@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Australian army whistleblower released on parole after more than two years in jail",
+    "summary": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 02:23:39 GMT",
+    "source": "BBC News",
+    "id": "e9648b1c6e3f0e1d56a72f780523824e",
+    "fetched_at": "2026-08-13T04:03:32.703020+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 22:41:46 GMT",
+    "source": "BBC News",
+    "id": "39a15cb021ebfb8f2beea59056f0b11f",
+    "fetched_at": "2026-08-13T04:03:31.629458+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+    "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 01:31:21 GMT",
+    "source": "BBC News",
+    "id": "4ff8f8d7c54cae8b8b873b9b7af8c37f",
+    "fetched_at": "2026-08-13T04:03:30.516480+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former judge removed by Orbán elected Hungarian president",
+    "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
+    "source": "BBC News",
+    "id": "af44bc238069266c1cc4c670db8c0b43",
+    "fetched_at": "2026-08-13T04:03:29.415204+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+    "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 11:28:05 GMT",
+    "source": "BBC News",
+    "id": "affff1cda06fd0127c2b774fd706ba01",
+    "fetched_at": "2026-08-13T04:03:28.304571+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
+    "summary": "A United Nations-backed survey found no widespread acute malnutrition in Gaza, prompting Israel&apos;s ambassador to call prior famine claims a blood libel.",
+    "link": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
+    "published": "Tue, 11 Aug 2026 06:00:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "99b750e6501380bfa48cc5fdad9828b1",
+    "fetched_at": "2026-08-13T04:03:27.207889+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+    "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+    "published": "Wed, 12 Aug 2026 07:25:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "23791a046ac9886cdd1d9f67416162dc",
+    "fetched_at": "2026-08-13T04:03:26.098357+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Photos: See the best photos from the solar eclipse",
+    "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+    "published": "Wed, 12 Aug 2026 21:38:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "c2a511f47a9403e15108f66fab7dfcaa",
+    "fetched_at": "2026-08-13T04:03:24.976510+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
     "summary": "The vessel is said to have overturned after being hit by strong waves.",
     "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "a8da0ee07e5a80ff24128c92d13953d7",
     "fetched_at": "2026-08-12T14:51:00.765964+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-    "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
-    "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-    "published": "Tue, 11 Aug 2026 07:11:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "c996bd771dea024d29dae59878322d25",
-    "fetched_at": "2026-08-12T14:50:59.633012+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-    "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-    "published": "Wed, 12 Aug 2026 09:38:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea8a95ef86913244b08925ef46471f9d",
-    "fetched_at": "2026-08-12T14:50:58.511554+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Luigi Mangione murder trial to have anonymous jury",
-    "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
-    "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 19:12:54 GMT",
-    "source": "BBC News",
-    "id": "0bf989a8a4222de0eeae96e7645d23ff",
-    "fetched_at": "2026-08-12T14:50:57.379047+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
-    "summary": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 22:22:33 GMT",
-    "source": "BBC News",
-    "id": "457642d0312d968d14061c97d3725d65",
-    "fetched_at": "2026-08-12T14:50:56.260021+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
-    "summary": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 20:39:42 GMT",
-    "source": "BBC News",
-    "id": "c8532d47b8f7a74a20c3fdec57a44391",
-    "fetched_at": "2026-08-12T14:50:55.126996+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-    "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 00:14:42 GMT",
-    "source": "BBC News",
-    "id": "0e5fa51d3156e993de5f83ce9ea07768",
-    "fetched_at": "2026-08-12T14:50:53.986853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-    "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
-    "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 12:10:45 GMT",
-    "source": "BBC News",
-    "id": "d2b22a5606dd6ccd996afc3d1cd3ba6c",
-    "fetched_at": "2026-08-12T12:51:34.138659+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli settlers besieging Palestinian families in West Bank village",
-    "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 12:16:22 GMT",
-    "source": "BBC News",
-    "id": "7fc14694c35324d04af5d3a3705ec3ef",
-    "fetched_at": "2026-08-12T12:51:34.138656+00:00"
   }
 ]
