@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Indian actor's video with endangered gibbon sparks investigation",
+    "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 07:05:35 GMT",
+    "source": "BBC News",
+    "id": "03f530aa90034dc1e49bd5b7c861dd4d",
+    "fetched_at": "2026-08-13T09:04:49.828686+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+    "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 08:12:53 GMT",
+    "source": "BBC News",
+    "id": "4f721e2a06aaa038334635db8a76303a",
+    "fetched_at": "2026-08-13T09:04:49.828684+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Colombia: \"scene of horror\" as Pereira rescuers search rubble",
+    "summary": "Colombia's earthquake death toll rose to 265 in Pereira by 12 August 2026, with almost 500 still missing. Rescuers described scenes of horror as the critical 72-hour survival window closed.",
+    "link": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble",
+    "published": "Thu, 13 Aug 2026 09:31:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cccbd0e0cf97bbbf611f9788c6e5770a",
+    "fetched_at": "2026-08-13T09:04:49.828681+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tokyo issues angry response as Putin makes his first visit to the disputed Kuril islands",
+    "summary": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin, coupled with their rich mineral deposits and fishing grounds.",
+    "link": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands",
+    "published": "Thu, 13 Aug 2026 09:32:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fa66c605181616661fc1edc5fb88cb0b",
+    "fetched_at": "2026-08-13T09:04:49.828679+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Timelapse of partial solar eclipse seen from Royal Observatory Greenwich",
+    "summary": "Britain witnessed its most significant solar eclipse since 1999, with more than 90% of the Sun obscured in some parts of the country. Crowds gathered in parks and open spaces to watch the rare celestial event. In London, the sky turned an eerie grey as a sliver of sunlight appeared above the Moon.",
+    "link": "http://www.euronews.com/video/2026/08/13/timelapse-of-partial-solar-eclipse-seen-from-royal-observatory-greenwich",
+    "published": "Thu, 13 Aug 2026 09:47:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6955c40684a6c8eedee776d552ac0032",
+    "fetched_at": "2026-08-13T09:04:49.828676+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Soaring stingray numbers off California beaches drive record injuries",
+    "summary": "California is seeing unusually large numbers of round stingrays near its beaches, as warmer coastal waters and an expected strong El Niño draw the animals closer to shore.",
+    "link": "http://www.euronews.com/video/2026/08/13/soaring-stingray-numbers-off-california-beaches-drive-record-injuries",
+    "published": "Thu, 13 Aug 2026 10:04:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6840cc3b3419ff3ec3d916bdf71a4960",
+    "fetched_at": "2026-08-13T09:04:49.828673+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+    "source": "BBC News",
+    "id": "63e0b1893682ab3113ab49ba53a23931",
+    "fetched_at": "2026-08-13T09:04:49.828670+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taliban wipes out decades of progress as 2.4M Afghan girls remain locked out of school, UN agency says",
+    "summary": "UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.",
+    "link": "https://www.foxnews.com/world/taliban-wipes-out-decades-progress-2-4m-afghan-girls-remain-locked-school-un-agency-says",
+    "published": "Tue, 11 Aug 2026 19:01:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ac84b62bfd402f7bf93b0c620cf07336",
+    "fetched_at": "2026-08-13T09:04:49.828666+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "North Korea launches another ballistic missile as US, South Korea prepare for military drills",
+    "summary": "North Korea&apos;s second ballistic missile launch in less than a week comes as the U.S. and South Korea prepare for Ulchi Freedom Shield exercises.",
+    "link": "https://www.foxnews.com/world/north-korea-launches-ballistic-missile-us-south-korea-prepare-military-drills",
+    "published": "Tue, 11 Aug 2026 22:00:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2cbe0191894f7d27539905c5dc659c36",
+    "fetched_at": "2026-08-13T09:04:49.828640+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
+    "summary": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti&apos;s reliability and China&apos;s expanding presence.",
+    "link": "https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
+    "published": "Wed, 12 Aug 2026 09:15:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6c230439659c35561f3cb5b67126cd6d",
+    "fetched_at": "2026-08-13T09:04:48.690122+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
+    "summary": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.",
+    "link": "https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
+    "published": "Wed, 12 Aug 2026 09:53:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a8da0ee07e5a80ff24128c92d13953d7",
+    "fetched_at": "2026-08-13T09:04:47.549018+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
+    "summary": "Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine&apos;s drone attack crippled Novorossiysk grain terminals.",
+    "link": "https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific",
+    "published": "Wed, 12 Aug 2026 12:15:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8dce7e3d2ef9062536a801d43fc8f9d5",
+    "fetched_at": "2026-08-13T09:04:46.398432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands of Canadians call for US ambassador's expulsion",
+    "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 22:56:44 GMT",
+    "source": "BBC News",
+    "id": "357b44f60f4dc52500a09320deced082",
+    "fetched_at": "2026-08-13T09:04:45.250935+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three men will be executed on the same day as death penalties rise in US",
+    "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 20:52:20 GMT",
+    "source": "BBC News",
+    "id": "de6a8aaac34f5c5eeb26b521c64d629d",
+    "fetched_at": "2026-08-13T09:04:44.111602+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
+    "summary": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 23:26:21 GMT",
+    "source": "BBC News",
+    "id": "a180881fc728c5e2b93e1acdb33528bc",
+    "fetched_at": "2026-08-13T09:04:42.936760+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 23:19:57 GMT",
+    "source": "BBC News",
+    "id": "f56645047879e8b11824d648e3e9f063",
+    "fetched_at": "2026-08-13T09:04:41.757681+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Japan protests against Putin visit to disputed islands",
     "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "BBC News",
     "id": "7e17f8ddffc3f09bd8e746c8762e755c",
     "fetched_at": "2026-08-12T18:52:30.324550+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 17:47:01 GMT",
-    "source": "BBC News",
-    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
-    "fetched_at": "2026-08-12T18:52:30.324518+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
-    "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
-    "link": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
-    "published": "Mon, 10 Aug 2026 19:08:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5af1bf25995f078a17c9bf1c7b816954",
-    "fetched_at": "2026-08-12T18:52:29.222804+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Syrian President Assad sentenced to death in absentia",
-    "summary": "Syrian President Bashar Assad and his brother Maher were sentenced to death in absentia by a Damascus court for war crimes and crimes against humanity.",
-    "link": "https://www.foxnews.com/world/former-syrian-president-assad-sentenced-death-absentia",
-    "published": "Tue, 11 Aug 2026 08:58:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "31d154f6a14df7de6d0511b45faf0f72",
-    "fetched_at": "2026-08-12T18:52:28.123699+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Earthquake response strains Colombia's new government and rescuers",
-    "summary": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
-    "published": "Wed, 12 Aug 2026 01:13:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "85e6c8f286da91fa25f9b04227af197a",
-    "fetched_at": "2026-08-12T18:52:27.024761+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. Marine held in Russia on disputed charges has been released",
-    "summary": "Russia released an American military veteran, allowing his return to the U.S. after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
-    "published": "Wed, 12 Aug 2026 01:27:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "ed9ef4bb780a6472a351c6e2b4d0ff5e",
-    "fetched_at": "2026-08-12T18:52:25.913937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Has the U.S. lost its dominance to China?",
-    "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. <em>The New Yorker</em>'s Evan Osnos discusses his story <a href=\"https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china\" target=\"_blank\">\"The Future, Made in China.\"</a>",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
-    "published": "Wed, 12 Aug 2026 14:24:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "8b16bce5b14d88c036eed52a5abe0632",
-    "fetched_at": "2026-08-12T18:52:24.807565+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia releases former US Marine reported in poor health",
-    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
-    "source": "BBC News",
-    "id": "91517b773560b77f7303bde3eae9cf9f",
-    "fetched_at": "2026-08-12T18:52:23.714572+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sixteen inmates injured after lightning strikes US prison",
-    "summary": "Ohio and other midwestern states have seen severe storms in recent days, which have damaged homes and have been linked to three fatalities.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0zn3dv9ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 16:57:59 GMT",
-    "source": "BBC News",
-    "id": "21ef7139171b625eec30f4f66eea91ac",
-    "fetched_at": "2026-08-12T18:52:22.605140+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "LA Lakers to be sold in record $12.5bn deal",
-    "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 16:11:04 GMT",
-    "source": "BBC News",
-    "id": "a2dffdfea4f38ee813f4abf91c1a7671",
-    "fetched_at": "2026-08-12T16:49:58.001826+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Libyan Marshal Haftar's intelligence chief killed in Benghazi car bombing",
-    "summary": "Fawzi al-Mansouri was assassinated outside a mosque in an LNA stronghold, in what analysts said was a major blow to the Haftar family's security credentials and could delay a US-brokered plan to reunify Libya's rival governments. No group has claimed responsibility.",
-    "link": "http://www.euronews.com/2026/08/12/libyan-marshal-haftars-intelligence-chief-killed-in-benghazi-car-bombing",
-    "published": "Wed, 12 Aug 2026 17:47:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7e1d6f456aa2a254969bfbcb8c32eed4",
-    "fetched_at": "2026-08-12T16:49:58.001824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 12th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/12/latest-news-bulletin-august-12th-2026-evening",
-    "published": "Wed, 12 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5bbc78ef31ab84e1837755c1a693cd80",
-    "fetched_at": "2026-08-12T16:49:58.001822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump hails 'wall of steel' blocakade, says US will keep control of Strait of Hormuz",
-    "summary": "Iran maintains it effectively controls much of the waterway and intends to impose a toll system in response to the US war launched by Trump on 28 February.",
-    "link": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
-    "published": "Wed, 12 Aug 2026 18:20:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7a0dcd07bbad269a5771c1664681a233",
-    "fetched_at": "2026-08-12T16:49:58.001819+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New train service connects Finland and Sweden for first time in decades",
-    "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:28:11 GMT",
-    "source": "BBC News",
-    "id": "50a2b63ec91173f1174689badaf60fff",
-    "fetched_at": "2026-08-12T16:49:58.001816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:19:41 GMT",
-    "source": "BBC News",
-    "id": "22067fc0f2cff33b9c83b727b08ac865",
-    "fetched_at": "2026-08-12T16:49:58.001814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-    "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 04:29:02 GMT",
-    "source": "BBC News",
-    "id": "3f7cdabd2d28bc88efb534fa90a860e1",
-    "fetched_at": "2026-08-12T16:49:58.001810+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-    "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
-    "link": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
-    "published": "Mon, 10 Aug 2026 14:45:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
-    "fetched_at": "2026-08-12T16:49:58.001779+00:00"
   }
 ]
