@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+    "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+    "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 01:31:21 GMT",
+    "source": "BBC News",
+    "id": "4ff8f8d7c54cae8b8b873b9b7af8c37f",
+    "fetched_at": "2026-08-13T14:51:03.891185+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
+    "summary": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
+    "link": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
+    "published": "Thu, 13 Aug 2026 15:50:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b1edcdb9713a49a1c2773a3bbf5202e9",
+    "fetched_at": "2026-08-13T14:51:03.891183+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary unveils new 'clean up' plan as governemnt takes first steps to unlocking frozen EU funds",
+    "summary": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
+    "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
+    "published": "Thu, 13 Aug 2026 16:03:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26132d3c969fb5105b20db53e4d25fab",
+    "fetched_at": "2026-08-13T14:51:03.891180+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former judge removed by Orbán elected Hungarian president",
+    "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
+    "source": "BBC News",
+    "id": "af44bc238069266c1cc4c670db8c0b43",
+    "fetched_at": "2026-08-13T14:51:03.891177+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+    "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 11:28:05 GMT",
+    "source": "BBC News",
+    "id": "affff1cda06fd0127c2b774fd706ba01",
+    "fetched_at": "2026-08-13T14:51:03.891175+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
+    "summary": "A United Nations-backed survey found no widespread acute malnutrition in Gaza, prompting Israel&apos;s ambassador to call prior famine claims a blood libel.",
+    "link": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
+    "published": "Tue, 11 Aug 2026 06:00:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "99b750e6501380bfa48cc5fdad9828b1",
+    "fetched_at": "2026-08-13T14:51:03.891171+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
+    "summary": "Videos show rescue workers combing through rubble as more than 3,000 people remain missing on Tuesday after a 7.4-magnitude earthquake in Colombia.",
+    "link": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
+    "published": "Tue, 11 Aug 2026 13:07:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dbf8d8e1abb7fd74af3b4843c0957562",
+    "fetched_at": "2026-08-13T14:51:03.891145+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
+    "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data &quot;completely shatters&quot; allegations Israel deliberately starved civilians.",
+    "link": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
+    "published": "Thu, 13 Aug 2026 10:00:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8453ec4a6d586f6daee051513f459f3c",
+    "fetched_at": "2026-08-13T14:51:02.773873+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+    "summary": "After President Trump took office, Andrew Tate proclaimed, \"The Tates will be free.\" A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition request.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+    "published": "Wed, 12 Aug 2026 06:47:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "13e7a021e1586f50d12935b688266818",
+    "fetched_at": "2026-08-13T14:51:01.644294+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+    "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+    "published": "Wed, 12 Aug 2026 07:25:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "23791a046ac9886cdd1d9f67416162dc",
+    "fetched_at": "2026-08-13T14:51:00.526880+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
+    "summary": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy.",
+    "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+    "published": "Wed, 12 Aug 2026 08:36:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "1cb1504504dfbe85493584c312c7e028",
+    "fetched_at": "2026-08-13T14:50:59.385825+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Photos: See the best photos from the solar eclipse",
+    "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+    "published": "Wed, 12 Aug 2026 21:38:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "c2a511f47a9403e15108f66fab7dfcaa",
+    "fetched_at": "2026-08-13T14:50:58.257987+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+    "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+    "published": "Thu, 13 Aug 2026 09:18:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "e15364283a2bfddc82e367b1d7b9ab78",
+    "fetched_at": "2026-08-13T14:50:57.125251+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Travis Kelce says wedding to Taylor Swift was 'best night of my life'",
+    "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 01:19:23 GMT",
+    "source": "BBC News",
+    "id": "b3998ae854a36d687b1988ae6866c431",
+    "fetched_at": "2026-08-13T14:50:56.005556+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zambians voting as president bids for second term",
     "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
     "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "f56645047879e8b11824d648e3e9f063",
     "fetched_at": "2026-08-13T09:04:41.757681+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan protests against Putin visit to disputed islands",
-    "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 06:21:31 GMT",
-    "source": "BBC News",
-    "id": "fb5e0e6b164e7aa7a384b639471abc71",
-    "fetched_at": "2026-08-13T07:16:02.920418+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BTS star V reveals hearing loss battle during livestream",
-    "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 04:09:12 GMT",
-    "source": "BBC News",
-    "id": "5202c3aeea41604a12716dff533e5c83",
-    "fetched_at": "2026-08-13T07:16:02.920414+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli settlers besieging Palestinian families in West Bank village",
-    "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 16:14:08 GMT",
-    "source": "BBC News",
-    "id": "7fc14694c35324d04af5d3a3705ec3ef",
-    "fetched_at": "2026-08-13T07:16:02.920412+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oil spill from tanker believed to be Russian reaches Oman's coastline, Muscat authorities say",
-    "summary": "The beaches of Ras Madrakah on mainland Oman, around 200 kilometres north of Qabiliyah Island, have also been contaminated, according to Oman's Environment Authority, which has been keeping an eye on the leak.",
-    "link": "http://www.euronews.com/2026/08/13/oil-spill-from-tanker-believed-to-be-russian-reaches-omans-coastline-muscat-authorities-sa",
-    "published": "Thu, 13 Aug 2026 06:17:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9b97a4deedf6e105e6156d242b296f20",
-    "fetched_at": "2026-08-13T07:16:02.920409+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Congo’s Ebola outbreak on track to surpass deadliest in history, WHO chief says",
-    "summary": "“At its current pace, it’s on track to eclipse the West African Ebola outbreak of 2014 to 2016,” WHO chief Tedros Adhanom Ghebreyesus told reporters on Wednesday.",
-    "link": "http://www.euronews.com/2026/08/13/congos-ebola-outbreak-on-track-to-surpass-deadliest-in-history-who-chief-says",
-    "published": "Thu, 13 Aug 2026 06:30:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "aa95eab77b43a0983b360c9d40bc9c7c",
-    "fetched_at": "2026-08-13T07:16:02.920379+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US strikes targeting Houthis killed 153 civilians in Yemen last year, Pentagon review says",
-    "summary": "The Pentagon review focused on three airstrikes in April 2025 that were launched during the US campaign against the Houthis when the militants were attacking commercial ships in the Red Sea, a crucial global trade route.",
-    "link": "http://www.euronews.com/2026/08/13/us-strikes-targeting-houthis-killed-153-civilians-in-yemen-last-year-pentagon-review-says",
-    "published": "Thu, 13 Aug 2026 06:49:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f5bb142dbd90353e20c53e5d2dcbd6d1",
-    "fetched_at": "2026-08-13T07:16:01.766234+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 13th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-morning",
-    "published": "Thu, 13 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "915bb91be6f6d15544fd9e36bc4b3612",
-    "fetched_at": "2026-08-13T07:16:00.603337+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rare eclipse plunges parts of Europe into darkness",
-    "summary": "Skywatchers across Europe gathered to watch a rare solar eclipse, using protective glasses as the Moon passed in front of the Sun.",
-    "link": "http://www.euronews.com/video/2026/08/13/rare-eclipse-plunges-parts-of-europe-into-darkness",
-    "published": "Thu, 13 Aug 2026 08:00:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1026a05a745d4b88789276ac53907e36",
-    "fetched_at": "2026-08-13T07:15:59.361615+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Half a million visitors flock to Spain’s path of total solar eclipse",
-    "summary": "Spain witnessed its first total solar eclipse in more than a century on Wednesday 12 August, drawing millions of people to viewing sites across the north of the country as the Moon passed directly in front of the Sun.",
-    "link": "http://www.euronews.com/video/2026/08/13/half-a-million-visitors-flock-to-spains-path-of-total-solar-eclipse",
-    "published": "Thu, 13 Aug 2026 08:28:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9bcab8496b40432038fad25b4d74a476",
-    "fetched_at": "2026-08-13T07:15:58.128017+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-    "source": "BBC News",
-    "id": "743b1d41d77c3cd77e7f408e456dddd9",
-    "fetched_at": "2026-08-13T07:15:56.975790+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-    "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-    "published": "Wed, 12 Aug 2026 09:38:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea8a95ef86913244b08925ef46471f9d",
-    "fetched_at": "2026-08-13T07:15:55.839838+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-    "published": "Thu, 13 Aug 2026 02:04:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "322a747e5503071eab2499d734d468ac",
-    "fetched_at": "2026-08-13T07:15:54.574363+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australian army whistleblower released on parole after more than two years in jail",
-    "summary": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 02:23:39 GMT",
-    "source": "BBC News",
-    "id": "e9648b1c6e3f0e1d56a72f780523824e",
-    "fetched_at": "2026-08-13T04:03:32.703020+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-    "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 22:41:46 GMT",
-    "source": "BBC News",
-    "id": "39a15cb021ebfb8f2beea59056f0b11f",
-    "fetched_at": "2026-08-13T04:03:31.629458+00:00"
   }
 ]
