@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
+    "summary": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
+    "link": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
+    "published": "Thu, 13 Aug 2026 21:59:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2aa542e69aacc40136fae957ad227e34",
+    "fetched_at": "2026-08-13T20:33:45.308290+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+    "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
+    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 04:29:02 GMT",
+    "source": "BBC News",
+    "id": "3f7cdabd2d28bc88efb534fa90a860e1",
+    "fetched_at": "2026-08-13T20:33:44.187049+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
+    "source": "BBC News",
+    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
+    "fetched_at": "2026-08-13T20:33:43.070600+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia releases former US Marine reported in poor health",
+    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
+    "source": "BBC News",
+    "id": "91517b773560b77f7303bde3eae9cf9f",
+    "fetched_at": "2026-08-13T20:33:41.945181+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Family of Irish plane crash victim awarded $29m in damages",
+    "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 19:08:49 GMT",
+    "source": "BBC News",
+    "id": "0803d35ac73bfff46801da9fe8e833bc",
+    "fetched_at": "2026-08-13T20:33:40.825468+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
+    "summary": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
+    "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
+    "published": "Thu, 13 Aug 2026 15:40:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c768de2a61f81c8ff2a1ae4b8c75b01b",
+    "fetched_at": "2026-08-13T20:33:39.708405+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Has the U.S. lost its dominance to China?",
+    "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. <em>The New Yorker</em>'s Evan Osnos discusses his story <a href=\"https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china\" target=\"_blank\">\"The Future, Made in China.\"</a>",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+    "published": "Wed, 12 Aug 2026 14:24:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b16bce5b14d88c036eed52a5abe0632",
+    "fetched_at": "2026-08-13T20:33:38.589782+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump sued over Truth Social's $100,000 early access service",
+    "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:48:56 GMT",
+    "source": "BBC News",
+    "id": "cbdffa24e20e81960c574b64d11c64a9",
+    "fetched_at": "2026-08-13T20:33:37.472999+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Air India to test all pilots for banned substances",
     "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
     "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "6a0f1e9563ae757e31854ffa50e2e43c",
     "fetched_at": "2026-08-13T12:53:12.415876+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France accues Iran of 'bloodshed' over use of death penalty",
-    "summary": "After a statement condemning Iran's use of the death penalty, tensions rose between senior diplomats. Paris accused Tehran of 'bloodshed' and Iran called France's stance 'blatant hypocrisy.'",
-    "link": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty",
-    "published": "Thu, 13 Aug 2026 14:03:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "91342af736ad615948938f80765b73e6",
-    "fetched_at": "2026-08-13T12:53:12.415872+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Azerbaijan bets on the pomegranate as its next big export",
-    "summary": "Azerbaijan is turning pomegranates, a fruit with 2,000 years of cultural history, into a global brand, with €48.2 million in exports and more than 200 cultivated varieties putting it in direct competition with Iran, Turkey and Spain",
-    "link": "http://www.euronews.com/business/2026/08/13/azerbaijan-bets-on-the-pomegranate-as-its-next-big-export",
-    "published": "Thu, 13 Aug 2026 14:14:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d690164e423594f07486d49a56a7964c",
-    "fetched_at": "2026-08-13T12:53:12.415870+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-    "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 14:34:25 GMT",
-    "source": "BBC News",
-    "id": "104a9ee1ca92ce3e55f590c6e3e57f92",
-    "fetched_at": "2026-08-13T12:53:12.415866+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France bans unsolicited telemarketing calls",
-    "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 14:19:45 GMT",
-    "source": "BBC News",
-    "id": "7e17f8ddffc3f09bd8e746c8762e755c",
-    "fetched_at": "2026-08-13T12:53:12.415840+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK ‘in free fall’ on free speech, expert warns as British MP brands Trump admin grant 'MAGA money meddling'",
-    "summary": "The U.S. Embassy in London is offering up to $500,000 for projects promoting Anglo-American principles including freedom of speech, limited government and the rule of law.",
-    "link": "https://www.foxnews.com/world/uk-free-fall-free-speech-expert-warns-british-mp-brands-trump-admin-grant-maga-money-meddling",
-    "published": "Thu, 13 Aug 2026 08:08:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a28c85f96932c4f280986325439370ac",
-    "fetched_at": "2026-08-13T12:53:11.273117+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How a road could change West Africa's urban future",
-    "summary": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world's most consequential transformations.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "61a9e474159e7a417335e19b10fd07e0",
-    "fetched_at": "2026-08-13T12:53:10.125276+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-    "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-    "published": "Thu, 13 Aug 2026 07:31:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "4ff1dffabe0e5dcfa02f65ccf383cf89",
-    "fetched_at": "2026-08-13T12:53:08.980948+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two dead after military helicopter crashes in Texas",
-    "summary": "An Apache military helicopter crashed in central Texas, officials said Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqep0n2ej9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 02:47:34 GMT",
-    "source": "BBC News",
-    "id": "3302302b26182e7b73d8c008e07da6c6",
-    "fetched_at": "2026-08-13T12:53:07.809342+00:00"
   }
 ]
