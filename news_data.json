@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Air India to test all pilots for banned substances",
+    "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+    "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 16:52:15 GMT",
+    "source": "BBC News",
+    "id": "24ffc2299444cde397e75bbf3bc21345",
+    "fetched_at": "2026-08-13T18:53:12.137244+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+    "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 16:20:41 GMT",
+    "source": "BBC News",
+    "id": "4f721e2a06aaa038334635db8a76303a",
+    "fetched_at": "2026-08-13T18:53:12.137241+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Survivors tell of horror of Zimbabwe ferry sinking as police say death toll hits 46",
+    "summary": "The overloaded government ferry, a vital link for villagers and fish traders around the vast Lake Kariba, overturned in choppy waters on Tuesday in one of the country's worst passenger boat disasters.",
+    "link": "http://www.euronews.com/2026/08/13/survivors-tell-of-horror-of-zimbabwe-ferry-sinking-as-police-say-death-toll-hits-46",
+    "published": "Thu, 13 Aug 2026 18:57:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3d7051006b79e1ac0d87dedc3dd11a0a",
+    "fetched_at": "2026-08-13T18:53:12.137238+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+    "source": "BBC News",
+    "id": "63e0b1893682ab3113ab49ba53a23931",
+    "fetched_at": "2026-08-13T18:53:12.137236+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taliban wipes out decades of progress as 2.4M Afghan girls remain locked out of school, UN agency says",
+    "summary": "UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.",
+    "link": "https://www.foxnews.com/world/taliban-wipes-out-decades-progress-2-4m-afghan-girls-remain-locked-school-un-agency-says",
+    "published": "Tue, 11 Aug 2026 19:01:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ac84b62bfd402f7bf93b0c620cf07336",
+    "fetched_at": "2026-08-13T18:53:12.137232+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "North Korea launches another ballistic missile as US, South Korea prepare for military drills",
+    "summary": "North Korea&apos;s second ballistic missile launch in less than a week comes as the U.S. and South Korea prepare for Ulchi Freedom Shield exercises.",
+    "link": "https://www.foxnews.com/world/north-korea-launches-ballistic-missile-us-south-korea-prepare-military-drills",
+    "published": "Tue, 11 Aug 2026 22:00:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2cbe0191894f7d27539905c5dc659c36",
+    "fetched_at": "2026-08-13T18:53:12.137229+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
+    "summary": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti&apos;s reliability and China&apos;s expanding presence.",
+    "link": "https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
+    "published": "Wed, 12 Aug 2026 09:15:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6c230439659c35561f3cb5b67126cd6d",
+    "fetched_at": "2026-08-13T18:53:12.137226+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
+    "summary": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.",
+    "link": "https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
+    "published": "Wed, 12 Aug 2026 09:53:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a8da0ee07e5a80ff24128c92d13953d7",
+    "fetched_at": "2026-08-13T18:53:12.137198+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
+    "summary": "Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine&apos;s drone attack crippled Novorossiysk grain terminals.",
+    "link": "https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific",
+    "published": "Wed, 12 Aug 2026 12:15:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8dce7e3d2ef9062536a801d43fc8f9d5",
+    "fetched_at": "2026-08-13T18:53:11.023908+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning",
+    "summary": "Sen. Ted Cruz says he&apos;s deeply concerned about a Board of Peace provision that could cover up to $400 million in debts from Hamas&apos; rule in Gaza.",
+    "link": "https://www.foxnews.com/world/cruz-sounds-alarm-over-400m-hamas-era-provision-board-peace-plan-issues-blunt-warning",
+    "published": "Thu, 13 Aug 2026 13:38:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bc9ced581533955383dfe392a3be42d5",
+    "fetched_at": "2026-08-13T18:53:09.892818+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
+    "summary": "Polish Prime Minister Donald Tusk says Poland arrested a Russian citizen recruited by Russian intelligence to kill a Ukrainian-American in Warsaw.",
+    "link": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
+    "published": "Thu, 13 Aug 2026 14:26:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
+    "fetched_at": "2026-08-13T18:53:08.773381+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+    "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+    "published": "Thu, 13 Aug 2026 05:58:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "0e8833c7a766002effd641992a067865",
+    "fetched_at": "2026-08-13T18:53:07.610522+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 09:40:18 GMT",
+    "source": "BBC News",
+    "id": "f56645047879e8b11824d648e3e9f063",
+    "fetched_at": "2026-08-13T18:53:06.478013+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
+    "summary": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 23:26:21 GMT",
+    "source": "BBC News",
+    "id": "a180881fc728c5e2b93e1acdb33528bc",
+    "fetched_at": "2026-08-13T18:53:05.325143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three men will be executed on the same day as death penalties rise in US",
+    "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 13:27:00 GMT",
+    "source": "BBC News",
+    "id": "de6a8aaac34f5c5eeb26b521c64d629d",
+    "fetched_at": "2026-08-13T18:53:04.199100+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
     "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
     "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "3302302b26182e7b73d8c008e07da6c6",
     "fetched_at": "2026-08-13T12:53:07.809342+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
-    "summary": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 20:36:18 GMT",
-    "source": "BBC News",
-    "id": "6da0055c94b9161ea133681cef82a6bc",
-    "fetched_at": "2026-08-13T12:53:06.657394+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump sued over Truth Social's $100,000 early access service",
-    "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-    "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 17:48:56 GMT",
-    "source": "BBC News",
-    "id": "cbdffa24e20e81960c574b64d11c64a9",
-    "fetched_at": "2026-08-13T12:53:05.506157+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-    "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 22:58:45 GMT",
-    "source": "BBC News",
-    "id": "09fddf747c47c10e06e85412e1649c83",
-    "fetched_at": "2026-08-13T12:53:04.364003+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK defends seizing shadow fleet tanker after Putin threat",
-    "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 09:52:30 GMT",
-    "source": "BBC News",
-    "id": "9cc63c9239c28b5231b97ef5149b2948",
-    "fetched_at": "2026-08-13T10:55:30.419081+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 13th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-midday",
-    "published": "Thu, 13 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5a090a69cb41ebca201519eb54c652cf",
-    "fetched_at": "2026-08-13T10:55:30.419079+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian drone strikes passenger train in Odesa region, killing driver",
-    "summary": "A Russian Shahed drone struck a passenger train in Ukraine’s Odesa region on 13 August 2026, killing the driver and his assistant and forcing the evacuation of 340 passengers, including 67 children, in the Berezivka district.",
-    "link": "http://www.euronews.com/video/2026/08/13/russian-drone-strikes-passenger-train-in-odesa-region-killing-driver",
-    "published": "Thu, 13 Aug 2026 12:43:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b12d8812e30cafd51c8664e6c36a1087",
-    "fetched_at": "2026-08-13T10:55:30.419077+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-    "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 18:19:41 GMT",
-    "source": "BBC News",
-    "id": "22067fc0f2cff33b9c83b727b08ac865",
-    "fetched_at": "2026-08-13T10:55:30.419075+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-    "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-    "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 04:29:02 GMT",
-    "source": "BBC News",
-    "id": "3f7cdabd2d28bc88efb534fa90a860e1",
-    "fetched_at": "2026-08-13T10:55:30.419072+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia releases former US Marine reported in poor health",
-    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
-    "source": "BBC News",
-    "id": "91517b773560b77f7303bde3eae9cf9f",
-    "fetched_at": "2026-08-13T10:55:30.419068+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
-    "source": "BBC News",
-    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
-    "fetched_at": "2026-08-13T10:55:30.419042+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump bets economic pressure can squeeze Iran as regime’s own failures deepen the pain",
-    "summary": "President Donald Trump says he is &quot;low-keying it&quot; with Iran as sanctions and a naval blockade compound Tehran&apos;s financial crisis and inflation.",
-    "link": "https://www.foxnews.com/world/trump-bets-economic-pressure-can-squeeze-iran-regimes-own-failures-deepen-pain",
-    "published": "Mon, 10 Aug 2026 14:45:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cf1dd6b7ecf09bebc91cb81c85680aa5",
-    "fetched_at": "2026-08-13T10:55:29.276167+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
-    "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
-    "link": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
-    "published": "Mon, 10 Aug 2026 19:08:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5af1bf25995f078a17c9bf1c7b816954",
-    "fetched_at": "2026-08-13T10:55:28.135928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Syrian President Assad sentenced to death in absentia",
-    "summary": "Syrian President Bashar Assad and his brother Maher were sentenced to death in absentia by a Damascus court for war crimes and crimes against humanity.",
-    "link": "https://www.foxnews.com/world/former-syrian-president-assad-sentenced-death-absentia",
-    "published": "Tue, 11 Aug 2026 08:58:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "31d154f6a14df7de6d0511b45faf0f72",
-    "fetched_at": "2026-08-13T10:55:27.012087+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. Marine held in Russia on disputed charges has been released",
-    "summary": "Russia released an American military veteran, allowing his return to the U.S. after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
-    "published": "Wed, 12 Aug 2026 01:27:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "ed9ef4bb780a6472a351c6e2b4d0ff5e",
-    "fetched_at": "2026-08-13T10:55:25.859415+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Has the U.S. lost its dominance to China?",
-    "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. <em>The New Yorker</em>'s Evan Osnos discusses his story <a href=\"https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china\" target=\"_blank\">\"The Future, Made in China.\"</a>",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
-    "published": "Wed, 12 Aug 2026 14:24:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "8b16bce5b14d88c036eed52a5abe0632",
-    "fetched_at": "2026-08-13T10:55:24.724228+00:00"
   }
 ]
