@@ -1,6 +1,36 @@
 [
   {
     "region": "Europe",
+    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+    "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 11:10:31 GMT",
+    "source": "BBC News",
+    "id": "585f1f878ca4c606638350da54e7cb01",
+    "fetched_at": "2026-08-14T03:59:06.235807+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US says dozens of countries helped China dodge Trump's tariffs",
+    "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 03:09:48 GMT",
+    "source": "BBC News",
+    "id": "1eeb261bdc115f6ec506c6a107168520",
+    "fetched_at": "2026-08-14T03:59:05.104025+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
+    "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data &quot;completely shatters&quot; allegations Israel deliberately starved civilians.",
+    "link": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
+    "published": "Thu, 13 Aug 2026 10:00:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8453ec4a6d586f6daee051513f459f3c",
+    "fetched_at": "2026-08-14T03:59:03.944095+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Who is Mohsen Rezaei, Iran's new security chief with an Interpol Red Notice?",
     "summary": "Mohsen Rezaei is one of the Islamic Republic's founding military figures, a four-time failed presidential candidate and the subject of an Interpol Red Notice over the 1994 Buenos Aires bombing that killed 85 people. Here is what we know about Iran's new security council chief.",
     "link": "http://www.euronews.com/2026/08/13/who-is-mohsen-rezaei-irans-new-security-chief-with-an-interpol-red-notice",
@@ -568,35 +598,5 @@
     "source": "BBC News",
     "id": "af44bc238069266c1cc4c670db8c0b43",
     "fetched_at": "2026-08-13T14:51:03.891177+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-    "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 11:28:05 GMT",
-    "source": "BBC News",
-    "id": "affff1cda06fd0127c2b774fd706ba01",
-    "fetched_at": "2026-08-13T14:51:03.891175+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
-    "summary": "A United Nations-backed survey found no widespread acute malnutrition in Gaza, prompting Israel&apos;s ambassador to call prior famine claims a blood libel.",
-    "link": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
-    "published": "Tue, 11 Aug 2026 06:00:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "99b750e6501380bfa48cc5fdad9828b1",
-    "fetched_at": "2026-08-13T14:51:03.891171+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief",
-    "summary": "Videos show rescue workers combing through rubble as more than 3,000 people remain missing on Tuesday after a 7.4-magnitude earthquake in Colombia.",
-    "link": "https://www.foxnews.com/world/more-than-3000-missing-colombia-earthquake-trump-administration-provides-15-5-million-relief",
-    "published": "Tue, 11 Aug 2026 13:07:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbf8d8e1abb7fd74af3b4843c0957562",
-    "fetched_at": "2026-08-13T14:51:03.891145+00:00"
   }
 ]
