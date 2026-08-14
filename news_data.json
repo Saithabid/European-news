@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "'Unprecedented' rains in Japan kill four people",
+    "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 04:54:13 GMT",
+    "source": "BBC News",
+    "id": "94b22131a7bab21a8ddec1f7c73b848e",
+    "fetched_at": "2026-08-14T05:39:29.220527+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs",
+    "summary": "Peter Navarro, the White House trade adviser, told reporters on a conference call that China is laundering its exports through more than 40 countries.",
+    "link": "http://www.euronews.com/2026/08/14/white-house-says-its-losing-19b-26b-a-year-in-revenue-as-countries-dodge-tariffs",
+    "published": "Fri, 14 Aug 2026 06:18:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "97f568d58f4a007c02baba9fab3a2d84",
+    "fetched_at": "2026-08-14T05:39:28.053145+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump orders Navy to return to older system of launching jets off aircraft carriers",
+    "summary": "According to a directive issued Thursday, the new mandate would likely cost billions of dollars and revert the Navy’s most advanced ships to a system that takes more sailors to operate and is more difficult to maintain.",
+    "link": "http://www.euronews.com/2026/08/14/trump-orders-navy-to-return-to-older-system-of-launching-jets-off-aircraft-carriers",
+    "published": "Fri, 14 Aug 2026 06:43:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "219aeae992cf8c1fd7301fd5a8313c85",
+    "fetched_at": "2026-08-14T05:39:26.936240+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 14th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-morning",
+    "published": "Fri, 14 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "14aad1be0debcb483a9e9147e2faecd3",
+    "fetched_at": "2026-08-14T05:39:25.810589+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+    "summary": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people.",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+    "published": "Thu, 13 Aug 2026 17:39:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "6e007f628b75e58f00bc40debdd1b8a4",
+    "fetched_at": "2026-08-14T05:39:24.647570+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
     "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
     "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "498a5875208c6351a51bee7a10d0bac5",
     "fetched_at": "2026-08-13T16:47:42.441435+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-    "summary": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 16:45:06 GMT",
-    "source": "BBC News",
-    "id": "3c5567162ead7dfe32ce7f2142b29782",
-    "fetched_at": "2026-08-13T16:47:41.274579+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-    "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-    "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 01:31:21 GMT",
-    "source": "BBC News",
-    "id": "4ff8f8d7c54cae8b8b873b9b7af8c37f",
-    "fetched_at": "2026-08-13T14:51:03.891185+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
-    "summary": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
-    "link": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
-    "published": "Thu, 13 Aug 2026 15:50:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b1edcdb9713a49a1c2773a3bbf5202e9",
-    "fetched_at": "2026-08-13T14:51:03.891183+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary unveils new 'clean up' plan as governemnt takes first steps to unlocking frozen EU funds",
-    "summary": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
-    "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
-    "published": "Thu, 13 Aug 2026 16:03:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "26132d3c969fb5105b20db53e4d25fab",
-    "fetched_at": "2026-08-13T14:51:03.891180+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Former judge removed by Orbán elected Hungarian president",
-    "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
-    "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 18:34:39 GMT",
-    "source": "BBC News",
-    "id": "af44bc238069266c1cc4c670db8c0b43",
-    "fetched_at": "2026-08-13T14:51:03.891177+00:00"
   }
 ]
