@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+    "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
+    "source": "BBC News",
+    "id": "7ab6d2a442f0cfd4c0de28f6aa7925d9",
+    "fetched_at": "2026-08-14T22:14:36.262659+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Person fined after using foghorn to wake sleeping polar bear",
+    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
+    "source": "BBC News",
+    "id": "80cca21a13d2ed52c70293e3c88503a1",
+    "fetched_at": "2026-08-14T22:14:35.103786+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+    "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+    "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 20:22:56 GMT",
+    "source": "BBC News",
+    "id": "f74290beec0d527f80fabbb4243ced6a",
+    "fetched_at": "2026-08-14T22:14:33.967577+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "source": "BBC News",
+    "id": "743b1d41d77c3cd77e7f408e456dddd9",
+    "fetched_at": "2026-08-14T22:14:32.806422+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+    "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+    "published": "Fri, 14 Aug 2026 18:03:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "464a3b890f55b345c5eb6bb441c4b77a",
+    "fetched_at": "2026-08-14T22:14:31.664358+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US missionary released following kidnap in Niger, Christian group says",
+    "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 10:18:02 GMT",
+    "source": "BBC News",
+    "id": "32aedffb09469fdbe9b200dc35a4ca0d",
+    "fetched_at": "2026-08-14T22:14:30.512587+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Stolen Matisse artworks recovered by police in Brazil",
     "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
     "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "bc9ced581533955383dfe392a3be42d5",
     "fetched_at": "2026-08-14T12:47:57.344066+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
-    "summary": "Polish Prime Minister Donald Tusk says Poland arrested a Russian citizen recruited by Russian intelligence to kill a Ukrainian-American in Warsaw.",
-    "link": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
-    "published": "Thu, 13 Aug 2026 14:26:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
-    "fetched_at": "2026-08-14T12:47:56.235304+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
-    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
-    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
-    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd31b6885bcad1977c88354f7c2ed254",
-    "fetched_at": "2026-08-14T12:47:55.105854+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "27d176d8e263dae09551bf505623b95d",
-    "fetched_at": "2026-08-14T12:47:53.991228+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. missionary who was kidnapped in Niger is released",
-    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "41428810912343661989b13f05b759f4",
-    "fetched_at": "2026-08-14T12:47:52.878766+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
-    "summary": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 23:26:21 GMT",
-    "source": "BBC News",
-    "id": "a180881fc728c5e2b93e1acdb33528bc",
-    "fetched_at": "2026-08-14T12:47:51.772945+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three men will be executed on the same day as death penalties rise in US",
-    "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:27:00 GMT",
-    "source": "BBC News",
-    "id": "de6a8aaac34f5c5eeb26b521c64d629d",
-    "fetched_at": "2026-08-14T12:47:50.693785+00:00"
   }
 ]
