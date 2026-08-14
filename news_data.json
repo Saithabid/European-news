@@ -1,6 +1,176 @@
 [
   {
     "region": "Europe",
+    "title": "Croatia wildfire near Omiš injures residents and disrupts holiday travel",
+    "summary": "A major wildfire near Omiš, around 25 kilometres south-east of Split, forced about 1,200 residents and tourists to evacuate overnight on Thursday and into Friday as strong winds drove the flames towards the coastal town.",
+    "link": "http://www.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel",
+    "published": "Fri, 14 Aug 2026 17:07:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a72df79d0bc2a85aac62ef075e1714fc",
+    "fetched_at": "2026-08-14T16:42:31.728653+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 14th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-evening",
+    "published": "Fri, 14 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fd95ae01b63cd59237da38ac6e292fd7",
+    "fetched_at": "2026-08-14T16:42:31.728651+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US backs Japanese sovereignty over disputed islands after Putin visit",
+    "summary": "The US ambassador said Washington was \"unwavering\" in recognising Japanese sovereignty, after Putin's visit to the four islands occupied by the Soviet Union in 1945 prompted Japan to summon Moscow's ambassador and consider tightening sanctions against Russia.",
+    "link": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
+    "published": "Fri, 14 Aug 2026 18:19:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7e4bd568903c79e9518db7596d0fc660",
+    "fetched_at": "2026-08-14T16:42:31.728649+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 21:43:47 GMT",
+    "source": "BBC News",
+    "id": "e1e53d14aa13f362316ffa2dade6b8d1",
+    "fetched_at": "2026-08-14T16:42:31.728646+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK ‘in free fall’ on free speech, expert warns as British MP brands Trump admin grant 'MAGA money meddling'",
+    "summary": "The U.S. Embassy in London is offering up to $500,000 for projects promoting Anglo-American principles including freedom of speech, limited government and the rule of law.",
+    "link": "https://www.foxnews.com/world/uk-free-fall-free-speech-expert-warns-british-mp-brands-trump-admin-grant-maga-money-meddling",
+    "published": "Thu, 13 Aug 2026 08:08:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a28c85f96932c4f280986325439370ac",
+    "fetched_at": "2026-08-14T16:42:31.728644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s ‘Amazon’ in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
+    "summary": "Ukraine&apos;s drone strikes have knocked out 27% of Wildberries warehouse capacity, with losses estimated up to $8.5 billion as Russia&apos;s logistics reels.",
+    "link": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
+    "published": "Thu, 13 Aug 2026 17:20:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7679526e43f081ca79562c1c7faa8fb6",
+    "fetched_at": "2026-08-14T16:42:31.728641+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
+    "summary": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms.",
+    "link": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
+    "published": "Thu, 13 Aug 2026 20:14:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02cebeef084ebf8f6d9655bff919ef89",
+    "fetched_at": "2026-08-14T16:42:31.728638+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
+    "summary": "U.S. ambassador to Israel Mike Huckabee called settlers besieging a West Bank home of an American-Palestinian family \"terrorists.\"",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5930275/u-s-ambassador-slams-israeli-settlers-besieging-home-of-palestinian-american",
+    "published": "Thu, 13 Aug 2026 17:11:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "9d7a7bc53fc85df55e1b535304a73fd1",
+    "fetched_at": "2026-08-14T16:42:31.728635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+    "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+    "published": "Fri, 14 Aug 2026 06:47:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "70945c158c8e4e2477732f56816e10b7",
+    "fetched_at": "2026-08-14T16:42:31.728631+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
+    "summary": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
+    "published": "Fri, 14 Aug 2026 10:41:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca00e3eca1d55c5738d103673ce160ef",
+    "fetched_at": "2026-08-14T16:42:31.728605+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kennedy Center board votes to put Trump's name back on building",
+    "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 22:21:36 GMT",
+    "source": "BBC News",
+    "id": "e12e07098b66ef2d3ce25c474d129368",
+    "fetched_at": "2026-08-14T16:42:30.571942+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luigi Mangione has pleaded guilty to federal charges. What happens now?",
+    "summary": "The 28-year-old's guilty plea may throw a wrench in his upcoming state murder trial.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3763gy2ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 16:16:19 GMT",
+    "source": "BBC News",
+    "id": "133697e7c1fbff238ea0950977507d08",
+    "fetched_at": "2026-08-14T16:42:29.437838+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+    "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+    "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 20:37:14 GMT",
+    "source": "BBC News",
+    "id": "38018e9653dcc1786f299b026515ec2d",
+    "fetched_at": "2026-08-14T16:42:28.304122+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Selena Gomez sued for alleged fraud over mental health company",
+    "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 11:32:05 GMT",
+    "source": "BBC News",
+    "id": "bcd2732db4f674dcf31b6106e012b8f8",
+    "fetched_at": "2026-08-14T16:42:27.161460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+    "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 16:18:37 GMT",
+    "source": "BBC News",
+    "id": "64372cacdfd59f9b1c0cc77758b86785",
+    "fetched_at": "2026-08-14T16:42:25.998268+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump asks Supreme Court to allow ballroom work to continue",
+    "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 15:10:41 GMT",
+    "source": "BBC News",
+    "id": "29988faba7b9c54cb5f51e901f85a51f",
+    "fetched_at": "2026-08-14T16:42:24.844236+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I shot Mr Thompson' - Inside the court as Mangione pleaded guilty",
+    "summary": "BBC's North America correspondent Nada Tawfik was in the courtroom as Luigi Mangione pleaded guilty.",
+    "link": "https://www.bbc.co.uk/news/videos/czxeqgp71r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 16:32:27 GMT",
+    "source": "BBC News",
+    "id": "1f43ed307cf6ad0c9790016323c81bc6",
+    "fetched_at": "2026-08-14T16:42:23.691995+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
@@ -428,175 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "e5f97191023739587e4e5419dbb1a978",
     "fetched_at": "2026-08-14T09:00:45.856827+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-    "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 14:51:44 GMT",
-    "source": "BBC News",
-    "id": "546fca19ac8c1e09e719d1c73f53c480",
-    "fetched_at": "2026-08-14T09:00:44.722055+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-    "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-    "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:02:24 GMT",
-    "source": "BBC News",
-    "id": "6867cfd168918920337574882337b37a",
-    "fetched_at": "2026-08-14T09:00:43.601903+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-    "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 23:06:23 GMT",
-    "source": "BBC News",
-    "id": "7d4982bf95fa98d2530c50cdaff03d9c",
-    "fetched_at": "2026-08-14T09:00:42.477203+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-    "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 14:56:19 GMT",
-    "source": "BBC News",
-    "id": "498a5875208c6351a51bee7a10d0bac5",
-    "fetched_at": "2026-08-14T09:00:41.344382+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hungary unveils new 'clean up' plan as governemnt takes new steps to unlocking frozen EU funds",
-    "summary": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
-    "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
-    "published": "Thu, 13 Aug 2026 16:03:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "26132d3c969fb5105b20db53e4d25fab",
-    "fetched_at": "2026-08-14T07:13:34.934512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Farage wins UK by-election to return to parliament",
-    "summary": "British politician Nigel Farage retains his seat in parliament after resigning last month over an investigation into his finances that triggered a by-election.",
-    "link": "http://www.euronews.com/2026/08/14/farage-wins-uk-by-election-to-return-to-parliament",
-    "published": "Fri, 14 Aug 2026 07:39:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4b96ae721f0ea625bb20433382e7528a",
-    "fetched_at": "2026-08-14T07:13:33.798623+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-    "published": "Fri, 14 Aug 2026 02:31:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "d7fd1c5eac8a755fcd3277da3cfa574c",
-    "fetched_at": "2026-08-14T07:13:32.667974+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-    "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 18:45:51 GMT",
-    "source": "BBC News",
-    "id": "3c5567162ead7dfe32ce7f2142b29782",
-    "fetched_at": "2026-08-14T07:13:31.522292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Unprecedented' rains in Japan kill four people",
-    "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 04:54:13 GMT",
-    "source": "BBC News",
-    "id": "94b22131a7bab21a8ddec1f7c73b848e",
-    "fetched_at": "2026-08-14T05:39:29.220527+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs",
-    "summary": "Peter Navarro, the White House trade adviser, told reporters on a conference call that China is laundering its exports through more than 40 countries.",
-    "link": "http://www.euronews.com/2026/08/14/white-house-says-its-losing-19b-26b-a-year-in-revenue-as-countries-dodge-tariffs",
-    "published": "Fri, 14 Aug 2026 06:18:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "97f568d58f4a007c02baba9fab3a2d84",
-    "fetched_at": "2026-08-14T05:39:28.053145+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump orders Navy to return to older system of launching jets off aircraft carriers",
-    "summary": "According to a directive issued Thursday, the new mandate would likely cost billions of dollars and revert the Navy’s most advanced ships to a system that takes more sailors to operate and is more difficult to maintain.",
-    "link": "http://www.euronews.com/2026/08/14/trump-orders-navy-to-return-to-older-system-of-launching-jets-off-aircraft-carriers",
-    "published": "Fri, 14 Aug 2026 06:43:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "219aeae992cf8c1fd7301fd5a8313c85",
-    "fetched_at": "2026-08-14T05:39:26.936240+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 14th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-morning",
-    "published": "Fri, 14 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "14aad1be0debcb483a9e9147e2faecd3",
-    "fetched_at": "2026-08-14T05:39:25.810589+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-    "summary": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people.",
-    "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-    "published": "Thu, 13 Aug 2026 17:39:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "6e007f628b75e58f00bc40debdd1b8a4",
-    "fetched_at": "2026-08-14T05:39:24.647570+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-    "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 11:10:31 GMT",
-    "source": "BBC News",
-    "id": "585f1f878ca4c606638350da54e7cb01",
-    "fetched_at": "2026-08-14T03:59:06.235807+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US says dozens of countries helped China dodge Trump's tariffs",
-    "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 03:09:48 GMT",
-    "source": "BBC News",
-    "id": "1eeb261bdc115f6ec506c6a107168520",
-    "fetched_at": "2026-08-14T03:59:05.104025+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
-    "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data &quot;completely shatters&quot; allegations Israel deliberately starved civilians.",
-    "link": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
-    "published": "Thu, 13 Aug 2026 10:00:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8453ec4a6d586f6daee051513f459f3c",
-    "fetched_at": "2026-08-14T03:59:03.944095+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Mohsen Rezaei, Iran's new security chief with an Interpol Red Notice?",
-    "summary": "Mohsen Rezaei is one of the Islamic Republic's founding military figures, a four-time failed presidential candidate and the subject of an Interpol Red Notice over the 1994 Buenos Aires bombing that killed 85 people. Here is what we know about Iran's new security council chief.",
-    "link": "http://www.euronews.com/2026/08/13/who-is-mohsen-rezaei-irans-new-security-chief-with-an-interpol-red-notice",
-    "published": "Thu, 13 Aug 2026 13:27:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6a0f1e9563ae757e31854ffa50e2e43c",
-    "fetched_at": "2026-08-14T01:17:14.891932+00:00"
   }
 ]
