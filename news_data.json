@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Hungary unveils new 'clean up' plan as governemnt takes new steps to unlocking frozen EU funds",
+    "summary": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
+    "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
+    "published": "Thu, 13 Aug 2026 16:03:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26132d3c969fb5105b20db53e4d25fab",
+    "fetched_at": "2026-08-14T07:13:34.934512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Farage wins UK by-election to return to parliament",
+    "summary": "British politician Nigel Farage retains his seat in parliament after resigning last month over an investigation into his finances that triggered a by-election.",
+    "link": "http://www.euronews.com/2026/08/14/farage-wins-uk-by-election-to-return-to-parliament",
+    "published": "Fri, 14 Aug 2026 07:39:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4b96ae721f0ea625bb20433382e7528a",
+    "fetched_at": "2026-08-14T07:13:33.798623+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+    "published": "Fri, 14 Aug 2026 02:31:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "d7fd1c5eac8a755fcd3277da3cfa574c",
+    "fetched_at": "2026-08-14T07:13:32.667974+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+    "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 18:45:51 GMT",
+    "source": "BBC News",
+    "id": "3c5567162ead7dfe32ce7f2142b29782",
+    "fetched_at": "2026-08-14T07:13:31.522292+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'Unprecedented' rains in Japan kill four people",
     "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
     "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "dc81338896906276fd105a9353265f70",
     "fetched_at": "2026-08-13T16:47:47.013568+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-    "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 14:51:44 GMT",
-    "source": "BBC News",
-    "id": "546fca19ac8c1e09e719d1c73f53c480",
-    "fetched_at": "2026-08-13T16:47:45.869681+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-    "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-    "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:02:24 GMT",
-    "source": "BBC News",
-    "id": "6867cfd168918920337574882337b37a",
-    "fetched_at": "2026-08-13T16:47:44.720347+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-    "summary": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 16:30:06 GMT",
-    "source": "BBC News",
-    "id": "7d4982bf95fa98d2530c50cdaff03d9c",
-    "fetched_at": "2026-08-13T16:47:43.577474+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-    "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 14:56:19 GMT",
-    "source": "BBC News",
-    "id": "498a5875208c6351a51bee7a10d0bac5",
-    "fetched_at": "2026-08-13T16:47:42.441435+00:00"
   }
 ]
