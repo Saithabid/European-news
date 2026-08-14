@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Stolen Matisse artworks recovered by police in Brazil",
+    "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 08:34:19 GMT",
+    "source": "BBC News",
+    "id": "4d2799cede52ce1f28739b1f8d8214cd",
+    "fetched_at": "2026-08-14T09:00:49.255328+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Wildfire forces evacuation of 1,000 as flames sweep Croatia’s coast",
+    "summary": "Croatia is battling a wildfire that swept through vegetation and homes in Lokva Rogoznica on Thursday, 13 August, forcing about 1,000 residents and tourists to evacuate.",
+    "link": "http://www.euronews.com/video/2026/08/14/wildfire-forces-evacuation-of-1000-as-flames-sweep-croatias-coast",
+    "published": "Fri, 14 Aug 2026 09:41:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b7fc82c186782587acb2b18a6b61b2eb",
+    "fetched_at": "2026-08-14T09:00:49.255298+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France wildfire forces 525 people to flee as Landes forest burns",
+    "summary": "France evacuated about 500 people from the village of Luglon on Thursday, 13 August, as a fast-moving wildfire swept through drought-hit pine forest in the Landes.",
+    "link": "http://www.euronews.com/video/2026/08/14/france-wildfire-forces-525-people-to-flee-as-landes-forest-burns",
+    "published": "Fri, 14 Aug 2026 09:52:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e43d9b2587bfbda5638c6fdb6eda86bc",
+    "fetched_at": "2026-08-14T09:00:48.126024+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US military pushes back on reports of mental health crisis aboard the USS Abraham Lincoln",
+    "summary": "The USS George Washington aircraft carrier is reportedly now set to take over from the Abraham Lincoln in the Middle East.",
+    "link": "http://www.euronews.com/2026/08/14/us-military-pushes-back-on-reports-of-mental-health-crisis-aboard-the-uss-abraham-lincoln",
+    "published": "Fri, 14 Aug 2026 09:58:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d3388da7a3ba4e7ac35e8df0f946d514",
+    "fetched_at": "2026-08-14T09:00:46.991192+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Unprecedented rainfall in Japan leaves at least four dead in Chiba prefecture",
+    "summary": "Unprecedented rainfall battered Japan on Thursday, leaving at least four people dead and flooding parts of Chiba prefecture, east of Tokyo. Authorities issued the region’s highest-level rain warning for the first time, while landslide alerts and power cuts affected thousands of residents.",
+    "link": "http://www.euronews.com/video/2026/08/14/unprecedented-rainfall-in-japan-leaves-at-least-four-dead-in-chiba-prefecture",
+    "published": "Fri, 14 Aug 2026 10:32:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e5f97191023739587e4e5419dbb1a978",
+    "fetched_at": "2026-08-14T09:00:45.856827+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+    "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 14:51:44 GMT",
+    "source": "BBC News",
+    "id": "546fca19ac8c1e09e719d1c73f53c480",
+    "fetched_at": "2026-08-14T09:00:44.722055+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+    "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+    "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 13:02:24 GMT",
+    "source": "BBC News",
+    "id": "6867cfd168918920337574882337b37a",
+    "fetched_at": "2026-08-14T09:00:43.601903+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 23:06:23 GMT",
+    "source": "BBC News",
+    "id": "7d4982bf95fa98d2530c50cdaff03d9c",
+    "fetched_at": "2026-08-14T09:00:42.477203+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+    "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 14:56:19 GMT",
+    "source": "BBC News",
+    "id": "498a5875208c6351a51bee7a10d0bac5",
+    "fetched_at": "2026-08-14T09:00:41.344382+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Hungary unveils new 'clean up' plan as governemnt takes new steps to unlocking frozen EU funds",
     "summary": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
     "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "082d870a30f11810a4d386d65a382562",
     "fetched_at": "2026-08-13T16:47:49.288257+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-    "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
-    "source": "BBC News",
-    "id": "7ab6d2a442f0cfd4c0de28f6aa7925d9",
-    "fetched_at": "2026-08-13T16:47:49.288255+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Person fined after using foghorn to wake sleeping polar bear",
-    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
-    "source": "BBC News",
-    "id": "80cca21a13d2ed52c70293e3c88503a1",
-    "fetched_at": "2026-08-13T16:47:49.288253+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-    "source": "BBC News",
-    "id": "743b1d41d77c3cd77e7f408e456dddd9",
-    "fetched_at": "2026-08-13T16:47:49.288249+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-    "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-    "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-    "published": "Wed, 12 Aug 2026 09:38:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea8a95ef86913244b08925ef46471f9d",
-    "fetched_at": "2026-08-13T16:47:49.288246+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Photos: See the best photos from this year's total solar eclipse",
-    "summary": "Millions of people in Europe stepped outside Wednesday to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland, Spain and Portugal.",
-    "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/best-solar-eclipse-photos",
-    "published": "Wed, 12 Aug 2026 21:38:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "fef7def387de49fa17692db5ee419258",
-    "fetched_at": "2026-08-13T16:47:49.288243+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-    "published": "Thu, 13 Aug 2026 02:04:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "322a747e5503071eab2499d734d468ac",
-    "fetched_at": "2026-08-13T16:47:49.288239+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-    "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
-    "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-    "published": "Thu, 13 Aug 2026 11:18:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "9aa363f3f3755e8861366560385ea89a",
-    "fetched_at": "2026-08-13T16:47:49.288211+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-    "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-    "published": "Thu, 13 Aug 2026 12:40:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "090c0e7fa62d83a79bcb9fc04ac4b6f0",
-    "fetched_at": "2026-08-13T16:47:48.157268+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Golfer admits 'stupidity' after faking hole-in-one",
-    "summary": "An amateur golfer says he has \"completely made a fool\" of himself after admitting he faked making a hole-in-one at a tournament in the United States.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cdx7pd5ye0go?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 11:25:34 GMT",
-    "source": "BBC News",
-    "id": "dc81338896906276fd105a9353265f70",
-    "fetched_at": "2026-08-13T16:47:47.013568+00:00"
   }
 ]
