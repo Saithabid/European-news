@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "US missionary released following kidnap in Niger, Christian group says",
+    "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 10:18:02 GMT",
+    "source": "BBC News",
+    "id": "32aedffb09469fdbe9b200dc35a4ca0d",
+    "fetched_at": "2026-08-14T10:51:24.227347+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran claims 'trillion-dollar' pollution damage as Gulf oil spills spread",
+    "summary": "Oil residues from a struck bulk carrier reached Iran's Qeshm Island and its protected mangrove forests, while a sanctioned Russian shadow fleet tanker grounded off Oman has leaked a slick that has grown to more than 2,000 square kilometres, fouling 40 kilometres of Omani coastline.",
+    "link": "http://www.euronews.com/2026/08/14/iran-claims-trillion-dollar-pollution-damage-as-gulf-oil-spills-spread",
+    "published": "Fri, 14 Aug 2026 11:36:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "349594c78a447870efdba3cc075108f8",
+    "fetched_at": "2026-08-14T10:51:24.227345+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Colombia earthquake: Dog rescued alive as 72-hour window closes",
+    "summary": "Colombia rescuers treated a dog pulled alive from earthquake rubble in Cali on Thursday, as emergency teams made a final push to find survivors before the critical 72-hour window closed.",
+    "link": "http://www.euronews.com/video/2026/08/14/colombia-earthquake-dog-rescued-alive-as-72-hour-window-closes",
+    "published": "Fri, 14 Aug 2026 11:49:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2d50fd155f5e39d011527cfe99439fea",
+    "fetched_at": "2026-08-14T10:51:24.227342+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 14th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-midday",
+    "published": "Fri, 14 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d9f194b596dcc6c46d43adbf5569bf3e",
+    "fetched_at": "2026-08-14T10:51:24.227339+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "In quake-hit Cali, ‘hugs here’ station brings comfort amid rubble",
+    "summary": "In quake-hit Cali, residents find comfort at a “hugs here” station, as Andres Solomon and volunteers share solidarity while rescuers clear rubble.",
+    "link": "http://www.euronews.com/video/2026/08/14/in-quake-hit-cali-hugs-here-station-brings-comfort-amid-rubble",
+    "published": "Fri, 14 Aug 2026 12:11:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26aaf447c220d7b9e3f90d2ed8f6eda6",
+    "fetched_at": "2026-08-14T10:51:24.227336+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+    "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
+    "source": "BBC News",
+    "id": "7ab6d2a442f0cfd4c0de28f6aa7925d9",
+    "fetched_at": "2026-08-14T10:51:24.227331+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Person fined after using foghorn to wake sleeping polar bear",
+    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
+    "source": "BBC News",
+    "id": "80cca21a13d2ed52c70293e3c88503a1",
+    "fetched_at": "2026-08-14T10:51:24.227307+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "source": "BBC News",
+    "id": "743b1d41d77c3cd77e7f408e456dddd9",
+    "fetched_at": "2026-08-14T10:51:23.082597+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
+    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
+    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a26513b228210633e344cc2734dec4bc",
+    "fetched_at": "2026-08-14T10:51:21.942820+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+    "published": "Thu, 13 Aug 2026 02:04:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "322a747e5503071eab2499d734d468ac",
+    "fetched_at": "2026-08-14T10:51:20.809635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+    "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+    "published": "Thu, 13 Aug 2026 11:18:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "9aa363f3f3755e8861366560385ea89a",
+    "fetched_at": "2026-08-14T10:51:19.690470+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+    "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+    "published": "Thu, 13 Aug 2026 12:40:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "090c0e7fa62d83a79bcb9fc04ac4b6f0",
+    "fetched_at": "2026-08-14T10:51:18.552016+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+    "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+    "published": "Fri, 14 Aug 2026 06:30:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "7843848ca6463f613c85ff7916f3ac73",
+    "fetched_at": "2026-08-14T10:51:17.427185+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Golfer admits 'stupidity' after faking hole-in-one",
+    "summary": "An amateur golfer says he has \"completely made a fool\" of himself after admitting he faked making a hole-in-one at a tournament in the United States.",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cdx7pd5ye0go?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 11:25:34 GMT",
+    "source": "BBC News",
+    "id": "dc81338896906276fd105a9353265f70",
+    "fetched_at": "2026-08-14T10:51:16.274159+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Stolen Matisse artworks recovered by police in Brazil",
     "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
     "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "ac84b62bfd402f7bf93b0c620cf07336",
     "fetched_at": "2026-08-13T18:53:12.137232+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "North Korea launches another ballistic missile as US, South Korea prepare for military drills",
-    "summary": "North Korea&apos;s second ballistic missile launch in less than a week comes as the U.S. and South Korea prepare for Ulchi Freedom Shield exercises.",
-    "link": "https://www.foxnews.com/world/north-korea-launches-ballistic-missile-us-south-korea-prepare-military-drills",
-    "published": "Tue, 11 Aug 2026 22:00:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2cbe0191894f7d27539905c5dc659c36",
-    "fetched_at": "2026-08-13T18:53:12.137229+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
-    "summary": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti&apos;s reliability and China&apos;s expanding presence.",
-    "link": "https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say",
-    "published": "Wed, 12 Aug 2026 09:15:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6c230439659c35561f3cb5b67126cd6d",
-    "fetched_at": "2026-08-13T18:53:12.137226+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
-    "summary": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.",
-    "link": "https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy",
-    "published": "Wed, 12 Aug 2026 09:53:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a8da0ee07e5a80ff24128c92d13953d7",
-    "fetched_at": "2026-08-13T18:53:12.137198+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
-    "summary": "Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine&apos;s drone attack crippled Novorossiysk grain terminals.",
-    "link": "https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific",
-    "published": "Wed, 12 Aug 2026 12:15:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8dce7e3d2ef9062536a801d43fc8f9d5",
-    "fetched_at": "2026-08-13T18:53:11.023908+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning",
-    "summary": "Sen. Ted Cruz says he&apos;s deeply concerned about a Board of Peace provision that could cover up to $400 million in debts from Hamas&apos; rule in Gaza.",
-    "link": "https://www.foxnews.com/world/cruz-sounds-alarm-over-400m-hamas-era-provision-board-peace-plan-issues-blunt-warning",
-    "published": "Thu, 13 Aug 2026 13:38:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ced581533955383dfe392a3be42d5",
-    "fetched_at": "2026-08-13T18:53:09.892818+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
-    "summary": "Polish Prime Minister Donald Tusk says Poland arrested a Russian citizen recruited by Russian intelligence to kill a Ukrainian-American in Warsaw.",
-    "link": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
-    "published": "Thu, 13 Aug 2026 14:26:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
-    "fetched_at": "2026-08-13T18:53:08.773381+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-    "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-    "published": "Thu, 13 Aug 2026 05:58:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "0e8833c7a766002effd641992a067865",
-    "fetched_at": "2026-08-13T18:53:07.610522+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-    "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 09:40:18 GMT",
-    "source": "BBC News",
-    "id": "f56645047879e8b11824d648e3e9f063",
-    "fetched_at": "2026-08-13T18:53:06.478013+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
-    "summary": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 23:26:21 GMT",
-    "source": "BBC News",
-    "id": "a180881fc728c5e2b93e1acdb33528bc",
-    "fetched_at": "2026-08-13T18:53:05.325143+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three men will be executed on the same day as death penalties rise in US",
-    "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:27:00 GMT",
-    "source": "BBC News",
-    "id": "de6a8aaac34f5c5eeb26b521c64d629d",
-    "fetched_at": "2026-08-13T18:53:04.199100+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 16:05:35 GMT",
-    "source": "BBC News",
-    "id": "2f3644dd8a9c09f428851fe03e378dc9",
-    "fetched_at": "2026-08-13T16:47:49.288264+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brussels unveils giant flower carpet inspired by Hokusai masterpiece",
-    "summary": "Brussels has transformed its historic Grand Place into a giant floral version of Japan’s Great Wave off Kanagawa, using around 500,000 dahlias laid out over 1,300 square metres of cobblestones.",
-    "link": "http://www.euronews.com/video/2026/08/13/brussels-unveils-giant-flower-carpet-inspired-by-hokusai-masterpiece",
-    "published": "Thu, 13 Aug 2026 17:09:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "660fdeb37184b9ab2eb8362dcc4353ec",
-    "fetched_at": "2026-08-13T16:47:49.288262+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One dead, several injured in Rotterdam port blast at Gunvor refinery",
-    "summary": "The Netherlands is investigating an explosion at the port of Rotterdam that killed one person and injured several others on Thursday, 13 August. The blast happened at about 11:30 a.m. at an oil facility in the Europoort industrial section of Europe’s largest port.",
-    "link": "http://www.euronews.com/video/2026/08/13/one-dead-several-injured-in-rotterdam-port-blast-at-gunvor-refinery",
-    "published": "Thu, 13 Aug 2026 17:31:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c899ae7b9fc71e1c779c72bf3b6a28de",
-    "fetched_at": "2026-08-13T16:47:49.288260+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 13th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-evening",
-    "published": "Thu, 13 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "082d870a30f11810a4d386d65a382562",
-    "fetched_at": "2026-08-13T16:47:49.288257+00:00"
   }
 ]
