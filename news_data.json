@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+    "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 17:00:46 GMT",
+    "source": "BBC News",
+    "id": "884e26ec96b9ec6c5f0d1561642ba917",
+    "fetched_at": "2026-08-14T18:42:53.110143+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Unprecedented' rain in Japan kills eight people",
+    "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 10:36:14 GMT",
+    "source": "BBC News",
+    "id": "94b22131a7bab21a8ddec1f7c73b848e",
+    "fetched_at": "2026-08-14T18:42:53.110132+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+    "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 17:03:17 GMT",
+    "source": "BBC News",
+    "id": "9f0f40b7bbf58a95b1d9ec6c80a4ca52",
+    "fetched_at": "2026-08-14T18:42:53.110127+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
+    "summary": "Mangione entered the plea at a hastily scheduled hearing in Manhattan federal court, resolving one of two cases against him in connection with Thompson’s death.",
+    "link": "http://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court",
+    "published": "Fri, 14 Aug 2026 19:26:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "766bc5e930ae411f820eab50c18be1a3",
+    "fetched_at": "2026-08-14T18:42:53.110024+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France's top court blocks social media ban for under-15s",
+    "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 16:35:06 GMT",
+    "source": "BBC News",
+    "id": "8f10b66bf13d1e05f6c3819d96e21f2f",
+    "fetched_at": "2026-08-14T18:42:51.990010+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
+    "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data &quot;completely shatters&quot; allegations Israel deliberately starved civilians.",
+    "link": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
+    "published": "Thu, 13 Aug 2026 10:00:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8453ec4a6d586f6daee051513f459f3c",
+    "fetched_at": "2026-08-14T18:42:50.855096+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Farage puts seat on the line over ‘establishment hit job’ — voters send him right back",
+    "summary": "Nigel Farage reclaimed his Clacton seat with 22,239 votes, but the parliamentary investigation into his undeclared £5 million gift is now active again.",
+    "link": "https://www.foxnews.com/world/farage-puts-seat-line-over-establishment-hit-job-voters-send-him-right-back",
+    "published": "Fri, 14 Aug 2026 12:52:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "97f71f2b791b178e13b0b14d963ee040",
+    "fetched_at": "2026-08-14T18:42:49.739807+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+    "summary": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people.",
+    "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+    "published": "Thu, 13 Aug 2026 17:39:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "6e007f628b75e58f00bc40debdd1b8a4",
+    "fetched_at": "2026-08-14T18:42:48.613486+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+    "published": "Fri, 14 Aug 2026 02:31:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "d7fd1c5eac8a755fcd3277da3cfa574c",
+    "fetched_at": "2026-08-14T18:42:47.474916+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 23:06:23 GMT",
+    "source": "BBC News",
+    "id": "7d4982bf95fa98d2530c50cdaff03d9c",
+    "fetched_at": "2026-08-14T18:42:46.346038+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+    "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 14:56:19 GMT",
+    "source": "BBC News",
+    "id": "498a5875208c6351a51bee7a10d0bac5",
+    "fetched_at": "2026-08-14T18:42:45.212090+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Croatia wildfire near Omiš injures residents and disrupts holiday travel",
     "summary": "A major wildfire near Omiš, around 25 kilometres south-east of Split, forced about 1,200 residents and tourists to evacuate overnight on Thursday and into Friday as strong winds drove the flames towards the coastal town.",
     "link": "http://www.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "743b1d41d77c3cd77e7f408e456dddd9",
     "fetched_at": "2026-08-14T10:51:23.082597+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
-    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
-    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a26513b228210633e344cc2734dec4bc",
-    "fetched_at": "2026-08-14T10:51:21.942820+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-    "summary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-    "published": "Thu, 13 Aug 2026 02:04:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "322a747e5503071eab2499d734d468ac",
-    "fetched_at": "2026-08-14T10:51:20.809635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-    "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
-    "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-    "published": "Thu, 13 Aug 2026 11:18:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "9aa363f3f3755e8861366560385ea89a",
-    "fetched_at": "2026-08-14T10:51:19.690470+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-    "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
-    "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-    "published": "Thu, 13 Aug 2026 12:40:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "090c0e7fa62d83a79bcb9fc04ac4b6f0",
-    "fetched_at": "2026-08-14T10:51:18.552016+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-    "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-    "published": "Fri, 14 Aug 2026 06:30:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "7843848ca6463f613c85ff7916f3ac73",
-    "fetched_at": "2026-08-14T10:51:17.427185+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Golfer admits 'stupidity' after faking hole-in-one",
-    "summary": "An amateur golfer says he has \"completely made a fool\" of himself after admitting he faked making a hole-in-one at a tournament in the United States.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cdx7pd5ye0go?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 11:25:34 GMT",
-    "source": "BBC News",
-    "id": "dc81338896906276fd105a9353265f70",
-    "fetched_at": "2026-08-14T10:51:16.274159+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Stolen Matisse artworks recovered by police in Brazil",
-    "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 08:34:19 GMT",
-    "source": "BBC News",
-    "id": "4d2799cede52ce1f28739b1f8d8214cd",
-    "fetched_at": "2026-08-14T09:00:49.255328+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Wildfire forces evacuation of 1,000 as flames sweep Croatia’s coast",
-    "summary": "Croatia is battling a wildfire that swept through vegetation and homes in Lokva Rogoznica on Thursday, 13 August, forcing about 1,000 residents and tourists to evacuate.",
-    "link": "http://www.euronews.com/video/2026/08/14/wildfire-forces-evacuation-of-1000-as-flames-sweep-croatias-coast",
-    "published": "Fri, 14 Aug 2026 09:41:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b7fc82c186782587acb2b18a6b61b2eb",
-    "fetched_at": "2026-08-14T09:00:49.255298+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France wildfire forces 525 people to flee as Landes forest burns",
-    "summary": "France evacuated about 500 people from the village of Luglon on Thursday, 13 August, as a fast-moving wildfire swept through drought-hit pine forest in the Landes.",
-    "link": "http://www.euronews.com/video/2026/08/14/france-wildfire-forces-525-people-to-flee-as-landes-forest-burns",
-    "published": "Fri, 14 Aug 2026 09:52:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e43d9b2587bfbda5638c6fdb6eda86bc",
-    "fetched_at": "2026-08-14T09:00:48.126024+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US military pushes back on reports of mental health crisis aboard the USS Abraham Lincoln",
-    "summary": "The USS George Washington aircraft carrier is reportedly now set to take over from the Abraham Lincoln in the Middle East.",
-    "link": "http://www.euronews.com/2026/08/14/us-military-pushes-back-on-reports-of-mental-health-crisis-aboard-the-uss-abraham-lincoln",
-    "published": "Fri, 14 Aug 2026 09:58:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d3388da7a3ba4e7ac35e8df0f946d514",
-    "fetched_at": "2026-08-14T09:00:46.991192+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Unprecedented rainfall in Japan leaves at least four dead in Chiba prefecture",
-    "summary": "Unprecedented rainfall battered Japan on Thursday, leaving at least four people dead and flooding parts of Chiba prefecture, east of Tokyo. Authorities issued the region’s highest-level rain warning for the first time, while landslide alerts and power cuts affected thousands of residents.",
-    "link": "http://www.euronews.com/video/2026/08/14/unprecedented-rainfall-in-japan-leaves-at-least-four-dead-in-chiba-prefecture",
-    "published": "Fri, 14 Aug 2026 10:32:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e5f97191023739587e4e5419dbb1a978",
-    "fetched_at": "2026-08-14T09:00:45.856827+00:00"
   }
 ]
