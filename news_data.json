@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+    "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+    "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 20:22:56 GMT",
+    "source": "BBC News",
+    "id": "f74290beec0d527f80fabbb4243ced6a",
+    "fetched_at": "2026-08-15T18:17:38.784737+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Person fined after using foghorn to wake sleeping polar bear",
+    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
+    "source": "BBC News",
+    "id": "80cca21a13d2ed52c70293e3c88503a1",
+    "fetched_at": "2026-08-15T18:17:38.784735+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "source": "BBC News",
+    "id": "743b1d41d77c3cd77e7f408e456dddd9",
+    "fetched_at": "2026-08-15T18:17:38.784687+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+    "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 17:47:42 GMT",
+    "source": "BBC News",
+    "id": "84664161a4e8efe102f6082a8853f9c6",
+    "fetched_at": "2026-08-15T18:17:37.629673+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
+    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
+    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd31b6885bcad1977c88354f7c2ed254",
+    "fetched_at": "2026-08-15T18:17:36.524274+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+    "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones, and Nazi-era guns.",
+    "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "published": "Sat, 15 Aug 2026 13:49:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "35247153b19aacd30c8c8814832ad90e",
+    "fetched_at": "2026-08-15T18:17:35.425660+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "27d176d8e263dae09551bf505623b95d",
+    "fetched_at": "2026-08-15T18:17:34.310521+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. missionary who was kidnapped in Niger is released",
+    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "41428810912343661989b13f05b759f4",
+    "fetched_at": "2026-08-15T18:17:33.197458+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+    "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+    "published": "Fri, 14 Aug 2026 18:03:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "464a3b890f55b345c5eb6bb441c4b77a",
+    "fetched_at": "2026-08-15T18:17:32.061857+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+    "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+    "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+    "published": "Sat, 15 Aug 2026 13:04:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "db98f4db0f310c3197fecdfe23926e2b",
+    "fetched_at": "2026-08-15T18:17:30.893073+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
     "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
     "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "0803d35ac73bfff46801da9fe8e833bc",
     "fetched_at": "2026-08-15T04:22:06.428844+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia releases former US Marine reported in poor health",
-    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
-    "source": "BBC News",
-    "id": "91517b773560b77f7303bde3eae9cf9f",
-    "fetched_at": "2026-08-15T04:22:05.319944+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
-    "summary": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
-    "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
-    "published": "Thu, 13 Aug 2026 15:40:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c768de2a61f81c8ff2a1ae4b8c75b01b",
-    "fetched_at": "2026-08-15T04:22:04.180704+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tehran brings back cleric behind 2009 protest crackdown to head its Basij militia",
-    "summary": "Hossein Taeb commanded the Basij during the mass demonstrations of June 2009 and led the IRGC's intelligence service for 13 years, overseeing operations against journalists, dual nationals and dissidents. His return signals that Tehran fears it might need to manage unrest in the near future.",
-    "link": "http://www.euronews.com/2026/08/14/tehran-brings-back-cleric-behind-2009-protest-crackdown-to-head-its-basij-militia",
-    "published": "Fri, 14 Aug 2026 12:52:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a472e47df375206935b8cebe4574ab04",
-    "fetched_at": "2026-08-15T02:44:59.476453+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mysterious elephant deaths in Kenya leave experts searching for answers",
-    "summary": "At least 19 elephants have died since June in a popular wildlife region of southern Kenya, with the local toll now reported at 20. Early tests have suggested cyanide poisoning from pesticides, but wildlife experts say the evidence does not fit all the symptoms they have observed.",
-    "link": "http://www.euronews.com/2026/08/15/mysterious-elephant-deaths-in-kenya-leave-experts-searching-for-answers",
-    "published": "Sat, 15 Aug 2026 04:34:53 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0f0b7470eb0ce442ae88b9fb51223738",
-    "fetched_at": "2026-08-15T02:44:58.371655+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 19:46:27 GMT",
-    "source": "BBC News",
-    "id": "2f3644dd8a9c09f428851fe03e378dc9",
-    "fetched_at": "2026-08-15T02:44:57.200559+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning",
-    "summary": "Sen. Ted Cruz says he&apos;s deeply concerned about a Board of Peace provision that could cover up to $400 million in debts from Hamas&apos; rule in Gaza.",
-    "link": "https://www.foxnews.com/world/cruz-sounds-alarm-over-400m-hamas-era-provision-board-peace-plan-issues-blunt-warning",
-    "published": "Thu, 13 Aug 2026 13:38:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ced581533955383dfe392a3be42d5",
-    "fetched_at": "2026-08-15T02:44:56.085394+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
-    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
-    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
-    "published": "Fri, 14 Aug 2026 21:09:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b031208176d0ceb99f6b7244d7707fb",
-    "fetched_at": "2026-08-15T02:44:54.964333+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-    "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
-    "source": "BBC News",
-    "id": "91c20f0592f67c637bcdd69cc6ce71df",
-    "fetched_at": "2026-08-15T02:44:53.836378+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 19:20:43 GMT",
-    "source": "BBC News",
-    "id": "989a69b79c7fe47f2243e6b6b3b0d073",
-    "fetched_at": "2026-08-15T00:48:34.923793+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
-    "summary": "Polish Prime Minister Donald Tusk says Poland arrested a Russian citizen recruited by Russian intelligence to kill a Ukrainian-American in Warsaw.",
-    "link": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
-    "published": "Thu, 13 Aug 2026 14:26:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
-    "fetched_at": "2026-08-15T00:48:33.802323+00:00"
   }
 ]
