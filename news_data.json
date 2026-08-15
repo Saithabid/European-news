@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
+    "source": "BBC News",
+    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
+    "fetched_at": "2026-08-15T04:22:07.543214+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Family of Irish plane crash victim awarded $29m in damages",
+    "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 19:08:49 GMT",
+    "source": "BBC News",
+    "id": "0803d35ac73bfff46801da9fe8e833bc",
+    "fetched_at": "2026-08-15T04:22:06.428844+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia releases former US Marine reported in poor health",
+    "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:33:45 GMT",
+    "source": "BBC News",
+    "id": "91517b773560b77f7303bde3eae9cf9f",
+    "fetched_at": "2026-08-15T04:22:05.319944+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
+    "summary": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
+    "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
+    "published": "Thu, 13 Aug 2026 15:40:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c768de2a61f81c8ff2a1ae4b8c75b01b",
+    "fetched_at": "2026-08-15T04:22:04.180704+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Tehran brings back cleric behind 2009 protest crackdown to head its Basij militia",
     "summary": "Hossein Taeb commanded the Basij during the mass demonstrations of June 2009 and led the IRGC's intelligence service for 13 years, overseeing operations against journalists, dual nationals and dissidents. His return signals that Tehran fears it might need to manage unrest in the near future.",
     "link": "http://www.euronews.com/2026/08/14/tehran-brings-back-cleric-behind-2009-protest-crackdown-to-head-its-basij-militia",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "c5228a25f8ae82448fa2f1b8fc1b2a40",
     "fetched_at": "2026-08-14T14:44:58.055526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia jails man over spying for Poland one day after Warsaw foils assassination plot",
-    "summary": "Georgy Pirogov was sentenced to 23 years in a high-security colony for allegedly passing classified information to Polish intelligence. The verdict was announced the day after Poland said it had detained a Russian national suspected of planning a killing in Warsaw on the Kremlin's orders.",
-    "link": "http://www.euronews.com/2026/08/14/russia-jails-man-over-spying-for-poland-one-day-after-warsaw-foils-assassination-plot",
-    "published": "Fri, 14 Aug 2026 14:58:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "057abc9cde1aa0c787dd11874b8793f2",
-    "fetched_at": "2026-08-14T14:44:58.055522+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rome’s Colosseum extends cool night tours as heatwaves scorch city",
-    "summary": "Rome’s Colosseum is opening late four nights a week this summer, offering fully booked evening tours as a cooler, more magical way to visit.",
-    "link": "http://www.euronews.com/video/2026/08/14/romes-colosseum-extends-cool-night-tours-as-heatwaves-scorch-city",
-    "published": "Fri, 14 Aug 2026 15:25:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9088d9ffecdb139ee5fb6b6638e20719",
-    "fetched_at": "2026-08-14T14:44:58.055493+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "War in Ukraine: Deadly Russian air raid on Kramatorsk leaves 1 dead and 17 wounded",
-    "summary": "At least one person was killed and 17 injured in a Russian airstrike on Kramatorsk in eastern Ukraine overnight, according to Ukraine’s State Emergency Service.",
-    "link": "http://www.euronews.com/video/2026/08/14/war-in-ukraine-deadly-russian-air-raid-on-kramatorsk-leaves-1-dead-and-17-wounded",
-    "published": "Fri, 14 Aug 2026 16:22:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "30522a42497bfcbcb5b2ae337b48106e",
-    "fetched_at": "2026-08-14T14:44:56.909700+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-    "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 16:19:44 GMT",
-    "source": "BBC News",
-    "id": "63e0b1893682ab3113ab49ba53a23931",
-    "fetched_at": "2026-08-14T14:44:55.778137+00:00"
   }
 ]
