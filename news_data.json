@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+    "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+    "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 07:53:48 GMT",
+    "source": "BBC News",
+    "id": "7fd97c0f7f0fbe2acf747115d7e502c6",
+    "fetched_at": "2026-08-15T08:18:22.222333+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran says Strait of Hormuz 'will remain Iranian' after Trump warning",
+    "summary": "Speaking in New York on Friday, Trump, with a chuckle, said: \"Pretty soon I'll be declaring the Hormuz Strait a territory of the United States.\"",
+    "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
+    "published": "Sat, 15 Aug 2026 09:04:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7e857b1a87775b3cdec84fc36488d427",
+    "fetched_at": "2026-08-15T08:18:21.085536+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 20",
+    "summary": "Nelly Florida Riama, a deputy director for geophysics at Indonesia's Meteorology, Climatology, and Geophysical Agency, warned that while the tsunami warning was over, \"aftershocks are still occurring.\"",
+    "link": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
+    "published": "Sat, 15 Aug 2026 09:46:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6ba7665431a70135caf31598537192ab",
+    "fetched_at": "2026-08-15T08:18:19.960152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+    "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 17:36:27 GMT",
+    "source": "BBC News",
+    "id": "64372cacdfd59f9b1c0cc77758b86785",
+    "fetched_at": "2026-08-15T08:18:18.827471+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump asks US Supreme Court to allow ballroom work to continue",
+    "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 19:05:22 GMT",
+    "source": "BBC News",
+    "id": "29988faba7b9c54cb5f51e901f85a51f",
+    "fetched_at": "2026-08-15T08:18:17.690649+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "NPR Topics: World",
     "id": "70945c158c8e4e2477732f56816e10b7",
     "fetched_at": "2026-08-14T16:42:31.728631+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-    "summary": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-    "published": "Fri, 14 Aug 2026 10:41:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "ca00e3eca1d55c5738d103673ce160ef",
-    "fetched_at": "2026-08-14T16:42:31.728605+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kennedy Center board votes to put Trump's name back on building",
-    "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge.",
-    "link": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 22:21:36 GMT",
-    "source": "BBC News",
-    "id": "e12e07098b66ef2d3ce25c474d129368",
-    "fetched_at": "2026-08-14T16:42:30.571942+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Luigi Mangione has pleaded guilty to federal charges. What happens now?",
-    "summary": "The 28-year-old's guilty plea may throw a wrench in his upcoming state murder trial.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3763gy2ro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 16:16:19 GMT",
-    "source": "BBC News",
-    "id": "133697e7c1fbff238ea0950977507d08",
-    "fetched_at": "2026-08-14T16:42:29.437838+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
-    "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
-    "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 20:37:14 GMT",
-    "source": "BBC News",
-    "id": "38018e9653dcc1786f299b026515ec2d",
-    "fetched_at": "2026-08-14T16:42:28.304122+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Selena Gomez sued for alleged fraud over mental health company",
-    "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 11:32:05 GMT",
-    "source": "BBC News",
-    "id": "bcd2732db4f674dcf31b6106e012b8f8",
-    "fetched_at": "2026-08-14T16:42:27.161460+00:00"
   }
 ]
