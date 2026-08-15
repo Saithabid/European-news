@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+    "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 18:25:38 GMT",
+    "source": "BBC News",
+    "id": "efecd9d6b2652824aff2c17033b62ed6",
+    "fetched_at": "2026-08-15T16:15:24.478457+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Migrant charity SOS Méditerranée says 11 bodies spotted in sea off Libya's coast",
+    "summary": "The EU border agency Frontex said the total number of irregular border crossings into the European Union fell by 26% in 2025 from the previous year to almost 178,000.",
+    "link": "http://www.euronews.com/2026/08/14/migrant-charity-sos-mediterranee-says-11-bodies-spotted-in-sea-off-libyas-coast",
+    "published": "Fri, 14 Aug 2026 22:05:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "40a3b540adb17203ea7b7f938a3d6e3f",
+    "fetched_at": "2026-08-15T16:15:23.368358+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Lebanon president says Israeli strikes that killed 11 send 'clear message' on negotiations",
+    "summary": "In a statement on Saturday, Hezbollah warned that the latest Israeli attacks would \"be met with an appropriate response.\"",
+    "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
+    "published": "Sat, 15 Aug 2026 16:52:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6caa3d8c485aa4c06c4b6dc9f27cb9e4",
+    "fetched_at": "2026-08-15T16:15:22.252474+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 15th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-evening",
+    "published": "Sat, 15 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dceb1e9befebf90f0a999bcb288605d0",
+    "fetched_at": "2026-08-15T16:15:21.128898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
+    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
+    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a26513b228210633e344cc2734dec4bc",
+    "fetched_at": "2026-08-15T16:15:19.983355+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+    "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+    "published": "Fri, 14 Aug 2026 06:30:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "7843848ca6463f613c85ff7916f3ac73",
+    "fetched_at": "2026-08-15T16:15:18.856905+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US missionary released following kidnap in Niger, Christian group says",
+    "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 10:18:02 GMT",
+    "source": "BBC News",
+    "id": "32aedffb09469fdbe9b200dc35a4ca0d",
+    "fetched_at": "2026-08-15T16:15:17.737892+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Five injured, one critically, in shooting at Virginia State University",
+    "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 15:09:59 GMT",
+    "source": "BBC News",
+    "id": "059adcf10b8e52562c3b54ce61e8036b",
+    "fetched_at": "2026-08-15T16:15:16.602693+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
     "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
     "fetched_at": "2026-08-15T00:48:33.802323+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
-    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
-    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
-    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd31b6885bcad1977c88354f7c2ed254",
-    "fetched_at": "2026-08-15T00:48:32.685400+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "27d176d8e263dae09551bf505623b95d",
-    "fetched_at": "2026-08-15T00:48:31.556248+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. missionary who was kidnapped in Niger is released",
-    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "41428810912343661989b13f05b759f4",
-    "fetched_at": "2026-08-15T00:48:30.432165+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-    "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-    "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 15:50:49 GMT",
-    "source": "BBC News",
-    "id": "7ab6d2a442f0cfd4c0de28f6aa7925d9",
-    "fetched_at": "2026-08-14T22:14:36.262659+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Person fined after using foghorn to wake sleeping polar bear",
-    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
-    "source": "BBC News",
-    "id": "80cca21a13d2ed52c70293e3c88503a1",
-    "fetched_at": "2026-08-14T22:14:35.103786+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-    "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-    "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 20:22:56 GMT",
-    "source": "BBC News",
-    "id": "f74290beec0d527f80fabbb4243ced6a",
-    "fetched_at": "2026-08-14T22:14:33.967577+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-    "source": "BBC News",
-    "id": "743b1d41d77c3cd77e7f408e456dddd9",
-    "fetched_at": "2026-08-14T22:14:32.806422+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
-    "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
-    "published": "Fri, 14 Aug 2026 18:03:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "464a3b890f55b345c5eb6bb441c4b77a",
-    "fetched_at": "2026-08-14T22:14:31.664358+00:00"
   }
 ]
