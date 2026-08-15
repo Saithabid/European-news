@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+    "source": "BBC News",
+    "id": "989a69b79c7fe47f2243e6b6b3b0d073",
+    "fetched_at": "2026-08-15T00:48:34.923793+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
+    "summary": "Polish Prime Minister Donald Tusk says Poland arrested a Russian citizen recruited by Russian intelligence to kill a Ukrainian-American in Warsaw.",
+    "link": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
+    "published": "Thu, 13 Aug 2026 14:26:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8aa5618ac6665ca0c7fe1a00059d27b0",
+    "fetched_at": "2026-08-15T00:48:33.802323+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
+    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
+    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd31b6885bcad1977c88354f7c2ed254",
+    "fetched_at": "2026-08-15T00:48:32.685400+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "27d176d8e263dae09551bf505623b95d",
+    "fetched_at": "2026-08-15T00:48:31.556248+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. missionary who was kidnapped in Niger is released",
+    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "41428810912343661989b13f05b759f4",
+    "fetched_at": "2026-08-15T00:48:30.432165+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
     "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
     "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "ef9d8448815cc48f5519b40e51f96306",
     "fetched_at": "2026-08-14T12:47:58.465657+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tourists flock to Mount Etna to witness eruption despite safety warnings",
-    "summary": "Mount Etna is erupting in Sicily, drawing tourists eager to see the active volcano despite concerns from local guides. The eruption has sent plumes into the sky and forced authorities to close Catania Airport. Mount Etna is Europe's tallest active volcano.",
-    "link": "http://www.euronews.com/video/2026/08/14/tourists-flock-to-mount-etna-to-witness-eruption-despite-safety-warnings",
-    "published": "Fri, 14 Aug 2026 12:51:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "90ad791a0f8173e2a339904274088149",
-    "fetched_at": "2026-08-14T12:47:58.465654+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tehran brings back cleric behind 2009 protest crackdown to head its Basij militia",
-    "summary": "Hossein Taeb commanded the Basij during the mass demonstrations of June 2009 and led the IRGC's intelligence service for 13 years, overseeing operations against journalists, dual nationals and dissidents. His return signals that Tehran fears it might need to manage unrest in the near future.",
-    "link": "http://www.euronews.com/2026/08/14/tehran-brings-back-cleric-behind-2009-protest-crackdown-to-head-its-basij-militia",
-    "published": "Fri, 14 Aug 2026 12:52:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a472e47df375206935b8cebe4574ab04",
-    "fetched_at": "2026-08-14T12:47:58.465650+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 19:46:27 GMT",
-    "source": "BBC News",
-    "id": "2f3644dd8a9c09f428851fe03e378dc9",
-    "fetched_at": "2026-08-14T12:47:58.465646+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
-    "summary": "Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine&apos;s drone attack crippled Novorossiysk grain terminals.",
-    "link": "https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific",
-    "published": "Wed, 12 Aug 2026 12:15:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8dce7e3d2ef9062536a801d43fc8f9d5",
-    "fetched_at": "2026-08-14T12:47:58.465592+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning",
-    "summary": "Sen. Ted Cruz says he&apos;s deeply concerned about a Board of Peace provision that could cover up to $400 million in debts from Hamas&apos; rule in Gaza.",
-    "link": "https://www.foxnews.com/world/cruz-sounds-alarm-over-400m-hamas-era-provision-board-peace-plan-issues-blunt-warning",
-    "published": "Thu, 13 Aug 2026 13:38:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc9ced581533955383dfe392a3be42d5",
-    "fetched_at": "2026-08-14T12:47:57.344066+00:00"
   }
 ]
