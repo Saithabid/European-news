@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Mysterious elephant deaths in Kenya leave experts searching for answers",
+    "summary": "At least 19 elephants have died since June in a popular wildlife region of southern Kenya, with the local toll now reported at 20. Early tests have suggested cyanide poisoning from pesticides, but wildlife experts say the evidence does not fit all the symptoms they have observed.",
+    "link": "http://www.euronews.com/2026/08/15/mysterious-elephant-deaths-in-kenya-leave-experts-searching-for-answers",
+    "published": "Sat, 15 Aug 2026 04:34:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0f0b7470eb0ce442ae88b9fb51223738",
+    "fetched_at": "2026-08-15T20:13:37.021101+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
+    "summary": "A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals.",
+    "link": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
+    "published": "Sat, 15 Aug 2026 21:59:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "87e9b35ec977151ce49468873d5a5e63",
+    "fetched_at": "2026-08-15T20:13:37.021098+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 19:46:27 GMT",
+    "source": "BBC News",
+    "id": "2f3644dd8a9c09f428851fe03e378dc9",
+    "fetched_at": "2026-08-15T20:13:37.021066+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+    "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 19:41:57 GMT",
+    "source": "BBC News",
+    "id": "72fe293da0222baa800fd6103068c505",
+    "fetched_at": "2026-08-15T20:13:35.904737+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+    "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 19:16:40 GMT",
+    "source": "BBC News",
+    "id": "4b8c4b3a3167a58629a9e887e39d23b6",
+    "fetched_at": "2026-08-15T20:13:34.788884+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
+    "summary": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
+    "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
+    "published": "Thu, 13 Aug 2026 15:40:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c768de2a61f81c8ff2a1ae4b8c75b01b",
+    "fetched_at": "2026-08-15T20:13:33.667214+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
+    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
+    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
+    "published": "Fri, 14 Aug 2026 21:09:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6b031208176d0ceb99f6b7244d7707fb",
+    "fetched_at": "2026-08-15T20:13:32.536567+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
+    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "656f1c7c0349fd55eb33f6335962bff2",
+    "fetched_at": "2026-08-15T20:13:31.410932+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+    "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
+    "source": "BBC News",
+    "id": "91c20f0592f67c637bcdd69cc6ce71df",
+    "fetched_at": "2026-08-15T20:13:30.282598+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+    "source": "BBC News",
+    "id": "989a69b79c7fe47f2243e6b6b3b0d073",
+    "fetched_at": "2026-08-15T20:13:29.138052+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Dozens injured and thousands evacuated in Croatia wildfire",
     "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
     "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "6ba7665431a70135caf31598537192ab",
     "fetched_at": "2026-08-15T08:18:19.960152+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-    "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-    "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 17:36:27 GMT",
-    "source": "BBC News",
-    "id": "64372cacdfd59f9b1c0cc77758b86785",
-    "fetched_at": "2026-08-15T08:18:18.827471+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-    "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 19:05:22 GMT",
-    "source": "BBC News",
-    "id": "29988faba7b9c54cb5f51e901f85a51f",
-    "fetched_at": "2026-08-15T08:18:17.690649+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-    "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 06:21:31 GMT",
-    "source": "BBC News",
-    "id": "7be922b812af5c3b83f8e144950f8f43",
-    "fetched_at": "2026-08-15T06:24:18.545789+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-    "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 00:01:53 GMT",
-    "source": "BBC News",
-    "id": "02200b66ba24014b3fd58572717ef9f6",
-    "fetched_at": "2026-08-15T06:24:17.435326+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rome’s Colosseum extends cool night tours as heatwaves scorch city",
-    "summary": "Rome’s Colosseum is opening late four nights a week this summer, offering fully booked evening tours as a cooler, more magical way to visit.",
-    "link": "http://www.euronews.com/video/2026/08/14/romes-colosseum-extends-cool-night-tours-as-heatwaves-scorch-city",
-    "published": "Fri, 14 Aug 2026 15:25:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9088d9ffecdb139ee5fb6b6638e20719",
-    "fetched_at": "2026-08-15T06:24:16.333445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "War in Ukraine: Deadly Russian air raid on Kramatorsk leaves 1 dead and 17 wounded",
-    "summary": "At least one person was killed and 17 injured in a Russian airstrike on Kramatorsk in eastern Ukraine overnight, according to Ukraine’s State Emergency Service.",
-    "link": "http://www.euronews.com/video/2026/08/14/war-in-ukraine-deadly-russian-air-raid-on-kramatorsk-leaves-1-dead-and-17-wounded",
-    "published": "Fri, 14 Aug 2026 16:22:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "30522a42497bfcbcb5b2ae337b48106e",
-    "fetched_at": "2026-08-15T06:24:15.225252+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 15th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning",
-    "published": "Sat, 15 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1741391e389b7e578a00b9d6a436d08f",
-    "fetched_at": "2026-08-15T06:24:14.131844+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK hits back after Netanyahu labels it 'the Islamic republic of Britain'",
-    "summary": "Netanyahu made the comments during an army radio podcast interview, in which he also joked that the UK was the \"first Islamic republic with nuclear weapons.\"",
-    "link": "http://www.euronews.com/2026/08/15/uk-hits-back-after-netanyahu-labels-it-the-islamic-republic-of-britain",
-    "published": "Sat, 15 Aug 2026 08:16:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1504e99eb7fc20e9607a380bd2db65a8",
-    "fetched_at": "2026-08-15T06:24:13.024714+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-    "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 03:28:56 GMT",
-    "source": "BBC News",
-    "id": "c3aeafd4ceb2dbd3e95c941c1b99cf45",
-    "fetched_at": "2026-08-15T04:22:07.543214+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Family of Irish plane crash victim awarded $29m in damages",
-    "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 19:08:49 GMT",
-    "source": "BBC News",
-    "id": "0803d35ac73bfff46801da9fe8e833bc",
-    "fetched_at": "2026-08-15T04:22:06.428844+00:00"
   }
 ]
