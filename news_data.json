@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "World’s Ugliest Dog contest crowns its 2026 winner",
+    "summary": "Jinny Lu, a rescued pug originally from South Korea, has won the 50th annual World’s Ugliest Dog Contest in Santa Rosa, California.",
+    "link": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
+    "published": "Sun, 16 Aug 2026 14:27:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1f0a04e3faf5f09764ab91d5a9ebdf9b",
+    "fetched_at": "2026-08-16T14:15:12.188295+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+    "source": "BBC News",
+    "id": "743b1d41d77c3cd77e7f408e456dddd9",
+    "fetched_at": "2026-08-16T14:15:12.188292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+    "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 13:34:38 GMT",
+    "source": "BBC News",
+    "id": "19660ecf8c49ab6624aa51c057c55a6e",
+    "fetched_at": "2026-08-16T14:15:12.188289+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+    "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 17:47:42 GMT",
+    "source": "BBC News",
+    "id": "84664161a4e8efe102f6082a8853f9c6",
+    "fetched_at": "2026-08-16T14:15:12.188263+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: BBC visits smouldering market in Ukraine after overnight strikes",
+    "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+    "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+    "source": "BBC News",
+    "id": "5871178858ea327258735d8e69e871ab",
+    "fetched_at": "2026-08-16T14:15:10.925902+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
+    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
+    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd31b6885bcad1977c88354f7c2ed254",
+    "fetched_at": "2026-08-16T14:15:09.779961+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+    "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones and Nazi-era guns.",
+    "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "published": "Sat, 15 Aug 2026 13:49:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "35247153b19aacd30c8c8814832ad90e",
+    "fetched_at": "2026-08-16T14:15:08.643425+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
+    "summary": "Iran-backed Houthis exploit Yemen&apos;s fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz chokepoint.",
+    "link": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
+    "published": "Sun, 16 Aug 2026 09:53:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6cbb4261532762418619273a20d7285e",
+    "fetched_at": "2026-08-16T14:15:07.504794+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "27d176d8e263dae09551bf505623b95d",
+    "fetched_at": "2026-08-16T14:15:06.271285+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. missionary who was kidnapped in Niger is released",
+    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "41428810912343661989b13f05b759f4",
+    "fetched_at": "2026-08-16T14:15:05.029389+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+    "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+    "published": "Fri, 14 Aug 2026 18:03:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "464a3b890f55b345c5eb6bb441c4b77a",
+    "fetched_at": "2026-08-16T14:15:03.759866+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
     "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
     "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "0f0b7470eb0ce442ae88b9fb51223738",
     "fetched_at": "2026-08-15T20:13:37.021101+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
-    "summary": "A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals.",
-    "link": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
-    "published": "Sat, 15 Aug 2026 21:59:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "87e9b35ec977151ce49468873d5a5e63",
-    "fetched_at": "2026-08-15T20:13:37.021098+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 19:46:27 GMT",
-    "source": "BBC News",
-    "id": "2f3644dd8a9c09f428851fe03e378dc9",
-    "fetched_at": "2026-08-15T20:13:37.021066+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-    "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 19:41:57 GMT",
-    "source": "BBC News",
-    "id": "72fe293da0222baa800fd6103068c505",
-    "fetched_at": "2026-08-15T20:13:35.904737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-    "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 19:16:40 GMT",
-    "source": "BBC News",
-    "id": "4b8c4b3a3167a58629a9e887e39d23b6",
-    "fetched_at": "2026-08-15T20:13:34.788884+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
-    "summary": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
-    "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
-    "published": "Thu, 13 Aug 2026 15:40:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c768de2a61f81c8ff2a1ae4b8c75b01b",
-    "fetched_at": "2026-08-15T20:13:33.667214+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
-    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
-    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
-    "published": "Fri, 14 Aug 2026 21:09:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b031208176d0ceb99f6b7244d7707fb",
-    "fetched_at": "2026-08-15T20:13:32.536567+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "656f1c7c0349fd55eb33f6335962bff2",
-    "fetched_at": "2026-08-15T20:13:31.410932+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-    "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
-    "source": "BBC News",
-    "id": "91c20f0592f67c637bcdd69cc6ce71df",
-    "fetched_at": "2026-08-15T20:13:30.282598+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 19:20:43 GMT",
-    "source": "BBC News",
-    "id": "989a69b79c7fe47f2243e6b6b3b0d073",
-    "fetched_at": "2026-08-15T20:13:29.138052+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-    "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-    "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 20:22:56 GMT",
-    "source": "BBC News",
-    "id": "f74290beec0d527f80fabbb4243ced6a",
-    "fetched_at": "2026-08-15T18:17:38.784737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Person fined after using foghorn to wake sleeping polar bear",
-    "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 15:30:57 GMT",
-    "source": "BBC News",
-    "id": "80cca21a13d2ed52c70293e3c88503a1",
-    "fetched_at": "2026-08-15T18:17:38.784735+00:00"
   }
 ]
