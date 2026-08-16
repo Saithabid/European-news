@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 21:43:47 GMT",
+    "source": "BBC News",
+    "id": "e1e53d14aa13f362316ffa2dade6b8d1",
+    "fetched_at": "2026-08-16T04:28:09.072193+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eurovision proposes new rules to reduce political voting",
+    "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+    "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 10:23:08 GMT",
+    "source": "BBC News",
+    "id": "4e246e106c50d6960dcfbd43b8d92d8e",
+    "fetched_at": "2026-08-16T04:28:07.937107+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s ‘Amazon’ in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
+    "summary": "Ukraine&apos;s drone strikes have knocked out 27% of Wildberries warehouse capacity, with losses estimated up to $8.5 billion as Russia&apos;s logistics reels.",
+    "link": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
+    "published": "Thu, 13 Aug 2026 17:20:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7679526e43f081ca79562c1c7faa8fb6",
+    "fetched_at": "2026-08-16T04:28:06.823116+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
+    "summary": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms.",
+    "link": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
+    "published": "Thu, 13 Aug 2026 20:14:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "02cebeef084ebf8f6d9655bff919ef89",
+    "fetched_at": "2026-08-16T04:28:05.689029+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Watch: Chaos as powerful earthquake hits Indonesia",
     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia, damaging buildings and sending people running for safety as the shaking was caught on camera in Maumere.",
     "link": "http://www.euronews.com/video/2026/08/15/watch-chaos-as-powerful-earthquake-hits-indonesia",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d7fd1c5eac8a755fcd3277da3cfa574c",
     "fetched_at": "2026-08-15T14:14:34.319748+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-    "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 18:54:58 GMT",
-    "source": "BBC News",
-    "id": "50d72a7d94299e1c3e65fba322449a61",
-    "fetched_at": "2026-08-15T14:14:33.196856+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-    "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 10:56:22 GMT",
-    "source": "BBC News",
-    "id": "a76dabc4f947ca7eace198a9b8c36303",
-    "fetched_at": "2026-08-15T12:21:58.193966+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-    "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 11:24:24 GMT",
-    "source": "BBC News",
-    "id": "36042447571412d50561da1bbb2616dc",
-    "fetched_at": "2026-08-15T12:21:58.193961+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US backs Japanese sovereignty over disputed islands after Putin visit",
-    "summary": "The US ambassador said Washington was \"unwavering\" in recognising Japanese sovereignty, after Putin's visit to the four islands occupied by the Soviet Union in 1945 prompted Japan to summon Moscow's ambassador and consider tightening sanctions against Russia.",
-    "link": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
-    "published": "Fri, 14 Aug 2026 18:19:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7e4bd568903c79e9518db7596d0fc660",
-    "fetched_at": "2026-08-15T12:21:58.193934+00:00"
   }
 ]
