@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+    "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 07:04:17 GMT",
+    "source": "BBC News",
+    "id": "40c3341d94d736e969a36b3796f4a26e",
+    "fetched_at": "2026-08-16T08:19:42.176348+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+    "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 08:14:56 GMT",
+    "source": "BBC News",
+    "id": "bd488c85e2d468b4335c9d844e60c74c",
+    "fetched_at": "2026-08-16T08:19:40.931562+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 12 people killed in a Polish tourist bus crash in Hungary",
+    "summary": "By 3 a.m. on Sunday, the disaster management service reported that firefighters had so far rescued thirty-five people from the coach, while several passengers had been trapped beneath the vehicle.",
+    "link": "http://www.euronews.com/2026/08/16/at-least-12-people-killed-in-a-polish-tourist-bus-crash-in-hungary",
+    "published": "Sun, 16 Aug 2026 09:22:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bfed210e4b43e49dcbb1dae19cf288aa",
+    "fetched_at": "2026-08-16T08:19:39.693062+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France's top court blocks social media ban for under-15s",
+    "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 16:35:06 GMT",
+    "source": "BBC News",
+    "id": "8f10b66bf13d1e05f6c3819d96e21f2f",
+    "fetched_at": "2026-08-16T08:19:38.552445+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Farage puts seat on the line over ‘establishment hit job’ — voters send him right back",
+    "summary": "Nigel Farage reclaimed his Clacton seat with 22,239 votes, but the parliamentary investigation into his undeclared £5 million gift is now active again.",
+    "link": "https://www.foxnews.com/world/farage-puts-seat-line-over-establishment-hit-job-voters-send-him-right-back",
+    "published": "Fri, 14 Aug 2026 12:52:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "97f71f2b791b178e13b0b14d963ee040",
+    "fetched_at": "2026-08-16T08:19:37.321111+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain stocks African enclave Ceuta with boosted security as Morocco monitors calls for second border rush",
+    "summary": "Spain&apos;s African enclave Ceuta sees soldiers patrolling streets, and Morocco says it arrested those inciting a second mass border crossing on Saturday.",
+    "link": "https://www.foxnews.com/world/spain-stocks-african-enclave-ceuta-boosted-security-morocco-monitors-calls-second-border-rush",
+    "published": "Sat, 15 Aug 2026 08:56:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "80db1f10484ec7cd9db170dd25c6d415",
+    "fetched_at": "2026-08-16T08:19:36.172925+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "BBC seeks to subpoena family members in Panorama lawsuit",
     "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
     "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "dceb1e9befebf90f0a999bcb288605d0",
     "fetched_at": "2026-08-15T16:15:21.128898+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
-    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
-    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a26513b228210633e344cc2734dec4bc",
-    "fetched_at": "2026-08-15T16:15:19.983355+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-    "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-    "published": "Fri, 14 Aug 2026 06:30:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "7843848ca6463f613c85ff7916f3ac73",
-    "fetched_at": "2026-08-15T16:15:18.856905+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US missionary released following kidnap in Niger, Christian group says",
-    "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 10:18:02 GMT",
-    "source": "BBC News",
-    "id": "32aedffb09469fdbe9b200dc35a4ca0d",
-    "fetched_at": "2026-08-15T16:15:17.737892+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Five injured, one critically, in shooting at Virginia State University",
-    "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 15:09:59 GMT",
-    "source": "BBC News",
-    "id": "059adcf10b8e52562c3b54ce61e8036b",
-    "fetched_at": "2026-08-15T16:15:16.602693+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-    "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-    "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 17:03:17 GMT",
-    "source": "BBC News",
-    "id": "9f0f40b7bbf58a95b1d9ec6c80a4ca52",
-    "fetched_at": "2026-08-15T14:14:41.014073+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
-    "summary": "Mangione entered the plea at a hastily scheduled hearing in Manhattan federal court, resolving one of two cases against him in connection with Thompson’s death.",
-    "link": "http://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court",
-    "published": "Fri, 14 Aug 2026 19:26:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "766bc5e930ae411f820eab50c18be1a3",
-    "fetched_at": "2026-08-15T14:14:39.911448+00:00"
   }
 ]
