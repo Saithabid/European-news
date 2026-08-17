@@ -1,6 +1,26 @@
 [
   {
     "region": "Europe",
+    "title": "Ferrari's first ever electric car sold for record $40m at auction",
+    "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+    "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 02:22:04 GMT",
+    "source": "BBC News",
+    "id": "14dbf26d81ade7bf606f0d297e799994",
+    "fetched_at": "2026-08-17T02:53:30.767440+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "BBC seeks to subpoena family members in Panorama lawsuit",
+    "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 00:11:03 GMT",
+    "source": "BBC News",
+    "id": "02200b66ba24014b3fd58572717ef9f6",
+    "fetched_at": "2026-08-17T02:53:29.519019+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 16th, 2026 – Morning",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-morning",
@@ -578,25 +598,5 @@
     "source": "BBC News",
     "id": "8f10b66bf13d1e05f6c3819d96e21f2f",
     "fetched_at": "2026-08-16T08:19:38.552445+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Farage puts seat on the line over ‘establishment hit job’ — voters send him right back",
-    "summary": "Nigel Farage reclaimed his Clacton seat with 22,239 votes, but the parliamentary investigation into his undeclared £5 million gift is now active again.",
-    "link": "https://www.foxnews.com/world/farage-puts-seat-line-over-establishment-hit-job-voters-send-him-right-back",
-    "published": "Fri, 14 Aug 2026 12:52:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97f71f2b791b178e13b0b14d963ee040",
-    "fetched_at": "2026-08-16T08:19:37.321111+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain stocks African enclave Ceuta with boosted security as Morocco monitors calls for second border rush",
-    "summary": "Spain&apos;s African enclave Ceuta sees soldiers patrolling streets, and Morocco says it arrested those inciting a second mass border crossing on Saturday.",
-    "link": "https://www.foxnews.com/world/spain-stocks-african-enclave-ceuta-boosted-security-morocco-monitors-calls-second-border-rush",
-    "published": "Sat, 15 Aug 2026 08:56:25 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "80db1f10484ec7cd9db170dd25c6d415",
-    "fetched_at": "2026-08-16T08:19:36.172925+00:00"
   }
 ]
