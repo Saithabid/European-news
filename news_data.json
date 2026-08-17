@@ -1,5 +1,35 @@
 [
   {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 16th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-morning",
+    "published": "Sun, 16 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7d4e7db5b9154cdfa14c537184fcd81c",
+    "fetched_at": "2026-08-17T00:50:05.595545+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
+    "summary": "Diego Garcia supports U.S. carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics.",
+    "link": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
+    "published": "Sun, 16 Aug 2026 20:38:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a01a1bfa8678cd8158b02e1c3918340d",
+    "fetched_at": "2026-08-17T00:50:04.487148+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+    "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 18:54:58 GMT",
+    "source": "BBC News",
+    "id": "50d72a7d94299e1c3e65fba322449a61",
+    "fetched_at": "2026-08-17T00:50:03.377877+00:00"
+  },
+  {
     "region": "USA",
     "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
     "summary": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms.",
@@ -568,35 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "80db1f10484ec7cd9db170dd25c6d415",
     "fetched_at": "2026-08-16T08:19:36.172925+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-    "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 00:11:03 GMT",
-    "source": "BBC News",
-    "id": "02200b66ba24014b3fd58572717ef9f6",
-    "fetched_at": "2026-08-16T06:26:47.068562+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-    "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 13:41:09 GMT",
-    "source": "BBC News",
-    "id": "a76dabc4f947ca7eace198a9b8c36303",
-    "fetched_at": "2026-08-16T06:26:45.934624+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-    "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 20:21:14 GMT",
-    "source": "BBC News",
-    "id": "36042447571412d50561da1bbb2616dc",
-    "fetched_at": "2026-08-16T06:26:44.603999+00:00"
   }
 ]
