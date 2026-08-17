@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+    "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 17:31:36 GMT",
+    "source": "BBC News",
+    "id": "aa32ce9cb9c4542366d5484087944ac9",
+    "fetched_at": "2026-08-17T18:27:04.065517+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tokyo festival turns streets into a giant water fight",
+    "summary": "Crowds drench mikoshi bearers with buckets, hoses and water pistols during Tokyo's triennial Fukagawa Hachiman Matsuri on 16 August 2026.",
+    "link": "http://www.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight",
+    "published": "Mon, 17 Aug 2026 18:39:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6ca21c8646e3bb9401409e70c74a7be5",
+    "fetched_at": "2026-08-17T18:27:04.065514+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
+    "summary": "The Supreme Court upheld Yabloko's removal from the September ballot hours after a Pskov court sentenced deputy chair Lev Shlosberg to more than 11 years in a penal colony for calling for a ceasefire in Russia's ongoing all-out war in Ukraine.",
+    "link": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
+    "published": "Mon, 17 Aug 2026 19:51:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e0e3ab5095ac27960f15db93d71ab04f",
+    "fetched_at": "2026-08-17T18:27:04.065512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kushner's Gaza peace plan talks end without breakthrough",
+    "summary": "A senior Israeli official told news agency AFP that the US and Israel had \"agreed that no redeployment or reconstruction would take place in the Gaza Strip before Hamas is disarmed throughout Gaza.\"",
+    "link": "http://www.euronews.com/2026/08/17/kushners-gaza-peace-plan-talks-end-without-breakthrough",
+    "published": "Mon, 17 Aug 2026 20:00:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5541fcbaa24f2f32be9d03a6b07a8d72",
+    "fetched_at": "2026-08-17T18:27:04.065508+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
+    "summary": "It's the second time Trump has asked the Supreme Court to overturn damages awarded to E. Jean Carroll.",
+    "link": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
+    "published": "Mon, 17 Aug 2026 20:15:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5c01296a9c39425e80050aed87ed7e34",
+    "fetched_at": "2026-08-17T18:27:04.065480+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+    "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 10:53:50 GMT",
+    "source": "BBC News",
+    "id": "40c3341d94d736e969a36b3796f4a26e",
+    "fetched_at": "2026-08-17T18:27:02.829345+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French PM heckled over wildfire response as blazes continue across Europe",
+    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+    "source": "BBC News",
+    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
+    "fetched_at": "2026-08-17T18:27:01.706123+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+    "source": "BBC News",
+    "id": "3eece1858bc0fe119063bc5ea5ae978e",
+    "fetched_at": "2026-08-17T18:27:00.591480+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia and Ukraine trade more deadly strikes",
+    "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+    "source": "BBC News",
+    "id": "cdaac14503c1f39d040ca3b9a647f773",
+    "fetched_at": "2026-08-17T18:26:59.485399+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain stocks African enclave Ceuta with boosted security as Morocco monitors calls for second border rush",
+    "summary": "Spain&apos;s African enclave Ceuta sees soldiers patrolling streets, and Morocco says it arrested those inciting a second mass border crossing on Saturday.",
+    "link": "https://www.foxnews.com/world/spain-stocks-african-enclave-ceuta-boosted-security-morocco-monitors-calls-second-border-rush",
+    "published": "Sat, 15 Aug 2026 08:56:25 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "80db1f10484ec7cd9db170dd25c6d415",
+    "fetched_at": "2026-08-17T18:26:58.367455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "09d7e4a03ce88b85dcf39723da2acd28",
+    "fetched_at": "2026-08-17T18:26:57.161988+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "summary": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "published": "Mon, 17 Aug 2026 01:21:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "544d69b615af7424a3e417160b61066d",
+    "fetched_at": "2026-08-17T18:26:56.035708+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Hayden Panettiere: Authorities investigating cause of death as US media speculate on 'overdose'",
     "summary": "Actress Hayden Panettiere has died at the age of 36. US media is speculating on the cause of death, with People magazine reporting officials discussed \"overdose\" in dispatch audio.",
     "link": "http://www.euronews.com/2026/08/17/hayden-panettiere-authorities-investigating-cause-of-death-as-us-media-speculate-on-overdo",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "0cac0b4a9490fd19beec6c9705cc577d",
     "fetched_at": "2026-08-17T10:24:32.768517+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Top Zambian opposition figures arrested days after presidential vote",
-    "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 07:31:36 GMT",
-    "source": "BBC News",
-    "id": "2595d356fcf8b2916000e750f46cc064",
-    "fetched_at": "2026-08-17T08:34:19.368645+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Corgis race, bark and dress up at quirky competition in Vilnius",
-    "summary": "Around 150 corgis from nine countries gathered in Vilnius for a day of races, agility challenges and costume contests, with US-owned corgi “GG” taking the 2026 title.",
-    "link": "http://www.euronews.com/video/2026/08/16/corgis-race-bark-and-dress-up-at-quirky-competition-in-vilnius",
-    "published": "Sun, 16 Aug 2026 14:01:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b03b46c11d5342c62e709a08d3d0aa1e",
-    "fetched_at": "2026-08-17T08:34:19.368641+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kushner to meet Israeli PM Netanyahu after talks with Hamas on Gaza peace plan",
-    "summary": "The meeting comes two weeks after Hamas endorsed the latest stage of Trump's Gaza plan, which Netanyahu has refused to support, insisting any settlement must ensure the group is \"genuinely disarmed.\"",
-    "link": "http://www.euronews.com/2026/08/17/kushner-to-meet-israeli-pm-netanyahu-after-talks-with-hamas-on-gaza-peace-plan",
-    "published": "Mon, 17 Aug 2026 09:04:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d62a945dcce89117f32b0a622f40dfd7",
-    "fetched_at": "2026-08-17T08:34:19.368614+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgium races to tame huge wildfire 'spreading towards Germany'",
-    "summary": "Firefighters battle the advancing flames in eastern Belgium as thick smoke and difficult terrain complicate efforts to contain the blaze.",
-    "link": "http://www.euronews.com/video/2026/08/17/belgium-races-to-tame-huge-wildfire-spreading-towards-germany",
-    "published": "Mon, 17 Aug 2026 09:09:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ba141a4a23d4572001f7768b1babb4a5",
-    "fetched_at": "2026-08-17T08:34:18.227534+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Unexpected passengers: Two goats surprise passengers by boarding a bus",
-    "summary": "Two loose goats briefly board a TriMet bus in Portland, Oregon, before the driver reopens the doors and passengers guide them outside.",
-    "link": "http://www.euronews.com/video/2026/08/17/unexpected-passengers-two-goats-surprise-passengers-by-boarding-a-bus",
-    "published": "Mon, 17 Aug 2026 10:08:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d50f38cd9643bc9adb4b58cc2573c126",
-    "fetched_at": "2026-08-17T08:34:17.085224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
-    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
-    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a26513b228210633e344cc2734dec4bc",
-    "fetched_at": "2026-08-17T08:34:15.938099+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australia sets launch for sweeping gun buyback after Bondi Beach terror attack: 'Sensible gun reform'",
-    "summary": "New South Wales will be the first Australian state to launch a gun buyback scheme, offering up to $700 per firearm after the Bondi Beach terror attack.",
-    "link": "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
-    "published": "Mon, 17 Aug 2026 03:18:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d7e1a3c170f30e88bd457fa7eacdd255",
-    "fetched_at": "2026-08-17T08:34:14.706165+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-    "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-    "published": "Sat, 15 Aug 2026 13:04:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "db98f4db0f310c3197fecdfe23926e2b",
-    "fetched_at": "2026-08-17T08:34:13.555788+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-    "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-    "published": "Sun, 16 Aug 2026 06:12:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "5397b989d0e0c6e11b20a8d396c3fcbe",
-    "fetched_at": "2026-08-17T08:34:12.316626+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-    "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 19:00:23 GMT",
-    "source": "BBC News",
-    "id": "059adcf10b8e52562c3b54ce61e8036b",
-    "fetched_at": "2026-08-17T08:34:11.171081+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
-    "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 05:46:45 GMT",
-    "source": "BBC News",
-    "id": "b2fe65de524d21feb624ed53a6a8dd51",
-    "fetched_at": "2026-08-17T06:37:56.863747+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Record rains drench South Korean city as landslide kills one",
-    "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 04:34:09 GMT",
-    "source": "BBC News",
-    "id": "ee671c2d8fbd31c65b9ab534abe6ff7b",
-    "fetched_at": "2026-08-17T06:37:56.863721+00:00"
   }
 ]
