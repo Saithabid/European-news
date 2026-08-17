@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Yemen risks return to 'full-scale conflict' if Houthi strikes continue, UN rights chief warns",
+    "summary": "Earlier this month, the Houthi rebels launched their deadliest attacks in years, killing 58 government troops, according to a military source, mainly in the oil-rich Marib province.",
+    "link": "http://www.euronews.com/2026/08/17/yemen-risks-return-to-full-scale-conflict-if-houthi-strikes-continue-un-rights-chief-warns",
+    "published": "Mon, 17 Aug 2026 14:56:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e9ee7564e7c48dd15407f719233fae65",
+    "fetched_at": "2026-08-17T14:19:43.267086+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
+    "summary": "After two weeks of US-brokered talks, Venezuela's government and opposition agreed to jointly seek $4bn in gold held by the Bank of England since 2018, to fund reconstruction after June's earthquakes.",
+    "link": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
+    "published": "Mon, 17 Aug 2026 15:09:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cfb0eedd68358914c2afe8c2e04b5dd2",
+    "fetched_at": "2026-08-17T14:19:42.151792+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
+    "summary": "Tehran has been locked in ongoing talks with Oman over establishing a secure passage for commercial shipping through the Strait, which usually carries around a quarter of the world’s seaborne oil trade.",
+    "link": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
+    "published": "Mon, 17 Aug 2026 15:28:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dd67252f617b73d0c0223d2213b7fb33",
+    "fetched_at": "2026-08-17T14:19:41.014334+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+    "summary": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 19:37:45 GMT",
+    "source": "BBC News",
+    "id": "c8862edadbeef298e6a5128dbea32056",
+    "fetched_at": "2026-08-17T14:19:39.878465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Probably my last year' - Ronaldo hints at retirement",
+    "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 16:33:16 GMT",
+    "source": "BBC News",
+    "id": "a1104e511befb3cc67b7357c945d6bad",
+    "fetched_at": "2026-08-17T14:19:38.742036+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US hiker dies after being struck by lightning on Mount Etna",
+    "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+    "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 12:23:26 GMT",
+    "source": "BBC News",
+    "id": "775c95eb5a7140c21c4d73559322b729",
+    "fetched_at": "2026-08-17T14:19:37.507333+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+    "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 19:50:36 GMT",
+    "source": "BBC News",
+    "id": "47113be88d7452506821351be7b69b42",
+    "fetched_at": "2026-08-17T14:19:36.351306+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A good – and bad – week for Italy's art police and museum security",
+    "summary": "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces.",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+    "published": "Sun, 16 Aug 2026 12:27:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "9665f72b79b095398701beb0d2183d8c",
+    "fetched_at": "2026-08-17T14:19:35.208574+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Dogs receive holy water blessing in Bolivia ceremony",
     "summary": "Dogs and owners attend a Saint Roch Mass in La Paz, Bolivia, where pets receive blessings and worshippers honour animals that have died.",
     "link": "http://www.euronews.com/video/2026/08/17/dogs-receive-holy-water-blessing-in-bolivia-ceremony",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "7d4e7db5b9154cdfa14c537184fcd81c",
     "fetched_at": "2026-08-17T00:50:05.595545+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
-    "summary": "Diego Garcia supports U.S. carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics.",
-    "link": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
-    "published": "Sun, 16 Aug 2026 20:38:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a01a1bfa8678cd8158b02e1c3918340d",
-    "fetched_at": "2026-08-17T00:50:04.487148+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-    "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 18:54:58 GMT",
-    "source": "BBC News",
-    "id": "50d72a7d94299e1c3e65fba322449a61",
-    "fetched_at": "2026-08-17T00:50:03.377877+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
-    "summary": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms.",
-    "link": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
-    "published": "Thu, 13 Aug 2026 20:14:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "02cebeef084ebf8f6d9655bff919ef89",
-    "fetched_at": "2026-08-16T22:13:02.880767+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran jails psychologist over Trump plea as regime demands he make Americans ‘look stupid’: family",
-    "summary": "Seyed Ahmad Seyedabdollahi was sentenced to seven months in prison by the Islamic Republic after posting a video appealing to Trump to support protesters.",
-    "link": "https://www.foxnews.com/world/iran-jails-psychologist-trump-plea-regime-demands-americans-look-stupid-family",
-    "published": "Sat, 15 Aug 2026 06:00:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f79e5c748a3a0838f7320aac9e6c6ef3",
-    "fetched_at": "2026-08-16T22:13:01.778442+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-    "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
-    "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-    "published": "Sun, 16 Aug 2026 16:20:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "14cfcf1ec914aca754ad266c04d5e0a9",
-    "fetched_at": "2026-08-16T22:13:00.679168+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US commander says mental health a 'priority' on USS Lincoln",
-    "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 21:04:27 GMT",
-    "source": "BBC News",
-    "id": "e8ed902b5ab7dc3c250a7d623968c33a",
-    "fetched_at": "2026-08-16T22:12:59.566971+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-    "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 21:57:13 GMT",
-    "source": "BBC News",
-    "id": "18e36077e30551812ac03926b3c795df",
-    "fetched_at": "2026-08-16T22:12:58.460829+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 19:58:14 GMT",
-    "source": "BBC News",
-    "id": "0af7cc5988a922840ef0353b6ed44f94",
-    "fetched_at": "2026-08-16T20:13:19.055584+00:00"
   }
 ]
