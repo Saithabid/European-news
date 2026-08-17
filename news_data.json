@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Top Zambian opposition figures arrested days after presidential vote",
+    "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 07:31:36 GMT",
+    "source": "BBC News",
+    "id": "2595d356fcf8b2916000e750f46cc064",
+    "fetched_at": "2026-08-17T08:34:19.368645+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Corgis race, bark and dress up at quirky competition in Vilnius",
+    "summary": "Around 150 corgis from nine countries gathered in Vilnius for a day of races, agility challenges and costume contests, with US-owned corgi “GG” taking the 2026 title.",
+    "link": "http://www.euronews.com/video/2026/08/16/corgis-race-bark-and-dress-up-at-quirky-competition-in-vilnius",
+    "published": "Sun, 16 Aug 2026 14:01:39 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b03b46c11d5342c62e709a08d3d0aa1e",
+    "fetched_at": "2026-08-17T08:34:19.368641+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kushner to meet Israeli PM Netanyahu after talks with Hamas on Gaza peace plan",
+    "summary": "The meeting comes two weeks after Hamas endorsed the latest stage of Trump's Gaza plan, which Netanyahu has refused to support, insisting any settlement must ensure the group is \"genuinely disarmed.\"",
+    "link": "http://www.euronews.com/2026/08/17/kushner-to-meet-israeli-pm-netanyahu-after-talks-with-hamas-on-gaza-peace-plan",
+    "published": "Mon, 17 Aug 2026 09:04:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d62a945dcce89117f32b0a622f40dfd7",
+    "fetched_at": "2026-08-17T08:34:19.368614+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Belgium races to tame huge wildfire 'spreading towards Germany'",
+    "summary": "Firefighters battle the advancing flames in eastern Belgium as thick smoke and difficult terrain complicate efforts to contain the blaze.",
+    "link": "http://www.euronews.com/video/2026/08/17/belgium-races-to-tame-huge-wildfire-spreading-towards-germany",
+    "published": "Mon, 17 Aug 2026 09:09:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ba141a4a23d4572001f7768b1babb4a5",
+    "fetched_at": "2026-08-17T08:34:18.227534+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Unexpected passengers: Two goats surprise passengers by boarding a bus",
+    "summary": "Two loose goats briefly board a TriMet bus in Portland, Oregon, before the driver reopens the doors and passengers guide them outside.",
+    "link": "http://www.euronews.com/video/2026/08/17/unexpected-passengers-two-goats-surprise-passengers-by-boarding-a-bus",
+    "published": "Mon, 17 Aug 2026 10:08:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d50f38cd9643bc9adb4b58cc2573c126",
+    "fetched_at": "2026-08-17T08:34:17.085224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
+    "summary": "Iran&apos;s expected election to a United Nations committee on human rights and counterterrorism is called &quot;Orwellian&quot; by UN Watch&apos;s Hillel Neuer.",
+    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
+    "published": "Fri, 14 Aug 2026 06:30:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a26513b228210633e344cc2734dec4bc",
+    "fetched_at": "2026-08-17T08:34:15.938099+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australia sets launch for sweeping gun buyback after Bondi Beach terror attack: 'Sensible gun reform'",
+    "summary": "New South Wales will be the first Australian state to launch a gun buyback scheme, offering up to $700 per firearm after the Bondi Beach terror attack.",
+    "link": "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
+    "published": "Mon, 17 Aug 2026 03:18:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d7e1a3c170f30e88bd457fa7eacdd255",
+    "fetched_at": "2026-08-17T08:34:14.706165+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+    "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+    "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+    "published": "Sat, 15 Aug 2026 13:04:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "db98f4db0f310c3197fecdfe23926e2b",
+    "fetched_at": "2026-08-17T08:34:13.555788+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+    "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+    "published": "Sun, 16 Aug 2026 06:12:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "5397b989d0e0c6e11b20a8d396c3fcbe",
+    "fetched_at": "2026-08-17T08:34:12.316626+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+    "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 19:00:23 GMT",
+    "source": "BBC News",
+    "id": "059adcf10b8e52562c3b54ce61e8036b",
+    "fetched_at": "2026-08-17T08:34:11.171081+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Aussie rules footy players referred to police as detectives investigate sexual assault",
     "summary": "The \"disappointed\" Sydney Swans CEO wouldn't say what the incident was or how many players were involved.",
     "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "84664161a4e8efe102f6082a8853f9c6",
     "fetched_at": "2026-08-16T14:15:12.188263+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: BBC visits smouldering market in Ukraine after overnight strikes",
-    "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-    "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 12:18:09 GMT",
-    "source": "BBC News",
-    "id": "5871178858ea327258735d8e69e871ab",
-    "fetched_at": "2026-08-16T14:15:10.925902+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
-    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
-    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
-    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd31b6885bcad1977c88354f7c2ed254",
-    "fetched_at": "2026-08-16T14:15:09.779961+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
-    "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones and Nazi-era guns.",
-    "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
-    "published": "Sat, 15 Aug 2026 13:49:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "35247153b19aacd30c8c8814832ad90e",
-    "fetched_at": "2026-08-16T14:15:08.643425+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
-    "summary": "Iran-backed Houthis exploit Yemen&apos;s fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz chokepoint.",
-    "link": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
-    "published": "Sun, 16 Aug 2026 09:53:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6cbb4261532762418619273a20d7285e",
-    "fetched_at": "2026-08-16T14:15:07.504794+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-    "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-    "published": "Fri, 14 Aug 2026 07:02:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "27d176d8e263dae09551bf505623b95d",
-    "fetched_at": "2026-08-16T14:15:06.271285+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. missionary who was kidnapped in Niger is released",
-    "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-    "published": "Fri, 14 Aug 2026 08:11:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "41428810912343661989b13f05b759f4",
-    "fetched_at": "2026-08-16T14:15:05.029389+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
-    "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
-    "published": "Fri, 14 Aug 2026 18:03:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "464a3b890f55b345c5eb6bb441c4b77a",
-    "fetched_at": "2026-08-16T14:15:03.759866+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-    "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 11:35:25 GMT",
-    "source": "BBC News",
-    "id": "1431f3e670df47b60a6cca0a869893e0",
-    "fetched_at": "2026-08-16T12:23:07.117051+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli strikes that killed 11 send 'clear message' on negotiations, says Lebanese president",
-    "summary": "In a statement on Saturday, Hezbollah warned that the latest Israeli attacks would \"be met with an appropriate response.\"",
-    "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
-    "published": "Sat, 15 Aug 2026 16:52:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6caa3d8c485aa4c06c4b6dc9f27cb9e4",
-    "fetched_at": "2026-08-16T12:23:06.019015+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 15th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-evening",
-    "published": "Sat, 15 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dceb1e9befebf90f0a999bcb288605d0",
-    "fetched_at": "2026-08-16T12:23:04.912754+00:00"
   }
 ]
