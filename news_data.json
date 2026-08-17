@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Movie that went viral for terrible animation becomes China box office hit",
+    "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 08:35:07 GMT",
+    "source": "BBC News",
+    "id": "2932accf2aa5ec918ffa8f8f98d6f3e8",
+    "fetched_at": "2026-08-17T10:24:40.679744+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+    "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 08:38:41 GMT",
+    "source": "BBC News",
+    "id": "de56d87141010331dd864d8da9f190c4",
+    "fetched_at": "2026-08-17T10:24:40.679741+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least seven killed in stampede at Hindu temple in India",
+    "summary": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
+    "link": "http://www.euronews.com/2026/08/17/at-least-seven-killed-in-stampede-at-hindu-temple-in-india",
+    "published": "Mon, 17 Aug 2026 10:35:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7d7de3e0d41435d1565c09c507c76dc9",
+    "fetched_at": "2026-08-17T10:24:40.679738+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 17th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-midday",
+    "published": "Mon, 17 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3d988d6a1e74f0e9bd1021914f017440",
+    "fetched_at": "2026-08-17T10:24:40.679736+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+    "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 11:35:25 GMT",
+    "source": "BBC News",
+    "id": "1431f3e670df47b60a6cca0a869893e0",
+    "fetched_at": "2026-08-17T10:24:40.679732+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+    "summary": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators &quot;Israeli terrorists&quot; after they besieged a Palestinian American&apos;s home near Nablus.",
+    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
+    "published": "Fri, 14 Aug 2026 06:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dd31b6885bcad1977c88354f7c2ed254",
+    "fetched_at": "2026-08-17T10:24:40.679701+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+    "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones and Nazi-era guns.",
+    "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "published": "Sat, 15 Aug 2026 13:49:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "35247153b19aacd30c8c8814832ad90e",
+    "fetched_at": "2026-08-17T10:24:39.560530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
+    "summary": "Iran-backed Houthis exploit Yemen&apos;s fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz choke point.",
+    "link": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
+    "published": "Sun, 16 Aug 2026 09:53:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6cbb4261532762418619273a20d7285e",
+    "fetched_at": "2026-08-17T10:24:38.441936+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As war with Ukraine wages on, a look at life inside Russia",
+    "summary": "NPR's Sacha Pfeiffer speaks with Nina Krushcheva, professor of international affairs at the New School, about the current geopolitical climate in Russia.",
+    "link": "https://www.npr.org/2026/08/17/nx-s1-5933043/as-war-with-ukraine-wages-on-a-look-at-life-inside-russia",
+    "published": "Mon, 17 Aug 2026 04:50:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "ddcc0b1c61224b1e3037c7b3d76022e2",
+    "fetched_at": "2026-08-17T10:24:37.336852+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
+    "summary": "Ukraine launched one of its largest aerial attacks of the war on Russia, killing at least six people. How are Russians feeling as the war grinds on?",
+    "link": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
+    "published": "Mon, 17 Aug 2026 04:50:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "29d26383f132a1888503d27ef4c28132",
+    "fetched_at": "2026-08-17T10:24:36.223173+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK PM Burnham exchanged messages with White House imposter",
+    "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+    "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 10:16:25 GMT",
+    "source": "BBC News",
+    "id": "c397c2e0d629c0d66fe7c40acea05aeb",
+    "fetched_at": "2026-08-17T10:24:35.109461+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+    "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 05:00:25 GMT",
+    "source": "BBC News",
+    "id": "0d232b368cf0dec8aa317e31468bd673",
+    "fetched_at": "2026-08-17T10:24:34.012441+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+    "summary": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+    "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 23:21:37 GMT",
+    "source": "BBC News",
+    "id": "0cac0b4a9490fd19beec6c9705cc577d",
+    "fetched_at": "2026-08-17T10:24:32.768517+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Top Zambian opposition figures arrested days after presidential vote",
     "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
     "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "29988faba7b9c54cb5f51e901f85a51f",
     "fetched_at": "2026-08-16T18:17:46.384857+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-    "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 12:53:43 GMT",
-    "source": "BBC News",
-    "id": "b1933921c0c12d54673f445372890beb",
-    "fetched_at": "2026-08-16T18:17:45.245384+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
-    "summary": "A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals.",
-    "link": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
-    "published": "Sat, 15 Aug 2026 21:59:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "87e9b35ec977151ce49468873d5a5e63",
-    "fetched_at": "2026-08-16T16:15:52.701644+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-    "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 19:41:57 GMT",
-    "source": "BBC News",
-    "id": "72fe293da0222baa800fd6103068c505",
-    "fetched_at": "2026-08-16T16:15:51.602899+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 20:58:31 GMT",
-    "source": "BBC News",
-    "id": "4b8c4b3a3167a58629a9e887e39d23b6",
-    "fetched_at": "2026-08-16T16:15:50.503458+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
-    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
-    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
-    "published": "Fri, 14 Aug 2026 21:09:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b031208176d0ceb99f6b7244d7707fb",
-    "fetched_at": "2026-08-16T16:15:49.407007+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "656f1c7c0349fd55eb33f6335962bff2",
-    "fetched_at": "2026-08-16T16:15:48.299604+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What really happened in Ceuta? Why we may never find out",
-    "summary": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-    "published": "Sun, 16 Aug 2026 11:38:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "99c2204cd41f2e109703abeabf9ee010",
-    "fetched_at": "2026-08-16T16:15:47.194885+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-    "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 23:16:43 GMT",
-    "source": "BBC News",
-    "id": "91c20f0592f67c637bcdd69cc6ce71df",
-    "fetched_at": "2026-08-16T16:15:46.086486+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-    "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 19:20:43 GMT",
-    "source": "BBC News",
-    "id": "989a69b79c7fe47f2243e6b6b3b0d073",
-    "fetched_at": "2026-08-16T16:15:44.970043+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World’s Ugliest Dog contest crowns its 2026 winner",
-    "summary": "Jinny Lu, a rescued pug originally from South Korea, has won the 50th annual World’s Ugliest Dog Contest in Santa Rosa, California.",
-    "link": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
-    "published": "Sun, 16 Aug 2026 14:27:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1f0a04e3faf5f09764ab91d5a9ebdf9b",
-    "fetched_at": "2026-08-16T14:15:12.188295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-    "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 04:55:58 GMT",
-    "source": "BBC News",
-    "id": "743b1d41d77c3cd77e7f408e456dddd9",
-    "fetched_at": "2026-08-16T14:15:12.188292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-    "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 13:34:38 GMT",
-    "source": "BBC News",
-    "id": "19660ecf8c49ab6624aa51c057c55a6e",
-    "fetched_at": "2026-08-16T14:15:12.188289+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-    "summary": "The fire burning through the major park was described as the country's worst in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 17:47:42 GMT",
-    "source": "BBC News",
-    "id": "84664161a4e8efe102f6082a8853f9c6",
-    "fetched_at": "2026-08-16T14:15:12.188263+00:00"
   }
 ]
