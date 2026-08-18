@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Norway's king admitted to hospital and put on sick leave",
+    "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 21:34:26 GMT",
+    "source": "BBC News",
+    "id": "c8d52dff90bb0b109a7d5a47d5d16711",
+    "fetched_at": "2026-08-18T02:49:25.978666+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "BBC breaks down Trump's latest shift on North and South Korea",
+    "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+    "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 23:42:38 GMT",
+    "source": "BBC News",
+    "id": "65e7394ea25f9fa184f57e1a667ffb97",
+    "fetched_at": "2026-08-18T02:49:24.850405+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia warns UK over supplying drones to Ukraine",
+    "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+    "source": "BBC News",
+    "id": "12fa0fcaf50427cad294d6f75d47526d",
+    "fetched_at": "2026-08-18T02:49:23.712169+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+    "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+    "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 02:06:04 GMT",
+    "source": "BBC News",
+    "id": "560fed668ac2eaea9ea1e8bf09e99f3e",
+    "fetched_at": "2026-08-18T02:49:22.577040+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
+    "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
+    "link": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
+    "published": "Mon, 17 Aug 2026 21:00:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230141100fa0fd3f1e0f2e1f7f783683",
+    "fetched_at": "2026-08-18T02:49:21.429984+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
+    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "656f1c7c0349fd55eb33f6335962bff2",
+    "fetched_at": "2026-08-18T02:49:20.273898+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What really happened in Ceuta? Why we may never find out",
+    "summary": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
+    "published": "Sun, 16 Aug 2026 11:38:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "99c2204cd41f2e109703abeabf9ee010",
+    "fetched_at": "2026-08-18T02:49:19.135511+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+    "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+    "published": "Mon, 17 Aug 2026 07:48:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "22150fd1a16884d2170295c7d4b4bdbd",
+    "fetched_at": "2026-08-18T02:49:18.000361+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
     "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
     "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "9665f72b79b095398701beb0d2183d8c",
     "fetched_at": "2026-08-17T14:19:35.208574+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dogs receive holy water blessing in Bolivia ceremony",
-    "summary": "Dogs and owners attend a Saint Roch Mass in La Paz, Bolivia, where pets receive blessings and worshippers honour animals that have died.",
-    "link": "http://www.euronews.com/video/2026/08/17/dogs-receive-holy-water-blessing-in-bolivia-ceremony",
-    "published": "Mon, 17 Aug 2026 07:01:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ec01638b8809a266b0247eba37e4d694",
-    "fetched_at": "2026-08-17T12:27:46.374447+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From being single to soaring costs and war: Why Iranian women are freezing their eggs",
-    "summary": "“I don’t want to lose time.” That is a common concern among some Iranian women considering freezing their eggs.",
-    "link": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
-    "published": "Mon, 17 Aug 2026 13:59:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "913cdf12ee5c9531c93d6bb1949337d9",
-    "fetched_at": "2026-08-17T12:27:46.374445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-    "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 19:41:57 GMT",
-    "source": "BBC News",
-    "id": "72fe293da0222baa800fd6103068c505",
-    "fetched_at": "2026-08-17T12:27:46.374442+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 20:58:31 GMT",
-    "source": "BBC News",
-    "id": "4b8c4b3a3167a58629a9e887e39d23b6",
-    "fetched_at": "2026-08-17T12:27:46.374439+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-    "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 13:34:38 GMT",
-    "source": "BBC News",
-    "id": "19660ecf8c49ab6624aa51c057c55a6e",
-    "fetched_at": "2026-08-17T12:27:46.374436+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-    "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 20:01:51 GMT",
-    "source": "BBC News",
-    "id": "84664161a4e8efe102f6082a8853f9c6",
-    "fetched_at": "2026-08-17T12:27:46.374407+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
-    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
-    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
-    "published": "Fri, 14 Aug 2026 21:09:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b031208176d0ceb99f6b7244d7707fb",
-    "fetched_at": "2026-08-17T12:27:45.264928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
-    "summary": "Trump confirmed a direct backchannel with the IRGC for peace talks and issued an extraordinary bombing warning to Oman as the ceasefire expires.",
-    "link": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
-    "published": "Mon, 17 Aug 2026 08:10:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "156dd9843ab740f42bba70d5b3b85652",
-    "fetched_at": "2026-08-17T12:27:44.160298+00:00"
   }
 ]
