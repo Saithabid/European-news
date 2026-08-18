@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Indian student leader ends hunger strike after 16 days",
+    "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 07:27:32 GMT",
+    "source": "BBC News",
+    "id": "75088b710a6b6ce65c76e905a371d955",
+    "fetched_at": "2026-08-18T10:20:10.654460+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ship hit in Hormuz as Iran's top negotiator says strait to stay shut",
+    "summary": "Parliament speaker Ghalibaf said the waterway would remain closed until Washington lifted its naval blockade, released frozen Iranian assets and dropped oil sanctions, as an unidentified projectile hit a ship transiting the strait, causing at least one casualty.",
+    "link": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
+    "published": "Tue, 18 Aug 2026 11:52:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "80f4fc653216788bded7df8cb57aec36",
+    "fetched_at": "2026-08-18T10:20:10.654457+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 18th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
+    "published": "Tue, 18 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0cb4c2197f1c3b40e529a87ca9d9daac",
+    "fetched_at": "2026-08-18T10:20:10.654454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
+    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
+    "source": "BBC News",
+    "id": "d7e649010b19b8feedb6f3280af1292d",
+    "fetched_at": "2026-08-18T10:20:10.654452+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French PM heckled over wildfire response as blazes continue across Europe",
+    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+    "source": "BBC News",
+    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
+    "fetched_at": "2026-08-18T10:20:10.654449+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+    "source": "BBC News",
+    "id": "3eece1858bc0fe119063bc5ea5ae978e",
+    "fetched_at": "2026-08-18T10:20:10.654395+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
+    "summary": "Diego Garcia supports U.S. carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics.",
+    "link": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
+    "published": "Sun, 16 Aug 2026 20:38:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a01a1bfa8678cd8158b02e1c3918340d",
+    "fetched_at": "2026-08-18T10:20:09.520471+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "09d7e4a03ce88b85dcf39723da2acd28",
+    "fetched_at": "2026-08-18T10:20:08.388720+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "summary": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "published": "Mon, 17 Aug 2026 01:21:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "544d69b615af7424a3e417160b61066d",
+    "fetched_at": "2026-08-18T10:20:07.264308+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "War between U.S. and Iran shifts key resources away from Asia",
+    "summary": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
+    "published": "Tue, 18 Aug 2026 04:40:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "ba296fef590ff02139f14ab2c08282c3",
+    "fetched_at": "2026-08-18T10:20:06.136050+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+    "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 05:07:06 GMT",
+    "source": "BBC News",
+    "id": "adf3269d8cff1cb06e36ab8cfaa7aedd",
+    "fetched_at": "2026-08-18T10:20:05.012465+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+    "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 00:02:31 GMT",
+    "source": "BBC News",
+    "id": "acc51424492e77a0a7747375260cbe87",
+    "fetched_at": "2026-08-18T10:20:03.883983+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+    "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 08:44:10 GMT",
+    "source": "BBC News",
+    "id": "680c870e3498bb00de5b23367e68c737",
+    "fetched_at": "2026-08-18T10:20:02.745141+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
     "summary": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
     "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "367a5e06ab1849730c11df98ee87aa32",
     "fetched_at": "2026-08-17T22:16:08.738689+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-    "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:03:23 GMT",
-    "source": "BBC News",
-    "id": "921d5cadbb9bbab3243970c40d422916",
-    "fetched_at": "2026-08-17T20:17:32.667637+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rhine River remains low amid ongoing drought in Germany",
-    "summary": "Drought conditions have pushed water levels on Germany's Rhine to exceptionally low levels. The situation is putting pressure on inland navigation along one of western Europe's key transport routes. It comes amid a record-breaking wave of extreme weather across the region.",
-    "link": "http://www.euronews.com/video/2026/08/17/rhine-river-remains-low-amid-ongoing-drought-in-germany",
-    "published": "Mon, 17 Aug 2026 21:27:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c7c45dbab0377045bc393930b8c0db6d",
-    "fetched_at": "2026-08-17T20:17:31.541176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australia sets launch for sweeping gun buyback after Bondi Beach terror attack: 'Sensible gun reform'",
-    "summary": "New South Wales will be the first Australian state to launch a gun buyback scheme, offering up to $700 per firearm after the Bondi Beach terror attack.",
-    "link": "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform",
-    "published": "Mon, 17 Aug 2026 03:18:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d7e1a3c170f30e88bd457fa7eacdd255",
-    "fetched_at": "2026-08-17T20:17:30.412133+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy-Spain border feud exposes Europe’s deepening immigration divide",
-    "summary": "Italy and Spain face off over immigration and border controls, highlighting a widening European divide over enforcement, national security and the future of Schengen.",
-    "link": "https://www.foxnews.com/world/italy-spain-border-feud-exposes-europes-deepening-immigration-divide",
-    "published": "Mon, 17 Aug 2026 14:54:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ab5f5f1691b3db51819bd867f465899c",
-    "fetched_at": "2026-08-17T20:17:29.294749+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-    "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-    "published": "Sat, 15 Aug 2026 13:04:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "db98f4db0f310c3197fecdfe23926e2b",
-    "fetched_at": "2026-08-17T20:17:28.043851+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-    "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-    "published": "Sun, 16 Aug 2026 06:12:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "5397b989d0e0c6e11b20a8d396c3fcbe",
-    "fetched_at": "2026-08-17T20:17:26.919123+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
-    "summary": "Trump hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 July.",
-    "link": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 20:07:13 GMT",
-    "source": "BBC News",
-    "id": "9d6a4922210d27809bb5892f2035fdb8",
-    "fetched_at": "2026-08-17T20:17:25.673757+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-    "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 17:31:36 GMT",
-    "source": "BBC News",
-    "id": "aa32ce9cb9c4542366d5484087944ac9",
-    "fetched_at": "2026-08-17T18:27:04.065517+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tokyo festival turns streets into a giant water fight",
-    "summary": "Crowds drench mikoshi bearers with buckets, hoses and water pistols during Tokyo's triennial Fukagawa Hachiman Matsuri on 16 August 2026.",
-    "link": "http://www.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight",
-    "published": "Mon, 17 Aug 2026 18:39:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6ca21c8646e3bb9401409e70c74a7be5",
-    "fetched_at": "2026-08-17T18:27:04.065514+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
-    "summary": "The Supreme Court upheld Yabloko's removal from the September ballot hours after a Pskov court sentenced deputy chair Lev Shlosberg to more than 11 years in a penal colony for calling for a ceasefire in Russia's ongoing all-out war in Ukraine.",
-    "link": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
-    "published": "Mon, 17 Aug 2026 19:51:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e0e3ab5095ac27960f15db93d71ab04f",
-    "fetched_at": "2026-08-17T18:27:04.065512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kushner's Gaza peace plan talks end without breakthrough",
-    "summary": "A senior Israeli official told news agency AFP that the US and Israel had \"agreed that no redeployment or reconstruction would take place in the Gaza Strip before Hamas is disarmed throughout Gaza.\"",
-    "link": "http://www.euronews.com/2026/08/17/kushners-gaza-peace-plan-talks-end-without-breakthrough",
-    "published": "Mon, 17 Aug 2026 20:00:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5541fcbaa24f2f32be9d03a6b07a8d72",
-    "fetched_at": "2026-08-17T18:27:04.065508+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
-    "summary": "It's the second time Trump has asked the Supreme Court to overturn damages awarded to E. Jean Carroll.",
-    "link": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
-    "published": "Mon, 17 Aug 2026 20:15:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5c01296a9c39425e80050aed87ed7e34",
-    "fetched_at": "2026-08-17T18:27:04.065480+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-    "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 10:53:50 GMT",
-    "source": "BBC News",
-    "id": "40c3341d94d736e969a36b3796f4a26e",
-    "fetched_at": "2026-08-17T18:27:02.829345+00:00"
   }
 ]
