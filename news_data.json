@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Qatar says it repatriated body of Iranian pilot and denies claims of holding three others",
+    "summary": "Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations \"false\" and \"illogical\" and suggesting they were aimed at a domestic audience. Qatar's foreign ministry also said US-Iran talks were \"far\" from resuming.",
+    "link": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
+    "published": "Tue, 18 Aug 2026 15:05:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4f7134d8e8407987fcc3c40bdb1ed167",
+    "fetched_at": "2026-08-18T14:24:40.657456+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+    "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+    "link": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+    "published": "Tue, 18 Aug 2026 15:29:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dba7c8dbf009bade5cbc8661803f2f1c",
+    "fetched_at": "2026-08-18T14:24:40.657428+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+    "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 13:56:26 GMT",
+    "source": "BBC News",
+    "id": "a138f7196eb10d2d2fec91cce604ce29",
+    "fetched_at": "2026-08-18T14:24:39.576904+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
+    "summary": "Iran-backed Houthis exploit Yemen&apos;s fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz choke point.",
+    "link": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
+    "published": "Sun, 16 Aug 2026 09:53:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6cbb4261532762418619273a20d7285e",
+    "fetched_at": "2026-08-18T14:24:38.459179+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spanish journalist says Ceuta residents believe government isn't doing enough to prevent another migrant rush",
+    "summary": "Ceuta residents say they feel scared after 70,000 migrants flooded Spain&apos;s North African enclave, as border security concerns grow amid Morocco tensions.",
+    "link": "https://www.foxnews.com/world/spanish-journalist-ceuta-residents-believe-government-isnt-doing-enough-prevent-another-migrant-rush",
+    "published": "Tue, 18 Aug 2026 09:59:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "12bba43ebdc7f5fe39c8891bacf79f3c",
+    "fetched_at": "2026-08-18T14:24:37.348941+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As war with Ukraine wages on, a look at life inside Russia",
+    "summary": "NPR's Sacha Pfeiffer speaks with Nina Krushcheva, professor of international affairs at the New School, about the current geopolitical climate in Russia.",
+    "link": "https://www.npr.org/2026/08/17/nx-s1-5933043/as-war-with-ukraine-wages-on-a-look-at-life-inside-russia",
+    "published": "Mon, 17 Aug 2026 04:50:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "ddcc0b1c61224b1e3037c7b3d76022e2",
+    "fetched_at": "2026-08-18T14:24:36.246186+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
+    "summary": "Ukraine launched one of its largest aerial attacks of the war on Russia, killing at least six people. How are Russians feeling as the war grinds on?",
+    "link": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
+    "published": "Mon, 17 Aug 2026 04:50:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "29d26383f132a1888503d27ef4c28132",
+    "fetched_at": "2026-08-18T14:24:35.142823+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mangione state murder trial postponed after federal guilty plea in CEO killing",
+    "summary": "Mangione admitted to killing United Healthcare CEO Brian Thompson on Friday, after which his lawyers moved to dismiss the state case.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxkqppz5ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 02:11:09 GMT",
+    "source": "BBC News",
+    "id": "367a5e06ab1849730c11df98ee87aa32",
+    "fetched_at": "2026-08-18T14:24:34.009299+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+    "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 09:00:33 GMT",
+    "source": "BBC News",
+    "id": "0d232b368cf0dec8aa317e31468bd673",
+    "fetched_at": "2026-08-18T14:24:32.903131+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
     "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
     "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "12fa0fcaf50427cad294d6f75d47526d",
     "fetched_at": "2026-08-18T02:49:23.712169+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-    "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
-    "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 02:06:04 GMT",
-    "source": "BBC News",
-    "id": "560fed668ac2eaea9ea1e8bf09e99f3e",
-    "fetched_at": "2026-08-18T02:49:22.577040+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
-    "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
-    "link": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
-    "published": "Mon, 17 Aug 2026 21:00:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "230141100fa0fd3f1e0f2e1f7f783683",
-    "fetched_at": "2026-08-18T02:49:21.429984+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "656f1c7c0349fd55eb33f6335962bff2",
-    "fetched_at": "2026-08-18T02:49:20.273898+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What really happened in Ceuta? Why we may never find out",
-    "summary": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-    "published": "Sun, 16 Aug 2026 11:38:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "99c2204cd41f2e109703abeabf9ee010",
-    "fetched_at": "2026-08-18T02:49:19.135511+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-    "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
-    "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-    "published": "Mon, 17 Aug 2026 07:48:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "22150fd1a16884d2170295c7d4b4bdbd",
-    "fetched_at": "2026-08-18T02:49:18.000361+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-    "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 10:39:24 GMT",
-    "source": "BBC News",
-    "id": "de56d87141010331dd864d8da9f190c4",
-    "fetched_at": "2026-08-18T00:47:43.083504+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-    "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 11:35:25 GMT",
-    "source": "BBC News",
-    "id": "1431f3e670df47b60a6cca0a869893e0",
-    "fetched_at": "2026-08-18T00:47:41.961942+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
-    "summary": "Jared Kushner warned Hamas it must disarm within 60 to 90 days or face Israel finishing the job, following a rare face-to-face meeting in Cairo.",
-    "link": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
-    "published": "Mon, 17 Aug 2026 19:00:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "af632e20e25400713947319ec37c0fda",
-    "fetched_at": "2026-08-18T00:47:40.838345+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
-    "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones and Nazi-era guns.",
-    "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
-    "published": "Sat, 15 Aug 2026 13:49:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "35247153b19aacd30c8c8814832ad90e",
-    "fetched_at": "2026-08-17T22:16:16.442479+00:00"
   }
 ]
