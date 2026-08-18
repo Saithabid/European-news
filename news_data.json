@@ -1,5 +1,35 @@
 [
   {
+    "region": "Europe",
+    "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+    "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 10:39:24 GMT",
+    "source": "BBC News",
+    "id": "de56d87141010331dd864d8da9f190c4",
+    "fetched_at": "2026-08-18T00:47:43.083504+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+    "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 11:35:25 GMT",
+    "source": "BBC News",
+    "id": "1431f3e670df47b60a6cca0a869893e0",
+    "fetched_at": "2026-08-18T00:47:41.961942+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
+    "summary": "Jared Kushner warned Hamas it must disarm within 60 to 90 days or face Israel finishing the job, following a rare face-to-face meeting in Cairo.",
+    "link": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
+    "published": "Mon, 17 Aug 2026 19:00:43 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "af632e20e25400713947319ec37c0fda",
+    "fetched_at": "2026-08-18T00:47:40.838345+00:00"
+  },
+  {
     "region": "USA",
     "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
     "summary": "The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones and Nazi-era guns.",
@@ -568,35 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "156dd9843ab740f42bba70d5b3b85652",
     "fetched_at": "2026-08-17T12:27:44.160298+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-    "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-    "published": "Sat, 15 Aug 2026 14:21:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "656f1c7c0349fd55eb33f6335962bff2",
-    "fetched_at": "2026-08-17T12:27:43.042943+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What really happened in Ceuta? Why we may never find out",
-    "summary": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-    "published": "Sun, 16 Aug 2026 11:38:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "99c2204cd41f2e109703abeabf9ee010",
-    "fetched_at": "2026-08-17T12:27:41.925144+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-    "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
-    "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-    "published": "Mon, 17 Aug 2026 07:48:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "22150fd1a16884d2170295c7d4b4bdbd",
-    "fetched_at": "2026-08-17T12:27:40.796189+00:00"
   }
 ]
