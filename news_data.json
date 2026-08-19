@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+    "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:30:40 GMT",
+    "source": "BBC News",
+    "id": "47d92c5180df329bb2e7a358cebdcef7",
+    "fetched_at": "2026-08-19T12:30:35.303252+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+    "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 12:18:49 GMT",
+    "source": "BBC News",
+    "id": "b65b22294ddb7951167d78e41e7c515c",
+    "fetched_at": "2026-08-19T12:30:35.303250+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bodies of two Belgian climbers found in Swiss Alps 34 years after disappearance",
+    "summary": "Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.",
+    "link": "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance",
+    "published": "Wed, 19 Aug 2026 14:01:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d111ba6b57a0ad613078957e94c6f259",
+    "fetched_at": "2026-08-19T12:30:35.303248+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran executed at least 900 people since January, rights group says",
+    "summary": "The Abdorrahman Boroumand Center documented 901 executions in the first seven months of 2026, including 56 on political or national security charges and 98 members of ethnic minorities — a further rise in death penalties in the Islamic Republic in recent years.",
+    "link": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
+    "published": "Wed, 19 Aug 2026 14:08:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0a57f426e36156c6b95966bf68c03c3a",
+    "fetched_at": "2026-08-19T12:30:35.303246+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+    "source": "BBC News",
+    "id": "3eece1858bc0fe119063bc5ea5ae978e",
+    "fetched_at": "2026-08-19T12:30:35.303243+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "09d7e4a03ce88b85dcf39723da2acd28",
+    "fetched_at": "2026-08-19T12:30:35.303217+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
+    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
+    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
+    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dbd49ce3145dc5864357c7f1eb160285",
+    "fetched_at": "2026-08-19T12:30:34.199095+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian tariff deadline looms as two sides continue to negotiate",
+    "summary": "The U.S. is scheduled to impose more tariffs on Canada, hitting about $20 billion dollars worth of goods, as trade negotiations between the two neighboring countries hit an impasse.",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
+    "published": "Tue, 18 Aug 2026 16:49:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "6a6a3d07bcc701c87b1e8160b7db4e07",
+    "fetched_at": "2026-08-19T12:30:33.108286+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+    "summary": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+    "published": "Wed, 19 Aug 2026 07:14:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "14be95d7530d4906cb0869425fd7474a",
+    "fetched_at": "2026-08-19T12:30:31.987979+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+    "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+    "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 10:47:22 GMT",
+    "source": "BBC News",
+    "id": "a3d0f30c99b90875180039c876eca21f",
+    "fetched_at": "2026-08-19T12:30:30.876887+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Apparent human remains found in US reservoir as water levels hit record low",
+    "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 10:10:09 GMT",
+    "source": "BBC News",
+    "id": "da4a30159a28b54a61f3217fc1609966",
+    "fetched_at": "2026-08-19T12:30:29.753339+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spared execution eight times, oldest inmate in US dies at 101",
+    "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:22:09 GMT",
+    "source": "BBC News",
+    "id": "c884853578de4697401e394b570f88fa",
+    "fetched_at": "2026-08-19T12:30:28.638176+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meta hooked children on Facebook and Instagram, US court hears",
+    "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+    "source": "BBC News",
+    "id": "dd6f4c4e7ab337bde88a9875c9e3e82a",
+    "fetched_at": "2026-08-19T12:30:27.507025+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
     "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
     "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "3ec2282d9dee794023f502207f71c18f",
     "fetched_at": "2026-08-19T04:29:38.375091+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Husband and mother-in-law charged over Indian bride's death",
-    "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-    "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:04:07 GMT",
-    "source": "BBC News",
-    "id": "1a0ae0d7cc8ab1a8767d38ab2ed7da86",
-    "fetched_at": "2026-08-19T04:29:37.243062+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korea shortens war games with US, citing Washington request",
-    "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:39:41 GMT",
-    "source": "BBC News",
-    "id": "bd166ff3b155e8e201f6f8c54ff6081e",
-    "fetched_at": "2026-08-19T04:29:36.101670+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and South Korean militaries agree to shorten drills days after Trump ordered reduction in joint exercises",
-    "summary": "The sudden announcement comes just days after Trump wrote a fiery social media post slamming the joint drills as “hostile” and ordering Defence Secretary Pete Hegseth to scale back future exercises.",
-    "link": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
-    "published": "Wed, 19 Aug 2026 05:59:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "afcbd28c499ff4507e328508d91bf915",
-    "fetched_at": "2026-08-19T04:29:34.950704+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy-Spain border feud exposes Europe’s deepening immigration divide",
-    "summary": "Italy and Spain face off over immigration and border controls, highlighting a widening European divide over enforcement, national security and the future of Schengen.",
-    "link": "https://www.foxnews.com/world/italy-spain-border-feud-exposes-europes-deepening-immigration-divide",
-    "published": "Mon, 17 Aug 2026 14:54:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ab5f5f1691b3db51819bd867f465899c",
-    "fetched_at": "2026-08-19T04:29:33.821983+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
-    "summary": "Ukraine launched one of its largest aerial attacks of the war on Russia, killing at least six people. How are Russians feeling as the war grinds on?",
-    "link": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
-    "published": "Mon, 17 Aug 2026 04:50:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "29d26383f132a1888503d27ef4c28132",
-    "fetched_at": "2026-08-19T04:29:32.657408+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-    "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
-    "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-    "published": "Tue, 18 Aug 2026 07:40:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc66d06c4349a83f7cd10d5a6cdee555",
-    "fetched_at": "2026-08-19T04:29:31.515003+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-    "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 02:41:36 GMT",
-    "source": "BBC News",
-    "id": "21128136e1888ae778cf47ba7877128e",
-    "fetched_at": "2026-08-19T02:51:15.467279+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-    "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 02:26:49 GMT",
-    "source": "BBC News",
-    "id": "b38c3716fd9612721cb36b076e511ce9",
-    "fetched_at": "2026-08-19T02:51:15.467253+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sacked Ukrainian defence minister calls for presidential election",
-    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 01:31:15 GMT",
-    "source": "BBC News",
-    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
-    "fetched_at": "2026-08-19T02:51:14.330500+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says 'no talks' taking place with Iran and claims Strait of Hormuz is 'open and operating'",
-    "summary": "The president had earlier posted an image of a map showing the Strait as a new US territory, appearing to restate his threat to claim sovereignty over the passage from last week.",
-    "link": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
-    "published": "Tue, 18 Aug 2026 11:52:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "80f4fc653216788bded7df8cb57aec36",
-    "fetched_at": "2026-08-19T02:51:13.180248+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
-    "published": "Tue, 18 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0cb4c2197f1c3b40e529a87ca9d9daac",
-    "fetched_at": "2026-08-19T02:51:12.023072+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
-    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
-    "source": "BBC News",
-    "id": "d7e649010b19b8feedb6f3280af1292d",
-    "fetched_at": "2026-08-19T02:51:10.874432+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French PM heckled over wildfire response as blazes continue across Europe",
-    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-    "source": "BBC News",
-    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
-    "fetched_at": "2026-08-19T02:51:09.731185+00:00"
   }
 ]
