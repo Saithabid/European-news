@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Brazil's President Lula hails oil discovery near Amazon river",
+    "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 13:13:54 GMT",
+    "source": "BBC News",
+    "id": "0b783997be3066ee559d390692c4980a",
+    "fetched_at": "2026-08-19T08:27:27.695071+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+    "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+    "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 00:48:16 GMT",
+    "source": "BBC News",
+    "id": "d4a78e449b6dae15850969b0b1d7e286",
+    "fetched_at": "2026-08-19T08:27:27.695070+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thai teen found in suitcase died from suffocation, police reveal",
+    "summary": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
+    "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 05:04:27 GMT",
+    "source": "BBC News",
+    "id": "8c8381f676d3000bf4bb5b2da1eb325f",
+    "fetched_at": "2026-08-19T08:27:27.695069+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Champagne harvest starts early in France as heatwave speeds ripening",
+    "summary": "Aerial and close-up footage shows an early Champagne grape harvest in Tours-sur-Marne as heatwaves force smaller crews and faster picking schedules",
+    "link": "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening",
+    "published": "Tue, 18 Aug 2026 18:15:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c74b037de8178d10b940f2cf817a31ce",
+    "fetched_at": "2026-08-19T08:27:27.695067+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Large fire breaks out at recycling centre in southeast London",
+    "summary": "A large fire breaks out at a recycling centre in Deptford, southeast London, as 15 fire engines and around 100 firefighters tackle the blaze.",
+    "link": "http://www.euronews.com/video/2026/08/19/large-fire-breaks-out-at-recycling-centre-in-southeast-london",
+    "published": "Wed, 19 Aug 2026 07:42:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "325573f5dbecbf286736dfeb46f96e7f",
+    "fetched_at": "2026-08-19T08:27:27.695065+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US criticises Israel over 'unnecessary escalation' after strikes on Syrian airbase",
+    "summary": "Israel said it had attacked the base because Syria had been close to breaching an agreed-upon “status quo in security matters” by allowing Turkish troops to deploy there.",
+    "link": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase",
+    "published": "Wed, 19 Aug 2026 08:52:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a666a4708ce7f4c77669446b965223e9",
+    "fetched_at": "2026-08-19T08:27:27.695063+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mud baths and red water: inside Bulgaria's Lake Atanasovsko",
+    "summary": "Tourists slather mud and float in red brine at Lake Atanasovsko, while Pomorie’s salt museum preserves Bulgaria’s fading salt-making heritage.",
+    "link": "http://www.euronews.com/video/2026/08/19/mud-baths-and-red-water-inside-bulgarias-lake-atanasovsko",
+    "published": "Wed, 19 Aug 2026 09:10:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dc5456c672b543b8cd7f07dc95eb6cd9",
+    "fetched_at": "2026-08-19T08:27:27.695060+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Indonesian authorities seize 2.6 tonnes of meth in major bust, narcotics official says",
+    "summary": "Indonesia has some of the world's toughest anti-drug laws, including the death penalty for traffickers, but has maintained a moratorium on executions for several years.",
+    "link": "http://www.euronews.com/2026/08/19/indonesian-authorities-seize-26-tonnes-of-meth-in-major-bust-narcotics-official-says",
+    "published": "Wed, 19 Aug 2026 09:17:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a6ac9645fa5e274650543670aee5379e",
+    "fetched_at": "2026-08-19T08:27:27.695057+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
+    "summary": "Jared Kushner warned Hamas it must disarm within 60 to 90 days or face Israel finishing the job, following a rare face-to-face meeting in Cairo.",
+    "link": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
+    "published": "Mon, 17 Aug 2026 19:00:43 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "af632e20e25400713947319ec37c0fda",
+    "fetched_at": "2026-08-19T08:27:27.695032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
+    "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
+    "link": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
+    "published": "Mon, 17 Aug 2026 21:00:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230141100fa0fd3f1e0f2e1f7f783683",
+    "fetched_at": "2026-08-19T08:27:26.584020+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
+    "summary": "Lee Jae Myung urged stronger independent South Korean military capabilities after Trump ordered cuts to U.S.-South Korean Ulchi Freedom Shield drills.",
+    "link": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
+    "published": "Tue, 18 Aug 2026 11:13:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3da521e093ab2c768e1e4a67ca9ccd58",
+    "fetched_at": "2026-08-19T08:27:25.471359+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+    "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+    "published": "Mon, 17 Aug 2026 07:48:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "22150fd1a16884d2170295c7d4b4bdbd",
+    "fetched_at": "2026-08-19T08:27:24.208319+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+    "summary": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
+    "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+    "published": "Tue, 18 Aug 2026 11:19:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "1956308184683f8297e14194e171a5a5",
+    "fetched_at": "2026-08-19T08:27:23.107328+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+    "summary": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+    "published": "Wed, 19 Aug 2026 02:57:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "e9c25ad61757819f11383d63d0e66df9",
+    "fetched_at": "2026-08-19T08:27:21.982153+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+    "summary": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providing assistance to Syria's military.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+    "published": "Wed, 19 Aug 2026 03:51:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "2bc995194b982964e586be310feb619f",
+    "fetched_at": "2026-08-19T08:27:20.856200+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Byron Donalds and David Jolly projected to win Florida primary to replace Governor Ron DeSantis",
+    "summary": "Florida has a high profile governor's race, while in Alaska, a sitting senator tries to fend off a doppleganger",
+    "link": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 01:13:40 GMT",
+    "source": "BBC News",
+    "id": "1d29bc0427559255ef33638627903882",
+    "fetched_at": "2026-08-19T08:27:19.711635+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Qatar says it repatriated body of Iranian pilot and denies claims of holding three others",
     "summary": "Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations \"false\" and \"illogical\" and suggesting they were aimed at a domestic audience. Qatar's foreign ministry also said US-Iran talks were \"far\" from resuming.",
     "link": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
@@ -438,165 +598,5 @@
     "source": "BBC News",
     "id": "1cb23b6066c6903e27e9c4b649ae5953",
     "fetched_at": "2026-08-18T20:14:40.046924+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Earthquake rocks Spain's historic Granada, injuring three",
-    "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 17:15:39 GMT",
-    "source": "BBC News",
-    "id": "82297d51e28492e936ab9f5aada6bc5b",
-    "fetched_at": "2026-08-18T20:14:38.917182+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian state economist fired after stark warning about Moscow’s economic future",
-    "summary": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
-    "link": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
-    "published": "Mon, 17 Aug 2026 11:43:35 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "65adbcaf389ef04f25303f0351a7a77e",
-    "fetched_at": "2026-08-18T20:14:37.771070+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US mother begged for help before her children's killings, mother-in-law testifies",
-    "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-    "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 17:54:46 GMT",
-    "source": "BBC News",
-    "id": "1afd608d6b9f926715af13e09fa0b648",
-    "fetched_at": "2026-08-18T18:26:07.640928+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-    "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
-    "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 16:26:22 GMT",
-    "source": "BBC News",
-    "id": "71a69bb739a2ebcd7c9f43cb68c551e0",
-    "fetched_at": "2026-08-18T18:26:07.640926+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian town carries towering Virgin Mary structure through streets",
-    "summary": "Thousands gather in Sora, Italy, as devotees carry a 16-metre-high illuminated structure through the streets for the Feast of the Assumption.",
-    "link": "http://www.euronews.com/video/2026/08/18/italian-town-carries-towering-virgin-mary-structure-through-streets",
-    "published": "Tue, 18 Aug 2026 19:15:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "de30a91b041aef1513496dd790043e01",
-    "fetched_at": "2026-08-18T18:26:07.640923+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-    "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 20:01:51 GMT",
-    "source": "BBC News",
-    "id": "84664161a4e8efe102f6082a8853f9c6",
-    "fetched_at": "2026-08-18T18:26:07.640920+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-    "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 19:50:36 GMT",
-    "source": "BBC News",
-    "id": "47113be88d7452506821351be7b69b42",
-    "fetched_at": "2026-08-18T18:26:07.640918+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-    "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 12:36:11 GMT",
-    "source": "BBC News",
-    "id": "12fa0fcaf50427cad294d6f75d47526d",
-    "fetched_at": "2026-08-18T18:26:07.640914+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
-    "summary": "Trump confirmed a direct backchannel with the IRGC for peace talks and issued an extraordinary bombing warning to Oman as the ceasefire expires.",
-    "link": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
-    "published": "Mon, 17 Aug 2026 08:10:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "156dd9843ab740f42bba70d5b3b85652",
-    "fetched_at": "2026-08-18T18:26:07.640888+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
-    "summary": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
-    "link": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
-    "published": "Tue, 18 Aug 2026 12:22:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97e150f5e3116eb77c317777408de2d6",
-    "fetched_at": "2026-08-18T18:26:06.539977+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Palestinian family in West Bank fear settler violence will rob them of home",
-    "summary": "The family of a Palestinian-American man remain holed up in his West Bank home for more than a week, after Israeli settlers laid siege to the house and the Israeli army then turned it into a closed military area.",
-    "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
-    "published": "Mon, 17 Aug 2026 17:27:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "7a46a5276caac7cbad4f5d49e4ff17a3",
-    "fetched_at": "2026-08-18T18:26:05.441746+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-    "summary": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
-    "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-    "published": "Tue, 18 Aug 2026 01:51:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "ac003ef73db0dba6bf1d9ad1cb5eda7c",
-    "fetched_at": "2026-08-18T18:26:04.334441+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Jason Arday's rise and fall tells a larger story about academia, a critic says",
-    "summary": "What can academia learn from Jason Arday's rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind.",
-    "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
-    "published": "Tue, 18 Aug 2026 04:41:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "cb547417996810a2b424bab32737f877",
-    "fetched_at": "2026-08-18T18:26:03.221682+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Why has Trump shifted on North Korea?",
-    "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
-    "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 23:42:38 GMT",
-    "source": "BBC News",
-    "id": "65e7394ea25f9fa184f57e1a667ffb97",
-    "fetched_at": "2026-08-18T18:26:02.122063+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US announces new sanctions on top ICC figures",
-    "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-    "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 17:40:09 GMT",
-    "source": "BBC News",
-    "id": "9f1407fef382e369fb455af83b94ab6b",
-    "fetched_at": "2026-08-18T18:26:00.998804+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-    "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 16:22:54 GMT",
-    "source": "BBC News",
-    "id": "41cb973666fe603c37dcbe5fba6690de",
-    "fetched_at": "2026-08-18T18:25:59.876201+00:00"
   }
 ]
