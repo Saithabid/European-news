@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+    "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 22:04:21 GMT",
+    "source": "BBC News",
+    "id": "d943ab90a3c53e0446e3077ecc2df472",
+    "fetched_at": "2026-08-19T22:16:40.260340+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
+    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
+    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
+    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dbd49ce3145dc5864357c7f1eb160285",
+    "fetched_at": "2026-08-19T22:16:39.113048+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+    "summary": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+    "published": "Wed, 19 Aug 2026 07:14:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "14be95d7530d4906cb0869425fd7474a",
+    "fetched_at": "2026-08-19T22:16:37.951595+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
+    "summary": "A decade ago, the U.S. was still in its \"pivot to Asia.\" Today, as conflicts in the Middle East suck up American military resources, analysts say that pivot is over — or never really began.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
+    "published": "Wed, 19 Aug 2026 16:16:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "eb2c17f7850953a07c61edeee96d4dd9",
+    "fetched_at": "2026-08-19T22:16:36.822503+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
+    "summary": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
+    "published": "Wed, 19 Aug 2026 17:15:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "5611297c46bea6a21b1c714482e24955",
+    "fetched_at": "2026-08-19T22:16:35.671794+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Apparent human remains found in US reservoir as water levels hit record low",
+    "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 10:10:09 GMT",
+    "source": "BBC News",
+    "id": "da4a30159a28b54a61f3217fc1609966",
+    "fetched_at": "2026-08-19T22:16:34.538714+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spared execution eight times, oldest inmate in US dies at 101",
+    "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:22:09 GMT",
+    "source": "BBC News",
+    "id": "c884853578de4697401e394b570f88fa",
+    "fetched_at": "2026-08-19T22:16:33.379364+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US long-term borrowing costs ease after government steps in",
+    "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 19:26:06 GMT",
+    "source": "BBC News",
+    "id": "93f954b025535bd973b03c2d1f8d87ad",
+    "fetched_at": "2026-08-19T22:16:32.244683+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
     "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
     "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "cc66d06c4349a83f7cd10d5a6cdee555",
     "fetched_at": "2026-08-19T14:24:50.814958+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-    "summary": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets.",
-    "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-    "published": "Wed, 19 Aug 2026 10:19:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbd436b7ed2787204bd1ae02f2933dd9",
-    "fetched_at": "2026-08-19T14:24:49.683992+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-    "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:00:35 GMT",
-    "source": "BBC News",
-    "id": "b38c3716fd9612721cb36b076e511ce9",
-    "fetched_at": "2026-08-19T14:24:48.561753+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-    "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:56:35 GMT",
-    "source": "BBC News",
-    "id": "21128136e1888ae778cf47ba7877128e",
-    "fetched_at": "2026-08-19T14:24:47.438904+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-    "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 11:30:40 GMT",
-    "source": "BBC News",
-    "id": "47d92c5180df329bb2e7a358cebdcef7",
-    "fetched_at": "2026-08-19T12:30:35.303252+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-    "summary": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 12:18:49 GMT",
-    "source": "BBC News",
-    "id": "b65b22294ddb7951167d78e41e7c515c",
-    "fetched_at": "2026-08-19T12:30:35.303250+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bodies of two Belgian climbers found in Swiss Alps 34 years after disappearance",
-    "summary": "Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.",
-    "link": "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance",
-    "published": "Wed, 19 Aug 2026 14:01:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d111ba6b57a0ad613078957e94c6f259",
-    "fetched_at": "2026-08-19T12:30:35.303248+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran executed at least 900 people since January, rights group says",
-    "summary": "The Abdorrahman Boroumand Center documented 901 executions in the first seven months of 2026, including 56 on political or national security charges and 98 members of ethnic minorities — a further rise in death penalties in the Islamic Republic in recent years.",
-    "link": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
-    "published": "Wed, 19 Aug 2026 14:08:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0a57f426e36156c6b95966bf68c03c3a",
-    "fetched_at": "2026-08-19T12:30:35.303246+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's prominent anti-war politician jailed for 11 years",
-    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
-    "source": "BBC News",
-    "id": "3eece1858bc0fe119063bc5ea5ae978e",
-    "fetched_at": "2026-08-19T12:30:35.303243+00:00"
   }
 ]
