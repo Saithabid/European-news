@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+    "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 00:07:37 GMT",
+    "source": "BBC News",
+    "id": "7e23cc7f21a67dbd8d2ce9d8775bfea0",
+    "fetched_at": "2026-08-19T00:48:02.874679+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "ZZ Top drummer Frank Beard dies aged 77",
+    "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+    "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 22:25:46 GMT",
+    "source": "BBC News",
+    "id": "f0f00b20ab0f0d04cc7924052c60e0ab",
+    "fetched_at": "2026-08-19T00:48:01.738207+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Meta hooked children on Facebook and Instagram, court hears",
+    "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+    "source": "BBC News",
+    "id": "dd6f4c4e7ab337bde88a9875c9e3e82a",
+    "fetched_at": "2026-08-19T00:48:00.609619+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
+    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
+    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
+    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "09d7e4a03ce88b85dcf39723da2acd28",
+    "fetched_at": "2026-08-19T00:47:59.493350+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "War between U.S. and Iran shifts key resources away from Asia",
+    "summary": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
+    "published": "Tue, 18 Aug 2026 04:40:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "ba296fef590ff02139f14ab2c08282c3",
+    "fetched_at": "2026-08-19T00:47:58.369932+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+    "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 12:27:47 GMT",
+    "source": "BBC News",
+    "id": "acc51424492e77a0a7747375260cbe87",
+    "fetched_at": "2026-08-19T00:47:57.246155+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
+    "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 05:07:06 GMT",
+    "source": "BBC News",
+    "id": "adf3269d8cff1cb06e36ab8cfaa7aedd",
+    "fetched_at": "2026-08-19T00:47:56.128950+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Spain and France battle wildfires as 17,000 hectares burn in Aragon",
     "summary": "French and Spanish firefighters work together to tackle wildfires in Spain's Aragon region, where more than 17,000 hectares have burned.",
     "link": "http://www.euronews.com/video/2026/08/18/spain-and-france-battle-wildfires-as-17000-hectares-burn-in-aragon",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "cc66d06c4349a83f7cd10d5a6cdee555",
     "fetched_at": "2026-08-18T12:29:31.992496+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kanye West announces tour dates in Russia",
-    "summary": "The musician would be the first major Western artist to play Russia since the invasion of Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 09:55:47 GMT",
-    "source": "BBC News",
-    "id": "221e44ed2b45823ab29da97d74ec825d",
-    "fetched_at": "2026-08-18T12:29:30.848295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indian student leader ends hunger strike after 16 days",
-    "summary": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-    "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 07:27:32 GMT",
-    "source": "BBC News",
-    "id": "75088b710a6b6ce65c76e905a371d955",
-    "fetched_at": "2026-08-18T10:20:10.654460+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ship hit in Hormuz as Iran's top negotiator says strait to stay shut",
-    "summary": "Parliament speaker Ghalibaf said the waterway would remain closed until Washington lifted its naval blockade, released frozen Iranian assets and dropped oil sanctions, as an unidentified projectile hit a ship transiting the strait, causing at least one casualty.",
-    "link": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
-    "published": "Tue, 18 Aug 2026 11:52:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "80f4fc653216788bded7df8cb57aec36",
-    "fetched_at": "2026-08-18T10:20:10.654457+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
-    "published": "Tue, 18 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0cb4c2197f1c3b40e529a87ca9d9daac",
-    "fetched_at": "2026-08-18T10:20:10.654454+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
-    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
-    "source": "BBC News",
-    "id": "d7e649010b19b8feedb6f3280af1292d",
-    "fetched_at": "2026-08-18T10:20:10.654452+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French PM heckled over wildfire response as blazes continue across Europe",
-    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-    "source": "BBC News",
-    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
-    "fetched_at": "2026-08-18T10:20:10.654449+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's prominent anti-war politician jailed for 11 years",
-    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
-    "source": "BBC News",
-    "id": "3eece1858bc0fe119063bc5ea5ae978e",
-    "fetched_at": "2026-08-18T10:20:10.654395+00:00"
   }
 ]
