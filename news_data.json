@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+    "summary": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 12:25:30 GMT",
+    "source": "BBC News",
+    "id": "ce74016e92f40f23595ac74a12a46e08",
+    "fetched_at": "2026-08-19T14:24:55.338513+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Six tourists and pilot killed in Kenya helicopter crash",
+    "summary": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 13:00:09 GMT",
+    "source": "BBC News",
+    "id": "ae260c416b2bf444354a3dc55cddf714",
+    "fetched_at": "2026-08-19T14:24:55.338510+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korea shortens war games with US, citing Washington request",
+    "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 14:16:27 GMT",
+    "source": "BBC News",
+    "id": "bd166ff3b155e8e201f6f8c54ff6081e",
+    "fetched_at": "2026-08-19T14:24:55.338508+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
+    "summary": "A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.",
+    "link": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
+    "published": "Wed, 19 Aug 2026 15:42:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59a772ed230caee64750054747ab3709",
+    "fetched_at": "2026-08-19T14:24:55.338506+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UAE halts all trade and financial dealings with Iran",
+    "summary": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the Strait of Hormuz has fallen to less than a quarter of pre-war levels.",
+    "link": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
+    "published": "Wed, 19 Aug 2026 15:51:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0586e170476aafffe8a40abaf94be767",
+    "fetched_at": "2026-08-19T14:24:55.338503+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven dead after tourist helicopter crashes in northern Kenya",
+    "summary": "Video footage shared on social media appears to show the site of the crash, with black smoke visible against the foot of Mount Ololokwe.",
+    "link": "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya",
+    "published": "Wed, 19 Aug 2026 16:23:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "21da0c4e61b170810c7ffe408f48a520",
+    "fetched_at": "2026-08-19T14:24:55.338500+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
+    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
+    "source": "BBC News",
+    "id": "d7e649010b19b8feedb6f3280af1292d",
+    "fetched_at": "2026-08-19T14:24:55.338497+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French PM heckled over wildfire response as blazes continue across Europe",
+    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+    "source": "BBC News",
+    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
+    "fetched_at": "2026-08-19T14:24:55.338493+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 12:47:53 GMT",
+    "source": "BBC News",
+    "id": "16b1845bab385c8fe81d9654f6ebff80",
+    "fetched_at": "2026-08-19T14:24:55.338466+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:00:21 GMT",
+    "source": "BBC News",
+    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
+    "fetched_at": "2026-08-19T14:24:54.208335+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Italy-Spain border feud exposes Europe’s deepening immigration divide",
+    "summary": "Italy and Spain face off over immigration and border controls, highlighting a widening European divide over enforcement, national security and the future of Schengen.",
+    "link": "https://www.foxnews.com/world/italy-spain-border-feud-exposes-europes-deepening-immigration-divide",
+    "published": "Mon, 17 Aug 2026 14:54:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ab5f5f1691b3db51819bd867f465899c",
+    "fetched_at": "2026-08-19T14:24:53.090149+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
+    "fetched_at": "2026-08-19T14:24:51.962405+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+    "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
+    "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+    "published": "Tue, 18 Aug 2026 07:40:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "cc66d06c4349a83f7cd10d5a6cdee555",
+    "fetched_at": "2026-08-19T14:24:50.814958+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+    "summary": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+    "published": "Wed, 19 Aug 2026 10:19:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbd436b7ed2787204bd1ae02f2933dd9",
+    "fetched_at": "2026-08-19T14:24:49.683992+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+    "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 03:00:35 GMT",
+    "source": "BBC News",
+    "id": "b38c3716fd9612721cb36b076e511ce9",
+    "fetched_at": "2026-08-19T14:24:48.561753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
+    "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 03:56:35 GMT",
+    "source": "BBC News",
+    "id": "21128136e1888ae778cf47ba7877128e",
+    "fetched_at": "2026-08-19T14:24:47.438904+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
     "summary": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
     "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "NPR Topics: World",
     "id": "22150fd1a16884d2170295c7d4b4bdbd",
     "fetched_at": "2026-08-19T08:27:24.208319+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-    "summary": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
-    "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-    "published": "Tue, 18 Aug 2026 11:19:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "1956308184683f8297e14194e171a5a5",
-    "fetched_at": "2026-08-19T08:27:23.107328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
-    "summary": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
-    "published": "Wed, 19 Aug 2026 02:57:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "e9c25ad61757819f11383d63d0e66df9",
-    "fetched_at": "2026-08-19T08:27:21.982153+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-    "summary": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providing assistance to Syria's military.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-    "published": "Wed, 19 Aug 2026 03:51:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "2bc995194b982964e586be310feb619f",
-    "fetched_at": "2026-08-19T08:27:20.856200+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Byron Donalds and David Jolly projected to win Florida primary to replace Governor Ron DeSantis",
-    "summary": "Florida has a high profile governor's race, while in Alaska, a sitting senator tries to fend off a doppleganger",
-    "link": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 01:13:40 GMT",
-    "source": "BBC News",
-    "id": "1d29bc0427559255ef33638627903882",
-    "fetched_at": "2026-08-19T08:27:19.711635+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar says it repatriated body of Iranian pilot and denies claims of holding three others",
-    "summary": "Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations \"false\" and \"illogical\" and suggesting they were aimed at a domestic audience. Qatar's foreign ministry also said US-Iran talks were \"far\" from resuming.",
-    "link": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
-    "published": "Tue, 18 Aug 2026 15:05:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4f7134d8e8407987fcc3c40bdb1ed167",
-    "fetched_at": "2026-08-19T06:30:17.817517+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
-    "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
-    "link": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
-    "published": "Tue, 18 Aug 2026 15:29:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dba7c8dbf009bade5cbc8661803f2f1c",
-    "fetched_at": "2026-08-19T06:30:17.817513+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 19th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
-    "published": "Wed, 19 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e539bc1763cbcf85cad2c9eed737ccfb",
-    "fetched_at": "2026-08-19T06:30:17.817490+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia mushroom killer Erin Patterson's lawyers point to jury irregularities at appeal",
-    "summary": "Patterson was found guilty last year of murdering her husband's parents and an elderly aunt in 2023 by serving them a beef Wellington lunch laced with lethal death cap mushrooms.",
-    "link": "http://www.euronews.com/2026/08/19/australia-mushroom-killer-erin-pattersons-lawyers-point-to-jury-irregularities-at-appeal",
-    "published": "Wed, 19 Aug 2026 07:58:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "87954bfa5f607b61d5d366f8886cc37c",
-    "fetched_at": "2026-08-19T06:30:16.668082+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-    "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 15:30:13 GMT",
-    "source": "BBC News",
-    "id": "a138f7196eb10d2d2fec91cce604ce29",
-    "fetched_at": "2026-08-19T06:30:15.500759+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Musiala collapses during match for second time",
-    "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 19:57:08 GMT",
-    "source": "BBC News",
-    "id": "114c7e747cd7b748eabed908601d4d6d",
-    "fetched_at": "2026-08-19T06:30:14.349262+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-    "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-    "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 05:00:39 GMT",
-    "source": "BBC News",
-    "id": "d44e30a80c3c7b5950695b56ada21e64",
-    "fetched_at": "2026-08-19T06:30:13.199668+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spanish journalist says Ceuta residents believe government isn't doing enough to prevent another migrant rush",
-    "summary": "Ceuta residents say they feel scared after 70,000 migrants flooded Spain&apos;s North African enclave, as border security concerns grow amid Morocco tensions.",
-    "link": "https://www.foxnews.com/world/spanish-journalist-ceuta-residents-believe-government-isnt-doing-enough-prevent-another-migrant-rush",
-    "published": "Tue, 18 Aug 2026 09:59:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "12bba43ebdc7f5fe39c8891bacf79f3c",
-    "fetched_at": "2026-08-19T06:30:12.062333+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As war with Ukraine wages on, a look at life inside Russia",
-    "summary": "NPR's Sacha Pfeiffer speaks with Nina Krushcheva, professor of international affairs at the New School, about the current geopolitical climate in Russia.",
-    "link": "https://www.npr.org/2026/08/17/nx-s1-5933043/as-war-with-ukraine-wages-on-a-look-at-life-inside-russia",
-    "published": "Mon, 17 Aug 2026 04:50:29 -0400",
-    "source": "NPR Topics: World",
-    "id": "ddcc0b1c61224b1e3037c7b3d76022e2",
-    "fetched_at": "2026-08-19T06:30:10.919678+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Buss trying to block siblings' sale of LA Lakers",
-    "summary": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 13:39:42 GMT",
-    "source": "BBC News",
-    "id": "e1f6999b9346b8981b4b21f22df774c2",
-    "fetched_at": "2026-08-19T06:30:09.780190+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five Australian rules footy players suspended amid police investigation",
-    "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-    "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:36:59 GMT",
-    "source": "BBC News",
-    "id": "3d8449fa53a445fbea2b5a74824bfcc0",
-    "fetched_at": "2026-08-19T04:29:39.522484+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-    "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 03:12:06 GMT",
-    "source": "BBC News",
-    "id": "3ec2282d9dee794023f502207f71c18f",
-    "fetched_at": "2026-08-19T04:29:38.375091+00:00"
   }
 ]
