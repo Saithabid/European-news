@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+    "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+    "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 18:26:21 GMT",
+    "source": "BBC News",
+    "id": "834fe457bf0ce74ce0fa01ec88338c12",
+    "fetched_at": "2026-08-19T20:18:23.451601+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Earthquake rocks Spain's historic Granada, injuring three",
+    "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+    "source": "BBC News",
+    "id": "82297d51e28492e936ab9f5aada6bc5b",
+    "fetched_at": "2026-08-19T20:18:23.451560+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+    "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+    "source": "BBC News",
+    "id": "12fa0fcaf50427cad294d6f75d47526d",
+    "fetched_at": "2026-08-19T20:18:22.347220+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
+    "summary": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
+    "link": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
+    "published": "Tue, 18 Aug 2026 12:22:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "97e150f5e3116eb77c317777408de2d6",
+    "fetched_at": "2026-08-19T20:18:21.236553+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+    "summary": "Five Americans, including Telemundo executive José Suárez, were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
+    "link": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+    "published": "Wed, 19 Aug 2026 15:40:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "951b3e455465379f3631e7bad88e877f",
+    "fetched_at": "2026-08-19T20:18:20.126144+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
+    "summary": "A destructive wildfire season is pushing American firefighting resources to their limits. Australia and New Zealand have sent their largest contingent ever to help out.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires",
+    "published": "Wed, 19 Aug 2026 04:46:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "0cbd9902be81f0f374b64f73e37ff6a1",
+    "fetched_at": "2026-08-19T20:18:19.009705+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rep. Raja Krishnamoorthi on Ukraine's defense needs, five years into the war",
+    "summary": "NPR's Ailsa Chang talks with Rep. Raja Krishnamoorthi, D-Ill., about a recent congressional delegation to Ukraine, and what leaders there are asking for in terms of the country's air defense.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5936607/rep-raja-krishnamoorthi-on-ukraines-defense-needs-five-years-into-the-war",
+    "published": "Wed, 19 Aug 2026 15:58:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "fd0a7f5a8344a1b7aa7f6e2588563a5b",
+    "fetched_at": "2026-08-19T20:18:17.855638+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Trump leads tour of White House helipad construction site",
+    "summary": "The work is being expedited ahead of Chinese President Xi Jinping’s planned visit to the White House in late September.",
+    "link": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 18:30:15 GMT",
+    "source": "BBC News",
+    "id": "ef20ef34e95d328d148123876055b1a5",
+    "fetched_at": "2026-08-19T20:18:16.726563+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Natalie Harp, Trump's right-hand woman?",
+    "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 19:02:41 GMT",
+    "source": "BBC News",
+    "id": "40638b2e83182bbf333543dc0b6e3b53",
+    "fetched_at": "2026-08-19T20:18:15.565423+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Two detained after French influencer's scorched body found in vineyard",
     "summary": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
     "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "3eece1858bc0fe119063bc5ea5ae978e",
     "fetched_at": "2026-08-19T12:30:35.303243+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
-    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
-    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
-    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "09d7e4a03ce88b85dcf39723da2acd28",
-    "fetched_at": "2026-08-19T12:30:35.303217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
-    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
-    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
-    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbd49ce3145dc5864357c7f1eb160285",
-    "fetched_at": "2026-08-19T12:30:34.199095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadian tariff deadline looms as two sides continue to negotiate",
-    "summary": "The U.S. is scheduled to impose more tariffs on Canada, hitting about $20 billion dollars worth of goods, as trade negotiations between the two neighboring countries hit an impasse.",
-    "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
-    "published": "Tue, 18 Aug 2026 16:49:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a6a3d07bcc701c87b1e8160b7db4e07",
-    "fetched_at": "2026-08-19T12:30:33.108286+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-    "summary": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
-    "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-    "published": "Wed, 19 Aug 2026 07:14:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "14be95d7530d4906cb0869425fd7474a",
-    "fetched_at": "2026-08-19T12:30:31.987979+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-    "summary": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
-    "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 10:47:22 GMT",
-    "source": "BBC News",
-    "id": "a3d0f30c99b90875180039c876eca21f",
-    "fetched_at": "2026-08-19T12:30:30.876887+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Apparent human remains found in US reservoir as water levels hit record low",
-    "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 10:10:09 GMT",
-    "source": "BBC News",
-    "id": "da4a30159a28b54a61f3217fc1609966",
-    "fetched_at": "2026-08-19T12:30:29.753339+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spared execution eight times, oldest inmate in US dies at 101",
-    "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
-    "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 11:22:09 GMT",
-    "source": "BBC News",
-    "id": "c884853578de4697401e394b570f88fa",
-    "fetched_at": "2026-08-19T12:30:28.638176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meta hooked children on Facebook and Instagram, US court hears",
-    "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-    "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-    "source": "BBC News",
-    "id": "dd6f4c4e7ab337bde88a9875c9e3e82a",
-    "fetched_at": "2026-08-19T12:30:27.507025+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-    "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-    "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 07:21:51 GMT",
-    "source": "BBC News",
-    "id": "edc15c7af54096ed0aed056b185fe51c",
-    "fetched_at": "2026-08-19T10:20:41.319447+00:00"
   }
 ]
