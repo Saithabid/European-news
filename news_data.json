@@ -1,6 +1,196 @@
 [
   {
     "region": "Europe",
+    "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+    "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+    "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 07:21:51 GMT",
+    "source": "BBC News",
+    "id": "edc15c7af54096ed0aed056b185fe51c",
+    "fetched_at": "2026-08-19T10:20:41.319447+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+    "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 08:25:03 GMT",
+    "source": "BBC News",
+    "id": "3ad46a14a4d319487625bb535025d487",
+    "fetched_at": "2026-08-19T10:20:41.319445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "First jellyfish museum in the US opens in Pompano Beach",
+    "summary": "Pompano Beach hosts the first US jellyfish museum, where visitors watch 20 species drift in tanks and learn about their ecosystems and research.",
+    "link": "http://www.euronews.com/video/2026/08/19/first-jellyfish-museum-in-the-us-opens-in-pompano-beach",
+    "published": "Wed, 19 Aug 2026 10:42:35 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ee87fdcd8edac6c1ce85b59caccfe09d",
+    "fetched_at": "2026-08-19T10:20:41.319443+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fire in building housing several hotels in eastern India kills at least nine, injures six",
+    "summary": "Some of the victims are believed to be Bangladeshi nationals who had travelled to Kolkata for medical treatment, according to a member of West Bengal’s ruling party.",
+    "link": "http://www.euronews.com/2026/08/19/fire-in-building-housing-several-hotels-in-eastern-india-kills-at-least-nine-injures-six",
+    "published": "Wed, 19 Aug 2026 11:00:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a98b9d8889509c09e41aa5299369b260",
+    "fetched_at": "2026-08-19T10:20:41.319441+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former Wimbledon finalist Nick Kyrgios says he tested positive for cocaine",
+    "summary": "Kyrgios said he had difficulties coming to terms with being near the end of his career after two years of injuries.",
+    "link": "http://www.euronews.com/2026/08/19/former-wimbledon-finalist-nick-kyrgios-says-he-tested-positive-for-cocaine",
+    "published": "Wed, 19 Aug 2026 11:45:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cec7998f28d00705834ca934cc51323e",
+    "fetched_at": "2026-08-19T10:20:41.319439+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 19th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-midday",
+    "published": "Wed, 19 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "aa977de97ce9753ec457975dece6e3ae",
+    "fetched_at": "2026-08-19T10:20:41.319437+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russians pull billions from banks fearing Kremlin will seize savings for war",
+    "summary": "Russia's central bank reported that billions of roubles have been withdrawn from banks each month, as Russians pull out cash amid fears of the Kremlin seizing their savings to fund the war in Ukraine amid a deteriorating economy.",
+    "link": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
+    "published": "Wed, 19 Aug 2026 12:10:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "adc2c5573e771a41b544176172e168ed",
+    "fetched_at": "2026-08-19T10:20:41.319434+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+    "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+    "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 19:50:36 GMT",
+    "source": "BBC News",
+    "id": "47113be88d7452506821351be7b69b42",
+    "fetched_at": "2026-08-19T10:20:41.319431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Earthquake rocks Spain's historic Granada, injuring three",
+    "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+    "source": "BBC News",
+    "id": "82297d51e28492e936ab9f5aada6bc5b",
+    "fetched_at": "2026-08-19T10:20:41.319428+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+    "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+    "source": "BBC News",
+    "id": "12fa0fcaf50427cad294d6f75d47526d",
+    "fetched_at": "2026-08-19T10:20:41.319426+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
+    "summary": "Trump confirmed a direct backchannel with the IRGC for peace talks and issued an extraordinary bombing warning to Oman as the ceasefire expires.",
+    "link": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
+    "published": "Mon, 17 Aug 2026 08:10:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "156dd9843ab740f42bba70d5b3b85652",
+    "fetched_at": "2026-08-19T10:20:41.319422+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian state economist fired after stark warning about Moscow’s economic future",
+    "summary": "VEB.RF, Russian state development bank, economist Andrei Klepach warned Russia is losing the war of attrition before his firing, as the European Union prepares sweeping sanctions.",
+    "link": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
+    "published": "Mon, 17 Aug 2026 11:43:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "65adbcaf389ef04f25303f0351a7a77e",
+    "fetched_at": "2026-08-19T10:20:41.319398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
+    "summary": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
+    "link": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
+    "published": "Tue, 18 Aug 2026 12:22:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "97e150f5e3116eb77c317777408de2d6",
+    "fetched_at": "2026-08-19T10:20:40.155359+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jason Arday's rise and fall tells a larger story about academia, a critic says",
+    "summary": "What can academia learn from Jason Arday's rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind.",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
+    "published": "Tue, 18 Aug 2026 04:41:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "cb547417996810a2b424bab32737f877",
+    "fetched_at": "2026-08-19T10:20:38.994949+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
+    "summary": "A destructive wildfire season is pushing American firefighting resources to their limits. Australia and New Zealand have sent their largest contingent ever to help out.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires",
+    "published": "Wed, 19 Aug 2026 04:46:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "0cbd9902be81f0f374b64f73e37ff6a1",
+    "fetched_at": "2026-08-19T10:20:37.852406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+    "summary": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+    "published": "Wed, 19 Aug 2026 05:29:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "180cbfa980cf1b5e912f026390e04e09",
+    "fetched_at": "2026-08-19T10:20:36.693131+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How India's blocking of a film exposing real-life police abuses backfired",
+    "summary": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+    "published": "Wed, 19 Aug 2026 06:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "e0d45608f4a249d83aba535f5a61dfc3",
+    "fetched_at": "2026-08-19T10:20:35.547456+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+    "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+    "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 17:54:46 GMT",
+    "source": "BBC News",
+    "id": "1afd608d6b9f926715af13e09fa0b648",
+    "fetched_at": "2026-08-19T10:20:34.419755+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+    "summary": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
+    "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 09:48:16 GMT",
+    "source": "BBC News",
+    "id": "5094de644396b5c17e4e1b179e7fc84c",
+    "fetched_at": "2026-08-19T10:20:33.254826+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Brazil's President Lula hails oil discovery near Amazon river",
     "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
     "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
@@ -408,195 +598,5 @@
     "source": "BBC News",
     "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
     "fetched_at": "2026-08-19T02:51:09.731185+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's prominent anti-war politician jailed for 11 years",
-    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
-    "source": "BBC News",
-    "id": "3eece1858bc0fe119063bc5ea5ae978e",
-    "fetched_at": "2026-08-19T02:51:08.581296+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
-    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
-    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
-    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbd49ce3145dc5864357c7f1eb160285",
-    "fetched_at": "2026-08-19T02:51:07.423853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-    "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 00:07:37 GMT",
-    "source": "BBC News",
-    "id": "7e23cc7f21a67dbd8d2ce9d8775bfea0",
-    "fetched_at": "2026-08-19T00:48:02.874679+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ZZ Top drummer Frank Beard dies aged 77",
-    "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
-    "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 22:25:46 GMT",
-    "source": "BBC News",
-    "id": "f0f00b20ab0f0d04cc7924052c60e0ab",
-    "fetched_at": "2026-08-19T00:48:01.738207+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Meta hooked children on Facebook and Instagram, court hears",
-    "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-    "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-    "source": "BBC News",
-    "id": "dd6f4c4e7ab337bde88a9875c9e3e82a",
-    "fetched_at": "2026-08-19T00:48:00.609619+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran deal clock hits zero as Trump demands ‘white flag’ with new pressure campaign looming",
-    "summary": "Treasury Secretary Scott Bessent promises unprecedented economic isolation of Iran as the 60-day nuclear deal deadline passes with no final agreement.",
-    "link": "https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming",
-    "published": "Mon, 17 Aug 2026 13:59:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "09d7e4a03ce88b85dcf39723da2acd28",
-    "fetched_at": "2026-08-19T00:47:59.493350+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "War between U.S. and Iran shifts key resources away from Asia",
-    "summary": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
-    "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
-    "published": "Tue, 18 Aug 2026 04:40:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "ba296fef590ff02139f14ab2c08282c3",
-    "fetched_at": "2026-08-19T00:47:58.369932+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-    "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 12:27:47 GMT",
-    "source": "BBC News",
-    "id": "acc51424492e77a0a7747375260cbe87",
-    "fetched_at": "2026-08-19T00:47:57.246155+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-    "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 05:07:06 GMT",
-    "source": "BBC News",
-    "id": "adf3269d8cff1cb06e36ab8cfaa7aedd",
-    "fetched_at": "2026-08-19T00:47:56.128950+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain and France battle wildfires as 17,000 hectares burn in Aragon",
-    "summary": "French and Spanish firefighters work together to tackle wildfires in Spain's Aragon region, where more than 17,000 hectares have burned.",
-    "link": "http://www.euronews.com/video/2026/08/18/spain-and-france-battle-wildfires-as-17000-hectares-burn-in-aragon",
-    "published": "Tue, 18 Aug 2026 10:17:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7df0fcbf5689791480a714a4f6af71cc",
-    "fetched_at": "2026-08-18T22:14:29.013519+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadian tariff deadline looms as two sides continue to negotiate",
-    "summary": "The U.S. is scheduled to impose more tariffs on Canada, hitting about $20 billion dollars worth of goods, as trade negotiations between the two neighboring countries hit an impasse.",
-    "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
-    "published": "Tue, 18 Aug 2026 16:49:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a6a3d07bcc701c87b1e8160b7db4e07",
-    "fetched_at": "2026-08-18T22:14:27.888144+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Take a timelapse ride along the IndyCar racetrack in Washington",
-    "summary": "The Freedom 250 Grand Prix will take place 22-23 August. It's the first motor race to be held in the US capital.",
-    "link": "https://www.bbc.co.uk/news/videos/cq56x525515o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 20:18:18 GMT",
-    "source": "BBC News",
-    "id": "35b7e06de75160eb7ad584d76582063a",
-    "fetched_at": "2026-08-18T22:14:26.751750+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-    "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-    "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 20:48:09 GMT",
-    "source": "BBC News",
-    "id": "24385b3e227bdbb9096b4191adf0158d",
-    "fetched_at": "2026-08-18T22:14:25.605870+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Man in creepy Chucky-like mask chases Philadelphia residents, police say",
-    "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
-    "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 20:27:44 GMT",
-    "source": "BBC News",
-    "id": "fee7607f462a66f4027167c40a003493",
-    "fetched_at": "2026-08-18T22:14:24.472404+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-    "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 08:44:10 GMT",
-    "source": "BBC News",
-    "id": "680c870e3498bb00de5b23367e68c737",
-    "fetched_at": "2026-08-18T22:14:23.329150+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Judge swapped in Trump's defamation case against BBC",
-    "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 19:52:32 GMT",
-    "source": "BBC News",
-    "id": "f48740e9f6b3a58148385f11e0074e56",
-    "fetched_at": "2026-08-18T20:14:43.468990+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ICC hits back after US announces fresh sanctions on senior court figures",
-    "summary": "Responding to the US' move in a statement, the ICC reportedly said the new sanctions \"undermine the rule of law.\"",
-    "link": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
-    "published": "Tue, 18 Aug 2026 22:00:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8872190295737788505ae45657ef778b",
-    "fetched_at": "2026-08-18T20:14:42.314901+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US hiker dies after being struck by lightning on Mount Etna",
-    "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-    "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 12:23:26 GMT",
-    "source": "BBC News",
-    "id": "775c95eb5a7140c21c4d73559322b729",
-    "fetched_at": "2026-08-18T20:14:41.172767+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Inside secret police warehouse as Germany targets small boats gangs",
-    "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-    "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 05:02:58 GMT",
-    "source": "BBC News",
-    "id": "1cb23b6066c6903e27e9c4b649ae5953",
-    "fetched_at": "2026-08-18T20:14:40.046924+00:00"
   }
 ]
