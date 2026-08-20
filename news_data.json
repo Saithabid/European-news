@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+    "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 16:53:20 GMT",
+    "source": "BBC News",
+    "id": "2c96ebe30492cc920ef71270f8035d31",
+    "fetched_at": "2026-08-20T18:27:12.457933+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+    "source": "BBC News",
+    "id": "02ffc42f90d155c816d83f2f93169f7a",
+    "fetched_at": "2026-08-20T18:27:12.457900+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+    "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 17:14:55 GMT",
+    "source": "BBC News",
+    "id": "3a0b7c777586fad77cceef73e4748180",
+    "fetched_at": "2026-08-20T18:27:11.354539+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
+    "summary": "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
+    "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
+    "published": "Wed, 19 Aug 2026 11:23:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9c1e87095246bf6dbcd67630ac6f7778",
+    "fetched_at": "2026-08-20T18:27:10.247396+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
+    "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel&apos;s resolve after the Abu al-Duhur airbase strike in Syria.",
+    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
+    "published": "Thu, 20 Aug 2026 13:12:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d3b1cdb68949179fab05a490dfa239cb",
+    "fetched_at": "2026-08-20T18:27:09.142078+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
+    "summary": "China launched seasonal container service to Europe via Russia&apos;s Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
+    "link": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
+    "published": "Thu, 20 Aug 2026 14:22:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c8574cae15e738a5e0e762850cd8e642",
+    "fetched_at": "2026-08-20T18:27:08.030765+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why does the U.S. military seem stymied in the war with Iran?",
+    "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+    "published": "Wed, 19 Aug 2026 12:18:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "2659cb158664fe62e9c90552a4b0072b",
+    "fetched_at": "2026-08-20T18:27:06.918152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+    "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+    "published": "Thu, 20 Aug 2026 01:50:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "759d4326fa0aa03ceb6b65d526da2c29",
+    "fetched_at": "2026-08-20T18:27:05.816761+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
+    "summary": "Agents stopped the Democrat in an airport over the weekend as part of an investigation into sexual misconduct allegations that he has denied.",
+    "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 17:03:09 GMT",
+    "source": "BBC News",
+    "id": "7c1af1bd367915bafa1479e1bfe83794",
+    "fetched_at": "2026-08-20T18:27:04.681480+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Togo charges two French journalists over incorrect documents, rights group says",
     "summary": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
     "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "a138f7196eb10d2d2fec91cce604ce29",
     "fetched_at": "2026-08-20T08:28:27.512486+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Musiala collapses during match for second time",
-    "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 19:57:08 GMT",
-    "source": "BBC News",
-    "id": "114c7e747cd7b748eabed908601d4d6d",
-    "fetched_at": "2026-08-20T08:28:27.512460+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spanish journalist says Ceuta residents believe government isn't doing enough to prevent another migrant rush",
-    "summary": "Ceuta residents say they feel scared after 70,000 migrants flooded Spain&apos;s North African enclave, as border security concerns grow amid Morocco tensions.",
-    "link": "https://www.foxnews.com/world/spanish-journalist-ceuta-residents-believe-government-isnt-doing-enough-prevent-another-migrant-rush",
-    "published": "Tue, 18 Aug 2026 09:59:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "12bba43ebdc7f5fe39c8891bacf79f3c",
-    "fetched_at": "2026-08-20T08:28:26.397248+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-    "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-    "published": "Thu, 20 Aug 2026 03:31:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "2b816a398256fc161d6e28286052c016",
-    "fetched_at": "2026-08-20T08:28:25.199614+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy's trial puts postpartum psychosis in the spotlight",
-    "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 16:30:55 GMT",
-    "source": "BBC News",
-    "id": "f7ec35e68eda7cd289e7bd1eea8a76fa",
-    "fetched_at": "2026-08-20T08:28:24.016059+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Edmonton Marathon route was 674m too long",
-    "summary": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:15:48 GMT",
-    "source": "BBC News",
-    "id": "025b7e16c37bebb685076522d94c304b",
-    "fetched_at": "2026-08-20T08:28:22.816370+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
-    "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 02:00:51 GMT",
-    "source": "BBC News",
-    "id": "483709e4d8e24fb1dbab904dc45017f4",
-    "fetched_at": "2026-08-20T08:28:21.642205+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Prince Harry and Meghan moving back to UK later this month",
-    "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:21:03 GMT",
-    "source": "BBC News",
-    "id": "811f3f4149e159203cfb4ce0df1bcc71",
-    "fetched_at": "2026-08-20T08:28:20.511088+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada and US say they are finalising a trade deal",
-    "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 03:10:48 GMT",
-    "source": "BBC News",
-    "id": "96d08eb88f640b5ba21be8ce79bbe492",
-    "fetched_at": "2026-08-20T08:28:19.303741+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-    "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-    "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 06:08:02 GMT",
-    "source": "BBC News",
-    "id": "c7e07c9d9e1cf0c91779f355dafd3e7e",
-    "fetched_at": "2026-08-20T06:32:43.770878+00:00"
   }
 ]
