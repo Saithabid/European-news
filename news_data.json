@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Giant whales move into Greenland waters as ice disappears",
+    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 02:05:20 GMT",
+    "source": "BBC News",
+    "id": "0cd6bd7525cd9e568e3612301a83c51e",
+    "fetched_at": "2026-08-20T02:50:21.898596+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
+    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
+    "source": "BBC News",
+    "id": "d7e649010b19b8feedb6f3280af1292d",
+    "fetched_at": "2026-08-20T02:50:20.776944+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French PM heckled over wildfire response as blazes continue across Europe",
+    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+    "source": "BBC News",
+    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
+    "fetched_at": "2026-08-20T02:50:19.650423+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 16:31:48 GMT",
+    "source": "BBC News",
+    "id": "16b1845bab385c8fe81d9654f6ebff80",
+    "fetched_at": "2026-08-20T02:50:18.528237+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 20:34:39 GMT",
+    "source": "BBC News",
+    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
+    "fetched_at": "2026-08-20T02:50:17.401419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
+    "fetched_at": "2026-08-20T02:50:16.260966+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+    "summary": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
+    "link": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
+    "published": "Wed, 19 Aug 2026 21:09:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ef623692ccd8f6e71d43934ff743c8f5",
+    "fetched_at": "2026-08-20T02:50:15.132991+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
     "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "0ac5c1fcfc40dfb887c8de29bd17a902",
     "fetched_at": "2026-08-19T16:21:58.357063+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Florida picks nominees for governor, and other takeaways from US primaries",
-    "summary": "Highlights from a day of voting in the US - including triumph in Alaska for one Dan Sullivan over another Dan Sullivan.",
-    "link": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 14:59:16 GMT",
-    "source": "BBC News",
-    "id": "1d29bc0427559255ef33638627903882",
-    "fetched_at": "2026-08-19T16:21:57.225130+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-    "summary": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-    "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 12:25:30 GMT",
-    "source": "BBC News",
-    "id": "ce74016e92f40f23595ac74a12a46e08",
-    "fetched_at": "2026-08-19T14:24:55.338513+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six tourists and pilot killed in Kenya helicopter crash",
-    "summary": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
-    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 13:00:09 GMT",
-    "source": "BBC News",
-    "id": "ae260c416b2bf444354a3dc55cddf714",
-    "fetched_at": "2026-08-19T14:24:55.338510+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korea shortens war games with US, citing Washington request",
-    "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 14:16:27 GMT",
-    "source": "BBC News",
-    "id": "bd166ff3b155e8e201f6f8c54ff6081e",
-    "fetched_at": "2026-08-19T14:24:55.338508+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
-    "summary": "A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.",
-    "link": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
-    "published": "Wed, 19 Aug 2026 15:42:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59a772ed230caee64750054747ab3709",
-    "fetched_at": "2026-08-19T14:24:55.338506+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UAE halts all trade and financial dealings with Iran",
-    "summary": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the Strait of Hormuz has fallen to less than a quarter of pre-war levels.",
-    "link": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
-    "published": "Wed, 19 Aug 2026 15:51:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0586e170476aafffe8a40abaf94be767",
-    "fetched_at": "2026-08-19T14:24:55.338503+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seven dead after tourist helicopter crashes in northern Kenya",
-    "summary": "Video footage shared on social media appears to show the site of the crash, with black smoke visible against the foot of Mount Ololokwe.",
-    "link": "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya",
-    "published": "Wed, 19 Aug 2026 16:23:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21da0c4e61b170810c7ffe408f48a520",
-    "fetched_at": "2026-08-19T14:24:55.338500+00:00"
   }
 ]
