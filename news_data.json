@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+    "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+    "source": "BBC News",
+    "id": "b65b22294ddb7951167d78e41e7c515c",
+    "fetched_at": "2026-08-20T00:48:13.705642+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bodies of two Belgian climbers found in Swiss Alps 34 years after disappearance",
+    "summary": "Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.",
+    "link": "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance",
+    "published": "Wed, 19 Aug 2026 14:01:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d111ba6b57a0ad613078957e94c6f259",
+    "fetched_at": "2026-08-20T00:48:12.589237+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran executed at least 900 people since January, rights group says",
+    "summary": "The Abdorrahman Boroumand Center documented 901 executions in the first seven months of 2026, including 56 on political or national security charges and 98 members of ethnic minorities — a further rise in death penalties in the Islamic Republic in recent years.",
+    "link": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
+    "published": "Wed, 19 Aug 2026 14:08:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0a57f426e36156c6b95966bf68c03c3a",
+    "fetched_at": "2026-08-20T00:48:11.474752+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's prominent anti-war politician jailed for 11 years",
+    "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 17 Aug 2026 16:17:34 GMT",
+    "source": "BBC News",
+    "id": "3eece1858bc0fe119063bc5ea5ae978e",
+    "fetched_at": "2026-08-20T00:48:10.236155+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK Home Office guide tells asylum seekers not to rape, harass women or make kissing noises",
+    "summary": "Britain&apos;s Home Office published a guide reminding asylum seekers not to rape or sexually harass people, noting women can earn money and make decisions.",
+    "link": "https://www.foxnews.com/world/uk-home-office-guide-tells-illegal-migrants-not-rape-harass-women-make-kissing-noises",
+    "published": "Wed, 19 Aug 2026 20:23:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1c4b0f741cf2e2ebedc4181c94ae741",
+    "fetched_at": "2026-08-20T00:48:09.106419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+    "summary": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+    "published": "Wed, 19 Aug 2026 10:19:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbd436b7ed2787204bd1ae02f2933dd9",
+    "fetched_at": "2026-08-20T00:48:07.981251+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+    "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 00:25:38 GMT",
+    "source": "BBC News",
+    "id": "58575e9562ff27f250ac41e09237336c",
+    "fetched_at": "2026-08-20T00:48:06.850914+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
     "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
     "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "21da0c4e61b170810c7ffe408f48a520",
     "fetched_at": "2026-08-19T14:24:55.338500+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
-    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
-    "source": "BBC News",
-    "id": "d7e649010b19b8feedb6f3280af1292d",
-    "fetched_at": "2026-08-19T14:24:55.338497+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French PM heckled over wildfire response as blazes continue across Europe",
-    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-    "source": "BBC News",
-    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
-    "fetched_at": "2026-08-19T14:24:55.338493+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 12:47:53 GMT",
-    "source": "BBC News",
-    "id": "16b1845bab385c8fe81d9654f6ebff80",
-    "fetched_at": "2026-08-19T14:24:55.338466+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sacked Ukrainian defence minister calls for presidential election",
-    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 11:00:21 GMT",
-    "source": "BBC News",
-    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
-    "fetched_at": "2026-08-19T14:24:54.208335+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italy-Spain border feud exposes Europe’s deepening immigration divide",
-    "summary": "Italy and Spain face off over immigration and border controls, highlighting a widening European divide over enforcement, national security and the future of Schengen.",
-    "link": "https://www.foxnews.com/world/italy-spain-border-feud-exposes-europes-deepening-immigration-divide",
-    "published": "Mon, 17 Aug 2026 14:54:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ab5f5f1691b3db51819bd867f465899c",
-    "fetched_at": "2026-08-19T14:24:53.090149+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
-    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
-    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
-    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
-    "fetched_at": "2026-08-19T14:24:51.962405+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-    "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
-    "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-    "published": "Tue, 18 Aug 2026 07:40:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc66d06c4349a83f7cd10d5a6cdee555",
-    "fetched_at": "2026-08-19T14:24:50.814958+00:00"
   }
 ]
