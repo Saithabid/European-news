@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+    "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+    "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+    "source": "BBC News",
+    "id": "c7e07c9d9e1cf0c91779f355dafd3e7e",
+    "fetched_at": "2026-08-20T20:19:53.383392+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+    "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+    "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 18:55:14 GMT",
+    "source": "BBC News",
+    "id": "334590014db1d122294b1c26e8efa0fd",
+    "fetched_at": "2026-08-20T20:19:53.383388+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+    "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+    "published": "Thu, 20 Aug 2026 03:31:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "2b816a398256fc161d6e28286052c016",
+    "fetched_at": "2026-08-20T20:19:53.383362+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sources & Methods",
+    "summary": "<em>All Thing Considered</em> host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/sources-methods",
+    "published": "Thu, 20 Aug 2026 16:05:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "73b54bf2d0de10fd64fdca70403cedf8",
+    "fetched_at": "2026-08-20T20:19:52.271905+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Edmonton Marathon route was 674 metres too long",
+    "summary": "Organisers of the Edmonton Marathon admit their course this year was more than half a kilometre too long.",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 07:15:48 GMT",
+    "source": "BBC News",
+    "id": "025b7e16c37bebb685076522d94c304b",
+    "fetched_at": "2026-08-20T20:19:51.139984+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+    "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+    "source": "BBC News",
+    "id": "483709e4d8e24fb1dbab904dc45017f4",
+    "fetched_at": "2026-08-20T20:19:50.000585+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Prince Harry and Meghan moving back to UK later this month",
+    "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+    "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 11:24:58 GMT",
+    "source": "BBC News",
+    "id": "811f3f4149e159203cfb4ce0df1bcc71",
+    "fetched_at": "2026-08-20T20:19:48.834573+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
+    "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 20:15:45 GMT",
+    "source": "BBC News",
+    "id": "96d08eb88f640b5ba21be8ce79bbe492",
+    "fetched_at": "2026-08-20T20:19:47.687576+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICE arrests captain in New York Harbor boat accident that killed mother and infant",
+    "summary": "Immigration officials allege the boat operator illegally entered the US from El Salvador and lied about his citizenship.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 19:07:55 GMT",
+    "source": "BBC News",
+    "id": "ccf5b66bc6eae6bd465d792fd7f4804c",
+    "fetched_at": "2026-08-20T20:19:46.527040+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
+    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 19:52:48 GMT",
+    "source": "BBC News",
+    "id": "eefc38bf9d24b55df5b1142d8c90341d",
+    "fetched_at": "2026-08-20T20:19:45.356340+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
     "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
     "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "e0d45608f4a249d83aba535f5a61dfc3",
     "fetched_at": "2026-08-20T10:21:25.562803+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "North Korea fires a suspected missile toward the sea, Japan says",
-    "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-    "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-    "published": "Thu, 20 Aug 2026 05:24:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "f93adf1ff702978a9f6b209830c87bd3",
-    "fetched_at": "2026-08-20T10:21:24.437620+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-    "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 23:11:14 GMT",
-    "source": "BBC News",
-    "id": "40638b2e83182bbf333543dc0b6e3b53",
-    "fetched_at": "2026-08-20T10:21:23.312033+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four workers dead after being hit by train in Japan",
-    "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 08:14:20 GMT",
-    "source": "BBC News",
-    "id": "3a7087b85d82d30677de5408acf97b8b",
-    "fetched_at": "2026-08-20T08:28:27.512505+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-    "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:08:35 GMT",
-    "source": "BBC News",
-    "id": "dbd0dbb9afc75001723ab6af7e281ebd",
-    "fetched_at": "2026-08-20T08:28:27.512503+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 19th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-evening",
-    "published": "Wed, 19 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "de4a0e89e182bcae71f0c9b7be10c034",
-    "fetched_at": "2026-08-20T08:28:27.512501+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China showcases next‑gen humanoid robots as US curbs push firms abroad",
-    "summary": "At the World Robot Conference in Beijing on 19 August, more than 300 companies displayed humanoid, industrial and service robots, highlighting the sector’s push into factories and commercial settings.",
-    "link": "http://www.euronews.com/video/2026/08/20/china-showcases-nextgen-humanoid-robots-as-us-curbs-push-firms-abroad",
-    "published": "Thu, 20 Aug 2026 09:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "519f07ee4626770159051c4b256413e0",
-    "fetched_at": "2026-08-20T08:28:27.512498+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US officials coordinated deportation flights with Iran, emails reveal",
-    "summary": "The deportation of Iranians to a country whose government has a pattern of violent persecution against women, religious minorities and political dissidents has drawn significant criticism from human rights activists.",
-    "link": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
-    "published": "Thu, 20 Aug 2026 09:06:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bd4ee85e06410a291aa4dbc385515398",
-    "fetched_at": "2026-08-20T08:28:27.512496+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kyiv residents rescued as Russian strikes damage buildings across the city",
-    "summary": "Russia’s overnight missile barrage killed at least 12 people in Kyiv on Thursday, 20 August, as residents were rescued from damaged buildings and firefighters battled fires across the capital.",
-    "link": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
-    "published": "Thu, 20 Aug 2026 10:16:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21345060e05ac255c743de38b97d9d59",
-    "fetched_at": "2026-08-20T08:28:27.512493+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia runs out of petrol at seven in 10 stations as fuel crisis worsens",
-    "summary": "Ukrainian drone campaign on Russia's energy infrastructure has caused fuel shortages so severe that the Kremlin has admitted it. Queues in Moscow are forming for the first time, and Russia has brought back banned low-grade fuel to plug the gap, while detaining residents who complained publicly.",
-    "link": "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens",
-    "published": "Thu, 20 Aug 2026 10:24:59 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e794a394da68435add03942d918e5e3d",
-    "fetched_at": "2026-08-20T08:28:27.512490+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-    "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 15:30:13 GMT",
-    "source": "BBC News",
-    "id": "a138f7196eb10d2d2fec91cce604ce29",
-    "fetched_at": "2026-08-20T08:28:27.512486+00:00"
   }
 ]
