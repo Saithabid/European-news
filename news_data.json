@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Ex-Zambian minister killed in security raid on opposition",
+    "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 10:07:48 GMT",
+    "source": "BBC News",
+    "id": "eaf9f8ba1ac7e9b4d06b1dd06e627f36",
+    "fetched_at": "2026-08-20T10:21:31.124909+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sirens, shelters and scaled-back war games: South Korea rehearses for crisis",
+    "summary": "South Korea held a nationwide civil defence drill on Thursday, 20 August, as part of the annual Ulchi Exercise, with authorities rehearsing responses to a national emergency such as an air raid.",
+    "link": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
+    "published": "Thu, 20 Aug 2026 11:41:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "34e345f8ea03610f563b98a3262580f5",
+    "fetched_at": "2026-08-20T10:21:31.124905+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "ICC separates Taliban probe from US case as Afghan women's fate stays uncertain",
+    "summary": "ICC judges reportedly ordered prosecutors to open a standalone investigation into Taliban persecution of women, separating it from the probe that also covered alleged US crimes in Afghanistan. Afghan rights advocates warned the split risked undermining comprehensive justice.",
+    "link": "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain",
+    "published": "Thu, 20 Aug 2026 11:44:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d2ab5b124bc5c583827df795182771fc",
+    "fetched_at": "2026-08-20T10:21:31.124880+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 20th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
+    "published": "Thu, 20 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e41a7526c5c359ef39ab31ec1bc6c642",
+    "fetched_at": "2026-08-20T10:21:30.020763+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+    "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 10:14:47 GMT",
+    "source": "BBC News",
+    "id": "b9f31e732352ace92b9f2b3c0078f61a",
+    "fetched_at": "2026-08-20T10:21:28.907017+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
+    "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
+    "link": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
+    "published": "Mon, 17 Aug 2026 21:00:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "230141100fa0fd3f1e0f2e1f7f783683",
+    "fetched_at": "2026-08-20T10:21:27.795698+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
+    "summary": "Lee Jae Myung urged stronger independent South Korean military capabilities after Trump ordered cuts to U.S.-South Korean Ulchi Freedom Shield drills.",
+    "link": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
+    "published": "Tue, 18 Aug 2026 11:13:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3da521e093ab2c768e1e4a67ca9ccd58",
+    "fetched_at": "2026-08-20T10:21:26.679748+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How India's blocking of a film exposing real-life police abuses backfired",
+    "summary": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+    "published": "Wed, 19 Aug 2026 06:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "e0d45608f4a249d83aba535f5a61dfc3",
+    "fetched_at": "2026-08-20T10:21:25.562803+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "North Korea fires a suspected missile toward the sea, Japan says",
+    "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
+    "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+    "published": "Thu, 20 Aug 2026 05:24:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "f93adf1ff702978a9f6b209830c87bd3",
+    "fetched_at": "2026-08-20T10:21:24.437620+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+    "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
+    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 23:11:14 GMT",
+    "source": "BBC News",
+    "id": "40638b2e83182bbf333543dc0b6e3b53",
+    "fetched_at": "2026-08-20T10:21:23.312033+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Four workers dead after being hit by train in Japan",
     "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
     "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "14be95d7530d4906cb0869425fd7474a",
     "fetched_at": "2026-08-19T22:16:37.951595+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
-    "summary": "A decade ago, the U.S. was still in its \"pivot to Asia.\" Today, as conflicts in the Middle East suck up American military resources, analysts say that pivot is over — or never really began.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
-    "published": "Wed, 19 Aug 2026 16:16:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "eb2c17f7850953a07c61edeee96d4dd9",
-    "fetched_at": "2026-08-19T22:16:36.822503+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
-    "summary": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
-    "published": "Wed, 19 Aug 2026 17:15:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "5611297c46bea6a21b1c714482e24955",
-    "fetched_at": "2026-08-19T22:16:35.671794+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Apparent human remains found in US reservoir as water levels hit record low",
-    "summary": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 10:10:09 GMT",
-    "source": "BBC News",
-    "id": "da4a30159a28b54a61f3217fc1609966",
-    "fetched_at": "2026-08-19T22:16:34.538714+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spared execution eight times, oldest inmate in US dies at 101",
-    "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
-    "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 11:22:09 GMT",
-    "source": "BBC News",
-    "id": "c884853578de4697401e394b570f88fa",
-    "fetched_at": "2026-08-19T22:16:33.379364+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US long-term borrowing costs ease after government steps in",
-    "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 19:26:06 GMT",
-    "source": "BBC News",
-    "id": "93f954b025535bd973b03c2d1f8d87ad",
-    "fetched_at": "2026-08-19T22:16:32.244683+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
-    "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-    "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 18:26:21 GMT",
-    "source": "BBC News",
-    "id": "834fe457bf0ce74ce0fa01ec88338c12",
-    "fetched_at": "2026-08-19T20:18:23.451601+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Earthquake rocks Spain's historic Granada, injuring three",
-    "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 17:15:39 GMT",
-    "source": "BBC News",
-    "id": "82297d51e28492e936ab9f5aada6bc5b",
-    "fetched_at": "2026-08-19T20:18:23.451560+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-    "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 12:36:11 GMT",
-    "source": "BBC News",
-    "id": "12fa0fcaf50427cad294d6f75d47526d",
-    "fetched_at": "2026-08-19T20:18:22.347220+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
-    "summary": "Iran appoints IRGC veterans of the Islamic Revolution and Iran-Iraq War to top posts, raising questions about its shrinking circle of commanders.",
-    "link": "https://www.foxnews.com/world/irans-gutted-ranks-leave-loyalists-filling-critical-posts-one-glaring-problem",
-    "published": "Tue, 18 Aug 2026 12:22:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "97e150f5e3116eb77c317777408de2d6",
-    "fetched_at": "2026-08-19T20:18:21.236553+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
-    "summary": "Five Americans, including Telemundo executive José Suárez, were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
-    "link": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
-    "published": "Wed, 19 Aug 2026 15:40:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "951b3e455465379f3631e7bad88e877f",
-    "fetched_at": "2026-08-19T20:18:20.126144+00:00"
   }
 ]
