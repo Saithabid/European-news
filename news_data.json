@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Togo charges two French journalists over incorrect documents, rights group says",
+    "summary": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 16:00:27 GMT",
+    "source": "BBC News",
+    "id": "65e2579b4861348245266b0de4c8ec2c",
+    "fetched_at": "2026-08-20T16:25:03.137933+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 20th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+    "published": "Thu, 20 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "638e3872e1fe03f3552d221902990623",
+    "fetched_at": "2026-08-20T16:25:02.033478+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+    "summary": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
+    "link": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+    "published": "Thu, 20 Aug 2026 18:01:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ae9762b29622f36bad15ab2784c8bb9f",
+    "fetched_at": "2026-08-20T16:25:00.931222+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 16:31:48 GMT",
+    "source": "BBC News",
+    "id": "16b1845bab385c8fe81d9654f6ebff80",
+    "fetched_at": "2026-08-20T16:24:59.820818+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 20:34:39 GMT",
+    "source": "BBC News",
+    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
+    "fetched_at": "2026-08-20T16:24:58.703607+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giant whales move into Greenland waters as ice disappears",
+    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 02:05:20 GMT",
+    "source": "BBC News",
+    "id": "0cd6bd7525cd9e568e3612301a83c51e",
+    "fetched_at": "2026-08-20T16:24:57.591527+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+    "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+    "published": "Thu, 20 Aug 2026 02:17:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "372dcd01660644a9ced97f60c95edf2b",
+    "fetched_at": "2026-08-20T16:24:56.481947+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+    "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 10:41:25 GMT",
+    "source": "BBC News",
+    "id": "ae260c416b2bf444354a3dc55cddf714",
+    "fetched_at": "2026-08-20T16:24:55.368445+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Assad officer extradited to Syria on war crimes charges for first time",
     "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
     "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "c7e07c9d9e1cf0c91779f355dafd3e7e",
     "fetched_at": "2026-08-20T06:32:43.770878+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lebanon extradites ex-Assad military general to Syria for trial over alleged crimes committed during civil war",
-    "summary": "The move comes as the new Syrian government, led by interim President Ahmad al-Sharaa looks to hold senior members of Assad’s regime accountable for crimes committed during the country’s civil war, which killed hundreds of thousands of people.",
-    "link": "http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit",
-    "published": "Thu, 20 Aug 2026 06:51:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "82f76e165c4e1481d9a0d83f8cb6ddbe",
-    "fetched_at": "2026-08-20T06:32:43.770875+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 20th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning",
-    "published": "Thu, 20 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "713eeb65aa518f78becf3258f57b84bf",
-    "fetched_at": "2026-08-20T06:32:43.770842+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two collapses in four days - what's happening to Musiala?",
-    "summary": "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crmry3r1ew7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 15:34:38 GMT",
-    "source": "BBC News",
-    "id": "9213053448ea89fdae93221259cbd417",
-    "fetched_at": "2026-08-20T06:32:42.649716+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-    "source": "BBC News",
-    "id": "02ffc42f90d155c816d83f2f93169f7a",
-    "fetched_at": "2026-08-20T06:32:41.530698+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-    "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 05:25:23 GMT",
-    "source": "BBC News",
-    "id": "3a0b7c777586fad77cceef73e4748180",
-    "fetched_at": "2026-08-20T06:32:40.355408+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
-    "summary": "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
-    "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
-    "published": "Wed, 19 Aug 2026 11:23:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9c1e87095246bf6dbcd67630ac6f7778",
-    "fetched_at": "2026-08-20T06:32:39.230934+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why does the U.S. military seem stymied in the war with Iran?",
-    "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-    "published": "Wed, 19 Aug 2026 12:18:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "2659cb158664fe62e9c90552a4b0072b",
-    "fetched_at": "2026-08-20T06:32:38.080124+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-    "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-    "published": "Thu, 20 Aug 2026 01:50:53 -0400",
-    "source": "NPR Topics: World",
-    "id": "759d4326fa0aa03ceb6b65d526da2c29",
-    "fetched_at": "2026-08-20T06:32:36.942415+00:00"
   }
 ]
