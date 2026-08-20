@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Assad officer extradited to Syria on war crimes charges for first time",
+    "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 12:38:35 GMT",
+    "source": "BBC News",
+    "id": "6280d9d02c18dc6afdf8a0be91c830c0",
+    "fetched_at": "2026-08-20T14:27:33.695195+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+    "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 07:33:11 GMT",
+    "source": "BBC News",
+    "id": "d943ab90a3c53e0446e3077ecc2df472",
+    "fetched_at": "2026-08-20T14:27:33.695192+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
+    "summary": "Serbia has seen the remains of a century-old steam tug emerge from the Sava River near Sremska Mitrovica, after prolonged heat and drought drove water levels exceptionally low.",
+    "link": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
+    "published": "Thu, 20 Aug 2026 14:54:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2a53a4b31db857799a80d106ea154940",
+    "fetched_at": "2026-08-20T14:27:33.695190+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
+    "summary": "Railway officials said it was unclear why the workers did not leave the site when the train was approaching, or what the lookout people were doing.",
+    "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
+    "published": "Thu, 20 Aug 2026 15:10:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a6fbc642ec6cf9743e76e4cb056fc0c5",
+    "fetched_at": "2026-08-20T14:27:33.695188+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Verstappen extends Red Bull deal to 2030",
+    "summary": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 07:09:34 GMT",
+    "source": "BBC News",
+    "id": "abbd605ade090db1964d191985268f5b",
+    "fetched_at": "2026-08-20T14:27:33.695184+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+    "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+    "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 13:04:15 GMT",
+    "source": "BBC News",
+    "id": "8ebdfda3a384faae18f9e2d02ec64193",
+    "fetched_at": "2026-08-20T14:27:33.695159+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
+    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
+    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
+    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "dbd49ce3145dc5864357c7f1eb160285",
+    "fetched_at": "2026-08-20T14:27:32.576010+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
+    "fetched_at": "2026-08-20T14:27:31.484966+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK Home Office guide tells asylum seekers not to rape, harass women or make kissing noises",
+    "summary": "Britain&apos;s Home Office published a guide reminding asylum seekers not to rape or sexually harass people, noting women can earn money and make decisions.",
+    "link": "https://www.foxnews.com/world/uk-home-office-guide-tells-illegal-migrants-not-rape-harass-women-make-kissing-noises",
+    "published": "Wed, 19 Aug 2026 20:23:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1c4b0f741cf2e2ebedc4181c94ae741",
+    "fetched_at": "2026-08-20T14:27:30.352126+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+    "summary": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
+    "link": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
+    "published": "Wed, 19 Aug 2026 21:09:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ef623692ccd8f6e71d43934ff743c8f5",
+    "fetched_at": "2026-08-20T14:27:29.238677+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+    "summary": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+    "published": "Wed, 19 Aug 2026 10:19:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbd436b7ed2787204bd1ae02f2933dd9",
+    "fetched_at": "2026-08-20T14:27:28.106922+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel launches probe into killing of 5-year-old girl and medics sent to rescue her",
+    "summary": "Israel is launching a criminal investigation into the Gaza killings carried out by Israeli troops of a 5-year-old girl and her family and the medics sent to rescue her.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937563/israel-launches-probe-into-killing-of-5-year-old-girl-and-medics-sent-to-rescue-her",
+    "published": "Wed, 19 Aug 2026 16:11:34 -0400",
+    "source": "NPR Topics: World",
+    "id": "92bdf611ac796141318149752ecdfd68",
+    "fetched_at": "2026-08-20T14:27:26.975000+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump vows tougher economic measures on Iran and supporting countries",
+    "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 09:13:18 GMT",
+    "source": "BBC News",
+    "id": "58575e9562ff27f250ac41e09237336c",
+    "fetched_at": "2026-08-20T14:27:25.853845+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
     "summary": "Hundreds of Tibetan exiles gathered in New Delhi on Thursday, 20 August, to protest against China’s new Ethnic Unity and Progress Law.",
     "link": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "759d4326fa0aa03ceb6b65d526da2c29",
     "fetched_at": "2026-08-20T06:32:36.942415+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-    "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-    "published": "Thu, 20 Aug 2026 02:17:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "372dcd01660644a9ced97f60c95edf2b",
-    "fetched_at": "2026-08-20T06:32:35.807429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-    "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-    "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 03:16:22 GMT",
-    "source": "BBC News",
-    "id": "47294d0958bc786b9215827c600dac93",
-    "fetched_at": "2026-08-20T04:29:41.870110+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-    "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 21:32:15 GMT",
-    "source": "BBC News",
-    "id": "ae260c416b2bf444354a3dc55cddf714",
-    "fetched_at": "2026-08-20T04:29:40.754638+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Former Liberian vice president charged in drug-trafficking probe",
-    "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-    "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 03:09:24 GMT",
-    "source": "BBC News",
-    "id": "8c9b13e5aee436309ae4da9437033156",
-    "fetched_at": "2026-08-20T04:29:39.643663+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
-    "summary": "A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.",
-    "link": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
-    "published": "Wed, 19 Aug 2026 15:42:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59a772ed230caee64750054747ab3709",
-    "fetched_at": "2026-08-20T04:29:38.544621+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UAE halts all trade and financial dealings with Iran",
-    "summary": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the Strait of Hormuz has fallen to less than a quarter of pre-war levels.",
-    "link": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
-    "published": "Wed, 19 Aug 2026 15:51:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0586e170476aafffe8a40abaf94be767",
-    "fetched_at": "2026-08-20T04:29:37.433224+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seven dead, including Ecuador's intelligence chief, after tourist helicopter crashes in northern Kenya",
-    "summary": "The victims are said to include the head of Ecuador's National Intelligence Centre, his wife, and five Americans.",
-    "link": "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya",
-    "published": "Wed, 19 Aug 2026 16:23:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "21da0c4e61b170810c7ffe408f48a520",
-    "fetched_at": "2026-08-20T04:29:36.322770+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea says Trump's scale-back of joint military exercises with South Korea 'changes nothing'",
-    "summary": "Critics slammed the Trump administration over its surprise pull-back from the planned drills with South Korea, stressing that the move is yet another example of the US turning its back on its allies, hurting its credibility in the international arena.",
-    "link": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
-    "published": "Thu, 20 Aug 2026 06:02:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1bb12ad6122d3fd486a0d2530a78c67a",
-    "fetched_at": "2026-08-20T04:29:35.187390+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Giant whales move into Greenland waters as ice disappears",
-    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
-    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 02:05:20 GMT",
-    "source": "BBC News",
-    "id": "0cd6bd7525cd9e568e3612301a83c51e",
-    "fetched_at": "2026-08-20T02:50:21.898596+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Boy, seven, among four injured after crash that killed five teenagers in Ireland",
-    "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:10:22 GMT",
-    "source": "BBC News",
-    "id": "d7e649010b19b8feedb6f3280af1292d",
-    "fetched_at": "2026-08-20T02:50:20.776944+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French PM heckled over wildfire response as blazes continue across Europe",
-    "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-    "source": "BBC News",
-    "id": "3ac3838b6cc6f3d0b26998f472b4c4d9",
-    "fetched_at": "2026-08-20T02:50:19.650423+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-    "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 16:31:48 GMT",
-    "source": "BBC News",
-    "id": "16b1845bab385c8fe81d9654f6ebff80",
-    "fetched_at": "2026-08-20T02:50:18.528237+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sacked Ukrainian defence minister calls for presidential election",
-    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 20:34:39 GMT",
-    "source": "BBC News",
-    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
-    "fetched_at": "2026-08-20T02:50:17.401419+00:00"
   }
 ]
