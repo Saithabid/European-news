@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+    "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 20:40:17 GMT",
+    "source": "BBC News",
+    "id": "6247c5125d625174a967f59b66b24050",
+    "fetched_at": "2026-08-20T22:18:39.367560+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dozens dead after boat capsizes in north-western Nigeria",
+    "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+    "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 20:27:36 GMT",
+    "source": "BBC News",
+    "id": "4c75bc8dbdcfbfa19a6edd4f83649815",
+    "fetched_at": "2026-08-20T22:18:38.214511+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kyiv residents rescued as Russian strikes damage buildings across the city",
+    "summary": "Russia’s overnight missile barrage killed at least 12 people in Kyiv on Thursday, 20 August, as residents were rescued from damaged buildings and firefighters battled fires across the capital.",
+    "link": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
+    "published": "Thu, 20 Aug 2026 10:16:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "21345060e05ac255c743de38b97d9d59",
+    "fetched_at": "2026-08-20T22:18:36.922065+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia runs out of petrol at seven in 10 stations as fuel crisis worsens",
+    "summary": "Ukrainian drone campaign on Russia's energy infrastructure has caused fuel shortages so severe that the Kremlin has admitted it. Queues in Moscow are forming for the first time, and Russia has brought back banned low-grade fuel to plug the gap, while detaining residents who complained publicly.",
+    "link": "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens",
+    "published": "Thu, 20 Aug 2026 10:24:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e794a394da68435add03942d918e5e3d",
+    "fetched_at": "2026-08-20T22:18:35.776846+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "North Korea fires a suspected missile toward the sea, Japan says",
+    "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
+    "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+    "published": "Thu, 20 Aug 2026 05:24:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "f93adf1ff702978a9f6b209830c87bd3",
+    "fetched_at": "2026-08-20T22:18:34.632396+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+    "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
+    "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 23:11:14 GMT",
+    "source": "BBC News",
+    "id": "40638b2e83182bbf333543dc0b6e3b53",
+    "fetched_at": "2026-08-20T22:18:33.487093+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alcaraz to play US Open after four months out",
+    "summary": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 17:39:09 GMT",
+    "source": "BBC News",
+    "id": "1cad1b72d52b75f290bd27eae291576e",
+    "fetched_at": "2026-08-20T22:18:32.335111+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
+    "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 21:03:30 GMT",
+    "source": "BBC News",
+    "id": "b75052d0447de60fc79c7cb234ab940e",
+    "fetched_at": "2026-08-20T22:18:31.184930+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
     "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
     "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "93f954b025535bd973b03c2d1f8d87ad",
     "fetched_at": "2026-08-20T12:31:51.654802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ex-Zambian minister killed in security raid on opposition",
-    "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 10:07:48 GMT",
-    "source": "BBC News",
-    "id": "eaf9f8ba1ac7e9b4d06b1dd06e627f36",
-    "fetched_at": "2026-08-20T10:21:31.124909+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sirens, shelters and scaled-back war games: South Korea rehearses for crisis",
-    "summary": "South Korea held a nationwide civil defence drill on Thursday, 20 August, as part of the annual Ulchi Exercise, with authorities rehearsing responses to a national emergency such as an air raid.",
-    "link": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
-    "published": "Thu, 20 Aug 2026 11:41:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "34e345f8ea03610f563b98a3262580f5",
-    "fetched_at": "2026-08-20T10:21:31.124905+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ICC separates Taliban probe from US case as Afghan women's fate stays uncertain",
-    "summary": "ICC judges reportedly ordered prosecutors to open a standalone investigation into Taliban persecution of women, separating it from the probe that also covered alleged US crimes in Afghanistan. Afghan rights advocates warned the split risked undermining comprehensive justice.",
-    "link": "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain",
-    "published": "Thu, 20 Aug 2026 11:44:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d2ab5b124bc5c583827df795182771fc",
-    "fetched_at": "2026-08-20T10:21:31.124880+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 20th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
-    "published": "Thu, 20 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e41a7526c5c359ef39ab31ec1bc6c642",
-    "fetched_at": "2026-08-20T10:21:30.020763+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-    "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 10:14:47 GMT",
-    "source": "BBC News",
-    "id": "b9f31e732352ace92b9f2b3c0078f61a",
-    "fetched_at": "2026-08-20T10:21:28.907017+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
-    "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
-    "link": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
-    "published": "Mon, 17 Aug 2026 21:00:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "230141100fa0fd3f1e0f2e1f7f783683",
-    "fetched_at": "2026-08-20T10:21:27.795698+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
-    "summary": "Lee Jae Myung urged stronger independent South Korean military capabilities after Trump ordered cuts to U.S.-South Korean Ulchi Freedom Shield drills.",
-    "link": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
-    "published": "Tue, 18 Aug 2026 11:13:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3da521e093ab2c768e1e4a67ca9ccd58",
-    "fetched_at": "2026-08-20T10:21:26.679748+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How India's blocking of a film exposing real-life police abuses backfired",
-    "summary": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
-    "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-    "published": "Wed, 19 Aug 2026 06:02:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "e0d45608f4a249d83aba535f5a61dfc3",
-    "fetched_at": "2026-08-20T10:21:25.562803+00:00"
   }
 ]
