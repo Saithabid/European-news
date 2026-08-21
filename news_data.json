@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Panama Canal to cut number of ships passing through due to El Niño",
+    "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 06:46:08 GMT",
+    "source": "BBC News",
+    "id": "e79e0aecee7b1042b048c8b662690e8f",
+    "fetched_at": "2026-08-21T08:30:37.694569+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+    "source": "BBC News",
+    "id": "217cf03fbd666a6c38ebaef4e82ea0cd",
+    "fetched_at": "2026-08-21T08:30:37.694567+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 20th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+    "published": "Thu, 20 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "638e3872e1fe03f3552d221902990623",
+    "fetched_at": "2026-08-21T08:30:37.694565+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+    "summary": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
+    "link": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+    "published": "Thu, 20 Aug 2026 18:01:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ae9762b29622f36bad15ab2784c8bb9f",
+    "fetched_at": "2026-08-21T08:30:37.694563+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kyiv residents search through the wreckage after Russia’s deadly barrage",
+    "summary": "Residents of Kyiv’s Solomianskyi district spent Thursday assessing the damage after a Russian overnight barrage of ballistic and cruise missiles and drones tore through a residential area.",
+    "link": "http://www.euronews.com/video/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage",
+    "published": "Fri, 21 Aug 2026 09:00:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8e2f6aeeceaa34b2d13f404b49f38835",
+    "fetched_at": "2026-08-21T08:30:37.694561+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain moves hundreds of migrants from Ceuta beach to temporary shelters",
+    "summary": "Spain began relocating migrants from a makeshift camp on Ceuta’s El Trampolín beach on Thursday, 20 August, nearly three weeks after a mass border surge left thousands living without adequate shelter in the North African enclave.",
+    "link": "http://www.euronews.com/video/2026/08/21/spain-moves-hundreds-of-migrants-from-ceuta-beach-to-temporary-shelters",
+    "published": "Fri, 21 Aug 2026 09:12:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0e57207330007b060092233831b42801",
+    "fetched_at": "2026-08-21T08:30:37.694531+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Group of 15 Cuban migrants rescued by Mexico's navy after days adrift at sea",
+    "summary": "Cubans seeking to leave the communist-run island have risked their lives in flimsy boats for decades in a bid to cross the treacherous Florida Straits to the United States or across the Caribbean to Mexico.",
+    "link": "http://www.euronews.com/2026/08/21/group-of-15-cuban-migrants-rescued-by-mexicos-navy-after-days-adrift-at-sea",
+    "published": "Fri, 21 Aug 2026 10:05:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d302ddfb35484d1cd051b812fdb794e1",
+    "fetched_at": "2026-08-21T08:30:36.603114+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 20:34:39 GMT",
+    "source": "BBC News",
+    "id": "8a71cb7146b0a9b1c9aa028a9bdd7166",
+    "fetched_at": "2026-08-21T08:30:35.495004+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Giant whales move into Greenland waters as ice disappears",
+    "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 02:05:20 GMT",
+    "source": "BBC News",
+    "id": "0cd6bd7525cd9e568e3612301a83c51e",
+    "fetched_at": "2026-08-21T08:30:34.388115+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five missing after fire in Swiss Alpine town",
+    "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 07:06:16 GMT",
+    "source": "BBC News",
+    "id": "3e2d7ad22220c5637cd85e3699072e03",
+    "fetched_at": "2026-08-21T08:30:33.277547+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+    "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+    "published": "Thu, 20 Aug 2026 01:50:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "759d4326fa0aa03ceb6b65d526da2c29",
+    "fetched_at": "2026-08-21T08:30:32.112628+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+    "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+    "published": "Thu, 20 Aug 2026 02:17:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "372dcd01660644a9ced97f60c95edf2b",
+    "fetched_at": "2026-08-21T08:30:30.991825+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
+    "summary": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
+    "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 01:16:43 GMT",
+    "source": "BBC News",
+    "id": "7c1af1bd367915bafa1479e1bfe83794",
+    "fetched_at": "2026-08-21T08:30:29.840510+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
     "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
     "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "73b54bf2d0de10fd64fdca70403cedf8",
     "fetched_at": "2026-08-20T20:19:52.271905+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Edmonton Marathon route was 674 metres too long",
-    "summary": "Organisers of the Edmonton Marathon admit their course this year was more than half a kilometre too long.",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:15:48 GMT",
-    "source": "BBC News",
-    "id": "025b7e16c37bebb685076522d94c304b",
-    "fetched_at": "2026-08-20T20:19:51.139984+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-    "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 02:00:51 GMT",
-    "source": "BBC News",
-    "id": "483709e4d8e24fb1dbab904dc45017f4",
-    "fetched_at": "2026-08-20T20:19:50.000585+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Prince Harry and Meghan moving back to UK later this month",
-    "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 11:24:58 GMT",
-    "source": "BBC News",
-    "id": "811f3f4149e159203cfb4ce0df1bcc71",
-    "fetched_at": "2026-08-20T20:19:48.834573+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
-    "summary": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 20:15:45 GMT",
-    "source": "BBC News",
-    "id": "96d08eb88f640b5ba21be8ce79bbe492",
-    "fetched_at": "2026-08-20T20:19:47.687576+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICE arrests captain in New York Harbor boat accident that killed mother and infant",
-    "summary": "Immigration officials allege the boat operator illegally entered the US from El Salvador and lied about his citizenship.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy45lxry14o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 19:07:55 GMT",
-    "source": "BBC News",
-    "id": "ccf5b66bc6eae6bd465d792fd7f4804c",
-    "fetched_at": "2026-08-20T20:19:46.527040+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-    "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
-    "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 19:52:48 GMT",
-    "source": "BBC News",
-    "id": "eefc38bf9d24b55df5b1142d8c90341d",
-    "fetched_at": "2026-08-20T20:19:45.356340+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-    "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 16:53:20 GMT",
-    "source": "BBC News",
-    "id": "2c96ebe30492cc920ef71270f8035d31",
-    "fetched_at": "2026-08-20T18:27:12.457933+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-    "source": "BBC News",
-    "id": "02ffc42f90d155c816d83f2f93169f7a",
-    "fetched_at": "2026-08-20T18:27:12.457900+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-    "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 17:14:55 GMT",
-    "source": "BBC News",
-    "id": "3a0b7c777586fad77cceef73e4748180",
-    "fetched_at": "2026-08-20T18:27:11.354539+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
-    "summary": "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
-    "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
-    "published": "Wed, 19 Aug 2026 11:23:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9c1e87095246bf6dbcd67630ac6f7778",
-    "fetched_at": "2026-08-20T18:27:10.247396+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
-    "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel&apos;s resolve after the Abu al-Duhur airbase strike in Syria.",
-    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
-    "published": "Thu, 20 Aug 2026 13:12:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d3b1cdb68949179fab05a490dfa239cb",
-    "fetched_at": "2026-08-20T18:27:09.142078+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-    "summary": "China launched seasonal container service to Europe via Russia&apos;s Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
-    "link": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-    "published": "Thu, 20 Aug 2026 14:22:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c8574cae15e738a5e0e762850cd8e642",
-    "fetched_at": "2026-08-20T18:27:08.030765+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why does the U.S. military seem stymied in the war with Iran?",
-    "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-    "published": "Wed, 19 Aug 2026 12:18:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "2659cb158664fe62e9c90552a4b0072b",
-    "fetched_at": "2026-08-20T18:27:06.918152+00:00"
   }
 ]
