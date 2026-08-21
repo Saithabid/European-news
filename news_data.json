@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Japan executes man who killed five in Pachinko parlour fire",
+    "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
+    "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 02:49:27 GMT",
+    "source": "BBC News",
+    "id": "cea0b228576d1a40d20ae5df2d8ea947",
+    "fetched_at": "2026-08-21T04:30:13.410015+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
+    "summary": "Hundreds of Tibetan exiles gathered in New Delhi on Thursday, 20 August, to protest against China’s new Ethnic Unity and Progress Law.",
+    "link": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
+    "published": "Thu, 20 Aug 2026 12:54:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "62bf2c29d3886da130582906ff89723c",
+    "fetched_at": "2026-08-21T04:30:12.286781+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+    "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+    "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 18:26:21 GMT",
+    "source": "BBC News",
+    "id": "834fe457bf0ce74ce0fa01ec88338c12",
+    "fetched_at": "2026-08-21T04:30:11.115464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+    "summary": "Five Americans, including Telemundo executive José Suárez, were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
+    "link": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+    "published": "Wed, 19 Aug 2026 15:40:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "951b3e455465379f3631e7bad88e877f",
+    "fetched_at": "2026-08-21T04:30:10.004278+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK Home Office guide tells asylum seekers not to rape, harass women or make kissing noises",
+    "summary": "Britain&apos;s Home Office published a guide reminding asylum seekers not to rape or sexually harass people, noting women can earn money and make decisions.",
+    "link": "https://www.foxnews.com/world/uk-home-office-guide-tells-illegal-migrants-not-rape-harass-women-make-kissing-noises",
+    "published": "Wed, 19 Aug 2026 20:23:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1c4b0f741cf2e2ebedc4181c94ae741",
+    "fetched_at": "2026-08-21T04:30:08.859472+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+    "summary": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
+    "link": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
+    "published": "Wed, 19 Aug 2026 21:09:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ef623692ccd8f6e71d43934ff743c8f5",
+    "fetched_at": "2026-08-21T04:30:07.771119+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel launches probe into killing of 5-year-old girl and medics sent to rescue her",
+    "summary": "Israel is launching a criminal investigation into the Gaza killings carried out by Israeli troops of a 5-year-old girl and her family and the medics sent to rescue her.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937563/israel-launches-probe-into-killing-of-5-year-old-girl-and-medics-sent-to-rescue-her",
+    "published": "Wed, 19 Aug 2026 16:11:34 -0400",
+    "source": "NPR Topics: World",
+    "id": "92bdf611ac796141318149752ecdfd68",
+    "fetched_at": "2026-08-21T04:30:06.660276+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happened to Harry and Meghan's American dream?",
+    "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+    "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 02:57:34 GMT",
+    "source": "BBC News",
+    "id": "e5ea854fc22b2d2d6973b1a255a730e5",
+    "fetched_at": "2026-08-21T04:30:05.536422+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
     "summary": "The 26-year-old sparked anger with an expletive-laden post about the sacred holiday.",
     "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "ae260c416b2bf444354a3dc55cddf714",
     "fetched_at": "2026-08-20T16:24:55.368445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Assad officer extradited to Syria on war crimes charges for first time",
-    "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 12:38:35 GMT",
-    "source": "BBC News",
-    "id": "6280d9d02c18dc6afdf8a0be91c830c0",
-    "fetched_at": "2026-08-20T14:27:33.695195+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-    "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-    "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:33:11 GMT",
-    "source": "BBC News",
-    "id": "d943ab90a3c53e0446e3077ecc2df472",
-    "fetched_at": "2026-08-20T14:27:33.695192+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
-    "summary": "Serbia has seen the remains of a century-old steam tug emerge from the Sava River near Sremska Mitrovica, after prolonged heat and drought drove water levels exceptionally low.",
-    "link": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
-    "published": "Thu, 20 Aug 2026 14:54:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2a53a4b31db857799a80d106ea154940",
-    "fetched_at": "2026-08-20T14:27:33.695190+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
-    "summary": "Railway officials said it was unclear why the workers did not leave the site when the train was approaching, or what the lookout people were doing.",
-    "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
-    "published": "Thu, 20 Aug 2026 15:10:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a6fbc642ec6cf9743e76e4cb056fc0c5",
-    "fetched_at": "2026-08-20T14:27:33.695188+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Verstappen extends Red Bull deal to 2030",
-    "summary": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:09:34 GMT",
-    "source": "BBC News",
-    "id": "abbd605ade090db1964d191985268f5b",
-    "fetched_at": "2026-08-20T14:27:33.695184+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-    "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 13:04:15 GMT",
-    "source": "BBC News",
-    "id": "8ebdfda3a384faae18f9e2d02ec64193",
-    "fetched_at": "2026-08-20T14:27:33.695159+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
-    "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
-    "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
-    "published": "Tue, 18 Aug 2026 21:53:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dbd49ce3145dc5864357c7f1eb160285",
-    "fetched_at": "2026-08-20T14:27:32.576010+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
-    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
-    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
-    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
-    "fetched_at": "2026-08-20T14:27:31.484966+00:00"
   }
 ]
