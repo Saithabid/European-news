@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
+    "summary": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes.",
+    "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 16:20:55 GMT",
+    "source": "BBC News",
+    "id": "d175256023135549bda94e0fa67e8bde",
+    "fetched_at": "2026-08-21T18:25:43.727644+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 15:58:57 GMT",
+    "source": "BBC News",
+    "id": "172fa98bd1bb2d8e06b102909fb05ea4",
+    "fetched_at": "2026-08-21T18:25:42.596531+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+    "source": "BBC News",
+    "id": "217cf03fbd666a6c38ebaef4e82ea0cd",
+    "fetched_at": "2026-08-21T18:25:41.467660+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+    "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 16:26:53 GMT",
+    "source": "BBC News",
+    "id": "71ef80873beb09a2175d51dd3ab8606b",
+    "fetched_at": "2026-08-21T18:25:40.340792+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
+    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
+    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
+    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "18e9e5a20c2d1e01c581f327bd95119e",
+    "fetched_at": "2026-08-21T18:25:39.220269+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+    "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 16:45:09 GMT",
+    "source": "BBC News",
+    "id": "929e0440f1627d989fcda7274e4cc86d",
+    "fetched_at": "2026-08-21T18:25:38.089930+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
+    "summary": "Jeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 14:23:22 GMT",
+    "source": "BBC News",
+    "id": "95df66bd8bb1ce93181a2b563980475f",
+    "fetched_at": "2026-08-21T18:25:36.983217+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+    "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+    "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 18:08:14 GMT",
+    "source": "BBC News",
+    "id": "31cbe05f83d7948594d2320cb13b5464",
+    "fetched_at": "2026-08-21T18:25:35.803497+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Corruption charges dropped against South Africa's police intelligence boss",
     "summary": "Officials had faced charges over the appointment of a civilian to a top post within crime intelligence.",
     "link": "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "2c96ebe30492cc920ef71270f8035d31",
     "fetched_at": "2026-08-21T10:21:37.339277+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-    "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 10:03:17 GMT",
-    "source": "BBC News",
-    "id": "7ca36f8001cbb520aede90be90601516",
-    "fetched_at": "2026-08-21T10:21:37.339275+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-    "source": "BBC News",
-    "id": "02ffc42f90d155c816d83f2f93169f7a",
-    "fetched_at": "2026-08-21T10:21:37.339272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-    "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 17:14:55 GMT",
-    "source": "BBC News",
-    "id": "3a0b7c777586fad77cceef73e4748180",
-    "fetched_at": "2026-08-21T10:21:37.339267+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
-    "summary": "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
-    "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
-    "published": "Wed, 19 Aug 2026 11:23:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9c1e87095246bf6dbcd67630ac6f7778",
-    "fetched_at": "2026-08-21T10:21:37.339263+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
-    "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel&apos;s resolve after the Abu al-Duhur airbase strike in Syria.",
-    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
-    "published": "Thu, 20 Aug 2026 13:12:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d3b1cdb68949179fab05a490dfa239cb",
-    "fetched_at": "2026-08-21T10:21:37.339257+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-    "summary": "China launched seasonal container service to Europe via Russia&apos;s Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
-    "link": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-    "published": "Thu, 20 Aug 2026 14:22:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c8574cae15e738a5e0e762850cd8e642",
-    "fetched_at": "2026-08-21T10:21:37.339244+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia imports gas as Ukrainian strikes result in shortages",
-    "summary": "Russia has begun importing fuel as Ukrainian strikes on Russian refineries and depots cause shortages.",
-    "link": "https://www.npr.org/2026/08/21/nx-s1-5939990/russia-imports-gas-as-ukrainian-strikes-result-in-shortages",
-    "published": "Fri, 21 Aug 2026 04:45:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "7a73b7c661960c29d3a63a77337c1b98",
-    "fetched_at": "2026-08-21T10:21:36.204139+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-    "summary": "Experts warn Trump's transactional approach to alliance will erode political trust",
-    "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-    "published": "Fri, 21 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "604648a0e11cb70aa8a61896a7b8e54a",
-    "fetched_at": "2026-08-21T10:21:35.068352+00:00"
   }
 ]
