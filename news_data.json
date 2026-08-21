@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+    "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 05:47:32 GMT",
+    "source": "BBC News",
+    "id": "825d42a8d2a09489c41e5724b7e2b15b",
+    "fetched_at": "2026-08-21T14:26:28.395216+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran's president calls for end to war from 'position of power' as US ups pressure",
+    "summary": "President Pezeshkian said Iran was in a position of \"power and dignity\" and should end the war on its own terms, even as Washington prepares to ramp up economic sanctions it described as \"Economic D-Day.\"",
+    "link": "http://www.euronews.com/2026/08/21/irans-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
+    "published": "Fri, 21 Aug 2026 14:31:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f49a5ad416f6a5cfab58639f0c4a90c8",
+    "fetched_at": "2026-08-21T14:26:28.395214+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Syrians who came home after al-Assad's fall find a complicated reality",
+    "summary": "Nearly 3.6 million Syrians have returned since al-Assad's fall to destroyed homes, dysfunctional bureaucracy, power cuts and wages a fraction of what they earned abroad. Euronews spoke with those who returned: some are rebuilding, while others are already planning to leave again.",
+    "link": "http://www.euronews.com/2026/08/21/syrians-who-came-home-after-al-assads-fall-find-a-complicated-reality",
+    "published": "Fri, 21 Aug 2026 15:32:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b0600ab84e1a3d0a39760d8d0bf2c856",
+    "fetched_at": "2026-08-21T14:26:28.395211+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New videos show deadly landslide burying gold miners in Central African Republic",
+    "summary": "New videos filmed at the Zamboye mining site on 18 August appears to show the moment a landslide swept through an artisanal gold mine in the Central African Republic, burying miners beneath earth and sand.",
+    "link": "http://www.euronews.com/video/2026/08/21/new-videos-show-deadly-landslide-burying-gold-miners-in-central-african-republic",
+    "published": "Fri, 21 Aug 2026 15:48:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8a658656f91c6ff0cca5eceed21393d8",
+    "fetched_at": "2026-08-21T14:26:28.395209+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+    "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+    "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 18:26:21 GMT",
+    "source": "BBC News",
+    "id": "834fe457bf0ce74ce0fa01ec88338c12",
+    "fetched_at": "2026-08-21T14:26:28.395207+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+    "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 02:33:27 GMT",
+    "source": "BBC News",
+    "id": "56c72a867d019ca9fbb25d9df96b31f2",
+    "fetched_at": "2026-08-21T14:26:28.395204+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
+    "summary": "Five Americans, including Telemundo executive José Suárez, were killed when a charter helicopter carrying seven people crashed in a mountainous region of northern Kenya.",
+    "link": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
+    "published": "Wed, 19 Aug 2026 15:40:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "951b3e455465379f3631e7bad88e877f",
+    "fetched_at": "2026-08-21T14:26:28.395174+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK Home Office guide tells asylum seekers not to rape, harass women or make kissing noises",
+    "summary": "Britain&apos;s Home Office published a guide reminding asylum seekers not to rape or sexually harass people, noting women can earn money and make decisions.",
+    "link": "https://www.foxnews.com/world/uk-home-office-guide-tells-illegal-migrants-not-rape-harass-women-make-kissing-noises",
+    "published": "Wed, 19 Aug 2026 20:23:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1c4b0f741cf2e2ebedc4181c94ae741",
+    "fetched_at": "2026-08-21T14:26:27.276191+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+    "summary": "Iran is deepening ties with Russia and China through BRICS and the Shanghai Cooperation Organization to blunt U.S. sanctions, analysts warn.",
+    "link": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
+    "published": "Wed, 19 Aug 2026 21:09:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ef623692ccd8f6e71d43934ff743c8f5",
+    "fetched_at": "2026-08-21T14:26:26.130103+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Christian Zionists take on anti-Israel ‘propaganda’ from biblical heartland",
+    "summary": "The Israel Guys inaugurated a major visitor center in Har Bracha on the West Bank, inviting Christians in Israel to see Judea and Samaria&apos;s biblical heartland firsthand.",
+    "link": "https://www.foxnews.com/world/christian-zionists-take-on-anti-israel-propaganda-from-biblical-heartland",
+    "published": "Thu, 20 Aug 2026 06:55:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "df0f14fd9bb0a8f9ed9feceb4de1a74e",
+    "fetched_at": "2026-08-21T14:26:25.028186+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992",
+    "summary": "DNA testing confirmed remains found on a Swiss Alps glacier belong to two Belgian mountaineers who vanished in the Weissmies region in 1992.",
+    "link": "https://www.foxnews.com/world/melting-swiss-glacier-reveals-remains-two-belgian-mountaineers-missing-1992",
+    "published": "Thu, 20 Aug 2026 07:49:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5e948db753e7bb33807efda90b556471",
+    "fetched_at": "2026-08-21T14:26:23.923427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal",
+    "summary": "Deportees from Venezuela, Cuba and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the U.S. over the next year.",
+    "link": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
+    "published": "Thu, 20 Aug 2026 22:00:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "957ea06a2c5606ff48c0fc2f916e5d82",
+    "fetched_at": "2026-08-21T14:26:22.784619+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+    "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+    "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+    "published": "Thu, 20 Aug 2026 07:30:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "c19f8c5b898d893195510202a8377fab",
+    "fetched_at": "2026-08-21T14:26:21.676218+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happened to Harry and Meghan's American dream?",
+    "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+    "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 02:57:34 GMT",
+    "source": "BBC News",
+    "id": "e5ea854fc22b2d2d6973b1a255a730e5",
+    "fetched_at": "2026-08-21T14:26:20.566410+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
     "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
     "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "0cd6bd7525cd9e568e3612301a83c51e",
     "fetched_at": "2026-08-21T08:30:34.388115+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five missing after fire in Swiss Alpine town",
-    "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 07:06:16 GMT",
-    "source": "BBC News",
-    "id": "3e2d7ad22220c5637cd85e3699072e03",
-    "fetched_at": "2026-08-21T08:30:33.277547+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-    "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-    "published": "Thu, 20 Aug 2026 01:50:53 -0400",
-    "source": "NPR Topics: World",
-    "id": "759d4326fa0aa03ceb6b65d526da2c29",
-    "fetched_at": "2026-08-21T08:30:32.112628+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-    "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-    "published": "Thu, 20 Aug 2026 02:17:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "372dcd01660644a9ced97f60c95edf2b",
-    "fetched_at": "2026-08-21T08:30:30.991825+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
-    "summary": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied.",
-    "link": "https://www.bbc.co.uk/news/articles/cgew3drznd1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 01:16:43 GMT",
-    "source": "BBC News",
-    "id": "7c1af1bd367915bafa1479e1bfe83794",
-    "fetched_at": "2026-08-21T08:30:29.840510+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-    "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-    "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 05:30:18 GMT",
-    "source": "BBC News",
-    "id": "32fe99832a1eee48d1190e2f29fb4e76",
-    "fetched_at": "2026-08-21T06:33:03.667931+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
-    "summary": "Serbia has seen the remains of a century-old steam tug emerge from the Sava River near Sremska Mitrovica, after prolonged heat and drought drove water levels exceptionally low.",
-    "link": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
-    "published": "Thu, 20 Aug 2026 14:54:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2a53a4b31db857799a80d106ea154940",
-    "fetched_at": "2026-08-21T06:33:03.667927+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
-    "summary": "Railway officials said it was unclear why the workers did not leave the site when the train was approaching, or what the lookout people were doing.",
-    "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
-    "published": "Thu, 20 Aug 2026 15:10:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a6fbc642ec6cf9743e76e4cb056fc0c5",
-    "fetched_at": "2026-08-21T06:33:03.667898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 21st, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/21/latest-news-bulletin-august-21st-2026-morning",
-    "published": "Fri, 21 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "149512999ce369d39af24448fe0aa6e3",
-    "fetched_at": "2026-08-21T06:33:02.513799+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australia charges man over trying to inform Russia of Ukrainian military activities",
-    "summary": "The crime of intentional foreign interference carries a penalty of 20 years' imprisonment in Australia.",
-    "link": "http://www.euronews.com/2026/08/21/australia-charges-man-over-trying-to-inform-russia-of-ukrainian-military-activities",
-    "published": "Fri, 21 Aug 2026 07:07:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "46c45d0a424663c7c300636dd25648cb",
-    "fetched_at": "2026-08-21T06:33:01.399951+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UNSC to hold second informal vote for organisation's next secretary general",
-    "summary": "Costa Rica's Rebeca Grynspan was the front-runner after last month's first informal vote, in which the council's 15 members, including the five with veto power, pass judgment in secret on the candidates.",
-    "link": "http://www.euronews.com/2026/08/21/unsc-to-hold-second-informal-vote-for-organisations-next-secretary-general",
-    "published": "Fri, 21 Aug 2026 07:29:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a4617fa5df5db9707116804d64e74497",
-    "fetched_at": "2026-08-21T06:33:00.259778+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Panama Canal to reduce shipping as El Niño fuels drought in lakes that feed waterway",
-    "summary": "The operator said it does not rule out further restrictions on shipping depending on how much it rains in the coming weeks.",
-    "link": "http://www.euronews.com/2026/08/21/panama-canal-to-reduce-shipping-as-el-nino-fuels-drought-in-lakes-that-feed-waterway",
-    "published": "Fri, 21 Aug 2026 08:18:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "134538d44d247b06e3a23433e0844dcb",
-    "fetched_at": "2026-08-21T06:32:59.118647+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Verstappen extends Red Bull deal to 2030",
-    "summary": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:09:34 GMT",
-    "source": "BBC News",
-    "id": "abbd605ade090db1964d191985268f5b",
-    "fetched_at": "2026-08-21T06:32:57.972625+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-    "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-    "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 13:04:15 GMT",
-    "source": "BBC News",
-    "id": "8ebdfda3a384faae18f9e2d02ec64193",
-    "fetched_at": "2026-08-21T06:32:56.832352+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
-    "summary": "Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
-    "link": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
-    "published": "Wed, 19 Aug 2026 07:15:00 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "14042b1daa24c1bb0c6034b16d5a55eb",
-    "fetched_at": "2026-08-21T06:32:55.688085+00:00"
   }
 ]
