@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Russia conducts missile tests on disputed islands as Japan protests drills",
+    "summary": "The Pacific Fleet conducted a Bastion missile test just days after Putin's visit to the islands prompted Tokyo to summon Russia's ambassador to Japan and drew a US statement of support for Japanese sovereignty.",
+    "link": "http://www.euronews.com/2026/08/21/russia-conducts-missile-tests-on-disputed-islands-as-japan-protests-drills",
+    "published": "Fri, 21 Aug 2026 12:29:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "02d9816f454782c2b5ea932405cccdca",
+    "fetched_at": "2026-08-22T02:47:39.148263+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mongolia hosts UN desertification summit as drought crisis deepens",
+    "summary": "Mongolia is hosting the UN Convention to Combat Desertification’s COP17 in Ulaanbaatar from 17 to 28 August, bringing together representatives from 196 countries and the European Union to tackle land degradation, drought and desertification.",
+    "link": "http://www.euronews.com/video/2026/08/21/mongolia-hosts-un-desertification-summit-as-drought-crisis-deepens",
+    "published": "Fri, 21 Aug 2026 12:40:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eadd28a20ec9455f6083334f3cee8c26",
+    "fetched_at": "2026-08-22T02:47:38.035551+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hungary’s lakes and rivers hit record lows as severe drought deepens",
+    "summary": "Hungary is facing a severe water crisis, with prolonged heat and drought driving water levels sharply lower. Around 99% of the country is under severe or extreme drought, while desertification threatens the Great Hungarian Plain.",
+    "link": "http://www.euronews.com/video/2026/08/21/hungarys-lakes-and-rivers-hit-record-lows-as-severe-drought-deepens",
+    "published": "Fri, 21 Aug 2026 12:54:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8cb41640b2d0575cc57ed4374540327e",
+    "fetched_at": "2026-08-22T02:47:36.896370+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 300 migrants, including 40 children, rescued off Mauritania, coastguard says",
+    "summary": "Thousands of people have for years attempted the perilous Atlantic route on overloaded and often dilapidated boats to reach Europe via Spain's Canary Islands.",
+    "link": "http://www.euronews.com/2026/08/21/more-than-300-migrants-including-40-children-rescued-off-mauritania-coastguard-says",
+    "published": "Fri, 21 Aug 2026 13:25:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6f98eb7bc1895f20fb266b9d4d98bff4",
+    "fetched_at": "2026-08-22T02:47:35.775525+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ebola outbreak in Democratic Republic of the Congo 'growing exponentially,' UN warns",
     "summary": "The Ebola outbreak is already the biggest in the country's history and is spreading faster than any outbreak on record.",
     "link": "http://www.euronews.com/2026/08/21/ebola-outbreak-in-democratic-republic-of-the-congo-growing-exponentially-un-warns",
@@ -558,45 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "df0f14fd9bb0a8f9ed9feceb4de1a74e",
     "fetched_at": "2026-08-21T14:26:25.028186+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992",
-    "summary": "DNA testing confirmed remains found on a Swiss Alps glacier belong to two Belgian mountaineers who vanished in the Weissmies region in 1992.",
-    "link": "https://www.foxnews.com/world/melting-swiss-glacier-reveals-remains-two-belgian-mountaineers-missing-1992",
-    "published": "Thu, 20 Aug 2026 07:49:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5e948db753e7bb33807efda90b556471",
-    "fetched_at": "2026-08-21T14:26:23.923427+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal",
-    "summary": "Deportees from Venezuela, Cuba and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the U.S. over the next year.",
-    "link": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
-    "published": "Thu, 20 Aug 2026 22:00:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "957ea06a2c5606ff48c0fc2f916e5d82",
-    "fetched_at": "2026-08-21T14:26:22.784619+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-    "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-    "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-    "published": "Thu, 20 Aug 2026 07:30:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "c19f8c5b898d893195510202a8377fab",
-    "fetched_at": "2026-08-21T14:26:21.676218+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happened to Harry and Meghan's American dream?",
-    "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-    "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 02:57:34 GMT",
-    "source": "BBC News",
-    "id": "e5ea854fc22b2d2d6973b1a255a730e5",
-    "fetched_at": "2026-08-21T14:26:20.566410+00:00"
   }
 ]
