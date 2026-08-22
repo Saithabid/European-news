@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+    "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+    "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 05:01:24 GMT",
+    "source": "BBC News",
+    "id": "02ffc42f90d155c816d83f2f93169f7a",
+    "fetched_at": "2026-08-22T18:18:13.374341+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+    "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+    "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 10:03:17 GMT",
+    "source": "BBC News",
+    "id": "7ca36f8001cbb520aede90be90601516",
+    "fetched_at": "2026-08-22T18:18:12.230331+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+    "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 17:14:55 GMT",
+    "source": "BBC News",
+    "id": "3a0b7c777586fad77cceef73e4748180",
+    "fetched_at": "2026-08-22T18:18:11.100219+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+    "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+    "source": "BBC News",
+    "id": "9ac521e6c1d0e55c80c94cfb61dad260",
+    "fetched_at": "2026-08-22T18:18:09.955405+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
+    "summary": "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
+    "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
+    "published": "Wed, 19 Aug 2026 11:23:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9c1e87095246bf6dbcd67630ac6f7778",
+    "fetched_at": "2026-08-22T18:18:08.809746+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
+    "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel&apos;s resolve after the Abu al-Duhur airbase strike in Syria.",
+    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
+    "published": "Thu, 20 Aug 2026 13:12:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d3b1cdb68949179fab05a490dfa239cb",
+    "fetched_at": "2026-08-22T18:18:07.680008+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+    "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+    "source": "BBC News",
+    "id": "ec14d6f8b174b1a0a00e8742187e5dd4",
+    "fetched_at": "2026-08-22T18:18:06.429167+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US military newspaper editor voices censorship fears after being fired",
+    "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 16:57:19 GMT",
+    "source": "BBC News",
+    "id": "6aff67f95a98cf54e85d44bef422e974",
+    "fetched_at": "2026-08-22T18:18:05.275578+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
     "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
     "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "faccaf7921663f85934c2f163a273123",
     "fetched_at": "2026-08-22T00:48:20.251870+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-    "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-    "published": "Thu, 20 Aug 2026 03:31:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "2b816a398256fc161d6e28286052c016",
-    "fetched_at": "2026-08-22T00:48:19.140732+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "North Korea fires a suspected missile toward the sea, Japan says",
-    "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-    "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-    "published": "Thu, 20 Aug 2026 05:24:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "f93adf1ff702978a9f6b209830c87bd3",
-    "fetched_at": "2026-08-22T00:48:18.039664+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wars are happening across the world. Many of them are connected",
-    "summary": "<em>All Thing Considered</em> host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
-    "published": "Thu, 20 Aug 2026 16:05:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "441896ed079048bee4527a98b37c80c7",
-    "fetched_at": "2026-08-22T00:48:16.940755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-    "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
-    "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-    "published": "Fri, 21 Aug 2026 07:25:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "c0ebc064fed17508558d13a8afe646dd",
-    "fetched_at": "2026-08-22T00:48:15.839941+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-    "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
-    "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-    "published": "Fri, 21 Aug 2026 07:42:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "8a53d589015c5c84ca3c6108bb6587c1",
-    "fetched_at": "2026-08-21T22:15:31.275047+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Big tech companies will have to pay to publish Australian news content under new laws",
-    "summary": "Australia has passed a law requiring major tech platforms such as Google and Meta to strike deals with Australian news publishers or pay a levy on their advertising revenue.",
-    "link": "https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws",
-    "published": "Fri, 21 Aug 2026 17:34:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "53c917c8209083d0d3ac8f752587a0c4",
-    "fetched_at": "2026-08-21T22:15:30.152731+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Warning signs flash on US economy as debt spirals",
-    "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 08:38:18 GMT",
-    "source": "BBC News",
-    "id": "6a9857b2918f921352b0df61d99a941e",
-    "fetched_at": "2026-08-21T22:15:29.016463+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-    "summary": "A list of expensive New York homes has sparked a controversy as Mamdani implements a second home tax.",
-    "link": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 05:02:39 GMT",
-    "source": "BBC News",
-    "id": "e9790fb34c1a96fe6b8dfc66619fa9fa",
-    "fetched_at": "2026-08-21T22:15:27.873195+00:00"
   }
 ]
