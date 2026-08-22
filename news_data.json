@@ -1,5 +1,15 @@
 [
   {
+    "region": "Europe",
+    "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+    "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 13:07:00 GMT",
+    "source": "BBC News",
+    "id": "faccaf7921663f85934c2f163a273123",
+    "fetched_at": "2026-08-22T22:13:39.586910+00:00"
+  },
+  {
     "region": "USA",
     "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
     "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
@@ -588,15 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "957ea06a2c5606ff48c0fc2f916e5d82",
     "fetched_at": "2026-08-22T04:24:58.905384+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-    "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-    "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-    "published": "Thu, 20 Aug 2026 07:30:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "c19f8c5b898d893195510202a8377fab",
-    "fetched_at": "2026-08-22T04:24:57.755492+00:00"
   }
 ]
