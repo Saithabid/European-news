@@ -1,5 +1,25 @@
 [
   {
+    "region": "USA",
+    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+    "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 12:20:46 GMT",
+    "source": "BBC News",
+    "id": "a6f857f772e137ef558b4c71e108d0d8",
+    "fetched_at": "2026-08-23T04:28:59.936364+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mother suffering 'command hallucination' when she killed children, court hears",
+    "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+    "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 03:43:26 GMT",
+    "source": "BBC News",
+    "id": "68d5141c82e91424874d9d918d9062d3",
+    "fetched_at": "2026-08-23T04:28:58.812389+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Swedish sword attack victim was 17-year-old girl, police say",
     "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
@@ -578,25 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "ef623692ccd8f6e71d43934ff743c8f5",
     "fetched_at": "2026-08-22T06:26:15.607903+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Christian Zionists take on anti-Israel ‘propaganda’ from biblical heartland",
-    "summary": "The Israel Guys inaugurated a major visitor center in Har Bracha on the West Bank, inviting Christians in Israel to see Judea and Samaria&apos;s biblical heartland firsthand.",
-    "link": "https://www.foxnews.com/world/christian-zionists-take-on-anti-israel-propaganda-from-biblical-heartland",
-    "published": "Thu, 20 Aug 2026 06:55:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "df0f14fd9bb0a8f9ed9feceb4de1a74e",
-    "fetched_at": "2026-08-22T06:26:14.479174+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-    "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed.",
-    "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-    "published": "Sat, 22 Aug 2026 00:36:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "617fd47de4a8eee6eac0e7c74c1be412",
-    "fetched_at": "2026-08-22T06:26:13.384350+00:00"
   }
 ]
