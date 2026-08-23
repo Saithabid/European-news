@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Swedish sword attack victim was 17-year-old girl, police say",
+    "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 01:34:15 GMT",
+    "source": "BBC News",
+    "id": "86f33993079b2ec617824e8bcd31b377",
+    "fetched_at": "2026-08-23T02:55:34.742058+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992",
+    "summary": "DNA testing confirmed remains found on a Swiss Alps glacier belong to two Belgian mountaineers who vanished in the Weissmies region in 1992.",
+    "link": "https://www.foxnews.com/world/melting-swiss-glacier-reveals-remains-two-belgian-mountaineers-missing-1992",
+    "published": "Thu, 20 Aug 2026 07:49:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5e948db753e7bb33807efda90b556471",
+    "fetched_at": "2026-08-23T02:55:33.627889+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal",
+    "summary": "Deportees from Venezuela, Cuba and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the U.S. over the next year.",
+    "link": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
+    "published": "Thu, 20 Aug 2026 22:00:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "957ea06a2c5606ff48c0fc2f916e5d82",
+    "fetched_at": "2026-08-23T02:55:32.518590+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman in her 30s who pretended to be a child and lived with family found guilty of fraud",
+    "summary": "Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.",
+    "link": "https://www.foxnews.com/world/woman-30s-pretended-child-lived-family-found-guilty-fraud",
+    "published": "Sat, 22 Aug 2026 21:22:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "93d7c80e66e9c2c30f903df04b7c0cfb",
+    "fetched_at": "2026-08-23T02:55:31.346373+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Syria says Israeli strike near Damascus violation of international law",
     "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
     "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "NPR Topics: World",
     "id": "617fd47de4a8eee6eac0e7c74c1be412",
     "fetched_at": "2026-08-22T06:26:13.384350+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-    "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 19:59:30 GMT",
-    "source": "BBC News",
-    "id": "4816bab8e0f71b91303b5191800e38ec",
-    "fetched_at": "2026-08-22T06:26:12.275009+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-    "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
-    "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 02:39:10 GMT",
-    "source": "BBC News",
-    "id": "c2e0b1efe57be331809beee28f17a294",
-    "fetched_at": "2026-08-22T06:26:11.163361+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mother suffering 'command hallucination' when she killed children, court hears",
-    "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-    "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 03:43:26 GMT",
-    "source": "BBC News",
-    "id": "68d5141c82e91424874d9d918d9062d3",
-    "fetched_at": "2026-08-22T06:26:10.051015+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-    "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 04:46:33 GMT",
-    "source": "BBC News",
-    "id": "a6f857f772e137ef558b4c71e108d0d8",
-    "fetched_at": "2026-08-22T06:26:08.934829+00:00"
   }
 ]
