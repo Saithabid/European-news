@@ -1,6 +1,26 @@
 [
   {
     "region": "Europe",
+    "title": "Syria says Israeli strike near Damascus violation of international law",
+    "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 21:42:42 GMT",
+    "source": "BBC News",
+    "id": "e1f24892318ed49926b7e2c9f2a3033b",
+    "fetched_at": "2026-08-23T00:52:53.393540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+    "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+    "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+    "published": "Thu, 20 Aug 2026 07:30:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "c19f8c5b898d893195510202a8377fab",
+    "fetched_at": "2026-08-23T00:52:52.248157+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
     "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
     "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
@@ -578,25 +598,5 @@
     "source": "BBC News",
     "id": "a6f857f772e137ef558b4c71e108d0d8",
     "fetched_at": "2026-08-22T06:26:08.934829+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992",
-    "summary": "DNA testing confirmed remains found on a Swiss Alps glacier belong to two Belgian mountaineers who vanished in the Weissmies region in 1992.",
-    "link": "https://www.foxnews.com/world/melting-swiss-glacier-reveals-remains-two-belgian-mountaineers-missing-1992",
-    "published": "Thu, 20 Aug 2026 07:49:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5e948db753e7bb33807efda90b556471",
-    "fetched_at": "2026-08-22T04:25:00.043619+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal",
-    "summary": "Deportees from Venezuela, Cuba and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the U.S. over the next year.",
-    "link": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
-    "published": "Thu, 20 Aug 2026 22:00:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "957ea06a2c5606ff48c0fc2f916e5d82",
-    "fetched_at": "2026-08-22T04:24:58.905384+00:00"
   }
 ]
