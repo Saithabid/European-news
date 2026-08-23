@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+    "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 11:50:59 GMT",
+    "source": "BBC News",
+    "id": "6e0b132f2dbcbc4bf865b079413491b6",
+    "fetched_at": "2026-08-23T12:24:01.411557+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+    "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+    "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 14:35:11 GMT",
+    "source": "BBC News",
+    "id": "515cead9f59a5c86ef31259ac21b0a64",
+    "fetched_at": "2026-08-23T12:24:00.159217+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
+    "summary": "“This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.",
+    "link": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
+    "published": "Sat, 22 Aug 2026 11:08:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f131eced1cc9f256a45bb93c639e4c39",
+    "fetched_at": "2026-08-23T12:23:58.920459+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 22nd, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
+    "published": "Sat, 22 Aug 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "201306803b2c91b1028848dd723ae5be",
+    "fetched_at": "2026-08-23T12:23:57.767024+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five missing after fire in Swiss Alpine town",
+    "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 13:10:39 GMT",
+    "source": "BBC News",
+    "id": "3e2d7ad22220c5637cd85e3699072e03",
+    "fetched_at": "2026-08-23T12:23:56.531426+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
     "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
     "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "BBC News",
     "id": "71ef80873beb09a2175d51dd3ab8606b",
     "fetched_at": "2026-08-22T14:13:47.202437+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US rapper BigXthaPlug arrested on drug and gun charges",
-    "summary": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 11:30:52 GMT",
-    "source": "BBC News",
-    "id": "9659aed7854e1068704668c06a9e4917",
-    "fetched_at": "2026-08-22T14:13:46.058168+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Laptop catches fire on US flight, with passenger treated at airport",
-    "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 10:27:25 GMT",
-    "source": "BBC News",
-    "id": "754ada3a99284cedebfd4fc3075343d8",
-    "fetched_at": "2026-08-22T14:13:44.898375+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
-    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
-    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
-    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "18e9e5a20c2d1e01c581f327bd95119e",
-    "fetched_at": "2026-08-22T12:22:59.236572+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-    "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-    "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 18:29:31 GMT",
-    "source": "BBC News",
-    "id": "31cbe05f83d7948594d2320cb13b5464",
-    "fetched_at": "2026-08-22T12:22:58.113603+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 07:53:57 GMT",
-    "source": "BBC News",
-    "id": "d9f278dc5e1aefe2945e00a1151bd2cd",
-    "fetched_at": "2026-08-22T10:15:15.493730+00:00"
   }
 ]
