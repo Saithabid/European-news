@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+    "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 17:24:25 GMT",
+    "source": "BBC News",
+    "id": "000819185c5444faefad31db8357c2ed",
+    "fetched_at": "2026-08-24T18:28:37.958960+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
+    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
+    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
+    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "18e9e5a20c2d1e01c581f327bd95119e",
+    "fetched_at": "2026-08-24T18:28:36.795752+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
+    "summary": "Benjamin Netanyahu claims Iran tried to murder one of his sons, urging enhanced protection for prime ministerial candidates during the election campaign.",
+    "link": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
+    "published": "Mon, 24 Aug 2026 14:13:26 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "93eae41971ebf98edc0bcf1d0c379518",
+    "fetched_at": "2026-08-24T18:28:35.642461+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+    "summary": "The fire has burned around 15,000 acres and is completely uncontained, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 17:42:33 GMT",
+    "source": "BBC News",
+    "id": "832e8b2626333e646356a73325214e6b",
+    "fetched_at": "2026-08-24T18:28:34.327159+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Golf brand apologises for advert that shows woman being pushed over",
+    "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 12:25:40 GMT",
+    "source": "BBC News",
+    "id": "b31263c66a6d9587806302b24a8dc840",
+    "fetched_at": "2026-08-24T18:28:33.193438+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+    "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 19:11:30 GMT",
+    "source": "BBC News",
+    "id": "5d3d5865ee0af53195c91893cd91fbf8",
+    "fetched_at": "2026-08-24T18:28:32.037284+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
+    "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 06:55:06 GMT",
+    "source": "BBC News",
+    "id": "19c67393e44d51295ebae1eccf42a5c5",
+    "fetched_at": "2026-08-24T18:28:30.893525+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 09:47:22 GMT",
+    "source": "BBC News",
+    "id": "5a7e430beea7481cb99473bc25bc4d92",
+    "fetched_at": "2026-08-24T18:28:29.748745+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "China probes use of formaldehyde to keep cabbages fresh",
     "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
     "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "96d9b31d85d68dddd57c0a34c9796dca",
     "fetched_at": "2026-08-24T10:30:12.449882+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New Zealand's government introduces legislation to ban social media for under-16s",
-    "summary": "Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.",
-    "link": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-    "published": "Mon, 24 Aug 2026 11:27:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fd82cc3a5e7ed76acf1bd6b61d435e82",
-    "fetched_at": "2026-08-24T10:30:12.449879+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 24th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
-    "published": "Mon, 24 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "626453088b480cdfa6925e9f6d97f9f2",
-    "fetched_at": "2026-08-24T10:30:12.449877+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-    "summary": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
-    "link": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-    "published": "Mon, 24 Aug 2026 12:02:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "28c702813637a0481705ca77f44f8df6",
-    "fetched_at": "2026-08-24T10:30:12.449873+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-    "summary": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements were \"fully monitored\".",
-    "link": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-    "published": "Mon, 24 Aug 2026 12:05:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7e928e955d29bb6a32a3c9ef6c25adb1",
-    "fetched_at": "2026-08-24T10:30:12.449843+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-    "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-    "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 16:26:53 GMT",
-    "source": "BBC News",
-    "id": "71ef80873beb09a2175d51dd3ab8606b",
-    "fetched_at": "2026-08-24T10:30:11.315403+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France links sharp rise in drownings to heatwaves",
-    "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 17:39:33 GMT",
-    "source": "BBC News",
-    "id": "361f1c6be236bf334bba42f663d66e3e",
-    "fetched_at": "2026-08-24T10:30:10.187949+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Frustration builds in Indiana town struggling without power for 12 days",
-    "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 15:54:32 GMT",
-    "source": "BBC News",
-    "id": "a765173fa45c38e72463bb72986732c2",
-    "fetched_at": "2026-08-24T10:30:09.027294+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-    "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
-    "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 10:05:22 GMT",
-    "source": "BBC News",
-    "id": "c60eeeee862f3df8b04f05800f20b68b",
-    "fetched_at": "2026-08-24T10:30:07.908263+00:00"
   }
 ]
