@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "King of Norway's health has worsened, palace says",
+    "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+    "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 08:31:55 GMT",
+    "source": "BBC News",
+    "id": "fcfa939e70188921d61e85c0f84b6c4f",
+    "fetched_at": "2026-08-24T22:17:43.758897+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+    "summary": "Experts warn that President Trump's transactional approach to an alliance will erode political trust.",
+    "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+    "published": "Fri, 21 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "604648a0e11cb70aa8a61896a7b8e54a",
+    "fetched_at": "2026-08-24T22:17:42.647112+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+    "summary": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+    "published": "Mon, 24 Aug 2026 07:27:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "ffa713b5302d35955ca7c0fe36e3905b",
+    "fetched_at": "2026-08-24T22:17:41.524300+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The view from Canada after U.S. trade negotiations collapse",
+    "summary": "NPR's Adrian Florido speaks with <em>The Globe</em> and <em>Mail</em> columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
+    "published": "Mon, 24 Aug 2026 16:40:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "4f0c9d820acaca74c2d6f0270b792829",
+    "fetched_at": "2026-08-24T22:17:40.402392+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 19:12:35 GMT",
+    "source": "BBC News",
+    "id": "432862cfd9a1d17914472502676c4f8a",
+    "fetched_at": "2026-08-24T22:17:39.263633+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+    "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+    "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 21:20:48 GMT",
+    "source": "BBC News",
+    "id": "bfd4a7d4e941d65c492a410a0de6e3ae",
+    "fetched_at": "2026-08-24T22:17:38.129887+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
     "summary": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
     "link": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
@@ -538,65 +598,5 @@
     "source": "BBC News",
     "id": "9ac521e6c1d0e55c80c94cfb61dad260",
     "fetched_at": "2026-08-24T12:33:07.133112+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
-    "summary": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 18:38:36 GMT",
-    "source": "BBC News",
-    "id": "19532a770f395cb8326fb3c11bcf421b",
-    "fetched_at": "2026-08-24T12:33:07.133108+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-    "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 10:40:22 GMT",
-    "source": "BBC News",
-    "id": "1b8c580b40322bf860e6bcda8d0a3cc0",
-    "fetched_at": "2026-08-24T12:33:07.133106+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
-    "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel&apos;s resolve after the Abu al-Duhur airbase strike in Syria.",
-    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
-    "published": "Thu, 20 Aug 2026 13:12:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d3b1cdb68949179fab05a490dfa239cb",
-    "fetched_at": "2026-08-24T12:33:07.133102+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
-    "summary": "China launched seasonal container service to Europe via Russia&apos;s Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
-    "link": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
-    "published": "Thu, 20 Aug 2026 14:22:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c8574cae15e738a5e0e762850cd8e642",
-    "fetched_at": "2026-08-24T12:33:07.133076+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
-    "summary": "Embattled Sinaloa Gov. Rubén Rocha Moya&apos;s abrupt reversal follows pointed remarks from Mexico&apos;s President Claudia Sheinbaum about putting nation above personal interest.",
-    "link": "https://www.foxnews.com/world/mexican-governor-facing-us-drug-charges-seeks-leave-one-day-after-returning-office",
-    "published": "Sun, 23 Aug 2026 13:08:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f868b06d4ed1263d48a3cb330572fe20",
-    "fetched_at": "2026-08-24T12:33:05.959913+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia imports gas as Ukrainian strikes result in shortages",
-    "summary": "Russia has begun importing fuel as Ukrainian strikes on Russian refineries and depots cause shortages.",
-    "link": "https://www.npr.org/2026/08/21/nx-s1-5939990/russia-imports-gas-as-ukrainian-strikes-result-in-shortages",
-    "published": "Fri, 21 Aug 2026 04:45:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "7a73b7c661960c29d3a63a77337c1b98",
-    "fetched_at": "2026-08-24T12:33:04.839686+00:00"
   }
 ]
