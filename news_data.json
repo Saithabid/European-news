@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "China probes use of formaldehyde to keep cabbages fresh",
+    "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 05:40:48 GMT",
+    "source": "BBC News",
+    "id": "1f3268ec1654dc9a2e3ad67ad1ac162b",
+    "fetched_at": "2026-08-24T16:26:37.299656+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nearly three million Teslas recalled in China over hidden door handles",
+    "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 05:01:17 GMT",
+    "source": "BBC News",
+    "id": "3cc8f2761671b6579b15280602c8294e",
+    "fetched_at": "2026-08-24T16:26:37.299653+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+    "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+    "source": "BBC News",
+    "id": "9a178bfc89689de555e16028d26f46f7",
+    "fetched_at": "2026-08-24T16:26:37.299651+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
+    "summary": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
+    "link": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+    "published": "Mon, 24 Aug 2026 17:04:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b7b36031aef60ffb8384b995cf455ccd",
+    "fetched_at": "2026-08-24T16:26:37.299647+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
+    "summary": "Around 10,000 people marched through Stockholm on Sunday demanding stronger climate action, a month before Sweden's general election.",
+    "link": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+    "published": "Mon, 24 Aug 2026 17:04:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8aaf99cca247a25fac8cd46bd430e783",
+    "fetched_at": "2026-08-24T16:26:37.299617+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis claim strike on Saudi tanker in latest Red Sea escalation",
+    "summary": "The missile struck a tanker 63 nautical miles west of Yanbu, setting it ablaze, in the latest strike under the Houthis' announced blockade of Saudi Arabia, threatening its ability to export millions of barrels of crude oil per day.",
+    "link": "http://www.euronews.com/2026/08/24/houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escalation",
+    "published": "Mon, 24 Aug 2026 17:54:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2972dd588562cd568a45c68ac855e5e7",
+    "fetched_at": "2026-08-24T16:26:36.180311+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 24th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
+    "published": "Mon, 24 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cf18a2fe0f066dfc4d2743c53f671fb1",
+    "fetched_at": "2026-08-24T16:26:35.056283+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fans suffer firework burns and eye injuries in Eredivisie",
+    "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\"  after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 11:13:53 GMT",
+    "source": "BBC News",
+    "id": "4118307d1b97452b82f003dd87912c64",
+    "fetched_at": "2026-08-24T16:26:33.933486+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+    "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 10:54:22 GMT",
+    "source": "BBC News",
+    "id": "e8355dd4072e68b6bfd4bd188bc88f0d",
+    "fetched_at": "2026-08-24T16:26:32.795351+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+    "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 12:51:10 GMT",
+    "source": "BBC News",
+    "id": "28d0d195ae8b99e3a74ea2f5751fc8bb",
+    "fetched_at": "2026-08-24T16:26:31.673020+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+    "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 15:54:16 GMT",
+    "source": "BBC News",
+    "id": "98e43ca0ba12ce57ba84e0ef84a58ed4",
+    "fetched_at": "2026-08-24T16:26:30.549125+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+    "summary": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+    "link": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+    "published": "Sun, 23 Aug 2026 06:00:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "40595d339c9e58659b8a707ad4576a84",
+    "fetched_at": "2026-08-24T16:26:29.420047+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Guinea rubbish landfill collapse kills 31",
     "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
     "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "c60eeeee862f3df8b04f05800f20b68b",
     "fetched_at": "2026-08-24T10:30:07.908263+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-    "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 10:08:40 GMT",
-    "source": "BBC News",
-    "id": "832e8b2626333e646356a73325214e6b",
-    "fetched_at": "2026-08-24T10:30:06.757086+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 19:11:30 GMT",
-    "source": "BBC News",
-    "id": "5d3d5865ee0af53195c91893cd91fbf8",
-    "fetched_at": "2026-08-24T10:30:05.608418+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Half my business will be gone' - Firms in Canada and US fear trade war",
-    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 09:47:22 GMT",
-    "source": "BBC News",
-    "id": "5a7e430beea7481cb99473bc25bc4d92",
-    "fetched_at": "2026-08-24T10:30:04.481500+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-    "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 06:55:06 GMT",
-    "source": "BBC News",
-    "id": "19c67393e44d51295ebae1eccf42a5c5",
-    "fetched_at": "2026-08-24T08:38:43.868479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "DR Congo and M23 fighters agree to roadmap for peace talks, Switzerland says",
-    "summary": "Both sides had previously signed an agreement in Doha last year, but fighting has continued in mineral-rich eastern DRC, a region that has endured years of conflict.",
-    "link": "http://www.euronews.com/2026/08/24/dr-congo-and-m23-fighters-agree-to-roadmap-for-peace-talks-switzerland-says",
-    "published": "Mon, 24 Aug 2026 07:28:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "13a61cc9a0cfbd7a037aeedbbbc431c1",
-    "fetched_at": "2026-08-24T08:38:43.868445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Beijing Robot Games: humanoids take on sprints, football and tai chi",
-    "summary": "More than 2,000 robots compete in races, football and tai chi at the Beijing Robot Games, testing the movement and stability of humanoid machines.",
-    "link": "http://www.euronews.com/video/2026/08/24/beijing-robot-games-humanoids-take-on-sprints-football-and-tai-chi",
-    "published": "Mon, 24 Aug 2026 09:09:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8c25e9d1b4172fdd029167050e36306f",
-    "fetched_at": "2026-08-24T08:38:42.718417+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US strike on alleged drug-smuggling boat in Pacific Ocean kills at least two",
-    "summary": "The US military launched operation \"Southern Spear\" in early September, with President Donald Trump arguing Washington is effectively at war with drug cartels operating out of Latin America.",
-    "link": "http://www.euronews.com/2026/08/24/us-strike-on-alleged-drug-smuggling-boat-in-pacific-ocean-kills-at-least-two",
-    "published": "Mon, 24 Aug 2026 10:00:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c402792ec59b82188ecf58743cd90a99",
-    "fetched_at": "2026-08-24T08:38:41.574410+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'New season, new trim' - Haaland reveals buzzcut",
-    "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 12:36:54 GMT",
-    "source": "BBC News",
-    "id": "06521b646d3fe1e7cf3a1224db4a4d75",
-    "fetched_at": "2026-08-24T08:38:40.414892+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
-    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
-    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
-    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "18e9e5a20c2d1e01c581f327bd95119e",
-    "fetched_at": "2026-08-24T08:38:39.279266+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US rapper BigXthaPlug arrested on drug and gun charges",
-    "summary": "The rapper, who has faced similar charges in the past, had been due to perform at the Country Rising Festival.",
-    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 09:16:22 GMT",
-    "source": "BBC News",
-    "id": "9659aed7854e1068704668c06a9e4917",
-    "fetched_at": "2026-08-24T08:38:38.123265+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Laptop catches fire on US flight, with passenger treated at airport",
-    "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
-    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 10:27:25 GMT",
-    "source": "BBC News",
-    "id": "754ada3a99284cedebfd4fc3075343d8",
-    "fetched_at": "2026-08-24T08:38:36.969270+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Golf brand apologises for advert that shows woman being pushed over",
-    "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 12:25:40 GMT",
-    "source": "BBC News",
-    "id": "b31263c66a6d9587806302b24a8dc840",
-    "fetched_at": "2026-08-24T08:38:35.826054+00:00"
   }
 ]
