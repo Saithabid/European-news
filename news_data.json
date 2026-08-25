@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 17:54:03 GMT",
+    "source": "BBC News",
+    "id": "ccf1632a0e8ba4dad2748c8409b2269e",
+    "fetched_at": "2026-08-25T18:28:15.256524+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Armenia detains former President Kocharyan on corruption charges",
+    "summary": "Robert Kocharyan, who leads the Moscow-friendly opposition and maintains close ties with Putin, was detained alongside his son and four others in raids on family businesses. Analysts say the move sent \"a signal to the Kremlin\" about Pashinyan's intent to confront Russian-aligned political forces.",
+    "link": "http://www.euronews.com/2026/08/25/armenia-detains-former-president-kocharyan-on-corruption-charges",
+    "published": "Tue, 25 Aug 2026 20:19:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2a702339fab766ad8956134bf42bd279",
+    "fetched_at": "2026-08-25T18:28:14.112598+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crash involving coach carrying German students injures 16",
+    "summary": "Eight people, including the driver of a delivery van, are seriously hurt, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 12:57:25 GMT",
+    "source": "BBC News",
+    "id": "6cb837dd50ba5d49427b46affcc90b71",
+    "fetched_at": "2026-08-25T18:28:12.981220+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+    "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 04:06:34 GMT",
+    "source": "BBC News",
+    "id": "ce812ed8847ab748bdc132f9b31f0a3c",
+    "fetched_at": "2026-08-25T18:28:11.843185+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+    "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+    "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 17:12:21 GMT",
+    "source": "BBC News",
+    "id": "9bd19af745ee4283fd69f6ed524305df",
+    "fetched_at": "2026-08-25T18:28:10.703249+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+    "summary": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+    "link": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+    "published": "Sun, 23 Aug 2026 06:00:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "40595d339c9e58659b8a707ad4576a84",
+    "fetched_at": "2026-08-25T18:28:09.570260+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US military plane lands in Moscow, with Kremlin claiming it has no information: report",
+    "summary": "A video has emerged showing a U.S. military C-17A Globemaster III aircraft approaching for a landing at Moscow, Russia&apos;s Vnukovo airport on Wednesday.",
+    "link": "https://www.foxnews.com/world/us-military-plane-lands-moscow-kremlin-claiming-no-information-report",
+    "published": "Tue, 25 Aug 2026 13:52:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a17536171357b9cecb0c2cb134c64561",
+    "fetched_at": "2026-08-25T18:28:08.420603+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Relief may be near for Indiana city after days without power",
+    "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+    "link": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 16:33:34 GMT",
+    "source": "BBC News",
+    "id": "15fda099ca259e154b202f28549366e6",
+    "fetched_at": "2026-08-25T18:28:07.276123+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mongolia positions itself as Asia's next data centre hub",
     "summary": "During the COP17 conference in Ulaanbaatar, Mongolia offered potential data centre investors tax relief, data security, cheap energy, land, and cold weather.",
     "link": "http://www.euronews.com/2026/08/25/mongolia-positions-itself-as-asias-next-data-centre-hub",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "28efbfac566e8361fbda222a0936ba0f",
     "fetched_at": "2026-08-25T10:23:51.126432+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Viking Age anchor recreated with hammer and bellows in Denmark",
-    "summary": "Blacksmiths recreate a Viking Age anchor with bloomery iron and historic techniques at Aggersborg in northern Denmark.",
-    "link": "http://www.euronews.com/video/2026/08/25/watch-viking-age-anchor-recreated-with-hammer-and-bellows-in-denmark",
-    "published": "Tue, 25 Aug 2026 11:19:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f2974e887be29fc7088520ba79340241",
-    "fetched_at": "2026-08-25T10:23:51.126429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN and Red Cross warn 'risks have intensified,' urge regulation of killer robots",
-    "summary": "Lethal autonomous weapon systems are generally understood as weapon systems that select targets and apply force without human intervention.",
-    "link": "http://www.euronews.com/2026/08/25/un-and-red-cross-warn-risks-have-intensified-urge-regulation-of-killer-robots",
-    "published": "Tue, 25 Aug 2026 11:29:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8ee1393b21db9755c924af03f409d21b",
-    "fetched_at": "2026-08-25T10:23:51.126425+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
-    "summary": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.",
-    "link": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
-    "published": "Tue, 25 Aug 2026 11:48:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2c9fbf0b1a5a19d6bfbff8cd9ad8a920",
-    "fetched_at": "2026-08-25T10:23:51.126397+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 25th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-midday",
-    "published": "Tue, 25 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6c324061312a3dafa71a10bc6f72f325",
-    "fetched_at": "2026-08-25T10:23:50.001795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
-    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
-    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
-    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "18e9e5a20c2d1e01c581f327bd95119e",
-    "fetched_at": "2026-08-25T10:23:48.837683+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
-    "summary": "Benjamin Netanyahu claims Iran tried to murder one of his sons, urging enhanced protection for prime ministerial candidates during the election campaign.",
-    "link": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
-    "published": "Mon, 24 Aug 2026 14:13:26 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "93eae41971ebf98edc0bcf1d0c379518",
-    "fetched_at": "2026-08-25T10:23:47.706254+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-    "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
-    "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-    "published": "Tue, 25 Aug 2026 05:07:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "bfb73b2162a4f5eec5362dbf8876f2f6",
-    "fetched_at": "2026-08-25T10:23:46.571087+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US firefighters say major blaze near Reno about a quarter contained",
-    "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 09:49:02 GMT",
-    "source": "BBC News",
-    "id": "832e8b2626333e646356a73325214e6b",
-    "fetched_at": "2026-08-25T10:23:45.427731+00:00"
   }
 ]
