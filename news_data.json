@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+    "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 13:56:22 GMT",
+    "source": "BBC News",
+    "id": "9a178bfc89689de555e16028d26f46f7",
+    "fetched_at": "2026-08-25T08:33:03.340877+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 24th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
+    "published": "Mon, 24 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cf18a2fe0f066dfc4d2743c53f671fb1",
+    "fetched_at": "2026-08-25T08:33:02.206614+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tornado rips through French village, injuring at least 31",
+    "summary": "A tornado tears through Pomas in southern France, damaging homes and roofs and injuring 31 people as severe storms hit the Aude region.",
+    "link": "http://www.euronews.com/video/2026/08/25/tornado-rips-through-french-village-injuring-at-least-31",
+    "published": "Tue, 25 Aug 2026 08:42:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "55a8b3f37889327e31b5da6b65bb9a08",
+    "fetched_at": "2026-08-25T08:33:01.075215+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Indonesian Muslims brave choking smoke to pray for rain as country battles wildfires",
+    "summary": "Emergency services have been battling fires driven by an intensifying El Niño climate pattern and a prolonged dry season, generating dense smoke that crossed into Malaysia and Brunei.",
+    "link": "http://www.euronews.com/2026/08/25/indonesian-muslims-brave-choking-smoke-to-pray-for-rain-as-country-battles-wildfires",
+    "published": "Tue, 25 Aug 2026 10:27:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bab708431bfc272acdd35df9b9c49833",
+    "fetched_at": "2026-08-25T08:32:59.937148+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fans suffer firework burns and eye injuries in Eredivisie",
+    "summary": "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\"  after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 11:13:53 GMT",
+    "source": "BBC News",
+    "id": "4118307d1b97452b82f003dd87912c64",
+    "fetched_at": "2026-08-25T08:32:58.816982+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dutch broadcaster pulls out of  2027 Eurovision Song Contest",
+    "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 10:54:22 GMT",
+    "source": "BBC News",
+    "id": "e8355dd4072e68b6bfd4bd188bc88f0d",
+    "fetched_at": "2026-08-25T08:32:57.685172+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+    "summary": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+    "link": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+    "published": "Sun, 23 Aug 2026 06:00:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "40595d339c9e58659b8a707ad4576a84",
+    "fetched_at": "2026-08-25T08:32:56.532777+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 09:47:22 GMT",
+    "source": "BBC News",
+    "id": "5a7e430beea7481cb99473bc25bc4d92",
+    "fetched_at": "2026-08-25T08:32:55.377787+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
     "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
     "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "a765173fa45c38e72463bb72986732c2",
     "fetched_at": "2026-08-24T20:21:03.364214+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Doug Ford's blunt warning to Trump over Canada tariffs",
-    "summary": "Ontario Premier Doug Ford lists the ways Canada could hurt the US economy - and uses blunt language to taunt the US president.",
-    "link": "https://www.bbc.co.uk/news/videos/cx2zgr4272zo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 19:45:59 GMT",
-    "source": "BBC News",
-    "id": "91496d3a0d69c234413d433acaa96daf",
-    "fetched_at": "2026-08-24T20:21:02.219883+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-    "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 17:24:25 GMT",
-    "source": "BBC News",
-    "id": "000819185c5444faefad31db8357c2ed",
-    "fetched_at": "2026-08-24T18:28:37.958960+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Portugal enacts 'burqa law' largely prohibiting face coverings in public",
-    "summary": "Portuguese President António José Seguro has enacted a measure that bans people from covering up their face while in public places, with some exceptions, AFP reported.",
-    "link": "https://www.foxnews.com/world/portugal-enacts-burqa-law-largely-prohibiting-face-coverings-public",
-    "published": "Fri, 21 Aug 2026 14:13:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "18e9e5a20c2d1e01c581f327bd95119e",
-    "fetched_at": "2026-08-24T18:28:36.795752+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
-    "summary": "Benjamin Netanyahu claims Iran tried to murder one of his sons, urging enhanced protection for prime ministerial candidates during the election campaign.",
-    "link": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
-    "published": "Mon, 24 Aug 2026 14:13:26 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "93eae41971ebf98edc0bcf1d0c379518",
-    "fetched_at": "2026-08-24T18:28:35.642461+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-    "summary": "The fire has burned around 15,000 acres and is completely uncontained, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 17:42:33 GMT",
-    "source": "BBC News",
-    "id": "832e8b2626333e646356a73325214e6b",
-    "fetched_at": "2026-08-24T18:28:34.327159+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Golf brand apologises for advert that shows woman being pushed over",
-    "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 12:25:40 GMT",
-    "source": "BBC News",
-    "id": "b31263c66a6d9587806302b24a8dc840",
-    "fetched_at": "2026-08-24T18:28:33.193438+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 19:11:30 GMT",
-    "source": "BBC News",
-    "id": "5d3d5865ee0af53195c91893cd91fbf8",
-    "fetched_at": "2026-08-24T18:28:32.037284+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
-    "summary": "It is the football with which the star scored an infamous goal in a 1986 World Cup win against England.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 06:55:06 GMT",
-    "source": "BBC News",
-    "id": "19c67393e44d51295ebae1eccf42a5c5",
-    "fetched_at": "2026-08-24T18:28:30.893525+00:00"
   }
 ]
