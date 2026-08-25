@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Brain disease in dead NFL players 'higher than previously shown'",
+    "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 11:54:40 GMT",
+    "source": "BBC News",
+    "id": "a5f0d4dae6316ace72334425da5e2bdb",
+    "fetched_at": "2026-08-25T22:18:24.481888+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+    "summary": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+    "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+    "published": "Tue, 25 Aug 2026 07:09:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "0f51320a954d6ab0a94c418525fb1c5b",
+    "fetched_at": "2026-08-25T22:18:23.338037+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A look back at Dolly Parton's life in pictures",
+    "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
+    "link": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 18:34:05 GMT",
+    "source": "BBC News",
+    "id": "db8e18ae28d387a17b6625094b0caf8e",
+    "fetched_at": "2026-08-25T22:18:22.171239+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dolly Parton: The life of an iconic country singer",
+    "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+    "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+    "source": "BBC News",
+    "id": "279c22934ad69687cfdeb4fcfc07a275",
+    "fetched_at": "2026-08-25T22:18:21.026363+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
     "summary": "The footage shows dozens of men, women and children sitting in a forest.",
     "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "361f1c6be236bf334bba42f663d66e3e",
     "fetched_at": "2026-08-25T12:32:52.791298+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Manga-inspired theme park to be built near Paris",
-    "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 19:57:55 GMT",
-    "source": "BBC News",
-    "id": "4465bc7e9a7c0f1aa20a42e76774e82d",
-    "fetched_at": "2026-08-25T12:32:52.791295+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
-    "summary": "Scott Bessent&apos;s &quot;Economic D-Day&quot; against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
-    "link": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
-    "published": "Tue, 25 Aug 2026 08:09:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bbe4587d964cf85170d41238e533129f",
-    "fetched_at": "2026-08-25T12:32:52.791291+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-    "summary": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
-    "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-    "published": "Mon, 24 Aug 2026 07:27:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "ffa713b5302d35955ca7c0fe36e3905b",
-    "fetched_at": "2026-08-25T12:32:52.791264+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The view from Canada after U.S. trade negotiations collapse",
-    "summary": "NPR's Adrian Florido speaks with <em>The Globe</em> and <em>Mail</em> columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
-    "link": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
-    "published": "Mon, 24 Aug 2026 16:40:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "4f0c9d820acaca74c2d6f0270b792829",
-    "fetched_at": "2026-08-25T12:32:51.614289+00:00"
   }
 ]
