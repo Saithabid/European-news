@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Moment tornado tears through southern France",
+    "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+    "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 00:16:35 GMT",
+    "source": "BBC News",
+    "id": "b8f85c9645f6bbcbfbba7fe7b4edbc96",
+    "fetched_at": "2026-08-25T00:50:49.849517+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US removes Syria from list of state sponsors of terrorism",
+    "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda militant Ahmed al-Sharaa.",
+    "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 00:17:25 GMT",
+    "source": "BBC News",
+    "id": "dd33bd6fb5723861064a21d0c84d7d42",
+    "fetched_at": "2026-08-25T00:50:49.849513+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+    "summary": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 18:38:36 GMT",
+    "source": "BBC News",
+    "id": "19532a770f395cb8326fb3c11bcf421b",
+    "fetched_at": "2026-08-25T00:50:49.849490+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+    "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 10:40:22 GMT",
+    "source": "BBC News",
+    "id": "1b8c580b40322bf860e6bcda8d0a3cc0",
+    "fetched_at": "2026-08-25T00:50:48.729298+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Arctic power play gives top US adversary new opening with Russia as US stakes grow",
+    "summary": "China launched seasonal container service to Europe via Russia&apos;s Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.",
+    "link": "https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow",
+    "published": "Thu, 20 Aug 2026 14:22:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c8574cae15e738a5e0e762850cd8e642",
+    "fetched_at": "2026-08-25T00:50:47.592387+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
+    "summary": "Embattled Sinaloa Gov. Rubén Rocha Moya&apos;s abrupt reversal follows pointed remarks from Mexico&apos;s President Claudia Sheinbaum about putting nation above personal interest.",
+    "link": "https://www.foxnews.com/world/mexican-governor-facing-us-drug-charges-seeks-leave-one-day-after-returning-office",
+    "published": "Sun, 23 Aug 2026 13:08:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f868b06d4ed1263d48a3cb330572fe20",
+    "fetched_at": "2026-08-25T00:50:46.458306+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
+    "summary": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.",
+    "link": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
+    "published": "Mon, 24 Aug 2026 18:53:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ff26a776f97986dbfe14d4ff2e16f088",
+    "fetched_at": "2026-08-25T00:50:45.344425+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Syria off US terror blacklist after nearly 50 years as Trump admin clears investment hurdle",
+    "summary": "The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.",
+    "link": "https://www.foxnews.com/world/syria-off-us-terror-blacklist-after-nearly-50-years-trump-admin-clears-investment-hurdle",
+    "published": "Mon, 24 Aug 2026 20:34:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "29fc5764ac42d4c5ebdfb6444d43c988",
+    "fetched_at": "2026-08-25T00:50:44.227596+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "These American doctors treated Gaza's wounded. Then they came home to bear witness",
+    "summary": "The director of <em>American Doctor</em> and two physicians in the film discuss the challenges of treating Gaza's wounded civilians and why they believe the world must see what is happening there.",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5928030/american-doctor-documentary-gaza-healthcare",
+    "published": "Mon, 24 Aug 2026 04:45:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "38a0e5e61149a3f9a6beb21f22072b9b",
+    "fetched_at": "2026-08-25T00:50:43.114111+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+    "summary": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+    "published": "Mon, 24 Aug 2026 18:22:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "aac6f209278ccdec7620ed77b5628150",
+    "fetched_at": "2026-08-25T00:50:41.982514+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "King of Norway's health has worsened, palace says",
     "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
     "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "617fd47de4a8eee6eac0e7c74c1be412",
     "fetched_at": "2026-08-24T14:33:58.551488+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Learning to live in a post-American world",
-    "summary": "In a recent article for <em>Foregin Affairs</em>, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
-    "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-    "published": "Sun, 23 Aug 2026 17:21:23 -0400",
-    "source": "NPR Topics: World",
-    "id": "a9d12ad29e0bc2dd4161008d5cac482e",
-    "fetched_at": "2026-08-24T14:33:57.395575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
-    "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-    "published": "Mon, 24 Aug 2026 08:26:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "56cf259b71f2e75ca4044ed17faf6e22",
-    "fetched_at": "2026-08-24T14:33:56.276045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kanter Freedom ejected from WNBA game over player row",
-    "summary": "Former NBA player Enes Kanter Freedom is ejected from the Women's NBA match between the Chicago Sky and Indiana Fever after becoming involved in a verbal altercation with Sky guard Natasha Cloud.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/c87vg1j93pqo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 12:24:00 GMT",
-    "source": "BBC News",
-    "id": "232885067804ff31fc0a309cbf4b9e83",
-    "fetched_at": "2026-08-24T14:33:55.126129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New Zealand to introduce bill for under-16s social media ban",
-    "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-    "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 12:17:34 GMT",
-    "source": "BBC News",
-    "id": "cb8ea2fc4fc56851e2c6ecb6f9939d49",
-    "fetched_at": "2026-08-24T12:33:07.133124+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four arrested over suspected poisoning of elephants in Kenya",
-    "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-    "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 11:08:27 GMT",
-    "source": "BBC News",
-    "id": "918c6d44f88d330ef1808a7e2a98a6c7",
-    "fetched_at": "2026-08-24T12:33:07.133122+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Access to Zambian courts prevented as election petition deadline looms",
-    "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 11:17:28 GMT",
-    "source": "BBC News",
-    "id": "dc3dc7be0c5f148ef8d55cb90467ae64",
-    "fetched_at": "2026-08-24T12:33:07.133120+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'No place like Halkidiki': Travellers' vote of confidence as tourist profile shifts",
-    "summary": "There is \"nowhere like Halkidiki\" say locals and more than a million foreign tourists each year, yet geopolitical shifts in the past five years have changed who visits the area – an on-the-ground report by Euronews.",
-    "link": "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts",
-    "published": "Mon, 24 Aug 2026 13:13:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "82de30601bbfaaafd77c5bf19c8f548d",
-    "fetched_at": "2026-08-24T12:33:07.133118+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tens of thousands evacuated as Hawk wildfire nears western US city of Reno",
-    "summary": "No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.",
-    "link": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
-    "published": "Mon, 24 Aug 2026 13:38:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2ce535e5faeb0144d2b234c92d77883b",
-    "fetched_at": "2026-08-24T12:33:07.133116+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-    "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-    "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 10:03:17 GMT",
-    "source": "BBC News",
-    "id": "7ca36f8001cbb520aede90be90601516",
-    "fetched_at": "2026-08-24T12:33:07.133114+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-    "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 13:13:16 GMT",
-    "source": "BBC News",
-    "id": "9ac521e6c1d0e55c80c94cfb61dad260",
-    "fetched_at": "2026-08-24T12:33:07.133112+00:00"
   }
 ]
