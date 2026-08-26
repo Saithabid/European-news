@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | August 26th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-evening",
+    "published": "Wed, 26 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "801de9eb4f5609283cc34f0ec18d0319",
+    "fetched_at": "2026-08-26T16:42:37.378650+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+    "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 23:50:53 GMT",
+    "source": "BBC News",
+    "id": "4f57822a3718d81f613b2b22b6b70d76",
+    "fetched_at": "2026-08-26T16:42:37.378647+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Syria off US terror blacklist after nearly 50 years as Trump admin clears investment hurdle",
+    "summary": "The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.",
+    "link": "https://www.foxnews.com/world/syria-off-us-terror-blacklist-after-nearly-50-years-trump-admin-clears-investment-hurdle",
+    "published": "Mon, 24 Aug 2026 20:34:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "29fc5764ac42d4c5ebdfb6444d43c988",
+    "fetched_at": "2026-08-26T16:42:37.378644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
+    "summary": "Scott Bessent&apos;s &quot;Economic D-Day&quot; against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
+    "link": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
+    "published": "Tue, 25 Aug 2026 08:09:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bbe4587d964cf85170d41238e533129f",
+    "fetched_at": "2026-08-26T16:42:37.378613+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Denmark's left-wing PM warns: 'Big enemy has started to grow from within' as Europe faces migrant reckoning",
+    "summary": "Mette Frederiksen&apos;s stance on Denmark immigration and border control puts her at odds with Spain&apos;s PM, as she names failed integration and Islamist extremism as key threats.",
+    "link": "https://www.foxnews.com/world/denmarks-left-wing-pm-warns-big-enemy-has-started-grow-from-within-europe-faces-migrant-reckoning",
+    "published": "Tue, 25 Aug 2026 10:13:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "376f2b7c26dd7f4754b313fe922a8861",
+    "fetched_at": "2026-08-26T16:42:36.200760+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+    "summary": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure the community nestled in the hills above Port-au-Prince.",
+    "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+    "published": "Wed, 26 Aug 2026 01:45:34 -0400",
+    "source": "NPR Topics: World",
+    "id": "f95fa7c48e551f9f4c2d76ebf6c83cc2",
+    "fetched_at": "2026-08-26T16:42:35.089662+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+    "summary": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.",
+    "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
+    "published": "Wed, 26 Aug 2026 03:34:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "03c7b69e32609a34e7662959914efe0b",
+    "fetched_at": "2026-08-26T16:42:33.958839+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+    "summary": "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.",
+    "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
+    "published": "Wed, 26 Aug 2026 08:27:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "f13f9596fbf7a76c2b74d80017f3e489",
+    "fetched_at": "2026-08-26T16:42:32.822157+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+    "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+    "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 15:42:45 GMT",
+    "source": "BBC News",
+    "id": "3c9bc1c80d03eafe78cc8de56ae2330d",
+    "fetched_at": "2026-08-26T16:42:31.685948+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Olympic champion Liu announces break from competition",
+    "summary": "Women's Olympic figure skating champion Alysa Liu confirms that she will not compete during the 2026-27 season.",
+    "link": "https://www.bbc.co.uk/sport/articles/c2e0kp7r19no?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 16:25:34 GMT",
+    "source": "BBC News",
+    "id": "66a0fa901ab83d936f72c0882ca71a5a",
+    "fetched_at": "2026-08-26T16:42:30.545316+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How Parton became a fashion icon",
+    "summary": "Culture correspondent Noor Nanji explores how the country legend's signature style helped her take over the world.",
+    "link": "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 14:24:43 GMT",
+    "source": "BBC News",
+    "id": "c8b20a1452f65b73cc01affadf67edcb",
+    "fetched_at": "2026-08-26T16:42:29.404181+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
     "summary": "It is thought to be part of efforts to consolidate the former coup leader's control.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "a1b54986bfe6489f8f452d81ca792ead",
     "fetched_at": "2026-08-26T10:27:12.775843+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-    "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 10:40:22 GMT",
-    "source": "BBC News",
-    "id": "1b8c580b40322bf860e6bcda8d0a3cc0",
-    "fetched_at": "2026-08-26T10:27:11.676887+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
-    "summary": "Embattled Sinaloa Gov. Rubén Rocha Moya&apos;s abrupt reversal follows pointed remarks from Mexico&apos;s President Claudia Sheinbaum about putting nation above personal interest.",
-    "link": "https://www.foxnews.com/world/mexican-governor-facing-us-drug-charges-seeks-leave-one-day-after-returning-office",
-    "published": "Sun, 23 Aug 2026 13:08:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f868b06d4ed1263d48a3cb330572fe20",
-    "fetched_at": "2026-08-26T10:27:10.559757+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
-    "summary": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.",
-    "link": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
-    "published": "Mon, 24 Aug 2026 18:53:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ff26a776f97986dbfe14d4ff2e16f088",
-    "fetched_at": "2026-08-26T10:27:09.450317+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada's retaliation tests the limit of American power under Trump",
-    "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 08:47:18 GMT",
-    "source": "BBC News",
-    "id": "89339e2d3f5ff72d11249c31f828f21a",
-    "fetched_at": "2026-08-26T10:27:08.325608+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Dolly Parton told her life story through six iconic songs",
-    "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
-    "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 23:43:13 GMT",
-    "source": "BBC News",
-    "id": "f808620fdf8fc798d6ef792d66191e5f",
-    "fetched_at": "2026-08-26T10:27:07.200990+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dolly Parton was the one thing most Americans could agree on",
-    "summary": "The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.",
-    "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 08:11:14 GMT",
-    "source": "BBC News",
-    "id": "818f36968461f51ab8b734e985c0a4aa",
-    "fetched_at": "2026-08-26T10:27:06.087672+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Epstein accomplice Ghislaine Maxwell loses 'frivolous' bid to overturn US conviction",
-    "summary": "Maxwell was convicted in 2021 of supplying underage girls to Epstein, whose ties to powerful business executives, politicians, celebrities and academics have fuelled years of scrutiny and conspiracy theories.",
-    "link": "http://www.euronews.com/2026/08/26/epstein-accomplice-ghislaine-maxwell-loses-frivolous-bid-to-overturn-us-conviction",
-    "published": "Wed, 26 Aug 2026 08:51:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9b638f67c460afa9e020013fd54c508d",
-    "fetched_at": "2026-08-26T08:34:15.110239+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 50 kidnapped as violent gang attack in Haiti leaves at least 47 dead",
-    "summary": "In a video posted on social media, the gang leader threatened to kill the hostages if any of his members were harmed.",
-    "link": "http://www.euronews.com/2026/08/26/more-than-50-kidnapped-as-violent-gang-attack-in-haiti-leaves-at-least-47-dead",
-    "published": "Wed, 26 Aug 2026 09:40:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "351ec1f88f199875e903538735d64d5f",
-    "fetched_at": "2026-08-26T08:34:15.110210+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Haze from El Niño-fuelled wildfires threatens health of millions in Indonesia, ministry warns",
-    "summary": "Fires between January and July burned more than 200,000 hectares of land, an area three times the size of the capital Jakarta, the government said last week.",
-    "link": "http://www.euronews.com/2026/08/26/haze-from-el-nino-fuelled-wildfires-threatens-health-of-millions-in-indonesia-ministry-war",
-    "published": "Wed, 26 Aug 2026 09:54:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b195fb5c25c054829d83c028e1dfae46",
-    "fetched_at": "2026-08-26T08:34:13.951652+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 1,000 volunteers pull historic castle back to its original site in Japan",
-    "summary": "More than 1,000 volunteers pull Japan’s Hirosaki Castle back to its original site in Aomori after a decade of renovation work on the 400-year-old keep.",
-    "link": "http://www.euronews.com/video/2026/08/26/more-than-1000-volunteers-pull-historic-castle-back-to-its-original-site-in-japan",
-    "published": "Wed, 26 Aug 2026 10:03:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c2b4c9d13a1aef9f49bc236c28c276ed",
-    "fetched_at": "2026-08-26T08:34:12.799499+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Secret Service probes Iranian video threatening Barron Trump",
-    "summary": "The agency confirmed it was aware of the IRGC-affiliated broadcast on the US president's youngest son, which claimed a $10m bounty and alleged his movements were \"fully monitored\".",
-    "link": "http://www.euronews.com/2026/08/26/us-secret-service-probes-iranian-video-threatening-barron-trump",
-    "published": "Wed, 26 Aug 2026 10:26:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9739bb2ebcd3e7edb1b878f629453434",
-    "fetched_at": "2026-08-26T08:34:11.677119+00:00"
   }
 ]
