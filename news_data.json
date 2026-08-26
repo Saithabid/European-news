@@ -1,6 +1,46 @@
 [
   {
     "region": "Europe",
+    "title": "Manga-inspired theme park to be built near Paris",
+    "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+    "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 19:57:55 GMT",
+    "source": "BBC News",
+    "id": "4465bc7e9a7c0f1aa20a42e76774e82d",
+    "fetched_at": "2026-08-26T00:51:55.807587+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
+    "summary": "Scott Bessent&apos;s &quot;Economic D-Day&quot; against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
+    "link": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
+    "published": "Tue, 25 Aug 2026 08:09:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bbe4587d964cf85170d41238e533129f",
+    "fetched_at": "2026-08-26T00:51:54.694734+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+    "summary": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+    "published": "Mon, 24 Aug 2026 07:27:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "ffa713b5302d35955ca7c0fe36e3905b",
+    "fetched_at": "2026-08-26T00:51:53.577763+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The view from Canada after U.S. trade negotiations collapse",
+    "summary": "NPR's Adrian Florido speaks with <em>The Globe</em> and <em>Mail</em> columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
+    "published": "Mon, 24 Aug 2026 16:40:32 -0400",
+    "source": "NPR Topics: World",
+    "id": "4f0c9d820acaca74c2d6f0270b792829",
+    "fetched_at": "2026-08-26T00:51:52.442610+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Brain disease in dead NFL players 'higher than previously shown'",
     "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
     "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
@@ -558,45 +598,5 @@
     "source": "BBC News",
     "id": "96ad40e6482ccc158b53c996d045f684",
     "fetched_at": "2026-08-25T12:32:52.791309+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-    "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 11:53:36 GMT",
-    "source": "BBC News",
-    "id": "1394814e626e3e52b0f16b41ea821954",
-    "fetched_at": "2026-08-25T12:32:52.791306+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows tornado forming over village in France",
-    "summary": "A tornado filmed near Pomas in southern France damages about 300 homes and injures 39 people as rescue teams search affected villages.",
-    "link": "http://www.euronews.com/video/2026/08/25/video-shows-tornado-forming-over-village-in-france",
-    "published": "Tue, 25 Aug 2026 10:44:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "39eb74ccc4c8a788115deb2d61142700",
-    "fetched_at": "2026-08-25T12:32:52.791304+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mobilisation fears grip Russians as Kremlin's forced recruitment spikes",
-    "summary": "Human rights groups said they recorded a surge in forced recruitment since mid-August, amid reports that Russia is preparing a new mobilisation wave after September's elections.",
-    "link": "http://www.euronews.com/2026/08/25/mobilisation-fears-grip-russians-as-kremlins-forced-recruitment-spikes",
-    "published": "Tue, 25 Aug 2026 13:44:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b5c06a95dd6303e9aa77892ad4ee7a1c",
-    "fetched_at": "2026-08-25T12:32:52.791301+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France links sharp rise in drownings to heatwaves",
-    "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 17:39:33 GMT",
-    "source": "BBC News",
-    "id": "361f1c6be236bf334bba42f663d66e3e",
-    "fetched_at": "2026-08-25T12:32:52.791298+00:00"
   }
 ]
