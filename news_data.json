@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+    "summary": "It is thought to be part of efforts to consolidate the former coup leader's control.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 13:49:55 GMT",
+    "source": "BBC News",
+    "id": "5a22b6c067f702e7aef5eae5844fe53f",
+    "fetched_at": "2026-08-26T14:36:49.380075+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Flowers and memories: Fans pay tribute to Dolly Parton",
+    "summary": "Fans honour Dolly Parton in Nashville and Sevierville as New York's Empire State Building turns pink following the country music legend's death.",
+    "link": "http://www.euronews.com/video/2026/08/26/flowers-and-memories-fans-pay-tribute-to-dolly-parton",
+    "published": "Wed, 26 Aug 2026 14:47:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "972ec60d4d5cc685123a3148c796d954",
+    "fetched_at": "2026-08-26T14:36:49.380073+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hundreds missing as flash floods tear through Nepal",
+    "summary": "Flash floods send muddy waters through Nepal's Trishuli River as streets are covered in debris and police warn residents to stay alert.",
+    "link": "http://www.euronews.com/video/2026/08/26/hundreds-missing-as-flash-floods-tear-through-nepal",
+    "published": "Wed, 26 Aug 2026 15:52:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1f645d29d6890ab6c2bbd2d1ed6f8373",
+    "fetched_at": "2026-08-26T14:36:49.380070+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+    "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+    "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 17:12:21 GMT",
+    "source": "BBC News",
+    "id": "9bd19af745ee4283fd69f6ed524305df",
+    "fetched_at": "2026-08-26T14:36:49.380066+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+    "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
+    "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 19:11:40 GMT",
+    "source": "BBC News",
+    "id": "be19f6ca1401845914790198d2ee56d5",
+    "fetched_at": "2026-08-26T14:36:49.380063+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
+    "summary": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+    "link": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+    "published": "Sun, 23 Aug 2026 06:00:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "40595d339c9e58659b8a707ad4576a84",
+    "fetched_at": "2026-08-26T14:36:49.380060+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
+    "summary": "Benjamin Netanyahu claims Iran tried to murder one of his sons, urging enhanced protection for prime ministerial candidates during the election campaign.",
+    "link": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
+    "published": "Mon, 24 Aug 2026 14:13:26 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "93eae41971ebf98edc0bcf1d0c379518",
+    "fetched_at": "2026-08-26T14:36:49.380032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US military plane lands in Moscow, with Kremlin claiming it has no information: report",
+    "summary": "A video has emerged showing a U.S. military C-17A Globemaster III aircraft approaching for a landing at Moscow, Russia&apos;s Vnukovo airport on Wednesday.",
+    "link": "https://www.foxnews.com/world/us-military-plane-lands-moscow-kremlin-claiming-no-information-report",
+    "published": "Tue, 25 Aug 2026 13:52:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a17536171357b9cecb0c2cb134c64561",
+    "fetched_at": "2026-08-26T14:36:48.274928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+    "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
+    "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+    "published": "Tue, 25 Aug 2026 05:07:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "bfb73b2162a4f5eec5362dbf8876f2f6",
+    "fetched_at": "2026-08-26T14:36:47.173099+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+    "summary": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+    "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+    "published": "Tue, 25 Aug 2026 07:09:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "0f51320a954d6ab0a94c418525fb1c5b",
+    "fetched_at": "2026-08-26T14:36:46.059030+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Relief may be near for Indiana city after days without power",
+    "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+    "link": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 16:33:34 GMT",
+    "source": "BBC News",
+    "id": "15fda099ca259e154b202f28549366e6",
+    "fetched_at": "2026-08-26T14:36:44.942305+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+    "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 19:50:57 GMT",
+    "source": "BBC News",
+    "id": "ccf1632a0e8ba4dad2748c8409b2269e",
+    "fetched_at": "2026-08-26T14:36:43.845807+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meta agrees to pay up to $17.1bn to settle social media case",
+    "summary": "The deal has been reached during a California federal court trial over claims brought by 29 states.",
+    "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 14:10:17 GMT",
+    "source": "BBC News",
+    "id": "7283bce5c169a362c308eb698d9ad7bb",
+    "fetched_at": "2026-08-26T14:36:42.718909+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Heart, hope and a steely determination: Parton's musical legacy",
+    "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+    "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 11:32:11 GMT",
+    "source": "BBC News",
+    "id": "f90d56b6acf5e661c27e30e1b454ea5d",
+    "fetched_at": "2026-08-26T14:36:41.601072+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
     "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
     "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "9739bb2ebcd3e7edb1b878f629453434",
     "fetched_at": "2026-08-26T08:34:11.677119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Syria off US terror blacklist after nearly 50 years as Trump admin clears investment hurdle",
-    "summary": "The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.",
-    "link": "https://www.foxnews.com/world/syria-off-us-terror-blacklist-after-nearly-50-years-trump-admin-clears-investment-hurdle",
-    "published": "Mon, 24 Aug 2026 20:34:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "29fc5764ac42d4c5ebdfb6444d43c988",
-    "fetched_at": "2026-08-26T08:34:10.546982+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Denmark's left-wing PM warns: 'Big enemy has started to grow from within' as Europe faces migrant reckoning",
-    "summary": "Mette Frederiksen&apos;s stance on Denmark immigration and border control puts her at odds with Spain&apos;s PM, as she names failed integration and Islamist extremism as key threats.",
-    "link": "https://www.foxnews.com/world/denmarks-left-wing-pm-warns-big-enemy-has-started-grow-from-within-europe-faces-migrant-reckoning",
-    "published": "Tue, 25 Aug 2026 10:13:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "376f2b7c26dd7f4754b313fe922a8861",
-    "fetched_at": "2026-08-26T08:34:09.384425+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "6 months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-    "summary": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
-    "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-    "published": "Mon, 24 Aug 2026 18:22:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "aac6f209278ccdec7620ed77b5628150",
-    "fetched_at": "2026-08-26T08:34:08.244013+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-    "summary": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-    "published": "Wed, 26 Aug 2026 03:34:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "03c7b69e32609a34e7662959914efe0b",
-    "fetched_at": "2026-08-26T08:34:07.099643+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 26th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-morning",
-    "published": "Wed, 26 Aug 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c05efe5928b4006e5a1442592bbaa3ae",
-    "fetched_at": "2026-08-26T06:35:13.806351+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Next Atlantic tropical storm will be named Dolly but no connection to Parton's death",
-    "summary": "Storm systems are named by procedures set by the World Meteorological Organisation and the lists of names are reused every six years.",
-    "link": "http://www.euronews.com/2026/08/26/next-atlantic-tropical-storm-will-be-named-dolly-but-no-connection-to-partons-death",
-    "published": "Wed, 26 Aug 2026 07:15:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6b9c4704a600c4cf2b28ff5b12026d65",
-    "fetched_at": "2026-08-26T06:35:12.662374+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fire kills 14 newborns at major hospital in Pakistan, officials say",
-    "summary": "Poor enforcement of building safety regulations in Pakistan has been blamed for the high death toll in fires.",
-    "link": "http://www.euronews.com/2026/08/26/fire-kills-14-newborns-at-major-hospital-in-pakistan-officials-say",
-    "published": "Wed, 26 Aug 2026 08:19:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "117a967c2b09099f4befb1bfdedd7814",
-    "fetched_at": "2026-08-26T06:35:11.528376+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-    "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 23:50:53 GMT",
-    "source": "BBC News",
-    "id": "4f57822a3718d81f613b2b22b6b70d76",
-    "fetched_at": "2026-08-26T06:35:10.392950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-    "summary": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure the community nestled in the hills above Port-au-Prince.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-    "published": "Wed, 26 Aug 2026 01:45:34 -0400",
-    "source": "NPR Topics: World",
-    "id": "f95fa7c48e551f9f4c2d76ebf6c83cc2",
-    "fetched_at": "2026-08-26T06:35:09.234120+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran and Oman discuss temporary corridor in Strait or Hormuz",
-    "summary": "Iran and Oman held talks in Tehran to discuss the management of traffic passing through the Strait of Hormuz, as well as a joint mine-clearing project. Further negotiations are expected to discuss a permanent solution.",
-    "link": "http://www.euronews.com/2026/08/26/iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz",
-    "published": "Wed, 26 Aug 2026 05:25:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "20555e83b109e72487b86546b6962752",
-    "fetched_at": "2026-08-26T04:32:11.011477+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mobilisation fears grip Russians as Kremlin's forced recruitment spikes",
-    "summary": "Human rights groups said they recorded a surge in forced recruitment since mid-August, amid reports that Russia is preparing a new mobilisation wave after September's elections.",
-    "link": "http://www.euronews.com/2026/08/25/mobilisation-fears-grip-russians-as-kremlins-forced-recruitment-spikes",
-    "published": "Tue, 25 Aug 2026 13:44:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b5c06a95dd6303e9aa77892ad4ee7a1c",
-    "fetched_at": "2026-08-26T02:58:08.050929+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-    "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 11:53:36 GMT",
-    "source": "BBC News",
-    "id": "1394814e626e3e52b0f16b41ea821954",
-    "fetched_at": "2026-08-26T02:58:06.908818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Manga-inspired theme park to be built near Paris",
-    "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 19:57:55 GMT",
-    "source": "BBC News",
-    "id": "4465bc7e9a7c0f1aa20a42e76774e82d",
-    "fetched_at": "2026-08-26T00:51:55.807587+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
-    "summary": "Scott Bessent&apos;s &quot;Economic D-Day&quot; against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
-    "link": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
-    "published": "Tue, 25 Aug 2026 08:09:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bbe4587d964cf85170d41238e533129f",
-    "fetched_at": "2026-08-26T00:51:54.694734+00:00"
   }
 ]
