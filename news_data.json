@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "5.1-magnitude earthquake hits Colombia, forcing evacuations in Bogotá and Bucaramanga",
+    "summary": "According to the Colombian Geological Survey, the quake hit at around 11:45 am local time on Wednesday, with the epicentre in Los Santos, in Colombia's Santander department.",
+    "link": "http://www.euronews.com/2026/08/26/51-magnitude-earthquake-hits-colombia-forcing-evacuations-in-bogota-and-bucaramanga",
+    "published": "Wed, 26 Aug 2026 20:24:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4ca383ff1c5b4d0a2026c2943c2d810b",
+    "fetched_at": "2026-08-26T19:39:21.727437+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
+    "summary": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.",
+    "link": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
+    "published": "Mon, 24 Aug 2026 18:53:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ff26a776f97986dbfe14d4ff2e16f088",
+    "fetched_at": "2026-08-26T19:39:21.727406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watchdog demands apology after UN memorial erroneously honors Hamas terrorist",
+    "summary": "UN Watch says UNRWA teacher Imad Youssif El Samhouri glorified terrorism for years before the United Nations honored him at a memorial service.",
+    "link": "https://www.foxnews.com/world/watchdog-demands-apology-after-un-memorial-erroneously-honors-hamas-terrorist",
+    "published": "Wed, 26 Aug 2026 13:36:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4aea75693a2ed7e4f5e5215d200a25a6",
+    "fetched_at": "2026-08-26T19:39:20.580115+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Terrifying video captures people fleeing incoming mudslide at Nepal-China border",
+    "summary": "Video captures mudslides engulfing buildings in Gyirong, Tibet, minutes after a 4.4 magnitude earthquake triggered flash flooding near Nepal&apos;s border.",
+    "link": "https://www.foxnews.com/world/terrifying-video-captures-people-fleeing-incoming-mudslide-nepal-china-border",
+    "published": "Wed, 26 Aug 2026 13:49:05 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d6fbadf19ae879a400a4c7f459b2043a",
+    "fetched_at": "2026-08-26T19:39:19.440615+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hundreds of volunteers pull 360-tonne historic Japanese castle back into place by hand",
+    "summary": "About 1,800 volunteers pulled ropes to move the 360-tonne Hirosaki Castle keep back into position using hikiya, an ancient Japanese moving technique.",
+    "link": "https://www.foxnews.com/world/hundreds-volunteers-pull-360-tonne-historic-japanese-castle-back-into-place-by-hand",
+    "published": "Wed, 26 Aug 2026 15:21:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "67b86749e091271dc5a487bcd76592c2",
+    "fetched_at": "2026-08-26T19:39:18.324062+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+    "summary": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive.",
+    "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+    "published": "Wed, 26 Aug 2026 13:36:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "a268537aea93bf6d7e07013e9ca6b1c4",
+    "fetched_at": "2026-08-26T19:39:17.180282+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Miley Cyrus pays tribute to godmother Dolly Parton - now ‘an angel by my side'",
+    "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who  died at the age of 80.",
+    "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 17:26:12 GMT",
+    "source": "BBC News",
+    "id": "f9f4858aace17c69436e206edec68de4",
+    "fetched_at": "2026-08-26T19:39:16.050993+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US designates Palestine Action a terrorist group",
+    "summary": "Supporting Palestine Action became illegal in the UK in 2025 after the government banned it under anti-terror legislation.",
+    "link": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 18:41:50 GMT",
+    "source": "BBC News",
+    "id": "32924e7e534a49c2eed1cf6a60a73849",
+    "fetched_at": "2026-08-26T19:39:14.909222+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dolly Parton was the one thing most Americans could agree on",
+    "summary": "The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.",
+    "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 08:11:14 GMT",
+    "source": "BBC News",
+    "id": "818f36968461f51ab8b734e985c0a4aa",
+    "fetched_at": "2026-08-26T19:39:13.781955+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 26th, 2026 – Evening",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-evening",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "8598ac31da0920404a5a9873971084d3",
     "fetched_at": "2026-08-26T10:27:13.908535+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-    "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-    "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 08:17:45 GMT",
-    "source": "BBC News",
-    "id": "062589315c1c8df1daf193fb21df0adc",
-    "fetched_at": "2026-08-26T10:27:13.908533+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-    "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 08:01:56 GMT",
-    "source": "BBC News",
-    "id": "4309adea73c23a535f17f0dd2c3d6d64",
-    "fetched_at": "2026-08-26T10:27:13.908531+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
-    "summary": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 09:47:08 GMT",
-    "source": "BBC News",
-    "id": "893cb0bc502ac56ce8f6c935f4f71e7a",
-    "fetched_at": "2026-08-26T10:27:13.908529+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ICE arrests hit nearly 50,000 in July, highest of Trump's mass deportation agenda",
-    "summary": "The month before President Donald Trump returned to office, immigration arrests stood at just over 8,000, mostly involving immigrants transferred from local or state detention facilities to ICE for deportation.",
-    "link": "http://www.euronews.com/2026/08/26/ice-arrests-hit-nearly-50000-in-july-highest-of-trumps-mass-deportation-agenda",
-    "published": "Wed, 26 Aug 2026 10:50:52 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a1894879897a1bf444bfb8269d1f20e0",
-    "fetched_at": "2026-08-26T10:27:13.908526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Human rights in Myanmar hit 'new low,' fuelled by illegal mining and scam centres, UN warns",
-    "summary": "Myanmar's ruling junta seized power in a coup in 2021 that ousted Aung San Suu Kyi's elected government, ending a 10-year experiment with democracy and plunging the country into turmoil and a humanitarian crisis.",
-    "link": "http://www.euronews.com/2026/08/26/human-rights-in-myanmar-hit-new-low-fuelled-by-illegal-mining-and-scam-centres-un-warns",
-    "published": "Wed, 26 Aug 2026 11:01:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e8db9da79a06871788936136cf64a920",
-    "fetched_at": "2026-08-26T10:27:13.908524+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin signs decree allowing state seizure of businesses hit by drone strikes",
-    "summary": "The edict covers energy, transport, logistics and any facility deemed critical to national security, and can be imposed by presidential instruction alone. Experts called it \"hybrid nationalisation,\" warning it would be used to seize assets from companies under the pretext of security failure.",
-    "link": "http://www.euronews.com/2026/08/26/putin-signs-decree-allowing-state-seizure-of-businesses-hit-by-drone-strikes",
-    "published": "Wed, 26 Aug 2026 11:41:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "af311a35b1f866f358104d54aea9b2a8",
-    "fetched_at": "2026-08-26T10:27:13.908521+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rare Mondrian unseen for 25 years heads to auction",
-    "summary": "A rare 1920 Mondrian painting, Composition III, unseen for 25 years, will sell at Christie's London in October with an estimate of £20m to £30m.",
-    "link": "http://www.euronews.com/video/2026/08/26/rare-mondrian-unseen-for-25-years-heads-to-auction",
-    "published": "Wed, 26 Aug 2026 11:45:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "297ed92bf468bf35ec0670fbd4a9dcfc",
-    "fetched_at": "2026-08-26T10:27:13.908518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 26th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-midday",
-    "published": "Wed, 26 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0dd73de70bf56d66faa2c942c88da7d2",
-    "fetched_at": "2026-08-26T10:27:13.908486+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Syria's main Kurdish force SDF ceases to exist after army merger",
-    "summary": "Commander Mazloum Abdi announced the SDF's dissolution at the presidential palace in Damascus, ending the existence of the Kurdish-led force that served as Washington's main partner against the so-called Islamic State terrorist group.",
-    "link": "http://www.euronews.com/2026/08/26/syrias-main-kurdish-force-sdf-ceases-to-exist-after-army-merger",
-    "published": "Wed, 26 Aug 2026 12:17:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a1b54986bfe6489f8f452d81ca792ead",
-    "fetched_at": "2026-08-26T10:27:12.775843+00:00"
   }
 ]
