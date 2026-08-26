@@ -1,6 +1,26 @@
 [
   {
     "region": "Europe",
+    "title": "Mobilisation fears grip Russians as Kremlin's forced recruitment spikes",
+    "summary": "Human rights groups said they recorded a surge in forced recruitment since mid-August, amid reports that Russia is preparing a new mobilisation wave after September's elections.",
+    "link": "http://www.euronews.com/2026/08/25/mobilisation-fears-grip-russians-as-kremlins-forced-recruitment-spikes",
+    "published": "Tue, 25 Aug 2026 13:44:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b5c06a95dd6303e9aa77892ad4ee7a1c",
+    "fetched_at": "2026-08-26T02:58:08.050929+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+    "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+    "source": "BBC News",
+    "id": "1394814e626e3e52b0f16b41ea821954",
+    "fetched_at": "2026-08-26T02:58:06.908818+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Manga-inspired theme park to be built near Paris",
     "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
     "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
@@ -578,25 +598,5 @@
     "source": "BBC News",
     "id": "7ec0396c04910ee1da4badd20d8de5b7",
     "fetched_at": "2026-08-25T14:36:42.030235+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Canada could hit back to hurt the US economy - and Trump",
-    "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-    "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 02:49:22 GMT",
-    "source": "BBC News",
-    "id": "0b890c5c6de8d365cd99225423dd4beb",
-    "fetched_at": "2026-08-25T14:36:40.877778+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British man charged in Singapore two years after alleged theft at airport",
-    "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 09:01:35 GMT",
-    "source": "BBC News",
-    "id": "96ad40e6482ccc158b53c996d045f684",
-    "fetched_at": "2026-08-25T12:32:52.791309+00:00"
   }
 ]
