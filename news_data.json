@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+    "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+    "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 00:56:19 GMT",
+    "source": "BBC News",
+    "id": "9ecbee51c6035e37c6222fbf59e94dcf",
+    "fetched_at": "2026-08-29T08:29:31.458377+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+    "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 00:32:17 GMT",
+    "source": "BBC News",
+    "id": "6d6c86cb1c4204b3f40dacb2e5a4b407",
+    "fetched_at": "2026-08-29T08:29:31.458374+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 29th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-morning",
+    "published": "Sat, 29 Aug 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f31d459c38ac7117ed043cbbd4d127b7",
+    "fetched_at": "2026-08-29T08:29:31.458371+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Guinea-Bissau junta puts new constitution to referendum as opposition urges boycott",
+    "summary": "A commentator and a human rights activist, speaking to Euronews, stress that the law has already been published and call for stronger EU action.",
+    "link": "http://www.euronews.com/2026/08/29/guinea-bissau-junta-puts-new-constitution-to-referendum-as-opposition-urges-boycott",
+    "published": "Sat, 29 Aug 2026 08:00:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dee069201033ed06182362b15998b45c",
+    "fetched_at": "2026-08-29T08:29:31.458367+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US strikes deal to control 65 billion barrels of Venezuela's oil reserves, Trump says",
+    "summary": "Trump has long been candid about his desire for the US to secure Venezuelan oil and has urged oil companies to invest in the South American nation.",
+    "link": "http://www.euronews.com/2026/08/29/us-strikes-deal-to-control-more-than-65-billion-barrels-of-venezuelas-oil-reserves",
+    "published": "Sat, 29 Aug 2026 08:18:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8effd749bb0edf71e4896f3aa7e18033",
+    "fetched_at": "2026-08-29T08:29:31.458341+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hundreds of volunteers pull 360-tonne historic Japanese castle back into place by hand",
+    "summary": "About 1,800 volunteers pulled ropes to move the 360-tonne Hirosaki Castle keep back into position using hikiya, an ancient Japanese moving technique.",
+    "link": "https://www.foxnews.com/world/hundreds-volunteers-pull-360-tonne-historic-japanese-castle-back-into-place-by-hand",
+    "published": "Wed, 26 Aug 2026 15:21:14 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "67b86749e091271dc5a487bcd76592c2",
+    "fetched_at": "2026-08-29T08:29:30.326291+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ratko Mladić, 'Butcher of Bosnia' convicted of genocide, dies at 84",
+    "summary": "Ratko Mladić, the notorious Bosnian Serb general convicted of genocide and war crimes, has died at age 84 in a Hague prison hospital while serving a life sentence.",
+    "link": "https://www.foxnews.com/world/ratko-mladic-butcher-bosnia-convicted-genocide-dies-84",
+    "published": "Thu, 27 Aug 2026 17:41:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f6cbc5445b4d689e1446f34dd6588096",
+    "fetched_at": "2026-08-29T08:29:29.184875+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine",
+    "summary": "Russia threatened to strike British military targets inside and outside Ukraine after Moscow accused Kyiv of using Storm Shadow missiles against Donetsk.",
+    "link": "https://www.foxnews.com/world/russia-threatens-strikes-uk-military-targets-catastrophic-consequences-ukraine",
+    "published": "Thu, 27 Aug 2026 19:38:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94a0092c9d014b45835fadd676347eb5",
+    "fetched_at": "2026-08-29T08:29:28.057722+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+    "summary": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country's untapped oil reserves, at cost.",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+    "published": "Fri, 28 Aug 2026 22:07:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "ec91b43c5e39b36cd11644b8143c7b0c",
+    "fetched_at": "2026-08-29T08:29:26.917796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+    "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
+    "source": "BBC News",
+    "id": "a82f3037b8d0723914353dfea4cd23cb",
+    "fetched_at": "2026-08-29T08:29:25.776801+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
+    "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 09:32:14 GMT",
+    "source": "BBC News",
+    "id": "b55454d8c047747daf3fa17a864499f3",
+    "fetched_at": "2026-08-29T08:29:24.638817+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+    "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 07:11:04 GMT",
+    "source": "BBC News",
+    "id": "b9fca20f59d94f8bde8a39cf431570ba",
+    "fetched_at": "2026-08-29T08:29:23.501458+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
     "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
     "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "43479a31be93d7e3dfb69757f890f861",
     "fetched_at": "2026-08-28T15:53:49.253128+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Norway's new King Haakon VIII?",
-    "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
-    "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 10:37:21 GMT",
-    "source": "BBC News",
-    "id": "eadffc4fae232da06354d91c507085e8",
-    "fetched_at": "2026-08-28T15:53:49.253127+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watchdog demands apology after UN memorial erroneously honors Hamas terrorist",
-    "summary": "UN Watch says UNRWA teacher Imad Youssif El Samhouri glorified terrorism for years before the United Nations honored him at a memorial service.",
-    "link": "https://www.foxnews.com/world/watchdog-demands-apology-after-un-memorial-erroneously-honors-hamas-terrorist",
-    "published": "Wed, 26 Aug 2026 13:36:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4aea75693a2ed7e4f5e5215d200a25a6",
-    "fetched_at": "2026-08-28T15:53:49.253125+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Terrifying video captures people fleeing incoming mudslide at Nepal-China border",
-    "summary": "Video captures mudslides engulfing buildings in Gyirong, Tibet, minutes after a 4.4 magnitude earthquake triggered flash flooding near Nepal&apos;s border.",
-    "link": "https://www.foxnews.com/world/terrifying-video-captures-people-fleeing-incoming-mudslide-nepal-china-border",
-    "published": "Wed, 26 Aug 2026 13:49:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d6fbadf19ae879a400a4c7f459b2043a",
-    "fetched_at": "2026-08-28T15:53:49.253123+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Norway's King Harald dies peacefully at 89, son Crown Prince Haakon to succeed him",
-    "summary": "Norway&apos;s King Harald died peacefully at Oslo University Hospital at age 89, with Crown Prince Haakon set to succeed him as the nation mourns.",
-    "link": "https://www.foxnews.com/world/norways-king-harald-dies-peacefully-89-son-crown-prince-haakon-succeed",
-    "published": "Fri, 28 Aug 2026 03:31:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7045b55f6535a62117b5f48481bc579a",
-    "fetched_at": "2026-08-28T15:53:49.253121+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S., South Korea and Japan to hold drill as North Korea ramps up pressure on U.S.",
-    "summary": "The announcement that the three countries will go ahead with a trilateral military drill comes a day after North Korea vowed to retaliate against what it called U.S. hostilities.",
-    "link": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea",
-    "published": "Fri, 28 Aug 2026 01:46:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "5bb09e93ed83baa585b645fec8c13e68",
-    "fetched_at": "2026-08-28T15:53:49.253119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
-    "summary": "King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-    "published": "Fri, 28 Aug 2026 03:11:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "d6eb4f76c6c78748f52d142650cba862",
-    "fetched_at": "2026-08-28T15:53:49.253117+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "link": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "published": "Fri, 28 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "fe1b2e0fa301e0d1d4e0c74c3b98591a",
-    "fetched_at": "2026-08-28T15:53:49.253087+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman talks about the search for her parents who are among the missing in Nepal",
-    "summary": "NPR's Steve Inskeep talks to Shreya Ahuja about her parents, who are missing in the floods in Nepal.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/woman-talks-about-the-search-for-her-parents-who-are-among-the-missing-in-nepal",
-    "published": "Fri, 28 Aug 2026 06:54:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "29986dd26b2b287a29318b5226159092",
-    "fetched_at": "2026-08-28T15:53:48.123106+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet",
-    "summary": "Hundreds of people were killed by devastating flash floods that hit the Nepal-Tibet border, sweeping away roads, bridges and entire villages. More than 1,000 people are still missing.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
-    "published": "Fri, 28 Aug 2026 06:56:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "9e9fc63dd75001826b67d0fcf787b746",
-    "fetched_at": "2026-08-28T15:53:47.005045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-    "summary": "As the death toll rises from flash floods that hit the Nepal-Tibet border, experts are warning more flooding could be on the way. And, Fed Chairman Kevin Warsh is expected to give a key address today.",
-    "link": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-    "published": "Fri, 28 Aug 2026 07:01:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "04932cdf42cf3c4fc4cef8e34695fbda",
-    "fetched_at": "2026-08-28T15:53:45.890297+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
-    "summary": "A jury is deliberating in the trial of the Massachusetts mother charged with murdering her three small children",
-    "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 18:13:52 GMT",
-    "source": "BBC News",
-    "id": "e2dad2962e8c5b894c16397604a3a7b5",
-    "fetched_at": "2026-08-28T15:53:44.737070+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-    "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
-    "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 22:02:18 GMT",
-    "source": "BBC News",
-    "id": "2f597e527354673177d9e8997bffb3ca",
-    "fetched_at": "2026-08-28T15:53:43.607574+00:00"
   }
 ]
