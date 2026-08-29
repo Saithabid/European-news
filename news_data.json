@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Former Ecuadorian president imprisoned for corruption",
+    "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:44:54 GMT",
+    "source": "BBC News",
+    "id": "352344a676b2ca764547f23ad173b12e",
+    "fetched_at": "2026-08-29T22:09:38.566781+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway's new king remembers 'my dear father' in first speech",
+    "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+    "source": "BBC News",
+    "id": "916c279d29d8a24d9219b92b08493288",
+    "fetched_at": "2026-08-29T22:09:38.566776+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rescuers race to find thousands missing after deadly Himalayan floods",
+    "summary": "Rescue crews are struggling through blocked roads, high mountain canyons and dangerous terrain as they search for thousands of people missing in Nepal and Tibet.",
+    "link": "https://www.npr.org/2026/08/29/nx-s1-5948040/rescuers-race-to-find-thousands-missing-after-deadly-himalayan-floods",
+    "published": "Sat, 29 Aug 2026 17:14:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "eff89de8026b3f1ceff75a53ef6aaa5e",
+    "fetched_at": "2026-08-29T22:09:38.566740+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Getting help to Nepal's flood survivors is proving difficult",
+    "summary": "Blocked roads and monsoon weather are complicating efforts to get food, shelter and emergency hygeine to survivors of Nepal's catastrophic floods. World Vision's Dhruba Gurmachhan explains what survivors need the most.",
+    "link": "https://www.npr.org/2026/08/29/nx-s1-5948125/getting-help-to-nepals-flood-survivors-is-proving-difficult",
+    "published": "Sat, 29 Aug 2026 17:14:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b730f105cdc5fc4c6addc0c1bd41e81",
+    "fetched_at": "2026-08-29T22:09:37.456587+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Autopsy shows National Guard fatally shot Memphis man in the back",
+    "summary": "The report conflicts with the authorities’ initial account, which said Tyrin Johnson had been shot in the chest.",
+    "link": "https://www.bbc.co.uk/news/articles/cp93zmljrdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 17:22:47 GMT",
+    "source": "BBC News",
+    "id": "9ddbeee9d106c3785ff77d6ec4fbda63",
+    "fetched_at": "2026-08-29T22:09:36.336223+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Marchers reflect on voting rights 63 years after 'I have a dream' speech",
+    "summary": "This year's March on Washington, held annually to commemorate Martin Luther King's historic speech, called on strengthening voting rights.",
+    "link": "https://www.bbc.co.uk/news/videos/c1l6g6870z6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 22:16:51 GMT",
+    "source": "BBC News",
+    "id": "919fb4e6cc7ea6509e8199f0afc40d59",
+    "fetched_at": "2026-08-29T22:09:35.220336+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada poaches dozens of top US researchers for its universities",
+    "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 23:47:38 GMT",
+    "source": "BBC News",
+    "id": "ace14ab02719a0064cd84a93c6fa35d4",
+    "fetched_at": "2026-08-29T22:09:34.104896+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
+    "summary": "Thousands of fans have signed an online petition asking the airport to be named after her.",
+    "link": "https://www.bbc.co.uk/news/articles/c8e3k37gry6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 23:06:11 GMT",
+    "source": "BBC News",
+    "id": "c1db0965f8d20199c237e98eb73eab14",
+    "fetched_at": "2026-08-29T22:09:32.990485+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+    "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 19:45:39 GMT",
+    "source": "BBC News",
+    "id": "2db6d9654aa56f8fcf1001348cbe363d",
+    "fetched_at": "2026-08-29T22:09:31.879003+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:15:56 GMT",
+    "source": "BBC News",
+    "id": "c06ee050ab952c3584e86f6c8f0bc2f3",
+    "fetched_at": "2026-08-29T22:09:30.749708+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
     "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
     "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "52eeb24d5d133debbeed2cfdd56e4869",
     "fetched_at": "2026-08-29T00:17:56.838940+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-    "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 19:40:45 GMT",
-    "source": "BBC News",
-    "id": "8b1881cff26c95c298aad68690324003",
-    "fetched_at": "2026-08-29T00:17:56.838937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dominican Republic joins global fight against antisemitism with landmark move",
-    "summary": "Rabbi Yehuda Kaploun called the Dominican Republic&apos;s IHRA adoption a &quot;historic moment&quot; and urged other Latin American governments to follow suit.",
-    "link": "https://www.foxnews.com/world/dominican-republic-joins-global-fight-against-antisemitism-landmark-move",
-    "published": "Thu, 27 Aug 2026 06:00:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c58411d8263469dcb422ee74e184e382",
-    "fetched_at": "2026-08-29T00:17:56.838935+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US counters China as Beijing’s ‘shock wave’ hits African economies",
-    "summary": "China&apos;s state-subsidized imports are crippling African manufacturing, a top State Department official says. The U.S. aims to offer alternatives and secure critical minerals supply.",
-    "link": "https://www.foxnews.com/world/us-counters-china-beijings-shock-wave-hits-african-economies",
-    "published": "Thu, 27 Aug 2026 06:00:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8eb4d36e9e0ad1949a39b33524eba221",
-    "fetched_at": "2026-08-29T00:17:56.838933+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Experts zero in on likely cause of deadly Nepal mudslide, with more than 1,400 missing",
-    "summary": "A massive glacier collapse triggered a magnitude 5.2 landslide event that caused catastrophic Nepal and Tibet floods, with over 1,400 people still missing.",
-    "link": "https://www.foxnews.com/world/experts-zero-likely-cause-deadly-nepal-mudslide-1300-missing",
-    "published": "Thu, 27 Aug 2026 08:04:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4d4ab9c611820c72377f0f2f8b8f04e8",
-    "fetched_at": "2026-08-29T00:17:56.838931+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trapped Nepali workers pulled from hydropower tunnel after catastrophic flooding",
-    "summary": "Video from Nepal&apos;s Prime Minister&apos;s Office shows rescue workers pulling trapped citizens through a mud-saturated hydropower plant tunnel in Rasuwa.",
-    "link": "https://www.foxnews.com/world/trapped-nepali-workers-pulled-hydropower-tunnel-catastrophic-flooding",
-    "published": "Fri, 28 Aug 2026 14:19:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bd79870456e291b882cba27b5b0ba314",
-    "fetched_at": "2026-08-29T00:17:56.838928+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mike D thought making music was behind him. Then came 'Thank You'",
-    "summary": "His first solo album finds the Beastie Boys rapper making music with his sons and embracing the unpredictability of collaboration.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5846842/mike-d-beastie-boys-thank-you-album",
-    "published": "Fri, 28 Aug 2026 04:46:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "dd5585f3ea5f029c30bbaf60b3cec052",
-    "fetched_at": "2026-08-29T00:17:56.838925+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
-    "summary": "As the climate continues to warm, scientists warn that the frequency of disasters like the floods in Nepal will increase.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
-    "published": "Fri, 28 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "e523a2e140bd5143db73770a4a231879",
-    "fetched_at": "2026-08-29T00:17:56.838922+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'It's essentially been one long day': A daughter details search for parents in Nepal",
-    "summary": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
-    "published": "Fri, 28 Aug 2026 06:54:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "1d6e0590538774f28ad70de4b90fbcc0",
-    "fetched_at": "2026-08-29T00:17:56.838920+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "After 6 months of war, Iran's battered regime remains entrenched",
-    "summary": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-    "published": "Fri, 28 Aug 2026 15:35:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "159cc9473055fb838ff9788eba6d6049",
-    "fetched_at": "2026-08-29T00:17:56.838916+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "BBC speaks with US group after 77 trekkers go missing in Nepal flood",
-    "summary": "The BBC’s Helena Humphrey visited Isha Foundation in the US state of Tennessee, that lost contact with their tour group on the China-Nepal border.",
-    "link": "https://www.bbc.co.uk/news/videos/cvgy71zvdddo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 14:42:36 GMT",
-    "source": "BBC News",
-    "id": "dd65e12821124304b04143b21c0599bf",
-    "fetched_at": "2026-08-29T00:17:56.838890+00:00"
   }
 ]
