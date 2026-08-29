@@ -1,6 +1,306 @@
 [
   {
     "region": "Europe",
+    "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+    "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+    "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 17:29:16 GMT",
+    "source": "BBC News",
+    "id": "0edcd1ca834d7ed1f40ed1a946960f06",
+    "fetched_at": "2026-08-29T00:17:56.838963+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+    "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+    "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 19:05:23 GMT",
+    "source": "BBC News",
+    "id": "92a93a504bb1b4623a3d448f0a298351",
+    "fetched_at": "2026-08-29T00:17:56.838961+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+    "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 22:05:41 GMT",
+    "source": "BBC News",
+    "id": "acc9fde2f8de9de95460231bb1169ee7",
+    "fetched_at": "2026-08-29T00:17:56.838959+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Algeria’s north-east scorched by deadly wildfires, national mourning declared",
+    "summary": "Deadly wildfires have devastated villages in Algeria’s Jijel province, nearly 350 kilometres east of Algiers, Residents are assessing the damage as crews work to restore electricity and clear affected areas.",
+    "link": "http://www.euronews.com/video/2026/08/28/algerias-north-east-scorched-by-deadly-wildfires-national-mourning-declared",
+    "published": "Fri, 28 Aug 2026 15:44:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "419239a607605ed1efdde9b161ef67e9",
+    "fetched_at": "2026-08-29T00:17:56.838958+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 28th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/28/latest-news-bulletin-august-28th-2026-evening",
+    "published": "Fri, 28 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6b5790d89f38d4150dc9f6d9311005ff",
+    "fetched_at": "2026-08-29T00:17:56.838956+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fans welcome Céline Dion outside her Paris hotel as she prepares to launch a 16‑show arena residency",
+    "summary": "Fans welcome Céline Dion outside her Paris hotel as she prepares to launch a 16‑show arena residency, her first major concert run since revealing her stiff‑person syndrome diagnosis.",
+    "link": "http://www.euronews.com/video/2026/08/28/fans-welcome-celine-dion-outside-her-paris-hotel-as-she-prepares-to-launch-a-16show-arena-",
+    "published": "Fri, 28 Aug 2026 19:09:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eb26ade395336aa51be2c491291249b8",
+    "fetched_at": "2026-08-29T00:17:56.838954+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Number of missing in Nepal floods passes 2,400 as UNICEF says 17,000 children need aid",
+    "summary": "Rescuers were battling through mud even as the threat of new floods loomed, with emergency teams recovering 586 bodies so far and some of the dead swept downstream as far away as India.",
+    "link": "http://www.euronews.com/2026/08/28/number-of-missing-in-nepal-floods-passes-2400-as-unicef-says-17000-children-need-aid",
+    "published": "Fri, 28 Aug 2026 21:56:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c2ede782a002973b83cfddd12e200088",
+    "fetched_at": "2026-08-29T00:17:56.838952+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway mourns king Harald V as crown prince Haakon becomes king",
+    "summary": "Norway mourns King Harald V after his death at 89 on Friday. Prime Minister Jonas Gahr Støre joined officials and crowds paying tribute outside the Royal Palace in Oslo.",
+    "link": "http://www.euronews.com/video/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king",
+    "published": "Fri, 28 Aug 2026 22:40:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "501f2ad8337f3e674d85b1806ba399cb",
+    "fetched_at": "2026-08-29T00:17:56.838950+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Uefa preparing criminal legal action against Infantino",
+    "summary": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 14:42:09 GMT",
+    "source": "BBC News",
+    "id": "304a232ab11af33fe545dc356b185953",
+    "fetched_at": "2026-08-29T00:17:56.838948+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+    "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 17:05:22 GMT",
+    "source": "BBC News",
+    "id": "d50af982350ab80acb2ebba015060e7c",
+    "fetched_at": "2026-08-29T00:17:56.838946+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Greenland says findings on genocide allegation not final",
+    "summary": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
+    "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 19:57:50 GMT",
+    "source": "BBC News",
+    "id": "18942feca5107412db6b2266df5c1d3a",
+    "fetched_at": "2026-08-29T00:17:56.838944+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Violence breaks out in Ceuta as migrant crisis continues",
+    "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 16:30:59 GMT",
+    "source": "BBC News",
+    "id": "9bf29b338f9dacce2d52e6283a941e1f",
+    "fetched_at": "2026-08-29T00:17:56.838942+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Berlin is being blackmailed by hackers, mayor says",
+    "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 21:29:01 GMT",
+    "source": "BBC News",
+    "id": "52eeb24d5d133debbeed2cfdd56e4869",
+    "fetched_at": "2026-08-29T00:17:56.838940+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+    "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 19:40:45 GMT",
+    "source": "BBC News",
+    "id": "8b1881cff26c95c298aad68690324003",
+    "fetched_at": "2026-08-29T00:17:56.838937+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dominican Republic joins global fight against antisemitism with landmark move",
+    "summary": "Rabbi Yehuda Kaploun called the Dominican Republic&apos;s IHRA adoption a &quot;historic moment&quot; and urged other Latin American governments to follow suit.",
+    "link": "https://www.foxnews.com/world/dominican-republic-joins-global-fight-against-antisemitism-landmark-move",
+    "published": "Thu, 27 Aug 2026 06:00:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c58411d8263469dcb422ee74e184e382",
+    "fetched_at": "2026-08-29T00:17:56.838935+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US counters China as Beijing’s ‘shock wave’ hits African economies",
+    "summary": "China&apos;s state-subsidized imports are crippling African manufacturing, a top State Department official says. The U.S. aims to offer alternatives and secure critical minerals supply.",
+    "link": "https://www.foxnews.com/world/us-counters-china-beijings-shock-wave-hits-african-economies",
+    "published": "Thu, 27 Aug 2026 06:00:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8eb4d36e9e0ad1949a39b33524eba221",
+    "fetched_at": "2026-08-29T00:17:56.838933+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Experts zero in on likely cause of deadly Nepal mudslide, with more than 1,400 missing",
+    "summary": "A massive glacier collapse triggered a magnitude 5.2 landslide event that caused catastrophic Nepal and Tibet floods, with over 1,400 people still missing.",
+    "link": "https://www.foxnews.com/world/experts-zero-likely-cause-deadly-nepal-mudslide-1300-missing",
+    "published": "Thu, 27 Aug 2026 08:04:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4d4ab9c611820c72377f0f2f8b8f04e8",
+    "fetched_at": "2026-08-29T00:17:56.838931+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trapped Nepali workers pulled from hydropower tunnel after catastrophic flooding",
+    "summary": "Video from Nepal&apos;s Prime Minister&apos;s Office shows rescue workers pulling trapped citizens through a mud-saturated hydropower plant tunnel in Rasuwa.",
+    "link": "https://www.foxnews.com/world/trapped-nepali-workers-pulled-hydropower-tunnel-catastrophic-flooding",
+    "published": "Fri, 28 Aug 2026 14:19:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bd79870456e291b882cba27b5b0ba314",
+    "fetched_at": "2026-08-29T00:17:56.838928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mike D thought making music was behind him. Then came 'Thank You'",
+    "summary": "His first solo album finds the Beastie Boys rapper making music with his sons and embracing the unpredictability of collaboration.",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5846842/mike-d-beastie-boys-thank-you-album",
+    "published": "Fri, 28 Aug 2026 04:46:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "dd5585f3ea5f029c30bbaf60b3cec052",
+    "fetched_at": "2026-08-29T00:17:56.838925+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
+    "summary": "As the climate continues to warm, scientists warn that the frequency of disasters like the floods in Nepal will increase.",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
+    "published": "Fri, 28 Aug 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "e523a2e140bd5143db73770a4a231879",
+    "fetched_at": "2026-08-29T00:17:56.838922+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'It's essentially been one long day': A daughter details search for parents in Nepal",
+    "summary": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news.",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
+    "published": "Fri, 28 Aug 2026 06:54:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "1d6e0590538774f28ad70de4b90fbcc0",
+    "fetched_at": "2026-08-29T00:17:56.838920+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After 6 months of war, Iran's battered regime remains entrenched",
+    "summary": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
+    "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+    "published": "Fri, 28 Aug 2026 15:35:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "159cc9473055fb838ff9788eba6d6049",
+    "fetched_at": "2026-08-29T00:17:56.838916+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "BBC speaks with US group after 77 trekkers go missing in Nepal flood",
+    "summary": "The BBC’s Helena Humphrey visited Isha Foundation in the US state of Tennessee, that lost contact with their tour group on the China-Nepal border.",
+    "link": "https://www.bbc.co.uk/news/videos/cvgy71zvdddo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 14:42:36 GMT",
+    "source": "BBC News",
+    "id": "dd65e12821124304b04143b21c0599bf",
+    "fetched_at": "2026-08-29T00:17:56.838890+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Autopsy shows National Guard fatally shot Memphis man in the back",
+    "summary": "The report conflicts with the authorities’ initial account, which said Tyrin Johnson had been shot in the chest.",
+    "link": "https://www.bbc.co.uk/news/articles/cp93zmljrdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 17:22:47 GMT",
+    "source": "BBC News",
+    "id": "9ddbeee9d106c3785ff77d6ec4fbda63",
+    "fetched_at": "2026-08-29T00:17:55.701229+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Marchers reflect on voting rights 63 years after 'I have a dream' speech",
+    "summary": "This year's March on Washington, held annually to commemorate Martin Luther King's historic speech, called on strengthening voting rights.",
+    "link": "https://www.bbc.co.uk/news/videos/c1l6g6870z6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 22:16:51 GMT",
+    "source": "BBC News",
+    "id": "919fb4e6cc7ea6509e8199f0afc40d59",
+    "fetched_at": "2026-08-29T00:17:54.556130+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada poaches dozens of top US researchers for its universities",
+    "summary": "Lured by millions of new research funding from the Carney government, 48 US researchers in fields like climate and medicine will soon be moving north.",
+    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 23:47:38 GMT",
+    "source": "BBC News",
+    "id": "ace14ab02719a0064cd84a93c6fa35d4",
+    "fetched_at": "2026-08-29T00:17:53.419881+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
+    "summary": "Thousands of fans have signed an online petition asking the airport to be named after her.",
+    "link": "https://www.bbc.co.uk/news/articles/c8e3k37gry6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 23:06:11 GMT",
+    "source": "BBC News",
+    "id": "c1db0965f8d20199c237e98eb73eab14",
+    "fetched_at": "2026-08-29T00:17:52.280530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+    "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+    "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 21:01:39 GMT",
+    "source": "BBC News",
+    "id": "348c8a3a74955202d87abab08af13a62",
+    "fetched_at": "2026-08-29T00:17:51.145593+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+    "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 19:45:39 GMT",
+    "source": "BBC News",
+    "id": "2db6d9654aa56f8fcf1001348cbe363d",
+    "fetched_at": "2026-08-29T00:17:50.002364+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 23:54:19 GMT",
+    "source": "BBC News",
+    "id": "c06ee050ab952c3584e86f6c8f0bc2f3",
+    "fetched_at": "2026-08-29T00:17:48.854991+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
     "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
     "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
@@ -298,305 +598,5 @@
     "source": "BBC News",
     "id": "2f597e527354673177d9e8997bffb3ca",
     "fetched_at": "2026-08-28T15:53:43.607574+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-    "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
-    "source": "BBC News",
-    "id": "a82f3037b8d0723914353dfea4cd23cb",
-    "fetched_at": "2026-08-28T15:53:42.458287+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-    "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 09:32:14 GMT",
-    "source": "BBC News",
-    "id": "b55454d8c047747daf3fa17a864499f3",
-    "fetched_at": "2026-08-28T15:53:41.314026+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Death toll nears 400 as rescuers search for 1,400 missing after Nepal-Tibet floods",
-    "summary": "The US Geological Survey (USGS) said the disaster was caused by a glacial collapse that triggered a vast flow of icy debris.",
-    "link": "http://www.euronews.com/2026/08/27/death-toll-nears-400-as-rescuers-search-for-1400-missing-after-nepal-tibet-floods",
-    "published": "Thu, 27 Aug 2026 21:58:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "37e9e9c4a3a670b4fd167ea825146a60",
-    "fetched_at": "2026-08-28T03:57:02.829229+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Catastrophic Nepal floods and landslides in Nuwakot leave hundreds still missing",
-    "summary": "Communities along Nepal’s Trishuli River face catastrophic damage, hundreds missing and destroyed bridges as helicopters race to evacuate the injured.",
-    "link": "http://www.euronews.com/video/2026/08/28/catastrophic-nepal-floods-and-landslides-in-nuwakot-leave-hundreds-still-missing",
-    "published": "Fri, 28 Aug 2026 00:24:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "68c572bd5fb280ae39549702c0c5f280",
-    "fetched_at": "2026-08-28T03:57:02.829227+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds gather in Oslo to support Norway’s King Harald V",
-    "summary": "Hundreds gather outside Oslo’s Royal Palace with flowers and candles as concern grows over King Harald V’s worsening health.",
-    "link": "http://www.euronews.com/video/2026/08/28/hundreds-gather-in-oslo-to-support-norways-king-harald-v",
-    "published": "Fri, 28 Aug 2026 00:56:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "30e80f96ae6207adc93fbbd039ec597f",
-    "fetched_at": "2026-08-28T03:57:02.829225+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US military plane lands in Moscow, with Kremlin claiming it has no information: report",
-    "summary": "A video has emerged showing a U.S. military C-17A Globemaster III aircraft approaching for a landing at Moscow, Russia&apos;s Vnukovo airport on Wednesday.",
-    "link": "https://www.foxnews.com/world/us-military-plane-lands-moscow-kremlin-claiming-no-information-report",
-    "published": "Tue, 25 Aug 2026 13:52:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a17536171357b9cecb0c2cb134c64561",
-    "fetched_at": "2026-08-28T03:57:02.829222+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hundreds of volunteers pull 360-tonne historic Japanese castle back into place by hand",
-    "summary": "About 1,800 volunteers pulled ropes to move the 360-tonne Hirosaki Castle keep back into position using hikiya, an ancient Japanese moving technique.",
-    "link": "https://www.foxnews.com/world/hundreds-volunteers-pull-360-tonne-historic-japanese-castle-back-into-place-by-hand",
-    "published": "Wed, 26 Aug 2026 15:21:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "67b86749e091271dc5a487bcd76592c2",
-    "fetched_at": "2026-08-28T03:57:02.829220+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ratko Mladić, 'Butcher of Bosnia' convicted of genocide, dies at 84",
-    "summary": "Ratko Mladić, the notorious Bosnian Serb general convicted of genocide and war crimes, has died at age 84 in a Hague prison hospital while serving a life sentence.",
-    "link": "https://www.foxnews.com/world/ratko-mladic-butcher-bosnia-convicted-genocide-dies-84",
-    "published": "Thu, 27 Aug 2026 17:41:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f6cbc5445b4d689e1446f34dd6588096",
-    "fetched_at": "2026-08-28T03:57:02.829217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine",
-    "summary": "Russia threatened to strike British military targets inside and outside Ukraine after Moscow accused Kyiv of using Storm Shadow missiles against Donetsk.",
-    "link": "https://www.foxnews.com/world/russia-threatens-strikes-uk-military-targets-catastrophic-consequences-ukraine",
-    "published": "Thu, 27 Aug 2026 19:38:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94a0092c9d014b45835fadd676347eb5",
-    "fetched_at": "2026-08-28T03:57:02.829214+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-    "summary": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-    "published": "Wed, 26 Aug 2026 03:34:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "03c7b69e32609a34e7662959914efe0b",
-    "fetched_at": "2026-08-28T03:57:02.829210+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nearly 1,000 are missing in Nepal and Tibet after floods caused by a glacial collapse",
-    "summary": "China's Xinhua News Agency said Thursday that mudslides in Tibet caused by a glacial collapse have left three people dead and 558 missing, while police in Nepal reported at least 162 were killed.",
-    "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-    "published": "Wed, 26 Aug 2026 08:27:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "f13f9596fbf7a76c2b74d80017f3e489",
-    "fetched_at": "2026-08-28T03:57:02.829184+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-    "summary": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive.",
-    "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
-    "published": "Wed, 26 Aug 2026 13:36:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "a268537aea93bf6d7e07013e9ca6b1c4",
-    "fetched_at": "2026-08-28T03:57:01.691866+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Helicopter pilot describes what he's seen rescuing people in Nepal",
-    "summary": "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety.",
-    "link": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
-    "published": "Thu, 27 Aug 2026 16:01:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "f2de038cee54f33fecbaea0529ec2f42",
-    "fetched_at": "2026-08-28T03:57:00.546880+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dolly Parton was the one thing most Americans could agree on",
-    "summary": "The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.",
-    "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 08:11:14 GMT",
-    "source": "BBC News",
-    "id": "818f36968461f51ab8b734e985c0a4aa",
-    "fetched_at": "2026-08-28T03:56:59.402850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton",
-    "summary": "Tributes pour in from across the worlds of music, film and politics for the star, who  died at the age of 80.",
-    "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 17:26:12 GMT",
-    "source": "BBC News",
-    "id": "f9f4858aace17c69436e206edec68de4",
-    "fetched_at": "2026-08-28T03:56:58.266439+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Belugas and dolphins rescued from closed Canadian park arrive in Spain",
-    "summary": "Two beluga whales and four dolphins rescued from a struggling Canadian marine park arrived in Spain as part of an effort to relocate the animals and avoid euthanasia.",
-    "link": "https://www.bbc.co.uk/news/videos/c5y4mmn78n3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 18:46:26 GMT",
-    "source": "BBC News",
-    "id": "31509a770c039ef914fc977fda15fccd",
-    "fetched_at": "2026-08-28T03:56:57.124862+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump signs order to rename Lake Ontario as Lake America",
-    "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 23:14:43 GMT",
-    "source": "BBC News",
-    "id": "455e5c871902460dd3d05b469d2aee8f",
-    "fetched_at": "2026-08-28T03:56:55.967161+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
-    "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
-    "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 20:39:16 GMT",
-    "source": "BBC News",
-    "id": "9e8e39db61fe2bd6f1b252f94b72cc8a",
-    "fetched_at": "2026-08-28T03:56:54.828253+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-    "summary": "The killing of at least eight women in a week has sparked outrage in Cameroon.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 14:26:15 GMT",
-    "source": "BBC News",
-    "id": "da024c14a66705dafd51cc5282620e71",
-    "fetched_at": "2026-08-27T18:41:34.417554+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-    "summary": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
-    "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 16:00:12 GMT",
-    "source": "BBC News",
-    "id": "3609e77b6509561b72d79fb2c4a74c1f",
-    "fetched_at": "2026-08-27T18:41:34.417553+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist",
-    "summary": "The Treasure of Villena is a unique trove of almost ten kilos of gold, bowls, bottles and bracelets dating back to the Bronze Age.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 12:41:16 GMT",
-    "source": "BBC News",
-    "id": "fe3254ab3174dc5bc1fdf4146905d02f",
-    "fetched_at": "2026-08-27T18:41:34.417552+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-    "summary": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.",
-    "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 11:23:28 GMT",
-    "source": "BBC News",
-    "id": "d36063daac1136ce67a1104965842e10",
-    "fetched_at": "2026-08-27T18:41:34.417550+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-    "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 14:17:24 GMT",
-    "source": "BBC News",
-    "id": "03e55f132994ae329b08e299b13c3c8b",
-    "fetched_at": "2026-08-27T18:41:34.417549+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What we know about deadly Nepal-Tibet floods",
-    "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 09:55:02 GMT",
-    "source": "BBC News",
-    "id": "269ec809b28049c4985fde89527b9318",
-    "fetched_at": "2026-08-27T18:41:34.417547+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-    "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-    "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 09:50:10 GMT",
-    "source": "BBC News",
-    "id": "7a604ea9451d0425075161c6e8480603",
-    "fetched_at": "2026-08-27T18:41:34.417546+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nepal flash flood: dramatic footage shows Rasuwa valley engulfed",
-    "summary": "Dramatic footage shows a flash flood tearing through Nepal’s Rasuwa district, killing 157 people and leaving hundreds missing.",
-    "link": "http://www.euronews.com/video/2026/08/27/nepal-flash-flood-dramatic-footage-shows-rasuwa-valley-engulfed",
-    "published": "Thu, 27 Aug 2026 13:19:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7cd5055edbb0eb1418394d630983c077",
-    "fetched_at": "2026-08-27T18:41:34.417544+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gamescom 2026 opens in Cologne with record exhibitors and visitors",
-    "summary": "Gamescom 2026 has opened in Cologne, bringing together developers, industry professionals and gamers for the world’s largest trade fair dedicated to computer and video games.",
-    "link": "http://www.euronews.com/video/2026/08/27/gamescom-2026-opens-in-cologne-with-record-exhibitors-and-visitors",
-    "published": "Thu, 27 Aug 2026 14:51:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2ee6803e94ca7e7ef799fa4bceee43bd",
-    "fetched_at": "2026-08-27T18:41:34.417543+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia’s overnight drone barrage ignites fires across Ukrainian cities",
-    "summary": "Russian strikes hit Ukraine’s Sumy and Odesa regions overnight on 27 August. At least one person was killed and seven injured, according to regional authorities.",
-    "link": "http://www.euronews.com/video/2026/08/27/russias-overnight-drone-barrage-ignites-fires-across-ukrainian-cities",
-    "published": "Thu, 27 Aug 2026 15:55:44 +0200",
-    "source": "News | Euronews RSS",
-    "id": "86590a05811aec338cab6fab503cccf6",
-    "fetched_at": "2026-08-27T18:41:34.417541+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 27th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/27/latest-news-bulletin-august-27th-2026-evening",
-    "published": "Thu, 27 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2543836f92ee2434fb1ca6c181e988f6",
-    "fetched_at": "2026-08-27T18:41:34.417540+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar PM meets Iran’s Araghchi in Tehran as Doha pushes de-escalation and reopening Hormuz",
-    "summary": "Qatar is stepping up its mediation efforts as regional tensions remain high and direct US-Iran talks remain stalled, with Doha focused on de-escalation, dialogue and restoring freedom of navigation through the Strait of Hormuz.",
-    "link": "http://www.euronews.com/2026/08/27/qatar-pm-meets-irans-araghchi-in-tehran-as-doha-pushes-de-escalation-and-reopening-hormuz",
-    "published": "Thu, 27 Aug 2026 18:13:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d6ebbd3659aa5de405eb1c4277679709",
-    "fetched_at": "2026-08-27T18:41:34.417538+00:00"
   }
 ]
