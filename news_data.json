@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+    "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 13:50:34 GMT",
+    "source": "BBC News",
+    "id": "8609fa53fff1183b3e60227ece29faaa",
+    "fetched_at": "2026-08-29T19:03:42.920292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
+    "summary": "Uzbekistan marked the 35th anniversary of its independence with a large-scale celebration in New Tashkent, featuring live music, dance, performances by international artists and a large-scale drone show.",
+    "link": "http://www.euronews.com/video/2026/08/29/music-lights-and-drones-uzbekistan-celebrates-35-years-of-independence",
+    "published": "Sat, 29 Aug 2026 17:05:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c4ef66182729d4e4fe03a363a46a8cf9",
+    "fetched_at": "2026-08-29T19:03:42.920264+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 29th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-evening",
+    "published": "Sat, 29 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d0e74d7168b8b934a10f0dc0ea98a551",
+    "fetched_at": "2026-08-29T19:03:41.783393+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+    "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 01:43:41 GMT",
+    "source": "BBC News",
+    "id": "0ebe1f880fbe699396285cf5079e4d07",
+    "fetched_at": "2026-08-29T19:03:40.611088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shootings surge as drug gangs torment Brussels",
+    "summary": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 13:41:18 GMT",
+    "source": "BBC News",
+    "id": "a0d0331ce9fe7afece05348338449fe6",
+    "fetched_at": "2026-08-29T19:03:39.480337+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670, nearly 3,000 missing",
+    "summary": "Nepal&apos;s flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
+    "link": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
+    "published": "Sat, 29 Aug 2026 11:28:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b5dc69d44e5023f1c2c88f44642f78cb",
+    "fetched_at": "2026-08-29T19:03:08.449530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Muslim jail gangs said to force conversions on prisoners in UK: 'Jihadist training camps’",
+    "summary": "Reports of forced conversions in British prisons have renewed alarm over extremist gang influence. Officials say faith-based coercion will not be tolerated.",
+    "link": "https://www.foxnews.com/world/muslim-jail-gangs-said-force-conversions-prisoners-uk-jihadist-training-camps",
+    "published": "Sat, 29 Aug 2026 13:57:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "744c7f781238a0b6380292df6bcc3567",
+    "fetched_at": "2026-08-29T19:03:07.318033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+    "summary": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
+    "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+    "published": "Sat, 29 Aug 2026 11:54:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "2318c0dcf3b93152287833888c0fbb75",
+    "fetched_at": "2026-08-29T19:03:06.188753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 17:52:42 GMT",
+    "source": "BBC News",
+    "id": "9d037024556741553eb865c08a9fd23b",
+    "fetched_at": "2026-08-29T19:03:05.056547+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | August 29th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this August 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-midday",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "dd65e12821124304b04143b21c0599bf",
     "fetched_at": "2026-08-29T00:17:56.838890+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Autopsy shows National Guard fatally shot Memphis man in the back",
-    "summary": "The report conflicts with the authorities’ initial account, which said Tyrin Johnson had been shot in the chest.",
-    "link": "https://www.bbc.co.uk/news/articles/cp93zmljrdjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 17:22:47 GMT",
-    "source": "BBC News",
-    "id": "9ddbeee9d106c3785ff77d6ec4fbda63",
-    "fetched_at": "2026-08-29T00:17:55.701229+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Marchers reflect on voting rights 63 years after 'I have a dream' speech",
-    "summary": "This year's March on Washington, held annually to commemorate Martin Luther King's historic speech, called on strengthening voting rights.",
-    "link": "https://www.bbc.co.uk/news/videos/c1l6g6870z6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 22:16:51 GMT",
-    "source": "BBC News",
-    "id": "919fb4e6cc7ea6509e8199f0afc40d59",
-    "fetched_at": "2026-08-29T00:17:54.556130+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada poaches dozens of top US researchers for its universities",
-    "summary": "Lured by millions of new research funding from the Carney government, 48 US researchers in fields like climate and medicine will soon be moving north.",
-    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 23:47:38 GMT",
-    "source": "BBC News",
-    "id": "ace14ab02719a0064cd84a93c6fa35d4",
-    "fetched_at": "2026-08-29T00:17:53.419881+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
-    "summary": "Thousands of fans have signed an online petition asking the airport to be named after her.",
-    "link": "https://www.bbc.co.uk/news/articles/c8e3k37gry6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 23:06:11 GMT",
-    "source": "BBC News",
-    "id": "c1db0965f8d20199c237e98eb73eab14",
-    "fetched_at": "2026-08-29T00:17:52.280530+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-    "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 21:01:39 GMT",
-    "source": "BBC News",
-    "id": "348c8a3a74955202d87abab08af13a62",
-    "fetched_at": "2026-08-29T00:17:51.145593+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-    "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 19:45:39 GMT",
-    "source": "BBC News",
-    "id": "2db6d9654aa56f8fcf1001348cbe363d",
-    "fetched_at": "2026-08-29T00:17:50.002364+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 23:54:19 GMT",
-    "source": "BBC News",
-    "id": "c06ee050ab952c3584e86f6c8f0bc2f3",
-    "fetched_at": "2026-08-29T00:17:48.854991+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-    "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:15:26 GMT",
-    "source": "BBC News",
-    "id": "f6ce87b5b879a0ecd75feae3ac329cc8",
-    "fetched_at": "2026-08-28T15:53:49.253151+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dutch court sentences man to life over Rwanda genocide",
-    "summary": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 12:15:46 GMT",
-    "source": "BBC News",
-    "id": "3a7380b868748619d982461fb941618b",
-    "fetched_at": "2026-08-28T15:53:49.253150+00:00"
   }
 ]
