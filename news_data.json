@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+    "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 22:14:37 GMT",
+    "source": "BBC News",
+    "id": "06962f7a76c8448bc56784ac8a79505f",
+    "fetched_at": "2026-08-30T22:16:54.183243+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 21:15:42 GMT",
+    "source": "BBC News",
+    "id": "6c241bee5fcc1e7e8def4f64cc8cbf56",
+    "fetched_at": "2026-08-30T22:16:54.183242+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US forces strike Iranian rocket launchers in Strait of Hormuz as IRGC warns of 'retaliatory response'",
+    "summary": "The IRGC confirmed strikes had hit Larak Island and warned that the attack would be \"met with a retaliatory response,\" per Iran's Fars news agency.",
+    "link": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
+    "published": "Sun, 30 Aug 2026 22:52:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "44e10ad24e7eeff1f6d180a04e657c04",
+    "fetched_at": "2026-08-30T22:16:54.183241+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump hits out at NBC journalist Kristen Welker, calling for her to face 'rebuke or punishment'",
+    "summary": "Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Communications Commission, said the FCC \"has no authority to punish journalists this administration doesn’t like.\"",
+    "link": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
+    "published": "Sun, 30 Aug 2026 23:33:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e4080ed90b2b4857e3b9ecf41c98259f",
+    "fetched_at": "2026-08-30T22:16:54.183238+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Who is Norway's new King Haakon VIII?",
+    "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
+    "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 10:37:21 GMT",
+    "source": "BBC News",
+    "id": "eadffc4fae232da06354d91c507085e8",
+    "fetched_at": "2026-08-30T22:16:54.183237+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+    "source": "BBC News",
+    "id": "0587307dea889e53841e33e56a6964e4",
+    "fetched_at": "2026-08-30T22:16:54.183235+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British woman killed in stabbing at German railway station",
+    "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 16:11:46 GMT",
+    "source": "BBC News",
+    "id": "7e87f8ff7b279ac35ecce1fbd9be53a0",
+    "fetched_at": "2026-08-30T22:16:54.183201+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670; nearly 3,000 missing",
+    "summary": "Nepal&apos;s flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
+    "link": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
+    "published": "Sat, 29 Aug 2026 11:28:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b5dc69d44e5023f1c2c88f44642f78cb",
+    "fetched_at": "2026-08-30T22:16:53.064021+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Muslim jail gangs said to force conversions on prisoners in UK: 'Jihadist training camps’",
+    "summary": "Reports of forced conversions in British prisons have renewed alarm over extremist gang influence. Officials say faith-based coercion will not be tolerated.",
+    "link": "https://www.foxnews.com/world/muslim-jail-gangs-said-force-conversions-prisoners-uk-jihadist-training-camps",
+    "published": "Sat, 29 Aug 2026 13:57:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "744c7f781238a0b6380292df6bcc3567",
+    "fetched_at": "2026-08-30T22:16:51.943709+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Ukrainian women disappearing into Russian prisons",
+    "summary": "What happens when Russia arrests civilians in the Ukrainian territories it occupies? New Yorker writer Joshua Yaffa followed a group of women through the Russian prison system.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5945115/the-ukrainian-women-disappearing-into-russian-prisons",
+    "published": "Sun, 30 Aug 2026 17:01:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "79707952d04726b10f9f3d166074656f",
+    "fetched_at": "2026-08-30T22:16:50.807834+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What a Brazilian tradition can teach us about the future of psychedelics",
+    "summary": "Researchers are looking at new ways to use psychedelics to treat depression. Science journalist Marcelo Leite says there's also a lot to learn from indigenous people who have used them for generations.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5945717/what-a-brazilian-tradition-can-teach-us-about-the-future-of-psychedelics",
+    "published": "Sun, 30 Aug 2026 17:01:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "02245fff127de16a6252a93e3093417a",
+    "fetched_at": "2026-08-30T22:16:49.661305+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Noel Godin, who made powerful people nervous around cream pies, dies at 80",
+    "summary": "For more than 50 years, Noel Godin went after famous and powerful people with cream pies. His targets included politicians, philosophers, filmmakers and, famously, Bill Gates.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5946807/noel-godin-who-made-powerful-people-nervous-around-cream-pies-dies-at-80",
+    "published": "Sun, 30 Aug 2026 17:01:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "ecb9864c481f27bba86c7f2fa23639fa",
+    "fetched_at": "2026-08-30T22:16:48.530684+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Getting aid to Nepal's flood survivors is the next challenge",
+    "summary": "The U.S. has pledged 3.5 million in flood aid for Tibet and Nepal, with the first $500,000 distributed by Catholic Relief Services. An aid worker with the group explains what flood survivors need now.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5948789/getting-aid-to-nepals-flood-survivors-is-the-next-challenge",
+    "published": "Sun, 30 Aug 2026 17:01:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "6f408ebda22fbe2e8892801f21d91ec8",
+    "fetched_at": "2026-08-30T22:16:47.390729+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 17:52:42 GMT",
+    "source": "BBC News",
+    "id": "9d037024556741553eb865c08a9fd23b",
+    "fetched_at": "2026-08-30T22:16:46.242959+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russia says it helped to repel Niger attempted coup",
     "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
     "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "352344a676b2ca764547f23ad173b12e",
     "fetched_at": "2026-08-29T22:09:38.566781+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway's new king remembers 'my dear father' in first speech",
-    "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 19:06:28 GMT",
-    "source": "BBC News",
-    "id": "916c279d29d8a24d9219b92b08493288",
-    "fetched_at": "2026-08-29T22:09:38.566776+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers race to find thousands missing after deadly Himalayan floods",
-    "summary": "Rescue crews are struggling through blocked roads, high mountain canyons and dangerous terrain as they search for thousands of people missing in Nepal and Tibet.",
-    "link": "https://www.npr.org/2026/08/29/nx-s1-5948040/rescuers-race-to-find-thousands-missing-after-deadly-himalayan-floods",
-    "published": "Sat, 29 Aug 2026 17:14:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "eff89de8026b3f1ceff75a53ef6aaa5e",
-    "fetched_at": "2026-08-29T22:09:38.566740+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Getting help to Nepal's flood survivors is proving difficult",
-    "summary": "Blocked roads and monsoon weather are complicating efforts to get food, shelter and emergency hygeine to survivors of Nepal's catastrophic floods. World Vision's Dhruba Gurmachhan explains what survivors need the most.",
-    "link": "https://www.npr.org/2026/08/29/nx-s1-5948125/getting-help-to-nepals-flood-survivors-is-proving-difficult",
-    "published": "Sat, 29 Aug 2026 17:14:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "8b730f105cdc5fc4c6addc0c1bd41e81",
-    "fetched_at": "2026-08-29T22:09:37.456587+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Autopsy shows National Guard fatally shot Memphis man in the back",
-    "summary": "The report conflicts with the authorities’ initial account, which said Tyrin Johnson had been shot in the chest.",
-    "link": "https://www.bbc.co.uk/news/articles/cp93zmljrdjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 17:22:47 GMT",
-    "source": "BBC News",
-    "id": "9ddbeee9d106c3785ff77d6ec4fbda63",
-    "fetched_at": "2026-08-29T22:09:36.336223+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Marchers reflect on voting rights 63 years after 'I have a dream' speech",
-    "summary": "This year's March on Washington, held annually to commemorate Martin Luther King's historic speech, called on strengthening voting rights.",
-    "link": "https://www.bbc.co.uk/news/videos/c1l6g6870z6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 22:16:51 GMT",
-    "source": "BBC News",
-    "id": "919fb4e6cc7ea6509e8199f0afc40d59",
-    "fetched_at": "2026-08-29T22:09:35.220336+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada poaches dozens of top US researchers for its universities",
-    "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-    "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 23:47:38 GMT",
-    "source": "BBC News",
-    "id": "ace14ab02719a0064cd84a93c6fa35d4",
-    "fetched_at": "2026-08-29T22:09:34.104896+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
-    "summary": "Thousands of fans have signed an online petition asking the airport to be named after her.",
-    "link": "https://www.bbc.co.uk/news/articles/c8e3k37gry6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 23:06:11 GMT",
-    "source": "BBC News",
-    "id": "c1db0965f8d20199c237e98eb73eab14",
-    "fetched_at": "2026-08-29T22:09:32.990485+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-    "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 19:45:39 GMT",
-    "source": "BBC News",
-    "id": "2db6d9654aa56f8fcf1001348cbe363d",
-    "fetched_at": "2026-08-29T22:09:31.879003+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 16:15:56 GMT",
-    "source": "BBC News",
-    "id": "c06ee050ab952c3584e86f6c8f0bc2f3",
-    "fetched_at": "2026-08-29T22:09:30.749708+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-    "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 13:50:34 GMT",
-    "source": "BBC News",
-    "id": "8609fa53fff1183b3e60227ece29faaa",
-    "fetched_at": "2026-08-29T19:03:42.920292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
-    "summary": "Uzbekistan marked the 35th anniversary of its independence with a large-scale celebration in New Tashkent, featuring live music, dance, performances by international artists and a large-scale drone show.",
-    "link": "http://www.euronews.com/video/2026/08/29/music-lights-and-drones-uzbekistan-celebrates-35-years-of-independence",
-    "published": "Sat, 29 Aug 2026 17:05:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c4ef66182729d4e4fe03a363a46a8cf9",
-    "fetched_at": "2026-08-29T19:03:42.920264+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 29th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-evening",
-    "published": "Sat, 29 Aug 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d0e74d7168b8b934a10f0dc0ea98a551",
-    "fetched_at": "2026-08-29T19:03:41.783393+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-    "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
-    "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 01:43:41 GMT",
-    "source": "BBC News",
-    "id": "0ebe1f880fbe699396285cf5079e4d07",
-    "fetched_at": "2026-08-29T19:03:40.611088+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Shootings surge as drug gangs torment Brussels",
-    "summary": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-    "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 13:41:18 GMT",
-    "source": "BBC News",
-    "id": "a0d0331ce9fe7afece05348338449fe6",
-    "fetched_at": "2026-08-29T19:03:39.480337+00:00"
   }
 ]
