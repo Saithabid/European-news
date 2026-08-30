@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Russia says it helped to repel Niger attempted coup",
+    "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 16:33:17 GMT",
+    "source": "BBC News",
+    "id": "92addc1370c3f5b8d3d7f2fb80a61718",
+    "fetched_at": "2026-08-30T18:58:05.272325+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Guinea-Bissau votes in referendum to rewrite constitution and boost presidential powers",
+    "summary": "Voters in military-ruled Guinea-Bissau, after a coup, vote on Sunday in a referendum to boost presidential powers before elections to restore civilian rule, a process mired in controversy.",
+    "link": "http://www.euronews.com/2026/08/30/guinea-bissau-votes-in-referendum-to-rewrite-constitution-and-boost-presidential-powers",
+    "published": "Sun, 30 Aug 2026 16:53:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "639df7d74dc397529cc2585a519f86a8",
+    "fetched_at": "2026-08-30T18:58:05.272322+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | August 30th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this August 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-evening",
+    "published": "Sun, 30 Aug 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "38c0965b74ae5c304a0e22208d626fbc",
+    "fetched_at": "2026-08-30T18:58:05.272319+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "India and Uzbekistan deepen ties, eye $5bn trade and long-term uranium supplies",
+    "summary": "The two governments also broadened cooperation on critical minerals, defence, digital payments and transport. A new foreign minister-level mechanism will oversee implementation, alongside expanded education and regional links.",
+    "link": "http://www.euronews.com/2026/08/30/india-and-uzbekistan-deepen-ties-eye-5bn-trade-and-long-term-uranium-supplies",
+    "published": "Sun, 30 Aug 2026 18:16:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "913b8e85b44419c084191db703ec8735",
+    "fetched_at": "2026-08-30T18:58:05.272316+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Venezuela says it will retain 'sovereignty' over its oil reserves despite US deal",
+    "summary": "Venezuela's acting president says the aim is to turn the country's underground resources into a \"source of social and economic well-being for the people of Venezuela.\"",
+    "link": "http://www.euronews.com/2026/08/30/venezuela-says-it-will-retain-sovereignty-over-its-oil-reserves-despite-us-deal",
+    "published": "Sun, 30 Aug 2026 20:40:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b84aa053561ded60e88bfa02ac86862",
+    "fetched_at": "2026-08-30T18:58:05.272313+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+    "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 18:31:17 GMT",
+    "source": "BBC News",
+    "id": "b5813a13072bf636528a4da69831f034",
+    "fetched_at": "2026-08-30T18:58:05.272309+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ratko Mladić, 'Butcher of Bosnia' convicted of genocide, dies at 84",
+    "summary": "Ratko Mladić, the notorious Bosnian Serb general convicted of genocide and war crimes, has died at age 84 in a Hague prison hospital while serving a life sentence.",
+    "link": "https://www.foxnews.com/world/ratko-mladic-butcher-bosnia-convicted-genocide-dies-84",
+    "published": "Thu, 27 Aug 2026 17:41:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f6cbc5445b4d689e1446f34dd6588096",
+    "fetched_at": "2026-08-30T18:58:05.272280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine",
+    "summary": "Russia threatened to strike British military targets inside and outside Ukraine after Moscow accused Kyiv of using Storm Shadow missiles against Donetsk.",
+    "link": "https://www.foxnews.com/world/russia-threatens-strikes-uk-military-targets-catastrophic-consequences-ukraine",
+    "published": "Thu, 27 Aug 2026 19:38:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94a0092c9d014b45835fadd676347eb5",
+    "fetched_at": "2026-08-30T18:58:04.162449+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Norway's King Harald dies peacefully at 89, son Crown Prince Haakon to succeed him",
+    "summary": "Norway&apos;s King Harald died peacefully at Oslo University Hospital at age 89, with Crown Prince Haakon set to succeed him as the nation mourns.",
+    "link": "https://www.foxnews.com/world/norways-king-harald-dies-peacefully-89-son-crown-prince-haakon-succeed",
+    "published": "Fri, 28 Aug 2026 03:31:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7045b55f6535a62117b5f48481bc579a",
+    "fetched_at": "2026-08-30T18:58:03.059976+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Srebrenica survivor Ahmed Hrustanovic reflects on Ratko Mladic's death",
+    "summary": "Ahmed Hrustanovic reflects on Ratko Mladic's death with NPR's Scott Simon. All of Hrustanovic's adult male relatives died in the Srebrenica Massacre engineered by Mladic.",
+    "link": "https://www.npr.org/2026/08/29/nx-s1-5947879/srebrenica-survivor-ahmed-hrustanovic-reflects-on-ratko-mladics-death",
+    "published": "Sat, 29 Aug 2026 07:40:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "ac873cdfe443d7cc76bce17a41dc580b",
+    "fetched_at": "2026-08-30T18:58:01.944706+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+    "summary": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
+    "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+    "published": "Sat, 29 Aug 2026 10:22:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "c591151ebdf97751dd12fcdeefe82106",
+    "fetched_at": "2026-08-30T18:58:00.825181+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Energy experts have doubts about Trump's newly proposed Venezuelan oil deal",
+    "summary": "There are many reasons to be skeptical of the Trump administration's announcement that the U.S. will develop Venezuelan oil.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5948708/energy-experts-have-doubts-about-trumps-newly-proposed-venezuelan-oil-deal",
+    "published": "Sun, 30 Aug 2026 08:02:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca508a68fee778267e4efd9539da6961",
+    "fetched_at": "2026-08-30T18:57:59.713299+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+    "summary": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+    "published": "Sun, 30 Aug 2026 10:36:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "86045f7b11fcc3e8809b7122da9b718d",
+    "fetched_at": "2026-08-30T18:57:58.608140+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+    "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+    "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 30 Aug 2026 18:53:53 GMT",
+    "source": "BBC News",
+    "id": "1c62773445eb33a17f852d9039e72a20",
+    "fetched_at": "2026-08-30T18:57:57.494244+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
     "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "BBC News",
     "id": "a0d0331ce9fe7afece05348338449fe6",
     "fetched_at": "2026-08-29T19:03:39.480337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670, nearly 3,000 missing",
-    "summary": "Nepal&apos;s flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
-    "link": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
-    "published": "Sat, 29 Aug 2026 11:28:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b5dc69d44e5023f1c2c88f44642f78cb",
-    "fetched_at": "2026-08-29T19:03:08.449530+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Muslim jail gangs said to force conversions on prisoners in UK: 'Jihadist training camps’",
-    "summary": "Reports of forced conversions in British prisons have renewed alarm over extremist gang influence. Officials say faith-based coercion will not be tolerated.",
-    "link": "https://www.foxnews.com/world/muslim-jail-gangs-said-force-conversions-prisoners-uk-jihadist-training-camps",
-    "published": "Sat, 29 Aug 2026 13:57:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "744c7f781238a0b6380292df6bcc3567",
-    "fetched_at": "2026-08-29T19:03:07.318033+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-    "summary": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
-    "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-    "published": "Sat, 29 Aug 2026 11:54:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "2318c0dcf3b93152287833888c0fbb75",
-    "fetched_at": "2026-08-29T19:03:06.188753+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-    "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 17:52:42 GMT",
-    "source": "BBC News",
-    "id": "9d037024556741553eb865c08a9fd23b",
-    "fetched_at": "2026-08-29T19:03:05.056547+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | August 29th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this August 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-midday",
-    "published": "Sat, 29 Aug 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "943c80bc9c4f901b1ebcde760bd46562",
-    "fetched_at": "2026-08-29T14:51:37.218387+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Heavy gunfire in Niger capital as clashes reported at presidential palace",
-    "summary": "A military junta has rule Niger for three years but has struggled to contend with jihadist violence.",
-    "link": "http://www.euronews.com/2026/08/29/heavy-gunfire-in-niger-capital-as-clashes-reported-at-presidential-palace",
-    "published": "Sat, 29 Aug 2026 12:55:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c30ae970d37ef8f5bf698452327f47d3",
-    "fetched_at": "2026-08-29T14:51:37.218386+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
-    "summary": "The anniversary ceremony in New Tashkent combined political messaging with a large-scale cultural programme. President Shavkat Mirziyoyev announced seven national programmes, including major targets for investment, education, healthcare and economic growth.",
-    "link": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade",
-    "published": "Sat, 29 Aug 2026 13:56:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "33a1e997563b05fcf511c2f9af887e49",
-    "fetched_at": "2026-08-29T14:51:37.218384+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
-    "summary": "On Friday, Nepal's tourism board put the number of tourists still \"out of communication\" at 622 - 473 of which were foreign tourists.",
-    "link": "http://www.euronews.com/2026/08/29/hundreds-of-foreign-nationals-among-the-missing-following-deadly-nepal-floods",
-    "published": "Sat, 29 Aug 2026 16:17:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6dd79b8d9bbd3c8e7dbf98e3788c56fb",
-    "fetched_at": "2026-08-29T14:51:37.218382+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kazakhstan’s government steps down as newly elected Kurultai holds first session",
-    "summary": "Kazakhstan’s newly elected unicameral parliament has held its first session under a new Constitution that reshaped the country’s political system. The government has stepped down as required, with a new cabinet set to be formed.",
-    "link": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session",
-    "published": "Sat, 29 Aug 2026 16:32:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4b2c82c26a82bed483cf4cb510371f6d",
-    "fetched_at": "2026-08-29T14:51:37.218379+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-    "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 08:48:34 GMT",
-    "source": "BBC News",
-    "id": "0690f603ef16f1c786dcb18b44822acd",
-    "fetched_at": "2026-08-29T14:51:37.218376+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who is Norway's new King Haakon VIII?",
-    "summary": "Haakon becomes the king at a turbulent time for Norway's monarchy.",
-    "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 10:37:21 GMT",
-    "source": "BBC News",
-    "id": "eadffc4fae232da06354d91c507085e8",
-    "fetched_at": "2026-08-29T14:51:37.218374+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-    "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 14:43:04 GMT",
-    "source": "BBC News",
-    "id": "0587307dea889e53841e33e56a6964e4",
-    "fetched_at": "2026-08-29T14:51:37.218370+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watchdog demands apology after UN memorial erroneously honors Hamas terrorist",
-    "summary": "UN Watch says UNRWA teacher Imad Youssif El Samhouri glorified terrorism for years before the United Nations honored him at a memorial service.",
-    "link": "https://www.foxnews.com/world/watchdog-demands-apology-after-un-memorial-erroneously-honors-hamas-terrorist",
-    "published": "Wed, 26 Aug 2026 13:36:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4aea75693a2ed7e4f5e5215d200a25a6",
-    "fetched_at": "2026-08-29T14:51:37.218337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Terrifying video captures people fleeing incoming mudslide at Nepal-China border",
-    "summary": "Video captures mudslides engulfing buildings in Gyirong, Tibet, minutes after a 4.4 magnitude earthquake triggered flash flooding near Nepal&apos;s border.",
-    "link": "https://www.foxnews.com/world/terrifying-video-captures-people-fleeing-incoming-mudslide-nepal-china-border",
-    "published": "Wed, 26 Aug 2026 13:49:05 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d6fbadf19ae879a400a4c7f459b2043a",
-    "fetched_at": "2026-08-29T14:51:36.105165+00:00"
   }
 ]
