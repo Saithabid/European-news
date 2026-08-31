@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+    "source": "BBC News",
+    "id": "0587307dea889e53841e33e56a6964e4",
+    "fetched_at": "2026-08-31T23:31:49.185494+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670; nearly 3,000 missing",
+    "summary": "Nepal&apos;s flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
+    "link": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
+    "published": "Sat, 29 Aug 2026 11:28:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b5dc69d44e5023f1c2c88f44642f78cb",
+    "fetched_at": "2026-08-31T23:31:49.185493+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Muslim jail gangs said to force conversions on prisoners in UK: 'Jihadist training camps’",
+    "summary": "Reports of forced conversions in British prisons have renewed alarm over extremist gang influence. Officials say faith-based coercion will not be tolerated.",
+    "link": "https://www.foxnews.com/world/muslim-jail-gangs-said-force-conversions-prisoners-uk-jihadist-training-camps",
+    "published": "Sat, 29 Aug 2026 13:57:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "744c7f781238a0b6380292df6bcc3567",
+    "fetched_at": "2026-08-31T23:31:49.185490+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
+    "summary": "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran&apos;s uranium enrichment capabilities after two wars.",
+    "link": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
+    "published": "Mon, 31 Aug 2026 16:05:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2e55ad4a3156ff92ad06ab0987caa32e",
+    "fetched_at": "2026-08-31T23:31:49.185457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's plan for economic D-day for Iran has one big hole: China",
+    "summary": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.",
+    "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
+    "published": "Mon, 31 Aug 2026 16:48:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "37750396ff42ed568d0adbd6c038cce1",
+    "fetched_at": "2026-08-31T23:31:48.078905+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US and Iran trade strikes for first time in weeks",
+    "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 13:47:30 GMT",
+    "source": "BBC News",
+    "id": "6c241bee5fcc1e7e8def4f64cc8cbf56",
+    "fetched_at": "2026-08-31T23:31:46.979544+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+    "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 21:28:49 GMT",
+    "source": "BBC News",
+    "id": "4c0c00541bc56e3f55f8d2cc832c3d0e",
+    "fetched_at": "2026-08-31T23:31:45.862139+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-congressman George Santos banned from betting platform for life",
+    "summary": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 18:15:12 GMT",
+    "source": "BBC News",
+    "id": "c92ca47068ab7465c63ea17e2d36cf95",
+    "fetched_at": "2026-08-31T23:31:44.752311+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Festival honouring Dolly Parton set for Nashville and London",
+    "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 18:58:35 GMT",
+    "source": "BBC News",
+    "id": "fd5964551b7bdc7243255cb749fe421e",
+    "fetched_at": "2026-08-31T23:31:43.649477+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+    "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing.",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 20:47:38 GMT",
+    "source": "BBC News",
+    "id": "06962f7a76c8448bc56784ac8a79505f",
+    "fetched_at": "2026-08-31T23:31:42.541968+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Supreme Court clears way for Trump to keep building White House ballroom",
+    "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 22:38:24 GMT",
+    "source": "BBC News",
+    "id": "10836e6b825200896908e593aca927a3",
+    "fetched_at": "2026-08-31T23:31:41.428515+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "John Galliano exhibition at New York Met cancelled after backlash",
     "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
     "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "b6295064be331a4f7db9110f138bbab7",
     "fetched_at": "2026-08-31T10:19:17.353710+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers search for the missing after deadly flood along Nepal-Tibet border",
-    "summary": "China and Nepal continue to grapple with the devastation left by catastrophic flooding along the Nepal-Tibet border, as rescuers search for the missing and assess widespread destruction.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5949292/rescuers-search-for-the-missing-after-deadly-flood-along-nepal-tibet-border",
-    "published": "Mon, 31 Aug 2026 04:48:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "abe47a466966e0e3c820e7b5a25ebbc3",
-    "fetched_at": "2026-08-31T10:19:16.213308+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks",
-    "summary": "The annual \"anything goes\" performing arts festival featured more than 4,200 performances this year. These are the ones we're still talking about.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america",
-    "published": "Mon, 31 Aug 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "d69fc69553b7c39529ec2e7bfddb0dfb",
-    "fetched_at": "2026-08-31T10:19:15.071041+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Attacks flare between U.S., Iran after month-long pause",
-    "summary": "U.S. threats erupt into attacks in the Strait of Hormuz; Iran retaliates against U.S. targets in the UAE and Jordan in the first exchange of fire since July 29",
-    "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
-    "published": "Mon, 31 Aug 2026 06:04:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "95e5b7923d62066eb8042ad8cfbc4595",
-    "fetched_at": "2026-08-31T10:19:13.906060+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada installs large Lake Ontario sign in latest jab at US",
-    "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 14:25:43 GMT",
-    "source": "BBC News",
-    "id": "9ec0f626112988f89582ccff485c9998",
-    "fetched_at": "2026-08-31T10:19:12.548241+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway's new king remembers 'my dear father' in first speech",
-    "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 19:06:28 GMT",
-    "source": "BBC News",
-    "id": "916c279d29d8a24d9219b92b08493288",
-    "fetched_at": "2026-08-31T02:44:29.589255+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Pentagon official urges US to ‘squeeze’ UK on defense amid Falklands furor",
-    "summary": "Morgan Murphy says U.S. neutrality on Falkland Islands sovereignty is unchanged but warns Washington may squeeze Britain on NATO defense spending.",
-    "link": "https://www.foxnews.com/world/ex-pentagon-official-urges-us-squeeze-uk-defense-amid-falklands-furor",
-    "published": "Sun, 30 Aug 2026 18:44:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "30e38597d6fc95e76a0997d4e1b860a2",
-    "fetched_at": "2026-08-31T02:44:29.589253+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Billions in US aid to Ukraine under microscope as corruption rocks Zelenskyy’s inner circle",
-    "summary": "Over 24 federal agencies oversee billions in U.S. defense aid to Ukraine as Zelenskyy dismisses officials amid widening anti-corruption probes, expert says.",
-    "link": "https://www.foxnews.com/world/billions-us-aid-ukraine-under-microscope-corruption-rocks-zelenskyys-inner-circle",
-    "published": "Sun, 30 Aug 2026 20:30:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2bfcca4442956a9818ee9c39f880bac2",
-    "fetched_at": "2026-08-31T02:44:29.589251+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nicolás Maduro flashes peace signs in first prison photos since US capture in Caracas",
-    "summary": "Ousted Venezuelan President Nicolás Maduro appeared in his first photos from a New York prison, smiling as he awaits trial on federal drug trafficking charges.",
-    "link": "https://www.foxnews.com/world/nicolas-maduro-flashes-peace-signs-first-prison-photos-since-us-capture-caracas",
-    "published": "Sun, 30 Aug 2026 20:56:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "268add6ac8ecef3b67b72688a8b1d330",
-    "fetched_at": "2026-08-31T02:44:29.589249+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Parkgoer airlifted after Batman roller coaster incident leaves man with fractures to both legs",
-    "summary": "A 49-year-old visitor was airlifted to a hospital after suffering fractures in both legs on a Batman-themed roller coaster in Spain, lcoal reports say.",
-    "link": "https://www.foxnews.com/world/parkgoer-airlifted-after-batman-roller-coaster-incident-leaves-man-fractures-both-legs",
-    "published": "Sun, 30 Aug 2026 22:25:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "74281106ef8abb1be68791ec05ef4b9b",
-    "fetched_at": "2026-08-31T02:44:29.589217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
-    "summary": "Four days after catastrophic floods wiped out villages along the Nepal-China border, thousands are still missing. Families look for answers but hear nothing.",
-    "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
-    "published": "Sun, 30 Aug 2026 19:32:39 -0400",
-    "source": "NPR Topics: World",
-    "id": "09db12178753406b09f9510eb3011f8f",
-    "fetched_at": "2026-08-31T02:44:28.482945+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
-    "summary": "Argentina has produced some of the world's greatest soccer players. Could its youth system offer lessons for the United States?",
-    "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong",
-    "published": "Sun, 30 Aug 2026 22:27:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "ee6b205f0310ae6967fcd6c4031eea15",
-    "fetched_at": "2026-08-31T02:44:27.369823+00:00"
   }
 ]
