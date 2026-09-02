@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+    "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+    "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+    "source": "BBC News",
+    "id": "7c5ccb27c1c9cc7d75cb409666d1e18b",
+    "fetched_at": "2026-09-02T02:16:24.761636+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany blames Russia after explosive-laden drone found near Ukrainian cargo planes at major airport",
+    "summary": "Germany closed Russia&apos;s Bonn consulate after linking Moscow to a failed drone attack at Leipzig/Halle Airport targeting a Ukrainian cargo aircraft.",
+    "link": "https://www.foxnews.com/world/germany-blames-russia-explosive-laden-drone-found-near-ukrainian-cargo-planes-major-airport",
+    "published": "Tue, 01 Sep 2026 20:33:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bf8bc6f3e674123cddb444dd6c9eab8d",
+    "fetched_at": "2026-09-02T02:16:23.656790+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Liberals sweep three seats in boost for Carney after trade tensions with US",
+    "summary": "One seat was taken from the Conservatives, indicating public support for the PM after a confrontation with Donald Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4pzn0p7yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 11:05:13 GMT",
+    "source": "BBC News",
+    "id": "2cdaeac3cecd40a1d25e5aa68b835bc2",
+    "fetched_at": "2026-09-02T02:16:22.536568+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
+    "summary": "The police officer shot Glenwood Earl Pysher, 22, as he walked towards him with hands up, say prosecutors.",
+    "link": "https://www.bbc.co.uk/news/articles/clyk3351mj5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 01:52:48 GMT",
+    "source": "BBC News",
+    "id": "aac868728b56eeafb4f9080a9105be56",
+    "fetched_at": "2026-09-02T02:16:21.418995+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+    "summary": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+    "source": "BBC News",
+    "id": "aff895b67ce2766722f41f588ec75d55",
+    "fetched_at": "2026-09-02T02:16:20.296708+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ariana Grande ends tour and steps back from public life",
     "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6076eb27826ffc8aeeb675e600c333d4",
     "fetched_at": "2026-09-01T14:26:10.211952+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
-    "summary": "A group of the country's private sector power producers says Nepali authorities lost crucial time in rescuing hundreds of people trapped in hydropower tunnels.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
-    "published": "Mon, 31 Aug 2026 07:50:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "f75622920164c13f2bed721284756d3c",
-    "fetched_at": "2026-09-01T14:26:10.211927+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-    "summary": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-    "published": "Mon, 31 Aug 2026 12:37:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "f8d7a424b41dff7f55835c7ec2a3079c",
-    "fetched_at": "2026-09-01T14:26:09.049943+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-    "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job.",
-    "link": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-    "published": "Tue, 01 Sep 2026 07:23:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "fb0a1e9bf17961a667b2c12528cafa4b",
-    "fetched_at": "2026-09-01T14:26:07.916328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-    "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
-    "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 10:46:25 GMT",
-    "source": "BBC News",
-    "id": "76a5a1cfd58cd0590ae14f1dbd17c5f6",
-    "fetched_at": "2026-09-01T14:26:06.778424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-    "summary": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 13:12:47 GMT",
-    "source": "BBC News",
-    "id": "2649a626b3b033034ee79c2a62b6a038",
-    "fetched_at": "2026-09-01T14:26:05.624863+00:00"
   }
 ]
