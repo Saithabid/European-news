@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+    "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 19:05:31 GMT",
+    "source": "BBC News",
+    "id": "bb41f269866a6add72d876da94b1937e",
+    "fetched_at": "2026-09-02T20:21:22.043543+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
+    "summary": "António Guterres met Iranian President Masoud Pezeshkian, but a U.N. readout omitted any mention of detained protesters or torture allegations.",
+    "link": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president",
+    "published": "Tue, 01 Sep 2026 15:32:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "20541dfaa45fb7478497662dc8216e9c",
+    "fetched_at": "2026-09-02T20:21:22.043539+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany blames Russia after explosive-laden drone found near Ukrainian cargo planes at major airport",
+    "summary": "Germany closed Russia&apos;s Bonn consulate after linking Moscow to a failed drone attack at Leipzig/Halle Airport targeting a Ukrainian cargo aircraft.",
+    "link": "https://www.foxnews.com/world/germany-blames-russia-explosive-laden-drone-found-near-ukrainian-cargo-planes-major-airport",
+    "published": "Tue, 01 Sep 2026 20:33:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bf8bc6f3e674123cddb444dd6c9eab8d",
+    "fetched_at": "2026-09-02T20:21:22.043514+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
+    "summary": "Vladimir Putin declared full solidarity with Iran as an expert said both nations &quot;need each other desperately&quot; during the escalating U.S.-Iran conflict.",
+    "link": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
+    "published": "Wed, 02 Sep 2026 13:44:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f5cfce4af1f8760b1f72dc4ba75a7310",
+    "fetched_at": "2026-09-02T20:21:20.838889+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+    "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+    "published": "Wed, 02 Sep 2026 10:08:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca4026cc08bee95a2ca7acd3a2ffb731",
+    "fetched_at": "2026-09-02T20:21:19.663640+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
+    "summary": "Investigative journalist Daphne Caruana Galizia had written extensively about suspected corruption in political and business circles in Malta. She was killed by a car bomb in 2017, at age 53.",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+    "published": "Wed, 02 Sep 2026 15:48:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "f82d2cf1542b3d13d91daf04fba27405",
+    "fetched_at": "2026-09-02T20:21:18.531692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+    "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+    "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 01:32:24 GMT",
+    "source": "BBC News",
+    "id": "97c41febb3839d69145d22f42cd07ceb",
+    "fetched_at": "2026-09-02T20:21:17.346603+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pennsylvania officer charged in death of student who knocked at wrong door",
+    "summary": "The police officer shot Glenwood Earl Pysher, 22, as he walked towards him with hands up, say prosecutors.",
+    "link": "https://www.bbc.co.uk/news/articles/clyk3351mj5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 01:52:48 GMT",
+    "source": "BBC News",
+    "id": "aac868728b56eeafb4f9080a9105be56",
+    "fetched_at": "2026-09-02T20:21:16.204282+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+    "summary": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+    "source": "BBC News",
+    "id": "aff895b67ce2766722f41f588ec75d55",
+    "fetched_at": "2026-09-02T20:21:15.031337+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
+    "summary": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 14:40:20 GMT",
+    "source": "BBC News",
+    "id": "289d28391dff4221fc622b92352d9180",
+    "fetched_at": "2026-09-02T20:21:13.882617+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
     "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
     "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "fba4289db6c010049f490d08e677d86d",
     "fetched_at": "2026-09-02T08:16:48.909190+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 2nd, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-morning",
-    "published": "Wed, 02 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a2200622b5b688f983801b2a0e7d9950",
-    "fetched_at": "2026-09-02T08:16:48.909188+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Prominent pro-democracy Hong Kong activist Joshua Wong pleads guilty in second national security law case",
-    "summary": "Wong, already serving prison time for a separate case, pleaded guilty to a second offence under Beijing’s 2020 National Security law, which could see his sentence extended by a minimum of three years and up to life imprisonment.",
-    "link": "http://www.euronews.com/2026/09/02/prominent-pro-democracy-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-se",
-    "published": "Wed, 02 Sep 2026 05:52:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bcf77c2e808fd8b55b62ee6a220f31f4",
-    "fetched_at": "2026-09-02T08:16:48.909186+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tyler Robinson pleads not guilty as judge clears path for death penalty in Charlie Kirk assassination case",
-    "summary": "Robinson, seen as the sole suspect in the 2025 assassination of right-wing activist Charlie Kirk, entered a not guilty plea after a judge gave the green light for prosecutors to advance towards the death penalty as the case goes to trial.",
-    "link": "http://www.euronews.com/2026/09/02/tyler-robinson-pleads-not-guilty-as-judge-clears-path-for-death-penalty-in-charlie-kirk-as",
-    "published": "Wed, 02 Sep 2026 06:22:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "389e5a096eaf19a58f35aae8dd108ee2",
-    "fetched_at": "2026-09-02T08:16:48.909183+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mass burials of unidentified victims continue in Nepal as death toll exceeds 1,100 one week after flash floods",
-    "summary": "Many were outraged and expressed their disapproval after the government revealed it intended to carry out mass “temporary” burials of the deceased. Nepal’s largely Hindu community objected to the measure which they say goes against religious traditions.",
-    "link": "http://www.euronews.com/2026/09/02/mass-burials-of-unidentified-victims-continue-in-nepal-as-death-toll-exceeds-1000-one-week",
-    "published": "Wed, 02 Sep 2026 06:45:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4f5be1e30f6bef43fcc65e45366ff8a4",
-    "fetched_at": "2026-09-02T08:16:48.909181+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Controversial US aircraft carrier Abraham Lincoln arrives in Thailand after months at sea",
-    "summary": "Democratic lawmakers have called for an investigation into conditions on the USS Abraham Lincoln following reports of food shortages, broken plumbing and mental health crises.",
-    "link": "http://www.euronews.com/2026/09/02/controversial-us-aircraft-carrier-abraham-lincoln-arrives-in-thailand-after-months-at-sea",
-    "published": "Wed, 02 Sep 2026 07:06:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "60af5c6eb624b84d11a8b0cd99057bee",
-    "fetched_at": "2026-09-02T08:16:48.909178+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and Sri Lankan agents bust Pakistan drug network and seize €18m of meth, police say",
-    "summary": "Sri Lanka's Public Security Minister Ananda Wijepala told parliament that most of the illegal drugs originated in Afghanistan and Pakistan and were being smuggled into the island by sea.",
-    "link": "http://www.euronews.com/2026/09/02/us-and-sri-lankan-agents-bust-pakistan-drug-network-and-seize-18m-of-meth-police-say",
-    "published": "Wed, 02 Sep 2026 09:35:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fa750a81980180648308942fdf86e08c",
-    "fetched_at": "2026-09-02T08:16:48.909175+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cargo ship with 10 crew sinks off Istanbul after collision, maritime authorities say",
-    "summary": "The collision occurred 18 nautical miles (33 kilometres) off the Silivri district on the western edge of Istanbul province, the governor's office said on X.",
-    "link": "http://www.euronews.com/2026/09/02/cargo-ship-with-10-crew-sinks-off-istanbul-after-collision-maritime-authorities-say",
-    "published": "Wed, 02 Sep 2026 09:47:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2bd341c481bd1e2b0981a6ce441a6349",
-    "fetched_at": "2026-09-02T08:16:48.909171+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-    "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 04:23:23 GMT",
-    "source": "BBC News",
-    "id": "53fdd13811d889177f6281f336736547",
-    "fetched_at": "2026-09-02T08:16:48.909151+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
-    "summary": "A group of the country's private sector power producers says Nepali authorities lost crucial time in rescuing hundreds of people trapped in hydropower tunnels.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
-    "published": "Mon, 31 Aug 2026 07:50:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "f75622920164c13f2bed721284756d3c",
-    "fetched_at": "2026-09-02T08:16:47.781161+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-    "summary": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer.",
-    "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-    "published": "Mon, 31 Aug 2026 12:37:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "f8d7a424b41dff7f55835c7ec2a3079c",
-    "fetched_at": "2026-09-02T08:16:46.660176+00:00"
   }
 ]
