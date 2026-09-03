@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Trump $1 coin makes him first living president on US currency in a century",
+    "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 15:35:47 GMT",
+    "source": "BBC News",
+    "id": "a5b95db768ce8717d68df766387c3ee3",
+    "fetched_at": "2026-09-03T22:05:27.852180+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump hints US may not back UK over Falkland Islands, citing lack of Iran support",
+    "summary": "The US recognises Britain's administration of the Falkland Islands but remains neutral over the competing sovereignty claims.",
+    "link": "http://www.euronews.com/2026/09/03/trump-hints-us-may-not-back-uk-over-falkland-islands-citing-lack-of-iran-support",
+    "published": "Thu, 03 Sep 2026 21:33:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cfb0484e5db3a95ff329114b2aa51282",
+    "fetched_at": "2026-09-03T22:05:27.852177+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Explosion near German train station injures 2 Ukrainian citizens",
+    "summary": "Two Ukrainian citizens suffered minor injuries in the Augsburg train station explosion as police investigate a possible motive amid rising tensions.",
+    "link": "https://www.foxnews.com/world/explosion-near-german-train-station-injures-2-ukrainian-citizens",
+    "published": "Wed, 02 Sep 2026 07:05:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "661a8c9a522199e768af232a0caedba9",
+    "fetched_at": "2026-09-03T22:05:27.852173+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Raging inferno erupts at Bali beachside restaurant party",
+    "summary": "Video shows flames engulfing a restaurant in Bali, Indonesia, after a reported balloon explosion during a birthday party sparked a massive inferno.",
+    "link": "https://www.foxnews.com/world/raging-inferno-erupts-bali-beachside-restaurant-party",
+    "published": "Wed, 02 Sep 2026 08:17:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "db03e1a4e3f156cfeb4f3ecbc5eba55c",
+    "fetched_at": "2026-09-03T22:05:27.852143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Critics question legality of Venezuela oil deals",
+    "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals",
+    "published": "Thu, 03 Sep 2026 04:07:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "5bbaf1103f8c7a088bf7cf5861792017",
+    "fetched_at": "2026-09-03T22:05:26.700057+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China's Xi visits Egypt for the first time in a decade",
+    "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
+    "published": "Thu, 03 Sep 2026 04:08:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "719898ce15490ad8abe6f15205a3ea88",
+    "fetched_at": "2026-09-03T22:05:25.576692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Families of the missing in Nepal's flash floods perform symbolic cremations",
+    "summary": "Eight days after Nepal's flash floods, families who can't find loved ones perform symbolic cremations.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations",
+    "published": "Thu, 03 Sep 2026 04:11:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "4cb9dd6d1d315e4d7268e22e78beaa68",
+    "fetched_at": "2026-09-03T22:05:24.434866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nepali community in Texas grieves and prays for healing after flash floods",
+    "summary": "Nepalese groups in North Texas, which has one of the largest communities of people from Nepal in the U.S., continue to grieve the loss of hundreds of people after the devastating floods in August.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5954535/nepali-community-in-texas-grieves-and-prays-for-healing-after-flash-floods",
+    "published": "Thu, 03 Sep 2026 16:29:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "3e205a8b87c781349c24b60c8c4fc874",
+    "fetched_at": "2026-09-03T22:05:23.293622+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada unveils new $20 bill featuring portrait of King Charles",
+    "summary": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cr50d2dyn70o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 19:18:13 GMT",
+    "source": "BBC News",
+    "id": "b37242f11c9040767e882a3b0d3859c0",
+    "fetched_at": "2026-09-03T22:05:22.171321+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+    "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
+    "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 20:49:05 GMT",
+    "source": "BBC News",
+    "id": "d0945218236e8151e0308be82b7404b8",
+    "fetched_at": "2026-09-03T22:05:21.026586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Defence calls for one juror to be dismissed in Lindsay Clancy case",
+    "summary": "The jury has been sent back to continue deliberations after receiving further instructions on the law from the judge.",
+    "link": "https://www.bbc.co.uk/news/videos/c3v49926063o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 19:52:59 GMT",
+    "source": "BBC News",
+    "id": "669dbd32aa6dffb5c5862eaa0286cb8b",
+    "fetched_at": "2026-09-03T22:05:19.876479+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
     "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
     "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "7aa7c47f6e0205a144a94c64bfd45a04",
     "fetched_at": "2026-09-03T08:26:14.844064+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rubio urges US allies to isolate Nicaragua's 'brutal dictatorship' after vote to ban opposition parties",
-    "summary": "Ortega hit back at Washington dismissing US pressure while the reform - which also extends presidential terms to seven years - still requires a second legislative vote before taking effect in January.",
-    "link": "http://www.euronews.com/2026/09/03/rubio-urges-allies-to-isolate-nicaraguas-brutal-dictatorship-after-vote-to-ban-opposition-",
-    "published": "Thu, 03 Sep 2026 08:31:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7d136e1517e7795040844619fefbbdf6",
-    "fetched_at": "2026-09-03T08:26:14.844063+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nepal Army cable helps Nuwakot flood survivors cross river",
-    "summary": "Flood survivors in Nuwakot cross the swollen Trishuli River on a temporary cable as soldiers and residents help pull them to safety.",
-    "link": "http://www.euronews.com/video/2026/09/03/nepal-army-cable-helps-nuwakot-flood-survivors-cross-river",
-    "published": "Thu, 03 Sep 2026 09:06:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4e3db5cb03c9143f81390ee5c58cf2e0",
-    "fetched_at": "2026-09-03T08:26:14.844061+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AI-powered robots showcased at European Parliament in Brussels",
-    "summary": "AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.",
-    "link": "http://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels",
-    "published": "Thu, 03 Sep 2026 10:18:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e38e8f2a95ad6f4c0035a3e173989eba",
-    "fetched_at": "2026-09-03T08:26:14.844058+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-    "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 15:33:14 GMT",
-    "source": "BBC News",
-    "id": "bc58687b1ee6808fd2fe52d475e63664",
-    "fetched_at": "2026-09-03T08:26:14.844056+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-    "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-    "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 11:47:11 GMT",
-    "source": "BBC News",
-    "id": "7e4889cb246dcb6a2dee8db45e3dcf5c",
-    "fetched_at": "2026-09-03T08:26:14.844054+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-    "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 03:21:24 GMT",
-    "source": "BBC News",
-    "id": "49022bfdd0c9ad39bba434aaa137dc89",
-    "fetched_at": "2026-09-03T08:26:14.844051+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Embattled Spanish PM Sánchez insists no prior warnings before Ceuta crisis",
-    "summary": "Spain's prime minister tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-    "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 08:14:17 GMT",
-    "source": "BBC News",
-    "id": "6cd270d83d022cf7a319419fde68442f",
-    "fetched_at": "2026-09-03T08:26:14.844049+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-    "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 05:00:04 GMT",
-    "source": "BBC News",
-    "id": "c36e2d9f277f361d0f89c29da0429a7b",
-    "fetched_at": "2026-09-03T08:26:14.844046+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
-    "summary": "Former Venezuelan President Nicolás Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country",
-    "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
-    "published": "Thu, 03 Sep 2026 02:39:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "3c3e562a8afb2e1bd714e998ced38ad9",
-    "fetched_at": "2026-09-03T08:26:14.844022+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-    "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-    "published": "Thu, 03 Sep 2026 03:04:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "d3c26a3cb346014ff3ee01d68c7a4392",
-    "fetched_at": "2026-09-03T08:26:13.718728+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S.-Israel relations are on the rocks ahead of elections",
-    "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-    "published": "Thu, 03 Sep 2026 04:06:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "7116d12bb034d1055797402a7bce0aab",
-    "fetched_at": "2026-09-03T08:26:12.556548+00:00"
   }
 ]
