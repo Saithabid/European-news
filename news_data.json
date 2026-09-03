@@ -1,5 +1,85 @@
 [
   {
+    "region": "USA",
+    "title": "Explosion near German train station injures 2 Ukrainian citizens",
+    "summary": "Two Ukrainian citizens suffered minor injuries in the Augsburg train station explosion as police investigate a possible motive amid rising tensions.",
+    "link": "https://www.foxnews.com/world/explosion-near-german-train-station-injures-2-ukrainian-citizens",
+    "published": "Wed, 02 Sep 2026 07:05:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "661a8c9a522199e768af232a0caedba9",
+    "fetched_at": "2026-09-03T02:23:18.153427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Raging inferno erupts at Bali beachside restaurant party",
+    "summary": "Video shows flames engulfing a restaurant in Bali, Indonesia, after a reported balloon explosion during a birthday party sparked a massive inferno.",
+    "link": "https://www.foxnews.com/world/raging-inferno-erupts-bali-beachside-restaurant-party",
+    "published": "Wed, 02 Sep 2026 08:17:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "db03e1a4e3f156cfeb4f3ecbc5eba55c",
+    "fetched_at": "2026-09-03T02:23:17.040121+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin signals support for Iran in ongoing war with the U.S.",
+    "summary": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
+    "published": "Wed, 02 Sep 2026 04:41:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "11fcf28c07e33457e5a920f8dbfe5825",
+    "fetched_at": "2026-09-03T02:23:15.935737+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+    "summary": "The German government blamed Russia for an attempted attack at Leipzig airport last month using a drone laden with explosives. It announced that it would shut down a Russian consulate among measures.",
+    "link": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack",
+    "published": "Wed, 02 Sep 2026 04:43:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "db661cceb8bde12ee2bb571b559646a7",
+    "fetched_at": "2026-09-03T02:23:14.808398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+    "summary": "Travelers from the U.S. and other nations are denied entry to Israel after interrogations about their links to Palestinians, plans to visit the occupied West Bank and opinions of Israel, lawyers say.",
+    "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+    "published": "Wed, 02 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "77d51af66ff2c906dcf7beeafa84d405",
+    "fetched_at": "2026-09-03T02:23:13.696046+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
+    "summary": "Immigration and Customs Enforcement says it now has enough body cameras to equip all of its agents. And, Congress votes to fund the government, averting a government shutdown ahead of the midterms.",
+    "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
+    "published": "Wed, 02 Sep 2026 07:08:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "7d7843c025f1c268741f26e9aa9c3afd",
+    "fetched_at": "2026-09-03T02:23:12.582830+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's prime minister is wooing the Gen Z while cracking down on them",
+    "summary": "Over two months, protesters, most who appeared to be digitally-savvy GenZ, used social media to organize. Government's efforts to respond spotlight how the ruling party appears to be playing catch-up.",
+    "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
+    "published": "Wed, 02 Sep 2026 07:11:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "5d220fc92a3af323b6bf556e4425596d",
+    "fetched_at": "2026-09-03T02:23:11.474812+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump $1 coin makes him first living president on US currency in a century",
+    "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"In God we trust\".",
+    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 01:56:05 GMT",
+    "source": "BBC News",
+    "id": "a5b95db768ce8717d68df766387c3ee3",
+    "fetched_at": "2026-09-03T02:23:10.354696+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
     "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "adcbd34a830d7e990be4ec11d68f317c",
     "fetched_at": "2026-09-02T13:59:15.938482+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sharp rise in utility bills pushes Russia's inflation further off target",
-    "summary": "The October increase follows a January rise and is the first double tariff hike in four years. The central bank warned it would push annual inflation further above its 4% target in an economy already squeezed by the costs of its war, sanctions and a 21% key interest rate.",
-    "link": "http://www.euronews.com/2026/09/02/sharp-rise-in-utility-bills-pushes-russias-inflation-further-off-target",
-    "published": "Wed, 02 Sep 2026 10:34:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "324322319fffd66683f546d0b9e24ac0",
-    "fetched_at": "2026-09-02T13:59:15.938480+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kyiv school year begins under the shadow of air raid sirens",
-    "summary": "Kyiv children began the new school year with a ceremony interrupted by an air raid alert, hours after Russian missile strikes hit the capital.",
-    "link": "http://www.euronews.com/video/2026/09/02/kyiv-school-year-begins-under-the-shadow-of-air-raid-sirens",
-    "published": "Wed, 02 Sep 2026 12:12:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8c8974438c845f5cb085150cc963cae7",
-    "fetched_at": "2026-09-02T13:59:15.938478+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From infrastructure to military drills, China deepens footprint in Egypt as Xi visits Cairo",
-    "summary": "Chinese President Xi Jinping’s return to Cairo comes as Egypt and China push their relationship beyond infrastructure and trade into technology, defence and a broader strategic partnership with regional implications.",
-    "link": "http://www.euronews.com/business/2026/09/02/from-infrastructure-to-military-drills-china-deepens-footprint-in-egypt-as-xi-visits-cairo",
-    "published": "Wed, 02 Sep 2026 13:53:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "83bb75284b062ae6747ea679b2e7ce4c",
-    "fetched_at": "2026-09-02T13:59:15.938476+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway's new king takes oath as mourners pay respects to his late father",
-    "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
-    "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 14:06:58 GMT",
-    "source": "BBC News",
-    "id": "21afde1b078bfc9276b86034f0ec5853",
-    "fetched_at": "2026-09-02T13:59:15.938474+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-    "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 15:33:14 GMT",
-    "source": "BBC News",
-    "id": "bc58687b1ee6808fd2fe52d475e63664",
-    "fetched_at": "2026-09-02T13:59:15.938472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pub's 'beloved' manager stabbed to death in Germany",
-    "summary": "Rebecca Bullock, 31, was attacked at Rosenheim station on Sunday.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgw8e8p0ngo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 12:51:35 GMT",
-    "source": "BBC News",
-    "id": "eaddcff7fc0b5984e808a339736a6838",
-    "fetched_at": "2026-09-02T13:59:15.938470+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-    "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-    "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 11:47:11 GMT",
-    "source": "BBC News",
-    "id": "7e4889cb246dcb6a2dee8db45e3dcf5c",
-    "fetched_at": "2026-09-02T13:59:15.938467+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-    "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 13:04:47 GMT",
-    "source": "BBC News",
-    "id": "49022bfdd0c9ad39bba434aaa137dc89",
-    "fetched_at": "2026-09-02T13:59:15.938465+00:00"
   }
 ]
