@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+    "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 17:14:21 GMT",
+    "source": "BBC News",
+    "id": "2735d0a8df90d30a3e24b88664ecd6d7",
+    "fetched_at": "2026-09-04T17:18:28.289591+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+    "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+    "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:30:50 GMT",
+    "source": "BBC News",
+    "id": "40215e7d688c30b404cb274c2a1c0c07",
+    "fetched_at": "2026-09-04T17:18:28.289589+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+    "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+    "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 14:40:00 GMT",
+    "source": "BBC News",
+    "id": "d5a3f6f32fba3a3bff21110918b5181c",
+    "fetched_at": "2026-09-04T17:18:28.289587+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+    "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 19:05:31 GMT",
+    "source": "BBC News",
+    "id": "bb41f269866a6add72d876da94b1937e",
+    "fetched_at": "2026-09-04T17:18:28.289585+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 16:32:05 GMT",
+    "source": "BBC News",
+    "id": "9721e1612e9818175088bd504d8162ec",
+    "fetched_at": "2026-09-04T17:18:28.289582+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burnham and Macron agree to scale up action on small boats",
+    "summary": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
+    "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 15:46:49 GMT",
+    "source": "BBC News",
+    "id": "4d53889e69de1734aae4f5e46222cc90",
+    "fetched_at": "2026-09-04T17:18:28.289580+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+    "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
+    "source": "BBC News",
+    "id": "08dc6be1c524c06e76b0aa34a9d9f97b",
+    "fetched_at": "2026-09-04T17:18:28.289577+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
+    "summary": "Vladimir Putin declared full solidarity with Iran as an expert said both nations &quot;need each other desperately&quot; during the escalating U.S.-Iran conflict.",
+    "link": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
+    "published": "Wed, 02 Sep 2026 13:44:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f5cfce4af1f8760b1f72dc4ba75a7310",
+    "fetched_at": "2026-09-04T17:18:28.289552+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
+    "summary": "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.",
+    "link": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
+    "published": "Fri, 04 Sep 2026 10:03:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ba0596b5f4c219d942bdadbe35637383",
+    "fetched_at": "2026-09-04T17:18:27.108250+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nepali community in Texas grieves and prays for healing after flash floods",
+    "summary": "Nepalese groups in North Texas, which has one of the largest communities of people from Nepal in the U.S., continue to grieve the loss of hundreds of people after the devastating floods in August.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5954535/nepali-community-in-texas-grieves-and-prays-for-healing-after-flash-floods",
+    "published": "Thu, 03 Sep 2026 16:29:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "3e205a8b87c781349c24b60c8c4fc874",
+    "fetched_at": "2026-09-04T17:18:25.944439+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada unveils new $20 bill featuring portrait of King Charles",
+    "summary": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cr50d2dyn70o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 19:18:13 GMT",
+    "source": "BBC News",
+    "id": "b37242f11c9040767e882a3b0d3859c0",
+    "fetched_at": "2026-09-04T17:18:24.788998+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+    "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
+    "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 01:26:23 GMT",
+    "source": "BBC News",
+    "id": "d0945218236e8151e0308be82b7404b8",
+    "fetched_at": "2026-09-04T17:18:23.649307+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Surprisingly strong US jobs figures fuel rate rise bets",
+    "summary": "The number of roles added to the US economy increased by 162,000 in August, almost triple the 56,000 forecast.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 14:38:19 GMT",
+    "source": "BBC News",
+    "id": "8e0ff0cdaea0885823c96fd826a693a4",
+    "fetched_at": "2026-09-04T17:18:22.494691+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How could US-Iran conflict end? Three experts give their views",
+    "summary": "After renewed strikes this week, does either side have an exit strategy?",
+    "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 09:14:57 GMT",
+    "source": "BBC News",
+    "id": "dd86ef1e6eb0fe491c3be4a82f6209db",
+    "fetched_at": "2026-09-04T17:18:21.349347+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happens if a mistrial is declared in Lindsay Clancy case?",
+    "summary": "Prosecutors could seek a new trial in the case of the US mother charged with murdering her three children in 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:24:44 GMT",
+    "source": "BBC News",
+    "id": "55f5f8a0974ff5e4e0e04e699ec3b25c",
+    "fetched_at": "2026-09-04T17:18:20.201737+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
     "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
     "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "5dd682403965672e9b9cc2f4c7209348",
     "fetched_at": "2026-09-04T08:21:55.307953+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-    "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 18:04:34 GMT",
-    "source": "BBC News",
-    "id": "9205d626d3e4b149035d877370765e2c",
-    "fetched_at": "2026-09-04T08:21:54.056138+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
-    "summary": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:48:06 GMT",
-    "source": "BBC News",
-    "id": "1f17a0abedaa3a0055df596de7dac074",
-    "fetched_at": "2026-09-04T02:18:22.420898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US investigating if missile hit Iran wedding, Vance says",
-    "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 22:19:59 GMT",
-    "source": "BBC News",
-    "id": "1b191213f894f4b3dd939cdf916f99d6",
-    "fetched_at": "2026-09-04T02:18:22.420896+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-    "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 16:16:49 GMT",
-    "source": "BBC News",
-    "id": "02a42a6cf1dff2ccd72e8c75aa168b7d",
-    "fetched_at": "2026-09-04T02:18:22.420894+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rubio urges US allies to isolate Nicaragua's 'brutal dictatorship' after vote to ban opposition parties",
-    "summary": "Ortega hit back at Washington dismissing US pressure while the reform - which also extends presidential terms to seven years - still requires a second legislative vote before taking effect in January.",
-    "link": "http://www.euronews.com/2026/09/03/rubio-urges-allies-to-isolate-nicaraguas-brutal-dictatorship-after-vote-to-ban-opposition-",
-    "published": "Thu, 03 Sep 2026 08:31:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7d136e1517e7795040844619fefbbdf6",
-    "fetched_at": "2026-09-04T02:18:22.420892+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nepal Army cable helps Nuwakot flood survivors cross river",
-    "summary": "Flood survivors in Nuwakot cross the swollen Trishuli River on a temporary cable as soldiers and residents help pull them to safety.",
-    "link": "http://www.euronews.com/video/2026/09/03/nepal-army-cable-helps-nuwakot-flood-survivors-cross-river",
-    "published": "Thu, 03 Sep 2026 09:06:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4e3db5cb03c9143f81390ee5c58cf2e0",
-    "fetched_at": "2026-09-04T02:18:22.420888+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AI-powered robots showcased at European Parliament in Brussels",
-    "summary": "AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence.",
-    "link": "http://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels",
-    "published": "Thu, 03 Sep 2026 10:18:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e38e8f2a95ad6f4c0035a3e173989eba",
-    "fetched_at": "2026-09-04T02:18:22.420885+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-    "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-    "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 03:21:24 GMT",
-    "source": "BBC News",
-    "id": "49022bfdd0c9ad39bba434aaa137dc89",
-    "fetched_at": "2026-09-04T02:18:22.420881+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-    "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
-    "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 05:00:04 GMT",
-    "source": "BBC News",
-    "id": "c36e2d9f277f361d0f89c29da0429a7b",
-    "fetched_at": "2026-09-04T02:18:22.420854+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Embattled Spanish PM insists no prior warnings before Ceuta crisis",
-    "summary": "Spain's prime minister tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-    "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 12:18:07 GMT",
-    "source": "BBC News",
-    "id": "6cd270d83d022cf7a319419fde68442f",
-    "fetched_at": "2026-09-04T02:18:21.283819+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
-    "summary": "A human rights activist says Iran&apos;s regime fears its own population more than U.S. airstrikes, using Strait of Hormuz friction for survival.",
-    "link": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
-    "published": "Thu, 03 Sep 2026 18:30:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94318928eca47836838bcdbab9750569",
-    "fetched_at": "2026-09-04T02:18:20.152044+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
-    "summary": "Former Venezuelan President Nicolás Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country",
-    "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
-    "published": "Thu, 03 Sep 2026 02:39:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "3c3e562a8afb2e1bd714e998ced38ad9",
-    "fetched_at": "2026-09-04T02:18:18.964090+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-    "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-    "published": "Thu, 03 Sep 2026 03:04:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "d3c26a3cb346014ff3ee01d68c7a4392",
-    "fetched_at": "2026-09-04T02:18:17.832446+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S.-Israel relations are on the rocks ahead of elections",
-    "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-    "published": "Thu, 03 Sep 2026 04:06:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "7116d12bb034d1055797402a7bce0aab",
-    "fetched_at": "2026-09-04T02:18:16.689577+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Transplanted pig kidney works in US man's body for record 271 days",
-    "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-    "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 22:31:23 GMT",
-    "source": "BBC News",
-    "id": "ad711b3bc468445fbd9d6c5b6a11b000",
-    "fetched_at": "2026-09-04T02:18:15.554178+00:00"
   }
 ]
