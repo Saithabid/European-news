@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+    "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 22:48:38 GMT",
+    "source": "BBC News",
+    "id": "c2ea84b6c19cb9ea5d6e199ef84b36ef",
+    "fetched_at": "2026-09-04T23:35:49.481825+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump presses Supreme Court to curb mail voting as ballots begin reaching Americans",
+    "summary": "A federal judge's ruling that compliance was \"practically impossible,\" paired with a whistleblower's warning that millions of ballots could go undelivered, has thrown the run-up to a pivotal midterm vote into legal disarray.",
+    "link": "http://www.euronews.com/2026/09/04/trump-presses-supreme-court-to-curb-mail-voting-as-ballots-begin-reaching-americans",
+    "published": "Fri, 04 Sep 2026 09:43:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "446fffa7ce45c4d2cf3de8d90b83bd53",
+    "fetched_at": "2026-09-04T23:35:49.481821+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 07:00:10 GMT",
+    "source": "BBC News",
+    "id": "9000a273022c3fa33f43d48a3b589ef1",
+    "fetched_at": "2026-09-04T23:35:49.481796+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+    "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 23:07:23 GMT",
+    "source": "BBC News",
+    "id": "6c93631b556c5b666d3d277f1a51ca82",
+    "fetched_at": "2026-09-04T23:35:48.338004+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods",
+    "summary": "Officials say rescuers in Nepal have pulled two workers alive from a tunnel Friday during an ongoing operation. The rescues come nine days after the Aug. 26 floods.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-141943/workers-rescued-nepal-tunnel",
+    "published": "Fri, 04 Sep 2026 01:22:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "6cb766dfd2088e3fef6e96e218ce2f12",
+    "fetched_at": "2026-09-04T23:35:47.191931+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Argentina escalates Falklands dispute with the U.K., seizing on Trump comments",
+    "summary": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+    "published": "Fri, 04 Sep 2026 01:30:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "8b91c39539848c919ea4cc1775637d40",
+    "fetched_at": "2026-09-04T23:35:46.041829+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia intensifies attacks on Ukraine's capital",
+    "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
+    "link": "https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital",
+    "published": "Fri, 04 Sep 2026 04:00:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "bff77855a9ab34027b977b820f3dae24",
+    "fetched_at": "2026-09-04T23:35:44.900171+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.N. backs a new world map showing Africa in its true relative size",
+    "summary": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
+    "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+    "published": "Fri, 04 Sep 2026 18:26:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "047ee9e10dcd27f1c86109c522d00ff3",
+    "fetched_at": "2026-09-04T23:35:43.752133+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Examining US official's claim that data centres 'don't use water'",
+    "summary": "US Commerce Secretary Howard Lutnick falsely suggested that data centres don't use water.",
+    "link": "https://www.bbc.co.uk/news/videos/ced7yj7564zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 20:06:56 GMT",
+    "source": "BBC News",
+    "id": "ece63d006136a72582657b3ced940d5b",
+    "fetched_at": "2026-09-04T23:35:42.484892+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's response is key as Argentina's Falklands demands get louder",
+    "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 20:34:06 GMT",
+    "source": "BBC News",
+    "id": "7297023831965383779dca5d1ecc5242",
+    "fetched_at": "2026-09-04T23:35:41.330587+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN votes to adopt new world map to reflect Africa's true size",
     "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
     "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "8aad1405bf2dd6deff483e044a34c3ba",
     "fetched_at": "2026-09-04T08:22:02.512158+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-    "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 04:06:41 GMT",
-    "source": "BBC News",
-    "id": "12e970c9378295a4447914c3707a81a3",
-    "fetched_at": "2026-09-04T08:22:02.512157+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-    "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-    "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 06:52:29 GMT",
-    "source": "BBC News",
-    "id": "4431aba8319abd9d636994fbdb96c8a1",
-    "fetched_at": "2026-09-04T08:22:02.512154+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-    "summary": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-    "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 02:20:37 GMT",
-    "source": "BBC News",
-    "id": "ff512b68daafdc81ac732118f355c816",
-    "fetched_at": "2026-09-04T08:22:02.512152+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 4th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/04/latest-news-bulletin-september-4th-2026-morning",
-    "published": "Fri, 04 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "251d6f2cf38d495fc290c7373a4a0f01",
-    "fetched_at": "2026-09-04T08:22:02.512150+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran hits US military targets in the region as Washington probes deadly wedding strike",
-    "summary": "Oil prices again spiked this week after a few weeks of relative stability following the renewed fighting as Iran continues to maintain a stranglehold over the strategic Strait of Hormuz, responsible for roughly 20% of global oil shipping.",
-    "link": "http://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
-    "published": "Fri, 04 Sep 2026 05:42:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dcc3dcc48fe22fb4a7842e0e304f781e",
-    "fetched_at": "2026-09-04T08:22:02.512148+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump administration pushes to remove tax exemptions for private universities with DEI policies",
-    "summary": "The Trump administration says its proposed legislation aims to make university equal and accessible to all and end “woke” campaigns which deliberately favour certain students over others due to socioeconomic or racial backgrounds.",
-    "link": "http://www.euronews.com/2026/09/04/trump-administration-pushes-to-remove-tax-exemptions-for-private-universities-with-dei-pol",
-    "published": "Fri, 04 Sep 2026 06:02:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c55c642c45e7799cc84185600bdca5c2",
-    "fetched_at": "2026-09-04T08:22:02.512146+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two trapped workers rescued from hydropower tunnel nine days after Nepal floods",
-    "summary": "About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.",
-    "link": "http://www.euronews.com/2026/09/04/two-trapped-workers-rescued-from-hydropower-tunnel-nine-days-after-nepal-floods",
-    "published": "Fri, 04 Sep 2026 07:25:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e114dd31ed9fc056aff98258aebcbc2c",
-    "fetched_at": "2026-09-04T08:22:02.512144+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two US sailors removed from Thai resort town after drunken brawl",
-    "summary": "The USS Abraham Lincoln's arrival has drawn global media interest after reports of deteriorating living conditions on board after more than 280 days at sea.",
-    "link": "http://www.euronews.com/2026/09/04/two-us-sailors-removed-from-thai-resort-town-after-drunken-brawl",
-    "published": "Fri, 04 Sep 2026 08:08:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2f39b24020f7213f547bb2ec6d5962bf",
-    "fetched_at": "2026-09-04T08:22:02.512141+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two hydropower workers rescued alive after nine days trapped in Nepal tunnel",
-    "summary": "Nepal Army images show two hydropower workers rescued alive after nine days trapped inside a flood-buried tunnel in Rasuwa.",
-    "link": "http://www.euronews.com/video/2026/09/04/two-hydropower-workers-rescued-alive-after-nine-days-trapped-in-nepal-tunnel",
-    "published": "Fri, 04 Sep 2026 08:12:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8125e34dd6df96b9d9c81d49ae598fec",
-    "fetched_at": "2026-09-04T08:22:02.512138+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Milei touts 'winds of change' as he reasserts Argentina's claim to the Falklands",
-    "summary": "It comes after US President Donald Trump cast doubt on US support for the UK in a potential conflict over the territory, pointing to Britain's lack of backing in the Iran war.",
-    "link": "http://www.euronews.com/2026/09/04/milei-touts-winds-of-change-as-he-reasserts-argentinas-claim-to-the-falklands",
-    "published": "Fri, 04 Sep 2026 08:38:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7291b85241bf5058f124e8196fab88cc",
-    "fetched_at": "2026-09-04T08:22:02.512135+00:00"
   }
 ]
