@@ -1,6 +1,276 @@
 [
   {
     "region": "Europe",
+    "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+    "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 07:16:07 GMT",
+    "source": "BBC News",
+    "id": "652a91b6bf2091fe32ce9af846870cc9",
+    "fetched_at": "2026-09-04T13:54:34.563616+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+    "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 13:00:44 GMT",
+    "source": "BBC News",
+    "id": "cd94bb03bc4fe30f6fece9b80ed9a212",
+    "fetched_at": "2026-09-04T13:54:34.563614+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+    "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+    "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 11:54:51 GMT",
+    "source": "BBC News",
+    "id": "d1f3730c75a6af3bf233dd2fa068d388",
+    "fetched_at": "2026-09-04T13:54:34.563613+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+    "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+    "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 08:23:05 GMT",
+    "source": "BBC News",
+    "id": "addab943cb0bab322f29fd50ec4e0a8b",
+    "fetched_at": "2026-09-04T13:54:34.563611+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Investigation into Air India flight plunge highlights triple hydraulic failure and pilot drug test",
+    "summary": "India's Aircraft Accident Investigation Bureau said the aircraft detected a triple-hydraulic failure, with the autopilot disengaging and a stall warning triggered for two seconds.",
+    "link": "http://www.euronews.com/2026/09/04/investigation-into-air-india-flight-plunge-highlights-triple-hydraulic-failure-and-pilot-d",
+    "published": "Fri, 04 Sep 2026 11:57:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f27102613434176eea6b2eec499db9ed",
+    "fetched_at": "2026-09-04T13:54:34.563610+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tanker captain arrested over cargo ship sinking off Istanbul, prosecutors say",
+    "summary": "Search and resuce operations are ongoing with teams yet to reach the wreckage of the Tuğberk İmamoğlu or locate its voyage data recorder (VDR) or \"black box.\"",
+    "link": "http://www.euronews.com/my-europe/2026/09/04/tanker-captain-arrested-over-cargo-ship-sinking-off-istanbul-prosecutors-say",
+    "published": "Fri, 04 Sep 2026 12:13:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4c60a899a0d56f8473dd076692c08149",
+    "fetched_at": "2026-09-04T13:54:34.563609+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Malaysia declares air quality emergency as haze linked to Indonesia fires reaches critical level",
+    "summary": "Haze is a recurring seasonal problem in Southeast Asia, where smoke from forest and peat fires in Indonesia can travel across national borders and affect neighbouring Malaysia, Brunei and Singapore.",
+    "link": "http://www.euronews.com/2026/09/04/malaysia-declares-air-quality-emergency-as-haze-linked-to-indonesia-fires-reaches-critical",
+    "published": "Fri, 04 Sep 2026 13:02:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1cb15c0e5c1121b238115a9124bfc964",
+    "fetched_at": "2026-09-04T13:54:34.563607+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italian Grand Prix declared heat-hazard race",
+    "summary": "The Italian Grand Prix is declared a heat-hazard race as high temperatures continue in the country following the summer heatwave.",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c99dp0zeymjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 09:41:30 GMT",
+    "source": "BBC News",
+    "id": "c03d8dc904ec834e976da9e58787c296",
+    "fetched_at": "2026-09-04T13:54:34.563606+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
+    "summary": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
+    "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 11:30:38 GMT",
+    "source": "BBC News",
+    "id": "cab9de07861bac78ffbf876db714c124",
+    "fetched_at": "2026-09-04T13:54:34.563604+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian quits college team over Russian signing",
+    "summary": "Ukrainian Kate Koval says she left Louisiana State University's basketball programme because of the team's decision to sign a Russian player.",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 06:22:40 GMT",
+    "source": "BBC News",
+    "id": "243a6384454a0ad2f95c4fc8a346f99e",
+    "fetched_at": "2026-09-04T13:54:34.563603+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+    "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 10:37:06 GMT",
+    "source": "BBC News",
+    "id": "5f93d7748fbed0221bca32027a055b6d",
+    "fetched_at": "2026-09-04T13:54:34.563601+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 10:00:18 GMT",
+    "source": "BBC News",
+    "id": "202bc5beb976ce81fe7b01aaadee8bac",
+    "fetched_at": "2026-09-04T13:54:34.563600+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump revives Iran regime change speculation with cryptic call for people to 'rise up'",
+    "summary": "Trump asking when Iranians will “rise up and fight&quot; revives questions over whether the administration’s Iran strategy is shifting beyond economic pressure and negotiations",
+    "link": "https://www.foxnews.com/world/trump-revives-iran-regime-change-speculation-cryptic-call-people-rise-up",
+    "published": "Wed, 02 Sep 2026 12:53:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5a6604fe8eaa7013bdd6f5aeec937b95",
+    "fetched_at": "2026-09-04T13:54:34.563598+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rescuers use ziplines to transport trapped citizens after devastating Nepal floods decimate country's bridges",
+    "summary": "Video shows rescue workers using cable cars and ziplines to ferry stranded citizens across flooded rivers in Nepal after the deadly mudslide.",
+    "link": "https://www.foxnews.com/world/rescuers-ziplines-transport-trapped-citizens-devastating-nepal-floods-decimate-countrys-bridges",
+    "published": "Wed, 02 Sep 2026 13:07:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fbdcba7fed467482f4d398ab0bef805d",
+    "fetched_at": "2026-09-04T13:54:34.563596+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
+    "summary": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln&apos;s arrival, arresting over 50 people as 5,000 sailors hit the resort city.",
+    "link": "https://www.foxnews.com/world/thai-resort-city-cracks-down-prostitution-ahead-uss-abraham-lincoln-arrival",
+    "published": "Wed, 02 Sep 2026 13:26:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "460123a3bc9f7bf97d4dd42e1e1c63e8",
+    "fetched_at": "2026-09-04T13:54:34.563594+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
+    "summary": "President Sandu&apos;s national security advisor, Stanislav Secrieru, says Russia&apos;s strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.",
+    "link": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
+    "published": "Thu, 03 Sep 2026 07:00:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "719103af20be48fbcb3b73db29c17668",
+    "fetched_at": "2026-09-04T13:54:34.563592+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners",
+    "summary": "Trump administration Iran sanctions threaten India&apos;s commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions.",
+    "link": "https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners",
+    "published": "Thu, 03 Sep 2026 07:46:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "22a98c9867627334f9691365012ffe8c",
+    "fetched_at": "2026-09-04T13:54:34.563590+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands flood streets to protest Spain border crisis",
+    "summary": "Tens of thousands protested Pedro Sanchez across Spain as 50,000 marched in Madrid over the migrant crisis in Ceuta following July&apos;s border surge.",
+    "link": "https://www.foxnews.com/world/tens-thousands-flood-streets-protest-spain-border-crisis",
+    "published": "Thu, 03 Sep 2026 08:39:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e59754bb277873b4198e6a4b0d7db680",
+    "fetched_at": "2026-09-04T13:54:34.563588+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US adversary turns up the heat on America’s AI lead with an underestimated edge",
+    "summary": "China&apos;s &quot;East Data, West Computing&quot; initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing&apos;s push.",
+    "link": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
+    "published": "Fri, 04 Sep 2026 06:00:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5cba284aa6bbb2ecdecb4a1633090f26",
+    "fetched_at": "2026-09-04T13:54:34.563586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As El Niño intensifies, Rio turns to science — and a spiritual adviser",
+    "summary": "This year's Super El Niño has brought unprecedented weather to Rio de Janeiro. Unaccustomed to tornado-strength winds, the city found an unusual partner to combat the weather: a spiritual adviser.",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5944344/as-el-nino-intensifies-rio-turns-to-science-and-a-spiritual-advisor",
+    "published": "Thu, 03 Sep 2026 16:32:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "a07e18b6bb7abdf8af74a16b32768347",
+    "fetched_at": "2026-09-04T13:54:34.563553+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's far-right AfD party is poised for power in a state election",
+    "summary": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
+    "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+    "published": "Fri, 04 Sep 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "63aa57924f9b0e87827b1eecd8e0c1d5",
+    "fetched_at": "2026-09-04T13:54:33.426336+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+    "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+    "published": "Fri, 04 Sep 2026 07:29:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "8f6b86eebaf024ed98ea675247c807f0",
+    "fetched_at": "2026-09-04T13:54:32.279926+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Myanmar military head visits Vietnam to normalize relations",
+    "summary": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+    "published": "Fri, 04 Sep 2026 09:35:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "cc7d11df047284579086bbf8651feaf1",
+    "fetched_at": "2026-09-04T13:54:31.145007+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Philippine vice president is ordered arrested for threats against the president",
+    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+    "published": "Fri, 04 Sep 2026 09:42:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "699ee737c781e59eed755b0b6eec33ce",
+    "fetched_at": "2026-09-04T13:54:29.992362+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US man struck by lightning describes 'horrific' experience",
+    "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
+    "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 10:01:33 GMT",
+    "source": "BBC News",
+    "id": "c01873f6088cdbe1ba40c7def33e05cf",
+    "fetched_at": "2026-09-04T13:54:28.851460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+    "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
+    "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 18:14:57 GMT",
+    "source": "BBC News",
+    "id": "b7fb275471c5af8c47838abc6f394575",
+    "fetched_at": "2026-09-04T13:54:27.715554+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US diesel prices hit an all-time-high",
+    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 10:52:56 GMT",
+    "source": "BBC News",
+    "id": "bcdfd5c5901585bb82947d6e7f9540e2",
+    "fetched_at": "2026-09-04T13:54:26.573866+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
     "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
     "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
@@ -328,275 +598,5 @@
     "source": "BBC News",
     "id": "ad711b3bc468445fbd9d6c5b6a11b000",
     "fetched_at": "2026-09-04T02:18:15.554178+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-    "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-    "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 00:54:46 GMT",
-    "source": "BBC News",
-    "id": "f079d553f4341221d2c0cce676735645",
-    "fetched_at": "2026-09-04T02:18:14.398690+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump $1 coin makes him first living president on US currency in a century",
-    "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:35:47 GMT",
-    "source": "BBC News",
-    "id": "a5b95db768ce8717d68df766387c3ee3",
-    "fetched_at": "2026-09-03T22:05:27.852180+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump hints US may not back UK over Falkland Islands, citing lack of Iran support",
-    "summary": "The US recognises Britain's administration of the Falkland Islands but remains neutral over the competing sovereignty claims.",
-    "link": "http://www.euronews.com/2026/09/03/trump-hints-us-may-not-back-uk-over-falkland-islands-citing-lack-of-iran-support",
-    "published": "Thu, 03 Sep 2026 21:33:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cfb0484e5db3a95ff329114b2aa51282",
-    "fetched_at": "2026-09-03T22:05:27.852177+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Explosion near German train station injures 2 Ukrainian citizens",
-    "summary": "Two Ukrainian citizens suffered minor injuries in the Augsburg train station explosion as police investigate a possible motive amid rising tensions.",
-    "link": "https://www.foxnews.com/world/explosion-near-german-train-station-injures-2-ukrainian-citizens",
-    "published": "Wed, 02 Sep 2026 07:05:24 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "661a8c9a522199e768af232a0caedba9",
-    "fetched_at": "2026-09-03T22:05:27.852173+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Raging inferno erupts at Bali beachside restaurant party",
-    "summary": "Video shows flames engulfing a restaurant in Bali, Indonesia, after a reported balloon explosion during a birthday party sparked a massive inferno.",
-    "link": "https://www.foxnews.com/world/raging-inferno-erupts-bali-beachside-restaurant-party",
-    "published": "Wed, 02 Sep 2026 08:17:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "db03e1a4e3f156cfeb4f3ecbc5eba55c",
-    "fetched_at": "2026-09-03T22:05:27.852143+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Critics question legality of Venezuela oil deals",
-    "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals",
-    "published": "Thu, 03 Sep 2026 04:07:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "5bbaf1103f8c7a088bf7cf5861792017",
-    "fetched_at": "2026-09-03T22:05:26.700057+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China's Xi visits Egypt for the first time in a decade",
-    "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
-    "published": "Thu, 03 Sep 2026 04:08:39 -0400",
-    "source": "NPR Topics: World",
-    "id": "719898ce15490ad8abe6f15205a3ea88",
-    "fetched_at": "2026-09-03T22:05:25.576692+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Families of the missing in Nepal's flash floods perform symbolic cremations",
-    "summary": "Eight days after Nepal's flash floods, families who can't find loved ones perform symbolic cremations.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5954190/families-of-the-missing-in-nepals-flash-floods-perform-symbolic-cremations",
-    "published": "Thu, 03 Sep 2026 04:11:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "4cb9dd6d1d315e4d7268e22e78beaa68",
-    "fetched_at": "2026-09-03T22:05:24.434866+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nepali community in Texas grieves and prays for healing after flash floods",
-    "summary": "Nepalese groups in North Texas, which has one of the largest communities of people from Nepal in the U.S., continue to grieve the loss of hundreds of people after the devastating floods in August.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5954535/nepali-community-in-texas-grieves-and-prays-for-healing-after-flash-floods",
-    "published": "Thu, 03 Sep 2026 16:29:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "3e205a8b87c781349c24b60c8c4fc874",
-    "fetched_at": "2026-09-03T22:05:23.293622+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada unveils new $20 bill featuring portrait of King Charles",
-    "summary": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cr50d2dyn70o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 19:18:13 GMT",
-    "source": "BBC News",
-    "id": "b37242f11c9040767e882a3b0d3859c0",
-    "fetched_at": "2026-09-03T22:05:22.171321+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-    "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-    "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 20:49:05 GMT",
-    "source": "BBC News",
-    "id": "d0945218236e8151e0308be82b7404b8",
-    "fetched_at": "2026-09-03T22:05:21.026586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Defence calls for one juror to be dismissed in Lindsay Clancy case",
-    "summary": "The jury has been sent back to continue deliberations after receiving further instructions on the law from the judge.",
-    "link": "https://www.bbc.co.uk/news/videos/c3v49926063o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 19:52:59 GMT",
-    "source": "BBC News",
-    "id": "669dbd32aa6dffb5c5862eaa0286cb8b",
-    "fetched_at": "2026-09-03T22:05:19.876479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-    "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-    "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 13:54:49 GMT",
-    "source": "BBC News",
-    "id": "dd49d23bb4df7e7640fb471ffaa1e0ea",
-    "fetched_at": "2026-09-03T19:00:01.234867+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Chilean penguins fitted with vests to protect healing wounds",
-    "summary": "Injured Humboldt penguins in Chile are fitted with recovery vests designed to protect wounds and prevent them from damaging stitches as they heal.",
-    "link": "http://www.euronews.com/video/2026/09/03/chilean-penguins-fitted-with-vests-to-protect-healing-wounds",
-    "published": "Thu, 03 Sep 2026 16:31:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7ec5d4b8b8f053f52ba58bfc5786e620",
-    "fetched_at": "2026-09-03T19:00:01.234865+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "General charged over Kyiv children's hospital strike shot in Russia",
-    "summary": "Major General Nikolai Varpakhovich, commander of a heavy bomber division and charged in absentia by Ukraine over the 2024 Okhmatdyt children's hospital strike, was shot twice by a motorbike gunman near Engels airbase and airlifted to Moscow in serious condition.",
-    "link": "http://www.euronews.com/2026/09/03/general-charged-over-kyiv-childrens-hospital-strike-shot-in-russia",
-    "published": "Thu, 03 Sep 2026 16:49:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b77881ad834257839c74fc3b7f16c9b7",
-    "fetched_at": "2026-09-03T19:00:01.234864+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian café chain mogul jailed and stripped of assets for backing January protests",
-    "summary": "Sadegh Saeedinia, manager of the Saeedinia café chain, was convicted of \"propaganda against national security\" for posting about the January protests on Instagram and encouraging staff to strike, in one of the harshest sentences handed to a private entrepreneur since the unrest.",
-    "link": "http://www.euronews.com/2026/09/03/iranian-cafe-chain-mogul-jailed-and-stripped-of-assets-for-backing-january-protests",
-    "published": "Thu, 03 Sep 2026 17:43:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "218560cc8b9182390ea4e778388cd7cc",
-    "fetched_at": "2026-09-03T19:00:01.234862+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russians skewer authorities for ordering citizens to register their chicken",
-    "summary": "A government decree requiring registration of domestic birds, camels and reindeer took effect Tuesday, sending Russians to government service centres with live chickens in tow before authorities clarified that owners did not need to bring their animals anywhere.",
-    "link": "http://www.euronews.com/2026/09/03/russians-skewer-authorities-for-ordering-citizens-to-register-their-chicken",
-    "published": "Thu, 03 Sep 2026 18:06:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6f51d84b3a5230fcf3997fdf4b5de262",
-    "fetched_at": "2026-09-03T19:00:01.234860+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two arrested after attack on defence companies in Munich",
-    "summary": "In Munich, a man and a woman allegedly attempted to carry out an arson attack outside the premises of two defence companies. The pair were arrested.",
-    "link": "http://www.euronews.com/my-europe/2026/09/03/two-arrested-after-attack-on-defence-companies-in-munich",
-    "published": "Thu, 03 Sep 2026 18:26:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e0872d3870c148f9b58839a889260d6b",
-    "fetched_at": "2026-09-03T19:00:01.234858+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-    "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 19:05:31 GMT",
-    "source": "BBC News",
-    "id": "bb41f269866a6add72d876da94b1937e",
-    "fetched_at": "2026-09-03T19:00:01.234855+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 16:32:05 GMT",
-    "source": "BBC News",
-    "id": "9721e1612e9818175088bd504d8162ec",
-    "fetched_at": "2026-09-03T19:00:01.234853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burnham and Macron agree to scale up action on small boats",
-    "summary": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:46:49 GMT",
-    "source": "BBC News",
-    "id": "4d53889e69de1734aae4f5e46222cc90",
-    "fetched_at": "2026-09-03T19:00:01.234851+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany blames Russia after explosive-laden drone found near Ukrainian cargo planes at major airport",
-    "summary": "Germany closed Russia&apos;s Bonn consulate after linking Moscow to a failed drone attack at Leipzig/Halle Airport targeting a Ukrainian cargo aircraft.",
-    "link": "https://www.foxnews.com/world/germany-blames-russia-explosive-laden-drone-found-near-ukrainian-cargo-planes-major-airport",
-    "published": "Tue, 01 Sep 2026 20:33:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bf8bc6f3e674123cddb444dd6c9eab8d",
-    "fetched_at": "2026-09-03T19:00:01.234816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
-    "summary": "Vladimir Putin declared full solidarity with Iran as an expert said both nations &quot;need each other desperately&quot; during the escalating U.S.-Iran conflict.",
-    "link": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
-    "published": "Wed, 02 Sep 2026 13:44:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f5cfce4af1f8760b1f72dc4ba75a7310",
-    "fetched_at": "2026-09-03T19:00:00.128816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
-    "summary": "Investigative journalist Daphne Caruana Galizia had written extensively about suspected corruption in political and business circles in Malta. She was killed by a car bomb in 2017, at age 53.",
-    "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
-    "published": "Wed, 02 Sep 2026 15:48:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "f82d2cf1542b3d13d91daf04fba27405",
-    "fetched_at": "2026-09-03T18:59:58.993190+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-    "summary": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 11:47:51 GMT",
-    "source": "BBC News",
-    "id": "e5850d02c647e17efaa58ae675babbba",
-    "fetched_at": "2026-09-03T18:59:57.886646+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge blocks another effort by Trump to limit birthright citizenship",
-    "summary": "A judge cited the earlier Supreme Court ruling blocking Trump's effort as precedent for blocking it again.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g58p6j72no?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:24:53 GMT",
-    "source": "BBC News",
-    "id": "7113ce88e331695495a7854532c39638",
-    "fetched_at": "2026-09-03T18:59:56.787417+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
-    "summary": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
-    "link": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 17:52:37 GMT",
-    "source": "BBC News",
-    "id": "acabed4107ffcbbc155524a1282ef4c4",
-    "fetched_at": "2026-09-03T18:59:55.685647+00:00"
   }
 ]
