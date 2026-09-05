@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+    "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 21:29:38 GMT",
+    "source": "BBC News",
+    "id": "03ae9484117fe912ba28858709940c9d",
+    "fetched_at": "2026-09-05T21:49:21.624075+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Prince William to attend King Harald's funeral in Norway",
+    "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+    "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 21:00:02 GMT",
+    "source": "BBC News",
+    "id": "0527f11b1ecb20df77bc77dbeba9ceee",
+    "fetched_at": "2026-09-05T21:49:21.624049+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+    "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 07:00:10 GMT",
+    "source": "BBC News",
+    "id": "9000a273022c3fa33f43d48a3b589ef1",
+    "fetched_at": "2026-09-05T21:49:20.509318+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+    "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 23:07:23 GMT",
+    "source": "BBC News",
+    "id": "6c93631b556c5b666d3d277f1a51ca82",
+    "fetched_at": "2026-09-05T21:49:19.402871+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "From cockroach milk to stepping on snakes, Ig Nobel awards celebrates science at its oddest",
+    "summary": "Cockroach milk, kissing evolution and the underwear soil test were among the unusual real studies honored at the Ig Nobel ceremony in Zurich.",
+    "link": "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
+    "published": "Fri, 04 Sep 2026 21:28:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "474393ac14a86d24da7cd38d850e793e",
+    "fetched_at": "2026-09-05T21:49:18.299820+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
+    "summary": "Video captures the Phantom F4 jet crashing into the ground during a low-altitude maneuver at Tanagra air force base as thousands watched on.",
+    "link": "https://www.foxnews.com/world/fighter-jet-crashes-air-show-killing-2-pilots-thousands-spectators-watching",
+    "published": "Sat, 05 Sep 2026 16:16:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0eeffc07401293cf7409038332d6417a",
+    "fetched_at": "2026-09-05T21:49:17.179363+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
+    "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report",
+    "published": "Sat, 05 Sep 2026 17:01:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "9f0e5a5ace36c316f2397f802bad8005",
+    "fetched_at": "2026-09-05T21:49:16.071062+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
+    "summary": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
+    "published": "Sat, 05 Sep 2026 17:01:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "cf59ddf9f929105b21cd0c064fead3e8",
+    "fetched_at": "2026-09-05T21:49:14.924124+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+    "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 22:48:38 GMT",
+    "source": "BBC News",
+    "id": "c2ea84b6c19cb9ea5d6e199ef84b36ef",
+    "fetched_at": "2026-09-05T21:49:13.814063+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "UN votes to adopt new world map to reflect Africa's true size",
     "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
     "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "bcdfd5c5901585bb82947d6e7f9540e2",
     "fetched_at": "2026-09-05T07:57:52.252254+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How much can Canada fight back in its trade war with the US?",
-    "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-    "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 02:13:21 GMT",
-    "source": "BBC News",
-    "id": "7cc7377a6b93042a2deffddb0a125d35",
-    "fetched_at": "2026-09-05T07:57:51.119708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-    "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
-    "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 01:26:29 GMT",
-    "source": "BBC News",
-    "id": "17a476c468f26a15acf5f8e8be040d2b",
-    "fetched_at": "2026-09-05T07:57:49.994472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-    "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 04:06:41 GMT",
-    "source": "BBC News",
-    "id": "12e970c9378295a4447914c3707a81a3",
-    "fetched_at": "2026-09-05T02:19:05.764717+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump administration pushes to remove tax exemptions for private universities with DEI policies",
-    "summary": "The Trump administration says its proposed legislation aims to make university equal and accessible to all and end “woke” campaigns which deliberately favour certain students over others due to socioeconomic or racial backgrounds.",
-    "link": "http://www.euronews.com/2026/09/04/trump-administration-pushes-to-remove-tax-exemptions-for-private-universities-with-dei-pol",
-    "published": "Fri, 04 Sep 2026 06:02:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c55c642c45e7799cc84185600bdca5c2",
-    "fetched_at": "2026-09-05T02:19:04.624050+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two trapped workers rescued from hydropower tunnel nine days after Nepal floods",
-    "summary": "About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.",
-    "link": "http://www.euronews.com/2026/09/04/two-trapped-workers-rescued-from-hydropower-tunnel-nine-days-after-nepal-floods",
-    "published": "Fri, 04 Sep 2026 07:25:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e114dd31ed9fc056aff98258aebcbc2c",
-    "fetched_at": "2026-09-05T02:19:03.478965+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two US sailors removed from Thai resort town after drunken brawl",
-    "summary": "The USS Abraham Lincoln's arrival has drawn global media interest after reports of deteriorating living conditions on board after more than 280 days at sea.",
-    "link": "http://www.euronews.com/2026/09/04/two-us-sailors-removed-from-thai-resort-town-after-drunken-brawl",
-    "published": "Fri, 04 Sep 2026 08:08:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2f39b24020f7213f547bb2ec6d5962bf",
-    "fetched_at": "2026-09-05T02:19:02.346790+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two hydropower workers rescued alive after nine days trapped in Nepal tunnel",
-    "summary": "Nepal Army images show two hydropower workers rescued alive after nine days trapped inside a flood-buried tunnel in Rasuwa.",
-    "link": "http://www.euronews.com/video/2026/09/04/two-hydropower-workers-rescued-alive-after-nine-days-trapped-in-nepal-tunnel",
-    "published": "Fri, 04 Sep 2026 08:12:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8125e34dd6df96b9d9c81d49ae598fec",
-    "fetched_at": "2026-09-05T02:19:01.198172+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK reaffirms 'unshakeable' commitment to Falklands after Milei reiterates Argentina's claim to the islands",
-    "summary": "US President Donald Trump has cast doubt on US support for the UK in a potential conflict over the territory, pointing to Britain's lack of backing in the Iran war.",
-    "link": "http://www.euronews.com/2026/09/04/milei-touts-winds-of-change-as-he-reasserts-argentinas-claim-to-the-falklands",
-    "published": "Fri, 04 Sep 2026 08:38:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7291b85241bf5058f124e8196fab88cc",
-    "fetched_at": "2026-09-05T02:19:00.057592+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
-    "summary": "Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.",
-    "link": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
-    "published": "Fri, 04 Sep 2026 20:05:10 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b0727ac390865333f3cd3e2b8fdd6673",
-    "fetched_at": "2026-09-05T02:18:58.920217+00:00"
   }
 ]
