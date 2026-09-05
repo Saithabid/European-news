@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+    "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+    "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 12:30:56 GMT",
+    "source": "BBC News",
+    "id": "8eb3a7895bf25ca40e81523888e6dd00",
+    "fetched_at": "2026-09-05T11:40:29.331895+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+    "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 11:07:08 GMT",
+    "source": "BBC News",
+    "id": "de31b05e0bc352acb613f8c91378008c",
+    "fetched_at": "2026-09-05T11:40:29.331893+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 5th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/09/05/latest-news-bulletin-september-5th-2026-midday",
+    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "66d8b2f5d086db079a07286779c28062",
+    "fetched_at": "2026-09-05T11:40:29.331892+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three killed in Israeli strikes on Lebanon, health ministry says",
+    "summary": "The Israel Defense Forces (IDF) said it had targeted Hezbollah infrastructure in southern Lebanon \"in response to Hezbollah’s attempted attack yesterday against IDF troops operating in the security zone.\"",
+    "link": "http://www.euronews.com/2026/09/05/three-killed-in-israeli-strikes-on-lebanon-health-ministry-says",
+    "published": "Sat, 05 Sep 2026 11:04:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f3e576917ed6645162ab1a73c9590975",
+    "fetched_at": "2026-09-05T11:40:29.331890+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iranian media report US strike on Iranian oil tanker near Kharg Island",
+    "summary": "Iranian media reported that an Iranian oil tanker was struck by US forces on Saturday morning, a day after Iran reportedly fired missiles towards the Strait of Hormuz.",
+    "link": "http://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island",
+    "published": "Sat, 05 Sep 2026 11:39:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "434d1c002e567cf71b2cd76c7825ca57",
+    "fetched_at": "2026-09-05T11:40:29.331888+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian quits college team over Russian signing",
+    "summary": "Ukrainian Kate Koval says she left Louisiana State University's basketball programme because of the team's decision to sign a Russian player.",
+    "link": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 06:22:40 GMT",
+    "source": "BBC News",
+    "id": "243a6384454a0ad2f95c4fc8a346f99e",
+    "fetched_at": "2026-09-05T11:40:29.331885+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+    "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 10:37:06 GMT",
+    "source": "BBC News",
+    "id": "5f93d7748fbed0221bca32027a055b6d",
+    "fetched_at": "2026-09-05T11:40:29.331883+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:49:15 GMT",
+    "source": "BBC News",
+    "id": "202bc5beb976ce81fe7b01aaadee8bac",
+    "fetched_at": "2026-09-05T11:40:29.331880+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
+    "summary": "President Sandu&apos;s national security advisor, Stanislav Secrieru, says Russia&apos;s strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.",
+    "link": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
+    "published": "Thu, 03 Sep 2026 07:00:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "719103af20be48fbcb3b73db29c17668",
+    "fetched_at": "2026-09-05T11:40:29.331856+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners",
+    "summary": "Trump administration Iran sanctions threaten India&apos;s commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions.",
+    "link": "https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners",
+    "published": "Thu, 03 Sep 2026 07:46:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "22a98c9867627334f9691365012ffe8c",
+    "fetched_at": "2026-09-05T11:40:28.195287+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tens of thousands flood streets to protest Spain border crisis",
+    "summary": "Tens of thousands protested Pedro Sanchez across Spain as 50,000 marched in Madrid over the migrant crisis in Ceuta following July&apos;s border surge.",
+    "link": "https://www.foxnews.com/world/tens-thousands-flood-streets-protest-spain-border-crisis",
+    "published": "Thu, 03 Sep 2026 08:39:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e59754bb277873b4198e6a4b0d7db680",
+    "fetched_at": "2026-09-05T11:40:27.012244+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US adversary turns up the heat on America’s AI lead with an underestimated edge",
+    "summary": "China&apos;s &quot;East Data, West Computing&quot; initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing&apos;s push.",
+    "link": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
+    "published": "Fri, 04 Sep 2026 06:00:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5cba284aa6bbb2ecdecb4a1633090f26",
+    "fetched_at": "2026-09-05T11:40:25.877737+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
+    "summary": "Germany accused Russia of a drone attack at Leipzig/Halle Airport and now pushes Baltic Sea allies to form a rapid-response hybrid warfare task force.",
+    "link": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
+    "published": "Sat, 05 Sep 2026 06:00:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "17780b091ee96f22ba3abc3aec2c59cd",
+    "fetched_at": "2026-09-05T11:40:24.728769+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+    "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+    "published": "Sat, 05 Sep 2026 07:08:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "e2d394cb844d8d74b6fa8dbc65ee9b0a",
+    "fetched_at": "2026-09-05T11:40:23.577911+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump signs order to remove endangered species protection for grey wolves",
+    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 09:12:48 GMT",
+    "source": "BBC News",
+    "id": "4eca96e027944518b0a844c6f28c86ba",
+    "fetched_at": "2026-09-05T11:40:22.441676+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+    "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 10:02:29 GMT",
+    "source": "BBC News",
+    "id": "1a46b3120b1528cfb92e06a26c708a2b",
+    "fetched_at": "2026-09-05T11:40:21.294037+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least two dead in blast at Bolivia military barracks",
     "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
     "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "BBC News",
     "id": "4d53889e69de1734aae4f5e46222cc90",
     "fetched_at": "2026-09-04T17:18:28.289580+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-    "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
-    "source": "BBC News",
-    "id": "08dc6be1c524c06e76b0aa34a9d9f97b",
-    "fetched_at": "2026-09-04T17:18:28.289577+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
-    "summary": "Vladimir Putin declared full solidarity with Iran as an expert said both nations &quot;need each other desperately&quot; during the escalating U.S.-Iran conflict.",
-    "link": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
-    "published": "Wed, 02 Sep 2026 13:44:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f5cfce4af1f8760b1f72dc4ba75a7310",
-    "fetched_at": "2026-09-04T17:18:28.289552+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
-    "summary": "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.",
-    "link": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
-    "published": "Fri, 04 Sep 2026 10:03:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ba0596b5f4c219d942bdadbe35637383",
-    "fetched_at": "2026-09-04T17:18:27.108250+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nepali community in Texas grieves and prays for healing after flash floods",
-    "summary": "Nepalese groups in North Texas, which has one of the largest communities of people from Nepal in the U.S., continue to grieve the loss of hundreds of people after the devastating floods in August.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5954535/nepali-community-in-texas-grieves-and-prays-for-healing-after-flash-floods",
-    "published": "Thu, 03 Sep 2026 16:29:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "3e205a8b87c781349c24b60c8c4fc874",
-    "fetched_at": "2026-09-04T17:18:25.944439+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada unveils new $20 bill featuring portrait of King Charles",
-    "summary": "The vertical banknote features King Charles III, the first new monarch to appear on a Canadian banknote in more than 70 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cr50d2dyn70o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 19:18:13 GMT",
-    "source": "BBC News",
-    "id": "b37242f11c9040767e882a3b0d3859c0",
-    "fetched_at": "2026-09-04T17:18:24.788998+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-    "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
-    "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 01:26:23 GMT",
-    "source": "BBC News",
-    "id": "d0945218236e8151e0308be82b7404b8",
-    "fetched_at": "2026-09-04T17:18:23.649307+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Surprisingly strong US jobs figures fuel rate rise bets",
-    "summary": "The number of roles added to the US economy increased by 162,000 in August, almost triple the 56,000 forecast.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 14:38:19 GMT",
-    "source": "BBC News",
-    "id": "8e0ff0cdaea0885823c96fd826a693a4",
-    "fetched_at": "2026-09-04T17:18:22.494691+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How could US-Iran conflict end? Three experts give their views",
-    "summary": "After renewed strikes this week, does either side have an exit strategy?",
-    "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 09:14:57 GMT",
-    "source": "BBC News",
-    "id": "dd86ef1e6eb0fe491c3be4a82f6209db",
-    "fetched_at": "2026-09-04T17:18:21.349347+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happens if a mistrial is declared in Lindsay Clancy case?",
-    "summary": "Prosecutors could seek a new trial in the case of the US mother charged with murdering her three children in 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 16:24:44 GMT",
-    "source": "BBC News",
-    "id": "55f5f8a0974ff5e4e0e04e699ec3b25c",
-    "fetched_at": "2026-09-04T17:18:20.201737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-    "summary": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 07:16:07 GMT",
-    "source": "BBC News",
-    "id": "652a91b6bf2091fe32ce9af846870cc9",
-    "fetched_at": "2026-09-04T13:54:34.563616+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-    "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-    "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 13:00:44 GMT",
-    "source": "BBC News",
-    "id": "cd94bb03bc4fe30f6fece9b80ed9a212",
-    "fetched_at": "2026-09-04T13:54:34.563614+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-    "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-    "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 11:54:51 GMT",
-    "source": "BBC News",
-    "id": "d1f3730c75a6af3bf233dd2fa068d388",
-    "fetched_at": "2026-09-04T13:54:34.563613+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-    "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-    "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 08:23:05 GMT",
-    "source": "BBC News",
-    "id": "addab943cb0bab322f29fd50ec4e0a8b",
-    "fetched_at": "2026-09-04T13:54:34.563611+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Investigation into Air India flight plunge highlights triple hydraulic failure and pilot drug test",
-    "summary": "India's Aircraft Accident Investigation Bureau said the aircraft detected a triple-hydraulic failure, with the autopilot disengaging and a stall warning triggered for two seconds.",
-    "link": "http://www.euronews.com/2026/09/04/investigation-into-air-india-flight-plunge-highlights-triple-hydraulic-failure-and-pilot-d",
-    "published": "Fri, 04 Sep 2026 11:57:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f27102613434176eea6b2eec499db9ed",
-    "fetched_at": "2026-09-04T13:54:34.563610+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tanker captain arrested over cargo ship sinking off Istanbul, prosecutors say",
-    "summary": "Search and resuce operations are ongoing with teams yet to reach the wreckage of the Tuğberk İmamoğlu or locate its voyage data recorder (VDR) or \"black box.\"",
-    "link": "http://www.euronews.com/my-europe/2026/09/04/tanker-captain-arrested-over-cargo-ship-sinking-off-istanbul-prosecutors-say",
-    "published": "Fri, 04 Sep 2026 12:13:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4c60a899a0d56f8473dd076692c08149",
-    "fetched_at": "2026-09-04T13:54:34.563609+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Malaysia declares air quality emergency as haze linked to Indonesia fires reaches critical level",
-    "summary": "Haze is a recurring seasonal problem in Southeast Asia, where smoke from forest and peat fires in Indonesia can travel across national borders and affect neighbouring Malaysia, Brunei and Singapore.",
-    "link": "http://www.euronews.com/2026/09/04/malaysia-declares-air-quality-emergency-as-haze-linked-to-indonesia-fires-reaches-critical",
-    "published": "Fri, 04 Sep 2026 13:02:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1cb15c0e5c1121b238115a9124bfc964",
-    "fetched_at": "2026-09-04T13:54:34.563607+00:00"
   }
 ]
