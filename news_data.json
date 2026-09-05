@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+    "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 04:06:41 GMT",
+    "source": "BBC News",
+    "id": "12e970c9378295a4447914c3707a81a3",
+    "fetched_at": "2026-09-05T02:19:05.764717+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump administration pushes to remove tax exemptions for private universities with DEI policies",
+    "summary": "The Trump administration says its proposed legislation aims to make university equal and accessible to all and end “woke” campaigns which deliberately favour certain students over others due to socioeconomic or racial backgrounds.",
+    "link": "http://www.euronews.com/2026/09/04/trump-administration-pushes-to-remove-tax-exemptions-for-private-universities-with-dei-pol",
+    "published": "Fri, 04 Sep 2026 06:02:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c55c642c45e7799cc84185600bdca5c2",
+    "fetched_at": "2026-09-05T02:19:04.624050+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two trapped workers rescued from hydropower tunnel nine days after Nepal floods",
+    "summary": "About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.",
+    "link": "http://www.euronews.com/2026/09/04/two-trapped-workers-rescued-from-hydropower-tunnel-nine-days-after-nepal-floods",
+    "published": "Fri, 04 Sep 2026 07:25:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e114dd31ed9fc056aff98258aebcbc2c",
+    "fetched_at": "2026-09-05T02:19:03.478965+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two US sailors removed from Thai resort town after drunken brawl",
+    "summary": "The USS Abraham Lincoln's arrival has drawn global media interest after reports of deteriorating living conditions on board after more than 280 days at sea.",
+    "link": "http://www.euronews.com/2026/09/04/two-us-sailors-removed-from-thai-resort-town-after-drunken-brawl",
+    "published": "Fri, 04 Sep 2026 08:08:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2f39b24020f7213f547bb2ec6d5962bf",
+    "fetched_at": "2026-09-05T02:19:02.346790+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two hydropower workers rescued alive after nine days trapped in Nepal tunnel",
+    "summary": "Nepal Army images show two hydropower workers rescued alive after nine days trapped inside a flood-buried tunnel in Rasuwa.",
+    "link": "http://www.euronews.com/video/2026/09/04/two-hydropower-workers-rescued-alive-after-nine-days-trapped-in-nepal-tunnel",
+    "published": "Fri, 04 Sep 2026 08:12:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8125e34dd6df96b9d9c81d49ae598fec",
+    "fetched_at": "2026-09-05T02:19:01.198172+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK reaffirms 'unshakeable' commitment to Falklands after Milei reiterates Argentina's claim to the islands",
+    "summary": "US President Donald Trump has cast doubt on US support for the UK in a potential conflict over the territory, pointing to Britain's lack of backing in the Iran war.",
+    "link": "http://www.euronews.com/2026/09/04/milei-touts-winds-of-change-as-he-reasserts-argentinas-claim-to-the-falklands",
+    "published": "Fri, 04 Sep 2026 08:38:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7291b85241bf5058f124e8196fab88cc",
+    "fetched_at": "2026-09-05T02:19:00.057592+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
+    "summary": "Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.",
+    "link": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
+    "published": "Fri, 04 Sep 2026 20:05:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b0727ac390865333f3cd3e2b8fdd6673",
+    "fetched_at": "2026-09-05T02:18:58.920217+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "From cockroach milk to stepping on snakes, Ig Nobel awards celebrates science at its oddest",
+    "summary": "Cockroach milk, kissing evolution and the underwear soil test were among the unusual real studies honored at the Ig Nobel ceremony in Zurich.",
+    "link": "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
+    "published": "Fri, 04 Sep 2026 21:28:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "474393ac14a86d24da7cd38d850e793e",
+    "fetched_at": "2026-09-05T02:18:57.773295+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
     "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
     "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "a07e18b6bb7abdf8af74a16b32768347",
     "fetched_at": "2026-09-04T13:54:34.563553+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany's far-right AfD party is poised for power in a state election",
-    "summary": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
-    "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-    "published": "Fri, 04 Sep 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "63aa57924f9b0e87827b1eecd8e0c1d5",
-    "fetched_at": "2026-09-04T13:54:33.426336+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-    "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-    "published": "Fri, 04 Sep 2026 07:29:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "8f6b86eebaf024ed98ea675247c807f0",
-    "fetched_at": "2026-09-04T13:54:32.279926+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Myanmar military head visits Vietnam to normalize relations",
-    "summary": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-    "published": "Fri, 04 Sep 2026 09:35:39 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc7d11df047284579086bbf8651feaf1",
-    "fetched_at": "2026-09-04T13:54:31.145007+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Philippine vice president is ordered arrested for threats against the president",
-    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-    "published": "Fri, 04 Sep 2026 09:42:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "699ee737c781e59eed755b0b6eec33ce",
-    "fetched_at": "2026-09-04T13:54:29.992362+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US man struck by lightning describes 'horrific' experience",
-    "summary": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground.",
-    "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 10:01:33 GMT",
-    "source": "BBC News",
-    "id": "c01873f6088cdbe1ba40c7def33e05cf",
-    "fetched_at": "2026-09-04T13:54:28.851460+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US billionaire Leon Black defies summons and sues Epstein panel",
-    "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
-    "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 18:14:57 GMT",
-    "source": "BBC News",
-    "id": "b7fb275471c5af8c47838abc6f394575",
-    "fetched_at": "2026-09-04T13:54:27.715554+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US diesel prices hit an all-time-high",
-    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 10:52:56 GMT",
-    "source": "BBC News",
-    "id": "bcdfd5c5901585bb82947d6e7f9540e2",
-    "fetched_at": "2026-09-04T13:54:26.573866+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-    "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 06:01:54 GMT",
-    "source": "BBC News",
-    "id": "8aad1405bf2dd6deff483e044a34c3ba",
-    "fetched_at": "2026-09-04T08:22:02.512158+00:00"
   }
 ]
