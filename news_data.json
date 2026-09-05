@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "What different world maps get right - and what they get wrong",
+    "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 13:46:02 GMT",
+    "source": "BBC News",
+    "id": "7151d43e48f9a184511ef47cee6212a1",
+    "fetched_at": "2026-09-05T14:20:14.116585+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bosnian Serb war criminal Mladić commemorated in Belgrade, but no state honours",
+    "summary": "Thousands are expected at Mladić's burial in Belgrade on Monday, which will proceed without serving officials, artillery salutes or ceremonial military presence. Brussels has earlier said any glorification would be \"incompatible with the values on which the EU path is built\".",
+    "link": "http://www.euronews.com/2026/09/05/bosnian-serb-war-criminal-mladic-commemorated-in-belgrade-but-no-state-honours",
+    "published": "Sat, 05 Sep 2026 13:49:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6da1a4ff02135cf0fa41e5c028f4fd75",
+    "fetched_at": "2026-09-05T14:20:14.116581+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two people pulled alive by Nepal's search and rescue team 10 days after devastating flash floods",
+    "summary": "Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.",
+    "link": "http://www.euronews.com/2026/09/05/two-people-pulled-alive-by-nepals-search-and-rescue-team-10-days-after-devastating-flash-f",
+    "published": "Sat, 05 Sep 2026 14:25:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4958434b253ba2554aae07ab728142f2",
+    "fetched_at": "2026-09-05T14:20:14.116556+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US drafting post-war plan for the Middle East, report says",
+    "summary": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
+    "link": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
+    "published": "Sat, 05 Sep 2026 16:04:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b62d0cf5da217150cbc7e345b5a14b60",
+    "fetched_at": "2026-09-05T14:20:12.995279+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+    "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
+    "source": "BBC News",
+    "id": "08dc6be1c524c06e76b0aa34a9d9f97b",
+    "fetched_at": "2026-09-05T14:20:11.852287+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin and Iran 'need each other desperately,' expert says, as Russia voices support for regime",
+    "summary": "Vladimir Putin declared full solidarity with Iran as an expert said both nations &quot;need each other desperately&quot; during the escalating U.S.-Iran conflict.",
+    "link": "https://www.foxnews.com/world/putin-iran-need-each-other-desperately-expert-says-russia-voices-support-regime",
+    "published": "Wed, 02 Sep 2026 13:44:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f5cfce4af1f8760b1f72dc4ba75a7310",
+    "fetched_at": "2026-09-05T14:20:10.604173+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
+    "summary": "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.",
+    "link": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
+    "published": "Fri, 04 Sep 2026 10:03:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ba0596b5f4c219d942bdadbe35637383",
+    "fetched_at": "2026-09-05T14:20:09.481866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+    "summary": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
+    "published": "Sat, 05 Sep 2026 07:43:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "e70656bafe9884664fcdbb0f13f98d69",
+    "fetched_at": "2026-09-05T14:20:08.351480+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+    "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 17:23:13 GMT",
+    "source": "BBC News",
+    "id": "8e0ff0cdaea0885823c96fd826a693a4",
+    "fetched_at": "2026-09-05T14:20:07.225261+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
+    "summary": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 03:25:58 GMT",
+    "source": "BBC News",
+    "id": "55f5f8a0974ff5e4e0e04e699ec3b25c",
+    "fetched_at": "2026-09-05T14:20:06.105835+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
     "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
     "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "6cd270d83d022cf7a319419fde68442f",
     "fetched_at": "2026-09-04T20:06:39.593041+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
-    "summary": "A human rights activist says Iran&apos;s regime fears its own population more than U.S. airstrikes, using Strait of Hormuz friction for survival.",
-    "link": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
-    "published": "Thu, 03 Sep 2026 18:30:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94318928eca47836838bcdbab9750569",
-    "fetched_at": "2026-09-04T20:06:38.469098+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US investigating if missile hit Iran wedding, Vance says",
-    "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 22:19:59 GMT",
-    "source": "BBC News",
-    "id": "1b191213f894f4b3dd939cdf916f99d6",
-    "fetched_at": "2026-09-04T20:06:37.353045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Throwing papers, hurling a ninja star - Lindsay Clancy lawyer creates courtroom spectacles",
-    "summary": "Kevin Reddington has transfixed audiences defending the US mother accused of killing her children.",
-    "link": "https://www.bbc.co.uk/news/articles/cg7k24159kpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 18:38:58 GMT",
-    "source": "BBC News",
-    "id": "c59c03a43c92c5cf9bab48dd674cafe5",
-    "fetched_at": "2026-09-04T20:06:36.210283+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Transplanted pig kidney works in US man's body for record 271 days",
-    "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-    "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 22:31:23 GMT",
-    "source": "BBC News",
-    "id": "ad711b3bc468445fbd9d6c5b6a11b000",
-    "fetched_at": "2026-09-04T20:06:35.082737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-    "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 17:14:21 GMT",
-    "source": "BBC News",
-    "id": "2735d0a8df90d30a3e24b88664ecd6d7",
-    "fetched_at": "2026-09-04T17:18:28.289591+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-    "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-    "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 16:30:50 GMT",
-    "source": "BBC News",
-    "id": "40215e7d688c30b404cb274c2a1c0c07",
-    "fetched_at": "2026-09-04T17:18:28.289589+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-    "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-    "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 14:40:00 GMT",
-    "source": "BBC News",
-    "id": "d5a3f6f32fba3a3bff21110918b5181c",
-    "fetched_at": "2026-09-04T17:18:28.289587+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-    "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 19:05:31 GMT",
-    "source": "BBC News",
-    "id": "bb41f269866a6add72d876da94b1937e",
-    "fetched_at": "2026-09-04T17:18:28.289585+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 16:32:05 GMT",
-    "source": "BBC News",
-    "id": "9721e1612e9818175088bd504d8162ec",
-    "fetched_at": "2026-09-04T17:18:28.289582+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burnham and Macron agree to scale up action on small boats",
-    "summary": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:46:49 GMT",
-    "source": "BBC News",
-    "id": "4d53889e69de1734aae4f5e46222cc90",
-    "fetched_at": "2026-09-04T17:18:28.289580+00:00"
   }
 ]
