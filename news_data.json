@@ -1,5 +1,25 @@
 [
   {
+    "region": "USA",
+    "title": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
+    "summary": "Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.",
+    "link": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
+    "published": "Fri, 04 Sep 2026 20:05:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b0727ac390865333f3cd3e2b8fdd6673",
+    "fetched_at": "2026-09-05T23:28:28.259185+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How much can Canada fight back in its trade war with the US?",
+    "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+    "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 02:13:21 GMT",
+    "source": "BBC News",
+    "id": "7cc7377a6b93042a2deffddb0a125d35",
+    "fetched_at": "2026-09-05T23:28:27.007181+00:00"
+  },
+  {
     "region": "Europe",
     "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
     "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
@@ -578,25 +598,5 @@
     "source": "NPR Topics: World",
     "id": "699ee737c781e59eed755b0b6eec33ce",
     "fetched_at": "2026-09-05T07:57:54.491231+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-    "summary": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
-    "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-    "published": "Sat, 05 Sep 2026 03:21:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "be81ac4d3f0cebcdd66b4a3c1c87d5ee",
-    "fetched_at": "2026-09-05T07:57:53.373131+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US diesel prices hit an all-time-high",
-    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 10:52:56 GMT",
-    "source": "BBC News",
-    "id": "bcdfd5c5901585bb82947d6e7f9540e2",
-    "fetched_at": "2026-09-05T07:57:52.252254+00:00"
   }
 ]
