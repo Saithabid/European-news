@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "At least two dead in blast at Bolivia military barracks",
+    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 06:00:05 GMT",
+    "source": "BBC News",
+    "id": "0c8962b1fb9a2fb0d38d2af7bd480d87",
+    "fetched_at": "2026-09-05T07:57:57.846437+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 5th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/09/05/latest-news-bulletin-september-5th-2026-morning",
+    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "efb9718d96cf97fb863477ad3cdac879",
+    "fetched_at": "2026-09-05T07:57:57.846434+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US peace envoys Witkoff and Kushner to visit Kyiv and Moscow with plan to 'end the war'",
+    "summary": "The announcement came as Russian strikes on Ukraine's Dnipropetrovsk region killed four overnight, per local authorities.",
+    "link": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
+    "published": "Sat, 05 Sep 2026 08:04:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1d10422e567614dbb0a49eba2e87b2fd",
+    "fetched_at": "2026-09-05T07:57:57.846431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least two killed and 81 injured after explosions at Bolivian army base",
+    "summary": "The Bolivian Defence Minister said the first explosion \"involved black powder from pyrotechnic material stored at the site,\" while the second, \"much larger\" blast was still being investigated.",
+    "link": "http://www.euronews.com/2026/09/05/at-least-two-killed-and-81-injured-after-explosions-at-bolivian-army-base",
+    "published": "Sat, 05 Sep 2026 08:51:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "582ee0883aaa968c1447b6f54fbc5660",
+    "fetched_at": "2026-09-05T07:57:57.846428+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 07:20:17 GMT",
+    "source": "BBC News",
+    "id": "8a07186afe704cc8c2d3630be71b790c",
+    "fetched_at": "2026-09-05T07:57:57.846425+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's far-right AfD party is poised for power in a state election",
+    "summary": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
+    "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+    "published": "Fri, 04 Sep 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "63aa57924f9b0e87827b1eecd8e0c1d5",
+    "fetched_at": "2026-09-05T07:57:57.846396+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+    "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+    "published": "Fri, 04 Sep 2026 07:29:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "8f6b86eebaf024ed98ea675247c807f0",
+    "fetched_at": "2026-09-05T07:57:56.730184+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Myanmar military head visits Vietnam to normalize relations",
+    "summary": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+    "published": "Fri, 04 Sep 2026 09:35:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "cc7d11df047284579086bbf8651feaf1",
+    "fetched_at": "2026-09-05T07:57:55.610635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Philippine vice president is ordered arrested for threats against the president",
+    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+    "published": "Fri, 04 Sep 2026 09:42:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "699ee737c781e59eed755b0b6eec33ce",
+    "fetched_at": "2026-09-05T07:57:54.491231+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+    "summary": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
+    "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+    "published": "Sat, 05 Sep 2026 03:21:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "be81ac4d3f0cebcdd66b4a3c1c87d5ee",
+    "fetched_at": "2026-09-05T07:57:53.373131+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US diesel prices hit an all-time-high",
+    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 10:52:56 GMT",
+    "source": "BBC News",
+    "id": "bcdfd5c5901585bb82947d6e7f9540e2",
+    "fetched_at": "2026-09-05T07:57:52.252254+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How much can Canada fight back in its trade war with the US?",
+    "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+    "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 02:13:21 GMT",
+    "source": "BBC News",
+    "id": "7cc7377a6b93042a2deffddb0a125d35",
+    "fetched_at": "2026-09-05T07:57:51.119708+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
+    "summary": "A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.",
+    "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 01:26:29 GMT",
+    "source": "BBC News",
+    "id": "17a476c468f26a15acf5f8e8be040d2b",
+    "fetched_at": "2026-09-05T07:57:49.994472+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
     "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
     "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "1cb15c0e5c1121b238115a9124bfc964",
     "fetched_at": "2026-09-04T13:54:34.563607+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian Grand Prix declared heat-hazard race",
-    "summary": "The Italian Grand Prix is declared a heat-hazard race as high temperatures continue in the country following the summer heatwave.",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c99dp0zeymjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 09:41:30 GMT",
-    "source": "BBC News",
-    "id": "c03d8dc904ec834e976da9e58787c296",
-    "fetched_at": "2026-09-04T13:54:34.563606+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-    "summary": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
-    "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 11:30:38 GMT",
-    "source": "BBC News",
-    "id": "cab9de07861bac78ffbf876db714c124",
-    "fetched_at": "2026-09-04T13:54:34.563604+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian quits college team over Russian signing",
-    "summary": "Ukrainian Kate Koval says she left Louisiana State University's basketball programme because of the team's decision to sign a Russian player.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 06:22:40 GMT",
-    "source": "BBC News",
-    "id": "243a6384454a0ad2f95c4fc8a346f99e",
-    "fetched_at": "2026-09-04T13:54:34.563603+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-    "summary": "Rescuers found 44 survivors on board the vessel but bad weather meant they had to leave five bodies behind.",
-    "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 10:37:06 GMT",
-    "source": "BBC News",
-    "id": "5f93d7748fbed0221bca32027a055b6d",
-    "fetched_at": "2026-09-04T13:54:34.563601+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 10:00:18 GMT",
-    "source": "BBC News",
-    "id": "202bc5beb976ce81fe7b01aaadee8bac",
-    "fetched_at": "2026-09-04T13:54:34.563600+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump revives Iran regime change speculation with cryptic call for people to 'rise up'",
-    "summary": "Trump asking when Iranians will “rise up and fight&quot; revives questions over whether the administration’s Iran strategy is shifting beyond economic pressure and negotiations",
-    "link": "https://www.foxnews.com/world/trump-revives-iran-regime-change-speculation-cryptic-call-people-rise-up",
-    "published": "Wed, 02 Sep 2026 12:53:24 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5a6604fe8eaa7013bdd6f5aeec937b95",
-    "fetched_at": "2026-09-04T13:54:34.563598+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rescuers use ziplines to transport trapped citizens after devastating Nepal floods decimate country's bridges",
-    "summary": "Video shows rescue workers using cable cars and ziplines to ferry stranded citizens across flooded rivers in Nepal after the deadly mudslide.",
-    "link": "https://www.foxnews.com/world/rescuers-ziplines-transport-trapped-citizens-devastating-nepal-floods-decimate-countrys-bridges",
-    "published": "Wed, 02 Sep 2026 13:07:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fbdcba7fed467482f4d398ab0bef805d",
-    "fetched_at": "2026-09-04T13:54:34.563596+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
-    "summary": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln&apos;s arrival, arresting over 50 people as 5,000 sailors hit the resort city.",
-    "link": "https://www.foxnews.com/world/thai-resort-city-cracks-down-prostitution-ahead-uss-abraham-lincoln-arrival",
-    "published": "Wed, 02 Sep 2026 13:26:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "460123a3bc9f7bf97d4dd42e1e1c63e8",
-    "fetched_at": "2026-09-04T13:54:34.563594+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
-    "summary": "President Sandu&apos;s national security advisor, Stanislav Secrieru, says Russia&apos;s strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.",
-    "link": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
-    "published": "Thu, 03 Sep 2026 07:00:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "719103af20be48fbcb3b73db29c17668",
-    "fetched_at": "2026-09-04T13:54:34.563592+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners",
-    "summary": "Trump administration Iran sanctions threaten India&apos;s commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions.",
-    "link": "https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners",
-    "published": "Thu, 03 Sep 2026 07:46:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "22a98c9867627334f9691365012ffe8c",
-    "fetched_at": "2026-09-04T13:54:34.563590+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Tens of thousands flood streets to protest Spain border crisis",
-    "summary": "Tens of thousands protested Pedro Sanchez across Spain as 50,000 marched in Madrid over the migrant crisis in Ceuta following July&apos;s border surge.",
-    "link": "https://www.foxnews.com/world/tens-thousands-flood-streets-protest-spain-border-crisis",
-    "published": "Thu, 03 Sep 2026 08:39:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e59754bb277873b4198e6a4b0d7db680",
-    "fetched_at": "2026-09-04T13:54:34.563588+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US adversary turns up the heat on America’s AI lead with an underestimated edge",
-    "summary": "China&apos;s &quot;East Data, West Computing&quot; initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing&apos;s push.",
-    "link": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
-    "published": "Fri, 04 Sep 2026 06:00:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5cba284aa6bbb2ecdecb4a1633090f26",
-    "fetched_at": "2026-09-04T13:54:34.563586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As El Niño intensifies, Rio turns to science — and a spiritual adviser",
-    "summary": "This year's Super El Niño has brought unprecedented weather to Rio de Janeiro. Unaccustomed to tornado-strength winds, the city found an unusual partner to combat the weather: a spiritual adviser.",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5944344/as-el-nino-intensifies-rio-turns-to-science-and-a-spiritual-advisor",
-    "published": "Thu, 03 Sep 2026 16:32:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "a07e18b6bb7abdf8af74a16b32768347",
-    "fetched_at": "2026-09-04T13:54:34.563553+00:00"
   }
 ]
