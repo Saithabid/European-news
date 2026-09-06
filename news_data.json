@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 20:52:12 GMT",
+    "source": "BBC News",
+    "id": "64bc6dc0276d3d5d5d57879bf7d02d4e",
+    "fetched_at": "2026-09-06T21:52:48.905217+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two people pulled alive by Nepal's search and rescue team 10 days after devastating flash floods",
+    "summary": "Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.",
+    "link": "http://www.euronews.com/2026/09/05/two-people-pulled-alive-by-nepals-search-and-rescue-team-10-days-after-devastating-flash-f",
+    "published": "Sat, 05 Sep 2026 14:25:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4958434b253ba2554aae07ab728142f2",
+    "fetched_at": "2026-09-06T21:52:47.789231+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US drafting post-war plan for the Middle East, report says",
+    "summary": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
+    "link": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
+    "published": "Sat, 05 Sep 2026 16:04:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b62d0cf5da217150cbc7e345b5a14b60",
+    "fetched_at": "2026-09-06T21:52:46.672844+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
+    "summary": "There was no immediate word on casualties in the incident involving a Boeing 767 operated by Amazon Prime Air, according to the Federal Aviation Administration and Miami International Airport.",
+    "link": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
+    "published": "Sun, 06 Sep 2026 22:03:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "36c18e62f42e6ccb9d532d0002d910bc",
+    "fetched_at": "2026-09-06T21:52:45.556892+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What Russia and China learned from America after 9/11",
+    "summary": "Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11",
+    "published": "Sun, 06 Sep 2026 17:06:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "9803027ee11870789fdb74b7b34b0a3f",
+    "fetched_at": "2026-09-06T21:52:44.432799+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shipping companies are putting sails back on cargo ships",
+    "summary": "One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
+    "published": "Sun, 06 Sep 2026 17:06:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "c2df47627b646077038d94f82ea00469",
+    "fetched_at": "2026-09-06T21:52:43.280072+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
+    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
+    "published": "Sun, 06 Sep 2026 17:06:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "4fb5580bac89e8b9c3ea86586ebe8be0",
+    "fetched_at": "2026-09-06T21:52:42.152795+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
     "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
     "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "fc77bdc5bdc9e2b27e39f116753731d4",
     "fetched_at": "2026-09-05T19:46:00.466231+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's response is key as Argentina's Falklands demands get louder",
-    "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 06:20:04 GMT",
-    "source": "BBC News",
-    "id": "7297023831965383779dca5d1ecc5242",
-    "fetched_at": "2026-09-05T19:45:59.351334+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 5th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/05/latest-news-bulletin-september-5th-2026-evening",
-    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6b3970257c2cb414c4c99a425f223832",
-    "fetched_at": "2026-09-05T17:50:16.466854+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 16:32:05 GMT",
-    "source": "BBC News",
-    "id": "9721e1612e9818175088bd504d8162ec",
-    "fetched_at": "2026-09-05T17:50:15.346545+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burnham and Macron agree to scale up action on small boats",
-    "summary": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
-    "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:46:49 GMT",
-    "source": "BBC News",
-    "id": "4d53889e69de1734aae4f5e46222cc90",
-    "fetched_at": "2026-09-05T17:50:14.210570+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
-    "summary": "A human rights activist says Iran&apos;s regime fears its own population more than U.S. airstrikes, using Strait of Hormuz friction for survival.",
-    "link": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
-    "published": "Thu, 03 Sep 2026 18:30:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "94318928eca47836838bcdbab9750569",
-    "fetched_at": "2026-09-05T17:50:13.089865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump negotiators Witkoff, Kushner arrive in Moscow as US pushes for end to Russia-Ukraine war",
-    "summary": "Steve Witkoff and Jared Kushner have landed in Moscow for peace talks before heading to Kyiv, as Trump says there may be a good chance for a deal.",
-    "link": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
-    "published": "Sat, 05 Sep 2026 10:52:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b202f2c16a9aaf3cda032026098a68d",
-    "fetched_at": "2026-09-05T17:50:11.976472+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-    "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-    "published": "Sat, 05 Sep 2026 11:05:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "bdbec42b8eb5db66a4c89a22242336d9",
-    "fetched_at": "2026-09-05T17:50:10.853546+00:00"
   }
 ]
