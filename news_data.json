@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+    "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 07:06:50 GMT",
+    "source": "BBC News",
+    "id": "c8f80140e761faa1bf1bf50030d328e3",
+    "fetched_at": "2026-09-06T08:15:24.493851+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 6th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-morning",
+    "published": "Sun, 06 Sep 2026 02:00:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1aa653b59777871896a272dd5081e9ae",
+    "fetched_at": "2026-09-06T08:15:23.375684+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Flights suspended at Indonesia's main airport due to volcanic eruption",
+    "summary": "Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait, between the islands of Java and Sumatra.",
+    "link": "http://www.euronews.com/2026/09/06/flights-suspended-at-indonesias-main-airport-due-to-volcanic-eruption",
+    "published": "Sun, 06 Sep 2026 09:12:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d71d3f6eb63b0274598475c4c02c9b1b",
+    "fetched_at": "2026-09-06T08:15:22.252518+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 07:20:17 GMT",
+    "source": "BBC News",
+    "id": "8a07186afe704cc8c2d3630be71b790c",
+    "fetched_at": "2026-09-06T08:15:21.116974+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Myanmar military head visits Vietnam to normalize relations",
+    "summary": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+    "published": "Fri, 04 Sep 2026 09:35:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "cc7d11df047284579086bbf8651feaf1",
+    "fetched_at": "2026-09-06T08:15:19.941837+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Philippine vice president is ordered arrested for threats against the president",
+    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
+    "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+    "published": "Fri, 04 Sep 2026 09:42:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "699ee737c781e59eed755b0b6eec33ce",
+    "fetched_at": "2026-09-06T08:15:18.822345+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+    "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
+    "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 00:17:05 GMT",
+    "source": "BBC News",
+    "id": "cf5b82825e28a9b8e5b9ad9ec3b8e87b",
+    "fetched_at": "2026-09-06T08:15:17.685348+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+    "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 02:24:16 GMT",
+    "source": "BBC News",
+    "id": "740da010e3ce55c439540ede1ed739c8",
+    "fetched_at": "2026-09-06T08:15:16.554678+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
     "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
     "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "5cba284aa6bbb2ecdecb4a1633090f26",
     "fetched_at": "2026-09-05T11:40:25.877737+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
-    "summary": "Germany accused Russia of a drone attack at Leipzig/Halle Airport and now pushes Baltic Sea allies to form a rapid-response hybrid warfare task force.",
-    "link": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
-    "published": "Sat, 05 Sep 2026 06:00:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "17780b091ee96f22ba3abc3aec2c59cd",
-    "fetched_at": "2026-09-05T11:40:24.728769+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-    "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-    "published": "Sat, 05 Sep 2026 07:08:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "e2d394cb844d8d74b6fa8dbc65ee9b0a",
-    "fetched_at": "2026-09-05T11:40:23.577911+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump signs order to remove endangered species protection for grey wolves",
-    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 09:12:48 GMT",
-    "source": "BBC News",
-    "id": "4eca96e027944518b0a844c6f28c86ba",
-    "fetched_at": "2026-09-05T11:40:22.441676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-    "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 10:02:29 GMT",
-    "source": "BBC News",
-    "id": "1a46b3120b1528cfb92e06a26c708a2b",
-    "fetched_at": "2026-09-05T11:40:21.294037+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least two dead in blast at Bolivia military barracks",
-    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 06:00:05 GMT",
-    "source": "BBC News",
-    "id": "0c8962b1fb9a2fb0d38d2af7bd480d87",
-    "fetched_at": "2026-09-05T07:57:57.846437+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 5th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/05/latest-news-bulletin-september-5th-2026-morning",
-    "published": "Sat, 05 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "efb9718d96cf97fb863477ad3cdac879",
-    "fetched_at": "2026-09-05T07:57:57.846434+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US peace envoys Witkoff and Kushner to visit Kyiv and Moscow with plan to 'end the war'",
-    "summary": "The announcement came as Russian strikes on Ukraine's Dnipropetrovsk region killed four overnight, per local authorities.",
-    "link": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
-    "published": "Sat, 05 Sep 2026 08:04:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1d10422e567614dbb0a49eba2e87b2fd",
-    "fetched_at": "2026-09-05T07:57:57.846431+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least two killed and 81 injured after explosions at Bolivian army base",
-    "summary": "The Bolivian Defence Minister said the first explosion \"involved black powder from pyrotechnic material stored at the site,\" while the second, \"much larger\" blast was still being investigated.",
-    "link": "http://www.euronews.com/2026/09/05/at-least-two-killed-and-81-injured-after-explosions-at-bolivian-army-base",
-    "published": "Sat, 05 Sep 2026 08:51:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "582ee0883aaa968c1447b6f54fbc5660",
-    "fetched_at": "2026-09-05T07:57:57.846428+00:00"
   }
 ]
