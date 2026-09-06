@@ -1,5 +1,55 @@
 [
   {
+    "region": "Europe",
+    "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+    "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+    "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 01:54:29 GMT",
+    "source": "BBC News",
+    "id": "33161a47f4f75fdf9d61958555d5bcfc",
+    "fetched_at": "2026-09-06T02:14:41.652664+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Taylor crowns boxing career in stylish Croke Park triumph",
+    "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 22:22:47 GMT",
+    "source": "BBC News",
+    "id": "0d003dc98b54ee0e5beedf3e28687d01",
+    "fetched_at": "2026-09-06T02:14:40.538134+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+    "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 23:54:07 GMT",
+    "source": "BBC News",
+    "id": "c991608dfe186d39961fe5ca63954fd0",
+    "fetched_at": "2026-09-06T02:14:39.424370+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+    "summary": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
+    "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+    "published": "Sat, 05 Sep 2026 03:21:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "be81ac4d3f0cebcdd66b4a3c1c87d5ee",
+    "fetched_at": "2026-09-06T02:14:38.310119+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US diesel prices hit an all-time-high",
+    "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 10:52:56 GMT",
+    "source": "BBC News",
+    "id": "bcdfd5c5901585bb82947d6e7f9540e2",
+    "fetched_at": "2026-09-06T02:14:37.194549+00:00"
+  },
+  {
     "region": "USA",
     "title": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
     "summary": "Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "582ee0883aaa968c1447b6f54fbc5660",
     "fetched_at": "2026-09-05T07:57:57.846428+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
-    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 07:20:17 GMT",
-    "source": "BBC News",
-    "id": "8a07186afe704cc8c2d3630be71b790c",
-    "fetched_at": "2026-09-05T07:57:57.846425+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany's far-right AfD party is poised for power in a state election",
-    "summary": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
-    "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-    "published": "Fri, 04 Sep 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "63aa57924f9b0e87827b1eecd8e0c1d5",
-    "fetched_at": "2026-09-05T07:57:57.846396+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-    "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-    "published": "Fri, 04 Sep 2026 07:29:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "8f6b86eebaf024ed98ea675247c807f0",
-    "fetched_at": "2026-09-05T07:57:56.730184+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Myanmar military head visits Vietnam to normalize relations",
-    "summary": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-    "published": "Fri, 04 Sep 2026 09:35:39 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc7d11df047284579086bbf8651feaf1",
-    "fetched_at": "2026-09-05T07:57:55.610635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Philippine vice president is ordered arrested for threats against the president",
-    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
-    "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-    "published": "Fri, 04 Sep 2026 09:42:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "699ee737c781e59eed755b0b6eec33ce",
-    "fetched_at": "2026-09-05T07:57:54.491231+00:00"
   }
 ]
