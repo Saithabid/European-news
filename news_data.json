@@ -1,5 +1,35 @@
 [
   {
+    "region": "USA",
+    "title": "Trump negotiators Witkoff, Kushner meet with Putin in Moscow as US pushes for end to Russia-Ukraine war",
+    "summary": "Steve Witkoff and Jared Kushner met with Vladimir Putin in Moscow for peace talks before heading to Kyiv, and President Donald Trump says there may be a good chance for a deal.",
+    "link": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
+    "published": "Sat, 05 Sep 2026 10:52:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6b202f2c16a9aaf3cda032026098a68d",
+    "fetched_at": "2026-09-06T23:22:53.081581+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
+    "summary": "",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+    "published": "Sat, 05 Sep 2026 11:05:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "bdbec42b8eb5db66a4c89a22242336d9",
+    "fetched_at": "2026-09-06T23:22:51.981601+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's response is key as Argentina's Falklands demands get louder",
+    "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 06:20:04 GMT",
+    "source": "BBC News",
+    "id": "7297023831965383779dca5d1ecc5242",
+    "fetched_at": "2026-09-06T23:22:50.870190+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
     "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
@@ -568,35 +598,5 @@
     "source": "BBC News",
     "id": "6cd270d83d022cf7a319419fde68442f",
     "fetched_at": "2026-09-05T19:46:03.848256+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "United Nations votes 164-1 for Equal Earth map after US brands it 'radical ideological project'",
-    "summary": "The United Nations adopted the Equal Earth map showing Africa&apos;s true size, but the United States was the sole nation to vote against the resolution.",
-    "link": "https://www.foxnews.com/world/united-nations-votes-164-1-equal-earth-map-us-brands-radical-ideological-project",
-    "published": "Sat, 05 Sep 2026 13:48:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7266491337ee6520907cee9c086e3be2",
-    "fetched_at": "2026-09-05T19:46:02.722158+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.N. backs a new world map showing Africa in its true relative size",
-    "summary": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
-    "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-    "published": "Fri, 04 Sep 2026 18:26:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "047ee9e10dcd27f1c86109c522d00ff3",
-    "fetched_at": "2026-09-05T19:46:01.598568+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
-    "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
-    "published": "Sat, 05 Sep 2026 07:43:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "fc77bdc5bdc9e2b27e39f116753731d4",
-    "fetched_at": "2026-09-05T19:46:00.466231+00:00"
   }
 ]
