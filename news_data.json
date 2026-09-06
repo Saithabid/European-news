@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+    "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
+    "source": "BBC News",
+    "id": "08dc6be1c524c06e76b0aa34a9d9f97b",
+    "fetched_at": "2026-09-06T19:49:53.352152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
+    "summary": "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.",
+    "link": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
+    "published": "Fri, 04 Sep 2026 10:03:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ba0596b5f4c219d942bdadbe35637383",
+    "fetched_at": "2026-09-06T19:49:52.247077+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
+    "summary": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
+    "link": "https://www.foxnews.com/world/us-backed-effort-disarm-iraqs-iran-linked-militias-hits-setback-experts-say",
+    "published": "Sun, 06 Sep 2026 14:10:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71c91ca4e42bd36f5c09b621e8a78f46",
+    "fetched_at": "2026-09-06T19:49:51.134608+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+    "summary": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
+    "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
+    "published": "Sat, 05 Sep 2026 07:43:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "e70656bafe9884664fcdbb0f13f98d69",
+    "fetched_at": "2026-09-06T19:49:50.037294+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "German exit polls suggest far-right party has big lead in regional election",
+    "summary": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+    "published": "Sun, 06 Sep 2026 12:36:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "e7f11ae737a3eaee35cfdb46883d2949",
+    "fetched_at": "2026-09-06T19:49:48.938782+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
+    "summary": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 03:25:58 GMT",
+    "source": "BBC News",
+    "id": "55f5f8a0974ff5e4e0e04e699ec3b25c",
+    "fetched_at": "2026-09-06T19:49:47.823698+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Dozens feared trapped in collapsed building in Delhi",
     "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
     "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "NPR Topics: World",
     "id": "bdbec42b8eb5db66a4c89a22242336d9",
     "fetched_at": "2026-09-05T17:50:10.853546+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-    "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-    "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 04:28:21 GMT",
-    "source": "BBC News",
-    "id": "40215e7d688c30b404cb274c2a1c0c07",
-    "fetched_at": "2026-09-05T17:50:09.735847+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-    "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 17:15:05 GMT",
-    "source": "BBC News",
-    "id": "2e633eccf78c6e2888e12a7a0ad23c1c",
-    "fetched_at": "2026-09-05T17:50:08.594046+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What different world maps get right - and what they get wrong",
-    "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-    "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 13:46:02 GMT",
-    "source": "BBC News",
-    "id": "7151d43e48f9a184511ef47cee6212a1",
-    "fetched_at": "2026-09-05T14:20:14.116585+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bosnian Serb war criminal Mladić commemorated in Belgrade, but no state honours",
-    "summary": "Thousands are expected at Mladić's burial in Belgrade on Monday, which will proceed without serving officials, artillery salutes or ceremonial military presence. Brussels has earlier said any glorification would be \"incompatible with the values on which the EU path is built\".",
-    "link": "http://www.euronews.com/2026/09/05/bosnian-serb-war-criminal-mladic-commemorated-in-belgrade-but-no-state-honours",
-    "published": "Sat, 05 Sep 2026 13:49:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6da1a4ff02135cf0fa41e5c028f4fd75",
-    "fetched_at": "2026-09-05T14:20:14.116581+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two people pulled alive by Nepal's search and rescue team 10 days after devastating flash floods",
-    "summary": "Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.",
-    "link": "http://www.euronews.com/2026/09/05/two-people-pulled-alive-by-nepals-search-and-rescue-team-10-days-after-devastating-flash-f",
-    "published": "Sat, 05 Sep 2026 14:25:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4958434b253ba2554aae07ab728142f2",
-    "fetched_at": "2026-09-05T14:20:14.116556+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US drafting post-war plan for the Middle East, report says",
-    "summary": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
-    "link": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
-    "published": "Sat, 05 Sep 2026 16:04:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b62d0cf5da217150cbc7e345b5a14b60",
-    "fetched_at": "2026-09-05T14:20:12.995279+00:00"
   }
 ]
