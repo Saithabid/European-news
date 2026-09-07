@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 21:12:37 GMT",
+    "source": "BBC News",
+    "id": "fc97f50c7c2cf7ba121433c8b0c69268",
+    "fetched_at": "2026-09-07T22:25:39.886143+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump threatens to stop Canadian aircraft maker Bombardier from selling in the US",
+    "summary": "In January, Trump also threatened to decertify Bombardier aircraft as he raged against what he said was Canada's refusal to certify certain US-made Gulfstream planes.",
+    "link": "http://www.euronews.com/2026/09/07/trump-threatens-to-stop-canadian-aircraft-maker-bombardier-from-selling-in-the-us",
+    "published": "Mon, 07 Sep 2026 22:54:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fe597c6246fa699243e15c22d7c6f4dd",
+    "fetched_at": "2026-09-07T22:25:39.886109+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump negotiators Witkoff, Kushner meet with Putin in Moscow as US pushes for end to Russia-Ukraine war",
+    "summary": "Steve Witkoff and Jared Kushner met with Vladimir Putin in Moscow for peace talks before heading to Kyiv, and President Donald Trump says there may be a good chance for a deal.",
+    "link": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
+    "published": "Sat, 05 Sep 2026 10:52:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6b202f2c16a9aaf3cda032026098a68d",
+    "fetched_at": "2026-09-07T22:25:38.752501+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany’s far-right party AfD surges to historic victory in state election",
+    "summary": "German Chancellor Friedrich Merz&apos;s party faces a disastrous blow as AfD aims for Germany&apos;s first far-right state government since World War II.",
+    "link": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
+    "published": "Sun, 06 Sep 2026 21:36:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "61f1155e064c7719e8521173dbbbccc0",
+    "fetched_at": "2026-09-07T22:25:37.636957+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia’s quieter nuclear submarines threaten NATO, former commander warns",
+    "summary": "Russia&apos;s Yasen-M submarines and militarized Kola Peninsula are forcing NATO to confront a growing undersea threat across the GIUK Gap and Arctic, expert warns.",
+    "link": "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
+    "published": "Mon, 07 Sep 2026 16:19:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c382b24a3094331e91f7abf8cc106e68",
+    "fetched_at": "2026-09-07T22:25:36.507980+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What Russia and China learned from America after 9/11",
+    "summary": "Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11",
+    "published": "Sun, 06 Sep 2026 17:06:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "9803027ee11870789fdb74b7b34b0a3f",
+    "fetched_at": "2026-09-07T22:25:35.385655+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Shipping companies are putting sails back on cargo ships",
+    "summary": "One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
+    "published": "Sun, 06 Sep 2026 17:06:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "c2df47627b646077038d94f82ea00469",
+    "fetched_at": "2026-09-07T22:25:34.267202+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
+    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
+    "published": "Sun, 06 Sep 2026 17:06:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "4fb5580bac89e8b9c3ea86586ebe8be0",
+    "fetched_at": "2026-09-07T22:25:33.138866+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The UN passed resolution ahead of General Assembly calling for end to child marriage",
+    "summary": "The UN estimates 650 million women and girls currently alive were married before age 18. A new resolution aims to bring awareness and push countries to act to end child marriage.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5954226/the-un-passed-resolution-ahead-of-general-assembly-calling-for-end-to-child-marriage",
+    "published": "Mon, 07 Sep 2026 17:30:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "7dc2aaaf01f042faea1e4a26335b6806",
+    "fetched_at": "2026-09-07T22:25:32.009928+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
     "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
     "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "67417adea24afae4c8380ad0104dca65",
     "fetched_at": "2026-09-07T08:47:41.853988+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-    "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
-    "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 04:07:23 GMT",
-    "source": "BBC News",
-    "id": "1b344b520d32fdfab1c8d3a29aa1dcc5",
-    "fetched_at": "2026-09-07T08:47:40.775800+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
-    "summary": "Video captured a Phantom F-4 jet crashing into the ground during a low-altitude maneuver at Tanagra Air Force Base as thousands witnessed it.",
-    "link": "https://www.foxnews.com/world/fighter-jet-crashes-air-show-killing-2-pilots-thousands-spectators-watching",
-    "published": "Sat, 05 Sep 2026 16:16:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0eeffc07401293cf7409038332d6417a",
-    "fetched_at": "2026-09-07T08:47:39.667896+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US restricts government travel to Mexican border city over threat concerns",
-    "summary": "The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
-    "link": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
-    "published": "Mon, 07 Sep 2026 00:34:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "013ea314f0183bc30fdb5f999cf2eb87",
-    "fetched_at": "2026-09-07T08:47:38.565405+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "This is the work of our lifetime: Ayana Elizabeth Johnson urges action after new UN climate report",
-    "summary": "A United Nations report has found that the world will warm to 1.5 degrees Celsius above pre-industrial levels. Climate solutions advocate Ayana Elizabeth Johnson urges a quicker implementation of known strategies - and determination rather than despair.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5954264/this-is-the-work-of-our-lifetime-ayana-elizabeth-johnson-urges-action-after-new-un-climate-report",
-    "published": "Sat, 05 Sep 2026 17:01:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "9f0e5a5ace36c316f2397f802bad8005",
-    "fetched_at": "2026-09-07T08:47:37.452642+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-    "summary": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
-    "published": "Sat, 05 Sep 2026 17:01:12 -0400",
-    "source": "NPR Topics: World",
-    "id": "cf59ddf9f929105b21cd0c064fead3e8",
-    "fetched_at": "2026-09-07T08:47:36.331944+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-    "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-    "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 22:48:38 GMT",
-    "source": "BBC News",
-    "id": "c2ea84b6c19cb9ea5d6e199ef84b36ef",
-    "fetched_at": "2026-09-07T08:47:35.098439+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-    "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 00:01:32 GMT",
-    "source": "BBC News",
-    "id": "6d5809f88b097d5b57a6e534970d8ab4",
-    "fetched_at": "2026-09-07T02:11:54.656682+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "United Nations votes 164-1 for Equal Earth map after US brands it 'radical ideological project'",
-    "summary": "The United Nations adopted the Equal Earth map showing Africa&apos;s true size, but the United States was the sole nation to vote against the resolution.",
-    "link": "https://www.foxnews.com/world/united-nations-votes-164-1-equal-earth-map-us-brands-radical-ideological-project",
-    "published": "Sat, 05 Sep 2026 13:48:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7266491337ee6520907cee9c086e3be2",
-    "fetched_at": "2026-09-07T02:11:53.511004+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rome ramps up security around Colosseum with new ‘red zone’ targeting criminals",
-    "summary": "Rome&apos;s new red zone around the Colosseum targets predatory crime and disorder after a violent July 1 confrontation involving roughly 50 people.",
-    "link": "https://www.foxnews.com/world/rome-ramps-security-colosseum-red-zone-targeting-criminals",
-    "published": "Sun, 06 Sep 2026 20:19:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "13e8dc3b5c8fff2dcea9ed519ff916df",
-    "fetched_at": "2026-09-07T02:11:52.361481+00:00"
   }
 ]
