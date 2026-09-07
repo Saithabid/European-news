@@ -1,6 +1,286 @@
 [
   {
     "region": "Europe",
+    "title": "Tanzanian President Samia's husband dies in hospital",
+    "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 12:03:56 GMT",
+    "source": "BBC News",
+    "id": "e0097a0be0fbd87e145cd5d42ab7aa19",
+    "fetched_at": "2026-09-07T15:25:30.868452+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+    "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+    "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 14:57:16 GMT",
+    "source": "BBC News",
+    "id": "c0e2c8858c5eface71a3023c45692bbe",
+    "fetched_at": "2026-09-07T15:25:30.868450+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+    "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+    "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 09:31:26 GMT",
+    "source": "BBC News",
+    "id": "e275f25f265760e34790f378e0d7c492",
+    "fetched_at": "2026-09-07T15:25:30.868447+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Heavy smoke and flames after Amazon cargo plane overruns runway in Miami",
+    "summary": "An Amazon cargo plane overran the runway at Miami International Airport, hit vehicles and caught fire. Five died, five were injured. FAA and NTSB investigate.",
+    "link": "http://www.euronews.com/video/2026/09/07/heavy-smoke-and-flames-after-amazon-cargo-plane-overruns-runway-in-miami",
+    "published": "Mon, 07 Sep 2026 10:59:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eb06ab68ba88dc3ea04a2f9978b7fb8f",
+    "fetched_at": "2026-09-07T15:25:30.868445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Popular Egyptian TV presenter Sarah Khalifa faces appeal battle after death sentence",
+    "summary": "Khalifa and 11 others face death sentences in a major synthetic drug trafficking case, with appeals and further legal challenges expected.",
+    "link": "http://www.euronews.com/2026/09/07/popular-egyptian-tv-presenter-sarah-khalifa-faces-appeal-battle-after-death-sentence",
+    "published": "Mon, 07 Sep 2026 11:36:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4d22bafe274cff75c6b9985ea918dbea",
+    "fetched_at": "2026-09-07T15:25:30.868443+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Clowns take over the streets of Brazil’s historic Mariana",
+    "summary": "Around 100 clowns and circus fans fill the historic centre of Mariana, Brazil, for an international gathering celebrating circus, music and colour",
+    "link": "http://www.euronews.com/video/2026/09/07/clowns-take-over-the-streets-of-brazils-historic-mariana",
+    "published": "Mon, 07 Sep 2026 11:53:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e11c64cb349324c172cc6b33c98db5f7",
+    "fetched_at": "2026-09-07T15:25:30.868441+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN rights chief urges 'accountability' after 23 die in US immigration custody in 2026",
+    "summary": "A joint report by Human Rights Watch and Physicians for Human Rights in June said that the rate of people dying in ICE custody has reached its highest level in over a decade amid Trump's crackdown.",
+    "link": "http://www.euronews.com/2026/09/07/un-rights-chief-urges-accountability-after-23-die-in-us-immigration-custody-in-2026",
+    "published": "Mon, 07 Sep 2026 12:24:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a647395b04dcdcef32ea72516fcbfad9",
+    "fetched_at": "2026-09-07T15:25:30.868439+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rescuers search rubble for survivors after New Delhi hostel collapse kills seven",
+    "summary": "Building collapses are a recurring hazard in parts of India during the June-to-September monsoon season, when heavy or prolonged rain can weaken older structures.",
+    "link": "http://www.euronews.com/2026/09/07/rescuers-search-rubble-for-survivors-after-new-delhi-hostel-collapse-kills-seven",
+    "published": "Mon, 07 Sep 2026 13:37:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "72c1cff6ef17f2f8142a2462a85e824d",
+    "fetched_at": "2026-09-07T15:25:30.868437+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Passengers face flight chaos in Indonesia after Anak Krakatau eruption",
+    "summary": "Passengers queue for refunds at Airport in Indonesia, as Anak Krakatau ash closes eight airports, cancels 2,300 flights and strands over 268,000 travellers.",
+    "link": "http://www.euronews.com/video/2026/09/07/passengers-face-flight-chaos-in-indonesia-after-anak-krakatau-eruption",
+    "published": "Mon, 07 Sep 2026 17:07:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ef68fd4079884c0ee3666e68e14a7aec",
+    "fetched_at": "2026-09-07T15:25:30.868435+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands attend Bosnian Serb war criminal's funeral despite EU warnings",
+    "summary": "Serbian ministers attended despite earlier assurances no serving officials would be present, with Mladić's coffin arriving draped in the national flag and his medals on display. The EU said any glorification of convicted war criminals \"has no place in the EU or in EU candidate countries\".",
+    "link": "http://www.euronews.com/2026/09/07/thousands-attend-bosnian-serb-war-criminals-funeral-despite-eu-warnings",
+    "published": "Mon, 07 Sep 2026 17:19:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8ffaf857e30df6f7943c7c0da5672535",
+    "fetched_at": "2026-09-07T15:25:30.868433+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Taylor crowns boxing career in stylish Croke Park triumph",
+    "summary": "Katie Taylor ends illustrious career as a three-time undisputed world champion as Croke Park gave one of Ireland's greatest sporting figures the grandest of farewells.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 22:22:47 GMT",
+    "source": "BBC News",
+    "id": "0d003dc98b54ee0e5beedf3e28687d01",
+    "fetched_at": "2026-09-07T15:25:30.868431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+    "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 23:54:07 GMT",
+    "source": "BBC News",
+    "id": "c991608dfe186d39961fe5ca63954fd0",
+    "fetched_at": "2026-09-07T15:25:30.868428+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+    "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 20:41:58 GMT",
+    "source": "BBC News",
+    "id": "740da010e3ce55c439540ede1ed739c8",
+    "fetched_at": "2026-09-07T15:25:30.868426+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+    "summary": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 07:03:44 GMT",
+    "source": "BBC News",
+    "id": "bea6576e741a6267835edfefe7dded14",
+    "fetched_at": "2026-09-07T15:25:30.868423+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 14:04:01 GMT",
+    "source": "BBC News",
+    "id": "252d49af7fce4849bf7b33a3b610869a",
+    "fetched_at": "2026-09-07T15:25:30.868421+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN agency accused of Hamas ties sees another European nation cut funding",
+    "summary": "Finland will discontinue UNRWA funding by end of 2026, following the Trump administration and Sweden in cutting ties with the Hamas-linked U.N. agency.",
+    "link": "https://www.foxnews.com/world/un-agency-accused-hamas-ties-sees-another-european-nation-cut-funding",
+    "published": "Mon, 07 Sep 2026 08:46:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "76ea0fcbf3a820da6d06788416937954",
+    "fetched_at": "2026-09-07T15:25:30.868419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+    "summary": "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+    "published": "Sun, 06 Sep 2026 12:36:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "f1ae66c8810d61bc92a979b6b1c9c174",
+    "fetched_at": "2026-09-07T15:25:30.868416+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rubio to visit 3 Latin American countries this week",
+    "summary": "Secretary of State Marco Rubio heads to Colombia, Peru and Ecuador as President Trump hails a shift to the right in regional politics and a new era of U.S. dominance.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week",
+    "published": "Mon, 07 Sep 2026 04:43:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "6fb9a56b4895e2a0947a8243a5aaf684",
+    "fetched_at": "2026-09-07T15:25:30.868413+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. ambassador to Ukraine on efforts to strike a compromise with Russia",
+    "summary": "NPR's Leila Fadel asks William Taylor, former U.S. ambassador to Ukraine, about efforts made by U.S. emissaries toward a compromise between Russia and Ukraine.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5959696/former-u-s-ambassador-to-ukraine-on-efforts-to-strike-a-compromise-with-russia",
+    "published": "Mon, 07 Sep 2026 06:42:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "28b82eba7c9747bc5bdc06143e710435",
+    "fetched_at": "2026-09-07T15:25:30.868410+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+    "summary": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
+    "published": "Mon, 07 Sep 2026 06:43:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "ed28eea169c2037c7b34e803966c3661",
+    "fetched_at": "2026-09-07T15:25:30.868406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+    "summary": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
+    "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+    "published": "Mon, 07 Sep 2026 07:11:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "890a910b3e3003a5c1aaab476992ba74",
+    "fetched_at": "2026-09-07T15:25:30.868378+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+    "summary": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+    "published": "Mon, 07 Sep 2026 09:31:16 -0400",
+    "source": "NPR Topics: World",
+    "id": "d48150668c326c5f76e20ae82154eafb",
+    "fetched_at": "2026-09-07T15:25:29.720330+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+    "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+    "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 01:16:27 GMT",
+    "source": "BBC News",
+    "id": "08da69560aad097d145efff4166f7e64",
+    "fetched_at": "2026-09-07T15:25:28.572124+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+    "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+    "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 11:30:27 GMT",
+    "source": "BBC News",
+    "id": "12a480674fa6638461814b36e1b848b6",
+    "fetched_at": "2026-09-07T15:25:27.301298+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+    "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
+    "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 00:17:05 GMT",
+    "source": "BBC News",
+    "id": "cf5b82825e28a9b8e5b9ad9ec3b8e87b",
+    "fetched_at": "2026-09-07T15:25:26.129780+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+    "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
+    "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 06 Sep 2026 06:04:51 GMT",
+    "source": "BBC News",
+    "id": "d371d9aff4af609347ea424482836dba",
+    "fetched_at": "2026-09-07T15:25:24.979530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Armed Ohio man arrested after charging at Democratic candidate for governor",
+    "summary": "The candidate, Amy Acton, was not hurt, but her team said several others were injured as the man tried to \"lunge\" at her.",
+    "link": "https://www.bbc.co.uk/news/articles/czezyr81g23o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 12:51:10 GMT",
+    "source": "BBC News",
+    "id": "b2478b2120e2630eeeccdd4924cba5ba",
+    "fetched_at": "2026-09-07T15:25:23.836644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Cargo plane overshoots runway at Miami airport",
+    "summary": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
+    "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 05:37:28 GMT",
+    "source": "BBC News",
+    "id": "07d4de25019d6510ec6d84802c8c156a",
+    "fetched_at": "2026-09-07T15:25:22.687601+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australians will be able to switch off social media algorithms under planned legislation",
     "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
     "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
@@ -318,285 +598,5 @@
     "source": "NPR Topics: World",
     "id": "4fb5580bac89e8b9c3ea86586ebe8be0",
     "fetched_at": "2026-09-06T21:52:42.152795+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-    "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 16:02:32 GMT",
-    "source": "BBC News",
-    "id": "08dc6be1c524c06e76b0aa34a9d9f97b",
-    "fetched_at": "2026-09-06T19:49:53.352152+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
-    "summary": "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.",
-    "link": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
-    "published": "Fri, 04 Sep 2026 10:03:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ba0596b5f4c219d942bdadbe35637383",
-    "fetched_at": "2026-09-06T19:49:52.247077+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
-    "summary": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
-    "link": "https://www.foxnews.com/world/us-backed-effort-disarm-iraqs-iran-linked-militias-hits-setback-experts-say",
-    "published": "Sun, 06 Sep 2026 14:10:28 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "71c91ca4e42bd36f5c09b621e8a78f46",
-    "fetched_at": "2026-09-06T19:49:51.134608+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-    "summary": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
-    "published": "Sat, 05 Sep 2026 07:43:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "e70656bafe9884664fcdbb0f13f98d69",
-    "fetched_at": "2026-09-06T19:49:50.037294+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "German exit polls suggest far-right party has big lead in regional election",
-    "summary": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
-    "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-    "published": "Sun, 06 Sep 2026 12:36:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "e7f11ae737a3eaee35cfdb46883d2949",
-    "fetched_at": "2026-09-06T19:49:48.938782+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
-    "summary": "The US mother accused of murder is likely to remain in a mental health facility as lawyers weigh their next steps.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 03:25:58 GMT",
-    "source": "BBC News",
-    "id": "55f5f8a0974ff5e4e0e04e699ec3b25c",
-    "fetched_at": "2026-09-06T19:49:47.823698+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens feared trapped in collapsed building in Delhi",
-    "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 06 Sep 2026 14:07:35 GMT",
-    "source": "BBC News",
-    "id": "cd58f6d19230de48a9f57de634d71b56",
-    "fetched_at": "2026-09-06T16:37:13.962493+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 6th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-evening",
-    "published": "Sun, 06 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1757a3e666f6d6bc8bed090d86b096b8",
-    "fetched_at": "2026-09-06T16:37:12.850176+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian quits college team over Russian signing",
-    "summary": "Ukrainian Kate Koval says she left Louisiana State University's basketball programme because of the team's decision to sign a Russian player.",
-    "link": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 06:22:40 GMT",
-    "source": "BBC News",
-    "id": "243a6384454a0ad2f95c4fc8a346f99e",
-    "fetched_at": "2026-09-06T16:37:11.730820+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 16:49:15 GMT",
-    "source": "BBC News",
-    "id": "202bc5beb976ce81fe7b01aaadee8bac",
-    "fetched_at": "2026-09-06T16:37:10.622429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German far-right set for big win in eastern state - exit polls",
-    "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 06 Sep 2026 16:21:19 GMT",
-    "source": "BBC News",
-    "id": "272ebb47ecc38589ec677fea4569299f",
-    "fetched_at": "2026-09-06T16:37:09.511957+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US adversary turns up the heat on America’s AI lead with an underestimated edge",
-    "summary": "China&apos;s &quot;East Data, West Computing&quot; initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing&apos;s push.",
-    "link": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
-    "published": "Fri, 04 Sep 2026 06:00:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5cba284aa6bbb2ecdecb4a1633090f26",
-    "fetched_at": "2026-09-06T16:37:08.396121+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-    "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 06 Sep 2026 16:11:03 GMT",
-    "source": "BBC News",
-    "id": "553dec82c0f59446eac22d62f17352d0",
-    "fetched_at": "2026-09-06T16:37:07.223224+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least two dead in blast at Bolivia military barracks",
-    "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 15:22:41 GMT",
-    "source": "BBC News",
-    "id": "0c8962b1fb9a2fb0d38d2af7bd480d87",
-    "fetched_at": "2026-09-06T13:19:27.333479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 6th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-midday",
-    "published": "Sun, 06 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c600980d701a943b4c733d87761b2609",
-    "fetched_at": "2026-09-06T13:19:27.333476+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
-    "summary": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
-    "link": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-    "published": "Sun, 06 Sep 2026 11:16:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b77ef981a792b08760decf091cdac2f6",
-    "fetched_at": "2026-09-06T13:19:27.333472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu calls Qatar ‘hostile state’ as Doha pushes back against Iran",
-    "summary": "Netanyahu defended Israel’s 2025 strike on Doha and called Qatar a “hostile state,\" while Qatar separately accused Iran of selectively quoting a Qatari security assessment to justify attacks on its territory.",
-    "link": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
-    "published": "Sun, 06 Sep 2026 13:15:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f8756567d5e2d6177bf36bcf10520ecf",
-    "fetched_at": "2026-09-06T13:19:27.333441+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
-    "summary": "AfD candidate Ulrich Siegmund casts his ballot in Saxony-Anhalt, where his party is seeking a historic breakthrough in the state election.",
-    "link": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
-    "published": "Sun, 06 Sep 2026 14:26:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "47217829c5581675b220e73a6701090f",
-    "fetched_at": "2026-09-06T13:19:26.214293+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
-    "summary": "Germany accused Russia of a drone attack at Leipzig/Halle Airport and now pushes Baltic Sea allies to form a rapid-response hybrid warfare task force.",
-    "link": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
-    "published": "Sat, 05 Sep 2026 06:00:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "17780b091ee96f22ba3abc3aec2c59cd",
-    "fetched_at": "2026-09-06T13:19:25.071828+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election",
-    "summary": "Young voters are fueling Germany&apos;s AfD surge in Saxony-Anhalt, where lead candidate Ulrich Siegmund has amassed over 700,000 TikTok followers.",
-    "link": "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election",
-    "published": "Sun, 06 Sep 2026 06:00:24 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c7f8061d39634d0ffcf34e22ae22fb4a",
-    "fetched_at": "2026-09-06T13:19:23.946772+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-    "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-    "published": "Sat, 05 Sep 2026 07:08:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "e2d394cb844d8d74b6fa8dbc65ee9b0a",
-    "fetched_at": "2026-09-06T13:19:22.816264+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
-    "summary": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
-    "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-    "published": "Sun, 06 Sep 2026 05:51:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "95a9913666b6e1eb1a7db7570db179d6",
-    "fetched_at": "2026-09-06T13:19:21.690580+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-    "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 10:02:29 GMT",
-    "source": "BBC News",
-    "id": "1a46b3120b1528cfb92e06a26c708a2b",
-    "fetched_at": "2026-09-06T13:19:20.554095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump signs order to remove endangered species protection for grey wolves",
-    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 09:12:48 GMT",
-    "source": "BBC News",
-    "id": "4eca96e027944518b0a844c6f28c86ba",
-    "fetched_at": "2026-09-06T13:19:19.421769+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-    "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 06 Sep 2026 07:06:50 GMT",
-    "source": "BBC News",
-    "id": "c8f80140e761faa1bf1bf50030d328e3",
-    "fetched_at": "2026-09-06T08:15:24.493851+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 6th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-morning",
-    "published": "Sun, 06 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1aa653b59777871896a272dd5081e9ae",
-    "fetched_at": "2026-09-06T08:15:23.375684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flights suspended at Indonesia's main airport due to volcanic eruption",
-    "summary": "Mount Anak Krakatoa is an active volcano that sits in the Sunda Strait, between the islands of Java and Sumatra.",
-    "link": "http://www.euronews.com/2026/09/06/flights-suspended-at-indonesias-main-airport-due-to-volcanic-eruption",
-    "published": "Sun, 06 Sep 2026 09:12:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d71d3f6eb63b0274598475c4c02c9b1b",
-    "fetched_at": "2026-09-06T08:15:22.252518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
-    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 07:20:17 GMT",
-    "source": "BBC News",
-    "id": "8a07186afe704cc8c2d3630be71b790c",
-    "fetched_at": "2026-09-06T08:15:21.116974+00:00"
   }
 ]
