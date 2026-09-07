@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 15:27:50 GMT",
+    "source": "BBC News",
+    "id": "1c72354aea20f2f090241f5c6f3c2217",
+    "fetched_at": "2026-09-07T19:30:57.780748+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
+    "summary": "IAEA chief Grossi told the Board of Governors that Tehran had provided no information on declared nuclear materials and inspectors had no on-site access, as Iran's parliament speaker threatened US energy assets with retaliatory strikes and the IRGC warned vessels off the southern Hormuz corridor.",
+    "link": "http://www.euronews.com/2026/09/07/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount",
+    "published": "Mon, 07 Sep 2026 17:41:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7f0aeb94edaa66e7bb3035f6e8409a7c",
+    "fetched_at": "2026-09-07T19:30:57.780745+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside Uzbekistan’s restored contemporary art centre",
+    "summary": "A restored 1912 industrial complex now houses a contemporary art centre, opening with Hikmah, featuring an installation from the Guggenheim Museum collection.",
+    "link": "http://www.euronews.com/video/2026/09/07/a-first-look-inside-the-galleries-of-a-newly-restored-contemporary-art-centre",
+    "published": "Mon, 07 Sep 2026 20:40:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4a432238ebf7f174b6a6bd7b386ac16d",
+    "fetched_at": "2026-09-07T19:30:57.780743+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+    "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 07:20:17 GMT",
+    "source": "BBC News",
+    "id": "8a07186afe704cc8c2d3630be71b790c",
+    "fetched_at": "2026-09-07T19:30:57.780741+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+    "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 04 Sep 2026 16:49:15 GMT",
+    "source": "BBC News",
+    "id": "202bc5beb976ce81fe7b01aaadee8bac",
+    "fetched_at": "2026-09-07T19:30:57.780739+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+    "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 14:50:50 GMT",
+    "source": "BBC News",
+    "id": "2a43ebe39823b28c90a55e029c040a7a",
+    "fetched_at": "2026-09-07T19:30:57.780705+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
+    "summary": "Germany accused Russia of a drone attack at Leipzig/Halle Airport and now pushes Baltic Sea allies to form a rapid-response hybrid warfare task force.",
+    "link": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
+    "published": "Sat, 05 Sep 2026 06:00:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "17780b091ee96f22ba3abc3aec2c59cd",
+    "fetched_at": "2026-09-07T19:30:56.678102+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election",
+    "summary": "Young voters are fueling Germany&apos;s AfD surge in Saxony-Anhalt, where lead candidate Ulrich Siegmund has amassed over 700,000 TikTok followers.",
+    "link": "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election",
+    "published": "Sun, 06 Sep 2026 06:00:24 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c7f8061d39634d0ffcf34e22ae22fb4a",
+    "fetched_at": "2026-09-07T19:30:55.582993+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US-backed effort to disarm Iraq’s Iran-linked militias hits setback, experts say",
+    "summary": "Iraqi Prime Minister Ali al-Zaidi vowed to restrict weapons to state control, but militias like Asaib Ahl al-Haq show no credible disarmament evidence.",
+    "link": "https://www.foxnews.com/world/us-backed-effort-disarm-iraqs-iran-linked-militias-hits-setback-experts-say",
+    "published": "Sun, 06 Sep 2026 14:10:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71c91ca4e42bd36f5c09b621e8a78f46",
+    "fetched_at": "2026-09-07T19:30:54.484143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
+    "summary": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+    "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+    "published": "Sun, 06 Sep 2026 05:51:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "95a9913666b6e1eb1a7db7570db179d6",
+    "fetched_at": "2026-09-07T19:30:53.384592+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump signs order to remove endangered species protection for grey wolves",
+    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+    "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 05 Sep 2026 09:12:48 GMT",
+    "source": "BBC News",
+    "id": "4eca96e027944518b0a844c6f28c86ba",
+    "fetched_at": "2026-09-07T19:30:52.279073+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pilot killed in small plane crash near regional airport in Florida",
+    "summary": "The National Transportation Safety Board has identified the plane as a Mooney M20F aircraft, a four-seater propeller plane.",
+    "link": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 18:42:31 GMT",
+    "source": "BBC News",
+    "id": "6e4588a79daeb1bbf40c13201f6e0cf4",
+    "fetched_at": "2026-09-07T19:30:51.154746+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'It's disappointing': Americans react to record high Labor Day fuel prices",
+    "summary": "Petrol prices have never topped $4 (£2.96) per gallon on Labor Day, but it's still below the record of $5.02 (£3.71) a gallon set in June 2022.",
+    "link": "https://www.bbc.co.uk/news/videos/c3d71nrpjxmo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 14:44:47 GMT",
+    "source": "BBC News",
+    "id": "17c6c93518a2a9d139ea1bde33f9158e",
+    "fetched_at": "2026-09-07T19:30:50.035752+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Tanzanian President Samia's husband dies in hospital",
     "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
     "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "13e8dc3b5c8fff2dcea9ed519ff916df",
     "fetched_at": "2026-09-07T02:11:52.361481+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany’s far-right party AfD surges to historic victory in state election",
-    "summary": "German Chancellor Friedrich Merz&apos;s party faces a disastrous blow as AfD aims for Germany&apos;s first far-right state government since World War II.",
-    "link": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
-    "published": "Sun, 06 Sep 2026 21:36:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "61f1155e064c7719e8521173dbbbccc0",
-    "fetched_at": "2026-09-07T02:11:51.232851+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
-    "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
-    "published": "Sat, 05 Sep 2026 07:43:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "fc77bdc5bdc9e2b27e39f116753731d4",
-    "fetched_at": "2026-09-07T02:11:50.086224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 00:57:38 GMT",
-    "source": "BBC News",
-    "id": "27ef146c752e35326daea98e36c84291",
-    "fetched_at": "2026-09-07T02:11:48.938907+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump negotiators Witkoff, Kushner meet with Putin in Moscow as US pushes for end to Russia-Ukraine war",
-    "summary": "Steve Witkoff and Jared Kushner met with Vladimir Putin in Moscow for peace talks before heading to Kyiv, and President Donald Trump says there may be a good chance for a deal.",
-    "link": "https://www.foxnews.com/world/trump-negotiators-witkoff-kushner-arrive-moscow-us-pushes-end-russia-ukraine-war",
-    "published": "Sat, 05 Sep 2026 10:52:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6b202f2c16a9aaf3cda032026098a68d",
-    "fetched_at": "2026-09-06T23:22:53.081581+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-    "summary": "",
-    "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-    "published": "Sat, 05 Sep 2026 11:05:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "bdbec42b8eb5db66a4c89a22242336d9",
-    "fetched_at": "2026-09-06T23:22:51.981601+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's response is key as Argentina's Falklands demands get louder",
-    "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-    "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 06:20:04 GMT",
-    "source": "BBC News",
-    "id": "7297023831965383779dca5d1ecc5242",
-    "fetched_at": "2026-09-06T23:22:50.870190+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-    "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 06 Sep 2026 20:52:12 GMT",
-    "source": "BBC News",
-    "id": "64bc6dc0276d3d5d5d57879bf7d02d4e",
-    "fetched_at": "2026-09-06T21:52:48.905217+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two people pulled alive by Nepal's search and rescue team 10 days after devastating flash floods",
-    "summary": "Ten days after floods devastated Nepal, one woman and one man were pulled alive on Saturday in separate search and rescue operations. Meanwhile, more than 5,000 people remain missing and at least 1,300 were killed.",
-    "link": "http://www.euronews.com/2026/09/05/two-people-pulled-alive-by-nepals-search-and-rescue-team-10-days-after-devastating-flash-f",
-    "published": "Sat, 05 Sep 2026 14:25:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4958434b253ba2554aae07ab728142f2",
-    "fetched_at": "2026-09-06T21:52:47.789231+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US drafting post-war plan for the Middle East, report says",
-    "summary": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
-    "link": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
-    "published": "Sat, 05 Sep 2026 16:04:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b62d0cf5da217150cbc7e345b5a14b60",
-    "fetched_at": "2026-09-06T21:52:46.672844+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
-    "summary": "There was no immediate word on casualties in the incident involving a Boeing 767 operated by Amazon Prime Air, according to the Federal Aviation Administration and Miami International Airport.",
-    "link": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
-    "published": "Sun, 06 Sep 2026 22:03:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "36c18e62f42e6ccb9d532d0002d910bc",
-    "fetched_at": "2026-09-06T21:52:45.556892+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What Russia and China learned from America after 9/11",
-    "summary": "Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
-    "link": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11",
-    "published": "Sun, 06 Sep 2026 17:06:41 -0400",
-    "source": "NPR Topics: World",
-    "id": "9803027ee11870789fdb74b7b34b0a3f",
-    "fetched_at": "2026-09-06T21:52:44.432799+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Shipping companies are putting sails back on cargo ships",
-    "summary": "One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.",
-    "link": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
-    "published": "Sun, 06 Sep 2026 17:06:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "c2df47627b646077038d94f82ea00469",
-    "fetched_at": "2026-09-06T21:52:43.280072+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow",
-    "summary": "US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
-    "link": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
-    "published": "Sun, 06 Sep 2026 17:06:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "4fb5580bac89e8b9c3ea86586ebe8be0",
-    "fetched_at": "2026-09-06T21:52:42.152795+00:00"
   }
 ]
