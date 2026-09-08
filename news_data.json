@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+    "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+    "source": "BBC News",
+    "id": "b7666172aab4ffb5f37e36e09dbc8aaa",
+    "fetched_at": "2026-09-08T22:14:10.303300+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+    "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
+    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 11:38:07 GMT",
+    "source": "BBC News",
+    "id": "3c29e4233c26b093f03a1ca69f11f0e5",
+    "fetched_at": "2026-09-08T22:14:10.303298+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Popular TV host, media star faces hanging after conviction in major synthetic drug trafficking case",
+    "summary": "Sarah Khalifa was among 12 defendants sentenced to death after prosecutors accused the group of manufacturing and trafficking synthetic narcotics.",
+    "link": "https://www.foxnews.com/world/popular-tv-host-media-star-faces-hanging-conviction-major-synthetic-drug-trafficking-case",
+    "published": "Mon, 07 Sep 2026 21:27:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "87f270d4f16153cbea671416bb0df532",
+    "fetched_at": "2026-09-08T22:14:10.303265+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
+    "summary": "Andy Burnham&apos;s UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu&apos;s ministers and U.S. lawmakers.",
+    "link": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+    "published": "Mon, 07 Sep 2026 21:58:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f2d679f408f5bd7f4ab3dfa949c32ba1",
+    "fetched_at": "2026-09-08T22:14:09.201378+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "70 Americans still unaccounted for after catastrophic Nepal flooding",
+    "summary": "Officials say 70 Americans remain unaccounted for after catastrophic flooding along the Nepal-China border, while warning the region remains too dangerous for travelers.",
+    "link": "https://www.foxnews.com/world/70-americans-still-unaccounted-catastrophic-nepal-flooding",
+    "published": "Tue, 08 Sep 2026 15:53:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4aec153b781b6d6fbce2adafdee1c65b",
+    "fetched_at": "2026-09-08T22:14:08.082303+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+    "summary": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+    "published": "Tue, 08 Sep 2026 15:55:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "34f2f4fa0668bf7621cff9b6e74de868",
+    "fetched_at": "2026-09-08T22:14:06.974322+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Cargo plane overshoots runway at Miami airport",
+    "summary": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
+    "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 05:37:28 GMT",
+    "source": "BBC News",
+    "id": "07d4de25019d6510ec6d84802c8c156a",
+    "fetched_at": "2026-09-08T22:14:05.858152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+    "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 21:41:11 GMT",
+    "source": "BBC News",
+    "id": "878cc32497650cdd3cd7a721acb21c1a",
+    "fetched_at": "2026-09-08T22:14:04.625326+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+    "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 14:46:16 GMT",
+    "source": "BBC News",
+    "id": "d22c7187ba6212c4c032d1ad750f4087",
+    "fetched_at": "2026-09-08T22:14:03.518972+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+    "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+    "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 20:57:09 GMT",
+    "source": "BBC News",
+    "id": "cf450d67325c105ee2b069a4e819b980",
+    "fetched_at": "2026-09-08T22:14:02.423448+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
     "summary": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
     "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "e3aa1693287f7cb4293769e10c7cb159",
     "fetched_at": "2026-09-08T08:28:20.275819+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flights gradually resume in Indonesia after volcanic eruption forced two-day suspension",
-    "summary": "Indonesia has more than 120 active volcanoes and frequently experiences eruptions due to its location along the Pacific \"Ring of Fire,\" the ring of seismic faults around the Pacific Ocean where most global seismic activity occurs.",
-    "link": "http://www.euronews.com/2026/09/08/flights-gradually-resume-in-indonesia-after-volcanic-eruption-forced-two-day-suspension",
-    "published": "Tue, 08 Sep 2026 08:17:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d718a3c2661ee0053dccab8d80449580",
-    "fetched_at": "2026-09-08T08:28:20.275816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Venice’s historic Regata Storica fills Grand Canal with colourful boats",
-    "summary": "Historic boats parade along Venice's Grand Canal as crowds gather near Rialto Bridge for the annual Regata Storica and rowing celebrations.",
-    "link": "http://www.euronews.com/video/2026/09/08/venices-historic-regata-storica-fills-grand-canal-with-colourful-boats",
-    "published": "Tue, 08 Sep 2026 08:17:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "09eefd29c15157b5143c876b238aecd6",
-    "fetched_at": "2026-09-08T08:28:20.275813+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Opening of first road bridge with Russia a sign of tighter ties, North Korea says",
-    "summary": "The opening on Monday came as Russia and North Korea have heavily boosted military and economic ties since Moscow launched its full-scale invasion of Ukraine in 2022.",
-    "link": "http://www.euronews.com/2026/09/08/opening-of-first-road-bridge-with-russia-a-sign-of-tighter-ties-north-korea-says",
-    "published": "Tue, 08 Sep 2026 09:35:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d021e99f9ed17fc7493c1aa608acc066",
-    "fetched_at": "2026-09-08T08:28:20.275810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What's in a name? Trump suggests renaming New Mexico state 'New America'",
-    "summary": "Trump last week suggested renaming the Strait of Hormuz as \"Trump Strait\" as the war with Iran continues, then hours later implied he was not serious about the plan.",
-    "link": "http://www.euronews.com/2026/09/08/whats-in-a-name-trump-suggests-renaming-new-mexico-state-new-america",
-    "published": "Tue, 08 Sep 2026 10:07:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "14422598addb893365ea87d52b2786e2",
-    "fetched_at": "2026-09-08T08:28:20.275806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-    "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 17:40:04 GMT",
-    "source": "BBC News",
-    "id": "a74ec2cd27d6e8056de9226428f5558d",
-    "fetched_at": "2026-09-08T08:28:20.275781+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
-    "summary": "Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner&apos;s visit to the city for peace negotiations.",
-    "link": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
-    "published": "Tue, 08 Sep 2026 00:25:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "797392c114ef8307cc2a71a8fd6423b0",
-    "fetched_at": "2026-09-08T08:28:19.160410+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia and North Korea open the first road across their shared border",
-    "summary": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
-    "link": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
-    "published": "Tue, 08 Sep 2026 01:40:44 -0400",
-    "source": "NPR Topics: World",
-    "id": "a6129673056ab42291d485674bd8cb96",
-    "fetched_at": "2026-09-08T08:28:18.050562+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
-    "summary": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom.",
-    "link": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
-    "published": "Tue, 08 Sep 2026 02:00:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "9e0f091ce6dbe2560914000b5e245bcd",
-    "fetched_at": "2026-09-08T08:28:16.943224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about Canada's escalating trade war with the U.S.",
-    "summary": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
-    "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
-    "published": "Tue, 08 Sep 2026 02:04:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "4ac228598f4b6ce028c68136f5128cc9",
-    "fetched_at": "2026-09-08T08:28:15.829910+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-    "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 05:31:06 GMT",
-    "source": "BBC News",
-    "id": "5e48e794dc0813132ba13be8d10eb7a2",
-    "fetched_at": "2026-09-08T08:28:14.718492+00:00"
   }
 ]
