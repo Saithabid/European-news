@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+    "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 01:07:47 GMT",
+    "source": "BBC News",
+    "id": "e986c702fa6bbb768e0216c876e31026",
+    "fetched_at": "2026-09-08T02:24:16.436825+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+    "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 23:46:44 GMT",
+    "source": "BBC News",
+    "id": "3c29e4233c26b093f03a1ca69f11f0e5",
+    "fetched_at": "2026-09-08T02:24:16.436823+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+    "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 00:01:32 GMT",
+    "source": "BBC News",
+    "id": "6d5809f88b097d5b57a6e534970d8ab4",
+    "fetched_at": "2026-09-08T02:24:16.436821+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+    "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+    "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 04:07:23 GMT",
+    "source": "BBC News",
+    "id": "1b344b520d32fdfab1c8d3a29aa1dcc5",
+    "fetched_at": "2026-09-08T02:24:16.436789+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
+    "summary": "Video captured a Phantom F-4 jet crashing into the ground during a low-altitude maneuver at Tanagra Air Force Base as thousands witnessed it.",
+    "link": "https://www.foxnews.com/world/fighter-jet-crashes-air-show-killing-2-pilots-thousands-spectators-watching",
+    "published": "Sat, 05 Sep 2026 16:16:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0eeffc07401293cf7409038332d6417a",
+    "fetched_at": "2026-09-08T02:24:15.332840+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rome ramps up security around Colosseum with new ‘red zone’ targeting criminals",
+    "summary": "Rome&apos;s new red zone around the Colosseum targets predatory crime and disorder after a violent July 1 confrontation involving roughly 50 people.",
+    "link": "https://www.foxnews.com/world/rome-ramps-security-colosseum-red-zone-targeting-criminals",
+    "published": "Sun, 06 Sep 2026 20:19:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "13e8dc3b5c8fff2dcea9ed519ff916df",
+    "fetched_at": "2026-09-08T02:24:14.232729+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US restricts government travel to Mexican border city over threat concerns",
+    "summary": "The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
+    "link": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
+    "published": "Mon, 07 Sep 2026 00:34:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "013ea314f0183bc30fdb5f999cf2eb87",
+    "fetched_at": "2026-09-08T02:24:13.125896+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Popular TV host, media star faces hanging after conviction in major synthetic drug trafficking case",
+    "summary": "Sarah Khalifa was among 12 defendants sentenced to death after prosecutors accused the group of manufacturing and trafficking synthetic narcotics.",
+    "link": "https://www.foxnews.com/world/popular-tv-host-media-star-faces-hanging-conviction-major-synthetic-drug-trafficking-case",
+    "published": "Mon, 07 Sep 2026 21:27:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "87f270d4f16153cbea671416bb0df532",
+    "fetched_at": "2026-09-08T02:24:12.019211+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
+    "summary": "Andy Burnham&apos;s UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu&apos;s ministers and U.S. lawmakers.",
+    "link": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+    "published": "Mon, 07 Sep 2026 21:58:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f2d679f408f5bd7f4ab3dfa949c32ba1",
+    "fetched_at": "2026-09-08T02:24:10.907888+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+    "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 00:48:43 GMT",
+    "source": "BBC News",
+    "id": "4560c27bf4762ff68bfeef4121fdb11a",
+    "fetched_at": "2026-09-08T02:24:09.796587+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+    "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 07 Sep 2026 22:23:03 GMT",
+    "source": "BBC News",
+    "id": "878cc32497650cdd3cd7a721acb21c1a",
+    "fetched_at": "2026-09-08T02:24:08.680642+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
     "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
     "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "b2478b2120e2630eeeccdd4924cba5ba",
     "fetched_at": "2026-09-07T15:25:23.836644+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Cargo plane overshoots runway at Miami airport",
-    "summary": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
-    "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 05:37:28 GMT",
-    "source": "BBC News",
-    "id": "07d4de25019d6510ec6d84802c8c156a",
-    "fetched_at": "2026-09-07T15:25:22.687601+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australians will be able to switch off social media algorithms under planned legislation",
-    "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 03:40:09 GMT",
-    "source": "BBC News",
-    "id": "af74d73186551502dea017e27f7a12bf",
-    "fetched_at": "2026-09-07T08:47:42.949162+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "China to pump $54bn into state banks and insurers to boost economy",
-    "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 02:26:12 GMT",
-    "source": "BBC News",
-    "id": "52f0e69d520275be7f7378acdb097562",
-    "fetched_at": "2026-09-07T08:47:42.949160+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-    "summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 06:13:17 GMT",
-    "source": "BBC News",
-    "id": "2cf0927ce74c7ed3b3aacf561332a39b",
-    "fetched_at": "2026-09-07T08:47:42.949159+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-    "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 05:31:06 GMT",
-    "source": "BBC News",
-    "id": "5e48e794dc0813132ba13be8d10eb7a2",
-    "fetched_at": "2026-09-07T08:47:42.949157+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
-    "summary": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 07:25:06 GMT",
-    "source": "BBC News",
-    "id": "94ca85c50c2ade50f6fe189995cba1e6",
-    "fetched_at": "2026-09-07T08:47:42.949155+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 7th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/07/latest-news-bulletin-september-7th-2026-morning",
-    "published": "Mon, 07 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3599fbdb024ae477b7a4d9d21df0ab2f",
-    "fetched_at": "2026-09-07T08:47:42.949153+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indonesia keeps several airports closed but Anak Krakatau volcanic eruption is easing",
-    "summary": "Indonesia has more than 120 active volcanoes and frequently experiences eruptions due to its location along the Pacific “Ring of Fire.”",
-    "link": "http://www.euronews.com/2026/09/07/volcano-in-indonesia-erupts-canceling-hundreds-of-flights-and-stranding-thousands",
-    "published": "Mon, 07 Sep 2026 05:46:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "015c3fff3442c7a363c9162eb106fdae",
-    "fetched_at": "2026-09-07T08:47:42.949151+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nepal holds a day of mourning and rescue efforts continue after flash floods kill 1,300",
-    "summary": "Rescue efforts have increasingly focused on 12 hydropower projects, where about 900 workers are missing and roughly 500 are believed to be trapped in various tunnels, authorities said.",
-    "link": "http://www.euronews.com/2026/09/07/nepal-holds-a-day-of-mourning-and-rescue-efforts-continue-after-flash-floods-kill-1300",
-    "published": "Mon, 07 Sep 2026 08:37:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9e0cdea6696d78e9c28e38c7e9c9eff3",
-    "fetched_at": "2026-09-07T08:47:42.949149+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "400,000 Dahlias and Giant Floats: Netherlands Hosts Spectacular Flower Parade",
-    "summary": "Giant dahlia floats roll through Zundert in the Netherlands as crowds watch the annual Flower Parade, built by volunteers over several months.",
-    "link": "http://www.euronews.com/video/2026/09/07/400000-dahlias-and-giant-floats-netherlands-hosts-spectacular-flower-parade",
-    "published": "Mon, 07 Sep 2026 09:19:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a7bc43c3acd691ee77c1a62d3124d55b",
-    "fetched_at": "2026-09-07T08:47:42.949118+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Egyptian TV presenter Sarah Khalifa sentenced to death",
-    "summary": "In Egypt, a court sentenced 12 people, including popular TV presenter Sarah Khalifa, to death in a major drug manufacturing and trafficking case.",
-    "link": "http://www.euronews.com/2026/09/07/egyptian-tv-presenter-sarah-khalifa-sentenced-to-death",
-    "published": "Mon, 07 Sep 2026 10:13:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "67417adea24afae4c8380ad0104dca65",
-    "fetched_at": "2026-09-07T08:47:41.853988+00:00"
   }
 ]
