@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Iran referred to UN Security Council for nuclear non-compliance",
+    "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 20:22:51 GMT",
+    "source": "BBC News",
+    "id": "232b8ab8986489d4c58220b2ebbccd2a",
+    "fetched_at": "2026-09-09T22:08:12.981465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+    "source": "BBC News",
+    "id": "9efa8fb91fce4f275066d44903430f36",
+    "fetched_at": "2026-09-09T22:08:12.981462+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "70 Americans still unaccounted for after catastrophic Nepal flooding",
+    "summary": "Officials say 70 Americans remain unaccounted for after catastrophic flooding along the Nepal-China border, while warning the region remains too dangerous for travelers.",
+    "link": "https://www.foxnews.com/world/70-americans-still-unaccounted-catastrophic-nepal-flooding",
+    "published": "Tue, 08 Sep 2026 15:53:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4aec153b781b6d6fbce2adafdee1c65b",
+    "fetched_at": "2026-09-09T22:08:12.981460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash",
+    "summary": "Israel says E1 construction in the West Bank falls under the Oslo Accords, but Britain imposed sanctions. And 11 nations weigh trade restrictions on settlements.",
+    "link": "https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash",
+    "published": "Wed, 09 Sep 2026 15:04:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b0305e256a6c0bb0af23596bef8734a1",
+    "fetched_at": "2026-09-09T22:08:12.981457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine strikes deep into Russia’s Arctic gas heartland as Trump pushes Putin toward peace",
+    "summary": "Ukrainian drones struck Novy Urengoy, sparking a fire in Russia&apos;s top natural-gas region roughly 1,740 miles from Ukraine&apos;s border in the Arctic.",
+    "link": "https://www.foxnews.com/world/ukraine-strikes-deep-russias-arctic-gas-heartland-trump-pushes-putin-toward-peace",
+    "published": "Wed, 09 Sep 2026 16:23:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d90b664e83d13c5926da0820dc5cb9eb",
+    "fetched_at": "2026-09-09T22:08:12.981432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+    "summary": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+    "published": "Tue, 08 Sep 2026 15:55:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "34f2f4fa0668bf7621cff9b6e74de868",
+    "fetched_at": "2026-09-09T22:08:11.868323+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+    "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+    "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 23:11:32 GMT",
+    "source": "BBC News",
+    "id": "f0e1017016f6f3770a3e41eea3703fe5",
+    "fetched_at": "2026-09-09T22:08:10.753594+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+    "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+    "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 23:11:41 GMT",
+    "source": "BBC News",
+    "id": "994888e0f56e10b3cca601fb3100a826",
+    "fetched_at": "2026-09-09T22:08:09.638069+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 20:00:33 GMT",
+    "source": "BBC News",
+    "id": "dc3fa3c16c264a4ad84a0eaea7260f77",
+    "fetched_at": "2026-09-09T22:08:08.505541+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+    "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+    "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 19:09:13 GMT",
+    "source": "BBC News",
+    "id": "a112e4bcc3349a151c2b6787f06cea63",
+    "fetched_at": "2026-09-09T22:08:07.384430+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+    "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 10:20:40 GMT",
+    "source": "BBC News",
+    "id": "12ba57dbef49316c3a9ee94d345dbaec",
+    "fetched_at": "2026-09-09T22:08:06.256066+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+    "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+    "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 21:21:13 GMT",
+    "source": "BBC News",
+    "id": "8229fff28944107f7605e4bd738ac73b",
+    "fetched_at": "2026-09-09T22:08:05.104893+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
     "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
     "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "3c5aa29fc10936bb6c7ff45d76d04143",
     "fetched_at": "2026-09-09T08:31:06.476314+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 9th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/09/latest-news-bulletin-september-9th-2026-morning",
-    "published": "Wed, 09 Sep 2026 02:00:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1685dc7b53e9123b57f0e8f78f8afcf2",
-    "fetched_at": "2026-09-09T08:31:06.476311+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thailand investigates after British influencer dies following penis enlargement operation",
-    "summary": "The case has reignited debate about medical tourism, with Thailand a leading destination for visitors from abroad seeking healthcare, including cosmetic procedures.",
-    "link": "http://www.euronews.com/2026/09/09/thailand-investigates-after-british-influencer-dies-following-penis-enlargement-operation",
-    "published": "Wed, 09 Sep 2026 09:16:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a03ecb597f1fc411538c8bd9fdf691aa",
-    "fetched_at": "2026-09-09T08:31:06.476308+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Archaeologists uncover 38 skeletons at ancient Peru citadel",
-    "summary": "Archaeologists have uncovered a tomb with the remains of 38 people and gold and copper objects at the ancient Chan Chan site in northern Peru.",
-    "link": "http://www.euronews.com/video/2026/09/09/archaeologists-uncover-38-skeletons-at-ancient-peru-citadel",
-    "published": "Wed, 09 Sep 2026 10:18:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7326342f6bd03766cde1f4eeffda2c95",
-    "fetched_at": "2026-09-09T08:31:06.476305+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea and Russia open first road bridge linking both countries",
-    "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 03:53:27 GMT",
-    "source": "BBC News",
-    "id": "e56807497523de25547b8250a76cc3e0",
-    "fetched_at": "2026-09-09T08:31:06.476301+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Renoir theft 'shows museums should check security'",
-    "summary": "The founder of Art for Guernsey says more and more people consider artworks for their price.",
-    "link": "https://www.bbc.co.uk/news/articles/crr4290gllgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 17:10:28 GMT",
-    "source": "BBC News",
-    "id": "2400f8c0c25f74c9940b66c53d66cd80",
-    "fetched_at": "2026-09-09T08:31:06.476273+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-    "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
-    "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-    "published": "Tue, 08 Sep 2026 07:20:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "7c67e504976b9d82a3efc699d0290b2e",
-    "fetched_at": "2026-09-09T08:31:05.375446+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
-    "summary": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
-    "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-    "published": "Tue, 08 Sep 2026 09:05:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "e1ac758ecbe687b878632097e856d3f5",
-    "fetched_at": "2026-09-09T08:31:04.264868+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Australian social media users to be offered choice to opt out of algorithms",
-    "summary": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
-    "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-    "published": "Tue, 08 Sep 2026 09:24:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "896968e9a8697ab09f11bb40263f0c53",
-    "fetched_at": "2026-09-09T08:31:03.161708+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
-    "summary": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
-    "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
-    "published": "Wed, 09 Sep 2026 01:20:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "90bff6faf4762359a024bafbc13f5eda",
-    "fetched_at": "2026-09-09T08:31:02.053348+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 00:48:43 GMT",
-    "source": "BBC News",
-    "id": "4560c27bf4762ff68bfeef4121fdb11a",
-    "fetched_at": "2026-09-09T08:31:00.937119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-    "summary": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 18:21:40 GMT",
-    "source": "BBC News",
-    "id": "9be6fef2d2f75033f592d29271445fab",
-    "fetched_at": "2026-09-09T08:30:59.836452+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial",
-    "summary": "The three jurors said after 40 hours, a lone male juror wouldn't agree with the rest of the panel to find Clancy not guilty by reason of insanity.",
-    "link": "https://www.bbc.co.uk/news/articles/c74k13kpv2no?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 03:47:15 GMT",
-    "source": "BBC News",
-    "id": "ed5f30034d608a808d10a39cba4f6668",
-    "fetched_at": "2026-09-09T08:30:58.705434+00:00"
   }
 ]
