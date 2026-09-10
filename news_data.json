@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Coach crash kills several people in Swiss Alps",
+    "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 20:44:51 GMT",
+    "source": "BBC News",
+    "id": "d4cbb91fcb3f069c47292b5997c36850",
+    "fetched_at": "2026-09-10T23:35:51.724443+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "2030 Winter Olympics boss departs amid turmoil",
+    "summary": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
+    "link": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 18:50:11 GMT",
+    "source": "BBC News",
+    "id": "57485ed31f27172c94a09b0cb992178a",
+    "fetched_at": "2026-09-10T23:35:50.621864+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zverev storms into semi-finals despite late bedtime",
+    "summary": "Alexander Zverev storms into the US Open last four despite staying up until 3:30am to watch Ben Shelton and Carlos Alcaraz's blockbuster quarter-final.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cdr7kmz2zx3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 03:50:43 GMT",
+    "source": "BBC News",
+    "id": "5f830e9278770d0b3ce8f5f53c266b24",
+    "fetched_at": "2026-09-10T23:35:49.509552+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+    "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+    "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 04:43:54 GMT",
+    "source": "BBC News",
+    "id": "e819dadb5437d0314f20eb6e3c80dd3f",
+    "fetched_at": "2026-09-10T23:35:48.392530+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Year after Charlie Kirk's death, conservative students struggle to fill void he left",
+    "summary": "The assassination sent shockwaves through the conservative youth movement, which students say has lost momentum and a vital figurehead.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 11:41:59 GMT",
+    "source": "BBC News",
+    "id": "c324028845ce07d05047adcc6d731f41",
+    "fetched_at": "2026-09-10T23:35:47.280104+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+    "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+    "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 13:23:37 GMT",
+    "source": "BBC News",
+    "id": "fef7aa7d2a84bbabe9d64464dffd71ac",
+    "fetched_at": "2026-09-10T23:35:46.161459+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
     "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
     "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d0f5470ed760f6760f33e23186a883cc",
     "fetched_at": "2026-09-10T13:59:04.493174+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-    "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
-    "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
-    "published": "Wed, 09 Sep 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "7ebd45f71dd451e39eac0240de43ce59",
-    "fetched_at": "2026-09-10T13:59:03.332543+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-    "summary": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
-    "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-    "published": "Wed, 09 Sep 2026 07:12:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "5be1c73af711c2896a9d679bf42c7e69",
-    "fetched_at": "2026-09-10T13:59:02.171586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-    "summary": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
-    "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
-    "published": "Wed, 09 Sep 2026 09:56:23 -0400",
-    "source": "NPR Topics: World",
-    "id": "4e0f50767af84a0c6d296453fd2f8eb7",
-    "fetched_at": "2026-09-10T13:59:01.020151+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
-    "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
-    "published": "Thu, 10 Sep 2026 04:41:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f1e227ab1346fa997b772de637a0a4c",
-    "fetched_at": "2026-09-10T13:58:59.847688+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
-    "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
-    "published": "Thu, 10 Sep 2026 04:43:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccded73f9ef22a74c475ab2609f470be",
-    "fetched_at": "2026-09-10T13:58:58.691875+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Scientists say August was Earth's hottest month they've measured",
-    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
-    "published": "Thu, 10 Sep 2026 04:54:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "d96839d694d2dacf83d9d0497eb7d2ed",
-    "fetched_at": "2026-09-10T13:58:57.542964+00:00"
   }
 ]
