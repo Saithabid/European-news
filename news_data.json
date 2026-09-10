@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 09:32:34 GMT",
+    "source": "BBC News",
+    "id": "dc3fa3c16c264a4ad84a0eaea7260f77",
+    "fetched_at": "2026-09-10T20:17:04.986394+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man jailed after threatening to kill son's teacher in French village",
+    "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 20:10:51 GMT",
+    "source": "BBC News",
+    "id": "ac4353b8fb1960667931e2e087c5caf7",
+    "fetched_at": "2026-09-10T20:17:04.986392+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+    "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
+    "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 19:09:13 GMT",
+    "source": "BBC News",
+    "id": "a112e4bcc3349a151c2b6787f06cea63",
+    "fetched_at": "2026-09-10T20:17:04.986390+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+    "source": "BBC News",
+    "id": "9efa8fb91fce4f275066d44903430f36",
+    "fetched_at": "2026-09-10T20:17:04.986388+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "70 Americans still unaccounted for after catastrophic Nepal flooding",
+    "summary": "Officials say 70 Americans remain unaccounted for after catastrophic flooding along the Nepal-China border, while warning the region remains too dangerous for travelers.",
+    "link": "https://www.foxnews.com/world/70-americans-still-unaccounted-catastrophic-nepal-flooding",
+    "published": "Tue, 08 Sep 2026 15:53:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4aec153b781b6d6fbce2adafdee1c65b",
+    "fetched_at": "2026-09-10T20:17:04.986385+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash",
+    "summary": "Israel says E1 construction in the West Bank falls under the Oslo Accords, but Britain imposed sanctions. And 11 nations weigh trade restrictions on settlements.",
+    "link": "https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash",
+    "published": "Wed, 09 Sep 2026 15:04:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b0305e256a6c0bb0af23596bef8734a1",
+    "fetched_at": "2026-09-10T20:17:04.986383+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine strikes deep into Russia’s Arctic gas heartland as Trump pushes Putin toward peace",
+    "summary": "Ukrainian drones struck Novy Urengoy, sparking a fire in Russia&apos;s top natural-gas region roughly 1,740 miles from Ukraine&apos;s border in the Arctic.",
+    "link": "https://www.foxnews.com/world/ukraine-strikes-deep-russias-arctic-gas-heartland-trump-pushes-putin-toward-peace",
+    "published": "Wed, 09 Sep 2026 16:23:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d90b664e83d13c5926da0820dc5cb9eb",
+    "fetched_at": "2026-09-10T20:17:04.986379+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spanish opposition leader calls prime minister a ‘traitor’ over Ceuta migrant crisis",
+    "summary": "Santiago Abascal branded Pedro Sánchez a &quot;traitor&quot; in parliament over Spain&apos;s migrant crisis in the North African enclave of Ceuta amid protests.",
+    "link": "https://www.foxnews.com/world/spanish-opposition-leader-calls-prime-minister-traitor-ceuta-migrant-crisis",
+    "published": "Wed, 09 Sep 2026 19:16:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c99baf2e434371d5a4e7a48c87d5403c",
+    "fetched_at": "2026-09-10T20:17:04.986351+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone nearly strikes Zelenskyy’s plane before takeoff for Norwegian king’s funeral, PM says",
+    "summary": "Ukrainian President Volodymyr Zelenskyy&apos;s plane was reportedly almost hit by a Russian drone during takeoff from Moldova, closing Chișinău airspace.",
+    "link": "https://www.foxnews.com/world/drone-nearly-strikes-zelenskyy-plane-takeoff-norwegian-king-funeral-pm-says",
+    "published": "Wed, 09 Sep 2026 20:51:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a42f96b030dc52216bf96a27423bb871",
+    "fetched_at": "2026-09-10T20:17:03.825429+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed terror group’s latest territorial grab threatens second global shipping chokepoint",
+    "summary": "Iran-backed Houthi forces seized Yemen&apos;s Mocha port and advanced toward Bab el-Mandeb, threatening Red Sea shipping as Brent crude surged past $106.",
+    "link": "https://www.foxnews.com/world/iran-backed-terror-groups-latest-territorial-grab-threatens-second-global-shipping-chokepoint",
+    "published": "Thu, 10 Sep 2026 15:03:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71d94df11ed8e9c4c7031459df075fb1",
+    "fetched_at": "2026-09-10T20:17:02.682791+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+    "summary": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+    "published": "Tue, 08 Sep 2026 15:55:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "34f2f4fa0668bf7621cff9b6e74de868",
+    "fetched_at": "2026-09-10T20:17:01.535513+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+    "summary": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+    "published": "Wed, 09 Sep 2026 01:20:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "90bff6faf4762359a024bafbc13f5eda",
+    "fetched_at": "2026-09-10T20:17:00.375736+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "American football is coming to Australia - can it succeed?",
+    "summary": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
+    "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 22:29:13 GMT",
+    "source": "BBC News",
+    "id": "414bd5d27134adc5ee0e3858171ef0b9",
+    "fetched_at": "2026-09-10T20:16:59.220855+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump promises to send $500 to nearly 1 million Americans for Obamacare 'overcharges'",
+    "summary": "Eligible Americans in 30 states would begin receiving payments in October, funded by a surplus of fees, the White House said.",
+    "link": "https://www.bbc.co.uk/news/articles/c62jlgrj506o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 18:05:34 GMT",
+    "source": "BBC News",
+    "id": "0c143a924d79a53ddca490a835e3630c",
+    "fetched_at": "2026-09-10T20:16:58.065648+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+    "summary": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 17:13:53 GMT",
+    "source": "BBC News",
+    "id": "0c82b5529cb8a159a023fccf00ae3ef3",
+    "fetched_at": "2026-09-10T20:16:56.907896+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "More than 20 children feared dead in DR Congo school fire",
     "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
     "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d96839d694d2dacf83d9d0497eb7d2ed",
     "fetched_at": "2026-09-10T13:58:57.542964+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Year after Charlie Kirk's death, conservative students struggle to fill void he left",
-    "summary": "The assassination sent shockwaves through the conservative youth movement, which students say has lost momentum and a vital figurehead.",
-    "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 11:41:59 GMT",
-    "source": "BBC News",
-    "id": "c324028845ce07d05047adcc6d731f41",
-    "fetched_at": "2026-09-10T13:58:56.397573+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-    "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 16:46:53 GMT",
-    "source": "BBC News",
-    "id": "3c5aa29fc10936bb6c7ff45d76d04143",
-    "fetched_at": "2026-09-10T08:32:48.212511+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-    "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 06:30:19 GMT",
-    "source": "BBC News",
-    "id": "abe87f880d698a3b76c06e778b0607e9",
-    "fetched_at": "2026-09-10T08:32:48.212509+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway bids farewell to King Harald V as crowds gather in Oslo",
-    "summary": "Thousands gathered in Oslo as Norway held a funeral for King Harald V, with European royals and world leaders joining the final farewell to the long-serving monarch.",
-    "link": "http://www.euronews.com/video/2026/09/09/norway-bids-farewell-to-king-harald-v-as-crowds-gather-in-oslo",
-    "published": "Wed, 09 Sep 2026 18:58:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "58339b41fd8bbd795b0ebd5aa6fbbb5a",
-    "fetched_at": "2026-09-10T08:32:48.212507+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 10th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "http://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-morning",
-    "published": "Thu, 10 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "67b474f5e0582825f522c9287122921d",
-    "fetched_at": "2026-09-10T08:32:48.212504+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Republican convention: Trump defends Iran war, attacks Democrats and promises voters cash",
-    "summary": "President Donald Trump, at Wednesday's Republican midterm convention, promised $5,000 to every American adult if Republicans retain control of Congress in November, while defending US war in Iran and antagonising Democrats.",
-    "link": "http://www.euronews.com/2026/09/10/trump-promises-5000-to-every-us-adult-if-republicans-win-midterms-election",
-    "published": "Thu, 10 Sep 2026 08:44:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f3b896f6d93505aa867133f499cfa86d",
-    "fetched_at": "2026-09-10T08:32:48.212502+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British man arrested in Alanya for spitting at Turkish flag after hotel argument",
-    "summary": "A 58-year-old British tourist has been arrested in the resort town of Alanya on Turkey's central Mediterranean coast, accused of spitting on a Turkish flag and charged with insulting a state symbol.",
-    "link": "http://www.euronews.com/2026/09/10/british-man-arrested-in-alanya-for-spitting-at-turkish-flag-after-hotel-argument",
-    "published": "Thu, 10 Sep 2026 09:53:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1370fca28cb5e5967b7fe956c30f6753",
-    "fetched_at": "2026-09-10T08:32:48.212500+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least five dead and 86 missing in Philippines ferry fire",
-    "summary": "At least five people were killed and 86 remain missing after a fire erupted aboard a ferry near a popular tourist destination in the Philippine province of Palawan, the coast guard said Thursday.",
-    "link": "http://www.euronews.com/2026/09/10/philippines-five-killed-and-86-missing-after-fire-on-ferry-near-tourist-hotspot",
-    "published": "Thu, 10 Sep 2026 10:09:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b4e38d1e99491fd46c5e5803855f4bfc",
-    "fetched_at": "2026-09-10T08:32:48.212465+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zverev storms into semi-finals despite late bedtime",
-    "summary": "Alexander Zverev storms into the US Open last four despite staying up until 3:30am to watch Ben Shelton and Carlos Alcaraz's blockbuster quarter-final.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cdr7kmz2zx3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 03:50:43 GMT",
-    "source": "BBC News",
-    "id": "5f830e9278770d0b3ce8f5f53c266b24",
-    "fetched_at": "2026-09-10T08:32:47.106622+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
-    "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-    "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 04:43:54 GMT",
-    "source": "BBC News",
-    "id": "e819dadb5437d0314f20eb6e3c80dd3f",
-    "fetched_at": "2026-09-10T08:32:45.999744+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 15:34:09 GMT",
-    "source": "BBC News",
-    "id": "39efd242bc650a51c7caea7c45c11cca",
-    "fetched_at": "2026-09-10T08:32:44.891786+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Do Republicans blame Trump for high oil prices?",
-    "summary": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-    "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 01:37:31 GMT",
-    "source": "BBC News",
-    "id": "65f2d73bcbca052637b34e965b0c8769",
-    "fetched_at": "2026-09-10T08:32:43.784866+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four takeaways from Republican midterms convention",
-    "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-    "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 04:07:44 GMT",
-    "source": "BBC News",
-    "id": "9ab6614f2837727965565593b6285e65",
-    "fetched_at": "2026-09-10T08:32:42.669045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war won't end until after crucial November elections, says Trump",
-    "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 05:56:38 GMT",
-    "source": "BBC News",
-    "id": "30514cc5eaed4762f7448a9ca3d7e4e3",
-    "fetched_at": "2026-09-10T08:32:41.527968+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
-    "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-    "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 06:56:38 GMT",
-    "source": "BBC News",
-    "id": "fef7aa7d2a84bbabe9d64464dffd71ac",
-    "fetched_at": "2026-09-10T08:32:40.411534+00:00"
   }
 ]
