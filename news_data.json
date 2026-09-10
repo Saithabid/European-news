@@ -1,6 +1,256 @@
 [
   {
     "region": "Europe",
+    "title": "Twenty-five dead after fire on cargo ship in eastern China",
+    "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 12:24:54 GMT",
+    "source": "BBC News",
+    "id": "144593523b47fa0c5e58dbb4ae2ebb94",
+    "fetched_at": "2026-09-10T13:59:04.493243+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+    "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 13:12:40 GMT",
+    "source": "BBC News",
+    "id": "a6c60ca0023aeaea844adcafa748115f",
+    "fetched_at": "2026-09-10T13:59:04.493241+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Is Trump's $5,000 election pledge legal?",
+    "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+    "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+    "source": "BBC News",
+    "id": "521ffa5080f394f5f1ece025b43bdc70",
+    "fetched_at": "2026-09-10T13:59:04.493238+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Massive sinkhole opens outside Nicolas Cage’s Malibu mansion",
+    "summary": "Aerial footage shows a sinkhole where Nicolas Cage's Malibu driveway stood after coastal erosion from Hurricane Marie remnants triggered a gas leak and road closure.",
+    "link": "https://www.euronews.com/video/2026/09/10/massive-sinkhole-opens-outside-nicolas-cages-malibu-mansion",
+    "published": "Thu, 10 Sep 2026 11:15:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "61d6f8bb10f19dde317fe2a4faf0729b",
+    "fetched_at": "2026-09-10T13:59:04.493236+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'The days of safety are over': Russian airports face record closures",
+    "summary": "Ukraine's drone campaign forced an average of 32 airport closures a day across 32 Russian airports including Moscow and St Petersburg, with summer totals already exceeding all of 2025, as Zelenskyy warned airlines and insurers that \"the days of safety in Russia's skies are over.\"",
+    "link": "https://www.euronews.com/2026/09/10/the-days-of-safety-are-over-russian-airports-face-record-closures",
+    "published": "Thu, 10 Sep 2026 11:27:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a532e10bacad738863deefdc2afa4688",
+    "fetched_at": "2026-09-10T13:59:04.493234+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 10th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-midday",
+    "published": "Thu, 10 Sep 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "66de1436d756445e1094c9a03554e1ff",
+    "fetched_at": "2026-09-10T13:59:04.493232+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Coast guard rescues survivors from burning ferry in Philippines",
+    "summary": "A ferry fire near Coron in the Philippines has killed at least five people and left 87 missing as coast guard crews search in rough seas.",
+    "link": "https://www.euronews.com/video/2026/09/10/coast-guard-rescues-survivors-from-burning-ferry-in-philippines",
+    "published": "Thu, 10 Sep 2026 13:00:55 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bae07b9238b40a0f33868606cb655cc2",
+    "fetched_at": "2026-09-10T13:59:04.493230+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'The country is falling apart': Iranians tell Euronews how war emptied their wallets",
+    "summary": "In a Euronews exclusive, Euronews Farsi spoke with drivers, small business owners and salaried workers about life in an economy where fuel prices doubled overnight, and people can no longer afford basic food items.",
+    "link": "https://www.euronews.com/2026/09/10/the-country-is-falling-apart-iranians-tell-euronews-how-war-emptied-their-wallets",
+    "published": "Thu, 10 Sep 2026 13:25:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9e6adb586ea357ea42f0174550b638f6",
+    "fetched_at": "2026-09-10T13:59:04.493228+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Why star TV presenter Sarah Khalifa faces the death penalty in Egypt and what comes next?",
+    "summary": "Egyptian law allows capital punishment for some serious drug offences, while a 2024 reform gives felony defendants a full appeal before the Court of Cassation. Euronews examines how the process works before a death sentence becomes final in Egypt.",
+    "link": "https://www.euronews.com/2026/09/10/why-star-tv-presenter-sarah-khalifa-faces-the-death-penalty-in-egypt-and-what-comes-next",
+    "published": "Thu, 10 Sep 2026 14:14:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a961dae07767eab8c5ca00374e746118",
+    "fetched_at": "2026-09-10T13:59:04.493225+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dozens reported killed after international cargo ship docked in China catches fire",
+    "summary": "A total of 42 people had been on the vessel, and 17 of them were safely evacuated, state media reported.",
+    "link": "https://www.euronews.com/2026/09/10/heavy-casualties-reported-after-international-cargo-ship-docked-in-china-catches-fire",
+    "published": "Thu, 10 Sep 2026 14:33:27 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0b4e49465093b45030d5c64810495ab0",
+    "fetched_at": "2026-09-10T13:59:04.493222+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Maurizio Cattelan’s ‘Night’ exhibition opens in Berlin",
+    "summary": "Maurizio Cattelan's Night exhibition opens in Berlin, featuring his Hitler sculpture, an exhausted horse and works exploring power and doubt.",
+    "link": "https://www.euronews.com/video/2026/09/10/maurizio-cattelans-night-exhibition-opens-in-berlin",
+    "published": "Thu, 10 Sep 2026 14:59:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "46220f9ae8e4607624ef831c78f59364",
+    "fetched_at": "2026-09-10T13:59:04.493220+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "3,000 drones light up New York skyline in 9/11 tribute",
+    "summary": "Almost 3,000 drones light up the New York City skyline during a test for a 9/11 tribute marking the attacks' 25th anniversary in 2026.",
+    "link": "https://www.euronews.com/video/2026/09/10/3000-drones-light-up-new-york-skyline-in-911-tribute",
+    "published": "Thu, 10 Sep 2026 15:31:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3397cdbfaeab325993b643387328cff3",
+    "fetched_at": "2026-09-10T13:59:04.493218+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Houthis blitz Yemen's Red Sea coastline in push to seize Bab el-Mandeb",
+    "summary": "The Houthis' latest offensive is meant to replicate Iran's Hormuz blockade in the Bab el-Mandeb, with Red Sea coastal towns and islands in the crucial waterway their top military objectives.",
+    "link": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb",
+    "published": "Thu, 10 Sep 2026 15:53:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4a77aa851487b56ef62654496f8e9764",
+    "fetched_at": "2026-09-10T13:59:04.493215+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+    "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+    "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 13:29:33 GMT",
+    "source": "BBC News",
+    "id": "87856e397c2607d5558910ce0d1ff3f2",
+    "fetched_at": "2026-09-10T13:59:04.493212+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian drone incursion delays Zelensky flight",
+    "summary": "The unmanned aircraft entered Moldovan airspace on Tuesday afternoon as the plane was on the runway.",
+    "link": "https://www.bbc.co.uk/news/articles/c86x49e379vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 12:15:44 GMT",
+    "source": "BBC News",
+    "id": "397b1e9153d3bc30b5467473b18c13ad",
+    "fetched_at": "2026-09-10T13:59:04.493209+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US sinks another 'floating refueling station' linked to 'narco-terrorist' group",
+    "summary": "The United States military on Sept. 8 sank another vessel that it described as a &quot;floating refueling station&quot; involved with the Los Choneros.",
+    "link": "https://www.foxnews.com/world/us-military-sinks-narco-refueling-station-los-choneros",
+    "published": "Wed, 09 Sep 2026 06:05:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8265b4797bf01d107063d8bbb85e6192",
+    "fetched_at": "2026-09-10T13:59:04.493206+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How 9/11 transformed synagogue security into a new reality for the Jewish community",
+    "summary": "FBI data shows Jews face 63% of religiously motivated hate crimes as communities prepare for Rosh Hashanah on Friday, Sept. 11 amid rising threats.",
+    "link": "https://www.foxnews.com/world/how-9-11-transformed-synagogue-security-new-reality-jewish-community",
+    "published": "Thu, 10 Sep 2026 06:34:22 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "be3ee829d97ec015d81ec07f179d1eec",
+    "fetched_at": "2026-09-10T13:59:04.493202+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
+    "summary": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
+    "published": "Wed, 09 Sep 2026 04:44:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "d0f5470ed760f6760f33e23186a883cc",
+    "fetched_at": "2026-09-10T13:59:04.493174+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+    "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+    "published": "Wed, 09 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "7ebd45f71dd451e39eac0240de43ce59",
+    "fetched_at": "2026-09-10T13:59:03.332543+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+    "summary": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+    "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+    "published": "Wed, 09 Sep 2026 07:12:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "5be1c73af711c2896a9d679bf42c7e69",
+    "fetched_at": "2026-09-10T13:59:02.171586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+    "summary": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
+    "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+    "published": "Wed, 09 Sep 2026 09:56:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "4e0f50767af84a0c6d296453fd2f8eb7",
+    "fetched_at": "2026-09-10T13:59:01.020151+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+    "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
+    "published": "Thu, 10 Sep 2026 04:41:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "1f1e227ab1346fa997b772de637a0a4c",
+    "fetched_at": "2026-09-10T13:58:59.847688+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+    "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+    "published": "Thu, 10 Sep 2026 04:43:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "ccded73f9ef22a74c475ab2609f470be",
+    "fetched_at": "2026-09-10T13:58:58.691875+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Scientists say August was Earth's hottest month they've measured",
+    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+    "published": "Thu, 10 Sep 2026 04:54:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "d96839d694d2dacf83d9d0497eb7d2ed",
+    "fetched_at": "2026-09-10T13:58:57.542964+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Year after Charlie Kirk's death, conservative students struggle to fill void he left",
+    "summary": "The assassination sent shockwaves through the conservative youth movement, which students say has lost momentum and a vital figurehead.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 11:41:59 GMT",
+    "source": "BBC News",
+    "id": "c324028845ce07d05047adcc6d731f41",
+    "fetched_at": "2026-09-10T13:58:56.397573+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
     "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
     "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
@@ -348,255 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "e61df7cbd3e961ac2f6faf481fb60dac",
     "fetched_at": "2026-09-09T18:58:22.845684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-    "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-    "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 17:10:54 GMT",
-    "source": "BBC News",
-    "id": "26de6fb1c59826d9f6418d723d8f2aa2",
-    "fetched_at": "2026-09-09T18:58:22.845682+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-    "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 17:24:25 GMT",
-    "source": "BBC News",
-    "id": "a33a89e32493df4b52cfd1bd49d35c9c",
-    "fetched_at": "2026-09-09T18:58:22.845679+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-    "summary": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters.",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 15:57:06 GMT",
-    "source": "BBC News",
-    "id": "d91b40cbf6680e972c0798d5a4dad0e7",
-    "fetched_at": "2026-09-09T18:58:22.845677+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British widow faces deportation from Sweden after 22 years",
-    "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-    "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 18:02:42 GMT",
-    "source": "BBC News",
-    "id": "e4947f0e10e3a505c41c9ca6a6df0c67",
-    "fetched_at": "2026-09-09T18:58:22.845675+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Passenger killed after train hits truck at Poland level crossing",
-    "summary": "It is the second such incident in Poland in days and the prime minister says tough new regulations are needed.",
-    "link": "https://www.bbc.co.uk/news/articles/cp30el2dkdlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 16:13:11 GMT",
-    "source": "BBC News",
-    "id": "1f6846fb6f3e5e3cc6c2592160fb512c",
-    "fetched_at": "2026-09-09T18:58:22.845672+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Reigning Miss Austria beauty queen dies aged 22",
-    "summary": "Tributes have been paid to Lucia Sisic, who had a lifelong experience with a heart condition.",
-    "link": "https://www.bbc.co.uk/news/articles/c046r1z9ln4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 12:25:37 GMT",
-    "source": "BBC News",
-    "id": "5685360fe3b9ae6581b56b507984500c",
-    "fetched_at": "2026-09-09T18:58:22.845670+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe's royalty pay respects to King Harald V in Norway",
-    "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 16:30:28 GMT",
-    "source": "BBC News",
-    "id": "69609a6f21a53871a3166b674e75b7d3",
-    "fetched_at": "2026-09-09T18:58:22.845667+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Google picks Finland for its largest single investment in Europe",
-    "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 17:06:48 GMT",
-    "source": "BBC News",
-    "id": "6eb57bfab72d273cfc6f5c792df663ce",
-    "fetched_at": "2026-09-09T18:58:22.845664+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Britain’s dramatic crackdown on Israeli settlements sparks fierce response as US blowback looms",
-    "summary": "Ed Miliband announced U.K. sanctions targeting Israeli West Bank settlements, prompting U.S. Ambassador Mike Huckabee to warn of economic consequences.",
-    "link": "https://www.foxnews.com/world/britains-dramatic-crackdown-israeli-settlements-sparks-fierce-response-us-blowback-looms",
-    "published": "Tue, 08 Sep 2026 11:16:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a0148a99f3ce25c6b800f1a43042c4b5",
-    "fetched_at": "2026-09-09T18:58:22.845661+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Video captures grocery store manager's daring rescue of toddler who ran into oncoming traffic",
-    "summary": "Security footage captures Luis Cruz diving into a busy Puebla, Mexico, road to rescue a 3-year-old girl moments before a minivan crosses her path.",
-    "link": "https://www.foxnews.com/world/video-captures-grocery-store-manager-daring-rescue-toddler-ran-oncoming-traffic",
-    "published": "Tue, 08 Sep 2026 11:46:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "98c79cb1c9426940fe772ee234951142",
-    "fetched_at": "2026-09-09T18:58:22.845634+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO member boots 10 Russian diplomats",
-    "summary": "Hungary demands that 10 members of the Russian mission leave the country, alleging that they engaged in actions that were &quot;unacceptable,&quot; according to the Vienna Convention.",
-    "link": "https://www.foxnews.com/world/nato-member-boots-10-russian-diplomats",
-    "published": "Tue, 08 Sep 2026 13:45:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a3bd5962041985f6069ece18c9dbe705",
-    "fetched_at": "2026-09-09T18:58:21.691318+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Philippines defense chief calls out China after note interrupts remarks at Seoul forum: 'Coercion, bullying'",
-    "summary": "Gilberto Teodoro read aloud a note from China handed to him mid-speech at the Seoul Defense Dialogue, calling it actual coercion and bullying.",
-    "link": "https://www.foxnews.com/world/philippines-defense-chief-calls-out-china-note-interrupts-remarks-seoul-forum-coercion-bullying",
-    "published": "Tue, 08 Sep 2026 14:18:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c9ffe0b6a92b2ced9fc5206ffee24dd2",
-    "fetched_at": "2026-09-09T18:58:20.544229+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-    "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
-    "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-    "published": "Tue, 08 Sep 2026 06:46:03 -0400",
-    "source": "NPR Topics: World",
-    "id": "5bc259ac5a29bae86ede50bc2011e089",
-    "fetched_at": "2026-09-09T18:58:19.387154+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Super Bowl rematch to open new season - your guide to NFL's key games",
-    "summary": "With the 2026 NFL season set to start on Wednesday, here are all the key dates and fixtures on the road to Super Bowl 61.",
-    "link": "https://www.bbc.co.uk/sport/american-football/articles/c77g24g3zkjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 07:17:08 GMT",
-    "source": "BBC News",
-    "id": "6c3e13443fb4e8b39885dc5d91ae792a",
-    "fetched_at": "2026-09-09T18:58:18.237977+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Listen: Juror in Lindsay Clancy trial speaks about lone holdout",
-    "summary": "The person said that there were some 'big personalities' in the juror room and that they defend the lone holdout.",
-    "link": "https://www.bbc.co.uk/news/videos/ckg7lr0kk06o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 14:20:11 GMT",
-    "source": "BBC News",
-    "id": "1a1aa8b0508bbbeba8cc0a0788c292b2",
-    "fetched_at": "2026-09-09T18:58:17.082052+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-    "summary": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 16:33:49 GMT",
-    "source": "BBC News",
-    "id": "4399286e7eb74ddaaf189d1be14c896b",
-    "fetched_at": "2026-09-09T18:58:15.862612+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-    "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
-    "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 18:27:35 GMT",
-    "source": "BBC News",
-    "id": "5d0336f7abe3e924b5b169cec0cdfcb2",
-    "fetched_at": "2026-09-09T18:58:14.703680+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-    "summary": "The billion dollar payout marks the largest divorce settlement in the country's history.",
-    "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 08:21:39 GMT",
-    "source": "BBC News",
-    "id": "11d2b6c2d4a52cb12dea42e11c491499",
-    "fetched_at": "2026-09-09T14:04:18.469001+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-    "summary": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 07:44:20 GMT",
-    "source": "BBC News",
-    "id": "f2226c04b525300a1a647c8391b1a89e",
-    "fetched_at": "2026-09-09T14:04:18.468999+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Colombia's new president loosens gun control rules",
-    "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 11:01:41 GMT",
-    "source": "BBC News",
-    "id": "6312a9b8809ad4015e8e1f65411ceb60",
-    "fetched_at": "2026-09-09T14:04:18.468997+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-    "summary": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 11:29:59 GMT",
-    "source": "BBC News",
-    "id": "df865f4e77f2b6d94537f0e797764d8f",
-    "fetched_at": "2026-09-09T14:04:18.468995+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-    "summary": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 10:59:18 GMT",
-    "source": "BBC News",
-    "id": "37e7aea9abe8a26246d387a794f017cb",
-    "fetched_at": "2026-09-09T14:04:18.468994+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The Trump show: Republicans put president centre stage in unprecdented US midterms convention",
-    "summary": "Trump delivers Wednesday's keynote and returns for Thursday's finale after Vice President JD Vance speaks. Cabinet members and candidates in closely watched House and Senate races are also on the programme.",
-    "link": "http://www.euronews.com/2026/09/09/the-trump-show-republicans-put-president-centre-stage-in-unprecdented-us-midterms-conventi",
-    "published": "Wed, 09 Sep 2026 10:33:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "29d65d9221def225f347988131065892",
-    "fetched_at": "2026-09-09T14:04:18.468992+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US destroys five Iranian tankers as Tehran takes aim at Jordan",
-    "summary": "US CENTCOM said crews were warned to abandon ship before its strikes after the IRGC fired missiles at a US Navy warship twice in two days. Tehran launched missile strikes on US targets in Jordan and warned tankers near Kuwait and Bahrain to evacuate.",
-    "link": "http://www.euronews.com/2026/09/09/us-destroys-five-iranian-tankers-as-tehran-launches-retaliatory-strikes-on-jordan",
-    "published": "Wed, 09 Sep 2026 11:11:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fac6a265b94aa40fe829e105116a96ab",
-    "fetched_at": "2026-09-09T14:04:18.468989+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flower-crowned cows bring Alpine tradition to Gstaad festival",
-    "summary": "Decorated cows descend from Alpine pastures into Gstaad for Switzerland's Züglete festival, drawing crowds, music and visitors from around the world.",
-    "link": "http://www.euronews.com/video/2026/09/09/flower-crowned-cows-bring-alpine-tradition-to-gstaad-festival",
-    "published": "Wed, 09 Sep 2026 11:30:27 +0200",
-    "source": "News | Euronews RSS",
-    "id": "49ea0a6b072c0901bcb664b331209167",
-    "fetched_at": "2026-09-09T14:04:18.468988+00:00"
   }
 ]
