@@ -1,5 +1,85 @@
 [
   {
+    "region": "USA",
+    "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+    "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+    "published": "Wed, 09 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "7ebd45f71dd451e39eac0240de43ce59",
+    "fetched_at": "2026-09-11T02:21:19.434334+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+    "summary": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+    "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+    "published": "Wed, 09 Sep 2026 07:12:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "5be1c73af711c2896a9d679bf42c7e69",
+    "fetched_at": "2026-09-11T02:21:18.337630+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+    "summary": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
+    "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+    "published": "Wed, 09 Sep 2026 09:56:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "4e0f50767af84a0c6d296453fd2f8eb7",
+    "fetched_at": "2026-09-11T02:21:17.232616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+    "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
+    "published": "Thu, 10 Sep 2026 04:41:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "1f1e227ab1346fa997b772de637a0a4c",
+    "fetched_at": "2026-09-11T02:21:16.132578+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+    "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+    "published": "Thu, 10 Sep 2026 04:43:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "ccded73f9ef22a74c475ab2609f470be",
+    "fetched_at": "2026-09-11T02:21:15.032096+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Scientists say August was Earth's hottest month they've measured",
+    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+    "published": "Thu, 10 Sep 2026 04:54:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "d96839d694d2dacf83d9d0497eb7d2ed",
+    "fetched_at": "2026-09-11T02:21:13.934765+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jimmy Kimmel says interview with Democrat won't air on TV, cites regulator 'threats'",
+    "summary": "The White House denies Kimmel's allegations regarding his interview with James Talarico, accusing the TV host of \"play acting\".",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyrv39n4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 23:04:15 GMT",
+    "source": "BBC News",
+    "id": "f0456e9e1d306ff71fd1513a35225f09",
+    "fetched_at": "2026-09-11T02:21:12.819807+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Is Trump's $5,000 pledge a sign of panic?",
+    "summary": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
+    "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 01:38:51 GMT",
+    "source": "BBC News",
+    "id": "d9ed23454ad061f67943edd78bba7548",
+    "fetched_at": "2026-09-11T02:21:11.697702+00:00"
+  },
+  {
     "region": "Europe",
     "title": "Coach crash kills several people in Swiss Alps",
     "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "0b4e49465093b45030d5c64810495ab0",
     "fetched_at": "2026-09-10T13:59:04.493222+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maurizio Cattelan’s ‘Night’ exhibition opens in Berlin",
-    "summary": "Maurizio Cattelan's Night exhibition opens in Berlin, featuring his Hitler sculpture, an exhausted horse and works exploring power and doubt.",
-    "link": "https://www.euronews.com/video/2026/09/10/maurizio-cattelans-night-exhibition-opens-in-berlin",
-    "published": "Thu, 10 Sep 2026 14:59:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "46220f9ae8e4607624ef831c78f59364",
-    "fetched_at": "2026-09-10T13:59:04.493220+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "3,000 drones light up New York skyline in 9/11 tribute",
-    "summary": "Almost 3,000 drones light up the New York City skyline during a test for a 9/11 tribute marking the attacks' 25th anniversary in 2026.",
-    "link": "https://www.euronews.com/video/2026/09/10/3000-drones-light-up-new-york-skyline-in-911-tribute",
-    "published": "Thu, 10 Sep 2026 15:31:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3397cdbfaeab325993b643387328cff3",
-    "fetched_at": "2026-09-10T13:59:04.493218+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis blitz Yemen's Red Sea coastline in push to seize Bab el-Mandeb",
-    "summary": "The Houthis' latest offensive is meant to replicate Iran's Hormuz blockade in the Bab el-Mandeb, with Red Sea coastal towns and islands in the crucial waterway their top military objectives.",
-    "link": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb",
-    "published": "Thu, 10 Sep 2026 15:53:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4a77aa851487b56ef62654496f8e9764",
-    "fetched_at": "2026-09-10T13:59:04.493215+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-    "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-    "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 13:29:33 GMT",
-    "source": "BBC News",
-    "id": "87856e397c2607d5558910ce0d1ff3f2",
-    "fetched_at": "2026-09-10T13:59:04.493212+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian drone incursion delays Zelensky flight",
-    "summary": "The unmanned aircraft entered Moldovan airspace on Tuesday afternoon as the plane was on the runway.",
-    "link": "https://www.bbc.co.uk/news/articles/c86x49e379vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 12:15:44 GMT",
-    "source": "BBC News",
-    "id": "397b1e9153d3bc30b5467473b18c13ad",
-    "fetched_at": "2026-09-10T13:59:04.493209+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US sinks another 'floating refueling station' linked to 'narco-terrorist' group",
-    "summary": "The United States military on Sept. 8 sank another vessel that it described as a &quot;floating refueling station&quot; involved with the Los Choneros.",
-    "link": "https://www.foxnews.com/world/us-military-sinks-narco-refueling-station-los-choneros",
-    "published": "Wed, 09 Sep 2026 06:05:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8265b4797bf01d107063d8bbb85e6192",
-    "fetched_at": "2026-09-10T13:59:04.493206+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How 9/11 transformed synagogue security into a new reality for the Jewish community",
-    "summary": "FBI data shows Jews face 63% of religiously motivated hate crimes as communities prepare for Rosh Hashanah on Friday, Sept. 11 amid rising threats.",
-    "link": "https://www.foxnews.com/world/how-9-11-transformed-synagogue-security-new-reality-jewish-community",
-    "published": "Thu, 10 Sep 2026 06:34:22 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "be3ee829d97ec015d81ec07f179d1eec",
-    "fetched_at": "2026-09-10T13:59:04.493202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
-    "summary": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag.",
-    "link": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
-    "published": "Wed, 09 Sep 2026 04:44:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "d0f5470ed760f6760f33e23186a883cc",
-    "fetched_at": "2026-09-10T13:59:04.493174+00:00"
   }
 ]
