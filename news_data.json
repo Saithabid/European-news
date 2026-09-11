@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
+    "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
+    "link": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
+    "published": "Fri, 11 Sep 2026 21:04:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b1a82764cd8b4f6d33f6a079121aab5",
+    "fetched_at": "2026-09-11T20:17:02.084413+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+    "source": "BBC News",
+    "id": "9efa8fb91fce4f275066d44903430f36",
+    "fetched_at": "2026-09-11T20:17:02.084411+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+    "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 08:54:20 GMT",
+    "source": "BBC News",
+    "id": "d4cbb91fcb3f069c47292b5997c36850",
+    "fetched_at": "2026-09-11T20:17:02.084408+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man jailed after threatening to behead son's teacher in French village",
+    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
+    "source": "BBC News",
+    "id": "ac4353b8fb1960667931e2e087c5caf7",
+    "fetched_at": "2026-09-11T20:17:02.084405+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
+    "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
+    "published": "Thu, 10 Sep 2026 04:41:01 -0400",
+    "source": "NPR Topics: World",
+    "id": "1f1e227ab1346fa997b772de637a0a4c",
+    "fetched_at": "2026-09-11T20:17:02.084401+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+    "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+    "published": "Thu, 10 Sep 2026 04:43:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "ccded73f9ef22a74c475ab2609f470be",
+    "fetched_at": "2026-09-11T20:17:02.084379+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Scientists say August was Earth's hottest month they've measured",
+    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+    "published": "Thu, 10 Sep 2026 04:54:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "d96839d694d2dacf83d9d0497eb7d2ed",
+    "fetched_at": "2026-09-11T20:17:00.962552+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid war and sanctions, unemployment worsens in Iran",
+    "summary": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
+    "published": "Thu, 10 Sep 2026 17:03:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "e7153a4302a5dc21ee4191197a2e197c",
+    "fetched_at": "2026-09-11T20:16:59.837509+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+    "summary": "Many Iranians lost their jobs because of the war and the US blockade. Now some are even losing their back-up jobs as sanctions tighten",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "59c043d1d7f6984fc0a7f6bd106143b4",
+    "fetched_at": "2026-09-11T20:16:58.714831+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Is Trump's $5,000 pledge a sign of panic?",
+    "summary": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
+    "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 01:38:51 GMT",
+    "source": "BBC News",
+    "id": "d9ed23454ad061f67943edd78bba7548",
+    "fetched_at": "2026-09-11T20:16:57.489146+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
+    "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 17:55:06 GMT",
+    "source": "BBC News",
+    "id": "5f68ffd3b97efd2146e29c52c5a090bb",
+    "fetched_at": "2026-09-11T20:16:56.370339+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+    "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
+    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
+    "source": "BBC News",
+    "id": "8cb6a1277a12c252d535852846b48a68",
+    "fetched_at": "2026-09-11T20:16:55.240327+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 20:12:01 GMT",
+    "source": "BBC News",
+    "id": "4a25186e58eb28f54d9db74a0ddb0bc8",
+    "fetched_at": "2026-09-11T20:16:54.008408+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
     "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
     "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "1018d10e93399b7f0788aca27a7ecdd9",
     "fetched_at": "2026-09-11T08:27:12.884959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "War, sanctions and inflation leave Iran short of hundreds of medicines",
-    "summary": "Prices for basic medicines such as paracetamol and insulin have skyrocketed amid major shortages of less common pharmaceuticals. More than 70% of healthcare costs in Iran are paid out of pocket, leaving the most vulnerable patients unable to afford treatment.",
-    "link": "https://www.euronews.com/2026/09/11/war-sanctions-and-inflation-leave-iran-short-of-hundreds-of-medicines",
-    "published": "Fri, 11 Sep 2026 09:10:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a247e5bbc6f00777ccaba9133c2793d6",
-    "fetched_at": "2026-09-11T08:27:12.884956+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hong Kong Tiananmen vigil activists sentenced to five to seven years in prison",
-    "summary": "Three Hong Kong Tiananmen vigil activists were jailed for five to seven years under the national security law.",
-    "link": "https://www.euronews.com/2026/09/11/hong-kong-gives-tiananmen-vigil-activists-between-5-and-7-year",
-    "published": "Fri, 11 Sep 2026 09:52:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "50f02a6f4c49b8a2d50115cfd3ac9fb6",
-    "fetched_at": "2026-09-11T08:27:12.884953+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two Azerbaijani sailors killed in Black Sea tugboat drone attack",
-    "summary": "The Somali-flagged TEDY was hit near Odesa and struck twice more overnight, with two other crewmembers hospitalised with burns. Azerbaijan's foreign ministry did not attribute responsibility for the attack.",
-    "link": "https://www.euronews.com/2026/09/11/two-azerbaijani-sailors-killed-in-black-sea-tugboat-drone-attack",
-    "published": "Fri, 11 Sep 2026 10:19:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2dafa23bd428200059ada62b9b934237",
-    "fetched_at": "2026-09-11T08:27:12.884950+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian drone incursion delays Zelensky flight",
-    "summary": "The unmanned aircraft entered Moldovan airspace on Tuesday afternoon as the plane was on the runway.",
-    "link": "https://www.bbc.co.uk/news/articles/c86x49e379vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 12:15:44 GMT",
-    "source": "BBC News",
-    "id": "397b1e9153d3bc30b5467473b18c13ad",
-    "fetched_at": "2026-09-11T08:27:12.884947+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Can Europe recharge its battery industry?",
-    "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:05:47 GMT",
-    "source": "BBC News",
-    "id": "adb3fd9390f59573e89f1ed628de5130",
-    "fetched_at": "2026-09-11T08:27:12.884944+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
-    "summary": "In recent decades, Ireland has become a particularly frequent fixture for US presidential trips.",
-    "link": "https://www.bbc.co.uk/news/articles/c0re72nvy22o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:01:55 GMT",
-    "source": "BBC News",
-    "id": "9d5dbaec4912c63adfb6feb0ec9c2d00",
-    "fetched_at": "2026-09-11T08:27:12.884918+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-    "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-    "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 22:36:02 GMT",
-    "source": "BBC News",
-    "id": "e5ef36a1fc42967639b80d651f7c5145",
-    "fetched_at": "2026-09-11T08:27:11.750739+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-    "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:22:11 GMT",
-    "source": "BBC News",
-    "id": "1ca2e54585988f7b7cb7c9e2690f74ef",
-    "fetched_at": "2026-09-11T08:27:10.616316+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US sinks another 'floating refueling station' linked to 'narco-terrorist' group",
-    "summary": "The United States military on Sept. 8 sank another vessel that it described as a &quot;floating refueling station&quot; involved with the Los Choneros.",
-    "link": "https://www.foxnews.com/world/us-military-sinks-narco-refueling-station-los-choneros",
-    "published": "Wed, 09 Sep 2026 06:05:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8265b4797bf01d107063d8bbb85e6192",
-    "fetched_at": "2026-09-11T08:27:09.495439+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How 9/11 transformed synagogue security into a new reality for the Jewish community",
-    "summary": "FBI data shows Jews face 63% of religiously motivated hate crimes as communities prepare for Rosh Hashanah on Friday, Sept. 11 amid rising threats.",
-    "link": "https://www.foxnews.com/world/how-9-11-transformed-synagogue-security-new-reality-jewish-community",
-    "published": "Thu, 10 Sep 2026 06:34:22 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "be3ee829d97ec015d81ec07f179d1eec",
-    "fetched_at": "2026-09-11T08:27:08.373477+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
-    "summary": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-    "published": "Fri, 11 Sep 2026 01:40:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "b0c4f2b0d076948e2bd96c86d4f37c09",
-    "fetched_at": "2026-09-11T08:27:07.243410+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
-    "summary": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
-    "published": "Fri, 11 Sep 2026 02:42:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccd7cc853133b11ad495b6106d80c0c8",
-    "fetched_at": "2026-09-11T08:27:06.117618+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Houthi military gains in Yemen may further increase gas prices",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "published": "Fri, 11 Sep 2026 03:32:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "dfb88555884379b202e2a00505e1d32c",
-    "fetched_at": "2026-09-11T08:27:04.980950+00:00"
   }
 ]
