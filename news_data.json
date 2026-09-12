@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+    "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+    "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 16:55:31 GMT",
+    "source": "BBC News",
+    "id": "b2b5da74a4dd6cb1cebd2b9a769a582f",
+    "fetched_at": "2026-09-12T19:57:42.835159+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fire at nursing home in Chile kills 16 residents",
+    "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 19:36:50 GMT",
+    "source": "BBC News",
+    "id": "225b124e796eb0ed93e9575d5cd67543",
+    "fetched_at": "2026-09-12T19:57:42.835135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
+    "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
+    "link": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
+    "published": "Fri, 11 Sep 2026 21:04:54 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b1a82764cd8b4f6d33f6a079121aab5",
+    "fetched_at": "2026-09-12T19:57:41.711392+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man jailed after threatening to behead son's teacher in French village",
+    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
+    "source": "BBC News",
+    "id": "ac4353b8fb1960667931e2e087c5caf7",
+    "fetched_at": "2026-09-12T19:57:40.611277+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+    "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+    "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 17:38:21 GMT",
+    "source": "BBC News",
+    "id": "f4ae422e222a9e342fcb9478e84478c9",
+    "fetched_at": "2026-09-12T19:57:39.493263+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+    "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "59c043d1d7f6984fc0a7f6bd106143b4",
+    "fetched_at": "2026-09-12T19:57:38.376617+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 00:43:00 GMT",
+    "source": "BBC News",
+    "id": "4a25186e58eb28f54d9db74a0ddb0bc8",
+    "fetched_at": "2026-09-12T19:57:37.264992+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+    "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
+    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
+    "source": "BBC News",
+    "id": "8cb6a1277a12c252d535852846b48a68",
+    "fetched_at": "2026-09-12T19:57:36.156076+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+    "source": "BBC News",
+    "id": "6fe0b9f03634e8e2aacd7ae6c1f203a0",
+    "fetched_at": "2026-09-12T19:57:35.044245+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "397b1e9153d3bc30b5467473b18c13ad",
     "fetched_at": "2026-09-11T23:45:07.282799+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
-    "summary": "In recent decades, Ireland has become a particularly frequent fixture for US presidential trips.",
-    "link": "https://www.bbc.co.uk/news/articles/c0re72nvy22o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:01:55 GMT",
-    "source": "BBC News",
-    "id": "9d5dbaec4912c63adfb6feb0ec9c2d00",
-    "fetched_at": "2026-09-11T23:45:07.282795+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Can Europe recharge its battery industry?",
-    "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:05:47 GMT",
-    "source": "BBC News",
-    "id": "adb3fd9390f59573e89f1ed628de5130",
-    "fetched_at": "2026-09-11T23:45:07.282768+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-    "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-    "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 22:36:02 GMT",
-    "source": "BBC News",
-    "id": "e5ef36a1fc42967639b80d651f7c5145",
-    "fetched_at": "2026-09-11T23:45:06.146381+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
-    "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:22:11 GMT",
-    "source": "BBC News",
-    "id": "1ca2e54585988f7b7cb7c9e2690f74ef",
-    "fetched_at": "2026-09-11T23:45:05.012370+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How 9/11 transformed synagogue security into a new reality for the Jewish community",
-    "summary": "FBI data shows Jews face 63% of religiously motivated hate crimes as communities prepare for Rosh Hashanah on Friday, Sept. 11 amid rising threats.",
-    "link": "https://www.foxnews.com/world/how-9-11-transformed-synagogue-security-new-reality-jewish-community",
-    "published": "Thu, 10 Sep 2026 06:34:22 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "be3ee829d97ec015d81ec07f179d1eec",
-    "fetched_at": "2026-09-11T23:45:03.885061+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
-    "summary": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-    "published": "Fri, 11 Sep 2026 01:40:21 -0400",
-    "source": "NPR Topics: World",
-    "id": "b0c4f2b0d076948e2bd96c86d4f37c09",
-    "fetched_at": "2026-09-11T23:45:02.756234+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
-    "summary": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
-    "published": "Fri, 11 Sep 2026 02:42:04 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccd7cc853133b11ad495b6106d80c0c8",
-    "fetched_at": "2026-09-11T23:45:01.625773+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "published": "Fri, 11 Sep 2026 03:32:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "dfb88555884379b202e2a00505e1d32c",
-    "fetched_at": "2026-09-11T23:45:00.496799+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The other side of 9/11: Afghans reckon with America's long shadow",
-    "summary": "It's been nearly 25 years since the start of the U.S- led invasion of Afghanistan. NPR returns to Kabul to see how Afghans, now back under Taliban rule, are coping with the legacy of that 20 year war.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
-    "published": "Fri, 11 Sep 2026 17:36:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "46fee9d6261fd293061a3d43063569c9",
-    "fetched_at": "2026-09-11T23:44:59.374876+00:00"
   }
 ]
