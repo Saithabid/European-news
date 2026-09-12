@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 16:38:02 GMT",
+    "source": "BBC News",
+    "id": "12635b5026acfb2565fc39981dc774aa",
+    "fetched_at": "2026-09-12T16:40:08.319512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 11th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-evening",
+    "published": "Fri, 11 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "942692b5f1d91260f48f691aaf7baa94",
+    "fetched_at": "2026-09-12T16:40:08.319510+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia sends sanctioned ships to Mediterranean as NATO tracks 'Syrian Express' convoy",
+    "summary": "Four Russian ships, including sanctioned cargo and tanker vessels escorted by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the first interruption of Russia's naval presence there since 2013.",
+    "link": "https://www.euronews.com/2026/09/11/russia-sends-sanctioned-ships-to-mediterranean-as-nato-tracks-syrian-express-convoy",
+    "published": "Fri, 11 Sep 2026 18:47:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "aebfbbfeb4056d00f7511c3c74b83800",
+    "fetched_at": "2026-09-12T16:40:08.319506+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 12th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
+    "published": "Sat, 12 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "48c68ece315bdcefea4f12deb39ea1a5",
+    "fetched_at": "2026-09-12T16:40:08.319504+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French officials investigate if malicious act caused train derailment",
+    "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 15:05:53 GMT",
+    "source": "BBC News",
+    "id": "e23274bda621101fd919207ca68eb4a8",
+    "fetched_at": "2026-09-12T16:40:08.319501+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash",
+    "summary": "Israel says E1 construction in the West Bank falls under the Oslo Accords, but Britain imposed sanctions. And 11 nations weigh trade restrictions on settlements.",
+    "link": "https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash",
+    "published": "Wed, 09 Sep 2026 15:04:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b0305e256a6c0bb0af23596bef8734a1",
+    "fetched_at": "2026-09-12T16:40:08.319470+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine strikes deep into Russia’s Arctic gas heartland as Trump pushes Putin toward peace",
+    "summary": "Ukrainian drones struck Novy Urengoy, sparking a fire in Russia&apos;s top natural-gas region roughly 1,740 miles from Ukraine&apos;s border in the Arctic.",
+    "link": "https://www.foxnews.com/world/ukraine-strikes-deep-russias-arctic-gas-heartland-trump-pushes-putin-toward-peace",
+    "published": "Wed, 09 Sep 2026 16:23:58 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d90b664e83d13c5926da0820dc5cb9eb",
+    "fetched_at": "2026-09-12T16:40:07.180829+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spanish opposition leader calls prime minister a ‘traitor’ over Ceuta migrant crisis",
+    "summary": "Santiago Abascal branded Pedro Sánchez a &quot;traitor&quot; in parliament over Spain&apos;s migrant crisis in the North African enclave of Ceuta amid protests.",
+    "link": "https://www.foxnews.com/world/spanish-opposition-leader-calls-prime-minister-traitor-ceuta-migrant-crisis",
+    "published": "Wed, 09 Sep 2026 19:16:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c99baf2e434371d5a4e7a48c87d5403c",
+    "fetched_at": "2026-09-12T16:40:06.040174+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone nearly strikes Zelenskyy’s plane before takeoff for Norwegian king’s funeral, PM says",
+    "summary": "Ukrainian President Volodymyr Zelenskyy&apos;s plane was reportedly almost hit by a Russian drone during takeoff from Moldova, closing Chișinău airspace.",
+    "link": "https://www.foxnews.com/world/drone-nearly-strikes-zelenskyy-plane-takeoff-norwegian-king-funeral-pm-says",
+    "published": "Wed, 09 Sep 2026 20:51:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a42f96b030dc52216bf96a27423bb871",
+    "fetched_at": "2026-09-12T16:40:04.884291+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed terror group’s latest territorial grab threatens second global shipping chokepoint",
+    "summary": "Iran-backed Houthi forces seized Yemen&apos;s Mocha port and advanced toward Bab el-Mandeb, threatening Red Sea shipping as Brent crude surged past $106.",
+    "link": "https://www.foxnews.com/world/iran-backed-terror-groups-latest-territorial-grab-threatens-second-global-shipping-chokepoint",
+    "published": "Thu, 10 Sep 2026 15:03:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71d94df11ed8e9c4c7031459df075fb1",
+    "fetched_at": "2026-09-12T16:40:03.574057+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+    "summary": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&apos;s complex plots as the greatest terrorism threat to the homeland.",
+    "link": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+    "published": "Fri, 11 Sep 2026 13:04:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1feb479e99bc1557f6829aac63f73900",
+    "fetched_at": "2026-09-12T16:40:02.415776+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
+    "summary": "Houthi forces seized Perim island and key positions along Yemen&apos;s Bab al-Mandab Strait as Saudi Arabia urged Trump to take direct military action.",
+    "link": "https://www.foxnews.com/world/saudi-arabia-tells-trump-time-military-action-iran-backed-houthis-advance",
+    "published": "Fri, 11 Sep 2026 13:08:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0808b9d3089945d53087851b862401ad",
+    "fetched_at": "2026-09-12T16:40:01.269812+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teen boy rescued after days adrift in Alaskan waters",
+    "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+    "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 15:03:14 GMT",
+    "source": "BBC News",
+    "id": "1bd088b6c36ab8336cb42229d95eeba2",
+    "fetched_at": "2026-09-12T16:40:00.114962+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Record heatwaves in France set to make champagne stronger",
     "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
     "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "46fee9d6261fd293061a3d43063569c9",
     "fetched_at": "2026-09-11T23:44:59.374876+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
-    "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
-    "link": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
-    "published": "Fri, 11 Sep 2026 21:04:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3b1a82764cd8b4f6d33f6a079121aab5",
-    "fetched_at": "2026-09-11T20:17:02.084413+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-    "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-    "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 21:23:45 GMT",
-    "source": "BBC News",
-    "id": "9efa8fb91fce4f275066d44903430f36",
-    "fetched_at": "2026-09-11T20:17:02.084411+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-    "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 08:54:20 GMT",
-    "source": "BBC News",
-    "id": "d4cbb91fcb3f069c47292b5997c36850",
-    "fetched_at": "2026-09-11T20:17:02.084408+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man jailed after threatening to behead son's teacher in French village",
-    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
-    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
-    "source": "BBC News",
-    "id": "ac4353b8fb1960667931e2e087c5caf7",
-    "fetched_at": "2026-09-11T20:17:02.084405+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
-    "summary": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
-    "published": "Thu, 10 Sep 2026 04:41:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f1e227ab1346fa997b772de637a0a4c",
-    "fetched_at": "2026-09-11T20:17:02.084401+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
-    "summary": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
-    "published": "Thu, 10 Sep 2026 04:43:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "ccded73f9ef22a74c475ab2609f470be",
-    "fetched_at": "2026-09-11T20:17:02.084379+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Scientists say August was Earth's hottest month they've measured",
-    "summary": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
-    "published": "Thu, 10 Sep 2026 04:54:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "d96839d694d2dacf83d9d0497eb7d2ed",
-    "fetched_at": "2026-09-11T20:17:00.962552+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amid war and sanctions, unemployment worsens in Iran",
-    "summary": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
-    "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
-    "published": "Thu, 10 Sep 2026 17:03:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "e7153a4302a5dc21ee4191197a2e197c",
-    "fetched_at": "2026-09-11T20:16:59.837509+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-    "summary": "Many Iranians lost their jobs because of the war and the US blockade. Now some are even losing their back-up jobs as sanctions tighten",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "59c043d1d7f6984fc0a7f6bd106143b4",
-    "fetched_at": "2026-09-11T20:16:58.714831+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is Trump's $5,000 pledge a sign of panic?",
-    "summary": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-    "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 01:38:51 GMT",
-    "source": "BBC News",
-    "id": "d9ed23454ad061f67943edd78bba7548",
-    "fetched_at": "2026-09-11T20:16:57.489146+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
-    "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 17:55:06 GMT",
-    "source": "BBC News",
-    "id": "5f68ffd3b97efd2146e29c52c5a090bb",
-    "fetched_at": "2026-09-11T20:16:56.370339+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
-    "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
-    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
-    "source": "BBC News",
-    "id": "8cb6a1277a12c252d535852846b48a68",
-    "fetched_at": "2026-09-11T20:16:55.240327+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 20:12:01 GMT",
-    "source": "BBC News",
-    "id": "4a25186e58eb28f54d9db74a0ddb0bc8",
-    "fetched_at": "2026-09-11T20:16:54.008408+00:00"
   }
 ]
