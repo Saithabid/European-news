@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Princess Diana's 'revenge dress' goes up for auction",
+    "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+    "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 12:04:46 GMT",
+    "source": "BBC News",
+    "id": "e6061aa1faa7b0695b87e47736bce287",
+    "fetched_at": "2026-09-12T02:28:44.333945+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "BRICS leaders arrive in India ahead of two-day summit as global conflicts set to take centre stage",
+    "summary": "Chinese President Xi Jinping is also set to attend the two-day summit, in what would be his first visit to India since 2019.",
+    "link": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
+    "published": "Fri, 11 Sep 2026 14:58:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bf73b442a8ab997d2cc88c95be73c7b9",
+    "fetched_at": "2026-09-12T02:28:43.207903+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+    "published": "Fri, 11 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "9dad5a7130e74533f0bb8059e7c4b8d0",
+    "fetched_at": "2026-09-12T02:28:42.050572+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six Nigerians accused of romance scams to be extradited to the US",
+    "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 21:07:19 GMT",
+    "source": "BBC News",
+    "id": "b4afbfa7a7c57ccedad06046ea846716",
+    "fetched_at": "2026-09-12T02:28:40.912781+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US prices remain high as fuel costs squeeze household budgets",
+    "summary": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+    "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 14:22:42 GMT",
+    "source": "BBC News",
+    "id": "ec3694568e9fff775240726011d5effc",
+    "fetched_at": "2026-09-12T02:28:39.779317+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Arrest made over the death of black woman found hanged from tree",
     "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
     "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "facda014ccff362adcf5492c3b56ac4e",
     "fetched_at": "2026-09-11T13:58:18.733212+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tourists swim with Greece’s famous black pigs on Atokos island",
-    "summary": "Greece's tiny Atokos island attracts tourists who swim with its Mediterranean black pigs, feed them fruit and share the unusual encounter online.",
-    "link": "https://www.euronews.com/video/2026/09/11/tourists-swim-with-greeces-famous-black-pigs-on-atokos-island",
-    "published": "Fri, 11 Sep 2026 14:33:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fe09287371264cc392ae815419ba4e56",
-    "fetched_at": "2026-09-11T13:58:18.733209+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis seize key Yemeni island in Bab el-Mandeb, taking control of the strait",
-    "summary": "Houthi fighters reached Perim Island which divides the Bab el-Mandeb into two shipping lanes after government forces withdrew, completing the group's takeover of the strait. Together with Iran's Hormuz blockade, this puts roughly a third of the world's seaborne trade under hostile control.",
-    "link": "https://www.euronews.com/2026/09/11/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
-    "published": "Fri, 11 Sep 2026 15:41:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "605e98ab24ccbecff71c481576f42c97",
-    "fetched_at": "2026-09-11T13:58:18.733207+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Colombia’s Cali remembers earthquake victims one month on",
-    "summary": "Residents of Cali gathered to honour those killed in the August 10 earthquake, releasing white balloons and laying flowers one month after the disaster.",
-    "link": "https://www.euronews.com/video/2026/09/11/colombias-cali-remembers-earthquake-victims-one-month-on",
-    "published": "Fri, 11 Sep 2026 15:52:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "473db79cf9e9d5d52f7e88060b902c2b",
-    "fetched_at": "2026-09-11T13:58:18.733204+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fire aboard cargo ship undergoing repairs at busy Chinese port leaves 25 people dead, five more injured",
-    "summary": "A cargo ship called the Ocean Melody caught fire during repairs at Qingdao port, killing 25 of the 42 people on board the Liberian-flagged vessel.",
-    "link": "https://www.foxnews.com/world/fire-aboard-cargo-ship-undergoing-repairs-busy-chinese-port-leaves-25-people-dead-five-more-injured",
-    "published": "Thu, 10 Sep 2026 12:45:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b48810298ad020f5fbd9cd946d598fb7",
-    "fetched_at": "2026-09-11T13:58:18.733182+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin, Xi and Iran's Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions",
-    "summary": "Presidents of Iran, Russia and China converge on New Delhi for the BRICS summit as India navigates competing interests amid Middle East and Ukraine wars.",
-    "link": "https://www.foxnews.com/world/putin-xi-irans-pezeshkian-descend-india-high-stakes-brics-summit-amid-escalating-global-tensions",
-    "published": "Fri, 11 Sep 2026 08:25:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f523dea5338f005b6cf4856e27e0133e",
-    "fetched_at": "2026-09-11T13:58:17.565890+00:00"
   }
 ]
