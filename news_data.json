@@ -1,6 +1,36 @@
 [
   {
     "region": "Europe",
+    "title": "Houthis seize key Yemeni island in Bab el-Mandeb, taking control of the strait",
+    "summary": "Houthi fighters reached Perim Island which divides the Bab el-Mandeb into two shipping lanes after government forces withdrew, completing the group's takeover of the strait. Together with Iran's Hormuz blockade, this puts roughly a third of the world's seaborne trade under hostile control.",
+    "link": "https://www.euronews.com/2026/09/12/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
+    "published": "Sat, 12 Sep 2026 00:08:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "99f3676008da9f2c1f507f353b7713e3",
+    "fetched_at": "2026-09-12T23:41:44.301755+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+    "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+    "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 20:34:29 GMT",
+    "source": "BBC News",
+    "id": "81a96c3cc409b56ec438774309f6f913",
+    "fetched_at": "2026-09-12T23:41:43.196059+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+    "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 02:29:49 GMT",
+    "source": "BBC News",
+    "id": "58984ceefc03ae30f4c0649cd1ee1571",
+    "fetched_at": "2026-09-12T23:41:42.090425+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
     "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
     "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
@@ -568,35 +598,5 @@
     "source": "BBC News",
     "id": "e6061aa1faa7b0695b87e47736bce287",
     "fetched_at": "2026-09-12T02:28:44.333945+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BRICS leaders arrive in India ahead of two-day summit as global conflicts set to take centre stage",
-    "summary": "Chinese President Xi Jinping is also set to attend the two-day summit, in what would be his first visit to India since 2019.",
-    "link": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
-    "published": "Fri, 11 Sep 2026 14:58:49 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bf73b442a8ab997d2cc88c95be73c7b9",
-    "fetched_at": "2026-09-12T02:28:43.207903+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-    "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-    "published": "Fri, 11 Sep 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "9dad5a7130e74533f0bb8059e7c4b8d0",
-    "fetched_at": "2026-09-12T02:28:42.050572+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Six Nigerians accused of romance scams to be extradited to the US",
-    "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 21:07:19 GMT",
-    "source": "BBC News",
-    "id": "b4afbfa7a7c57ccedad06046ea846716",
-    "fetched_at": "2026-09-12T02:28:40.912781+00:00"
   }
 ]
