@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | September 12th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
+    "published": "Sat, 12 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "48c68ece315bdcefea4f12deb39ea1a5",
+    "fetched_at": "2026-09-13T23:57:23.940818+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French officials investigate if malicious act caused train derailment",
+    "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 15:05:53 GMT",
+    "source": "BBC News",
+    "id": "e23274bda621101fd919207ca68eb4a8",
+    "fetched_at": "2026-09-13T23:57:22.849509+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran-backed terror group’s latest territorial grab threatens second global shipping chokepoint",
+    "summary": "Iran-backed Houthi forces seized Yemen&apos;s Mocha port and advanced toward Bab el-Mandeb, threatening Red Sea shipping as Brent crude surged past $106.",
+    "link": "https://www.foxnews.com/world/iran-backed-terror-groups-latest-territorial-grab-threatens-second-global-shipping-chokepoint",
+    "published": "Thu, 10 Sep 2026 15:03:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "71d94df11ed8e9c4c7031459df075fb1",
+    "fetched_at": "2026-09-13T23:57:21.752784+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
+    "summary": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&apos;s complex plots as the greatest terrorism threat to the homeland.",
+    "link": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
+    "published": "Fri, 11 Sep 2026 13:04:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1feb479e99bc1557f6829aac63f73900",
+    "fetched_at": "2026-09-13T23:57:20.663961+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
+    "summary": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
+    "link": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+    "published": "Sun, 13 Sep 2026 18:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9c66aff5b9cecca5f25f38d52350260c",
+    "fetched_at": "2026-09-13T23:57:19.562680+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+    "summary": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the talks were postponed.",
+    "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+    "published": "Sun, 13 Sep 2026 17:03:12 -0400",
+    "source": "NPR Topics: World",
+    "id": "67bd9ff79738598038061f309c3bceca",
+    "fetched_at": "2026-09-13T23:57:18.442337+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+    "source": "BBC News",
+    "id": "12635b5026acfb2565fc39981dc774aa",
+    "fetched_at": "2026-09-13T23:57:17.337455+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Questions mount over what an AI 'slowdown' would look like",
     "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
     "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "225b124e796eb0ed93e9575d5cd67543",
     "fetched_at": "2026-09-12T19:57:42.835135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
-    "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
-    "link": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
-    "published": "Fri, 11 Sep 2026 21:04:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3b1a82764cd8b4f6d33f6a079121aab5",
-    "fetched_at": "2026-09-12T19:57:41.711392+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man jailed after threatening to behead son's teacher in French village",
-    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
-    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
-    "source": "BBC News",
-    "id": "ac4353b8fb1960667931e2e087c5caf7",
-    "fetched_at": "2026-09-12T19:57:40.611277+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-    "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 17:38:21 GMT",
-    "source": "BBC News",
-    "id": "f4ae422e222a9e342fcb9478e84478c9",
-    "fetched_at": "2026-09-12T19:57:39.493263+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-    "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "59c043d1d7f6984fc0a7f6bd106143b4",
-    "fetched_at": "2026-09-12T19:57:38.376617+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 00:43:00 GMT",
-    "source": "BBC News",
-    "id": "4a25186e58eb28f54d9db74a0ddb0bc8",
-    "fetched_at": "2026-09-12T19:57:37.264992+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
-    "summary": "The spy agency released 71 declassified presidential briefings, with one showing it had thought Al Qaeda's plans were 'widely known' by extremists.",
-    "link": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 19:53:54 GMT",
-    "source": "BBC News",
-    "id": "8cb6a1277a12c252d535852846b48a68",
-    "fetched_at": "2026-09-12T19:57:36.156076+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 17:28:53 GMT",
-    "source": "BBC News",
-    "id": "6fe0b9f03634e8e2aacd7ae6c1f203a0",
-    "fetched_at": "2026-09-12T19:57:35.044245+00:00"
   }
 ]
