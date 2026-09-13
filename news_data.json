@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Questions mount over what an AI 'slowdown' would look like",
+    "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 18:20:22 GMT",
+    "source": "BBC News",
+    "id": "b7c3f834046262c5e9b3ea85766c5b12",
+    "fetched_at": "2026-09-13T21:59:18.408678+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 12th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-midday",
+    "published": "Sat, 12 Sep 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1c81846b8ff9e9c5611a5be6300290ec",
+    "fetched_at": "2026-09-13T21:59:18.408675+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment teen is rescued after three days adrift in frigid waters",
+    "summary": "A 15-year-old boy was rescued after clinging to an overturned boat for nearly three days in the frigid Bering Sea off Alaska.",
+    "link": "https://www.euronews.com/video/2026/09/12/moment-teen-is-rescued-after-three-days-adrift-in-frigid-waters",
+    "published": "Sat, 12 Sep 2026 12:54:00 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4a0a878b85d64334a4b14ee9b4c02553",
+    "fetched_at": "2026-09-13T21:59:18.408671+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German police bodycam captures dramatic arrest of suspected power saboteur",
+    "summary": "Police in North Rhine-Westphalia have released bodycam footage showing the arrest of alleged power saboteur Daniel V., with officers drawing their weapons as new details emerge in the case.",
+    "link": "https://www.euronews.com/2026/09/12/german-police-bodycam-captures-dramatic-arrest-of-suspected-power-saboteur",
+    "published": "Sat, 12 Sep 2026 13:36:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bc7c7f1ea5ac76ef59e7a15cf025879e",
+    "fetched_at": "2026-09-13T21:59:18.408643+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Record heatwaves in France set to make champagne stronger",
+    "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 13:00:32 GMT",
+    "source": "BBC News",
+    "id": "039a9d9f444d980e7458a905490521e3",
+    "fetched_at": "2026-09-13T21:59:17.279909+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Swedish party blocs tied after Sunday vote, projections say",
+    "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 21:17:15 GMT",
+    "source": "BBC News",
+    "id": "61fd65d55c5f6142e71e9d5834715ba3",
+    "fetched_at": "2026-09-13T21:59:16.122632+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
+    "summary": "Houthi forces seized Perim island and key positions along Yemen&apos;s Bab al-Mandab Strait as Saudi Arabia urged Trump to take direct military action.",
+    "link": "https://www.foxnews.com/world/saudi-arabia-tells-trump-time-military-action-iran-backed-houthis-advance",
+    "published": "Fri, 11 Sep 2026 13:08:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0808b9d3089945d53087851b862401ad",
+    "fetched_at": "2026-09-13T21:59:14.982305+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+    "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
+    "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+    "published": "Sat, 12 Sep 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "30c6ad5019562febb0a6cd329842b922",
+    "fetched_at": "2026-09-13T21:59:13.834839+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
+    "summary": "The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.",
+    "link": "https://www.npr.org/2026/09/12/nx-s1-5964940/saudi-arabia-forced-to-shut-down-crucial-red-sea-pipeline-after-attacks",
+    "published": "Sat, 12 Sep 2026 08:19:22 -0400",
+    "source": "NPR Topics: World",
+    "id": "20c53bee55ae52724afe9f2261a83593",
+    "fetched_at": "2026-09-13T21:59:12.692928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+    "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
+    "link": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+    "published": "Sun, 13 Sep 2026 17:03:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "84cca57882746693386d1242c9f461cc",
+    "fetched_at": "2026-09-13T21:59:11.549198+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teen boy rescued after days adrift in Alaskan waters",
+    "summary": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+    "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 15:03:14 GMT",
+    "source": "BBC News",
+    "id": "1bd088b6c36ab8336cb42229d95eeba2",
+    "fetched_at": "2026-09-13T21:59:10.400585+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump doubles down on united Ireland comments on day two of visit",
     "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "6fe0b9f03634e8e2aacd7ae6c1f203a0",
     "fetched_at": "2026-09-12T19:57:35.044245+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 16:38:02 GMT",
-    "source": "BBC News",
-    "id": "12635b5026acfb2565fc39981dc774aa",
-    "fetched_at": "2026-09-12T16:40:08.319512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 11th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/11/latest-news-bulletin-september-11th-2026-evening",
-    "published": "Fri, 11 Sep 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "942692b5f1d91260f48f691aaf7baa94",
-    "fetched_at": "2026-09-12T16:40:08.319510+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia sends sanctioned ships to Mediterranean as NATO tracks 'Syrian Express' convoy",
-    "summary": "Four Russian ships, including sanctioned cargo and tanker vessels escorted by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the first interruption of Russia's naval presence there since 2013.",
-    "link": "https://www.euronews.com/2026/09/11/russia-sends-sanctioned-ships-to-mediterranean-as-nato-tracks-syrian-express-convoy",
-    "published": "Fri, 11 Sep 2026 18:47:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "aebfbbfeb4056d00f7511c3c74b83800",
-    "fetched_at": "2026-09-12T16:40:08.319506+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 12th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
-    "published": "Sat, 12 Sep 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "48c68ece315bdcefea4f12deb39ea1a5",
-    "fetched_at": "2026-09-12T16:40:08.319504+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French officials investigate if malicious act caused train derailment",
-    "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-    "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 15:05:53 GMT",
-    "source": "BBC News",
-    "id": "e23274bda621101fd919207ca68eb4a8",
-    "fetched_at": "2026-09-12T16:40:08.319501+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash",
-    "summary": "Israel says E1 construction in the West Bank falls under the Oslo Accords, but Britain imposed sanctions. And 11 nations weigh trade restrictions on settlements.",
-    "link": "https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash",
-    "published": "Wed, 09 Sep 2026 15:04:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b0305e256a6c0bb0af23596bef8734a1",
-    "fetched_at": "2026-09-12T16:40:08.319470+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine strikes deep into Russia’s Arctic gas heartland as Trump pushes Putin toward peace",
-    "summary": "Ukrainian drones struck Novy Urengoy, sparking a fire in Russia&apos;s top natural-gas region roughly 1,740 miles from Ukraine&apos;s border in the Arctic.",
-    "link": "https://www.foxnews.com/world/ukraine-strikes-deep-russias-arctic-gas-heartland-trump-pushes-putin-toward-peace",
-    "published": "Wed, 09 Sep 2026 16:23:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d90b664e83d13c5926da0820dc5cb9eb",
-    "fetched_at": "2026-09-12T16:40:07.180829+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spanish opposition leader calls prime minister a ‘traitor’ over Ceuta migrant crisis",
-    "summary": "Santiago Abascal branded Pedro Sánchez a &quot;traitor&quot; in parliament over Spain&apos;s migrant crisis in the North African enclave of Ceuta amid protests.",
-    "link": "https://www.foxnews.com/world/spanish-opposition-leader-calls-prime-minister-traitor-ceuta-migrant-crisis",
-    "published": "Wed, 09 Sep 2026 19:16:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c99baf2e434371d5a4e7a48c87d5403c",
-    "fetched_at": "2026-09-12T16:40:06.040174+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drone nearly strikes Zelenskyy’s plane before takeoff for Norwegian king’s funeral, PM says",
-    "summary": "Ukrainian President Volodymyr Zelenskyy&apos;s plane was reportedly almost hit by a Russian drone during takeoff from Moldova, closing Chișinău airspace.",
-    "link": "https://www.foxnews.com/world/drone-nearly-strikes-zelenskyy-plane-takeoff-norwegian-king-funeral-pm-says",
-    "published": "Wed, 09 Sep 2026 20:51:33 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a42f96b030dc52216bf96a27423bb871",
-    "fetched_at": "2026-09-12T16:40:04.884291+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed terror group’s latest territorial grab threatens second global shipping chokepoint",
-    "summary": "Iran-backed Houthi forces seized Yemen&apos;s Mocha port and advanced toward Bab el-Mandeb, threatening Red Sea shipping as Brent crude surged past $106.",
-    "link": "https://www.foxnews.com/world/iran-backed-terror-groups-latest-territorial-grab-threatens-second-global-shipping-chokepoint",
-    "published": "Thu, 10 Sep 2026 15:03:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "71d94df11ed8e9c4c7031459df075fb1",
-    "fetched_at": "2026-09-12T16:40:03.574057+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
-    "summary": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&apos;s complex plots as the greatest terrorism threat to the homeland.",
-    "link": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
-    "published": "Fri, 11 Sep 2026 13:04:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1feb479e99bc1557f6829aac63f73900",
-    "fetched_at": "2026-09-12T16:40:02.415776+00:00"
   }
 ]
