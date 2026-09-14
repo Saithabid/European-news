@@ -1,6 +1,26 @@
 [
   {
     "region": "Europe",
+    "title": "Man jailed after threatening to behead son's teacher in French village",
+    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
+    "source": "BBC News",
+    "id": "ac4353b8fb1960667931e2e087c5caf7",
+    "fetched_at": "2026-09-14T03:25:27.190292+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 09:05:10 GMT",
+    "source": "BBC News",
+    "id": "6fe0b9f03634e8e2aacd7ae6c1f203a0",
+    "fetched_at": "2026-09-14T03:25:26.059627+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | September 12th, 2026 – Evening",
     "summary": "Catch up with the most important stories from around Europe and beyond this September 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
@@ -578,25 +598,5 @@
     "source": "BBC News",
     "id": "a0bd5c46e06f6ab791cf46a56c557e8c",
     "fetched_at": "2026-09-12T21:56:39.455730+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-    "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-    "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 16:55:31 GMT",
-    "source": "BBC News",
-    "id": "b2b5da74a4dd6cb1cebd2b9a769a582f",
-    "fetched_at": "2026-09-12T19:57:42.835159+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fire at nursing home in Chile kills 16 residents",
-    "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 19:36:50 GMT",
-    "source": "BBC News",
-    "id": "225b124e796eb0ed93e9575d5cd67543",
-    "fetched_at": "2026-09-12T19:57:42.835135+00:00"
   }
 ]
