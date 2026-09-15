@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+    "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
+    "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 18:49:45 GMT",
+    "source": "BBC News",
+    "id": "ae8420568d9d14b15487a5bc765840c4",
+    "fetched_at": "2026-09-15T20:42:51.460454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South African president vows justice as more women's bodies found near Johannesburg",
+    "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+    "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 18:01:51 GMT",
+    "source": "BBC News",
+    "id": "9518f49b1c1e487311a9bd85ad58e235",
+    "fetched_at": "2026-09-15T20:42:51.460451+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Carney bound for Europe as Ottawa seeks closer ties with EU",
+    "summary": "Carney is reportedly expected to use the trip to seek a new arrangement with the EU that could allow Canadians to live and work across the bloc without visa restrictions.",
+    "link": "https://www.euronews.com/2026/09/15/carney-bound-for-europe-as-ottawa-seeks-closer-ties-with-eu",
+    "published": "Tue, 15 Sep 2026 19:55:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "75a926b07a36a9265094229db8fcfb2b",
+    "fetched_at": "2026-09-15T20:42:51.460448+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia stages early voting in occupied Ukraine ahead of national election",
+    "summary": "Russia has begun early voting in its parliamentary elections in Russian-controlled areas of Ukraine’s Donetsk region, with armed personnel accompanying election officials and voters.",
+    "link": "https://www.euronews.com/video/2026/09/15/russia-stages-early-voting-in-occupied-ukraine-ahead-of-national-election",
+    "published": "Tue, 15 Sep 2026 21:38:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "66ba814ea129365e160845a875c37794",
+    "fetched_at": "2026-09-15T20:42:51.460445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Record heatwaves in France set to make champagne stronger",
+    "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 12 Sep 2026 13:00:32 GMT",
+    "source": "BBC News",
+    "id": "039a9d9f444d980e7458a905490521e3",
+    "fetched_at": "2026-09-15T20:42:51.460440+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+    "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 19:34:36 GMT",
+    "source": "BBC News",
+    "id": "2814b24911244728c54394e7ea5dfba5",
+    "fetched_at": "2026-09-15T20:42:51.460414+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+    "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+    "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 02:41:51 GMT",
+    "source": "BBC News",
+    "id": "364276b5292e1d73ec9558d6682b5635",
+    "fetched_at": "2026-09-15T20:42:50.300123+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+    "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 08:36:09 GMT",
+    "source": "BBC News",
+    "id": "61fd65d55c5f6142e71e9d5834715ba3",
+    "fetched_at": "2026-09-15T20:42:49.155580+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
+    "summary": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
+    "link": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+    "published": "Sun, 13 Sep 2026 18:52:42 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9c66aff5b9cecca5f25f38d52350260c",
+    "fetched_at": "2026-09-15T20:42:48.025116+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK breakup push escalates amid historic pact after Trump backs reunification of Ireland",
+    "summary": "Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster&apos;s time is coming to an end.",
+    "link": "https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland",
+    "published": "Mon, 14 Sep 2026 20:41:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f7b684291c9117475469f0cdd5830bdb",
+    "fetched_at": "2026-09-15T20:42:46.880779+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State of U.S. democracy reaches new low, report finds",
+    "summary": "A new global democracy report finds the U.S. at its lowest level of democratic performance in the 50 years it has been measured.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
+    "published": "Tue, 15 Sep 2026 14:57:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "b2937eff4e54d9de452e6c3ca2708583",
+    "fetched_at": "2026-09-15T20:42:45.743115+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+    "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
+    "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 17:35:02 GMT",
+    "source": "BBC News",
+    "id": "2ae8387fca026a8cc3ad63bb8c275707",
+    "fetched_at": "2026-09-15T20:42:44.596660+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
+    "summary": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 20:37:41 GMT",
+    "source": "BBC News",
+    "id": "e86c9293c05b9c213142d3c422c59149",
+    "fetched_at": "2026-09-15T20:42:43.452275+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "British woman abducted in Malawi, police say",
     "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
     "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "8ee7145abbbf50d2b4765865db2283e3",
     "fetched_at": "2026-09-15T07:01:36.788756+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-    "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 02:50:36 GMT",
-    "source": "BBC News",
-    "id": "8a7bc9b2fc05d8371b43b6f274a97bb4",
-    "fetched_at": "2026-09-15T07:01:36.788755+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-    "summary": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 22:56:44 GMT",
-    "source": "BBC News",
-    "id": "11bc47ca2644e06ae684cf2e63c88406",
-    "fetched_at": "2026-09-15T07:01:36.788753+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US confirms for first time it has deployed space weapons",
-    "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-    "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 01:52:02 GMT",
-    "source": "BBC News",
-    "id": "0551c44598584a90dcd7645d79621889",
-    "fetched_at": "2026-09-15T07:01:36.788752+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nato jets down drone that entered Lithuanian airspace",
-    "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 06:29:17 GMT",
-    "source": "BBC News",
-    "id": "33ca0cf59fc96c9ca88c3c6766c80a9f",
-    "fetched_at": "2026-09-15T07:01:36.788750+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-    "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 03:50:06 GMT",
-    "source": "BBC News",
-    "id": "e3e20930622133493956010c3feed012",
-    "fetched_at": "2026-09-15T07:01:36.788748+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-    "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-    "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 03:47:27 GMT",
-    "source": "BBC News",
-    "id": "252e888e13f3529ffea7f4755cd262a7",
-    "fetched_at": "2026-09-15T07:01:36.788746+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maduro ally Alex Saab expected to plead guilty in federal money laundering case",
-    "summary": "Charged with a single count of money laundering tied to an alleged conspiracy to create fake companies and falsify shipping records, Saab is scheduled to appear before Judge in Miami on Tuesday for a change of plea hearing, according to court records.",
-    "link": "https://www.euronews.com/2026/09/15/maduro-ally-alex-saab-expected-to-plead-guilty-in-federal-money-laundering-case",
-    "published": "Tue, 15 Sep 2026 06:27:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c66bc43120e9ed23b29229025ba0f4c9",
-    "fetched_at": "2026-09-15T07:01:36.788744+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 15th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-morning",
-    "published": "Tue, 15 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "491adb21b2bd26e9cf91613393a07cfe",
-    "fetched_at": "2026-09-15T07:01:36.788742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Supreme Court deals blow to Trump's attempts to restrict mail ballots ahead of midterm election",
-    "summary": "The decision allows states to continue sending out mail ballots under the same processes they’ve used for years and have accounted for nearly a third of votes cast.",
-    "link": "https://www.euronews.com/2026/09/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms",
-    "published": "Tue, 15 Sep 2026 07:31:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "07aace585ede5319a4e861af4c85abe2",
-    "fetched_at": "2026-09-15T07:01:36.788740+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "University students launch ‘student list’ to shake up Serbia’s elections",
-    "summary": "Serbia’s university students formally entered the election race on Monday, 14 September, challenging President Aleksandar Vučić and his ruling party ahead of the 25 October early parliamentary vote.",
-    "link": "https://www.euronews.com/video/2026/09/15/university-students-launch-student-list-to-shake-up-serbias-elections",
-    "published": "Tue, 15 Sep 2026 07:58:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f1dd591d832d8df0af9a6288578c269e",
-    "fetched_at": "2026-09-15T07:01:36.788738+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least two killed and tents destroyed in Israeli strikes on Gaza camps",
-    "summary": "At least two people were killed and several others injured in Israeli strikes across Gaza on Monday, 14 September, according to hospital and health officials.",
-    "link": "https://www.euronews.com/video/2026/09/15/at-least-two-killed-and-tents-destroyed-in-israeli-strikes-on-gaza-camps",
-    "published": "Tue, 15 Sep 2026 08:11:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "49903a918eedc5cacfabadd44f23ccf9",
-    "fetched_at": "2026-09-15T07:01:36.788735+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US military says it is facing a shortfall in ammunition as a result of Iran war",
-    "summary": "President Trump has continued to brush off the concerns, insisting the US has \"virtually unlimited\" stock just a few weeks ago.",
-    "link": "https://www.euronews.com/2026/09/15/us-military-says-it-is-facing-a-shortfall-in-ammunition-as-a-result-of-iran-war",
-    "published": "Tue, 15 Sep 2026 08:56:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "00fe0dd2061e14fbbcddd63c35d63dc5",
-    "fetched_at": "2026-09-15T07:01:36.788732+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man jailed after threatening to behead son's teacher in French village",
-    "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
-    "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 11 Sep 2026 06:28:42 GMT",
-    "source": "BBC News",
-    "id": "ac4353b8fb1960667931e2e087c5caf7",
-    "fetched_at": "2026-09-15T07:01:36.788729+00:00"
   }
 ]
