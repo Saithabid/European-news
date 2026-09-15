@@ -1,6 +1,276 @@
 [
   {
     "region": "Europe",
+    "title": "British woman abducted in Malawi, police say",
+    "summary": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 17:44:45 GMT",
+    "source": "BBC News",
+    "id": "9079eb23a184325aeaf0caf62778a7b9",
+    "fetched_at": "2026-09-15T17:51:26.753273+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+    "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 16:01:54 GMT",
+    "source": "BBC News",
+    "id": "4b080bb243a977033bef4cf3a3505dff",
+    "fetched_at": "2026-09-15T17:51:26.753271+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+    "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+    "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 16:13:41 GMT",
+    "source": "BBC News",
+    "id": "0899f277c8e4318d4f0d39ffb7372e9e",
+    "fetched_at": "2026-09-15T17:51:26.753269+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe’s fake pesticide crisis: inside a $20 billion illegal trade",
+    "summary": "In northern Greece, cut-price illegal pesticides smuggled in by organised crime networks are tempting cash-strapped farmers, despite mounting evidence of the risks to health and the environment.",
+    "link": "https://www.euronews.com/2026/09/15/europes-fake-pesticide-crisis-inside-a-20-billion-illegal-trade",
+    "published": "Tue, 15 Sep 2026 15:00:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "26f8b65b29c884f7d860d3b3f791e893",
+    "fetched_at": "2026-09-15T17:51:26.753267+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Azerbaijan offers F1 fans visas on arrival for Baku Grand Prix",
+    "summary": "Baku has implemented a simplified visa entry procedure for international visitors planning to attend the Formula 1 Azerbaijan Grand Prix. From 25 August to 30 September, eligible travellers can obtain a visa on arrival at the country’s international airports.",
+    "link": "https://www.euronews.com/2026/09/15/azerbaijan-simplifies-visa-processing-ahead-of-formula-1-grand-prix-race",
+    "published": "Tue, 15 Sep 2026 15:36:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9c231321bba4835b00cce18f2a610154",
+    "fetched_at": "2026-09-15T17:51:26.753265+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Romanian farmers clash with police in Bucharest over EU livestock ban",
+    "summary": "Romanian farmers clashed with security forces in Bucharest on Tuesday, 15 September, as an agricultural protest outside the government headquarters descended into disorder.",
+    "link": "https://www.euronews.com/video/2026/09/15/romanian-farmers-clash-with-police-in-bucharest-over-eu-livestock-ban",
+    "published": "Tue, 15 Sep 2026 15:51:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7fcc5bedf7ebe803aa72e8b36dae983d",
+    "fetched_at": "2026-09-15T17:51:26.753263+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Losing access to Bab el-Mandeb would be 'catastrophic for the entire world,' Qatar warns",
+    "summary": "The Houthi Red Sea coast offensive has placed another vital shipping route at risk as the Hormuz blockade disrupts trade and energy supplies. Qatar said closing the Red Sea gateway would worsen the crisis and has called for a diplomatic solution.",
+    "link": "https://www.euronews.com/2026/09/15/losing-access-to-bab-el-mandeb-would-be-catastrophic-for-the-entire-world-qatar-warns",
+    "published": "Tue, 15 Sep 2026 16:00:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "04d46d7479e2dc80b8a60b51e9f0e191",
+    "fetched_at": "2026-09-15T17:51:26.753261+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump blasts Supreme Court over mail-in ballot ruling",
+    "summary": "Trump had sought to limit mail-in voting ahead of November's key midterm elections, which will determine the makeup of Congress for his final two years in office.",
+    "link": "https://www.euronews.com/2026/09/15/trump-blasts-supreme-court-over-mail-in-ballot-ruling",
+    "published": "Tue, 15 Sep 2026 17:38:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fd58bf47c6da4c8898c08a7858a67274",
+    "fetched_at": "2026-09-15T17:51:26.753259+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 15th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-evening",
+    "published": "Tue, 15 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dc2a32982a74b8fe8fadf2560f4a1893",
+    "fetched_at": "2026-09-15T17:51:26.753257+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 150 pro-LGBTQ protesters detained in Istanbul crackdown",
+    "summary": "Turkish police detained at least 150 pro-LGBTQ protesters in Istanbul on Tuesday, 15 September, during a demonstration against a nationwide crackdown on the LGBTQ community.",
+    "link": "https://www.euronews.com/video/2026/09/15/at-least-150-pro-lgbtq-protesters-detained-in-istanbul-crackdown",
+    "published": "Tue, 15 Sep 2026 18:05:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b1212f41a1f3eaf525aec027db1ff175",
+    "fetched_at": "2026-09-15T17:51:26.753254+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two years after COP29, Azerbaijan turns climate commitments into investment",
+    "summary": "The country has committed €540 million to climate-resilient irrigation and launched an AI-based farmer-scoring system, developed with the FAO, to channel subsidies to smallholders who adopt water-saving and soil-regenerating techniques.",
+    "link": "https://www.euronews.com/2026/09/15/two-years-after-cop29-azerbaijan-turns-climate-commitments-into-investment",
+    "published": "Tue, 15 Sep 2026 18:10:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9573ede521e5b83da38fa935b0a3fca9",
+    "fetched_at": "2026-09-15T17:51:26.753252+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Canada still a crucial partner for US in 'many key areas,' PM Carney says",
+    "summary": "Carney made the comments at a two-day Investment Summit in Toronto as Canada seeks to diversify and bring new investment into the country.",
+    "link": "https://www.euronews.com/2026/09/15/canada-still-a-crucial-partner-for-us-in-many-key-areas-pm-carney-says",
+    "published": "Tue, 15 Sep 2026 18:48:24 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c4a0c5554ec11934554623aa64e9ad2f",
+    "fetched_at": "2026-09-15T17:51:26.753250+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+    "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+    "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 14:25:56 GMT",
+    "source": "BBC News",
+    "id": "d6a7dca611e621c6e11fc88f03737d36",
+    "fetched_at": "2026-09-15T17:51:26.753248+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ash from Mount Etna grounds flights at Sicily airport",
+    "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 14:35:04 GMT",
+    "source": "BBC News",
+    "id": "8d9bc3d12cbb57742bb9ff33f9541431",
+    "fetched_at": "2026-09-15T17:51:26.753246+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sweden votes as migration, crime and economy dominate high-stakes election",
+    "summary": "Gun violence, asylum policy and welfare reform dominate Sweden&apos;s election as Ulf Kristersson&apos;s coalition battles Magdalena Andersson&apos;s Social Democrats.",
+    "link": "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election",
+    "published": "Sun, 13 Sep 2026 06:00:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f84b7e08c066e1fd5099aaf664d817bc",
+    "fetched_at": "2026-09-15T17:51:26.753243+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could Africa be the next AI frontier as US and Europe hit limits?",
+    "summary": "U.S. companies are winning massive data center and AI deals across Africa, including a $6.2 billion project in Lesotho for hydropower and computing.",
+    "link": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
+    "published": "Sun, 13 Sep 2026 07:00:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b8f71066c28e5c2e079e22aee60528a1",
+    "fetched_at": "2026-09-15T17:51:26.753240+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
+    "summary": "The Houthis&apos; advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
+    "link": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
+    "published": "Mon, 14 Sep 2026 13:52:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "808cfbdba795e03051abfec4438a32ad",
+    "fetched_at": "2026-09-15T17:51:26.753238+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
+    "summary": "Russia plans to test a new 800-km ballistic missile by year&apos;s end, with an analyst warning its advanced maneuverability could strain Ukraine air defense.",
+    "link": "https://www.foxnews.com/world/russia-readies-new-500-mile-missile-weapon-expert-warns-terminal-end-game-surprises",
+    "published": "Mon, 14 Sep 2026 16:04:39 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "45dcd4c3c0f9da517d6575a4ebdaa6bc",
+    "fetched_at": "2026-09-15T17:51:26.753235+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
+    "summary": "Two Italian Eurofighter Typhoons scrambled under NATO command and downed a drone over Lithuania that officials say likely came from Belarus.",
+    "link": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says",
+    "published": "Tue, 15 Sep 2026 08:56:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4b0f3ec915129c8bf642028b3a5a6df3",
+    "fetched_at": "2026-09-15T17:51:26.753231+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe’s left courts Muslim voters as anti-Israel politics reshape continent",
+    "summary": "Europe’s far left is finding common ground with Islamist-linked networks on anti-Israel politics, creating a growing challenge for Jewish communities and voters.",
+    "link": "https://www.foxnews.com/world/europes-left-courts-muslim-voters-anti-israel-politics-reshape-continent",
+    "published": "Tue, 15 Sep 2026 10:08:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "73f7e54923fbca7900b91ee116009d88",
+    "fetched_at": "2026-09-15T17:51:26.753208+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's regime came for teenage twins. Their fate offers a glimpse of Tehran's widening death campaign",
+    "summary": "Iranian twins Taraneh and Romina Rahimi face execution and decades in prison after joining protests, as Iran&apos;s death penalty surge draws global alarm.",
+    "link": "https://www.foxnews.com/world/irans-regime-came-teenage-twins-fate-offers-glimpse-tehrans-widening-death-campaign",
+    "published": "Tue, 15 Sep 2026 11:17:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "36e4147e9bfec466272754f9eb2a31ce",
+    "fetched_at": "2026-09-15T17:51:25.607230+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+    "summary": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the West Bank of Palestinians.",
+    "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+    "published": "Mon, 14 Sep 2026 16:34:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "c57f71befecb1f034807eefff6432fb6",
+    "fetched_at": "2026-09-15T17:51:24.446603+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anthropic co-founder says slowing AI is a 'collective action problem'",
+    "summary": "Anthropic co-founder Jack Clark discusses growing concerns about artificial intelligence, recent warning signs and what he says companies should do to reduce the risks.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
+    "published": "Tue, 15 Sep 2026 04:45:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "5d9aa36efb68d88f9b296af9c4c651e5",
+    "fetched_at": "2026-09-15T17:51:23.291568+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada is a 'safe harbour' for global finance, Carney says",
+    "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 13:43:01 GMT",
+    "source": "BBC News",
+    "id": "d00d90b5c33a781e9a41bd083908bdd5",
+    "fetched_at": "2026-09-15T17:51:22.119296+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What weapon could the US have put into space?",
+    "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 14:23:14 GMT",
+    "source": "BBC News",
+    "id": "531569b057c2c9bebc9e1f349c2b6ea2",
+    "fetched_at": "2026-09-15T17:51:20.950046+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nick Reiner will not face death penalty if convicted of killing parents, prosecutors say",
+    "summary": "Nick Reiner is accused of murdering his parents, Hollywood director Rob Reiner and his wife Michele Reiner.",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxz18wlg4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 16:29:10 GMT",
+    "source": "BBC News",
+    "id": "c40ab5c8864063943bf232c7f407e327",
+    "fetched_at": "2026-09-15T17:51:19.760998+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+    "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 15:31:34 GMT",
+    "source": "BBC News",
+    "id": "594d7e19531b3d7b3e398509a3cec8a4",
+    "fetched_at": "2026-09-15T17:51:18.571417+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Iran's new ayatollah is a Nolan fan interested in start-ups, in-laws say",
     "summary": "Six months after succeeding his father, Mojtaba Khamenei has made no public appearances, yet his late wife's family has described him to state-affiliated outlets as a film buff familiar with Christopher Nolan, interested in start-ups and cognitive science, and diligent about learning English.",
     "link": "https://www.euronews.com/2026/09/15/irans-new-ayatollah-is-a-nolan-fan-interested-in-start-ups-family-says",
@@ -328,275 +598,5 @@
     "source": "BBC News",
     "id": "ac4353b8fb1960667931e2e087c5caf7",
     "fetched_at": "2026-09-15T07:01:36.788729+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French officials investigate if malicious act caused train derailment",
-    "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-    "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 15:05:53 GMT",
-    "source": "BBC News",
-    "id": "e23274bda621101fd919207ca68eb4a8",
-    "fetched_at": "2026-09-15T07:01:36.788726+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK breakup push escalates amid historic pact after Trump backs reunification of Ireland",
-    "summary": "Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster&apos;s time is coming to an end.",
-    "link": "https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland",
-    "published": "Mon, 14 Sep 2026 20:41:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f7b684291c9117475469f0cdd5830bdb",
-    "fetched_at": "2026-09-15T07:01:36.788694+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-    "summary": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-    "published": "Mon, 14 Sep 2026 02:20:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "ce49b5e6cd4a7d7d7a33fc8806f1f474",
-    "fetched_at": "2026-09-15T07:01:35.667632+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Morning news brief",
-    "summary": "Industry leaders call for AI development to slow down to ensure safety, Trump to campaign for GOP candidates ahead of midterms, Iranian officials say a meeting with the Gulf States has been postponed.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief",
-    "published": "Mon, 14 Sep 2026 04:44:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "4c9f48de3b8c667bb5f8a5563932d4ab",
-    "fetched_at": "2026-09-15T07:01:34.544795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney eyes 'unique alliance' with EU as trade war with US intensifies",
-    "summary": "While Carney has ruled out EU membership, the Canadian leader says he wants to pursue a \"unique alliance\" with Brussels.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jq50eew0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 04:02:26 GMT",
-    "source": "BBC News",
-    "id": "f776e4824204f510297c5f93f0d9339f",
-    "fetched_at": "2026-09-15T07:01:33.431489+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How to watch the 2026 Emmys and why Heated Rivalry is missing",
-    "summary": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
-    "link": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 20:34:35 GMT",
-    "source": "BBC News",
-    "id": "77e14b28f6aa6999cd71ddfc0a8caac8",
-    "fetched_at": "2026-09-15T07:01:32.305086+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amazon pauses work with cargo firm after fatal crash",
-    "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 02:40:06 GMT",
-    "source": "BBC News",
-    "id": "7d22f34710ae106f615062f67e0f2a92",
-    "fetched_at": "2026-09-15T07:01:31.164975+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US aviator shot down over Iran recalls 'free-falling' before his dangerous rescue",
-    "summary": "The April rescue operation to recover the downed aircrew saw the first US boots on the ground in Iran in 46 years, American officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 01:00:30 GMT",
-    "source": "BBC News",
-    "id": "4843ad9cf0453ccd7e622acfa615b72b",
-    "fetched_at": "2026-09-15T07:01:30.023755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney gambles on the world's biggest investors betting on Canada",
-    "summary": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-    "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 19:29:12 GMT",
-    "source": "BBC News",
-    "id": "da2242dfe4310420e23c8785f7156c8b",
-    "fetched_at": "2026-09-15T07:01:28.878248+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "United States Space Force says US has weapons in orbit",
-    "summary": "Once a hunting ground for Cold War bragging rights, space has now evolved into a key strategic arena, as states jostle for a military and technological edge.",
-    "link": "https://www.euronews.com/2026/09/14/united-states-space-force-says-us-has-weapons-in-orbit",
-    "published": "Mon, 14 Sep 2026 23:46:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ac62c7e97f7d65cfa91242f802125117",
-    "fetched_at": "2026-09-15T00:06:54.771731+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Record heatwaves in France set to make champagne stronger",
-    "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 13:00:32 GMT",
-    "source": "BBC News",
-    "id": "039a9d9f444d980e7458a905490521e3",
-    "fetched_at": "2026-09-15T00:06:54.771728+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-    "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 19:34:36 GMT",
-    "source": "BBC News",
-    "id": "2814b24911244728c54394e7ea5dfba5",
-    "fetched_at": "2026-09-15T00:06:54.771726+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-    "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 08:36:09 GMT",
-    "source": "BBC News",
-    "id": "61fd65d55c5f6142e71e9d5834715ba3",
-    "fetched_at": "2026-09-15T00:06:54.771723+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 12:18:13 GMT",
-    "source": "BBC News",
-    "id": "46439adee5b6483bdc4412d61baa0650",
-    "fetched_at": "2026-09-15T00:06:54.771694+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed terror group’s latest territorial grab threatens second global shipping chokepoint",
-    "summary": "Iran-backed Houthi forces seized Yemen&apos;s Mocha port and advanced toward Bab el-Mandeb, threatening Red Sea shipping as Brent crude surged past $106.",
-    "link": "https://www.foxnews.com/world/iran-backed-terror-groups-latest-territorial-grab-threatens-second-global-shipping-chokepoint",
-    "published": "Thu, 10 Sep 2026 15:03:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "71d94df11ed8e9c4c7031459df075fb1",
-    "fetched_at": "2026-09-15T00:06:53.670394+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "America built a fortress after 9/11. Then the threat started hiding in plain sight",
-    "summary": "Twenty-five years after 9/11, lone actors radicalized online have replaced al Qaeda&apos;s complex plots as the greatest terrorism threat to the homeland.",
-    "link": "https://www.foxnews.com/world/america-built-fortress-after-9-11-threat-started-hiding-plain-sight",
-    "published": "Fri, 11 Sep 2026 13:04:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1feb479e99bc1557f6829aac63f73900",
-    "fetched_at": "2026-09-15T00:06:52.575652+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Saudi Arabia tells Trump now is the time for military action as Iran-backed Houthis advance",
-    "summary": "Houthi forces seized Perim island and key positions along Yemen&apos;s Bab al-Mandab Strait as Saudi Arabia urged Trump to take direct military action.",
-    "link": "https://www.foxnews.com/world/saudi-arabia-tells-trump-time-military-action-iran-backed-houthis-advance",
-    "published": "Fri, 11 Sep 2026 13:08:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0808b9d3089945d53087851b862401ad",
-    "fetched_at": "2026-09-15T00:06:51.482667+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
-    "summary": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
-    "link": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
-    "published": "Sun, 13 Sep 2026 18:52:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9c66aff5b9cecca5f25f38d52350260c",
-    "fetched_at": "2026-09-15T00:06:50.377417+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
-    "summary": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the talks were postponed.",
-    "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
-    "published": "Sun, 13 Sep 2026 17:03:12 -0400",
-    "source": "NPR Topics: World",
-    "id": "67bd9ff79738598038061f309c3bceca",
-    "fetched_at": "2026-09-15T00:06:49.267165+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-    "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
-    "link": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
-    "published": "Sun, 13 Sep 2026 17:03:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "84cca57882746693386d1242c9f461cc",
-    "fetched_at": "2026-09-15T00:06:48.151166+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Legendary costume designer Bob Mackie dies aged 87",
-    "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-    "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 21:29:12 GMT",
-    "source": "BBC News",
-    "id": "cd3f9f8f8c0719c92419520ab71bcb66",
-    "fetched_at": "2026-09-15T00:06:47.037742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Africa's richest man launches continent's biggest share sale",
-    "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-    "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 16:23:42 GMT",
-    "source": "BBC News",
-    "id": "6c66aa82ef9fc250778068f46c47ce13",
-    "fetched_at": "2026-09-14T21:14:40.008334+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 14th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/14/latest-news-bulletin-september-14th-2026-evening",
-    "published": "Mon, 14 Sep 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6f1c63fedb86255678e1af9ecce44875",
-    "fetched_at": "2026-09-14T21:14:40.008332+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope Leo XIV unveils giant wave for new water exhibition at Vatican Library",
-    "summary": "A giant wave now covers part of the Vatican Apostolic Library’s historic façade as the Vatican opens a new exhibition exploring the power of water.",
-    "link": "https://www.euronews.com/video/2026/09/14/pope-leo-xiv-unveils-giant-wave-for-new-water-exhibition-at-vatican-library",
-    "published": "Mon, 14 Sep 2026 18:30:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d0d938e4dbd50ee4ed801d30220273bf",
-    "fetched_at": "2026-09-14T21:14:40.008329+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says Ukraine and Russia agree to halt strikes on energy targets",
-    "summary": "Trump's announcement comes after he called on Ukraine to halt its attacks on Russian diesel infrastructure during a trip to Ireland over the weekend.",
-    "link": "https://www.euronews.com/2026/09/14/trump-says-ukraine-and-russia-agree-to-halt-strikes-on-energy-targets",
-    "published": "Mon, 14 Sep 2026 18:32:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c418319f54eb7fac187ea6effcf6ba60",
-    "fetched_at": "2026-09-14T21:14:40.008327+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish Airlines drops Luanda as Angola's new airport struggles",
-    "summary": "The Istanbul carrier permanently axed Luanda, along with four other African routes, becoming the latest international airline to exit the Angolan capital since its new airport opened in 2023. The facility was built for 15 million annual passengers but handled fewer than 800,000 in 2025.",
-    "link": "https://www.euronews.com/2026/09/14/turkish-airlines-drops-luanda-as-angolas-new-airport-struggles",
-    "published": "Mon, 14 Sep 2026 20:44:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d2e1cb3b4bd31ce4b494102b303c783c",
-    "fetched_at": "2026-09-14T21:14:40.008324+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-    "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-    "link": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 02:41:51 GMT",
-    "source": "BBC News",
-    "id": "364276b5292e1d73ec9558d6682b5635",
-    "fetched_at": "2026-09-14T21:14:40.008322+00:00"
   }
 ]
