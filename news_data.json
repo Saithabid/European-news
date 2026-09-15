@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "US to divert $52 million in military aid from Europe and Middle East to Trump-friendly nations in Americas",
+    "summary": "It comes after US Secretary of State Marco Rubio made a trip to South America last week, where he met with the conservative leaders of Peru, Colombia and Ecuador to pledge further support and cooperation.",
+    "link": "https://www.euronews.com/2026/09/15/us-to-divert-52-million-in-military-aid-from-europe-and-middle-east-to-trump-friendly-nati",
+    "published": "Tue, 15 Sep 2026 23:07:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "308ed868f6d3944eac305d7316521bf9",
+    "fetched_at": "2026-09-15T23:52:53.897636+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Nato jets down drone that entered Lithuanian airspace",
+    "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 09:07:35 GMT",
+    "source": "BBC News",
+    "id": "33ca0cf59fc96c9ca88c3c6766c80a9f",
+    "fetched_at": "2026-09-15T23:52:52.796398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
+    "summary": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convince citizens to put it into the mainstream financial system to help the economy.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
+    "published": "Tue, 15 Sep 2026 18:26:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "ea576d81ad516c61c131a9da627fe306",
+    "fetched_at": "2026-09-15T23:52:51.698832+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pennsylvania officials report fourth measles-associated death in 'surge' of cases",
+    "summary": "The US has this year experienced the highest number of deaths from the virus since the 1990s.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxz31pdn46o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 20:47:35 GMT",
+    "source": "BBC News",
+    "id": "7291d48ec4c6413fda811ea34330bb52",
+    "fetched_at": "2026-09-15T23:52:50.594139+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What the munitions shortage means for the US",
+    "summary": "The BBC's Gary O'Donoghue looks at how Operation Epic Fury is impacting ammunitions, and what it could mean for US military readiness.",
+    "link": "https://www.bbc.co.uk/news/videos/cmx2zw7dn1epo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 20:25:24 GMT",
+    "source": "BBC News",
+    "id": "bcdc996e877b7d3d719bdafbda0b84ec",
+    "fetched_at": "2026-09-15T23:52:49.485115+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
+    "summary": "Alex Saab, a former aide to the ex-Venezuelan president, agrees to \"co-operate fully\" with US prosecutors.",
+    "link": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 23:33:19 GMT",
+    "source": "BBC News",
+    "id": "200d3f50e5a61cfe52cc400f6cef78d1",
+    "fetched_at": "2026-09-15T23:52:48.377899+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is Donald Trump so opposed to regulating AI?",
+    "summary": "The BBC's North America editor Sarah Smith looks at why the US president is contradicting AI leaders, who are calling for the technology's development to be slowed down.",
+    "link": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 20:35:00 GMT",
+    "source": "BBC News",
+    "id": "2c593e805533805f1fe1324763c7a592",
+    "fetched_at": "2026-09-15T23:52:47.259126+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
     "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
     "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "87382bc520f4e31a7d07e813fd39d345",
     "fetched_at": "2026-09-15T13:01:36.879404+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO jets shoot down a drone in Lithuanian airspace",
-    "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
-    "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-    "published": "Tue, 15 Sep 2026 05:06:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "763266f3a39f1613e2e1d44cb60111ba",
-    "fetched_at": "2026-09-15T13:01:35.737893+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-    "summary": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
-    "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-    "published": "Tue, 15 Sep 2026 06:26:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "93cd110949634213c50783b28afa4ef7",
-    "fetched_at": "2026-09-15T13:01:34.581432+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
-    "summary": "In the face of soaring diesel prices, President Trump claims Ukraine and Russia have agreed to halt strikes on each other's energy sites.",
-    "link": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
-    "published": "Tue, 15 Sep 2026 06:42:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "e799c16d43f4190f5bb5d2a3ce8ffcfa",
-    "fetched_at": "2026-09-15T13:01:33.422258+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-    "summary": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.",
-    "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
-    "published": "Tue, 15 Sep 2026 07:35:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "e56a74bf51a856278c41a99dfaf674bd",
-    "fetched_at": "2026-09-15T13:01:32.289118+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Superstars and broken records: 2026 Emmy highlights",
-    "summary": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
-    "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 05:14:24 GMT",
-    "source": "BBC News",
-    "id": "09114e73634ea5e0d26edf1f0c338085",
-    "fetched_at": "2026-09-15T13:01:31.109544+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-    "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
-    "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 14 Sep 2026 21:58:41 GMT",
-    "source": "BBC News",
-    "id": "38df797ae450a7ec4813da4fc3ee22e9",
-    "fetched_at": "2026-09-15T13:01:29.963272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-    "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 01:15:15 GMT",
-    "source": "BBC News",
-    "id": "8ee7145abbbf50d2b4765865db2283e3",
-    "fetched_at": "2026-09-15T07:01:36.788756+00:00"
   }
 ]
