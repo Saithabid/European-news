@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+    "summary": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
+    "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 15:48:50 GMT",
+    "source": "BBC News",
+    "id": "5945647a6271e3808fb3f392571ba751",
+    "fetched_at": "2026-09-16T22:31:26.930030+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 10:02:05 GMT",
+    "source": "BBC News",
+    "id": "4d526c970d5899bda24669037a02943c",
+    "fetched_at": "2026-09-16T22:31:26.930028+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US House votes for a third time to end the Iran war as conflict drags on",
+    "summary": "For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt President Donald Trump’s ability to continue military action without congressional approval.",
+    "link": "https://www.euronews.com/2026/09/16/us-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on",
+    "published": "Wed, 16 Sep 2026 22:20:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3f8659579394beb4353625a2c23d8a9d",
+    "fetched_at": "2026-09-16T22:31:26.930025+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Azerbaijan insists it will preserve Christian heritage as part of its history",
+    "summary": "In a Euronews Forum panel in Dubai, Azerbaijan’s presidential advisor Hikmet Hajiyev said peace with Armenia is “an uphill struggle,” but Azerbaijan is committed to preserving the Christian heritage on its territory as it is part of its history.",
+    "link": "https://www.euronews.com/2026/09/16/azerbaijan-insists-it-will-preserve-christian-heritage-as-part-of-its-history",
+    "published": "Wed, 16 Sep 2026 23:18:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "25352c03aa10eb51644d4a3206ef33bf",
+    "fetched_at": "2026-09-16T22:31:26.930022+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+    "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+    "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 05:01:46 GMT",
+    "source": "BBC News",
+    "id": "956b8429353a144e7249b7515f44e0e6",
+    "fetched_at": "2026-09-16T22:31:26.930019+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 16:55:04 GMT",
+    "source": "BBC News",
+    "id": "d6ceac9690dad2c70e170b35c502cc11",
+    "fetched_at": "2026-09-16T22:31:26.930016+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
+    "summary": "The arrests are an escalation in the Turkish government's campaign targeting LGBTQ+ community and activists.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 22:26:05 GMT",
+    "source": "BBC News",
+    "id": "0d02208eef6907778d69337f24251099",
+    "fetched_at": "2026-09-16T22:31:26.930012+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
+    "summary": "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel.",
+    "link": "https://www.foxnews.com/world/irans-drone-hunt-escalates-tehran-targets-us-spy-tech-expose-battlefield-secrets",
+    "published": "Tue, 15 Sep 2026 20:56:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "644b07d697ce72a902b9e0d0de7e56be",
+    "fetched_at": "2026-09-16T22:31:26.929987+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US-backed Israel-Morocco deal deepens Abraham Accords amid growing regional threats",
+    "summary": "Israel and Morocco will upgrade to full embassies and exchange ambassadors in a major Abraham Accords milestone nearly six years in the making.",
+    "link": "https://www.foxnews.com/world/us-backed-agreement-deepens-ties-officials-address-saudi-arabia-growing-houthi-threat-global-shipping",
+    "published": "Wed, 16 Sep 2026 17:39:41 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d2c2ea9954ef74a3d55000548e2d29ff",
+    "fetched_at": "2026-09-16T22:31:25.667527+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+    "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
+    "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+    "published": "Tue, 15 Sep 2026 20:55:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "4eb9bd87268d85f4441cc0e196a2d297",
+    "fetched_at": "2026-09-16T22:31:24.422901+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+    "summary": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the U.S.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+    "published": "Wed, 16 Sep 2026 16:08:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "db2510f8872c8fb3d5061b3d9f655060",
+    "fetched_at": "2026-09-16T22:31:23.289214+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney's new love-in with EU has everything to do with Trump",
+    "summary": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
+    "link": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 11:08:01 GMT",
+    "source": "BBC News",
+    "id": "b6db8cb6e52f6d7bf8a74ec0a9152a2e",
+    "fetched_at": "2026-09-16T22:31:22.161997+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+    "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+    "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 19:59:57 GMT",
+    "source": "BBC News",
+    "id": "f5ae2bb116594c80b9c5110105b75407",
+    "fetched_at": "2026-09-16T22:31:21.030449+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
+    "summary": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 19:12:48 GMT",
+    "source": "BBC News",
+    "id": "4ef1d42b36d7de596568f0f0fe267c0c",
+    "fetched_at": "2026-09-16T22:31:19.891045+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US interest rates raised for first time in three years",
+    "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 22:16:51 GMT",
+    "source": "BBC News",
+    "id": "e829900b0d14c272351d6ece75ffefe9",
+    "fetched_at": "2026-09-16T22:31:18.769917+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
     "summary": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
     "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "NPR Topics: World",
     "id": "74c5ff43412894b5eba604f8a7417175",
     "fetched_at": "2026-09-16T14:29:54.087851+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-    "summary": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center.",
-    "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-    "published": "Wed, 16 Sep 2026 07:19:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "ab2d42d77ad1fcd452deea07334c341c",
-    "fetched_at": "2026-09-16T14:29:52.999979+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-    "summary": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia.",
-    "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-    "published": "Wed, 16 Sep 2026 09:33:53 -0400",
-    "source": "NPR Topics: World",
-    "id": "d7fd08ae6fde1adcc90d1541f55d69da",
-    "fetched_at": "2026-09-16T14:29:51.897369+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-    "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-    "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 20:34:12 GMT",
-    "source": "BBC News",
-    "id": "594d7e19531b3d7b3e398509a3cec8a4",
-    "fetched_at": "2026-09-16T14:29:50.794907+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Five takeaways from Canada's push to woo the world's richest investors",
-    "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 22:46:20 GMT",
-    "source": "BBC News",
-    "id": "d00d90b5c33a781e9a41bd083908bdd5",
-    "fetched_at": "2026-09-16T14:29:49.682769+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Trump is all-in on AI despite the warnings",
-    "summary": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-    "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 08:41:44 GMT",
-    "source": "BBC News",
-    "id": "93aee5512a0e68894404920711fd62c7",
-    "fetched_at": "2026-09-16T14:29:48.550340+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-    "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-    "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 08:36:17 GMT",
-    "source": "BBC News",
-    "id": "b4c670c56aa622dc7a9303869818341f",
-    "fetched_at": "2026-09-16T08:58:33.377280+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-    "summary": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 02:40:51 GMT",
-    "source": "BBC News",
-    "id": "622a291b3665f4d0e6f9f13a6a579304",
-    "fetched_at": "2026-09-16T08:58:33.377279+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US limits visas for South African officials over alleged anti-white discrimination",
-    "summary": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-    "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 06:12:04 GMT",
-    "source": "BBC News",
-    "id": "d802dc6e33e2f12f9566e1a93ac2d126",
-    "fetched_at": "2026-09-16T08:58:33.377277+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
-    "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 07:00:58 GMT",
-    "source": "BBC News",
-    "id": "238f4dd5567df5e8b80d4b982136997c",
-    "fetched_at": "2026-09-16T08:58:33.377275+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 12 killed after war-damaged Gaza building collapses",
-    "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living.",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 07:58:22 GMT",
-    "source": "BBC News",
-    "id": "775eaf120d5ca49ca5d3732dfb4f0ff4",
-    "fetched_at": "2026-09-16T08:58:33.377273+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens to keep Kennedy Centre closed over name change row",
-    "summary": "Trump took control of the centre's board shortly after beginning his second term. A judge ruled that the president's name cannot be added without congressional approval.",
-    "link": "https://www.euronews.com/2026/09/16/kennedy-center-to-close-for-renovations-after-judge-blocks-returning-trumps-name-to-landma",
-    "published": "Wed, 16 Sep 2026 06:14:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "92db6cb873d53c6ac38ffa962394113e",
-    "fetched_at": "2026-09-16T08:58:33.377272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "NBC news helicopter crash kills at least three in Los Angeles while reporters covered car accident",
-    "summary": "The helicopter crashed near a storage building in the San Fernando Valley, as news crews were covering a car accident that left at least two dead and six others injured",
-    "link": "https://www.euronews.com/2026/09/16/helicopter-crash-kills-at-least-3-people-in-los-angeles",
-    "published": "Wed, 16 Sep 2026 06:22:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2bdda7928fb392cd4a2bd86e67f6160f",
-    "fetched_at": "2026-09-16T08:58:33.377270+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Maduro ally Alex Saab pleads guilty to money laundering in US court",
-    "summary": "As part of the plea agreement, Saab agreed to cooperate with ongoing federal investigations in the United States and to hand over 195 million dollars (some €168.9 million) derived from the corruption scheme.",
-    "link": "https://www.euronews.com/2026/09/16/maduro-ally-alex-saab-pleads-guilty-to-money-laundering-in-us-court",
-    "published": "Wed, 16 Sep 2026 06:46:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8eb3891cba2ce001ed8901c4cb65a280",
-    "fetched_at": "2026-09-16T08:58:33.377268+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 16th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-morning",
-    "published": "Wed, 16 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "218c59943f96b6bee01b617f70c4afad",
-    "fetched_at": "2026-09-16T08:58:33.377265+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Billions risk being locked out of the AI revolution due to smartphone costs",
-    "summary": "A new GSMA report finds that 3.4 billion people remain offline despite living within mobile broadband coverage, as rising component costs push smartphones further out of reach for the world's poorest.",
-    "link": "https://www.euronews.com/next/2026/09/16/billions-risk-being-locked-out-of-the-ai-revolution-due-to-smartphone-costs",
-    "published": "Wed, 16 Sep 2026 08:15:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9ac2f35bb0500dcfff22bf04c84af47e",
-    "fetched_at": "2026-09-16T08:58:33.377262+00:00"
   }
 ]
