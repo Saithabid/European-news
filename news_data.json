@@ -1,5 +1,95 @@
 [
   {
+    "region": "USA",
+    "title": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
+    "summary": "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel.",
+    "link": "https://www.foxnews.com/world/irans-drone-hunt-escalates-tehran-targets-us-spy-tech-expose-battlefield-secrets",
+    "published": "Tue, 15 Sep 2026 20:56:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "644b07d697ce72a902b9e0d0de7e56be",
+    "fetched_at": "2026-09-16T02:42:07.524963+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO jets shoot down a drone in Lithuanian airspace",
+    "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
+    "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+    "published": "Tue, 15 Sep 2026 05:06:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "763266f3a39f1613e2e1d44cb60111ba",
+    "fetched_at": "2026-09-16T02:42:07.524934+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+    "summary": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+    "published": "Tue, 15 Sep 2026 06:26:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "93cd110949634213c50783b28afa4ef7",
+    "fetched_at": "2026-09-16T02:42:06.403994+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Ukraine and Russia agreed to stop attacks on energy sites",
+    "summary": "In the face of soaring diesel prices, President Trump claims Ukraine and Russia have agreed to halt strikes on each other's energy sites.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites",
+    "published": "Tue, 15 Sep 2026 06:42:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "e799c16d43f4190f5bb5d2a3ce8ffcfa",
+    "fetched_at": "2026-09-16T02:42:05.299728+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+    "summary": "The Supreme Court has rejected Trump's mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon.",
+    "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+    "published": "Tue, 15 Sep 2026 07:35:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "e56a74bf51a856278c41a99dfaf674bd",
+    "fetched_at": "2026-09-16T02:42:04.119174+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+    "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
+    "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+    "published": "Tue, 15 Sep 2026 20:55:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "4eb9bd87268d85f4441cc0e196a2d297",
+    "fetched_at": "2026-09-16T02:42:02.990601+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+    "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 16:40:43 GMT",
+    "source": "BBC News",
+    "id": "8ee7145abbbf50d2b4765865db2283e3",
+    "fetched_at": "2026-09-16T02:42:01.854767+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Magazine that was 132 years overdue returned to US library",
+    "summary": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 01:15:57 GMT",
+    "source": "BBC News",
+    "id": "3d972110a6b4b98c98bf7d3bbee8a8e0",
+    "fetched_at": "2026-09-16T02:42:00.722085+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 00:59:20 GMT",
+    "source": "BBC News",
+    "id": "4d526c970d5899bda24669037a02943c",
+    "fetched_at": "2026-09-16T02:41:59.588077+00:00"
+  },
+  {
     "region": "Europe",
     "title": "US to divert $52 million in military aid from Europe and Middle East to Trump-friendly nations in Americas",
     "summary": "It comes after US Secretary of State Marco Rubio made a trip to South America last week, where he met with the conservative leaders of Peru, Colombia and Ecuador to pledge further support and cooperation.",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "ee0a9aa6231486a408619afd86d2819b",
     "fetched_at": "2026-09-15T13:01:38.011679+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Escalation is 'on the way' but region must keep calm, Syria's al-Sharaa tells Euronews",
-    "summary": "Answering Euronews' question at the Arab Media Summit in Dubai, Syria's president said he hoped the situation \"remains stable\" but admitted \"nobody can predict\" what happens next, while urging Arab countries to work together.",
-    "link": "https://www.euronews.com/2026/09/15/escalation-is-on-the-way-but-region-must-keep-calm-syrias-al-shaara-tells-euronews",
-    "published": "Tue, 15 Sep 2026 14:03:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4ba821344994f47fda09675a5f9ec8d3",
-    "fetched_at": "2026-09-15T13:01:38.011678+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-    "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
-    "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 05:01:46 GMT",
-    "source": "BBC News",
-    "id": "956b8429353a144e7249b7515f44e0e6",
-    "fetched_at": "2026-09-15T13:01:38.011676+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 12:32:30 GMT",
-    "source": "BBC News",
-    "id": "d6ceac9690dad2c70e170b35c502cc11",
-    "fetched_at": "2026-09-15T13:01:38.011674+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Denmark says Russian warship fired flares at military helicopter",
-    "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 11:40:00 GMT",
-    "source": "BBC News",
-    "id": "495d90dd5ecf7e562c6a16070204067b",
-    "fetched_at": "2026-09-15T13:01:38.011672+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indonesian passenger ship carrying 240 people loses contact in Java Sea, search underway",
-    "summary": "The Virgo Transport 8 vanished crossing the Java Sea with 240 people aboard en route from Surabaya to Banjarmasin, triggering an urgent search.",
-    "link": "https://www.foxnews.com/world/indonesian-passenger-ship-carrying-240-people-loses-contact-java-sea-search-underway",
-    "published": "Sat, 12 Sep 2026 23:55:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "67374fa12a9f5398927333e06b459b71",
-    "fetched_at": "2026-09-15T13:01:38.011670+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-    "summary": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
-    "published": "Mon, 14 Sep 2026 04:43:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "bce42933ed6ca4290bcd3650854790ae",
-    "fetched_at": "2026-09-15T13:01:38.011668+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-    "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
-    "published": "Mon, 14 Sep 2026 06:09:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "3c9b25b4ecaed39f9460355f8351c7f8",
-    "fetched_at": "2026-09-15T13:01:38.011666+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-    "summary": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
-    "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-    "published": "Mon, 14 Sep 2026 07:39:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "d3402c10b1fb784b981fa90528c07b21",
-    "fetched_at": "2026-09-15T13:01:38.011635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
-    "summary": "Theatre producer Francesca Moody has a remarkable record of spotting shows that go on to have wide success. At the Edinburgh Fringe festival, she told NPR about what she looks for in a performance.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
-    "published": "Mon, 14 Sep 2026 10:03:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "87382bc520f4e31a7d07e813fd39d345",
-    "fetched_at": "2026-09-15T13:01:36.879404+00:00"
   }
 ]
