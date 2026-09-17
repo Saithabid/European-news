@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "EU announces plan to restrict social media access for under-15s",
+    "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 10:00:14 GMT",
+    "source": "BBC News",
+    "id": "d15ae9fc16c275d49ccfca4ddafbf2e1",
+    "fetched_at": "2026-09-17T22:33:44.623723+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's regime came for teenage twins. Their fate offers a glimpse of Tehran's widening death campaign",
+    "summary": "Iranian twins Taraneh and Romina Rahimi face execution and decades in prison after joining protests, as Iran&apos;s death penalty surge draws global alarm.",
+    "link": "https://www.foxnews.com/world/irans-regime-came-teenage-twins-fate-offers-glimpse-tehrans-widening-death-campaign",
+    "published": "Tue, 15 Sep 2026 11:17:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "36e4147e9bfec466272754f9eb2a31ce",
+    "fetched_at": "2026-09-17T22:33:44.623721+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business",
+    "summary": "Critics say Norway&apos;s proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist.",
+    "link": "https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business",
+    "published": "Wed, 16 Sep 2026 06:00:19 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7892d73863fdbe59c0898f9a1ccc3588",
+    "fetched_at": "2026-09-17T22:33:44.623719+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump brings new heat to controversial UN agency as alleged Hamas ties engulf scores of employees",
+    "summary": "UN Watch says UNRWA completed at most 13 of 50 reforms, accusing the agency of counting draft policies and pilot programs as finished overhauls.",
+    "link": "https://www.foxnews.com/world/trump-brings-new-heat-controversial-un-agency-alleged-hamas-ties-engulf-scores-employees",
+    "published": "Wed, 16 Sep 2026 08:56:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0a498c5d497c29bb8b6a165cd6c20a29",
+    "fetched_at": "2026-09-17T22:33:44.623717+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Plane passengers scream in harrowing mid-flight video as violent shaking sends cabin ceiling panels flying",
+    "summary": "A Sepehran Airlines flight in Iran carrying 127 passengers and crew returned to the airport after a reported tire blowout and possible engine damage.",
+    "link": "https://www.foxnews.com/world/plane-passengers-scream-harrowing-mid-flight-video-violent-shaking-sends-cabin-ceiling-panels-flying",
+    "published": "Wed, 16 Sep 2026 22:10:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "76ddfa4fd2242fc533f7b47904aaa8ac",
+    "fetched_at": "2026-09-17T22:33:44.623716+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Erdogan's Turkey cracks down on LGBT community in name of preserving family values",
+    "summary": "Turkey reportedly arrested some 116 people and blocked 180 social media accounts in a sweeping crackdown on LGBT rights organizations across 15 provinces.",
+    "link": "https://www.foxnews.com/world/erdogans-turkey-cracks-down-lgbt-community-name-preserving-family-values",
+    "published": "Thu, 17 Sep 2026 15:25:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "22f288e714ca1bb8ff60bafced9e4bb9",
+    "fetched_at": "2026-09-17T22:33:44.623713+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada's Carney welcomes the EU's bid for closer ties amid pressure from Trump",
+    "summary": "Canadian Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become the bloc's first \"associate member,\" which rankled President Trump.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971428/with-invite-to-join-eu-bloc-canadas-prime-minister-speaks-to-european-parliament",
+    "published": "Thu, 17 Sep 2026 04:43:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "1e60bf5d28f6ef1d456ac77a033ed33e",
+    "fetched_at": "2026-09-17T22:33:44.623712+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How the fighting between the Houthis and Saudi Arabia is affecting gas prices",
+    "summary": "NPR's A Martinez speaks with oil markets expert Ellen R. Wald of the Atlantic Council about how the escalation in fighting between the Houthis and Saudi Arabia is affecting global oil and gas prices.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971210/how-the-fighting-between-the-houthis-and-saudi-arabia-is-affecting-gas-prices",
+    "published": "Thu, 17 Sep 2026 04:44:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "5804b4b1a8f4efef8f854e7d420d1e49",
+    "fetched_at": "2026-09-17T22:33:44.623709+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rising gas prices fuel protests in countries around the world",
+    "summary": "Protests over rising  fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971275/rising-gas-prices-fuel-protests-in-countries-around-the-world",
+    "published": "Thu, 17 Sep 2026 04:44:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "1ed01bb760fbbf6f71049084dbbfa556",
+    "fetched_at": "2026-09-17T22:33:44.623696+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+    "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+    "published": "Thu, 17 Sep 2026 15:33:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "3779b430a29c5bebd60dee6845e7ce11",
+    "fetched_at": "2026-09-17T22:33:43.481132+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Behind the overture from the European Union to Canada",
+    "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
+    "published": "Thu, 17 Sep 2026 16:24:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "af62b5f911dd71c8edba7ee776517d9c",
+    "fetched_at": "2026-09-17T22:33:42.357794+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lena Dunham announces birth of first baby via surrogacy",
+    "summary": "The writer and actress announced the birth of her daughter in an op-ed published by Vogue on Wednesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 00:55:10 GMT",
+    "source": "BBC News",
+    "id": "3a7701c1ad647f4692f99275fd214f20",
+    "fetched_at": "2026-09-17T22:33:41.213605+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash",
+    "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 10:19:04 GMT",
+    "source": "BBC News",
+    "id": "a7d15372101001ed8087a381a7cf1ad4",
+    "fetched_at": "2026-09-17T22:33:40.081871+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+    "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+    "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 05:00:18 GMT",
+    "source": "BBC News",
+    "id": "24cbe1da1b767d06f1afe9d0b7f1fa85",
+    "fetched_at": "2026-09-17T22:33:38.945840+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+    "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 21:41:19 GMT",
+    "source": "BBC News",
+    "id": "7d87b28338f409caefd1a5731e0e84af",
+    "fetched_at": "2026-09-17T22:33:37.793480+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why Canadians are ready for closer ties with Europe",
+    "summary": "People the BBC spoke to are excited by the prospect of working and studying in the EU, a suggestion Carney made this week.",
+    "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 19:59:54 GMT",
+    "source": "BBC News",
+    "id": "0f741eadb751b355b4d93eab17736fb5",
+    "fetched_at": "2026-09-17T22:33:36.648687+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Hyrox athlete apologises for continuing race after soiling herself",
     "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
     "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "NPR Topics: World",
     "id": "24c02b65cc9bf6ca4c6f6ee53b1837b5",
     "fetched_at": "2026-09-17T14:34:15.061193+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-    "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
-    "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-    "published": "Thu, 17 Sep 2026 06:54:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "5ae6e1355828b2549967ba3f89821d79",
-    "fetched_at": "2026-09-17T14:34:13.958795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-    "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-    "published": "Thu, 17 Sep 2026 08:33:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "f55bf40583b13d513b70aeff65f0118b",
-    "fetched_at": "2026-09-17T14:34:12.851389+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Beijing, where baozi are worth the wait in line",
-    "summary": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop,  chocolate and red beans.",
-    "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-    "published": "Thu, 17 Sep 2026 09:59:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "0945a0adb88be92a682b97e588a9198f",
-    "fetched_at": "2026-09-17T14:34:11.749580+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Photos show widespread damage at US sites from Iranian attacks",
-    "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 18:36:16 GMT",
-    "source": "BBC News",
-    "id": "c0f9e1e627915beb34c3b36d10e953f3",
-    "fetched_at": "2026-09-17T14:34:10.648530+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US blocks Palestinian leader from UN meeting in New York for second year in row",
-    "summary": "The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.",
-    "link": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 09:06:08 GMT",
-    "source": "BBC News",
-    "id": "f4e41703affcd8d57d7198b5b78a74d3",
-    "fetched_at": "2026-09-17T14:34:09.539162+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-    "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-    "source": "BBC News",
-    "id": "1f9107c6baf182b45eab41c6b0111063",
-    "fetched_at": "2026-09-17T14:34:08.435429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
-    "summary": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
-    "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 05:05:09 GMT",
-    "source": "BBC News",
-    "id": "a81df6e2c8d509098612a795dcf3dc92",
-    "fetched_at": "2026-09-17T09:04:06.231765+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Abducted South African journalist found dead with gunshot wounds",
-    "summary": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
-    "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 06:46:31 GMT",
-    "source": "BBC News",
-    "id": "f4016392629e86e1cfa9b968f89496c0",
-    "fetched_at": "2026-09-17T09:04:06.231763+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-    "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-    "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 05:00:36 GMT",
-    "source": "BBC News",
-    "id": "e8ff9661eb9c433d16d5272fb076fcce",
-    "fetched_at": "2026-09-17T09:04:06.231762+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump threatens EU with trade cut over 'hostile' proposal to make Canada associate member",
-    "summary": "European Commission chief Ursula Von der Leyen pitched the idea of associate membership for Ottawa during her annual State of the Union speech on Wednesday, with Canadian PM Mark Carney in attendance.",
-    "link": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
-    "published": "Thu, 17 Sep 2026 06:16:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e09ada946345b00539b5c6b7bf79453e",
-    "fetched_at": "2026-09-17T09:04:06.231760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 17th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning",
-    "published": "Thu, 17 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "02e6eea5c9af6fda5cdc1c7eda8f4b8d",
-    "fetched_at": "2026-09-17T09:04:06.231759+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Climate change was key factor in deadly Nepal-China flood, scientists say",
-    "summary": "Researchers said the flood was caused by a \"compound crisis\" shaped by long-term warming, glacier retreat, permafrost thaw and geological instability. A 2015 earthquake is also thought to have played a role.",
-    "link": "https://www.euronews.com/2026/09/17/climate-change-was-key-factor-in-deadly-nepal-china-flood-scientists-say",
-    "published": "Thu, 17 Sep 2026 07:36:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3f9fb028f741ce11c76738ca9575935b",
-    "fetched_at": "2026-09-17T09:04:06.231757+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "War in Ukraine: Odesa and Sumy suffer fires and casualties in new Russian attacks",
-    "summary": "Russia struck the Ukrainian cities of Odesa and Sumy on 16 September, sparking fires and damaging homes and other buildings, according to Ukrainian emergency services and local officials.",
-    "link": "https://www.euronews.com/video/2026/09/17/war-in-ukraine-odesa-and-sumy-suffer-fires-and-casualties-in-new-russian-attacks",
-    "published": "Thu, 17 Sep 2026 09:23:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2adeb1eb7ec729243c62890598ddcde5",
-    "fetched_at": "2026-09-17T09:04:06.231756+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Congress approves Russia sanctions that impact China and India",
-    "summary": "US lawmakers have approved sweeping new sanctions targeting Russia's economy and Putin's inner circle, with Trump set to sign a bill that also threatens steep tariffs on major buyers of Russian oil, including China and India.",
-    "link": "https://www.euronews.com/2026/09/17/us-congress-approves-russia-sanctions-that-impact-china-and-india",
-    "published": "Thu, 17 Sep 2026 09:31:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5eea121e5f70934b3321b69976af3e28",
-    "fetched_at": "2026-09-17T09:04:06.231754+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two Britons among three killed in Swiss Alps light aircraft crash",
-    "summary": "Authorities say the plane took off from the Rhône Valley and collided with a mountain slope about 10 minutes later.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62jvpele45o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 22:20:19 GMT",
-    "source": "BBC News",
-    "id": "703c257cf5ff858e14f398cf4a2a1f77",
-    "fetched_at": "2026-09-17T09:04:06.231752+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One dead after torrential rain and flash floods hit Barcelona region",
-    "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
-    "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 08:39:30 GMT",
-    "source": "BBC News",
-    "id": "e0fe0a7d97c994d9e58634d9157fe7e1",
-    "fetched_at": "2026-09-17T09:04:06.231750+00:00"
   }
 ]
