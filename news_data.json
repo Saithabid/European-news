@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "One dead after torrential rain and flash floods hit Barcelona region",
+    "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
+    "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 08:39:30 GMT",
+    "source": "BBC News",
+    "id": "e0fe0a7d97c994d9e58634d9157fe7e1",
+    "fetched_at": "2026-09-18T02:33:05.557924+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+    "summary": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+    "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 05:00:36 GMT",
+    "source": "BBC News",
+    "id": "e8ff9661eb9c433d16d5272fb076fcce",
+    "fetched_at": "2026-09-18T02:33:05.557920+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Finnish foreign ministry official details how Russia's 'hybrid warfare' reshaped border security",
+    "summary": "Finland built 124 miles of border fencing after Russia allegedly weaponized migration as hybrid warfare against the Nordic NATO member state.",
+    "link": "https://www.foxnews.com/world/finnish-foreign-ministry-official-details-russia-hybrid-warfare-reshaped-border-security",
+    "published": "Thu, 17 Sep 2026 19:41:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4a7b5db916d68e5e33995b4cc57e570a",
+    "fetched_at": "2026-09-18T02:33:05.557916+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+    "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+    "published": "Thu, 17 Sep 2026 06:54:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "5ae6e1355828b2549967ba3f89821d79",
+    "fetched_at": "2026-09-18T02:33:05.557887+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+    "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+    "published": "Thu, 17 Sep 2026 08:33:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "f55bf40583b13d513b70aeff65f0118b",
+    "fetched_at": "2026-09-18T02:33:04.458735+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Beijing, where baozi are worth the wait in line",
+    "summary": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop,  chocolate and red beans.",
+    "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+    "published": "Thu, 17 Sep 2026 09:59:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "0945a0adb88be92a682b97e588a9198f",
+    "fetched_at": "2026-09-18T02:33:03.352373+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+    "source": "BBC News",
+    "id": "1f9107c6baf182b45eab41c6b0111063",
+    "fetched_at": "2026-09-18T02:33:02.245129+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zara Larsson criticises White House for using her song in deportation video",
+    "summary": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 01:20:33 GMT",
+    "source": "BBC News",
+    "id": "35b62c27ed607e4b976fe2f5f65eb229",
+    "fetched_at": "2026-09-18T02:33:01.129702+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge orders Trump to give 30 days' notice before any 'demolition' at Kennedy Center",
+    "summary": "The order comes after Trump was photographed onboard Air Force One looking at a poster that appeared to tout the demolition of the site.",
+    "link": "https://www.bbc.co.uk/news/articles/cklyexdlepv1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 00:40:07 GMT",
+    "source": "BBC News",
+    "id": "a73a51f977bd82782c307f8fb54a750d",
+    "fetched_at": "2026-09-18T02:33:00.016610+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In a border city stadium, US NFL fans sing Canada anthem with gusto",
+    "summary": "The BBC's Robin Levinson-King spoke to Buffalo Bills fans at a home game about why the anthem is being played.",
+    "link": "https://www.bbc.co.uk/news/videos/cw5ylr205nj0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 01:45:21 GMT",
+    "source": "BBC News",
+    "id": "5d66fc583554d899252254706d10f6a2",
+    "fetched_at": "2026-09-18T02:32:58.907759+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US fans with Ed Sheeran tickets are left 'torn' by Macklemore controversy",
+    "summary": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 00:38:03 GMT",
+    "source": "BBC News",
+    "id": "f1f08ae881a7461a3d3add8dcf5b6e85",
+    "fetched_at": "2026-09-18T02:32:57.732512+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "EU announces plan to restrict social media access for under-15s",
     "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
     "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "3f4bbb9abd69922f52d91bf18fc52b76",
     "fetched_at": "2026-09-17T14:34:16.151802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Valencia region deluge leaves streets covered in mud and vehicles unusable in Torrent",
-    "summary": "Intense rainfall dumped up to 96 mm on Torrent, south‑west of Valencia, flooding roads, homes and the Parc Central tunnel, trapping cars and prompting emergency pumping operations.",
-    "link": "https://www.euronews.com/video/2026/09/17/valencia-region-deluge-leaves-streets-covered-in-mud-and-vehicles-unusable-in-torrent",
-    "published": "Thu, 17 Sep 2026 16:18:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a8ea9784476e32efb29a9c123b54f792",
-    "fetched_at": "2026-09-17T14:34:16.151800+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French former minister on trial over alleged Renault-Nissan lobbying",
-    "summary": "Rachida Dati, 61, is accused of taking money from the carmaker in return for political influence.",
-    "link": "https://www.bbc.co.uk/news/articles/crwyz8j00q5no?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 12:38:15 GMT",
-    "source": "BBC News",
-    "id": "f33ccac78c25cfd1d4ac63f80602cdc4",
-    "fetched_at": "2026-09-17T14:34:16.151798+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-    "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 12:26:00 GMT",
-    "source": "BBC News",
-    "id": "5e47af3f8294aad31d5902b509dd3095",
-    "fetched_at": "2026-09-17T14:34:16.151796+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kosovo's former president sentenced to 25 years for war crimes",
-    "summary": "Hashim Thaci has been jailed for crimes including torture and murder during Kosovo's independence war with Serbia.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 11:42:50 GMT",
-    "source": "BBC News",
-    "id": "822c083a6793bf6d8c0250c22fd252d5",
-    "fetched_at": "2026-09-17T14:34:16.151794+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aztec document goes on display in Mexico after 186 years in France",
-    "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
-    "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 11:00:41 GMT",
-    "source": "BBC News",
-    "id": "974a99d0316bb58f36ec03868a45d48e",
-    "fetched_at": "2026-09-17T14:34:16.151792+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Swedish PM Kristersson resigns after election loss",
-    "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
-    "source": "BBC News",
-    "id": "2f4c541f5fb0ebb6011fba8d88f1e647",
-    "fetched_at": "2026-09-17T14:34:16.151790+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
-    "summary": "Russia plans to test a new 800-km ballistic missile by year&apos;s end, with an analyst warning its advanced maneuverability could strain Ukraine air defense.",
-    "link": "https://www.foxnews.com/world/russia-readies-new-500-mile-missile-weapon-expert-warns-terminal-end-game-surprises",
-    "published": "Mon, 14 Sep 2026 16:04:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "45dcd4c3c0f9da517d6575a4ebdaa6bc",
-    "fetched_at": "2026-09-17T14:34:16.151787+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
-    "summary": "Two Italian Eurofighter Typhoons scrambled under NATO command and downed a drone over Lithuania that officials say likely came from Belarus.",
-    "link": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says",
-    "published": "Tue, 15 Sep 2026 08:56:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4b0f3ec915129c8bf642028b3a5a6df3",
-    "fetched_at": "2026-09-17T14:34:16.151785+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-    "summary": "<em>The New Yorker</em>'s Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
-    "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-    "published": "Wed, 16 Sep 2026 12:14:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "42ee733192203fe9d9b27aad34d786da",
-    "fetched_at": "2026-09-17T14:34:16.151783+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
-    "summary": "Despite the lingering questions, China remains optimistic about the summit.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
-    "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "7d487b1fb613e90bd312d2c5094b21f5",
-    "fetched_at": "2026-09-17T14:34:16.151744+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
-    "summary": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
-    "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
-    "published": "Thu, 17 Sep 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "24c02b65cc9bf6ca4c6f6ee53b1837b5",
-    "fetched_at": "2026-09-17T14:34:15.061193+00:00"
   }
 ]
