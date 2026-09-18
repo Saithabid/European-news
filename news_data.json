@@ -1,6 +1,176 @@
 [
   {
     "region": "Europe",
+    "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+    "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 23:24:07 GMT",
+    "source": "BBC News",
+    "id": "60647b2c9a71a3109c3288472b3756d5",
+    "fetched_at": "2026-09-18T08:38:32.541313+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least one dead and multiple injured in Philippines school shooting",
+    "summary": "At least one person is believed to have died and several injured after the shooting in Banga in Mindanao province.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 08:28:27 GMT",
+    "source": "BBC News",
+    "id": "36b07ab18e43f813778c3b58a643c17e",
+    "fetched_at": "2026-09-18T08:38:32.541311+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN Security Council fails to adopt US-backed Iran sanctions resolution after Russia and China vetoes",
+    "summary": "The proposal, which the United States had drafted to extend the UN expert panel’s mandate for a year was defeated by a vote of 11-2, with Somalia and Pakistan abstaining because of the Russian and Chinese vetoes.",
+    "link": "https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions",
+    "published": "Fri, 18 Sep 2026 06:27:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "73561bfd73619d50d5faa06aa5130a04",
+    "fetched_at": "2026-09-18T08:38:32.541310+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 18th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-morning",
+    "published": "Fri, 18 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9f8d867edf4f3da400475602b4a4da23",
+    "fetched_at": "2026-09-18T08:38:32.541308+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump touts 'major progress' towards setting up US military base in Poland",
+    "summary": "The US currently has around 10,000 rotational forces in Poland as well as 11 installation sites, with the US Army Garrison headquartered in Poznań.",
+    "link": "https://www.euronews.com/2026/09/18/trump-touts-major-progress-towards-setting-up-us-military-base-in-poland",
+    "published": "Fri, 18 Sep 2026 08:15:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d7e182af663ad5b43637c69ce2c1ea7e",
+    "fetched_at": "2026-09-18T08:38:32.541306+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Protesters target OpenAI and Anthropic in San Francisco over AI safety fears",
+    "summary": "Protesters in San Francisco urged OpenAI and Anthropic to pause powerful AI, calling for global rules and an AI emergency amid safety and climate fears.",
+    "link": "https://www.euronews.com/video/2026/09/18/protesters-target-openai-and-anthropic-in-san-francisco-over-ai-safety-fears",
+    "published": "Fri, 18 Sep 2026 09:02:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dd733d4a91ab207d1567bacd35e16263",
+    "fetched_at": "2026-09-18T08:38:32.541304+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Missile-shaped signs and Netanyahu masks as Israelis rally to protect October vote",
+    "summary": "Dozens of Israelis demonstrated outside the Knesset in West Jerusalem on 17 September, accusing political leaders of using regional tensions to interfere with the 27 October parliamentary election.",
+    "link": "https://www.euronews.com/video/2026/09/18/missile-shaped-signs-and-netanyahu-masks-as-israelis-rally-to-protect-october-vote",
+    "published": "Fri, 18 Sep 2026 09:14:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "86b2ab52698771f34107d2a00ee089a6",
+    "fetched_at": "2026-09-18T08:38:32.541302+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump administration moves to cut protections for endangered species",
+    "summary": "Brett Hartl, the government affairs director at the Center for Biological Diversity, said the move \"stabs at the very heart of the Endangered Species Act by giving federal approval to the killing of some of America’s most beloved wildlife.\"",
+    "link": "https://www.euronews.com/2026/09/18/trump-administration-moves-to-cut-protections-for-endangered-species",
+    "published": "Fri, 18 Sep 2026 09:30:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c58af1d30128febbc21634861e789663",
+    "fetched_at": "2026-09-18T08:38:32.541300+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+    "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+    "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 12:26:00 GMT",
+    "source": "BBC News",
+    "id": "5e47af3f8294aad31d5902b509dd3095",
+    "fetched_at": "2026-09-18T08:38:32.541297+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kosovo's former president sentenced to 25 years for war crimes",
+    "summary": "Hashim Thaci has been jailed for crimes including torture and murder during Kosovo's independence war with Serbia.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 16 Sep 2026 11:42:50 GMT",
+    "source": "BBC News",
+    "id": "822c083a6793bf6d8c0250c22fd252d5",
+    "fetched_at": "2026-09-18T08:38:32.541268+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Aztec document goes on display in Mexico after 186 years in France",
+    "summary": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+    "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 11:00:41 GMT",
+    "source": "BBC News",
+    "id": "974a99d0316bb58f36ec03868a45d48e",
+    "fetched_at": "2026-09-18T08:38:31.422540+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Swedish PM Kristersson resigns after election loss",
+    "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
+    "source": "BBC News",
+    "id": "2f4c541f5fb0ebb6011fba8d88f1e647",
+    "fetched_at": "2026-09-18T08:38:30.304880+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Archbishop of Canterbury withdraws award from Muslim cleric after past Osama bin Laden praise surfaces",
+    "summary": "Maulana Hafiz Muhammad Tahir Mehmood Ashrafi received the Hubert Walter Award at Lambeth Palace days before past praise of Osama bin Laden surfaced.",
+    "link": "https://www.foxnews.com/world/archbishop-canterbury-withdraws-award-muslim-cleric-osama-bin-laden-praise-surfaces",
+    "published": "Thu, 17 Sep 2026 23:59:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fafedf23f2dfa3e80a2c72970592028d",
+    "fetched_at": "2026-09-18T08:38:29.186209+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+    "summary": "Despite the lingering questions, China remains optimistic about the summit.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
+    "published": "Thu, 17 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "7d487b1fb613e90bd312d2c5094b21f5",
+    "fetched_at": "2026-09-18T08:38:28.059027+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+    "summary": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+    "published": "Thu, 17 Sep 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "24c02b65cc9bf6ca4c6f6ee53b1837b5",
+    "fetched_at": "2026-09-18T08:38:26.895861+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+    "summary": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+    "published": "Fri, 18 Sep 2026 04:02:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "b06d7f0c3bcdf3508a4c4fd74b70ea32",
+    "fetched_at": "2026-09-18T08:38:25.751291+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "White House withdraws Trump's ICE nominee as Republican senator objects",
+    "summary": "One senator from Trump's party blocked the bid as he demands information about the fatal killings of US citizens by immigration enforcement.",
+    "link": "https://www.bbc.co.uk/news/articles/cq23xzp55x08o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 22:17:19 GMT",
+    "source": "BBC News",
+    "id": "79979a2bcdd6f7c4cee0b20101673bc4",
+    "fetched_at": "2026-09-18T08:38:24.608073+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "One dead after torrential rain and flash floods hit Barcelona region",
     "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
     "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
@@ -428,175 +598,5 @@
     "source": "NPR Topics: World",
     "id": "77449b8cea12a31090f71686827f0ffa",
     "fetched_at": "2026-09-17T19:27:06.228961+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US interest rates raised for first time in three years",
-    "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 00:40:17 GMT",
-    "source": "BBC News",
-    "id": "e829900b0d14c272351d6ece75ffefe9",
-    "fetched_at": "2026-09-17T19:27:05.096128+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What could EU associate member status mean for Canada?",
-    "summary": "Mark Carney says he is seeking a \"unique\" relationship with the bloc, but currently there is no such thing as an associate member.",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgy3pq5ywyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 15:24:16 GMT",
-    "source": "BBC News",
-    "id": "df9c44823e3e65647182c9ed39470e9a",
-    "fetched_at": "2026-09-17T19:27:03.939270+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-    "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 15:07:47 GMT",
-    "source": "BBC News",
-    "id": "b475cc1f6d5c8dee2041132b232e94ea",
-    "fetched_at": "2026-09-17T19:27:02.785222+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-    "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 17:08:00 GMT",
-    "source": "BBC News",
-    "id": "b25ba930307fa003c8e72b0a16761d2e",
-    "fetched_at": "2026-09-17T19:27:01.585311+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "source": "BBC News",
-    "id": "5013dd3a6afcdbfee24c6010819eb6a7",
-    "fetched_at": "2026-09-17T19:27:00.432306+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
-    "source": "BBC News",
-    "id": "d184a8faa6a6aac55506cfc69a6c732c",
-    "fetched_at": "2026-09-17T19:26:59.277285+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Klopp wants to 'reclaim' flag amid German elections",
-    "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 13:02:40 GMT",
-    "source": "BBC News",
-    "id": "957049f065e1578a73627dd2b844087e",
-    "fetched_at": "2026-09-17T14:34:16.151818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ninth woman's body found as South African police investigate string of deaths",
-    "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 13:44:07 GMT",
-    "source": "BBC News",
-    "id": "a6fd91482acc836b59fbeb5fbe03c536",
-    "fetched_at": "2026-09-17T14:34:16.151816+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gaza's bicycle couriers refuse to stop despite danger and pittance pay",
-    "summary": "Between 40 and 50 workers have died in the Israel-Hamas war at one delivery company alone, yet hundreds remain on the roads, covering routes by bicycle after fuel shortages and the destruction of 74% of Gaza's road network made motorised delivery impossible.",
-    "link": "https://www.euronews.com/2026/09/17/gazas-bicycle-couriers-refuse-to-stop-despite-danger-and-pittance-pay",
-    "published": "Thu, 17 Sep 2026 11:56:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59d234e2b4af1ab2f60a041171e0b160",
-    "fetched_at": "2026-09-17T14:34:16.151815+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 17th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-midday",
-    "published": "Thu, 17 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d7edfbfdd69b691c811c9de62ba3c7ef",
-    "fetched_at": "2026-09-17T14:34:16.151813+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's top-selling dog vaccine linked to spate of pet deaths across the country",
-    "summary": "State veterinary regulator confirmed batch 20 of Multican-8 contained a live Aujeszky's disease virus — typically fatal in dogs — after owners across at least 10 Russian regions reported hundreds of deaths since August.",
-    "link": "https://www.euronews.com/2026/09/17/russias-top-selling-dog-vaccine-linked-to-spate-of-pet-deaths-across-the-country",
-    "published": "Thu, 17 Sep 2026 13:49:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a11cefeecd222f7e67f742c12a8813f2",
-    "fetched_at": "2026-09-17T14:34:16.151812+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Day two in Dubai: The region makes its case for telling its own story",
-    "summary": "UAE Economy Minister Abdulla bin Touq Al Marri told the Euronews Forum that \"resilience is the insurance of economies,\" while Azerbaijan's Hajiyev said his country was \"winning in the peace\" and Georgia's foreign minister flagged sustained disinformation campaigns.",
-    "link": "https://www.euronews.com/2026/09/17/day-two-in-dubai-the-region-makes-its-case-for-telling-its-own-story",
-    "published": "Thu, 17 Sep 2026 14:07:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d7a505ff248b12a9eec14a373bab2536",
-    "fetched_at": "2026-09-17T14:34:16.151810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Torrential rains flood Valencia and Catalonia, killing driver in Spain",
-    "summary": "Flooded streets, submerged cars and disrupted transport were reported across parts of Valencia and Catalonia on 17 September as torrential rain swept through eastern Spain.",
-    "link": "https://www.euronews.com/video/2026/09/17/torrential-rains-flood-valencia-and-catalonia-killing-driver-in-spain",
-    "published": "Thu, 17 Sep 2026 14:27:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "57be434cd4878e76ca63f56e791f7d5f",
-    "fetched_at": "2026-09-17T14:34:16.151808+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Euronews Debates: unlocking Kazakhstan’s potential as a regional trade hub",
-    "summary": "At the Astana Finance Days 2026, speakers discussed how Kazakhstan can move beyond its traditional role as a transit country and become a regional hub for production, trade and investment.",
-    "link": "https://www.euronews.com/2026/09/17/euronews-debates-unlocking-kazakhstans-potential-as-a-regional-trade-hub",
-    "published": "Thu, 17 Sep 2026 15:00:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8f1c6e232bab03ccfa98974e656b0a3d",
-    "fetched_at": "2026-09-17T14:34:16.151807+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tripoli busts Gaddafi-shaped pill shipment as al-Assad's captagon appears in Libya's east",
-    "summary": "Tripoli intercepted 100,000 tablets bearing the late Libyan leader's image shipped via Europe in a Renault Master van, while Benghazi's investigators separately seized captagon tablets assessed to have originated in Syria, where the al-Assad regime once industrialised the billion-dollar trade.",
-    "link": "https://www.euronews.com/2026/09/17/tripoli-busts-gaddafi-shaped-pill-shipment-as-al-assads-captagon-appears-in-libyas-east",
-    "published": "Thu, 17 Sep 2026 15:33:47 +0200",
-    "source": "News | Euronews RSS",
-    "id": "25645a1beda5bf8d05fbd5fce2b0536e",
-    "fetched_at": "2026-09-17T14:34:16.151805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "From F1 to FIBA: Qatar unveils packed calendar of global events",
-    "summary": "More than 560 events are planned through 2027, with major sports, concerts and festivals on the programme as Qatar looks to build on record visitor numbers.",
-    "link": "https://www.euronews.com/travel/2026/09/17/from-f1-to-fiba-qatar-unveils-packed-calendar-of-global-events",
-    "published": "Thu, 17 Sep 2026 15:54:07 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7f51f7586311a2ceedd4554ec23053f0",
-    "fetched_at": "2026-09-17T14:34:16.151803+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran expels Swedish diplomat in tit-for-tat after Stockholm's move",
-    "summary": "Tehran summoned Sweden's ambassador and ordered one of its diplomats to leave within 48 hours after Stockholm expelled an Iranian embassy official for activities \"incompatible with the Vienna Convention.\"",
-    "link": "https://www.euronews.com/2026/09/17/iran-expels-swedish-diplomat-in-tit-for-tat-after-stockholm-move",
-    "published": "Thu, 17 Sep 2026 16:00:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3f4bbb9abd69922f52d91bf18fc52b76",
-    "fetched_at": "2026-09-17T14:34:16.151802+00:00"
   }
 ]
