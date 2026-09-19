@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 04:20:47 GMT",
+    "source": "BBC News",
+    "id": "1dc073e4c9b6a8a453e561110b008238",
+    "fetched_at": "2026-09-19T08:25:35.995148+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Grim discoveries of murdered women spark fear in South Africa",
+    "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+    "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 23:04:41 GMT",
+    "source": "BBC News",
+    "id": "0cb166a263b3ac5258f4b940034925d9",
+    "fetched_at": "2026-09-19T08:25:35.995145+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 04:27:11 GMT",
+    "source": "BBC News",
+    "id": "c3351581c2c57b1ff2cbc5c619fc2bcf",
+    "fetched_at": "2026-09-19T08:25:35.995143+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russians leave before election ends, fearing mobilisation to follow",
+    "summary": "Requests for emergency emigration assistance from Russia have surged eightfold since July, with searches for \"how to leave\" and \"mobilisation\" at their highest since early 2023. An electronic summons register now automatically triggers an exit ban, documented cases show.",
+    "link": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
+    "published": "Sat, 19 Sep 2026 07:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2ef6881a1d6385e59bbfb538e6107164",
+    "fetched_at": "2026-09-19T08:25:35.995141+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 19th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-morning",
+    "published": "Sat, 19 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bb0abb836788f16095e52e9ba345a96c",
+    "fetched_at": "2026-09-19T08:25:35.995139+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US and Denmark reach deal over Greenland's security",
+    "summary": "Greenland's prime minister, Jens-Frederik Nielsen, welcomed the agreement, saying it was \"to the benefit of us all\" and that it would \"ensure and strengthen\" the security of the island.",
+    "link": "https://www.euronews.com/2026/09/19/us-and-denmark-reach-deal-over-greenlands-security",
+    "published": "Sat, 19 Sep 2026 07:42:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0972a9e3d97011d8b47a60debd0fe6ed",
+    "fetched_at": "2026-09-19T08:25:35.995136+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump signs into law sweeping Russia sanctions package aiming to choke off revenues funding the war in Ukraine",
+    "summary": "The bill received widespread opposition from Democrat lawmakers, who favoured tougher sanctions on Russia, but opposed provisions in the draft which would enable Trump to impose tariffs freely on nations that continue to buy large amounts of Russian energy.",
+    "link": "https://www.euronews.com/2026/09/19/trump-signs-into-law-sweeping-russia-sanctions-package-aiming-to-choke-off-revenues-fundin",
+    "published": "Sat, 19 Sep 2026 08:20:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a97595035e44591f949c065009b289ad",
+    "fetched_at": "2026-09-19T08:25:35.995134+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bolivia slashes diesel subsidies as its Congress ratifies $1.9 billion IMF deal to ease deep economic crisis",
+    "summary": "La Paz hopes the deal, awaiting final authorisation by the IMF’s executive board, will open other lines of finances from different institutions, like the World Bank, as the country works to restore its struggling credit status.",
+    "link": "https://www.euronews.com/2026/09/19/bolivia-slashes-diesel-subsidies-as-its-congress-ratifies-19-billion-imf-deal-to-ease-deep",
+    "published": "Sat, 19 Sep 2026 08:54:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b1d00fe8b00f45e861eee8c65a8d79fb",
+    "fetched_at": "2026-09-19T08:25:35.995131+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Macron heading to Saint Pierre and Miquelon to meet with Canadian PM Carney",
+    "summary": "French President Emmanuel Macron is travelling to Saint Pierre and Miquelon this weekend, an archipelago the Élysée describes as \"central to today's France.\"",
+    "link": "https://www.euronews.com/2026/09/19/macron-heading-to-saint-pierre-and-miquelon-to-meet-with-canadian-pm-carney",
+    "published": "Sat, 19 Sep 2026 09:38:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c15e85fc857ada5b49864ab44bd231ab",
+    "fetched_at": "2026-09-19T08:25:35.995128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+    "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+    "published": "Fri, 18 Sep 2026 06:39:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "351b1a0d15e9c3e6b08c135f24b9abc1",
+    "fetched_at": "2026-09-19T08:25:35.995124+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+    "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+    "published": "Fri, 18 Sep 2026 07:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "8aca80203d9896b1b45eb4737f232f8a",
+    "fetched_at": "2026-09-19T08:25:35.995099+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+    "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+    "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+    "published": "Fri, 18 Sep 2026 07:09:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "641c128c5875bcc5b3e434f3f15f9152",
+    "fetched_at": "2026-09-19T08:25:34.868290+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US and Denmark reach deal to build US military presence in Greenland",
+    "summary": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
+    "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+    "published": "Sat, 19 Sep 2026 00:44:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "1d3cf32f2591b52484bc7705e3ee9a50",
+    "fetched_at": "2026-09-19T08:25:33.741128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As Europe warms, Italy sees West Nile virus spread",
+    "summary": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.",
+    "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
+    "published": "Sat, 19 Sep 2026 01:13:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "677961009f28e7a3e324892c6df244ad",
+    "fetched_at": "2026-09-19T08:25:32.618818+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+    "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
+    "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+    "published": "Sat, 19 Sep 2026 02:39:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "67c373eeb91e039d43c2ead8a11eeba8",
+    "fetched_at": "2026-09-19T08:25:31.476835+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Resident Evil movie director says he was not prepared for fan backlash",
+    "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 12:58:55 GMT",
+    "source": "BBC News",
+    "id": "95979417ff1edd8863011fc458a88217",
+    "fetched_at": "2026-09-19T08:25:30.306729+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump signs sweeping Russia sanctions bill",
+    "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+    "source": "BBC News",
+    "id": "4e826f449dd80e85ae9c19335dc492a0",
+    "fetched_at": "2026-09-19T08:25:29.149935+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+    "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+    "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 11:49:46 GMT",
+    "source": "BBC News",
+    "id": "6137c1b7c92318838b19e98241505e61",
+    "fetched_at": "2026-09-19T08:25:28.013941+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Swedish PM Kristersson resigns after election loss",
     "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
     "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
@@ -418,185 +598,5 @@
     "source": "BBC News",
     "id": "95e8e7438ab3739508f1da5f0308a954",
     "fetched_at": "2026-09-18T18:45:57.599599+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
-    "source": "BBC News",
-    "id": "86ef1dffa4de987b87e0b8dfa5ccb327",
-    "fetched_at": "2026-09-18T18:45:56.454749+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-    "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-    "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 07:14:57 GMT",
-    "source": "BBC News",
-    "id": "1dfd8d9525cdd974218ea1bafbf7416f",
-    "fetched_at": "2026-09-18T14:00:32.927075+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens of suspected illegal miners die in Nigerian custody",
-    "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-    "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 13:17:16 GMT",
-    "source": "BBC News",
-    "id": "d62c819b108e66a0c11e86b6ba46a843",
-    "fetched_at": "2026-09-18T14:00:32.927073+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New wild cat species discovered - with only one known living member",
-    "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 23:15:55 GMT",
-    "source": "BBC News",
-    "id": "0259d3f30cf24ac6de105196bf876386",
-    "fetched_at": "2026-09-18T14:00:32.927071+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
-    "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 11:39:11 GMT",
-    "source": "BBC News",
-    "id": "0cf32426ff73f9532a8a92aeba87df9c",
-    "fetched_at": "2026-09-18T14:00:32.927068+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-    "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 13:00:58 GMT",
-    "source": "BBC News",
-    "id": "971f1d0cca16fdc30f7757e9f328c783",
-    "fetched_at": "2026-09-18T14:00:32.927066+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korean president urges Trump dialogue with Pyongyang",
-    "summary": "Trump announced in August that he intended to meet with North Korean leader Kim Jong-un later this year as he once again touted the pair's relationship. Pyongyang has offered little response.",
-    "link": "https://www.euronews.com/2026/09/18/south-korean-president-urges-trump-dialogue-with-pyongyang",
-    "published": "Fri, 18 Sep 2026 10:41:57 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7b68b5aa98a426ee9d9cce11af49e5fd",
-    "fetched_at": "2026-09-18T14:00:32.927064+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia holds nationwide Duma elections as war in Ukraine reshapes vote",
-    "summary": "Russia’s parliamentary election is under way, with voting beginning in the Far East on Friday, 18 September before spreading across the country for three days. Polls will remain open until Sunday evening, when voters will have chosen all 450 members of the State Duma.",
-    "link": "https://www.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-war-in-ukraine-reshapes-vote",
-    "published": "Fri, 18 Sep 2026 11:41:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2305d1a3e593d01a107812d37689a0d3",
-    "fetched_at": "2026-09-18T14:00:32.927061+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Canadians react to EU's ‘associate member’ proposal",
-    "summary": "Canadians in Vancouver reacted to Prime Minister Mark Carney’s proposal for closer ties with the European Union, including possible “associate member” status.",
-    "link": "https://www.euronews.com/2026/09/18/canadians-react-to-eus-associate-member-proposal",
-    "published": "Fri, 18 Sep 2026 11:42:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "58d126dca6463fa84c9e29d18b7d4bf2",
-    "fetched_at": "2026-09-18T14:00:32.927059+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian drones devastate shopping mall in Zaporizhzhia city",
-    "summary": "A Russian strike has hit a shopping complex in Zaporizhzhia, injuring one person and sparking a fire that spread across more than 10,000 square metres, according to Ukraine’s State Emergency Service.",
-    "link": "https://www.euronews.com/video/2026/09/18/russian-drones-devastate-shopping-mall-in-zaporizhzhia-city",
-    "published": "Fri, 18 Sep 2026 11:53:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "506770f85f2ded95825ada3d7158c2e9",
-    "fetched_at": "2026-09-18T14:00:32.927057+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish actor and World Cup star among 16 held in Istanbul drug raids",
-    "summary": "Istanbul police detained Galatasaray veteran Hasan Şaş and Netflix actor Aras Bulut İynemli alongside a rapper, a sports journalist and influencers in the fourth such celebrity drug operation since late 2025. Prosecutors said the investigation covers use, facilitation and supply of narcotics.",
-    "link": "https://www.euronews.com/2026/09/18/turkish-actor-and-world-cup-star-among-16-held-in-istanbul-drug-raids",
-    "published": "Fri, 18 Sep 2026 11:56:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "eeffe6fb1d48d17f377c573b9f332762",
-    "fetched_at": "2026-09-18T14:00:32.927055+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 18th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/18/latest-news-bulletin-september-18th-2026-midday",
-    "published": "Fri, 18 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ea1126f41290c9f9a1dc9b21f4dd9bc7",
-    "fetched_at": "2026-09-18T14:00:32.927053+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russians vote in elections with no party opposing Putin or war in Ukraine",
-    "summary": "The three-day vote will fill 450 Duma seats and 11 regional governorships, with only parties backing Putin and Russia's ongoing war in Ukraine on the ballot. Despite official denials of a new draft, fears of mobilisation are overshadowing the vote.",
-    "link": "https://www.euronews.com/2026/09/18/russians-vote-in-elections-with-no-party-opposing-putin-or-war-in-ukraine",
-    "published": "Fri, 18 Sep 2026 13:03:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0dad846ef01fc8251f8c0ed49da5618a",
-    "fetched_at": "2026-09-18T14:00:32.927050+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
-    "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
-    "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 06:52:47 GMT",
-    "source": "BBC News",
-    "id": "2db9fd6b9a628ef0d85c0217298c8d6e",
-    "fetched_at": "2026-09-18T14:00:32.927047+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "source": "BBC News",
-    "id": "5013dd3a6afcdbfee24c6010819eb6a7",
-    "fetched_at": "2026-09-18T14:00:32.927044+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police begin operation to move migrants from Ceuta beaches",
-    "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 11:59:42 GMT",
-    "source": "BBC News",
-    "id": "263d4844923d1532b71527699a842f2a",
-    "fetched_at": "2026-09-18T14:00:32.927040+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
-    "summary": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
-    "link": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
-    "published": "Fri, 18 Sep 2026 06:00:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "53409b75e9cfc1319483d455a148ccc5",
-    "fetched_at": "2026-09-18T14:00:32.927016+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies",
-    "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\"",
-    "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-    "published": "Fri, 18 Sep 2026 04:44:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "2384f112340f8cb38bb284b630236563",
-    "fetched_at": "2026-09-18T14:00:31.800437+00:00"
   }
 ]
