@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+    "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 20:17:50 GMT",
+    "source": "BBC News",
+    "id": "0cf32426ff73f9532a8a92aeba87df9c",
+    "fetched_at": "2026-09-19T13:36:57.969439+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Millions without power as Cuba hit by latest major blackout",
+    "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 10:27:37 GMT",
+    "source": "BBC News",
+    "id": "d8715ba3e60222d31c8c49752a4fa55e",
+    "fetched_at": "2026-09-19T13:36:57.969436+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+    "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 11:50:22 GMT",
+    "source": "BBC News",
+    "id": "f884346e6bc34ce2777f228286148e28",
+    "fetched_at": "2026-09-19T13:36:57.969433+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 19th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-midday",
+    "published": "Sat, 19 Sep 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "310af67990b4e7a5c130e31a7eaeaff3",
+    "fetched_at": "2026-09-19T13:36:57.969429+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN condemns 'shocking pattern' of sexual violence by Russian troops in Ukraine",
+    "summary": "Russia was added in May to the UN Secretary-General's list of countries credibly suspected of committing sexual violence in conflict — codified into international law decades ago as war crimes and crimes against humanity.",
+    "link": "https://www.euronews.com/2026/09/19/un-condemns-shocking-pattern-of-sexual-violence-by-russian-troops-in-ukraine",
+    "published": "Sat, 19 Sep 2026 14:33:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6444e06446482b70950ec2d3d339dfc7",
+    "fetched_at": "2026-09-19T13:36:57.969403+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Contrast in Tehran as unveiled women race marathon alongside regime military display",
+    "summary": "Tehran split into two worlds: unveiled women ran openly in a city marathon while state forces paraded machine guns nearby. The striking contrast exposes a deeply divided capital, caught between defiance and regime mobilisation amid rising warfare.",
+    "link": "https://www.euronews.com/2026/09/19/contrast-in-tehran-as-unveiled-women-race-marathon-alongside-regime-military-display",
+    "published": "Sat, 19 Sep 2026 15:26:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d724c72dedc7f2b4721f4af09bc6e433",
+    "fetched_at": "2026-09-19T13:36:56.834205+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+    "source": "BBC News",
+    "id": "5013dd3a6afcdbfee24c6010819eb6a7",
+    "fetched_at": "2026-09-19T13:36:55.706938+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shots heard as police start moving migrants from Ceuta beaches",
+    "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 11:59:42 GMT",
+    "source": "BBC News",
+    "id": "263d4844923d1532b71527699a842f2a",
+    "fetched_at": "2026-09-19T13:36:54.590889+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+    "source": "BBC News",
+    "id": "971f1d0cca16fdc30f7757e9f328c783",
+    "fetched_at": "2026-09-19T13:36:53.463943+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
+    "summary": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
+    "link": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
+    "published": "Fri, 18 Sep 2026 06:00:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "53409b75e9cfc1319483d455a148ccc5",
+    "fetched_at": "2026-09-19T13:36:52.342793+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
+    "summary": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+    "published": "Sat, 19 Sep 2026 07:40:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "8e2e5ec9e93908bab643c91b4bb25b81",
+    "fetched_at": "2026-09-19T13:36:51.204635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
+    "source": "BBC News",
+    "id": "86ef1dffa4de987b87e0b8dfa5ccb327",
+    "fetched_at": "2026-09-19T13:36:50.055714+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
     "summary": "Residents later received the all-clear after explosions were reported in the capital.",
     "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "0de05885540c8dd0c3dcac00194fbce5",
     "fetched_at": "2026-09-18T18:46:04.459816+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US-backed Israel-Morocco deal deepens Abraham Accords amid growing regional threats",
-    "summary": "Israel and Morocco will upgrade to full embassies and exchange ambassadors in a major Abraham Accords milestone nearly six years in the making.",
-    "link": "https://www.foxnews.com/world/us-backed-agreement-deepens-ties-officials-address-saudi-arabia-growing-houthi-threat-global-shipping",
-    "published": "Wed, 16 Sep 2026 17:39:41 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d2c2ea9954ef74a3d55000548e2d29ff",
-    "fetched_at": "2026-09-18T18:46:04.459814+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Family member of lawyer who coined 'genocide' seeks to strip name from group accusing Israel of atrocity",
-    "summary": "A relative of &quot;genocide&quot; term creator Raphael Lemkin wants a Pennsylvania nonprofit to drop the family name over its accusations against Israel. The institute defends its mission and name.",
-    "link": "https://www.foxnews.com/world/family-member-lawyer-who-coined-genocide-seeks-strip-name-from-group-accusing-israel-atrocity",
-    "published": "Thu, 17 Sep 2026 10:40:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd7014a78eb54afcce3a8e82c5de005a",
-    "fetched_at": "2026-09-18T18:46:04.459811+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Saudi Arabia facing 'biggest threat' ever to oil production as Iran-proxy Houthis launch attacks, expert says",
-    "summary": "Saudi Arabia faces the biggest threat to its oil production since 1932 as Houthis launch attacks near the Red Sea&apos;s Bab el-Mandeb Strait, an expert says.",
-    "link": "https://www.foxnews.com/world/saudi-arabia-facing-biggest-threat-oil-production-iran-proxy-houthis-launch-attacks-expert-says",
-    "published": "Thu, 17 Sep 2026 12:59:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0a9bac672d6d25d5fb42dd2f0ae2dcbe",
-    "fetched_at": "2026-09-18T18:46:04.459808+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
-    "summary": "Satellite imagery reveals Iran added new defenses at Pickaxe Mountain near Natanz as Trump warns Tehran not to &quot;get cute&quot; with the nuclear site.",
-    "link": "https://www.foxnews.com/world/fresh-activity-emerges-irans-deeply-buried-nuclear-site-trump-warns-iran-not-get-cute",
-    "published": "Thu, 17 Sep 2026 14:30:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "807133deb57dfcf118bb08387a71d534",
-    "fetched_at": "2026-09-18T18:46:04.459806+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China firm gave Iran lifeline to collect Hormuz tolls before pulling plug amid US warning",
-    "summary": "After briefly issuing a web security certificate for a portal linked to Iran&apos;s U.S.-sanctioned Persian Gulf Strait Authority, a Shanghai-based firm revoked it, though the move could still draw scrutiny under U.S. sanctions rules",
-    "link": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
-    "published": "Fri, 18 Sep 2026 12:17:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "116fa9948bf69f3a86ec6febd964cc22",
-    "fetched_at": "2026-09-18T18:46:04.459802+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
-    "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-    "published": "Thu, 17 Sep 2026 15:33:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "3779b430a29c5bebd60dee6845e7ce11",
-    "fetched_at": "2026-09-18T18:46:04.459772+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Behind the overture from the European Union to Canada",
-    "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
-    "published": "Thu, 17 Sep 2026 16:24:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "af62b5f911dd71c8edba7ee776517d9c",
-    "fetched_at": "2026-09-18T18:46:03.326833+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-    "summary": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
-    "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-    "published": "Fri, 18 Sep 2026 12:07:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "92c8d3ec9d890535affbf99b3fb8ca94",
-    "fetched_at": "2026-09-18T18:46:02.146681+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-    "summary": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
-    "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 01:23:10 GMT",
-    "source": "BBC News",
-    "id": "0f741eadb751b355b4d93eab17736fb5",
-    "fetched_at": "2026-09-18T18:46:01.023694+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: Sixth batch of UFO files includes orbs from 1952",
-    "summary": "The footage was filmed by a US Navy officer who reported the group of bright airborne objects to the Air Force's UFO investigation programme.",
-    "link": "https://www.bbc.co.uk/news/videos/cm4glen7dpx9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 14:52:29 GMT",
-    "source": "BBC News",
-    "id": "e709a0d7a599e8a95ea854ebeaa95cf0",
-    "fetched_at": "2026-09-18T18:45:59.889932+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
-    "summary": "The 23-year-old was returning home with a friend who got sick in the car when the Uber driver allegedly ordered them to get out of the vehicle on a California highway.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8d1gw6l8po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 15:47:15 GMT",
-    "source": "BBC News",
-    "id": "9f55eb20bd7583ba1764a715df910ff7",
-    "fetched_at": "2026-09-18T18:45:58.747101+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why an American football game played the Canadian national anthem",
-    "summary": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 15:14:40 GMT",
-    "source": "BBC News",
-    "id": "95e8e7438ab3739508f1da5f0308a954",
-    "fetched_at": "2026-09-18T18:45:57.599599+00:00"
   }
 ]
