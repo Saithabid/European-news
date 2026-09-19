@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Swedish PM Kristersson resigns after election loss",
+    "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
+    "source": "BBC News",
+    "id": "2f4c541f5fb0ebb6011fba8d88f1e647",
+    "fetched_at": "2026-09-19T02:32:03.871855+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Archbishop of Canterbury withdraws award from Muslim cleric after past Osama bin Laden praise surfaces",
+    "summary": "Maulana Hafiz Muhammad Tahir Mehmood Ashrafi received the Hubert Walter Award at Lambeth Palace days before past praise of Osama bin Laden surfaced.",
+    "link": "https://www.foxnews.com/world/archbishop-canterbury-withdraws-award-muslim-cleric-osama-bin-laden-praise-surfaces",
+    "published": "Thu, 17 Sep 2026 23:59:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fafedf23f2dfa3e80a2c72970592028d",
+    "fetched_at": "2026-09-19T02:32:02.731391+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba plunges into total blackout as electrical grid collapses again, US Embassy warns",
+    "summary": "Cuba&apos;s entire electrical grid collapsed Friday, triggering a nationwide blackout with cellphone and internet outages reported across the island.",
+    "link": "https://www.foxnews.com/world/cuba-plunges-total-blackout-electrical-grid-collapses-us-embassy-warns",
+    "published": "Fri, 18 Sep 2026 20:38:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "801fb7597f8ec96759d6b3689c7aba1c",
+    "fetched_at": "2026-09-19T02:32:01.598891+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+    "summary": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+    "published": "Fri, 18 Sep 2026 04:02:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "b06d7f0c3bcdf3508a4c4fd74b70ea32",
+    "fetched_at": "2026-09-19T02:32:00.453143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russians head to the polls to choose lawmakers for their parliament",
+    "summary": "Russians head to the polls to choose lawmakers for their parliament, the Duma. It's Russia's first nationwide parliamentary race since launching its full scale invasion of Ukraine in 2022.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
+    "published": "Fri, 18 Sep 2026 19:04:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "51afd79f1de0797b7e7a13b6d5d50eea",
+    "fetched_at": "2026-09-19T02:31:59.303198+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says son has paid back Putin ally for partly funding wedding festivities",
+    "summary": "Daughter in-law Bettina Trump confirms that Umar Kremlev partially funded two nights of their three-day festivities on a private island in the Bahamas.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgl7dk3we3ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 22:34:00 GMT",
+    "source": "BBC News",
+    "id": "43d463a62688b796dd5eedacab8c2c91",
+    "fetched_at": "2026-09-19T02:31:58.161608+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+    "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+    "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 00:03:53 GMT",
+    "source": "BBC News",
+    "id": "7bce29ea95641bef60c74ee52c770268",
+    "fetched_at": "2026-09-19T02:31:57.019009+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 22:58:55 GMT",
+    "source": "BBC News",
+    "id": "491edc8ad43714cb9c0f8b005ce3a6ff",
+    "fetched_at": "2026-09-19T02:31:55.870483+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "North Korean anthem played for South Korea at Asian Games",
     "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
     "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "2384f112340f8cb38bb284b630236563",
     "fetched_at": "2026-09-18T14:00:31.800437+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Africa 'feels like a prison' for women amid spate of femicides",
-    "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
-    "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-    "published": "Fri, 18 Sep 2026 06:39:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "351b1a0d15e9c3e6b08c135f24b9abc1",
-    "fetched_at": "2026-09-18T14:00:30.678948+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-    "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
-    "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-    "published": "Fri, 18 Sep 2026 07:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "8aca80203d9896b1b45eb4737f232f8a",
-    "fetched_at": "2026-09-18T14:00:29.541179+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-    "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
-    "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-    "published": "Fri, 18 Sep 2026 07:09:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "641c128c5875bcc5b3e434f3f15f9152",
-    "fetched_at": "2026-09-18T14:00:28.426093+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Resident Evil movie director says he was not prepared for fan backlash",
-    "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 12:58:55 GMT",
-    "source": "BBC News",
-    "id": "95979417ff1edd8863011fc458a88217",
-    "fetched_at": "2026-09-18T14:00:27.287176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 12:27:18 GMT",
-    "source": "BBC News",
-    "id": "d184a8faa6a6aac55506cfc69a6c732c",
-    "fetched_at": "2026-09-18T14:00:26.154681+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-    "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-    "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 11:49:46 GMT",
-    "source": "BBC News",
-    "id": "6137c1b7c92318838b19e98241505e61",
-    "fetched_at": "2026-09-18T14:00:25.032195+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-    "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 23:24:07 GMT",
-    "source": "BBC News",
-    "id": "60647b2c9a71a3109c3288472b3756d5",
-    "fetched_at": "2026-09-18T08:38:32.541313+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least one dead and multiple injured in Philippines school shooting",
-    "summary": "At least one person is believed to have died and several injured after the shooting in Banga in Mindanao province.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 08:28:27 GMT",
-    "source": "BBC News",
-    "id": "36b07ab18e43f813778c3b58a643c17e",
-    "fetched_at": "2026-09-18T08:38:32.541311+00:00"
   }
 ]
