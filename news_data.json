@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Cultural treasures are being destroyed by war, and people want justice",
+    "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 23:18:18 GMT",
+    "source": "BBC News",
+    "id": "311614bab20e7228aca5291afadeae2c",
+    "fetched_at": "2026-09-19T23:57:59.253323+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+    "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 23:01:38 GMT",
+    "source": "BBC News",
+    "id": "2098c5ef54455e702b79e24bf48ff03b",
+    "fetched_at": "2026-09-19T23:57:58.121914+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Swedish PM Kristersson resigns after election loss",
+    "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 12:41:05 GMT",
+    "source": "BBC News",
+    "id": "2f4c541f5fb0ebb6011fba8d88f1e647",
+    "fetched_at": "2026-09-19T23:57:57.006955+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Archbishop of Canterbury withdraws award from Muslim cleric after past Osama bin Laden praise surfaces",
+    "summary": "Maulana Hafiz Muhammad Tahir Mehmood Ashrafi received the Hubert Walter Award at Lambeth Palace days before past praise of Osama bin Laden surfaced.",
+    "link": "https://www.foxnews.com/world/archbishop-canterbury-withdraws-award-muslim-cleric-osama-bin-laden-praise-surfaces",
+    "published": "Thu, 17 Sep 2026 23:59:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fafedf23f2dfa3e80a2c72970592028d",
+    "fetched_at": "2026-09-19T23:57:55.886078+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cuba plunges into total blackout as electrical grid collapses again, US Embassy warns",
+    "summary": "Cuba&apos;s entire electrical grid collapsed Friday, triggering a nationwide blackout with cellphone and internet outages reported across the island.",
+    "link": "https://www.foxnews.com/world/cuba-plunges-total-blackout-electrical-grid-collapses-us-embassy-warns",
+    "published": "Fri, 18 Sep 2026 20:38:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "801fb7597f8ec96759d6b3689c7aba1c",
+    "fetched_at": "2026-09-19T23:57:54.771525+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russians head to the polls to choose lawmakers for their parliament",
+    "summary": "Russians head to the polls to choose lawmakers for their parliament, the Duma. It's Russia's first nationwide parliamentary race since launching its full scale invasion of Ukraine in 2022.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament",
+    "published": "Fri, 18 Sep 2026 19:04:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "51afd79f1de0797b7e7a13b6d5d50eea",
+    "fetched_at": "2026-09-19T23:57:53.660504+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+    "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 23:00:27 GMT",
+    "source": "BBC News",
+    "id": "491edc8ad43714cb9c0f8b005ce3a6ff",
+    "fetched_at": "2026-09-19T23:57:52.534864+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "One dead after torrential rain and flash floods hit Barcelona region",
     "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
     "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "8aca80203d9896b1b45eb4737f232f8a",
     "fetched_at": "2026-09-19T08:25:35.995099+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-    "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
-    "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-    "published": "Fri, 18 Sep 2026 07:09:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "641c128c5875bcc5b3e434f3f15f9152",
-    "fetched_at": "2026-09-19T08:25:34.868290+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Denmark reach deal to build US military presence in Greenland",
-    "summary": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-    "published": "Sat, 19 Sep 2026 00:44:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "1d3cf32f2591b52484bc7705e3ee9a50",
-    "fetched_at": "2026-09-19T08:25:33.741128+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As Europe warms, Italy sees West Nile virus spread",
-    "summary": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
-    "published": "Sat, 19 Sep 2026 01:13:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "677961009f28e7a3e324892c6df244ad",
-    "fetched_at": "2026-09-19T08:25:32.618818+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-    "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-    "published": "Sat, 19 Sep 2026 02:39:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "67c373eeb91e039d43c2ead8a11eeba8",
-    "fetched_at": "2026-09-19T08:25:31.476835+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Resident Evil movie director says he was not prepared for fan backlash",
-    "summary": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 12:58:55 GMT",
-    "source": "BBC News",
-    "id": "95979417ff1edd8863011fc458a88217",
-    "fetched_at": "2026-09-19T08:25:30.306729+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump signs sweeping Russia sanctions bill",
-    "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 22:05:47 GMT",
-    "source": "BBC News",
-    "id": "4e826f449dd80e85ae9c19335dc492a0",
-    "fetched_at": "2026-09-19T08:25:29.149935+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-    "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-    "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 11:49:46 GMT",
-    "source": "BBC News",
-    "id": "6137c1b7c92318838b19e98241505e61",
-    "fetched_at": "2026-09-19T08:25:28.013941+00:00"
   }
 ]
