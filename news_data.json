@@ -1,5 +1,95 @@
 [
   {
+    "region": "Europe",
+    "title": "German elections under way which could decide fate of Chancellor Merz",
+    "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 07:57:32 GMT",
+    "source": "BBC News",
+    "id": "ef3cbda4fa5ff18944cf29381b2fc784",
+    "fetched_at": "2026-09-20T08:57:17.769533+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+    "summary": "An oil refinery was also hit in the Russian capital and flights were suspended at two airports.",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 08:41:36 GMT",
+    "source": "BBC News",
+    "id": "9aec50e6f7cd54051c634681934d0ebb",
+    "fetched_at": "2026-09-20T08:57:17.769522+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 20th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-morning",
+    "published": "Sun, 20 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1ba954242c58731eea0925447da445ea",
+    "fetched_at": "2026-09-20T08:57:16.667515+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US embassies issue security alerts over Houthi attacks on Saudi Arabia",
+    "summary": "The alerts advised Americans to \"be aware of potential flight cancellations, airspace closures, and travel disruptions\" and said the conflict could \"escalate rapidly.\"",
+    "link": "https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia",
+    "published": "Sun, 20 Sep 2026 08:17:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bc2cbf00a34b00ea71dc7e6da4b97bbc",
+    "fetched_at": "2026-09-20T08:57:15.584562+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens Philadelphia show",
+    "summary": "The English singer-songwriter opened his show sharing his opinions on Gaza, noting that while 7 October attacks were horrific, the Israeli response which killed countless women and children was “catastrophic” and “disproportionate”.",
+    "link": "https://www.euronews.com/2026/09/20/ed-sheeran-says-situation-in-gaza-is-catastrophic-and-unjustifiable-as-he-opens-philadelph",
+    "published": "Sun, 20 Sep 2026 08:27:31 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4d7016d1993a5f9b6b3607ff93019a41",
+    "fetched_at": "2026-09-20T08:57:14.474911+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US military says four killed in strike on suspected drug-trafficking boat in Caribbean",
+    "summary": "The US has moved to clamp down on drug-smuggling routes under US President Donald Trump, who has pledged to \"wage war\" against drug cartels.",
+    "link": "https://www.euronews.com/2026/09/20/us-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-caribbean",
+    "published": "Sun, 20 Sep 2026 09:11:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fbcf49ab4b42e24e62ad6aa03f1ff5d5",
+    "fetched_at": "2026-09-20T08:57:13.377336+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "CNN, MS NOW, POLITICO journalists denied access to the White House after Trump said he'd bar them",
+    "summary": "The White House Correspondents’ Association, led by Fox News’ Jacqui Heinrich called on the Trump administration to immediately restore access to the representatives of the media organisations it barred, arguing that the move sets a dangerous precedent for free speech.",
+    "link": "https://www.euronews.com/2026/09/20/cnn-ms-now-politico-journalists-denied-access-to-the-white-house-after-trump-said-hed-bar-",
+    "published": "Sun, 20 Sep 2026 09:30:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c2486394ca72c286140a5247e402d635",
+    "fetched_at": "2026-09-20T08:57:12.267997+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "North Korea launches 'suspected ballistic missile' into East Sea",
+    "summary": "In August, Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship.",
+    "link": "https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea",
+    "published": "Sun, 20 Sep 2026 10:07:39 +0200",
+    "source": "News | Euronews RSS",
+    "id": "45e6cb8249f95374c05864ae1eb134af",
+    "fetched_at": "2026-09-20T08:57:11.162349+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia says Houthis tried to attack its capital",
+    "summary": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+    "published": "Sat, 19 Sep 2026 23:57:23 -0400",
+    "source": "NPR Topics: World",
+    "id": "49dedbbd69d52b6a9189d8fc96bf4805",
+    "fetched_at": "2026-09-20T08:57:10.045185+00:00"
+  },
+  {
     "region": "USA",
     "title": "'Devoted' father and grandfather-to-be swimming at popular beach killed in suspected fatal shark attack",
     "summary": "Greg O&apos;Neill, 63, was attacked by a great white shark at Sorrento Beach in Perth, Western Australia, prompting a rare catch-and-kill order.",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "5013dd3a6afcdbfee24c6010819eb6a7",
     "fetched_at": "2026-09-19T13:36:55.706938+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Shots heard as police start moving migrants from Ceuta beaches",
-    "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 11:59:42 GMT",
-    "source": "BBC News",
-    "id": "263d4844923d1532b71527699a842f2a",
-    "fetched_at": "2026-09-19T13:36:54.590889+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-    "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 18:04:38 GMT",
-    "source": "BBC News",
-    "id": "971f1d0cca16fdc30f7757e9f328c783",
-    "fetched_at": "2026-09-19T13:36:53.463943+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
-    "summary": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
-    "link": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
-    "published": "Fri, 18 Sep 2026 06:00:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "53409b75e9cfc1319483d455a148ccc5",
-    "fetched_at": "2026-09-19T13:36:52.342793+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
-    "summary": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
-    "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
-    "published": "Sat, 19 Sep 2026 07:40:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e2e5ec9e93908bab643c91b4bb25b81",
-    "fetched_at": "2026-09-19T13:36:51.204635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
-    "source": "BBC News",
-    "id": "86ef1dffa4de987b87e0b8dfa5ccb327",
-    "fetched_at": "2026-09-19T13:36:50.055714+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-    "summary": "Residents later received the all-clear after explosions were reported in the capital.",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 04:20:47 GMT",
-    "source": "BBC News",
-    "id": "1dc073e4c9b6a8a453e561110b008238",
-    "fetched_at": "2026-09-19T08:25:35.995148+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Grim discoveries of murdered women spark fear in South Africa",
-    "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-    "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 23:04:41 GMT",
-    "source": "BBC News",
-    "id": "0cb166a263b3ac5258f4b940034925d9",
-    "fetched_at": "2026-09-19T08:25:35.995145+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Google's Gemini AI hacked three companies in security test",
-    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 04:27:11 GMT",
-    "source": "BBC News",
-    "id": "c3351581c2c57b1ff2cbc5c619fc2bcf",
-    "fetched_at": "2026-09-19T08:25:35.995143+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russians leave before election ends, fearing mobilisation to follow",
-    "summary": "Requests for emergency emigration assistance from Russia have surged eightfold since July, with searches for \"how to leave\" and \"mobilisation\" at their highest since early 2023. An electronic summons register now automatically triggers an exit ban, documented cases show.",
-    "link": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
-    "published": "Sat, 19 Sep 2026 07:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2ef6881a1d6385e59bbfb538e6107164",
-    "fetched_at": "2026-09-19T08:25:35.995141+00:00"
   }
 ]
