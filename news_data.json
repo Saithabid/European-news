@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+    "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+    "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 19:04:11 GMT",
+    "source": "BBC News",
+    "id": "adbdd2a524b4df7f29aa0e3096d051f2",
+    "fetched_at": "2026-09-20T20:05:01.423331+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China firm gave Iran lifeline to collect Hormuz tolls before pulling plug amid US warning",
+    "summary": "After briefly issuing a web security certificate for a portal linked to Iran&apos;s U.S.-sanctioned Persian Gulf Strait Authority, a Shanghai-based firm revoked it, though the move could still draw scrutiny under U.S. sanctions rules",
+    "link": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
+    "published": "Fri, 18 Sep 2026 12:17:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "116fa9948bf69f3a86ec6febd964cc22",
+    "fetched_at": "2026-09-20T20:05:00.332301+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Life in Kabul 5 years after the Taliban's return",
+    "summary": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+    "published": "Sat, 19 Sep 2026 07:40:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "bbb31b6c67b2a390ab7303695fcf7366",
+    "fetched_at": "2026-09-20T20:04:59.241248+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+    "summary": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains.",
+    "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+    "published": "Sun, 20 Sep 2026 13:29:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "b34bc2b38324f37d45449b0439af52f4",
+    "fetched_at": "2026-09-20T20:04:58.139499+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump escalates media fight after week of setbacks",
+    "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 17:23:37 GMT",
+    "source": "BBC News",
+    "id": "025df4834f1eba60adb2447c92e4fe12",
+    "fetched_at": "2026-09-20T20:04:57.033092+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Google's Gemini AI hacked three companies in security test",
     "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
     "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "10b409889603e6bb0701bd5865f4581f",
     "fetched_at": "2026-09-19T19:50:52.855946+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky appoints new chief prosecutor after predecessor's corruption scandal",
-    "summary": "Former chief prosecutor Ruslan Kravchenko after searches of his offices by Ukrainian anti-corruption officials.",
-    "link": "https://www.bbc.co.uk/news/articles/c539mwvl10g4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 14:52:24 GMT",
-    "source": "BBC News",
-    "id": "e0534dce84c190eb74ede715b9c2d32d",
-    "fetched_at": "2026-09-19T19:50:51.723478+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eight German state premiers back Merz amid speculation over future",
-    "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 16 Sep 2026 14:50:26 GMT",
-    "source": "BBC News",
-    "id": "6b6c4a34e0f1c93f42117e08f7450627",
-    "fetched_at": "2026-09-19T19:50:50.573994+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ronaldo named in Jesus' first Portugal squad",
-    "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 12:45:25 GMT",
-    "source": "BBC News",
-    "id": "0de05885540c8dd0c3dcac00194fbce5",
-    "fetched_at": "2026-09-19T19:50:49.363234+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The new lines of southern Lebanon",
-    "summary": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
-    "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-    "published": "Sat, 19 Sep 2026 15:00:24 -0400",
-    "source": "NPR Topics: World",
-    "id": "ae84e58298302afc901ae77a268be4f2",
-    "fetched_at": "2026-09-19T19:50:48.150839+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
-    "source": "BBC News",
-    "id": "b987ea1e5de123eb44925a1c1b02abc1",
-    "fetched_at": "2026-09-19T19:50:47.022739+00:00"
   }
 ]
