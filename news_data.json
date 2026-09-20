@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | September 20th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-midday",
+    "published": "Sun, 20 Sep 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "eb66fb08d7dba2a6c3c5b6803793a299",
+    "fetched_at": "2026-09-20T13:50:46.941507+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shots heard as police start moving migrants from Ceuta beaches",
+    "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 11:59:42 GMT",
+    "source": "BBC News",
+    "id": "263d4844923d1532b71527699a842f2a",
+    "fetched_at": "2026-09-20T13:50:46.941505+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+    "source": "BBC News",
+    "id": "971f1d0cca16fdc30f7757e9f328c783",
+    "fetched_at": "2026-09-20T13:50:46.941477+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
+    "summary": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
+    "link": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
+    "published": "Fri, 18 Sep 2026 06:00:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "53409b75e9cfc1319483d455a148ccc5",
+    "fetched_at": "2026-09-20T13:50:45.784740+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
+    "summary": "A nonpublic Russian roadmap details plans for alternative financial channels, nuclear cooperation and transport routes toward the Persian Gulf with Iran.",
+    "link": "https://www.foxnews.com/world/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-aviation",
+    "published": "Sun, 20 Sep 2026 06:30:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c8aa76a8498dc82928bedb9c6dea3237",
+    "fetched_at": "2026-09-20T13:50:44.625223+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine targets Russia with over 1,000 drones, killing 2 as Moscow holds last day of elections",
+    "summary": "Ukraine launched over 1,000 drones and missiles at Moscow in what Russia calls the largest attack of the war, damaging a major oil refinery.",
+    "link": "https://www.foxnews.com/world/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections",
+    "published": "Sun, 20 Sep 2026 07:49:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "30d720aa115b113f5306cadd3825407c",
+    "fetched_at": "2026-09-20T13:50:43.471022+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
+    "summary": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+    "published": "Sat, 19 Sep 2026 07:40:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "8e2e5ec9e93908bab643c91b4bb25b81",
+    "fetched_at": "2026-09-20T13:50:42.308750+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+    "summary": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
+    "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+    "published": "Sun, 20 Sep 2026 05:16:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "1ff8a6638014d6d0b35f71268aac0d23",
+    "fetched_at": "2026-09-20T13:50:41.146122+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "PHOTOS: The precarious life of fisherfolk",
+    "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+    "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+    "published": "Sun, 20 Sep 2026 08:24:02 -0400",
+    "source": "NPR Topics: World",
+    "id": "4e9b7da7fece106ad017133470f876fb",
+    "fetched_at": "2026-09-20T13:50:39.975482+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
+    "source": "BBC News",
+    "id": "86ef1dffa4de987b87e0b8dfa5ccb327",
+    "fetched_at": "2026-09-20T13:50:38.803612+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "German elections under way which could decide fate of Chancellor Merz",
     "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
     "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "bbb31b6c67b2a390ab7303695fcf7366",
     "fetched_at": "2026-09-19T16:57:14.370374+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why an American football game played the Canadian national anthem",
-    "summary": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 15:14:40 GMT",
-    "source": "BBC News",
-    "id": "95e8e7438ab3739508f1da5f0308a954",
-    "fetched_at": "2026-09-19T16:57:13.224096+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
-    "summary": "The 23-year-old was returning home with a friend who got sick in the car when the Uber driver allegedly ordered them to get out of the vehicle on a California highway.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8d1gw6l8po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 15:47:15 GMT",
-    "source": "BBC News",
-    "id": "9f55eb20bd7583ba1764a715df910ff7",
-    "fetched_at": "2026-09-19T16:57:12.106028+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Journalists denied White House access after Trump banned some media outlets",
-    "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 15:19:39 GMT",
-    "source": "BBC News",
-    "id": "bbf8c428aa12a788488f312443923fd2",
-    "fetched_at": "2026-09-19T16:57:10.970999+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-    "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 20:17:50 GMT",
-    "source": "BBC News",
-    "id": "0cf32426ff73f9532a8a92aeba87df9c",
-    "fetched_at": "2026-09-19T13:36:57.969439+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Millions without power as Cuba hit by latest major blackout",
-    "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 10:27:37 GMT",
-    "source": "BBC News",
-    "id": "d8715ba3e60222d31c8c49752a4fa55e",
-    "fetched_at": "2026-09-19T13:36:57.969436+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
-    "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 11:50:22 GMT",
-    "source": "BBC News",
-    "id": "f884346e6bc34ce2777f228286148e28",
-    "fetched_at": "2026-09-19T13:36:57.969433+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 19th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-midday",
-    "published": "Sat, 19 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "310af67990b4e7a5c130e31a7eaeaff3",
-    "fetched_at": "2026-09-19T13:36:57.969429+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN condemns 'shocking pattern' of sexual violence by Russian troops in Ukraine",
-    "summary": "Russia was added in May to the UN Secretary-General's list of countries credibly suspected of committing sexual violence in conflict — codified into international law decades ago as war crimes and crimes against humanity.",
-    "link": "https://www.euronews.com/2026/09/19/un-condemns-shocking-pattern-of-sexual-violence-by-russian-troops-in-ukraine",
-    "published": "Sat, 19 Sep 2026 14:33:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6444e06446482b70950ec2d3d339dfc7",
-    "fetched_at": "2026-09-19T13:36:57.969403+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Contrast in Tehran as unveiled women race marathon alongside regime military display",
-    "summary": "Tehran split into two worlds: unveiled women ran openly in a city marathon while state forces paraded machine guns nearby. The striking contrast exposes a deeply divided capital, caught between defiance and regime mobilisation amid rising warfare.",
-    "link": "https://www.euronews.com/2026/09/19/contrast-in-tehran-as-unveiled-women-race-marathon-alongside-regime-military-display",
-    "published": "Sat, 19 Sep 2026 15:26:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d724c72dedc7f2b4721f4af09bc6e433",
-    "fetched_at": "2026-09-19T13:36:56.834205+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "source": "BBC News",
-    "id": "5013dd3a6afcdbfee24c6010819eb6a7",
-    "fetched_at": "2026-09-19T13:36:55.706938+00:00"
   }
 ]
