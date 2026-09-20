@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 13:39:32 GMT",
+    "source": "BBC News",
+    "id": "c3351581c2c57b1ff2cbc5c619fc2bcf",
+    "fetched_at": "2026-09-20T17:12:07.422376+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+    "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 16:36:43 GMT",
+    "source": "BBC News",
+    "id": "55f1d70db8ddccec8536344835f52243",
+    "fetched_at": "2026-09-20T17:12:07.422372+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+    "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 16:50:21 GMT",
+    "source": "BBC News",
+    "id": "576faa5a0eebb46357fa719fb4d0491f",
+    "fetched_at": "2026-09-20T17:12:07.422344+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russians vote in final day of parliamentary elections",
+    "summary": "The vote comes as the Russian capital was hit by what its governor described as the \"largest-scale attack\" on the city since the war in Ukraine began.",
+    "link": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
+    "published": "Sun, 20 Sep 2026 15:59:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "596d04f1b46d9af7b89966030a052c04",
+    "fetched_at": "2026-09-20T17:12:06.293610+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 20th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-evening",
+    "published": "Sun, 20 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "21207ead4feda8a280bc770ac6a79228",
+    "fetched_at": "2026-09-20T17:12:05.165512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+    "source": "BBC News",
+    "id": "5013dd3a6afcdbfee24c6010819eb6a7",
+    "fetched_at": "2026-09-20T17:12:04.047976+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hamas allegedly built weapons depots across Europe, planned terror attacks as Oct 7 anniversary neared",
+    "summary": "Federal German prosecutors indicted seven suspects who allegedly stockpiled weapons for Hamas to target Jewish communities and Israeli diplomats.",
+    "link": "https://www.foxnews.com/world/hamas-allegedly-built-weapons-depots-across-europe-planned-terror-attacks-oct-7-anniversary-neared",
+    "published": "Sun, 20 Sep 2026 09:56:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "214f60f5dc7eaf138f216a066589e3c6",
+    "fetched_at": "2026-09-20T17:12:02.919232+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
+    "summary": "Ambassador Mike Waltz says President Trump will push Gulf leaders and allies to enforce Iran sanctions at the United Nations, warning of consequences for noncompliance.",
+    "link": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
+    "published": "Sun, 20 Sep 2026 11:01:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b29acc9981a3fe3e04a9d0af9ba56e07",
+    "fetched_at": "2026-09-20T17:12:01.797936+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
+    "summary": "The 23-year-old was returning home with a friend who got sick in the car when the Uber driver allegedly ordered them to get out of the vehicle on a California highway.",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8d1gw6l8po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 15:47:15 GMT",
+    "source": "BBC News",
+    "id": "9f55eb20bd7583ba1764a715df910ff7",
+    "fetched_at": "2026-09-20T17:12:00.667224+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Journalists denied White House access after Trump banned some media outlets",
+    "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 19 Sep 2026 19:13:49 GMT",
+    "source": "BBC News",
+    "id": "bbf8c428aa12a788488f312443923fd2",
+    "fetched_at": "2026-09-20T17:11:59.556159+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Latest news bulletin | September 20th, 2026 – Midday",
     "summary": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "link": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-midday",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "b987ea1e5de123eb44925a1c1b02abc1",
     "fetched_at": "2026-09-19T19:50:47.022739+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Analysis: Trump escalates media fight after week of setbacks",
-    "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 17:23:37 GMT",
-    "source": "BBC News",
-    "id": "025df4834f1eba60adb2447c92e4fe12",
-    "fetched_at": "2026-09-19T19:50:45.822722+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ed Sheeran set to play first concert since Macklemore controversy",
-    "summary": "The show in Philadelphia comes after rapper Macklemore was dropped  Ed Sheeran's tour over pro-Palestinian comments.",
-    "link": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 17:34:22 GMT",
-    "source": "BBC News",
-    "id": "276463efbdc9189f5a6089015e4d26bb",
-    "fetched_at": "2026-09-19T19:50:44.678290+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flames and smoke spotted at Riyadh's King Khalid airport after overnight air raid alert",
-    "summary": "Saudi Civil Defense had sent an alert to residents in several parts of the country overnight, warning of potential danger and advising people to remain indoors and away from windows.",
-    "link": "https://www.euronews.com/2026/09/19/flames-and-smoke-spotted-at-riyadhs-king-khalid-airport-after-overnight-air-raid-alert",
-    "published": "Sat, 19 Sep 2026 15:53:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5d5b0f38365a58032e84396eb342bd5e",
-    "fetched_at": "2026-09-19T16:57:18.861944+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 19th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/19/latest-news-bulletin-september-19th-2026-evening",
-    "published": "Sat, 19 Sep 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "630f7bb0c9be27b074ab2ece540932e9",
-    "fetched_at": "2026-09-19T16:57:18.861941+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Family member of lawyer who coined 'genocide' seeks to strip name from group accusing Israel of atrocity",
-    "summary": "A relative of &quot;genocide&quot; term creator Raphael Lemkin wants a Pennsylvania nonprofit to drop the family name over its accusations against Israel. The institute defends its mission and name.",
-    "link": "https://www.foxnews.com/world/family-member-lawyer-who-coined-genocide-seeks-strip-name-from-group-accusing-israel-atrocity",
-    "published": "Thu, 17 Sep 2026 10:40:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dd7014a78eb54afcce3a8e82c5de005a",
-    "fetched_at": "2026-09-19T16:57:18.861937+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Saudi Arabia facing 'biggest threat' ever to oil production as Iran-proxy Houthis launch attacks, expert says",
-    "summary": "Saudi Arabia faces the biggest threat to its oil production since 1932 as Houthis launch attacks near the Red Sea&apos;s Bab el-Mandeb Strait, an expert says.",
-    "link": "https://www.foxnews.com/world/saudi-arabia-facing-biggest-threat-oil-production-iran-proxy-houthis-launch-attacks-expert-says",
-    "published": "Thu, 17 Sep 2026 12:59:29 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0a9bac672d6d25d5fb42dd2f0ae2dcbe",
-    "fetched_at": "2026-09-19T16:57:18.861902+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
-    "summary": "Satellite imagery reveals Iran added new defenses at Pickaxe Mountain near Natanz as Trump warns Tehran not to &quot;get cute&quot; with the nuclear site.",
-    "link": "https://www.foxnews.com/world/fresh-activity-emerges-irans-deeply-buried-nuclear-site-trump-warns-iran-not-get-cute",
-    "published": "Thu, 17 Sep 2026 14:30:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "807133deb57dfcf118bb08387a71d534",
-    "fetched_at": "2026-09-19T16:57:17.751387+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China firm gave Iran lifeline to collect Hormuz tolls before pulling plug amid US warning",
-    "summary": "After briefly issuing a web security certificate for a portal linked to Iran&apos;s U.S.-sanctioned Persian Gulf Strait Authority, a Shanghai-based firm revoked it, though the move could still draw scrutiny under U.S. sanctions rules",
-    "link": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
-    "published": "Fri, 18 Sep 2026 12:17:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "116fa9948bf69f3a86ec6febd964cc22",
-    "fetched_at": "2026-09-19T16:57:16.631487+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-    "summary": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
-    "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-    "published": "Fri, 18 Sep 2026 12:07:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "92c8d3ec9d890535affbf99b3fb8ca94",
-    "fetched_at": "2026-09-19T16:57:15.505044+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Life in Kabul 5 years after the Taliban's return",
-    "summary": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
-    "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-    "published": "Sat, 19 Sep 2026 07:40:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "bbb31b6c67b2a390ab7303695fcf7366",
-    "fetched_at": "2026-09-19T16:57:14.370374+00:00"
   }
 ]
