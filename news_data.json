@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+    "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 20 Sep 2026 21:17:22 GMT",
+    "source": "BBC News",
+    "id": "f06ac7e925c691384b4dfa49f0ffe657",
+    "fetched_at": "2026-09-20T23:45:25.941951+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ronaldo named in Jesus' first Portugal squad",
+    "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 12:45:25 GMT",
+    "source": "BBC News",
+    "id": "0de05885540c8dd0c3dcac00194fbce5",
+    "fetched_at": "2026-09-20T23:45:24.806717+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+    "summary": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
+    "link": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+    "published": "Sun, 20 Sep 2026 16:30:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c5fb9e0b5db75c6abaeb6d55b63c9dfa",
+    "fetched_at": "2026-09-20T23:45:23.663695+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The new lines of southern Lebanon",
+    "summary": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
+    "published": "Sat, 19 Sep 2026 15:00:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "ae84e58298302afc901ae77a268be4f2",
+    "fetched_at": "2026-09-20T23:45:22.519872+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Defining global leadership in AI at Trump-Xi summit",
+    "summary": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
+    "link": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
+    "published": "Sun, 20 Sep 2026 17:15:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "2d35e6efc4ad0bf045852cae485cfbd9",
+    "fetched_at": "2026-09-20T23:45:21.371261+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+    "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
+    "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+    "published": "Sun, 20 Sep 2026 17:39:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "be8ad85fa9c12b8f0631d53c8560f30c",
+    "fetched_at": "2026-09-20T23:45:20.231817+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
+    "source": "BBC News",
+    "id": "b987ea1e5de123eb44925a1c1b02abc1",
+    "fetched_at": "2026-09-20T23:45:19.095344+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
     "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
     "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "4a7b5db916d68e5e33995b4cc57e570a",
     "fetched_at": "2026-09-19T21:59:27.819095+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Third person dies after mosquito is reportedly trapped on plane to Germany in 'airport malaria' phenomenon",
-    "summary": "Three people have died from so-called &quot;airport malaria&quot; after an infected mosquito was reportedly transported aboard a flight to Frankfurt Airport in Germany.",
-    "link": "https://www.foxnews.com/world/third-person-dies-mosquito-trapped-plane-germany-airport-malaria-phenomenon",
-    "published": "Fri, 18 Sep 2026 16:21:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "588dc59867c1ac759176e9206413b3b6",
-    "fetched_at": "2026-09-19T21:59:26.666343+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Syrian regime planned American journalist's kidnapping for weeks",
-    "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
-    "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
-    "published": "Fri, 18 Sep 2026 15:13:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "eb72b71439f6c12a0b5d5b9ff55e2642",
-    "fetched_at": "2026-09-19T21:59:25.541929+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
-    "summary": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward.",
-    "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
-    "published": "Fri, 18 Sep 2026 15:14:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "c6c2b2f97a45cd465ee4e1c4d3af859c",
-    "fetched_at": "2026-09-19T21:59:24.384854+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-    "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 21:01:56 GMT",
-    "source": "BBC News",
-    "id": "62aeb573921a4ca309ebd9d5c2cf31ab",
-    "fetched_at": "2026-09-19T21:59:23.225148+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Converse pulls 'deeply upsetting' advert after backlash",
-    "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
-    "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 14:05:01 GMT",
-    "source": "BBC News",
-    "id": "db9fcfc641dd87d4e2b0b838cfa72125",
-    "fetched_at": "2026-09-19T19:50:52.855959+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-    "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 19 Sep 2026 19:09:49 GMT",
-    "source": "BBC News",
-    "id": "e8c5f81b6f39d541807cda2622b48940",
-    "fetched_at": "2026-09-19T19:50:52.855957+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police clash with far-right protesters at anti-immigration rally in The Hague",
-    "summary": "Dutch police clashed with around 500 far-right protesters during a rally against immigration and asylum policies in The Hague.",
-    "link": "https://www.euronews.com/video/2026/09/19/police-clash-with-far-right-protesters-at-anti-immigration-rally-in-the-hague",
-    "published": "Sat, 19 Sep 2026 19:13:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "10b409889603e6bb0701bd5865f4581f",
-    "fetched_at": "2026-09-19T19:50:52.855946+00:00"
   }
 ]
