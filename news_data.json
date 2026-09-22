@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Brigitte Bardot's ballet flats and diamond rings to be sold at auction",
+    "summary": "Many of the film star's personal items, on sale in Paris, are priced at under €100.",
+    "link": "https://www.bbc.co.uk/news/articles/c5j9x83yw19wo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 11:15:14 GMT",
+    "source": "BBC News",
+    "id": "1cf312a8fc4a0ab3b1380cffd7d28cd0",
+    "fetched_at": "2026-09-22T00:27:35.963458+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+    "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+    "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 00:05:11 GMT",
+    "source": "BBC News",
+    "id": "b1909cd0e28134d17f2ddf977aeb43a8",
+    "fetched_at": "2026-09-22T00:27:35.963455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Italian PM pushes foreign student cap in classrooms, burqa, niqab ban in schools",
+    "summary": "Giorgia Meloni&apos;s proposed legislation would cap foreign students per classroom and ban burqas and niqabs in Italian schools to foster integration.",
+    "link": "https://www.foxnews.com/world/italian-pm-pushes-cap-foreign-students-classes-ban-burqas-niqabs-italian-schools",
+    "published": "Mon, 21 Sep 2026 17:26:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8704f0ea350d6c717f1de57834ff5257",
+    "fetched_at": "2026-09-22T00:27:35.963450+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How Russia's parliamentary election might affect the war in Ukraine",
+    "summary": "NPR's Steve Inskeep asks Russian foreign policy expert Hanna Notte about the results of Russia's parliamentary election and what it means for Moscow's war in Ukraine.",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
+    "published": "Mon, 21 Sep 2026 04:39:56 -0400",
+    "source": "NPR Topics: World",
+    "id": "1d292dea65cc67a3c89ff9e0bb47661f",
+    "fetched_at": "2026-09-22T00:27:35.963425+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+    "summary": "Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moïse were being extradited to the U.S. on Sunday to face justice in Florida.",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+    "published": "Mon, 21 Sep 2026 04:41:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "d7cb781698b983275b288e561d205180",
+    "fetched_at": "2026-09-22T00:27:34.830701+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What to know as world leaders converge at the United Nations this week",
+    "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+    "published": "Mon, 21 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "07e69f12edff5ac62482ba0b54e6371d",
+    "fetched_at": "2026-09-22T00:27:33.708892+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's leader stands his ground after his party loses in state elections",
+    "summary": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms.",
+    "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+    "published": "Mon, 21 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "775110a0f56e922de6efa6e7aeecb577",
+    "fetched_at": "2026-09-22T00:27:32.585748+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
+    "summary": "Nigeria's lavish wedding tradition is colliding with a cost-of-living crisis, forcing young couples to rethink how they say \"I do.\"",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition",
+    "published": "Mon, 21 Sep 2026 18:44:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "fe8b7f995ee5e46e68d39e2cf3bf9fa9",
+    "fetched_at": "2026-09-22T00:27:31.457323+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney condemns Yom Kippur shooting outside Canadian synagogue",
+    "summary": "The Sunday night shooting left an officer in critical-but-stable condition and the suspect in life-threatening condition.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy5z2vpre21o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 18:48:27 GMT",
+    "source": "BBC News",
+    "id": "f7428d3762315e734e91d75b02ccea89",
+    "fetched_at": "2026-09-22T00:27:30.336619+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Man guilty of attempted murder for shooting three men of Palestinian descent in Vermont",
+    "summary": "The shooting in November 2023 came amid a rise in Islamophobia and antisemitism following the start of the Israel-Gaza war.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9dw32nw853o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 19:25:57 GMT",
+    "source": "BBC News",
+    "id": "87c2c0c70731e731d80ffe57514a19da",
+    "fetched_at": "2026-09-22T00:27:29.200381+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flights at major US airports delayed after cable cut by construction workers",
+    "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 23:25:28 GMT",
+    "source": "BBC News",
+    "id": "7630c591ea39c76dd7a5dd5a31806312",
+    "fetched_at": "2026-09-22T00:27:28.056640+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "First UK charges brought over 1994 Rwanda genocide",
     "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
     "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "623d2c4812f85228d3193513e4b7c5b7",
     "fetched_at": "2026-09-21T16:07:14.896199+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-    "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 15:58:53 GMT",
-    "source": "BBC News",
-    "id": "728c3c3c203769dc024e4bace2fc4b0a",
-    "fetched_at": "2026-09-21T16:07:13.736890+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-    "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-    "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 20 Sep 2026 17:25:49 GMT",
-    "source": "BBC News",
-    "id": "c530a8f141bfe8cc14e7a376fddf943b",
-    "fetched_at": "2026-09-21T09:29:02.325797+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-    "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 07:20:27 GMT",
-    "source": "BBC News",
-    "id": "a121657364f39cc3556e3af3226946ab",
-    "fetched_at": "2026-09-21T09:29:02.325795+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lindsay Clancy's ex-husband says he forgave her so he would not be 'eaten up inside forever'",
-    "summary": "Patrick Clancy gives his first interview since his wife's mistrial over the killing of their three young children.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 05:52:57 GMT",
-    "source": "BBC News",
-    "id": "817a107e59d0ecd7a166f2fd53380867",
-    "fetched_at": "2026-09-21T09:29:02.325792+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-    "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 05:50:56 GMT",
-    "source": "BBC News",
-    "id": "b6bc1127b014f29dbd1ca4ec3595140a",
-    "fetched_at": "2026-09-21T09:29:02.325790+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-    "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 07:01:25 GMT",
-    "source": "BBC News",
-    "id": "a01849223a496a9342cdcef47ae28dc5",
-    "fetched_at": "2026-09-21T09:29:02.325788+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-    "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-    "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 20 Sep 2026 23:12:31 GMT",
-    "source": "BBC News",
-    "id": "5c7b82d6e2235a7472a50a0db26c4647",
-    "fetched_at": "2026-09-21T09:29:02.325786+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three arrested in South Africa over one of nine women's bodies found",
-    "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-    "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 09:18:19 GMT",
-    "source": "BBC News",
-    "id": "3ba19448cf9856432ef60c471c3435a4",
-    "fetched_at": "2026-09-21T09:29:02.325783+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seven Ethiopian rebel groups form new alliance",
-    "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-    "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 07:35:16 GMT",
-    "source": "BBC News",
-    "id": "0084a63860da49bc632f5e03f12a510a",
-    "fetched_at": "2026-09-21T09:29:02.325781+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and China to seek 'AI dialogue' to communicate shared concerns",
-    "summary": "US and Chinese economic officials discussed creating a communication channel for AI concerns at meetings Sunday as they set the stage for a summit of the countries' top leaders this week.",
-    "link": "https://www.euronews.com/next/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns",
-    "published": "Mon, 21 Sep 2026 05:54:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "47d0a7f3d863290fd56fa99b33850a57",
-    "fetched_at": "2026-09-21T09:29:02.325778+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 21st, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-morning",
-    "published": "Mon, 21 Sep 2026 07:00:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f3f5bef42f44316e449048492a264b71",
-    "fetched_at": "2026-09-21T09:29:02.325776+00:00"
   }
 ]
