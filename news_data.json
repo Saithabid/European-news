@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+    "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 19:47:44 GMT",
+    "source": "BBC News",
+    "id": "0b0a0e5ec805ac22a2201d11da1d458d",
+    "fetched_at": "2026-09-23T03:02:32.224154+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 04:00:38 GMT",
+    "source": "BBC News",
+    "id": "d916d83e150473cac384baea38bac3de",
+    "fetched_at": "2026-09-23T03:02:32.224114+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+    "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+    "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 16:54:56 GMT",
+    "source": "BBC News",
+    "id": "0449df9c969d67a2fbd873de607a6a9d",
+    "fetched_at": "2026-09-23T03:02:31.066853+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain battles climate change on several fronts",
+    "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 09:11:48 GMT",
+    "source": "BBC News",
+    "id": "c3dc2e1efa6d0ca4002be3afa51bad61",
+    "fetched_at": "2026-09-23T03:02:29.903405+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British man missing after diving into Lake Como to rescue teenager",
+    "summary": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 11:44:34 GMT",
+    "source": "BBC News",
+    "id": "457b07878d642ccca507d2bccf6c0486",
+    "fetched_at": "2026-09-23T03:02:28.773152+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eleven injured in shooting outside Turkish school",
+    "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 10:42:47 GMT",
+    "source": "BBC News",
+    "id": "4dbc356b71d825ef5d266a92c9e464ee",
+    "fetched_at": "2026-09-23T03:02:27.612459+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lukashenko reveals bizarre argument he and Putin have over who is the ‘bigger dictator’",
+    "summary": "Belarusian President Alexander Lukashenko told a youth forum that he and Vladimir Putin regularly argue over who is the bigger dictator.",
+    "link": "https://www.foxnews.com/world/lukashenko-reveals-bizarre-argument-putin-bigger-dictator",
+    "published": "Tue, 22 Sep 2026 21:50:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a2fb4c75a6fff72fb8fb3c663c29c3ce",
+    "fetched_at": "2026-09-23T03:02:26.438602+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+    "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 13:58:42 GMT",
+    "source": "BBC News",
+    "id": "f85cdb5db7470149c35fc802ff2e7aa7",
+    "fetched_at": "2026-09-23T03:02:25.252645+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Looksmaxxing' influencer Clavicular charged with rape in Massachusetts",
+    "summary": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
+    "link": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 16:45:14 GMT",
+    "source": "BBC News",
+    "id": "68260ab8981296b3085df7de28ccc599",
+    "fetched_at": "2026-09-23T03:02:24.077518+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "How Ceuta, football and Israel are shaping Morocco's election",
     "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
     "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "c8aa76a8498dc82928bedb9c6dea3237",
     "fetched_at": "2026-09-22T17:51:15.693219+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine targets Russia with over 1,000 drones, killing 2 as Moscow holds last day of elections",
-    "summary": "Ukraine launched over 1,000 drones and missiles at Moscow in what Russia calls the largest attack of the war, damaging a major oil refinery.",
-    "link": "https://www.foxnews.com/world/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections",
-    "published": "Sun, 20 Sep 2026 07:49:27 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "30d720aa115b113f5306cadd3825407c",
-    "fetched_at": "2026-09-22T17:51:15.693217+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hamas allegedly built weapons depots across Europe, planned terror attacks as Oct 7 anniversary neared",
-    "summary": "Federal German prosecutors indicted seven suspects who allegedly stockpiled weapons for Hamas to target Jewish communities and Israeli diplomats.",
-    "link": "https://www.foxnews.com/world/hamas-allegedly-built-weapons-depots-across-europe-planned-terror-attacks-oct-7-anniversary-neared",
-    "published": "Sun, 20 Sep 2026 09:56:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "214f60f5dc7eaf138f216a066589e3c6",
-    "fetched_at": "2026-09-22T17:51:15.693214+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
-    "summary": "Ambassador Mike Waltz says President Trump will push Gulf leaders and allies to enforce Iran sanctions at the United Nations, warning of consequences for noncompliance.",
-    "link": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
-    "published": "Sun, 20 Sep 2026 11:01:49 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b29acc9981a3fe3e04a9d0af9ba56e07",
-    "fetched_at": "2026-09-22T17:51:15.693210+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
-    "summary": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
-    "link": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-    "published": "Sun, 20 Sep 2026 16:30:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c5fb9e0b5db75c6abaeb6d55b63c9dfa",
-    "fetched_at": "2026-09-22T17:51:15.693184+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
-    "summary": "As world leaders gather for the U.N. General Assembly's annual general debate, Colombia's former president and Nobel Peace Prize laureate discusses the growing risks of autonomous weapons and AI",
-    "link": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly",
-    "published": "Mon, 21 Sep 2026 17:18:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "01d0fe87c3cdfa8118ac1cb2fc7e2529",
-    "fetched_at": "2026-09-22T17:51:14.528460+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "War between U.S. and Iran becomes a test of who will blink first",
-    "summary": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
-    "link": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
-    "published": "Tue, 22 Sep 2026 04:47:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "16570866c407b84403d17112f71460fc",
-    "fetched_at": "2026-09-22T17:51:13.377330+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
-    "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
-    "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
-    "published": "Tue, 22 Sep 2026 09:30:01 -0400",
-    "source": "NPR Topics: World",
-    "id": "d45591cdb109afe65a50059d5f4c4366",
-    "fetched_at": "2026-09-22T17:51:12.195769+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-    "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 14:51:39 GMT",
-    "source": "BBC News",
-    "id": "ed5ba7c95ed97c858b15f277b54ccdf4",
-    "fetched_at": "2026-09-22T17:51:11.033418+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'We screwed up': Doordash admits underpaying New York workers",
-    "summary": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
-    "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 16:50:24 GMT",
-    "source": "BBC News",
-    "id": "f9bb04f764f409edf4da6b3c14f5693f",
-    "fetched_at": "2026-09-22T17:51:09.825513+00:00"
   }
 ]
