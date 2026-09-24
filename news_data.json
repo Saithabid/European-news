@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 21:21:47 GMT",
+    "source": "BBC News",
+    "id": "4f5dc2527bc4c1ab64e8d2bac02f43f7",
+    "fetched_at": "2026-09-24T22:53:39.394503+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lukashenko reveals bizarre argument he and Putin have over who is the ‘bigger dictator’",
+    "summary": "Belarusian President Alexander Lukashenko told a youth forum that he and Vladimir Putin regularly argue over who is the bigger dictator.",
+    "link": "https://www.foxnews.com/world/lukashenko-reveals-bizarre-argument-putin-bigger-dictator",
+    "published": "Tue, 22 Sep 2026 21:50:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a2fb4c75a6fff72fb8fb3c663c29c3ce",
+    "fetched_at": "2026-09-24T22:53:39.394500+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO ally pushes ‘Fort Trump’ US military base as Russian helicopter penetrates airspace",
+    "summary": "Polish President Karol Nawrocki says he&apos;s confident a permanent U.S. base called &quot;Fort Trump&quot; will be built in Poland before Trump&apos;s term ends.",
+    "link": "https://www.foxnews.com/world/nato-ally-pushes-fort-trump-us-military-base-russian-helicopter-penetrates-airspace",
+    "published": "Wed, 23 Sep 2026 17:27:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4e304e211988aee2805608ac13dd86a9",
+    "fetched_at": "2026-09-24T22:53:39.394498+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
+    "summary": "Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
+    "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
+    "published": "Wed, 23 Sep 2026 20:10:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cc1229366b165d7eb2a8fdedbcc348f2",
+    "fetched_at": "2026-09-24T22:53:39.394495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi foreign minister warns Houthi threat goes global as Trump holds fire",
+    "summary": "Saudi Arabia intercepted six Houthi ballistic missiles as Prince Faisal bin Farhan Al Saud urged global action to protect Red Sea shipping routes.",
+    "link": "https://www.foxnews.com/world/saudi-foreign-minister-warns-houthi-threat-goes-global-trump-holds-fire",
+    "published": "Thu, 24 Sep 2026 16:51:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8c585dd53cf6805369509a67a95d43a1",
+    "fetched_at": "2026-09-24T22:53:39.394492+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Reporter's Notebook: Call for for a free Iran echoes at the United Nations",
+    "summary": "Ret. Gen. Keith Kellogg and Amb. Marc Ginsberg urged Iran sanctions at a rally outside the U.N. General Assembly protesting the Iranian president",
+    "link": "https://www.foxnews.com/world/reporters-notebook-call-free-iran-echoes-united-nations",
+    "published": "Thu, 24 Sep 2026 18:32:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "168c5347895a97b86ef78fb5e962b10f",
+    "fetched_at": "2026-09-24T22:53:39.394469+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Here's what happened on day 2 of the UN General Assembly",
+    "summary": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability.",
+    "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+    "published": "Wed, 23 Sep 2026 18:06:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "a4a27e909652887b02a2ca6dca66eb17",
+    "fetched_at": "2026-09-24T22:53:38.270158+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Veteran diplomat discusses the public -- and private -- politicking happening at UNGA",
+    "summary": "NPR's A Martinez speaks with veteran diplomat Richard Haass about the public and private diplomacy taking place at the UNGA.",
+    "link": "https://www.npr.org/2026/09/24/nx-s1-5979078/veteran-diplomat-discusses-the-public-and-private-politicking-happening-at-unga",
+    "published": "Thu, 24 Sep 2026 04:42:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "57dc92b54154cdc296dac0ba8f032439",
+    "fetched_at": "2026-09-24T22:53:37.126022+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's prime minister to give an address at the U.N.",
+    "summary": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
+    "link": "https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n",
+    "published": "Thu, 24 Sep 2026 04:43:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "f97b3c395ca8f9fc12b7cd85cbec9929",
+    "fetched_at": "2026-09-24T22:53:35.966363+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Did El Niño turn Hurricane Polo into the most powerful storm of the season?",
+    "summary": "The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms.",
+    "link": "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 23 Sep 2026 17:33:39 GMT",
+    "source": "BBC News",
+    "id": "90010c7db6f47cb2e6529c6e17887fc5",
+    "fetched_at": "2026-09-24T22:53:34.836330+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+    "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 00:15:46 GMT",
+    "source": "BBC News",
+    "id": "4747be606c2d0a378fdf059de6653387",
+    "fetched_at": "2026-09-24T22:53:33.553241+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI investigating claim hackers have stolen details of all its agents",
+    "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+    "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 12:23:52 GMT",
+    "source": "BBC News",
+    "id": "fc6c977f4c7e054cc078ae7c8266aaed",
+    "fetched_at": "2026-09-24T22:53:32.393483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+    "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 00:43:53 GMT",
+    "source": "BBC News",
+    "id": "f74594f3010188e8ba6f801ef989cd11",
+    "fetched_at": "2026-09-24T22:53:31.176365+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
     "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
     "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "47a1bfced1081b2860a28531a5e849b5",
     "fetched_at": "2026-09-24T08:54:07.201814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump welcomes Xi Jinping with red carpet, military honours and flyover",
-    "summary": "Xi Jinping arrives in Maryland for a US state visit, greeted by Donald Trump in a ceremony with flags, military honours and a flyover.",
-    "link": "https://www.euronews.com/video/2026/09/24/trump-welcomes-xi-jinping-with-red-carpet-military-honours-and-flyover",
-    "published": "Thu, 24 Sep 2026 08:34:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1efc63bed878f90bf7ecc37ce5369cbd",
-    "fetched_at": "2026-09-24T08:54:07.201812+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hurricane Polo brings powerful waves to Mexico's Pacific coast",
-    "summary": "As Hurricane Polo weakens to Category 4, Lazaro Cardenas residents and military brace for more damage, reinforcing Playa Azul’s seafront against pounding waves.",
-    "link": "https://www.euronews.com/video/2026/09/24/hurricane-polo-brings-powerful-waves-to-mexicos-pacific-coast",
-    "published": "Thu, 24 Sep 2026 09:20:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6cd86a90d7e38b8e6242af94c075985a",
-    "fetched_at": "2026-09-24T08:54:07.201810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Udi Christians worship at Azerbaijan's Karabakh monasteries",
-    "summary": "A religious service at the historic Gandzasar monastery has offered a rare insight into Karabakh’s Christian heritage, as historic religious disputes linger while Azerbaijan and Armenia work toward lasting peace.",
-    "link": "https://www.euronews.com/2026/09/24/udi-christians-worship-at-azerbaijans-karabakh-monasteries",
-    "published": "Thu, 24 Sep 2026 09:55:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cdf0081f238767f97e51c3fa524e1228",
-    "fetched_at": "2026-09-24T08:54:07.201807+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US admits there were eight suicide attempts on US aircraft carrier during record Middle East deployment",
-    "summary": "In August, military families and lawmakers raised the alarm about reported suicide attempts and other serious mental health issues, food shortages and poor hygiene.",
-    "link": "https://www.euronews.com/2026/09/24/us-admits-there-were-eight-suicide-attempts-on-us-aircraft-carrier-during-record-middle-ea",
-    "published": "Thu, 24 Sep 2026 10:38:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b61a4ecd5ef43c38fff188f086eb5cd5",
-    "fetched_at": "2026-09-24T08:54:07.201805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eriksen leaves Wolfsburg by mutual consent",
-    "summary": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 16:47:34 GMT",
-    "source": "BBC News",
-    "id": "6df05c6c4d6cb4e4c3b3c0cb31d6f262",
-    "fetched_at": "2026-09-24T08:54:07.201802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
-    "summary": "Israel's PM denounces the French president after he appeared to downplay Hamas's activities in the occupied territory.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 11:30:58 GMT",
-    "source": "BBC News",
-    "id": "0f81c8c7576e0695a953d995e7174aca",
-    "fetched_at": "2026-09-24T08:54:07.201799+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-    "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-    "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 21:25:01 GMT",
-    "source": "BBC News",
-    "id": "6d7b2e301d18005acdc767576a5d9ed4",
-    "fetched_at": "2026-09-24T08:54:07.201796+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netherlands to return to Eurovision after 2026 boycott",
-    "summary": "The country did not participate in this year's contest but will return next year in Bulgaria.",
-    "link": "https://www.bbc.co.uk/news/articles/c674kyg43d3lo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 17:17:47 GMT",
-    "source": "BBC News",
-    "id": "1ea7536a4b8c26ac1ca09c6a5e539e87",
-    "fetched_at": "2026-09-24T08:54:07.201792+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-    "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 12:31:31 GMT",
-    "source": "BBC News",
-    "id": "600a03b0f0e89142b1508c3cf32b25e5",
-    "fetched_at": "2026-09-24T08:54:07.201765+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-    "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
-    "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 23:58:50 GMT",
-    "source": "BBC News",
-    "id": "54064efdb1db9172bd988bb3a35b92ac",
-    "fetched_at": "2026-09-24T08:54:06.075695+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fears of return to war grow in Ethiopia's Tigray region",
-    "summary": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
-    "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
-    "published": "Thu, 24 Sep 2026 00:23:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "678a81ea4262c7dc059c21345f3c92a8",
-    "fetched_at": "2026-09-24T08:54:04.940497+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "OpenAI's breach of Australian health department website prompts rebuke",
-    "summary": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
-    "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-    "published": "Thu, 24 Sep 2026 01:14:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "01c820a5463b80c97a31e05520e10d46",
-    "fetched_at": "2026-09-24T08:54:03.812517+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Venezuela's acting leader promises elections at the 'right moment'",
-    "summary": "Venezuela's acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation's people will determine the \"right moment.\"",
-    "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-    "published": "Thu, 24 Sep 2026 01:40:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "b6ee89f69757d17bc51394eb7eeb7917",
-    "fetched_at": "2026-09-24T08:54:02.678022+00:00"
   }
 ]
