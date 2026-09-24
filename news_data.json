@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+    "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 02:23:54 GMT",
+    "source": "BBC News",
+    "id": "37782ca27cb66f579a02c740c50e6c80",
+    "fetched_at": "2026-09-24T02:31:59.844986+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US to build two military bases in Greenland under new deal with Denmark",
+    "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 21:36:55 GMT",
+    "source": "BBC News",
+    "id": "f890b63d6fd674b227b4206741322cd6",
+    "fetched_at": "2026-09-24T02:31:58.709727+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
+    "summary": "Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
+    "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
+    "published": "Wed, 23 Sep 2026 20:10:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cc1229366b165d7eb2a8fdedbcc348f2",
+    "fetched_at": "2026-09-24T02:31:57.571080+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+    "summary": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
+    "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+    "published": "Wed, 23 Sep 2026 09:31:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "61eb66c18b31293152403e13c1416af8",
+    "fetched_at": "2026-09-24T02:31:56.426806+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+    "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 00:15:46 GMT",
+    "source": "BBC News",
+    "id": "4747be606c2d0a378fdf059de6653387",
+    "fetched_at": "2026-09-24T02:31:55.266118+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eight US sailors assigned to USS Abraham Lincoln attempted suicide, Navy says",
+    "summary": "In a letter to Senator Kirsten Gillibrand, acting Navy Secretary Hung Cao said the crew had adequate mental health support during the long deployment.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 00:43:53 GMT",
+    "source": "BBC News",
+    "id": "f74594f3010188e8ba6f801ef989cd11",
+    "fetched_at": "2026-09-24T02:31:54.072728+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A red carpet and military flyover - How Trump welcomed Xi",
+    "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+    "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+    "source": "BBC News",
+    "id": "d3c58ab18a582c3c930aa8b3f63391ba",
+    "fetched_at": "2026-09-24T02:31:52.931301+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
     "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
     "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "0095aba57b894d9118c109c7c451040e",
     "fetched_at": "2026-09-23T14:35:16.537559+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rome’s Colosseum glows pink for breast cancer prevention campaign",
-    "summary": "Rome’s Colosseum glowed pink for a breast cancer prevention campaign, hours before closing after a 22-year-old worker died installing new lights.",
-    "link": "https://www.euronews.com/video/2026/09/23/romes-colosseum-glows-pink-for-breast-cancer-prevention-campaign",
-    "published": "Wed, 23 Sep 2026 16:34:50 +0200",
-    "source": "News | Euronews RSS",
-    "id": "baf9087210a92771163f2ae09be163e1",
-    "fetched_at": "2026-09-23T14:35:16.537556+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
-    "summary": "Israel's PM denounces the French president after he appeared to downplay Hamas's activities in the occupied territory.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 11:30:58 GMT",
-    "source": "BBC News",
-    "id": "0f81c8c7576e0695a953d995e7174aca",
-    "fetched_at": "2026-09-23T14:35:16.537555+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-    "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 12:31:31 GMT",
-    "source": "BBC News",
-    "id": "600a03b0f0e89142b1508c3cf32b25e5",
-    "fetched_at": "2026-09-23T14:35:16.537553+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
-    "summary": "Ukraine's President Volodymyr Zelenskyy met President Trump at the U.N. and proposed that Ukraine and Russia stop attacking each other's energy systems.",
-    "link": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
-    "published": "Wed, 23 Sep 2026 04:45:17 -0400",
-    "source": "NPR Topics: World",
-    "id": "5cac7e961dd8a4c6f51e50a173bc6552",
-    "fetched_at": "2026-09-23T14:35:16.537551+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. ambassador to the U.N. discusses Trump's address at UNGA",
-    "summary": "NPR's Steve Inskeep speaks with U.S. Ambassador to the U.N. Mike Waltz about President Trump's trip to the U.N. General Assembly and whether progress has been made on key issues.",
-    "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-    "published": "Wed, 23 Sep 2026 06:48:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "d9b6b62267d892f6c3cc0b8026e94647",
-    "fetched_at": "2026-09-23T14:35:16.537549+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
-    "summary": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
-    "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-    "published": "Wed, 23 Sep 2026 07:13:32 -0400",
-    "source": "NPR Topics: World",
-    "id": "c8be0d7111b0a672f499c28dac8ea4bf",
-    "fetched_at": "2026-09-23T14:35:16.537546+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
-    "summary": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
-    "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
-    "published": "Wed, 23 Sep 2026 07:48:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "14a38667a18123dd6daec83a0365d3c6",
-    "fetched_at": "2026-09-23T14:35:16.537543+00:00"
   }
 ]
