@@ -1,6 +1,226 @@
 [
   {
     "region": "Europe",
+    "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+    "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+    "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 06:48:07 GMT",
+    "source": "BBC News",
+    "id": "2d86e6037ed5673cd694cd23d2553687",
+    "fetched_at": "2026-09-25T09:14:57.593448+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+    "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+    "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 03:57:09 GMT",
+    "source": "BBC News",
+    "id": "b326916d582a27a8fc0d09b1c84a9250",
+    "fetched_at": "2026-09-25T09:14:57.593446+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 08:09:26 GMT",
+    "source": "BBC News",
+    "id": "7b2b1868b058d94726fbc606aa829cfa",
+    "fetched_at": "2026-09-25T09:14:57.593444+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "CNN, MS NOW, Politico return to White House after court order to lift ban",
+    "summary": "Though CNN and MS NOW were back on the White House grounds Thursday, both news outlets said their journalists were denied access to Chinese leader Xi Jinping's state dinner arrival.",
+    "link": "https://www.euronews.com/2026/09/25/cnn-ms-now-politico-return-to-white-house-after-court-order-to-lift-ban",
+    "published": "Fri, 25 Sep 2026 05:43:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "436d194003777298bca2c4f316279f67",
+    "fetched_at": "2026-09-25T09:14:57.593442+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Protests and walkout as Netanyahu addresses the UN",
+    "summary": "Protesters gathered outside the UN as dozens of delegates walked out when Israeli Prime Minister Benjamin Netanyahu began his speech.",
+    "link": "https://www.euronews.com/video/2026/09/25/protests-and-walkout-as-netanyahu-addresses-the-un",
+    "published": "Fri, 25 Sep 2026 06:53:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "56156f70253f9616aa7caf714bf4fe13",
+    "fetched_at": "2026-09-25T09:14:57.593440+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 25th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-morning",
+    "published": "Fri, 25 Sep 2026 07:00:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a5cfc0bea95e9ff37253822d9e167ba9",
+    "fetched_at": "2026-09-25T09:14:57.593438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Toasts, handshakes and smiles: Moments from Xi’s White House state dinner",
+    "summary": "US President Donald Trump hosted Chinese President Xi Jinping for a state dinner at the White House, capping a day of ceremony and diplomacy between the two leaders.",
+    "link": "https://www.euronews.com/2026/09/25/toasts-handshakes-and-smiles-moments-from-xis-white-house-state-dinner",
+    "published": "Fri, 25 Sep 2026 07:02:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0a583d8a13ed8d16bb0ae3abdf723854",
+    "fetched_at": "2026-09-25T09:14:57.593436+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi Arabia reports fresh Houthi attacks as France offers military support to protect Yanbu",
+    "summary": "Yanbu serves as the kingdom's primary crude export terminal on the Red Sea and is connected to its oil-producing regions near the Gulf coast by the East-West pipeline, also known as Petroline.",
+    "link": "https://www.euronews.com/2026/09/25/saudi-arabia-reports-fresh-houthi-attacks-as-france-offers-military-support-to-protect-yan",
+    "published": "Fri, 25 Sep 2026 08:01:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "96063c8f4d20e5761f69c0dccd778f7f",
+    "fetched_at": "2026-09-25T09:14:57.593434+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe Today: Trump's state dinner for Xi Jinping, Pope Leo's first visit to France",
+    "summary": "Trump and Xi Jinping's high-stakes Washington summit was closely watched in Europe, as Pope Leo XIV arrives in France for the first time. Also on the show: an interview with Danish minister Martin Lidegaard on the US-Denmark deal on Greenland and an update on the Ceuta migration crisis.",
+    "link": "https://www.euronews.com/2026/09/25/europe-today-trumps-state-dinner-for-xi-jinping-pope-leos-first-visit-to-france",
+    "published": "Fri, 25 Sep 2026 08:02:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8b865caddf7d3f363ceea9eae3a787ab",
+    "fetched_at": "2026-09-25T09:14:57.593431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli PM Netanyahu delivers fiery, defiant speech at UN General Assembly",
+    "summary": "The speech came as demonstrators gathered in New York to protest against the Israeli leader, with around 100 people reportedly detained by police.",
+    "link": "https://www.euronews.com/2026/09/25/israeli-pm-netanyahu-delivers-fiery-defiant-speech-at-un-general-assembly",
+    "published": "Fri, 25 Sep 2026 08:33:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "ee4025f7c6ef7576fc3d2e4e19787db3",
+    "fetched_at": "2026-09-25T09:14:57.593429+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bikes removed, streets taped off as Paris welcomes Pope Leo XIV",
+    "summary": "Police clear bicycles and cordon off streets in Paris ahead of Pope Leo XIV’s visit and his planned walk through the capital.",
+    "link": "https://www.euronews.com/video/2026/09/25/bikes-removed-streets-taped-off-as-paris-welcomes-pope-leo-xiv",
+    "published": "Fri, 25 Sep 2026 09:33:48 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6cc7b9c19f770e85f447057b6353e210",
+    "fetched_at": "2026-09-25T09:14:57.593427+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump pays tribute after man wounded during 2024 Butler rally shooting dies",
+    "summary": "Pennsylvania Attorney General Dave Sunday said Copenhaver had been \"gravely wounded\" in the shooting and that he had \"died from complications stemming from those wounds.\"",
+    "link": "https://www.euronews.com/2026/09/25/trump-pays-tribute-after-man-wounded-during-2024-butler-rally-shooting-dies",
+    "published": "Fri, 25 Sep 2026 09:48:43 +0200",
+    "source": "News | Euronews RSS",
+    "id": "86a6609b2aa006fc6525e1d7ce2b6896",
+    "fetched_at": "2026-09-25T09:14:57.593424+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+    "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+    "source": "BBC News",
+    "id": "ec8050c38001a1cb78dd5599d67ab547",
+    "fetched_at": "2026-09-25T09:14:57.593421+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Melania Trump’s home-country leader rips UN ‘double standards’ as Trump promise is revealed",
+    "summary": "Janez Janša accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump&apos;s homeland.",
+    "link": "https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed",
+    "published": "Thu, 24 Sep 2026 06:00:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bd21837b7be9b2b978e30692d2a47011",
+    "fetched_at": "2026-09-25T09:14:57.593417+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could the White House try its press ban again? A press freedom expert explains",
+    "summary": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+    "link": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+    "published": "Thu, 24 Sep 2026 04:44:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "2668a491b6c924a6c077f2583f0ad41c",
+    "fetched_at": "2026-09-25T09:14:57.593386+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+    "summary": "In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.",
+    "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+    "published": "Thu, 24 Sep 2026 06:43:25 -0400",
+    "source": "NPR Topics: World",
+    "id": "5fe57674b3fe51131e6028660a1eb8d3",
+    "fetched_at": "2026-09-25T09:14:56.466540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+    "summary": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with <em>Morning Edition</em>'s Steve Inskeep for a <em>Newsmakers</em> interview.",
+    "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+    "published": "Thu, 24 Sep 2026 07:10:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "15f2127f35abf96f206dcc29cf0512fc",
+    "fetched_at": "2026-09-25T09:14:55.346034+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+    "summary": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
+    "link": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+    "published": "Fri, 25 Sep 2026 02:18:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "da550e80ccba2fdc08a69ca75fedad8e",
+    "fetched_at": "2026-09-25T09:14:54.204519+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
+    "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
+    "published": "Fri, 25 Sep 2026 04:40:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "abe86f89ed8283747c7c27f089212696",
+    "fetched_at": "2026-09-25T09:14:53.069689+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists",
+    "summary": "NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
+    "published": "Fri, 25 Sep 2026 04:41:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "8844e5f5814e44fa635cd4278b96a9dc",
+    "fetched_at": "2026-09-25T09:14:51.927998+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Is Switzerland's neutrality at a crossroads?",
+    "summary": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+    "published": "Fri, 25 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "f27ad8fc4cbbe9f2a8882276abdb64ab",
+    "fetched_at": "2026-09-25T09:14:50.786878+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Protests and walkouts as Netanyahu addresses UN",
+    "summary": "The BBC’s Nada Tawfik explains what happened even before the Israeli prime minister took to the stage at the United Nations General Assembly in New York.",
+    "link": "https://www.bbc.co.uk/news/videos/cmvgy95g0n3lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 00:09:21 GMT",
+    "source": "BBC News",
+    "id": "ea8e2dbc0f6f10dd4d70780f212dcd34",
+    "fetched_at": "2026-09-25T09:14:49.633459+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Hundreds of thousands expected in Paris for Pope's visit",
     "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
@@ -378,225 +598,5 @@
     "source": "BBC News",
     "id": "865e665e6afe874a903f34412045456e",
     "fetched_at": "2026-09-24T19:40:42.227183+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-    "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-    "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 14:37:34 GMT",
-    "source": "BBC News",
-    "id": "a3e2762c251438abd33c9e4f7320cfb2",
-    "fetched_at": "2026-09-24T19:40:42.227181+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
-    "summary": "China&apos;s upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
-    "link": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
-    "published": "Mon, 21 Sep 2026 06:00:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9a1db021e7825c2d0c8f345c4be44d62",
-    "fetched_at": "2026-09-24T19:40:42.227178+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Italian PM pushes foreign student cap in classrooms, burqa, niqab ban in schools",
-    "summary": "Giorgia Meloni&apos;s proposed legislation would cap foreign students per classroom and ban burqas and niqabs in Italian schools to foster integration.",
-    "link": "https://www.foxnews.com/world/italian-pm-pushes-cap-foreign-students-classes-ban-burqas-niqabs-italian-schools",
-    "published": "Mon, 21 Sep 2026 17:26:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8704f0ea350d6c717f1de57834ff5257",
-    "fetched_at": "2026-09-24T19:40:42.227175+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Middle East takes center stage at UN as regional leaders confront Iran war, Gaza and Houthi threat",
-    "summary": "Gulf leaders arrive at the United Nations General Assembly facing urgent questions about Iran, Houthi threats and Gaza&apos;s future amid shifting alliances.",
-    "link": "https://www.foxnews.com/world/middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat",
-    "published": "Tue, 22 Sep 2026 07:00:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4b1d86e61e41d9545b68f7e379ec664f",
-    "fetched_at": "2026-09-24T19:40:42.227173+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chinese Coast Guard rams Philippine boat in South China Sea, sparking diplomatic clash",
-    "summary": "A Chinese Coast Guard vessel collided with a Philippine government ship in the South China Sea Friday, sparking a diplomatic dispute between Beijing, Manila and the U.S.",
-    "link": "https://www.foxnews.com/world/chinese-coast-guard-rams-philippine-boat-south-china-sea-sparking-diplomatic-clash",
-    "published": "Tue, 22 Sep 2026 08:47:35 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0536bf72c4c4084192d9c72325430ce0",
-    "fetched_at": "2026-09-24T19:40:42.227170+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
-    "summary": "Ukrainian President Volodymyr Zelenskyy warns the risk of Russian drone, missile or land attacks against countries bordering Russia is &quot;very high.&quot;",
-    "link": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
-    "published": "Tue, 22 Sep 2026 18:11:03 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1ba847663e12fb3d19e2e0b2c945dcb4",
-    "fetched_at": "2026-09-24T19:40:42.227139+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine",
-    "summary": "Latvian President Edgars Rinkēvičs says Iran&apos;s drone tech helped Russia wage war in Ukraine as Latvia prepares to join a Strait of Hormuz coalition.",
-    "link": "https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine",
-    "published": "Thu, 24 Sep 2026 15:00:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cac48feb728b54c28d6598e4b2297e87",
-    "fetched_at": "2026-09-24T19:40:41.076746+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-    "summary": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
-    "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
-    "published": "Thu, 24 Sep 2026 08:43:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "c81a8908fe68537772ba2933b279d819",
-    "fetched_at": "2026-09-24T19:40:38.256655+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge dismisses Trump lawsuit against Iowa newspaper and pollster over 2024 race",
-    "summary": "Trump had argued the Iowa polling company sought to damage his campaign by publishing an inaccurate poll.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g536j5zzjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 15:25:09 GMT",
-    "source": "BBC News",
-    "id": "6a9680e4bf6ea484533d4aec9ed8291d",
-    "fetched_at": "2026-09-24T19:40:37.109522+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-    "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 17:55:44 GMT",
-    "source": "BBC News",
-    "id": "c6364136d28f6915eb72fe572eeacb4b",
-    "fetched_at": "2026-09-24T19:40:35.972477+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House restores access to media outlets banned by Trump after judge's order",
-    "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 17:49:20 GMT",
-    "source": "BBC News",
-    "id": "c8b0e4fdad727cc161e51cc8add553b7",
-    "fetched_at": "2026-09-24T19:40:34.557229+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mark Carney says he has considered possibility of US military action against Canada",
-    "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not to prepare.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 17:17:56 GMT",
-    "source": "BBC News",
-    "id": "6b2e72d27e540d72629bf88dcc0ca0b9",
-    "fetched_at": "2026-09-24T19:40:33.400997+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Here's why Trump's been so keen on Xi's visit",
-    "summary": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-    "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 15:16:27 GMT",
-    "source": "BBC News",
-    "id": "c8bd33a094af9557a18423c2867847e4",
-    "fetched_at": "2026-09-24T19:40:32.241945+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Why India's Election Commission is in the eye of a storm - again",
-    "summary": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 08:26:19 GMT",
-    "source": "BBC News",
-    "id": "74a08daa38407a4d6215789f2be2f4b7",
-    "fetched_at": "2026-09-24T14:33:06.333699+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-    "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 06:47:12 GMT",
-    "source": "BBC News",
-    "id": "a4ad1d623e789e42b6e5131298d5f38d",
-    "fetched_at": "2026-09-24T14:33:06.333697+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Judge temporarily overturns Trump's White House media ban",
-    "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 13:08:29 GMT",
-    "source": "BBC News",
-    "id": "dcc4ac1968d49895a20b8ae7ed7b773a",
-    "fetched_at": "2026-09-24T14:33:06.333694+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-    "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-    "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 12:49:32 GMT",
-    "source": "BBC News",
-    "id": "3c277ef2e79f07257a65af230b269353",
-    "fetched_at": "2026-09-24T14:33:06.333692+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crowds celebrate Saudi National Day with flags, performances and military parade",
-    "summary": "Crowds celebrate Saudi National Day in Riyadh with flags, traditional performances and a military parade amid heightened regional tensions.",
-    "link": "https://www.euronews.com/video/2026/09/24/crowds-celebrate-saudi-national-day-with-flags-performances-and-military-parade",
-    "published": "Thu, 24 Sep 2026 11:53:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "31981bbf57d44b183b4280a46138e050",
-    "fetched_at": "2026-09-24T14:33:06.333689+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 24th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/24/latest-news-bulletin-september-24th-2026-midday",
-    "published": "Thu, 24 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8ab403c92d677f5ed51b84ed22adfeef",
-    "fetched_at": "2026-09-24T14:33:06.333687+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkey Iran border crossing hit by severe truck delays",
-    "summary": "Long queues at Turkey’s Gurbulak border with Iran turn a 24‑hour route into a week, leaving truck drivers and their families struggling.",
-    "link": "https://www.euronews.com/video/2026/09/24/turkey-iran-border-crossing-hit-by-severe-truck-delays",
-    "published": "Thu, 24 Sep 2026 13:00:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6c42c888e82ade200a67887ba84e18ee",
-    "fetched_at": "2026-09-24T14:33:06.333684+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia recruiting up to 25,000 North Koreans to assemble drones: What the data shows",
-    "summary": "Pyongyang, which supports Russia’s invasion of Ukraine, has helped staff and arm its forces. The UN says up to 25,000 North Koreans assemble drones in Russia, with most of their pay seized by Kim Jong-un's regime.",
-    "link": "https://www.euronews.com/2026/09/24/russia-recruiting-up-to-25000-north-koreans-to-assemble-drones-what-the-data-shows",
-    "published": "Thu, 24 Sep 2026 13:40:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ad0903f1e59e0e006ea9cde5202fc9d3",
-    "fetched_at": "2026-09-24T14:33:06.333682+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How are Danes reacting to the US-Greenland security deal?",
-    "summary": "People in Copenhagen give mixed reactions to a new security deal between the US, Denmark and Greenland, with some welcoming closer Arctic cooperation while others say the agreement does little to ease their concerns.",
-    "link": "https://www.euronews.com/2026/09/24/how-are-danes-reacting-to-the-us-greenland-security-deal",
-    "published": "Thu, 24 Sep 2026 14:25:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1c769b7e16fb44eaf01807170b6a8a94",
-    "fetched_at": "2026-09-24T14:33:06.333679+00:00"
   }
 ]
