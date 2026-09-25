@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "What is killing whale calves in Patagonia? bacteria under suspicion",
+    "summary": "Dozens of southern right whale calves have been found dead on Argentina's Patagonian coast. Scientists are probing a possible bacterial infection after an unusually deadly season.",
+    "link": "https://www.euronews.com/2026/09/25/what-is-killing-whale-calves-in-patagonia-bacteria-under-suspicion",
+    "published": "Fri, 25 Sep 2026 23:00:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4dfe92095c10489ce56b985162fb1d30",
+    "fetched_at": "2026-09-25T22:59:43.473418+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+    "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 23 Sep 2026 12:31:31 GMT",
+    "source": "BBC News",
+    "id": "600a03b0f0e89142b1508c3cf32b25e5",
+    "fetched_at": "2026-09-25T22:59:43.473415+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+    "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+    "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 23 Sep 2026 23:58:50 GMT",
+    "source": "BBC News",
+    "id": "54064efdb1db9172bd988bb3a35b92ac",
+    "fetched_at": "2026-09-25T22:59:43.473412+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+    "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+    "source": "BBC News",
+    "id": "ec8050c38001a1cb78dd5599d67ab547",
+    "fetched_at": "2026-09-25T22:59:43.473409+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope warns against 'losing humanity' to AI machines",
+    "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 15:06:41 GMT",
+    "source": "BBC News",
+    "id": "bcac11321ee3b54bc0402e057a7bcaa1",
+    "fetched_at": "2026-09-25T22:59:43.473405+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Melania Trump’s home-country leader rips UN ‘double standards’ as Trump promise is revealed",
+    "summary": "Janez Janša accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump&apos;s homeland.",
+    "link": "https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed",
+    "published": "Thu, 24 Sep 2026 06:00:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bd21837b7be9b2b978e30692d2a47011",
+    "fetched_at": "2026-09-25T22:59:43.473376+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
+    "summary": "Iranian President Masoud Pezeshkian claims Tehran will submit its nuclear program to verification and dilute enriched uranium to ease tensions.",
+    "link": "https://www.foxnews.com/world/iranian-president-blames-us-middle-east-conflict-denying-nuclear-ambitions-offers-dilute-uranium",
+    "published": "Thu, 24 Sep 2026 20:25:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "11e1f3539df0b7315110e31afe7bae88",
+    "fetched_at": "2026-09-25T22:59:42.334138+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+    "summary": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
+    "link": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+    "published": "Fri, 25 Sep 2026 02:18:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "da550e80ccba2fdc08a69ca75fedad8e",
+    "fetched_at": "2026-09-25T22:59:41.205774+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
+    "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
+    "published": "Fri, 25 Sep 2026 04:40:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "abe86f89ed8283747c7c27f089212696",
+    "fetched_at": "2026-09-25T22:59:40.064384+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists",
+    "summary": "NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
+    "published": "Fri, 25 Sep 2026 04:41:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "8844e5f5814e44fa635cd4278b96a9dc",
+    "fetched_at": "2026-09-25T22:59:38.931804+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Is Switzerland's neutrality at a crossroads?",
+    "summary": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+    "published": "Fri, 25 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "f27ad8fc4cbbe9f2a8882276abdb64ab",
+    "fetched_at": "2026-09-25T22:59:37.785137+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+    "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 20:06:39 GMT",
+    "source": "BBC News",
+    "id": "c9fb3223f42e79c521609e33fd4129e6",
+    "fetched_at": "2026-09-25T22:59:36.625058+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Black woman found hanging from tree was dead before body was 'staged' - US media",
+    "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 21:16:59 GMT",
+    "source": "BBC News",
+    "id": "ba6bd6a602c2519f340ac41a835544b6",
+    "fetched_at": "2026-09-25T22:59:35.476378+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
     "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
     "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "42e1ef84db8525efd6de344188a61288",
     "fetched_at": "2026-09-25T14:53:45.270533+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-    "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
-    "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-    "published": "Fri, 25 Sep 2026 07:18:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "d6e764dbf4a23819d0d8b1e80299d786",
-    "fetched_at": "2026-09-25T14:53:44.110899+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-    "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 17:55:44 GMT",
-    "source": "BBC News",
-    "id": "c6364136d28f6915eb72fe572eeacb4b",
-    "fetched_at": "2026-09-25T14:53:43.006033+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mark Carney says he has considered possibility of US military action against Canada",
-    "summary": "The prime minister described the risk of an action by the country's southern neighbour as remote, but said \"it would be irresponsible\" not to prepare.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d79l2jd2pyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 17:17:56 GMT",
-    "source": "BBC News",
-    "id": "6b2e72d27e540d72629bf88dcc0ca0b9",
-    "fetched_at": "2026-09-25T14:53:41.879711+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-    "summary": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 01:10:35 GMT",
-    "source": "BBC News",
-    "id": "c8b0e4fdad727cc161e51cc8add553b7",
-    "fetched_at": "2026-09-25T14:53:40.754886+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-    "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-    "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 13:23:33 GMT",
-    "source": "BBC News",
-    "id": "9f134bb927c61f4dd18a07285549cc68",
-    "fetched_at": "2026-09-25T14:53:39.566898+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-    "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-    "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 06:48:07 GMT",
-    "source": "BBC News",
-    "id": "2d86e6037ed5673cd694cd23d2553687",
-    "fetched_at": "2026-09-25T09:14:57.593448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-    "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-    "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 03:57:09 GMT",
-    "source": "BBC News",
-    "id": "b326916d582a27a8fc0d09b1c84a9250",
-    "fetched_at": "2026-09-25T09:14:57.593446+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-    "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 08:09:26 GMT",
-    "source": "BBC News",
-    "id": "7b2b1868b058d94726fbc606aa829cfa",
-    "fetched_at": "2026-09-25T09:14:57.593444+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "CNN, MS NOW, Politico return to White House after court order to lift ban",
-    "summary": "Though CNN and MS NOW were back on the White House grounds Thursday, both news outlets said their journalists were denied access to Chinese leader Xi Jinping's state dinner arrival.",
-    "link": "https://www.euronews.com/2026/09/25/cnn-ms-now-politico-return-to-white-house-after-court-order-to-lift-ban",
-    "published": "Fri, 25 Sep 2026 05:43:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "436d194003777298bca2c4f316279f67",
-    "fetched_at": "2026-09-25T09:14:57.593442+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Protests and walkout as Netanyahu addresses the UN",
-    "summary": "Protesters gathered outside the UN as dozens of delegates walked out when Israeli Prime Minister Benjamin Netanyahu began his speech.",
-    "link": "https://www.euronews.com/video/2026/09/25/protests-and-walkout-as-netanyahu-addresses-the-un",
-    "published": "Fri, 25 Sep 2026 06:53:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "56156f70253f9616aa7caf714bf4fe13",
-    "fetched_at": "2026-09-25T09:14:57.593440+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 25th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-morning",
-    "published": "Fri, 25 Sep 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a5cfc0bea95e9ff37253822d9e167ba9",
-    "fetched_at": "2026-09-25T09:14:57.593438+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Toasts, handshakes and smiles: Moments from Xi’s White House state dinner",
-    "summary": "US President Donald Trump hosted Chinese President Xi Jinping for a state dinner at the White House, capping a day of ceremony and diplomacy between the two leaders.",
-    "link": "https://www.euronews.com/2026/09/25/toasts-handshakes-and-smiles-moments-from-xis-white-house-state-dinner",
-    "published": "Fri, 25 Sep 2026 07:02:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0a583d8a13ed8d16bb0ae3abdf723854",
-    "fetched_at": "2026-09-25T09:14:57.593436+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia reports fresh Houthi attacks as France offers military support to protect Yanbu",
-    "summary": "Yanbu serves as the kingdom's primary crude export terminal on the Red Sea and is connected to its oil-producing regions near the Gulf coast by the East-West pipeline, also known as Petroline.",
-    "link": "https://www.euronews.com/2026/09/25/saudi-arabia-reports-fresh-houthi-attacks-as-france-offers-military-support-to-protect-yan",
-    "published": "Fri, 25 Sep 2026 08:01:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "96063c8f4d20e5761f69c0dccd778f7f",
-    "fetched_at": "2026-09-25T09:14:57.593434+00:00"
   }
 ]
