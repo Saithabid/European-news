@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Huge crowds greet Pope in Paris for open-air Mass",
+    "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 13:23:59 GMT",
+    "source": "BBC News",
+    "id": "a029785762d7adbb1c396297faa0d369",
+    "fetched_at": "2026-09-26T13:59:03.356101+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Baku's week of F1 racing, global security, and record investments",
+    "summary": "Baku has completed a week of octane-fuelled racing, high-level security facilitation and secured record investments in one of its most dynamic events-filled weeks of the year.",
+    "link": "https://www.euronews.com/2026/09/26/bakus-week-of-f1-racing-global-security-and-record-investments",
+    "published": "Sat, 26 Sep 2026 11:11:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bac033a2926b1f44f73cffa8f53f4bbe",
+    "fetched_at": "2026-09-26T13:59:03.356075+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia strikes Ukraine as Putin denies plans to attack Europe amid growing tensions",
+    "summary": "On Saturday, Ukrainian Foreign Minister Andrii Sybiha said Russia had also carried out a \"double strike\" attack on a logistics facility serving fast-food chain McDonald’s.",
+    "link": "https://www.euronews.com/2026/09/26/at-least-six-people-killed-in-russian-strikes-on-ukraine-over-last-24-hours",
+    "published": "Sat, 26 Sep 2026 11:28:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "61e30731cf5f56811d749e14b7570a05",
+    "fetched_at": "2026-09-26T13:59:02.251453+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 26th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-midday",
+    "published": "Sat, 26 Sep 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2437ddc0a47e0f3cda543793a1ca2a13",
+    "fetched_at": "2026-09-26T13:59:01.141037+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least 11 dead following suicide bomb attack in northwestern Pakistan",
+    "summary": "The Tehreek-e-Taliban Pakistan (TTP) group, or Pakistani Taliban, has claimed responsibility for the bombing. The group, founded in late 2007, is allied with the Afghan Taliban.",
+    "link": "https://www.euronews.com/2026/09/26/at-least-11-dead-following-suicide-bomb-attack-in-northwestern-pakistan",
+    "published": "Sat, 26 Sep 2026 14:19:02 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59022a96752bf9229cb0d9b7367aa28d",
+    "fetched_at": "2026-09-26T13:59:00.048351+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+    "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+    "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 14:37:34 GMT",
+    "source": "BBC News",
+    "id": "a3e2762c251438abd33c9e4f7320cfb2",
+    "fetched_at": "2026-09-26T13:58:58.930750+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British national among six dead in building explosion close to Acropolis in Athens",
+    "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 12:47:25 GMT",
+    "source": "BBC News",
+    "id": "600dfd6f25db3d94d3c5133718ebd040",
+    "fetched_at": "2026-09-26T13:58:57.832332+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+    "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+    "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+    "published": "Sat, 26 Sep 2026 07:31:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "9baaa61c7b2a864d70ff0ab6f5978acc",
+    "fetched_at": "2026-09-26T13:58:56.725084+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+    "source": "BBC News",
+    "id": "afb5bb1f693dbed5f6c911c980aa1bdc",
+    "fetched_at": "2026-09-26T13:58:55.602616+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Brazil's Lula bans online gambling ahead of presidential election",
     "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
     "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "dfef67b3cff1b7d4bf8afe52f3c549e9",
     "fetched_at": "2026-09-25T19:44:26.985933+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A military threat from US? Canadians react to Carney's concerns",
-    "summary": "The Canadian Prime Minister told The New York Times that Canada has considered the remote possibility of US military action.",
-    "link": "https://www.bbc.co.uk/news/videos/cjdx5747g7evo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 22:04:12 GMT",
-    "source": "BBC News",
-    "id": "518e32fa1a671a841fd71015e6728b43",
-    "fetched_at": "2026-09-25T19:44:25.817945+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ed Sheeran's next US concerts cancelled due to storm warning",
-    "summary": "The star's concerts in Massachusetts on Friday and Saturday are cancelled after  severe weather warnings.",
-    "link": "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 15:51:52 GMT",
-    "source": "BBC News",
-    "id": "49a051198401207d46fd1c992badbd59",
-    "fetched_at": "2026-09-25T19:44:24.696805+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-    "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
-    "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 17:59:03 GMT",
-    "source": "BBC News",
-    "id": "8b3367f452e2b83fbc00c89c07a2230f",
-    "fetched_at": "2026-09-25T19:44:23.577575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-    "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
-    "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 18:41:13 GMT",
-    "source": "BBC News",
-    "id": "1013cf82f2fae6e97f766e58ffda27db",
-    "fetched_at": "2026-09-25T19:44:22.421513+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's plans for massive arch move ahead",
-    "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 18:27:46 GMT",
-    "source": "BBC News",
-    "id": "da0815b20fef7e2f2edb3713b7c85d25",
-    "fetched_at": "2026-09-25T19:44:21.298942+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-    "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
-    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 19:13:35 GMT",
-    "source": "BBC News",
-    "id": "1a339e9568f542bdd612193dca3d0827",
-    "fetched_at": "2026-09-25T19:44:20.184367+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-    "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 09:48:33 GMT",
-    "source": "BBC News",
-    "id": "d0fede8865af3281f5fe4446fa9960a9",
-    "fetched_at": "2026-09-25T14:53:47.579593+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Jay-Z rape accuser says her allegation was false",
-    "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 10:51:28 GMT",
-    "source": "BBC News",
-    "id": "9af959a247678804c5574fbb812f9561",
-    "fetched_at": "2026-09-25T14:53:47.579592+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-    "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 14:44:16 GMT",
-    "source": "BBC News",
-    "id": "a2da02d2164b86ab4787479dcc3b8b02",
-    "fetched_at": "2026-09-25T14:53:47.579592+00:00"
   }
 ]
