@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Brazil's Lula bans online gambling ahead of presidential election",
+    "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+    "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 03:22:17 GMT",
+    "source": "BBC News",
+    "id": "543b2ecd8db06d3d171bcef779116e33",
+    "fetched_at": "2026-09-26T08:57:50.560798+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "White House bars CNN from travelling with Trump on Air Force One",
+    "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 05:09:09 GMT",
+    "source": "BBC News",
+    "id": "55b561a1ef0d600a97d596a94afb032a",
+    "fetched_at": "2026-09-26T08:57:50.560795+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bangkok roads submerged as flood disaster declared",
+    "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 07:21:30 GMT",
+    "source": "BBC News",
+    "id": "c79291de9e4aebbad81c25961ac9f09a",
+    "fetched_at": "2026-09-26T08:57:50.560792+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 26th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-morning",
+    "published": "Sat, 26 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d75c73e47e3cfda504cf26470d7f206d",
+    "fetched_at": "2026-09-26T08:57:50.560788+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
+    "summary": "Russia's recruitment drive targeting Belarusians has become a key tool to boost manpower on the battlefield and exploits economic hardship and isolation.",
+    "link": "https://www.euronews.com/2026/09/26/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences",
+    "published": "Sat, 26 Sep 2026 07:30:38 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c23d2c51e8925e00ceb523f7a1c4d6d9",
+    "fetched_at": "2026-09-26T08:57:50.560759+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Saudi coalition says it intercepted Houthi drones and missiles bound for Saudi Arabia",
+    "summary": "The Houthis declared a naval blockade of Saudi Arabia in July and have since been launching increasing attacks on Saudi cities and shipping, further heightening tensions in the Middle East.",
+    "link": "https://www.euronews.com/2026/09/26/saudi-coalition-says-it-intercepted-houthi-drones-and-missiles-bound-for-saudi-arabia",
+    "published": "Sat, 26 Sep 2026 08:00:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9d34f1f107dc69fbb25869e4ac7d3780",
+    "fetched_at": "2026-09-26T08:57:49.462646+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli settlers seizing natural springs in the West Bank",
+    "summary": "Earlier this month, 12 countries announced new trade sanctions on Israeli settlements in the occupied West Bank amid what they called a \"rapidly deteriorating\" situation marked by increasing settler attacks on Palestinians.",
+    "link": "https://www.euronews.com/2026/09/26/israeli-settlers-seizing-natural-springs-in-the-west-bank",
+    "published": "Sat, 26 Sep 2026 09:10:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b1473457673ba44bfc2491511f32703",
+    "fetched_at": "2026-09-26T08:57:48.355441+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine",
+    "summary": "Latvian President Edgars Rinkēvičs says Iran&apos;s drone tech helped Russia wage war in Ukraine as Latvia prepares to join a Strait of Hormuz coalition.",
+    "link": "https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine",
+    "published": "Thu, 24 Sep 2026 15:00:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cac48feb728b54c28d6598e4b2297e87",
+    "fetched_at": "2026-09-26T08:57:47.262427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo XIV begins historic 4-day visit to France",
+    "summary": "Pope Leo XIV&apos;s historic France visit includes a private meeting with abuse victims in Lourdes and a Saturday Mass expecting up to 1 million people.",
+    "link": "https://www.foxnews.com/world/pope-leo-xiv-begins-historic-4-day-visit-france",
+    "published": "Fri, 25 Sep 2026 06:30:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "54c29606f3a2af6fc16dcb84056c35fd",
+    "fetched_at": "2026-09-26T08:57:46.150437+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+    "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+    "published": "Fri, 25 Sep 2026 06:25:03 -0400",
+    "source": "NPR Topics: World",
+    "id": "e3fe42a4002a74170260f23890ef296d",
+    "fetched_at": "2026-09-26T08:57:45.057496+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+    "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington",
+    "published": "Fri, 25 Sep 2026 06:48:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "42e1ef84db8525efd6de344188a61288",
+    "fetched_at": "2026-09-26T08:57:43.952335+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+    "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+    "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+    "published": "Sat, 26 Sep 2026 02:59:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "6ac07b5bde21fcd735a1a52f9277cc69",
+    "fetched_at": "2026-09-26T08:57:42.837238+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
     "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
     "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "a2da02d2164b86ab4787479dcc3b8b02",
     "fetched_at": "2026-09-25T14:53:47.579592+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
-    "source": "BBC News",
-    "id": "afb5bb1f693dbed5f6c911c980aa1bdc",
-    "fetched_at": "2026-09-25T14:53:47.579591+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli military releases video of tunnel destruction in Gaza",
-    "summary": "The Israeli military has released video it says shows a 2-kilometre underground tunnel in southern Gaza being destroyed. The footage, provided by the army, could not be independently verified. The military says the tunnel route was dismantled as fighting continues in Gaza.",
-    "link": "https://www.euronews.com/2026/09/25/israeli-military-releases-video-of-tunnel-destruction-in-gaza",
-    "published": "Fri, 25 Sep 2026 11:52:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e95dc0fa1536b840a40a65b648ea3917",
-    "fetched_at": "2026-09-25T14:53:47.579590+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fourteen Kazakh soldiers found dead in Caspian Sea after naval training",
-    "summary": "Kazakhstan declared a day of national mourning after one of the country’s deadliest military accidents in recent years.",
-    "link": "https://www.euronews.com/2026/09/25/fourteen-kazakh-soldiers-found-dead-in-caspian-sea-after-naval-training",
-    "published": "Fri, 25 Sep 2026 11:55:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5048dad56ea41a1369fcdb4355c04fed",
-    "fetched_at": "2026-09-25T14:53:47.579589+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 25th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-midday",
-    "published": "Fri, 25 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "98c39a1b5486796aa3438d7c5e9409aa",
-    "fetched_at": "2026-09-25T14:53:47.579588+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France welcomes Leo XIV at Orly Airport as bells sound nationwide",
-    "summary": "Pope Leo XIV begins historic four-day visit to France with focus on Europe’s future.",
-    "link": "https://www.euronews.com/video/2026/09/25/france-welcomes-leo-xiv-at-orly-airport-as-bells-sound-nationwide",
-    "published": "Fri, 25 Sep 2026 12:20:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d5e89eda86e234ec2e1edfe78f1e51ae",
-    "fetched_at": "2026-09-25T14:53:47.579587+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The drones Russia could use to strike Europe from its Mediterranean ghost fleet",
-    "summary": "Russia keeps up air strikes on Ukraine with an expanding fleet of drones, from the Shahed-136 to the jet-powered Geran-4 and Geran-5, while boosting production in Alabuga.",
-    "link": "https://www.euronews.com/2026/09/25/the-drones-russia-could-use-to-strike-europe-from-its-mediterranean-ghost-fleet",
-    "published": "Fri, 25 Sep 2026 12:04:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d63ff6a97daa95663a522f4775339558",
-    "fetched_at": "2026-09-25T14:53:47.579587+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The business of peace: US investment push takes the TRIPP corridor from diplomacy to trade",
-    "summary": "Washington grants millions to the so-called Trans-Caspian Enterprise Fund to act as a catalyst for private investment in the South Caucasus and Central Asia.",
-    "link": "https://www.euronews.com/2026/09/25/the-business-of-peace-us-investment-push-takes-the-tripp-corridor-from-diplomacy-to-trade",
-    "published": "Fri, 25 Sep 2026 14:00:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cb31916ec62115dbf0ad6c75da1631a3",
-    "fetched_at": "2026-09-25T14:53:47.579585+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Africa fires up world’s biggest braai in bid for Guinness record",
-    "summary": "South Africa brought thousands of people together at Pretoria’s Loftus Versfeld Stadium on 24 September 2026 in a bid to reclaim the Guinness World Records title for the most people barbecuing simultaneously.",
-    "link": "https://www.euronews.com/video/2026/09/25/south-africa-fires-up-worlds-biggest-braai-in-bid-for-guinness-record",
-    "published": "Fri, 25 Sep 2026 12:56:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a67117185df7a1ff6c9e0f73228deead",
-    "fetched_at": "2026-09-25T14:53:47.579585+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish forces to withdraw from strategic military base in northern Iraq",
-    "summary": "Turkey will gradually hand over the Bashiqa-Zilkan camp, where it has had troops since 2015, to the Iraqi government.",
-    "link": "https://www.euronews.com/2026/09/25/turkish-army-to-withdraw-from-strategic-military-base-in-northern-iraq",
-    "published": "Fri, 25 Sep 2026 14:31:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a43c3cc257d26b8764ce0cc6cd6513ac",
-    "fetched_at": "2026-09-25T14:53:47.579583+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Explosion near Acropolis collapses building in Athens’ Plaka, injuring two",
-    "summary": "A powerful explosion in Athens’ historic Plaka district brought down a two-storey building near the Acropolis on Friday 25 September 2026, injuring at least two people. The cause remains under investigation, although a gas leak is suspected.",
-    "link": "https://www.euronews.com/video/2026/09/25/explosion-near-acropolis-collapses-building-in-athens-plaka-injuring-two",
-    "published": "Fri, 25 Sep 2026 14:48:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "afffa866eb25a816a572162ce1889479",
-    "fetched_at": "2026-09-25T14:53:47.579582+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: Russian drone barrage on Kyiv kills teenage boy and wounds 20 residents",
-    "summary": "A 14-year-old boy was killed after a Russian drone tore into a 16-storey apartment block in Kyiv’s Pecherskyi district overnight on Friday 25 September 2026.",
-    "link": "https://www.euronews.com/video/2026/09/25/ukraine-russian-drone-barrage-on-kyiv-kills-teenage-boy-and-wounds-20-residents",
-    "published": "Fri, 25 Sep 2026 15:50:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9dacd6ce8de2b5a17e110dff4ad7c126",
-    "fetched_at": "2026-09-25T14:53:47.579581+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-    "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-    "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 14:37:34 GMT",
-    "source": "BBC News",
-    "id": "a3e2762c251438abd33c9e4f7320cfb2",
-    "fetched_at": "2026-09-25T14:53:47.579580+00:00"
   }
 ]
