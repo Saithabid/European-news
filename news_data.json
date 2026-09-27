@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "Venezuela releases dozens of political prisoners as election calls grow",
+    "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+    "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 15:56:25 GMT",
+    "source": "BBC News",
+    "id": "30c1d84f6442431077912e481ab91032",
+    "fetched_at": "2026-09-27T18:00:22.335890+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven killed, dozens hurt in Saudi airstrike on Yemen market",
+    "summary": "Seven people were killed and 40 injured in a Saudi airstrike on a market in Yemen’s Taiz province, as Houthi forces advance and Saudi-led air raids intensify.",
+    "link": "https://www.euronews.com/video/2026/09/27/seven-killed-dozens-hurt-in-saudi-airstrike-on-yemen-market",
+    "published": "Sun, 27 Sep 2026 16:30:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "02507d73f9072b51dbc956dbf3b936f4",
+    "fetched_at": "2026-09-27T18:00:22.335887+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Serbia's politicians return to TV debates ahead of parliamentary election",
+    "summary": "A month before the early parliamentary elections, Serbia's high ranking politicians from the ruling and opposition parties engaged in a debate on the N1 channel after a prolonged boycott between the anti-government station and officials. The ownership change provided a new opportunity for dialogue.",
+    "link": "https://www.euronews.com/2026/09/27/serbias-politicians-return-to-tv-debates-ahead-of-parliamentary-election",
+    "published": "Sun, 27 Sep 2026 16:58:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "022d8dbcd387eb56e9eaa88f7e2abab6",
+    "fetched_at": "2026-09-27T18:00:22.335885+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran claims seizure of an underwater US drone in Hormuz, US denies the claim",
+    "summary": "Iran's Revolutionary Guards claim that the vehicle is a REMUS 600 and has been handed over to Iranian military experts \"to retrieve its data,\" but the US military denies the claim. Top Iranian army commander says \"the war is not over\" and that it is now in \"a critical and decisive stage\".",
+    "link": "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz",
+    "published": "Sun, 27 Sep 2026 17:01:14 +0200",
+    "source": "News | Euronews RSS",
+    "id": "135ba9de8fcc95f6eb7a50a5f13efcb9",
+    "fetched_at": "2026-09-27T18:00:22.335883+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Netanyahu battles October 7 warnings revelations with defiant UN speech",
+    "summary": "With Israel’s election approaching, prime minister Benjamin Netanyahu is battling new revelations of alleged warnings about Hamas’ 7 October attack and countered the political storm with a fiery UN speech directed at his voters and the world.",
+    "link": "https://www.euronews.com/2026/09/27/netanyahu-battles-october-7-warnings-revelations-with-defiant-un-speech",
+    "published": "Sun, 27 Sep 2026 17:41:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "81e417f9965adbd2b4fadeda879b8c5e",
+    "fetched_at": "2026-09-27T18:00:22.335880+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 27th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-evening",
+    "published": "Sun, 27 Sep 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "cefb6bdb8cecccd2c2c693b589160098",
+    "fetched_at": "2026-09-27T18:00:22.335878+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Northern Ireland: 2,000 protesters block disputed Portadown march",
+    "summary": "Thousands of protesters blocked a road in Portadown, Northern Ireland, on 27 September, in an attempt to stop an Orange Order parade from entering the mainly Catholic and nationalist Garvaghy Road area.",
+    "link": "https://www.euronews.com/video/2026/09/27/northern-ireland-2000-protesters-block-disputed-portadown-march",
+    "published": "Sun, 27 Sep 2026 19:45:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "420afd4045335d1847a48d2cbcd5e3d2",
+    "fetched_at": "2026-09-27T18:00:22.335875+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British climber dies after falling 60m on Spanish mountainside",
+    "summary": "The identity of the 28-year-old man, who fell down a vertical gully to his death, is yet to be confirmed.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 16:26:24 GMT",
+    "source": "BBC News",
+    "id": "e714bc151961e4eb1099cbcca8440900",
+    "fetched_at": "2026-09-27T18:00:22.335872+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British national among six dead in building explosion close to Acropolis in Athens",
+    "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 12:47:25 GMT",
+    "source": "BBC News",
+    "id": "600dfd6f25db3d94d3c5133718ebd040",
+    "fetched_at": "2026-09-27T18:00:22.335869+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+    "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 19:48:06 GMT",
+    "source": "BBC News",
+    "id": "a029785762d7adbb1c396297faa0d369",
+    "fetched_at": "2026-09-27T18:00:22.335865+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Switzerland rejects stricter interpretation of its neutrality",
+    "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+    "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 16:02:17 GMT",
+    "source": "BBC News",
+    "id": "0ccae216c21c04097af53ad6a51b2b28",
+    "fetched_at": "2026-09-27T18:00:22.335837+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo XIV begins historic 4-day visit to France",
+    "summary": "Pope Leo XIV&apos;s historic France visit includes a private meeting with abuse victims in Lourdes and a Saturday Mass expecting up to 1 million people.",
+    "link": "https://www.foxnews.com/world/pope-leo-xiv-begins-historic-4-day-visit-france",
+    "published": "Fri, 25 Sep 2026 06:30:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "54c29606f3a2af6fc16dcb84056c35fd",
+    "fetched_at": "2026-09-27T18:00:21.218275+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+    "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+    "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+    "published": "Sat, 26 Sep 2026 07:31:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "9baaa61c7b2a864d70ff0ab6f5978acc",
+    "fetched_at": "2026-09-27T18:00:20.105312+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+    "source": "BBC News",
+    "id": "afb5bb1f693dbed5f6c911c980aa1bdc",
+    "fetched_at": "2026-09-27T18:00:18.991246+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 19:13:35 GMT",
+    "source": "BBC News",
+    "id": "1a339e9568f542bdd612193dca3d0827",
+    "fetched_at": "2026-09-27T18:00:17.893397+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+    "summary": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 15:12:25 GMT",
+    "source": "BBC News",
+    "id": "e9d964f9c9647c3fc32eb9813176a9ff",
+    "fetched_at": "2026-09-27T18:00:16.783567+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "One dead as nor'easter storm pummels New York and New Jersey",
+    "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 12:34:26 GMT",
+    "source": "BBC News",
+    "id": "8cd98fce1f901be77afc0300984d7be4",
+    "fetched_at": "2026-09-27T18:00:15.666217+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+    "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 16:35:41 GMT",
+    "source": "BBC News",
+    "id": "2c172f243c15ccda734e5541d626f1ff",
+    "fetched_at": "2026-09-27T18:00:14.553874+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ten climbers missing after avalanche hits Himalayan base camp",
     "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
     "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
@@ -418,185 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "e169b95026e78896e501aab205487a27",
     "fetched_at": "2026-09-27T00:04:56.923478+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Is Congo's Ebola outbreak coming under control?",
-    "summary": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down.",
-    "link": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
-    "published": "Sat, 26 Sep 2026 17:13:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "b23ea972d21190d7ef2c7c4b63f02329",
-    "fetched_at": "2026-09-27T00:04:55.799512+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-    "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
-    "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-    "published": "Sat, 26 Sep 2026 17:13:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "40ea1371fd0a232ded6452193288401c",
-    "fetched_at": "2026-09-27T00:04:54.678259+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tenth woman's body found in South Africa suburb as police probe killings",
-    "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 18:30:04 GMT",
-    "source": "BBC News",
-    "id": "7abd74e324fc87a69d00d50df9d54f50",
-    "fetched_at": "2026-09-26T20:28:05.727808+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Azerbaijan marks its Remembrance Day looking forward to a future of peace",
-    "summary": "Azerbaijan observes its annual Remembrance Day by honouring its soldiers fallen in 2020, but also building on six years of peace for post-war recovery, new opportunities and regional normalisation.",
-    "link": "https://www.euronews.com/2026/09/26/azerbaijan-marks-its-remembrance-day-looking-forward-to-a-future-of-peace",
-    "published": "Sat, 26 Sep 2026 21:48:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "26521af29ac550ee0e257a20183522b7",
-    "fetched_at": "2026-09-26T20:28:05.727805+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert",
-    "summary": "Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
-    "link": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
-    "published": "Wed, 23 Sep 2026 20:10:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cc1229366b165d7eb2a8fdedbcc348f2",
-    "fetched_at": "2026-09-26T20:28:05.727801+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Saudi foreign minister warns Houthi threat goes global as Trump holds fire",
-    "summary": "Saudi Arabia intercepted six Houthi ballistic missiles as Prince Faisal bin Farhan Al Saud urged global action to protect Red Sea shipping routes.",
-    "link": "https://www.foxnews.com/world/saudi-foreign-minister-warns-houthi-threat-goes-global-trump-holds-fire",
-    "published": "Thu, 24 Sep 2026 16:51:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8c585dd53cf6805369509a67a95d43a1",
-    "fetched_at": "2026-09-26T20:28:05.727774+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
-    "summary": "Retired Gen. Keith Kellogg and Ambassador Marc Ginsberg called for Iran sanctions at a rally outside the U.N. General Assembly protesting the Iranian president.",
-    "link": "https://www.foxnews.com/world/reporters-notebook-call-free-iran-echoes-united-nations",
-    "published": "Thu, 24 Sep 2026 18:32:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "168c5347895a97b86ef78fb5e962b10f",
-    "fetched_at": "2026-09-26T20:28:04.615344+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fighter jet pilots eject moments before fiery crash in Wales",
-    "summary": "Video captures two Royal Air Force pilots ejecting from a Hawk T2 training jet moments before a fiery crash near Anglesey in Wales on Wednesday.",
-    "link": "https://www.foxnews.com/world/fighter-jet-pilots-eject-moments-before-fiery-crash-wales",
-    "published": "Fri, 25 Sep 2026 11:03:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e6a3be3a1ebe0982066ceec78ac5d1bd",
-    "fetched_at": "2026-09-26T20:28:03.508137+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "‘Wave of freedom’ sweeps Latin America as Trump ally takes fight to Marxist terror group",
-    "summary": "José Manuel Restrepo says Colombian forces, not American troops, will lead operations against armed groups under Trump&apos;s Shield of the Americas.",
-    "link": "https://www.foxnews.com/world/wave-freedom-sweeps-latin-america-trump-ally-takes-fight-marxist-terror-group",
-    "published": "Fri, 25 Sep 2026 14:44:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d449fce14c3c8dc17a88be548d6c2af",
-    "fetched_at": "2026-09-26T20:28:02.393220+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-    "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-    "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-    "published": "Fri, 25 Sep 2026 10:55:12 -0400",
-    "source": "NPR Topics: World",
-    "id": "6bcf35d393d2e018dd824e1b7be0e394",
-    "fetched_at": "2026-09-26T20:28:01.268685+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-    "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
-    "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-    "published": "Fri, 25 Sep 2026 11:57:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "c8b3676726b2b861849fdf2ec630dff9",
-    "fetched_at": "2026-09-26T20:28:00.153865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-    "summary": "The visit comes at an important time for both men.",
-    "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-    "published": "Fri, 25 Sep 2026 15:11:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "dfef67b3cff1b7d4bf8afe52f3c549e9",
-    "fetched_at": "2026-09-26T20:27:59.042775+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-    "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
-    "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-    "published": "Sat, 26 Sep 2026 16:08:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "bb26e66b604cbcd035caeae307fb2aed",
-    "fetched_at": "2026-09-26T20:27:57.937502+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-    "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 15:48:51 GMT",
-    "source": "BBC News",
-    "id": "c11f337b0c533704c0a00b0cd409af75",
-    "fetched_at": "2026-09-26T17:39:14.276311+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US president Donald Trump rejects Iranian plan to reopen Strait of Hormuz",
-    "summary": "Trump's response comes after Iranian Foreign Minister Abbas Araghchi said on Friday that \"if the necessary conditions are met, the strait can be reopened, and normal maritime traffic can resume within seven days\".",
-    "link": "https://www.euronews.com/2026/09/26/trump-reportedly-rejects-iranian-plan-to-reopen-strait-of-hormuz",
-    "published": "Sat, 26 Sep 2026 16:10:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "930d391cc20120a06ca56a107bb7ae89",
-    "fetched_at": "2026-09-26T17:39:13.172835+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 26th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-evening",
-    "published": "Sat, 26 Sep 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "391120d872cf9c7fb14970586eef865f",
-    "fetched_at": "2026-09-26T17:39:12.050455+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's plans for massive arch move ahead",
-    "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 18:27:46 GMT",
-    "source": "BBC News",
-    "id": "da0815b20fef7e2f2edb3713b7c85d25",
-    "fetched_at": "2026-09-26T17:39:10.919480+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-    "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
-    "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 17:59:03 GMT",
-    "source": "BBC News",
-    "id": "8b3367f452e2b83fbc00c89c07a2230f",
-    "fetched_at": "2026-09-26T17:39:09.809699+00:00"
   }
 ]
