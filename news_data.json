@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Inside Yemen's front-line city as Houthis battle for control",
+    "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+    "source": "BBC News",
+    "id": "640941767515032c75b2a5bf7b1d3dbc",
+    "fetched_at": "2026-09-28T02:54:08.685608+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Students strike across Germany in protest against military service",
+    "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+    "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 15:36:22 GMT",
+    "source": "BBC News",
+    "id": "189448fd248e0870607d9149347336d4",
+    "fetched_at": "2026-09-28T02:54:08.685605+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+    "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+    "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 20:47:49 GMT",
+    "source": "BBC News",
+    "id": "69d97f273dc255187d4c7f34df1bcc64",
+    "fetched_at": "2026-09-28T02:54:08.685576+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass",
+    "summary": "Pope Leo XIV drew an estimated 800,000 to Place de la Concorde for a historic open-air Mass, urging French Catholics to share their faith openly.",
+    "link": "https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass",
+    "published": "Sat, 26 Sep 2026 19:25:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e169b95026e78896e501aab205487a27",
+    "fetched_at": "2026-09-28T02:54:07.575581+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
+    "summary": "Danny Danon&apos;s viral Starlink video drew 9 million views, with nearly 40% of Instagram viewers in Iran, his office says, prompting a counter-campaign.",
+    "link": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran",
+    "published": "Sat, 26 Sep 2026 22:04:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9e99e3681c68cb23b4c1fb56638ce951",
+    "fetched_at": "2026-09-28T02:54:06.479808+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+    "summary": "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.",
+    "link": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
+    "published": "Sun, 27 Sep 2026 20:34:26 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "96dccbd127a67ca1300b42d4a7e85192",
+    "fetched_at": "2026-09-28T02:54:05.390721+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+    "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade.",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 20:06:39 GMT",
+    "source": "BBC News",
+    "id": "c9fb3223f42e79c521609e33fd4129e6",
+    "fetched_at": "2026-09-28T02:54:04.288695+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+    "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 26 Sep 2026 01:24:31 GMT",
+    "source": "BBC News",
+    "id": "ba6bd6a602c2519f340ac41a835544b6",
+    "fetched_at": "2026-09-28T02:54:03.183557+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we know about UK airbase counter-terror probe",
+    "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+    "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 19:47:44 GMT",
+    "source": "BBC News",
+    "id": "dec2f4da9f2bd8d23a27c9662bc14d52",
+    "fetched_at": "2026-09-28T02:54:02.072905+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
+    "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+    "source": "BBC News",
+    "id": "7b4834853e3a9f6717264d06336934ab",
+    "fetched_at": "2026-09-28T02:54:00.963068+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Watch: mass Madrid protests over Maricarmen eviction and housing crisis",
     "summary": "Protesters in Madrid have spent a second night camping in Puerta del Sol, turning the capital’s main square into a makeshift housing protest camp after the eviction of 87-year-old María del Carmen Abascal, widely known as “Maricarmen”.",
     "link": "https://www.euronews.com/video/2026/09/27/watch-mass-madrid-protests-over-maricarmen-eviction-and-housing-crisis",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6553b8715f3124140c800d221df01ba4",
     "fetched_at": "2026-09-27T13:26:58.412174+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
-    "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
-    "link": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
-    "published": "Sun, 27 Sep 2026 08:06:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "ab6a472f0e2c5a6f4fd687bdf8eb19e0",
-    "fetched_at": "2026-09-27T13:26:57.298789+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-    "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
-    "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-    "published": "Sun, 27 Sep 2026 09:01:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "985dfe27dd19b604c37c4ffa2cc022a1",
-    "fetched_at": "2026-09-27T13:26:56.192147+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
-    "summary": "Alabama was set to take TikTok to trial over claims that it intentionally addicted young users.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgjqq54dlx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 00:11:14 GMT",
-    "source": "BBC News",
-    "id": "d47bc8fce473e31eb6cc85f610e5c757",
-    "fetched_at": "2026-09-27T13:26:55.078331+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 02:50:56 GMT",
-    "source": "BBC News",
-    "id": "ed9ef96feb7ee3dedfebee1fa804f712",
-    "fetched_at": "2026-09-27T13:26:53.971046+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four killed in helicopter crash near Montreal",
-    "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 27 Sep 2026 02:43:10 GMT",
-    "source": "BBC News",
-    "id": "1dd034d8fa3aa2f0d3c118ab70d5efec",
-    "fetched_at": "2026-09-27T07:25:09.715806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
-    "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-    "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 23:04:08 GMT",
-    "source": "BBC News",
-    "id": "c2b81cd3f0d6f882c790f4f7f5b47af5",
-    "fetched_at": "2026-09-27T07:25:09.715805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
-    "summary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 27 Sep 2026 06:52:49 GMT",
-    "source": "BBC News",
-    "id": "bb1809725d50296f135020862696914d",
-    "fetched_at": "2026-09-27T07:25:09.715802+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 27th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-morning",
-    "published": "Sun, 27 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c814cbd7d47004f3d42629244abe4b6a",
-    "fetched_at": "2026-09-27T07:25:09.715773+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-    "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 24 Sep 2026 16:00:29 GMT",
-    "source": "BBC News",
-    "id": "ec8050c38001a1cb78dd5599d67ab547",
-    "fetched_at": "2026-09-27T07:25:08.580198+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope warns against 'losing humanity' to AI machines",
-    "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 15:06:41 GMT",
-    "source": "BBC News",
-    "id": "bcac11321ee3b54bc0402e057a7bcaa1",
-    "fetched_at": "2026-09-27T07:25:07.451624+00:00"
   }
 ]
