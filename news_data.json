@@ -1,6 +1,256 @@
 [
   {
     "region": "Europe",
+    "title": "Lost songs from iconic Australian rockstar found in garage",
+    "summary": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 01:33:29 GMT",
+    "source": "BBC News",
+    "id": "80fe0a0a63d35188889341fbd45de6be",
+    "fetched_at": "2026-09-29T07:43:46.010978+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside Yemen's front-line city as Houthis battle for control",
+    "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 27 Sep 2026 21:16:31 GMT",
+    "source": "BBC News",
+    "id": "640941767515032c75b2a5bf7b1d3dbc",
+    "fetched_at": "2026-09-29T07:43:46.010976+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+    "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 04:10:33 GMT",
+    "source": "BBC News",
+    "id": "df8bf6a3eef23f98b86448e167d5de66",
+    "fetched_at": "2026-09-29T07:43:46.010973+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+    "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 03:50:40 GMT",
+    "source": "BBC News",
+    "id": "7e4f30f77e0743085327c1c7800fd6c7",
+    "fetched_at": "2026-09-29T07:43:46.010971+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 04:30:13 GMT",
+    "source": "BBC News",
+    "id": "74455c8e46015eed9ea70a30dfe6c7f3",
+    "fetched_at": "2026-09-29T07:43:46.010969+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'I don't think that is fake news as some have said,' says Leo XIV contradicting Trump on need for AI safety",
+    "summary": "The pontiff appeared to target US President Donald Trump who has routinely referred to concerns from AI leaders about the rapid pace of development of the technology as a ‘hoax’ stemming from his political opponents.",
+    "link": "https://www.euronews.com/2026/09/29/i-dont-think-that-is-fake-news-as-some-have-said-says-leo-xiv-contradicting-trump-on-need-",
+    "published": "Tue, 29 Sep 2026 05:51:23 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e27f79e0b4ed6984d631bf519f7b43ae",
+    "fetched_at": "2026-09-29T07:43:46.010967+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Second prosecutor resigns from Trump's 2020 election 'grand conspiracy' Justice Department probe",
+    "summary": "A second high profile prosecutor in Trump’s grand conspiracy Justice Department probe into whether former government officials conspired against him has abruptly resigned from his post. Kurt Olsen was one of the biggest backers of the 2020 rigged elections claims that Trump has championed for years.",
+    "link": "https://www.euronews.com/2026/09/29/second-prosecutor-resigns-from-trumps-2020-election-grand-conspiracy-justice-department-pr",
+    "published": "Tue, 29 Sep 2026 06:19:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fa4abb4c60a4cc297e5374455da461a2",
+    "fetched_at": "2026-09-29T07:43:46.010964+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Myanmar army airstrike kills 49 and injures 58 others in market in opposition-controlled Rakhine state",
+    "summary": "The Arakan Army accused the army of using fighter jets to drop bombs near the civilian market around noon on Monday, killing many people. The incident is the latest in a continued territorial fight between Myanmar’s ruling junta and the Arakan Army, which controls the state of Rakhine.",
+    "link": "https://www.euronews.com/2026/09/29/myanmar-army-airstrike-kills-49-and-injures-58-others-in-market-in-opposition-controlled-r",
+    "published": "Tue, 29 Sep 2026 06:34:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "dde66358cf4d4c396f985065b04f2a81",
+    "fetched_at": "2026-09-29T07:43:46.010962+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 29th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-morning",
+    "published": "Tue, 29 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f32d44c2e9554d03119cb79aa13e6e76",
+    "fetched_at": "2026-09-29T07:43:46.010960+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Euronews Travel & Tourism Summit 2026: Watch live today from Brussels",
+    "summary": "The Euronews Travel & Tourism Summit 2026 is taking place in Brussels today, bringing together political leaders, policymakers and industry experts to debate the biggest issues shaping the future of travel.",
+    "link": "https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-2026-watch-live-today-from-brussels",
+    "published": "Tue, 29 Sep 2026 08:00:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "183a5b8c221838d619aad3ee30781b76",
+    "fetched_at": "2026-09-29T07:43:46.010958+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Firefighters protest at Eiffel Tower demanding more resources",
+    "summary": "French firefighters staged a protest at the Eiffel Tower, calling for more funding, staff and equipment to cope with growing demands.",
+    "link": "https://www.euronews.com/video/2026/09/29/firefighters-protest-at-eiffel-tower-demanding-more-resources",
+    "published": "Tue, 29 Sep 2026 09:04:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "14c110926f16da26e48c94ebfda092dc",
+    "fetched_at": "2026-09-29T07:43:46.010955+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New Russian mobilisation: Putin signs decree adding 15,500 troops to army",
+    "summary": "Putin had previously signed documents boosting the size of the army in March, June and July. The combined increase since March amounts to 47,860 soldiers.",
+    "link": "https://www.euronews.com/2026/09/29/new-russian-mobilisation-putin-signs-decree-adding-15500-troops-to-army",
+    "published": "Tue, 29 Sep 2026 09:15:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "edd25b728753cf017e6bdb6b7ec5509b",
+    "fetched_at": "2026-09-29T07:43:46.010953+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UAE confirms president met with Israel's PM Netanyahu in Abu Dhabi on Sunday",
+    "summary": "The visit came weeks after a bombshell Israeli media report that the Emirati president had warned Netanyahu ahead of the Hamas-led attack on Israel in 2023, which the Israeli premier did not pass on to the security services.",
+    "link": "https://www.euronews.com/2026/09/29/uae-confirms-president-met-with-israels-pm-netanyahu-in-abu-dhabi-on-sunday",
+    "published": "Tue, 29 Sep 2026 09:41:11 +0200",
+    "source": "News | Euronews RSS",
+    "id": "edaf47a37149a6fb7112c2ad024d9f72",
+    "fetched_at": "2026-09-29T07:43:46.010950+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three dead, including child, in Channel crossing attempt",
+    "summary": "A 10-year-old child and two 30-year-old women were on board the boat - which was carrying 105 people.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 12:06:52 GMT",
+    "source": "BBC News",
+    "id": "5f7c5d7aa220b4146ce31184d6ce3c93",
+    "fetched_at": "2026-09-29T07:43:46.010947+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Infantino makes bigger cash pledge to Fifa members",
+    "summary": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members from its cash reserves.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 22:32:29 GMT",
+    "source": "BBC News",
+    "id": "e73bcee2fc3151cd2756ba566cbd45e6",
+    "fetched_at": "2026-09-29T07:43:46.010944+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
+    "summary": "Vietnam says the men entered the country illegally and accused them of planning terrorist activities.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 05:31:37 GMT",
+    "source": "BBC News",
+    "id": "8d78eab196f1b8040ed35549b7888a33",
+    "fetched_at": "2026-09-29T07:43:46.010941+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three Egyptian security officials convicted of kidnapping Italian student",
+    "summary": "Giulio Regeni's tortured body was found days after he went missing on a research trip to Egypt in 2016, while studying at Cambridge University.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 23:39:15 GMT",
+    "source": "BBC News",
+    "id": "cf9fba40679cacb3d67ab8bd129fe731",
+    "fetched_at": "2026-09-29T07:43:46.010937+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Evicted Spanish pensioner can move back home, lawyer says",
+    "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 01:28:57 GMT",
+    "source": "BBC News",
+    "id": "f958645f36e57a055c9711295ed3e563",
+    "fetched_at": "2026-09-29T07:43:46.010911+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+    "summary": "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.",
+    "link": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
+    "published": "Sun, 27 Sep 2026 20:34:26 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "96dccbd127a67ca1300b42d4a7e85192",
+    "fetched_at": "2026-09-29T07:43:44.892858+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "At least 40 rescued, 2 dead as boat capsizes after machete fight near Puerto Rico",
+    "summary": "A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours.",
+    "link": "https://www.foxnews.com/world/least-40-rescued-2-dead-boat-capsizes-machete-fight-near-puerto-rico",
+    "published": "Tue, 29 Sep 2026 02:53:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0eae1a532f42257b8b2d796b2ade84d6",
+    "fetched_at": "2026-09-29T07:43:43.767838+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
+    "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+    "link": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
+    "published": "Sun, 27 Sep 2026 08:06:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "ab6a472f0e2c5a6f4fd687bdf8eb19e0",
+    "fetched_at": "2026-09-29T07:43:42.641155+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+    "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+    "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+    "published": "Sun, 27 Sep 2026 09:01:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "985dfe27dd19b604c37c4ffa2cc022a1",
+    "fetched_at": "2026-09-29T07:43:41.516487+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+    "summary": "Tens of thousands marched through Madrid on Saturday to protest Spain's housing crisis and the eviction of an 87-year-old woman, camping overnight in Madrid's historic Puerta del Sol plaza.",
+    "link": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
+    "published": "Mon, 28 Sep 2026 03:20:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "b529ed1d2508aba23ab595042d778f9d",
+    "fetched_at": "2026-09-29T07:43:40.391728+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Five arrested as counter-terror police investigate major incident near UK airbase used by US forces",
+    "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 28 Sep 2026 06:17:12 GMT",
+    "source": "BBC News",
+    "id": "7b4834853e3a9f6717264d06336934ab",
+    "fetched_at": "2026-09-29T07:43:39.277850+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+    "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 02:36:46 GMT",
+    "source": "BBC News",
+    "id": "11dcd861ee1b715681271b6b55865588",
+    "fetched_at": "2026-09-29T07:43:38.158385+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Four bodies found after avalanche hits Himalayan climbing group",
     "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
     "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
@@ -348,255 +598,5 @@
     "source": "BBC News",
     "id": "0757a2e8f14e03c00b932368b85a5dc8",
     "fetched_at": "2026-09-28T19:02:48.462243+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 14:57:31 GMT",
-    "source": "BBC News",
-    "id": "efe51d30d4fb6d102014c1f057e7ba39",
-    "fetched_at": "2026-09-28T19:02:48.462240+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-    "summary": "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat.",
-    "link": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
-    "published": "Sun, 27 Sep 2026 06:00:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "35656df9262a21a16d013cd9a137698f",
-    "fetched_at": "2026-09-28T19:02:48.462237+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK police arrest 'explosive' suspects near US airbase, key to Iran war",
-    "summary": "Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.",
-    "link": "https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war",
-    "published": "Sun, 27 Sep 2026 07:40:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc18f300392f3cc146df3a6303ab9ed0",
-    "fetched_at": "2026-09-28T19:02:48.462234+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis",
-    "summary": "A suspected gas leak caused an explosions that leveled a residential building in Athens&apos; Plaka district near the Acropolis, killing four American tourists and two residents.",
-    "link": "https://www.foxnews.com/world/four-american-tourists-among-6-killed-explosion-levels-building-near-athens-acropolis",
-    "published": "Sun, 27 Sep 2026 08:32:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e0702c38e9cd3d4b0fcf3928386176fb",
-    "fetched_at": "2026-09-28T19:02:48.462231+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK airbase terror suspects being released on bail as Iran denies connection",
-    "summary": "Five RAF Fairford terror suspects were released on bail as counter terrorism policing probes possible foreign state involvement in the plot.",
-    "link": "https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection",
-    "published": "Mon, 28 Sep 2026 11:46:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "863eeacecb515a16cac9febd71c17336",
-    "fetched_at": "2026-09-28T19:02:48.462227+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran under scrutiny after plot foiled near UK base used by US military",
-    "summary": "Experts suspect an Iran link after five were allegedly arrested with explosives near a U.K. U.S. military base. Russia and Islamic terrorists are also under scrutiny.",
-    "link": "https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military",
-    "published": "Mon, 28 Sep 2026 14:24:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0440d81b9822962ed7df2bf2d923d499",
-    "fetched_at": "2026-09-28T19:02:48.462195+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
-    "summary": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
-    "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
-    "published": "Sun, 27 Sep 2026 06:49:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "b8eb4fefef57adb91c298be876c96d6c",
-    "fetched_at": "2026-09-28T19:02:47.346141+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Photos: This may be the most inspirational night school on Earth",
-    "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
-    "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-    "published": "Sun, 27 Sep 2026 07:53:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "8cad1088ffc12b7b43e6228b65592cd9",
-    "fetched_at": "2026-09-28T19:02:46.227498+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-    "summary": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
-    "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
-    "published": "Sun, 27 Sep 2026 08:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "6553b8715f3124140c800d221df01ba4",
-    "fetched_at": "2026-09-28T19:02:45.105306+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
-    "summary": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved.",
-    "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-    "published": "Mon, 28 Sep 2026 06:51:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "e7464d01782650a07515a114b49062a0",
-    "fetched_at": "2026-09-28T19:02:43.980137+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
-    "summary": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
-    "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
-    "published": "Mon, 28 Sep 2026 08:15:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "7a28af28d520a43461e169a09dd59ba7",
-    "fetched_at": "2026-09-28T19:02:42.858476+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
-    "summary": "Swift took home the big award for video of the year on a night when the original Queen of Pop performed.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly403p1rwpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 07:40:05 GMT",
-    "source": "BBC News",
-    "id": "70322430881181fdf29703d0ec39af9b",
-    "fetched_at": "2026-09-28T19:02:41.667167+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-    "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
-    "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 11:16:08 GMT",
-    "source": "BBC News",
-    "id": "766e2054a30fa49704950cf0ea38afce",
-    "fetched_at": "2026-09-28T19:02:40.531195+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-    "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 27 Sep 2026 07:44:11 GMT",
-    "source": "BBC News",
-    "id": "bb1809725d50296f135020862696914d",
-    "fetched_at": "2026-09-28T10:21:44.827826+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four killed in helicopter crash near Montreal",
-    "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 27 Sep 2026 02:43:10 GMT",
-    "source": "BBC News",
-    "id": "1dd034d8fa3aa2f0d3c118ab70d5efec",
-    "fetched_at": "2026-09-28T10:21:44.827824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump-Xi summit: What wasn't said might matter the most",
-    "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
-    "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 07:52:23 GMT",
-    "source": "BBC News",
-    "id": "ebec085e193b8381163fbba432dc512d",
-    "fetched_at": "2026-09-28T10:21:44.827822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 28th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/28/latest-news-bulletin-september-28th-2026-morning",
-    "published": "Mon, 28 Sep 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "476438c9db46d2ecbfaaa91ed925686e",
-    "fetched_at": "2026-09-28T10:21:44.827820+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump offered to sell arms to China during Xi visit, US ambassador tells Fox News",
-    "summary": "The United States is required by law to supply Taiwan, which has a democratically elected president and legislature, with weapons for its defence under the 1979 Taiwan Relations Act.",
-    "link": "https://www.euronews.com/2026/09/28/trump-offered-to-sell-arms-to-china-during-xi-visit-us-ambassador-tells-fox-news",
-    "published": "Mon, 28 Sep 2026 07:16:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b9ddfd96a2fb959eed4524641dae98e7",
-    "fetched_at": "2026-09-28T10:21:44.827815+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope joins pilgrims in Lourdes candlelit rosary as 150,000 attend mass",
-    "summary": "Thousands of pilgrims filled Lourdes on Sunday evening for a candlelit procession with Pope Leo XIV, as he brought his four-day visit to France to a close.",
-    "link": "https://www.euronews.com/video/2026/09/28/pope-joins-pilgrims-in-lourdes-candlelit-rosary-as-150000-attend-mass",
-    "published": "Mon, 28 Sep 2026 07:51:35 +0200",
-    "source": "News | Euronews RSS",
-    "id": "eea910965565c66b09b623037909922c",
-    "fetched_at": "2026-09-28T10:21:44.827814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine says Russian drones kill 14, hit Kyiv and Odesa infrastructure",
-    "summary": "Ukraine reports 14 dead and 57 injured after a massive Russian drone barrage hits Kyiv and Odesa on 27 September, damaging schools, hospitals and key infrastructure.",
-    "link": "https://www.euronews.com/video/2026/09/28/ukraine-says-russian-drones-kill-14-hit-kyiv-and-odesa-infrastructure",
-    "published": "Mon, 28 Sep 2026 08:30:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ae9d1c5e909037f77f0de3858b8b9487",
-    "fetched_at": "2026-09-28T10:21:44.827811+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Death toll in South Africa bar shooting rises to 18, police say",
-    "summary": "South Africa is awash with legal and illegal firearms, and shootings are common, often fuelled by gang rivalry, extortion and competition between informal businesses.",
-    "link": "https://www.euronews.com/2026/09/28/death-toll-in-south-africa-bar-shooting-rises-to-18-police-say",
-    "published": "Mon, 28 Sep 2026 09:04:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0e09e3d27a1fa67cefeda3c06edcc7a2",
-    "fetched_at": "2026-09-28T10:21:44.827809+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bangkok streets turn to canals as days of heavy rain bring citywide flooding",
-    "summary": "Days of heavy rain have flooded Bangkok, disrupting transport and businesses, with shelters opened and officials warning water could take days to recede.",
-    "link": "https://www.euronews.com/video/2026/09/28/bangkok-streets-turn-to-canals-as-days-of-heavy-rain-bring-citywide-flooding",
-    "published": "Mon, 28 Sep 2026 09:16:11 +0200",
-    "source": "News | Euronews RSS",
-    "id": "73d140de875100f3e4ec64e85243094f",
-    "fetched_at": "2026-09-28T10:21:44.827806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 62 killed after heavy rain and flooding in northern India, officials say",
-    "summary": "Schools were closed in parts of the state on Monday, including the capital Lucknow, while rescue teams moved people from flooded areas to safer locations.",
-    "link": "https://www.euronews.com/2026/09/28/at-least-62-killed-after-heavy-rain-and-flooding-in-northern-india-officials-say",
-    "published": "Mon, 28 Sep 2026 10:35:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "a40ec207f72338906eafe03ab50cfade",
-    "fetched_at": "2026-09-28T10:21:44.827801+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish comedian Deniz Göktaş on trial for insulting President Erdoğan in standup show",
-    "summary": "Göktaş's arrest was the latest in a widening crackdown on anyone seen as critical of Turkey's conservative government or its values, which has netted hundreds of politicians, artists, musicians, journalists and LGBTQ+ activists.",
-    "link": "https://www.euronews.com/2026/09/28/turkish-comedian-deniz-goktas-on-trial-for-insulting-president-erdogan-in-standup-show",
-    "published": "Mon, 28 Sep 2026 10:53:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e99dad98eb61de7e9bd2a2cc685f2ced",
-    "fetched_at": "2026-09-28T10:21:44.827764+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia under Putin lost nearly half its schools — war propaganda fills the rest",
-    "summary": "Closures driven by per-pupil funding that made smaller rural schools unviable far outpaced demographic decline. Since 2022, all remaining schools hold mandatory weekly classes on Russian \"traditional values\" and the Kremlin's version of events surrounding Russia's war in Ukraine.",
-    "link": "https://www.euronews.com/2026/09/28/russia-under-putin-lost-nearly-half-its-schools-war-propaganda-fills-the-rest",
-    "published": "Mon, 28 Sep 2026 11:12:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "796500a30d51fe45c9aa99146f625a7b",
-    "fetched_at": "2026-09-28T10:21:43.681660+00:00"
   }
 ]
