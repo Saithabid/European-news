@@ -1,6 +1,196 @@
 [
   {
     "region": "Europe",
+    "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+    "summary": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
+    "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 06:41:35 GMT",
+    "source": "BBC News",
+    "id": "5616006de718e2b45acd7b40ed3ecbfe",
+    "fetched_at": "2026-09-30T07:47:12.172656+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+    "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 05:24:52 GMT",
+    "source": "BBC News",
+    "id": "86fa39dcd4bbbdc02564acbf1b9eb3c9",
+    "fetched_at": "2026-09-30T07:47:12.172653+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+    "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+    "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 05:02:50 GMT",
+    "source": "BBC News",
+    "id": "da2b7a41d4637d2e1c612b24d09b42fd",
+    "fetched_at": "2026-09-30T07:47:12.172651+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Top AI and tech firms sign 'morally binding' accord to 'self-police' development after meeting at White House",
+    "summary": "The accord comes amid massive global pressure from civilians and lawmakers alike to regulate the industry as reports of the technology breaking out of its confines continue to pile. Last week OpenAI revealed that its agent had hacked into an Australian government website during its testing phase.",
+    "link": "https://www.euronews.com/2026/09/30/top-ai-and-tech-firms-sign-morally-binding-accord-to-self-police-development-after-meeting",
+    "published": "Wed, 30 Sep 2026 06:01:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9b75efc478f407a842cf4f68e2b3ee06",
+    "fetched_at": "2026-09-30T07:47:12.172650+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Morocco's King Mohammed VI appoints Fatima Mansouri as the country's first female prime minister",
+    "summary": "Mansouri is only the second woman in the Arab world to hold the office of prime minister. Her established political career has seen her serve as mayor of Marrakesh and member of parliament previously.",
+    "link": "https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini",
+    "published": "Wed, 30 Sep 2026 06:21:51 +0200",
+    "source": "News | Euronews RSS",
+    "id": "5fc9ed0852fe44b84089e406cc1bfcae",
+    "fetched_at": "2026-09-30T07:47:12.172648+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | September 30th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this September 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-morning",
+    "published": "Wed, 30 Sep 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "4fbd17843d33872a66212e4797780714",
+    "fetched_at": "2026-09-30T07:47:12.172646+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "North Korea slams South's claim it was behind DMZ mine blasts, calling it a 'farce'",
+    "summary": "North Korea in recent years has added mines, anti-tank barriers and other front-line fortifications, raising concerns in the South about the growing presence of North Korean soldiers near the border.",
+    "link": "https://www.euronews.com/2026/09/30/north-korea-slams-souths-claim-it-was-behind-dmz-mine-blasts-calling-it-a-farce",
+    "published": "Wed, 30 Sep 2026 07:23:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2fd729fe4fd3b0ad2f680555b2bbc153",
+    "fetched_at": "2026-09-30T07:47:12.172644+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rehabilitated green sea turtle Jurassic returns to Atlantic",
+    "summary": "Jurassic, a 215-pound adult male green sea turtle, has been released back into the Atlantic Ocean after rehabilitation in Florida, equipped with a satellite tracker to monitor his movements.",
+    "link": "https://www.euronews.com/video/2026/09/30/rehabilitated-green-sea-turtle-jurassic-returns-to-atlantic",
+    "published": "Wed, 30 Sep 2026 09:40:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c511ee8bffa7903fd77f28cf1f160d4e",
+    "fetched_at": "2026-09-30T07:47:12.172641+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Move to rejoin EU among options for UK, says Burnham",
+    "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 06:04:30 GMT",
+    "source": "BBC News",
+    "id": "0c03fbc6397c0ae07c001a94d1348286",
+    "fetched_at": "2026-09-30T07:47:12.172638+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+    "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:33:34 GMT",
+    "source": "BBC News",
+    "id": "0a8bcd4583348ba7b2ccddbef639e94c",
+    "fetched_at": "2026-09-30T07:47:12.172635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK airbase terror suspects being released on bail as Iran denies connection",
+    "summary": "Five RAF Fairford terror suspects were released on bail as counter terrorism policing probes possible foreign state involvement in the plot.",
+    "link": "https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection",
+    "published": "Mon, 28 Sep 2026 11:46:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "863eeacecb515a16cac9febd71c17336",
+    "fetched_at": "2026-09-30T07:47:12.172632+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran under scrutiny after plot foiled near UK base used by US military",
+    "summary": "Experts suspect an Iran link after five were allegedly arrested with explosives near a U.K. U.S. military base. Russia and Islamic terrorists are also under scrutiny.",
+    "link": "https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military",
+    "published": "Mon, 28 Sep 2026 14:24:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "0440d81b9822962ed7df2bf2d923d499",
+    "fetched_at": "2026-09-30T07:47:12.172599+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+    "summary": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
+    "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+    "published": "Mon, 28 Sep 2026 06:51:25 -0400",
+    "source": "NPR Topics: World",
+    "id": "e7464d01782650a07515a114b49062a0",
+    "fetched_at": "2026-09-30T07:47:11.055136+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
+    "summary": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
+    "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
+    "published": "Mon, 28 Sep 2026 08:15:05 -0400",
+    "source": "NPR Topics: World",
+    "id": "7a28af28d520a43461e169a09dd59ba7",
+    "fetched_at": "2026-09-30T07:47:09.949242+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+    "summary": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
+    "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+    "published": "Tue, 29 Sep 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "46f40b275f13c034d4294775c52aaac5",
+    "fetched_at": "2026-09-30T07:47:08.790756+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
+    "summary": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
+    "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
+    "published": "Tue, 29 Sep 2026 07:36:24 -0400",
+    "source": "NPR Topics: World",
+    "id": "17f749753ef61c10e8f7695633ed8c7f",
+    "fetched_at": "2026-09-30T07:47:07.652249+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
+    "summary": "María del Carmen Abascal's case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country's housing crisis.",
+    "link": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
+    "published": "Wed, 30 Sep 2026 03:07:42 -0400",
+    "source": "NPR Topics: World",
+    "id": "dec7407fdffbb8eaeadff2431eb04c51",
+    "fetched_at": "2026-09-30T07:47:06.516175+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+    "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 13:38:06 GMT",
+    "source": "BBC News",
+    "id": "df8bf6a3eef23f98b86448e167d5de66",
+    "fetched_at": "2026-09-30T07:47:05.378766+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+    "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 04:01:52 GMT",
+    "source": "BBC News",
+    "id": "5fb585b8c7e45a66504bcd11be5c585d",
+    "fetched_at": "2026-09-30T07:47:04.252607+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "South Africa to clean up high-risk areas after 12 women killed",
     "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
     "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
@@ -408,195 +598,5 @@
     "source": "BBC News",
     "id": "9fd529d6fd29c2e4b48ccd6f231a97f9",
     "fetched_at": "2026-09-29T14:29:45.418201+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian airliner with passengers on board seized at Istanbul over €3-million debt",
-    "summary": "Bailiffs boarded the Caspian Airlines Boeing 737 as passengers sat ready for departure and served a €3 million debt order before it could take off. The seizure came days after US secondary sanctions on Iran's aviation sector took effect, halving international flights at Tehran's main airport.",
-    "link": "https://www.euronews.com/2026/09/29/iranian-airliner-with-passengers-on-board-seized-at-istanbul-over-3-million-debt",
-    "published": "Tue, 29 Sep 2026 10:37:00 +0200",
-    "source": "News | Euronews RSS",
-    "id": "524e3ea51fc4ea05fb6aa11262effaf3",
-    "fetched_at": "2026-09-29T14:29:45.418199+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korean landmine blasts in DMZ a 'violation of armistice,' Seoul says",
-    "summary": "The northern and southern boundaries of the zone are among the world's most heavily fortified frontiers and landmine incidents have previously heightened tensions between the two countries.",
-    "link": "https://www.euronews.com/2026/09/29/north-korean-landmine-blasts-in-dmz-a-violation-of-armistice-seoul-says",
-    "published": "Tue, 29 Sep 2026 10:56:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8423f0b68fc8c65dc2662d2004d46b64",
-    "fetched_at": "2026-09-29T14:29:45.418197+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sabotage halts Syria gas pipeline in latest attack on energy sector",
-    "summary": "Remnants of the so-called IS terrorist group have continued to target energy infrastructure after the fall of al-Assad in the eastern province of Deir ez-Zor. Syria produces a fraction of its pre-war gas output against increasingly high demand.",
-    "link": "https://www.euronews.com/2026/09/29/sabotage-halts-syria-gas-pipeline-in-latest-attack-on-energy-sector",
-    "published": "Tue, 29 Sep 2026 11:05:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "afb4d9b00ac18808099e8465d189d33f",
-    "fetched_at": "2026-09-29T14:29:45.418196+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran warns no regional oil is safe as IRGC touts new weapons",
-    "summary": "Parliament speaker Ghalibaf said if Iran cannot sell oil, \"no one in the region will sell oil,\" as the IRGC called Trump \"a big liar,\" said US bases were the \"only source of insecurity\" in the region and warned new weapons were being prepared for the battlefield.",
-    "link": "https://www.euronews.com/2026/09/29/iran-warns-no-regional-oil-is-safe-as-irgc-touts-new-weapons",
-    "published": "Tue, 29 Sep 2026 11:59:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8f5efa864b5b2269f5d3beacbe31b4c8",
-    "fetched_at": "2026-09-29T14:29:45.418194+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | September 29th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this September 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-midday",
-    "published": "Tue, 29 Sep 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "755e4e6461f9a7547fb12d962da8be6b",
-    "fetched_at": "2026-09-29T14:29:45.418192+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Polo makes landfall in Mexico as Category 3 hurricane, cutting power and causing floods",
-    "summary": "This year's Pacific hurricane season is shaping up as more severe than usual, as a Super El Niño, an extreme version of a recurring weather pattern, wreaks devastation, in the form of historic droughts and flooding.",
-    "link": "https://www.euronews.com/2026/09/29/mexico-braces-for-hurricane-polo-residents-evacuated-in-baja-california-sur",
-    "published": "Tue, 29 Sep 2026 13:26:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "81b17b393dc01faea983848a575e1c46",
-    "fetched_at": "2026-09-29T14:29:45.418191+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Celine Dion surprises Paris Fashion Week with performance at L'Oréal show",
-    "summary": "Canadian singer Celine Dion made a surprise appearance at L'Oréal's fashion show in Paris, performing on stage with the Eiffel Tower in the background alongside a star-studded line-up of celebrities and models.",
-    "link": "https://www.euronews.com/video/2026/09/29/celine-dion-surprises-paris-fashion-week-with-performance-at-loreal-show",
-    "published": "Tue, 29 Sep 2026 14:26:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1387cde8b329b0f774e8b0f6cfe2b796",
-    "fetched_at": "2026-09-29T14:29:45.418189+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Protesters march for unrestricted abortion access in Chile and Colombia",
-    "summary": "Demonstrators gathered in Santiago and Bogotá on International Safe Abortion Day, calling for greater access to abortion and defending reproductive rights.",
-    "link": "https://www.euronews.com/video/2026/09/29/protesters-march-for-unrestricted-abortion-access-in-chile-and-colombia",
-    "published": "Tue, 29 Sep 2026 15:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6c0e6e071a88e7b449477b966bc01941",
-    "fetched_at": "2026-09-29T14:29:45.418188+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Counterfeit medicine trade: how online pharmacies are selling deadly fake painkillers across Europe",
-    "summary": "Deadly synthetic opioids disguised as legitimate painkillers are being sold online across Europe, as counterfeit medicines linked to multiple deaths in the Netherlands expose the dark side of e-commerce.",
-    "link": "https://www.euronews.com/2026/09/29/counterfeit-medicine-trade-how-online-pharmacies-are-selling-deadly-fake-painkillers-acros",
-    "published": "Tue, 29 Sep 2026 15:00:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "38ea5292158b78d2c9557a8ed43632d2",
-    "fetched_at": "2026-09-29T14:29:45.418186+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Middle East oil exports rise as LNG traffic through Hormuz picks up",
-    "summary": "Months into the war with Iran, Gulf exporters are finding ways to keep oil and gas moving, but crossing Hormuz remains risky and some customers are still missing contracted cargoes.",
-    "link": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up",
-    "published": "Tue, 29 Sep 2026 15:13:17 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cca4466ab50b4d2ec30c9ab6c76f972e",
-    "fetched_at": "2026-09-29T14:29:45.418184+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 14:57:31 GMT",
-    "source": "BBC News",
-    "id": "efe51d30d4fb6d102014c1f057e7ba39",
-    "fetched_at": "2026-09-29T14:29:45.418182+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Celine Dion kicks off Paris Fashion Week with surprise performance",
-    "summary": "The singer appeared at the end of L'Oreal's annual show as the French fashion bonanza kicked off.",
-    "link": "https://www.bbc.co.uk/news/articles/cj207qk472zpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 10:20:14 GMT",
-    "source": "BBC News",
-    "id": "9db862721f7794e9c2bc6070c98289cd",
-    "fetched_at": "2026-09-29T14:29:45.418180+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-    "summary": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 13:15:51 GMT",
-    "source": "BBC News",
-    "id": "591e574a13efcafa8602231f7e5552d6",
-    "fetched_at": "2026-09-29T14:29:45.418178+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-    "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 12:43:04 GMT",
-    "source": "BBC News",
-    "id": "daa2fa9064860d723afd5de17f8c59c1",
-    "fetched_at": "2026-09-29T14:29:45.418176+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-    "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 12:20:02 GMT",
-    "source": "BBC News",
-    "id": "bd7975eb28caf8f74a2621b5f6416cde",
-    "fetched_at": "2026-09-29T14:29:45.418174+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-    "summary": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 13:41:06 GMT",
-    "source": "BBC News",
-    "id": "61686459898f24ac044e10e17a401adc",
-    "fetched_at": "2026-09-29T14:29:45.418172+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-    "summary": "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat.",
-    "link": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
-    "published": "Sun, 27 Sep 2026 06:00:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "35656df9262a21a16d013cd9a137698f",
-    "fetched_at": "2026-09-29T14:29:45.418170+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK police arrest 'explosive' suspects near US airbase, key to Iran war",
-    "summary": "Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.",
-    "link": "https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war",
-    "published": "Sun, 27 Sep 2026 07:40:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bc18f300392f3cc146df3a6303ab9ed0",
-    "fetched_at": "2026-09-29T14:29:45.418168+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis",
-    "summary": "A suspected gas leak caused an explosions that leveled a residential building in Athens&apos; Plaka district near the Acropolis, killing four American tourists and two residents.",
-    "link": "https://www.foxnews.com/world/four-american-tourists-among-6-killed-explosion-levels-building-near-athens-acropolis",
-    "published": "Sun, 27 Sep 2026 08:32:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e0702c38e9cd3d4b0fcf3928386176fb",
-    "fetched_at": "2026-09-29T14:29:45.418165+00:00"
   }
 ]
