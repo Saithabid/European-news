@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+    "summary": "Fortnite, Roblox and Minecraft also told to 'lift their game' by online safety regulator.",
+    "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 02:29:41 GMT",
+    "source": "BBC News",
+    "id": "fd27c35877c684c71b5b9b6d9513e9ec",
+    "fetched_at": "2026-10-02T03:26:59.526390+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "OpenAI fires workers for mishandling 'sensitive information'",
+    "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 01:34:56 GMT",
+    "source": "BBC News",
+    "id": "a367aacf5ff89a51c498260f1c97f3b9",
+    "fetched_at": "2026-10-02T03:26:59.526357+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+    "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+    "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 02:49:44 GMT",
+    "source": "BBC News",
+    "id": "b7bacc68570b536742999df40b5e17c3",
+    "fetched_at": "2026-10-02T03:26:58.384197+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 22:21:16 GMT",
+    "source": "BBC News",
+    "id": "0b3a409189028bf87fbfd76f3b872f9f",
+    "fetched_at": "2026-10-02T03:26:57.241919+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Attacker's identity and motive unknown after flydubai flight to Israel escapes disaster after pilot stabbed",
+    "summary": "Saudi and UAE authorities have said little publicly beyond confirming that investigations were underway. Israeli Prime Minister Benjamin Netanyahu has said the copilot was arrested.",
+    "link": "https://www.euronews.com/2026/10/01/attackers-identity-and-motive-unknown-after-flydubai-flight-to-israel-escapes-disaster-aft",
+    "published": "Thu, 01 Oct 2026 09:35:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9fa986c48233a705bc3ad3e5200b8e5a",
+    "fetched_at": "2026-10-02T03:26:56.080099+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+    "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:33:34 GMT",
+    "source": "BBC News",
+    "id": "0a8bcd4583348ba7b2ccddbef639e94c",
+    "fetched_at": "2026-10-02T03:26:54.918233+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+    "summary": "Students have been protesting against conditions and resources in secondary schools since last week.",
+    "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 13:18:01 GMT",
+    "source": "BBC News",
+    "id": "0531b1b7694b00bd38b71c1bbb15886d",
+    "fetched_at": "2026-10-02T03:26:53.756990+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+    "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 00:08:23 GMT",
+    "source": "BBC News",
+    "id": "57cf8874c04f2e6c7f769de4e1518ba3",
+    "fetched_at": "2026-10-02T03:26:52.623873+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "DOE employee charged with trying to aid Iran-backed Houthis, feds say",
+    "summary": "Ashton Hamed Ellaboudy allegedly used his electrical engineering expertise in an attempt to aid Houthi communications, drones and homemade explosives production.",
+    "link": "https://www.foxnews.com/world/doe-employee-charged-trying-aid-iran-backed-houthis-feds-say",
+    "published": "Thu, 01 Oct 2026 20:33:56 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "020ac8aeb71f651b4f4b6d0b5d18d75f",
+    "fetched_at": "2026-10-02T03:26:51.470102+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Elon Musk returns to Trump administration to co-lead Pentagon war study",
     "summary": "Musk, who in 2024 threw his support behind Trump and helped his return to the White House, served as head of the Department of Government Efficiency (DOGE), where he spearheaded sweeping job cuts across the US federal government.",
     "link": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
@@ -508,95 +598,5 @@
     "source": "BBC News",
     "id": "2db742b967a25be1391cf93921fa9738",
     "fetched_at": "2026-10-01T16:48:46.861795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-    "summary": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
-    "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 12:13:28 GMT",
-    "source": "BBC News",
-    "id": "5310a0c756b2f885b3e8fe561da6af57",
-    "fetched_at": "2026-10-01T16:48:45.698654+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says 'some' munitions are low as Iran war grinds on",
-    "summary": "He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 16:02:07 GMT",
-    "source": "BBC News",
-    "id": "14f250c8a43a9646dc0c2a1d9411f61a",
-    "fetched_at": "2026-10-01T16:48:44.536824+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What happened in failed execution of Christa Pike - and what next?",
-    "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 12:51:14 GMT",
-    "source": "BBC News",
-    "id": "dc7f68da0bb7f83a1bd5c0d47357b13e",
-    "fetched_at": "2026-10-01T16:48:43.391922+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Witnesses recount Christa Pike's failed execution",
-    "summary": "Witnesses describe hearing Pike complain about pain in her arm, followed by sounds of breathing and snoring for almost an hour before she was taken to hospital.",
-    "link": "https://www.bbc.co.uk/news/videos/ckly5y1jzm2zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 13:49:30 GMT",
-    "source": "BBC News",
-    "id": "e702e0eb21c58c5a0e6906872770ac9a",
-    "fetched_at": "2026-10-01T16:48:42.230139+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-    "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 07:29:23 GMT",
-    "source": "BBC News",
-    "id": "469846f3fcf2136c3eecba4e77163513",
-    "fetched_at": "2026-10-01T08:06:46.535999+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-    "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 07:27:25 GMT",
-    "source": "BBC News",
-    "id": "c490e72cd901e420ee73bd12447095a2",
-    "fetched_at": "2026-10-01T08:06:46.535997+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Protests continue at French schools as tensions rise over education conditions",
-    "summary": "Students continued to protest at schools in France, demanding more resources and better learning conditions, while tensions and vandalism were reported around several schools in Rennes.",
-    "link": "https://www.euronews.com/video/2026/09/30/protests-continue-at-french-schools-as-tensions-rise-over-education-conditions",
-    "published": "Wed, 30 Sep 2026 19:04:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "43aa477421be885b5c33ddb632c179be",
-    "fetched_at": "2026-10-01T08:06:46.535994+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US coalition ends Iraq mission as pro-Iran factions refuse to disarm",
-    "summary": "The US-led force has been operating in Iraq for 12 years to dismantle IS terrorist group networks which had threatened to take over the region and plunge it into instability.",
-    "link": "https://www.euronews.com/2026/10/01/us-led-coalition-ends-anti-islamic-state-mission-in-iraq-amid-heightened-regional-tensions",
-    "published": "Thu, 01 Oct 2026 06:08:24 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6eca302b1a213fb6b0a85709f9770b74",
-    "fetched_at": "2026-10-01T08:06:46.535992+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "“I grabbed the controls”: FlyDubai survivor recounts dramatic cockpit attack as he meets Netanyahu",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu met Yaniv Hayun, one of the passengers who helped subdue a pilot after a stabbing on a Flydubai flight bound for Israel.",
-    "link": "https://www.euronews.com/2026/10/01/i-grabbed-the-controls-flydubai-survivor-recounts-dramatic-cockpit-attack-as-he-meets-neta",
-    "published": "Thu, 01 Oct 2026 06:20:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e2f66cf2e9fd2aa5fc9edab17d5890ac",
-    "fetched_at": "2026-10-01T08:06:46.535990+00:00"
   }
 ]
