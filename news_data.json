@@ -1,6 +1,326 @@
 [
   {
     "region": "Europe",
+    "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+    "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 15:26:37 GMT",
+    "source": "BBC News",
+    "id": "16e616ba17744e1f405832bcd220faca",
+    "fetched_at": "2026-10-02T17:10:38.433455+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Riot police clash with students as education protests rage in France",
+    "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 16:26:09 GMT",
+    "source": "BBC News",
+    "id": "761829da9daa94e51ea861bd77a7ad6b",
+    "fetched_at": "2026-10-02T17:10:38.433453+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New York hosts secret dîner en blanc with Parisian belle époque theme",
+    "summary": "Thousands dressed in white gather at a secret New York location for Dîner en Blanc, an annual outdoor dinner with a Parisian Belle Époque theme.",
+    "link": "https://www.euronews.com/video/2026/10/02/new-york-hosts-secret-diner-en-blanc-with-parisian-belle-epoque-theme",
+    "published": "Fri, 02 Oct 2026 11:56:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "491f1289da0066e79daf12d82e5b83da",
+    "fetched_at": "2026-10-02T17:10:38.433451+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cornell University gang rape allegations: case sparks debate among US students",
+    "summary": "New York prosecutors have reopened an investigation into an alleged sexual assault involving seven members of Cornell University's Chi Phi fraternity in 2024.",
+    "link": "https://www.euronews.com/2026/10/02/cornell-university-gang-rape-allegations-case-sparks-debate-among-us-students",
+    "published": "Fri, 02 Oct 2026 12:01:05 +0200",
+    "source": "News | Euronews RSS",
+    "id": "851f8d606f3f0be1c52a5baff4631917",
+    "fetched_at": "2026-10-02T17:10:38.433449+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Video shows bear slamming into car in northern Japan",
+    "summary": "A brown bear slammed its body against a car in northern Japan after two bears were spotted on a road in Hokkaido. The larger bear, believed to be the mother, approached the vehicle before running away with its cub. The driver was unharmed, and police have released dashcam footage of the encounter.",
+    "link": "https://www.euronews.com/2026/10/02/video-shows-bear-slamming-into-car-in-northern-japan",
+    "published": "Fri, 02 Oct 2026 13:10:52 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1900093b8a6b110cf6daaf012d2d6d34",
+    "fetched_at": "2026-10-02T17:10:38.433446+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US sends third carrier strike group to Middle East in biggest buildup since 2003",
+    "summary": "The USS Theodore Roosevelt left San Diego on Sunday accompanied by a Marine expeditionary unit of more than 2,000 troops, bringing the potential total US military presence in the region to more than 60,000.",
+    "link": "https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003",
+    "published": "Fri, 02 Oct 2026 13:48:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c981a27c9ffb3c363f820b2ea60a2af0",
+    "fetched_at": "2026-10-02T17:10:38.433444+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mobile ebola laboratory cuts diagnosis times for patients in Congo",
+    "summary": "A mobile laboratory in Butembo, eastern DRC, is cutting Ebola testing times, with results available within 24 hours and sometimes as quickly as six.",
+    "link": "https://www.euronews.com/video/2026/10/02/mobile-ebola-laboratory-cuts-diagnosis-times-for-patients-in-congo",
+    "published": "Fri, 02 Oct 2026 15:24:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1012604bc3897c282b6abb3ab4b0768c",
+    "fetched_at": "2026-10-02T17:10:38.433442+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "5,000 drones turn China’s night sky into a giant light show",
+    "summary": "A fleet of 5,000 drones forms fighter jets, robots, planes and horses over Nanchang as China marks National Day with a spectacular night show.",
+    "link": "https://www.euronews.com/video/2026/10/02/5000-drones-create-giant-shapes-over-nanchang-in-china",
+    "published": "Fri, 02 Oct 2026 16:00:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "75ce2f977f5faa6407ba6cf6caf5192b",
+    "fetched_at": "2026-10-02T17:10:38.433440+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 2nd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening",
+    "published": "Fri, 02 Oct 2026 18:00:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "d140543c11f89b937c2941af8cbc2959",
+    "fetched_at": "2026-10-02T17:10:38.433438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French students clash with police as school protests spread nationwide",
+    "summary": "Footage shows pupils in Paris, Toulouse and Lille clashing with police as they demand better school resources, warning protests will continue nationwide.",
+    "link": "https://www.euronews.com/video/2026/10/02/french-students-clash-with-police-as-school-protests-spread-nationwide",
+    "published": "Fri, 02 Oct 2026 18:00:44 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f65bd1eda88b402c888a99c3e82bfd65",
+    "fetched_at": "2026-10-02T17:10:38.433435+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "DR Congo Ebola outbreak killed more than 4,000: official figures",
+    "summary": "The worst ever Ebola outbreak in the Democratic Republic of Congo has now killed more than 4,000 people out of more than 8,000 confirmed cases, Congolese officials said on Friday.",
+    "link": "https://www.euronews.com/2026/10/02/dr-congo-ebola-outbreak-killed-more-than-4000-official-figures",
+    "published": "Fri, 02 Oct 2026 18:40:42 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e127a04cb0c6afbe3050c667dfe386f1",
+    "fetched_at": "2026-10-02T17:10:38.433433+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 11:37:46 GMT",
+    "source": "BBC News",
+    "id": "d9f60b4230b94963537eef9a1cafb3a2",
+    "fetched_at": "2026-10-02T17:10:38.433431+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 14:05:55 GMT",
+    "source": "BBC News",
+    "id": "3c8be80613e6ef9de9784b1230b841d2",
+    "fetched_at": "2026-10-02T17:10:38.433429+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia targets busy bridge in central Kyiv",
+    "summary": "The Pivdennyi bridge came under fire as a metro train was travelling across - the first such attack on Kyiv's bridges.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 14:31:03 GMT",
+    "source": "BBC News",
+    "id": "f67e4d1e1fde7434dc6c83e2de0483bd",
+    "fetched_at": "2026-10-02T17:10:38.433427+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "School protests send shivers down French government's spine",
+    "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+    "source": "BBC News",
+    "id": "b9e4fb0cdaec90f5c78450c7c40242de",
+    "fetched_at": "2026-10-02T17:10:38.433424+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 15:30:12 GMT",
+    "source": "BBC News",
+    "id": "8c8cb9263aef3ab40e35a905519251b5",
+    "fetched_at": "2026-10-02T17:10:38.433422+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Billion-dollar power link connecting Israel to Europe hits roadblock in bitter regional feud",
+    "summary": "Cyprus accuses Recep Tayyip Erdoğan of blocking the Great Sea Interconnector energy project linking Israel, Cyprus and Greece amid maritime disputes.",
+    "link": "https://www.foxnews.com/world/billion-dollar-power-link-connecting-israel-europe-hits-roadblock-bitter-regional-feud",
+    "published": "Thu, 01 Oct 2026 06:00:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "418db5d982c6afe900cc97da785a0fde",
+    "fetched_at": "2026-10-02T17:10:38.433420+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FlyDubai pilot showed world 'the highest form of courage,' India's PM says",
+    "summary": "India Prime Minister Narendra Modi said India is saluting Smit Machchhar for his heroics onboard a FlyDubai plane that made an emergency landing.",
+    "link": "https://www.foxnews.com/world/flydubai-pilot-showed-world-highest-form-courage-indias-pm-says",
+    "published": "Thu, 01 Oct 2026 11:52:31 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ddf95be520e004260098bd9b8afd9693",
+    "fetched_at": "2026-10-02T17:10:38.433417+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hezbollah received $157M in weapons in 2024, mostly from 1 nation, report says",
+    "summary": "The Israeli Center for Research of Terror Financing found Iran gave Hezbollah $129 million in rockets, missiles, drones and anti-tank missiles in 2024.",
+    "link": "https://www.foxnews.com/world/hezbollah-received-157m-weapons-2024-mostly-1-nation-report-says",
+    "published": "Thu, 01 Oct 2026 12:13:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1187312edccc63a8d02f018e0afe2fac",
+    "fetched_at": "2026-10-02T17:10:38.433415+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EXCLUSIVE: Trump’s new security alliance faces first real-world test deep in South America as troops deploy",
+    "summary": "Donald Trump&apos;s Shield of the Americas faces its first real test as Bolivia deploys forces to strategic routes amid renewed blockade and unrest fears.",
+    "link": "https://www.foxnews.com/world/exclusive-trumps-new-security-alliance-faces-first-real-world-test-deep-south-america-troops-deploy",
+    "published": "Thu, 01 Oct 2026 12:16:43 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "6dffc380778312af048ee54f4ccc3414",
+    "fetched_at": "2026-10-02T17:10:38.433412+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hero FlyDubai pilot says he was 'fighting for my life' as plane plunged after copilot attack",
+    "summary": "Capt. Smit Machchhar told PM Narenda Modi he felt the FlyDubai plane plunging as he lay wounded and made one last push to open the cockpit door.",
+    "link": "https://www.foxnews.com/world/hero-flydubai-pilot-fighting-life-plane-plunged-copilot-attack",
+    "published": "Fri, 02 Oct 2026 09:52:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e76307c7a51786656659f8d3c61e90dc",
+    "fetched_at": "2026-10-02T17:10:38.433410+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France’s teen riots take explosive new turn as government points finger at hard left",
+    "summary": "Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.",
+    "link": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
+    "published": "Fri, 02 Oct 2026 10:27:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1f10ffe41adbe4b111e106fe68c47d7f",
+    "fetched_at": "2026-10-02T17:10:38.433406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+    "summary": "President Lula promised Brazilians four years ago they'd be able to afford <em>picanha</em> again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+    "published": "Thu, 01 Oct 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "69fe2069ce69e5f0429d610cf67e946a",
+    "fetched_at": "2026-10-02T17:10:38.433403+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv",
+    "summary": "One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5986255/israels-pm-says-a-pilot-tried-to-crash-a-plane-traveling-to-tel-aviv",
+    "published": "Thu, 01 Oct 2026 06:48:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "dc775a4b605b6c8fed3c1ebc3b83e835",
+    "fetched_at": "2026-10-02T17:10:38.433399+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+    "summary": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
+    "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+    "published": "Thu, 01 Oct 2026 07:37:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "b77267cfdb908baee7a048ccc9d0ca34",
+    "fetched_at": "2026-10-02T17:10:38.433368+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+    "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+    "published": "Thu, 01 Oct 2026 10:13:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "b1068cfd21a2b0c5053adcbe49c1f3b0",
+    "fetched_at": "2026-10-02T17:10:37.331207+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
+    "summary": "New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.",
+    "link": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
+    "published": "Fri, 02 Oct 2026 07:22:38 -0400",
+    "source": "NPR Topics: World",
+    "id": "d5c5cd2d3763f0e670eac71e568aa5ab",
+    "fetched_at": "2026-10-02T17:10:36.223820+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+    "summary": "NAZA is an acronym for <em>nezek agavi</em>, Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+    "published": "Fri, 02 Oct 2026 10:37:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "33b835f68acb0ce018e92226006de2d5",
+    "fetched_at": "2026-10-02T17:10:35.112259+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 23:00:05 GMT",
+    "source": "BBC News",
+    "id": "03e5acd7e774bf30d4c07c9caea21f51",
+    "fetched_at": "2026-10-02T17:10:34.016691+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+    "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 14:30:48 GMT",
+    "source": "BBC News",
+    "id": "ed64320105daa329b386d2e5b54d5d28",
+    "fetched_at": "2026-10-02T17:10:32.910885+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+    "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 14:01:09 GMT",
+    "source": "BBC News",
+    "id": "20a9f50a11320a7a71a938f0be947b31",
+    "fetched_at": "2026-10-02T17:10:31.796148+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 17:05:39 GMT",
+    "source": "BBC News",
+    "id": "8eadebec76c801629ac1123fd2c1afd5",
+    "fetched_at": "2026-10-02T17:10:30.669068+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
     "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
     "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
@@ -278,325 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "020ac8aeb71f651b4f4b6d0b5d18d75f",
     "fetched_at": "2026-10-02T03:26:51.470102+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Elon Musk returns to Trump administration to co-lead Pentagon war study",
-    "summary": "Musk, who in 2024 threw his support behind Trump and helped his return to the White House, served as head of the Department of Government Efficiency (DOGE), where he spearheaded sweeping job cuts across the US federal government.",
-    "link": "https://www.euronews.com/2026/10/01/elon-musk-returns-to-trump-administration-to-co-lead-pentagon-war-study",
-    "published": "Thu, 01 Oct 2026 18:57:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "22cf496c67adaa2da838b021ae06055e",
-    "fetched_at": "2026-10-01T22:11:49.743580+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-    "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 17:14:03 GMT",
-    "source": "BBC News",
-    "id": "6e7bd6f84724f3e9964d7d19e8a33bfd",
-    "fetched_at": "2026-10-01T22:11:49.743577+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-    "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
-    "source": "BBC News",
-    "id": "efd06d01c3e21a31419cd05cb4a8dc02",
-    "fetched_at": "2026-10-01T22:11:49.743575+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Irish PM says Ireland ‘not overrun’ by immigrants, legal migration tied to economic success",
-    "summary": "Micheál Martin addresses Ireland&apos;s demographic change as nearly one in four in Ireland are born abroad as the government moves to tighten asylum, citizenship and immigration rules.",
-    "link": "https://www.foxnews.com/world/irish-pm-says-ireland-not-overrun-immigrants-legal-migration-tied-economic-success",
-    "published": "Wed, 30 Sep 2026 13:34:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b9086fb0d62e79b93a822a5f241d09e0",
-    "fetched_at": "2026-10-01T22:11:49.743573+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow",
-    "summary": "Russia&apos;s nuclear threat over Kaliningrad raises alarm as experts warn the Baltic exclave is already a hub for hybrid warfare against NATO allies.",
-    "link": "https://www.foxnews.com/world/moscow-threatens-nuclear-response-over-tiny-fortress-wedged-between-us-allies-clash-fears-grow",
-    "published": "Wed, 30 Sep 2026 13:41:50 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c1fdb6168430e817c489da7ec6546a8e",
-    "fetched_at": "2026-10-01T22:11:49.743570+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
-    "summary": "Violent student protests continue to spread across France, with school blockades, clashes with police and officials warning of outside agitators.",
-    "link": "https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide",
-    "published": "Thu, 01 Oct 2026 12:55:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3196045bc7c21fe411afca1a54652b90",
-    "fetched_at": "2026-10-01T22:11:49.743566+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-    "summary": "Zanny Minton Beddoes, <em>The Economist's </em>editor in chief<em>, </em>just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-    "published": "Wed, 30 Sep 2026 11:33:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "6a00a65c9c5c496a0861bad4e5203631",
-    "fetched_at": "2026-10-01T22:11:49.743563+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-    "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-    "published": "Wed, 30 Sep 2026 13:51:42 -0400",
-    "source": "NPR Topics: World",
-    "id": "d27312d70bfff78c503ad943198fd813",
-    "fetched_at": "2026-10-01T22:11:49.743559+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Swiss glaciers suffer another year of record ice loss",
-    "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
-    "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
-    "published": "Wed, 30 Sep 2026 19:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "461a2c98426c997f8487db21682920de",
-    "fetched_at": "2026-10-01T22:11:49.743533+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What life under U.S. sanctions looks like for one ICC judge",
-    "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-    "published": "Thu, 01 Oct 2026 04:42:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "15454863ee83f80d96df1ff321656f38",
-    "fetched_at": "2026-10-01T22:11:48.598636+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-    "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 20:51:09 GMT",
-    "source": "BBC News",
-    "id": "01183971972f12743025a49baa47dad8",
-    "fetched_at": "2026-10-01T22:11:47.453840+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
-    "summary": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 19:49:02 GMT",
-    "source": "BBC News",
-    "id": "92ec7dfe945b3e95d70e3a1f671a06e0",
-    "fetched_at": "2026-10-01T22:11:46.317121+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney pitches oil pipeline as a response to US-Canada trade war",
-    "summary": "A west coast pipeline project is the first to be fast-tracked and will be a major test of Carney's promise to global investors.",
-    "link": "https://www.bbc.co.uk/news/articles/cm7505q2v2pqo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 17:47:38 GMT",
-    "source": "BBC News",
-    "id": "d7c3df0756b53176124e00a96f9fe94e",
-    "fetched_at": "2026-10-01T22:11:45.161539+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cornell accuser was 'failed' by university healthcare system, lawyer says",
-    "summary": "Jane Doe told the school's doctor that she had contracted an infection \"in a traumatic way\", but they \"didn't really follow up\", according to the New York Times.",
-    "link": "https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 18:08:48 GMT",
-    "source": "BBC News",
-    "id": "185b02e2ddf14a7bced0cdbd6f1db149",
-    "fetched_at": "2026-10-01T22:11:44.009852+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What we know about Christa Pike’s condition after failed execution",
-    "summary": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
-    "link": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 20:09:34 GMT",
-    "source": "BBC News",
-    "id": "4f4511079387ea14d167c87e8a356944",
-    "fetched_at": "2026-10-01T22:11:42.856037+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US death row inmate survives execution attempt after two lethal injections",
-    "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 09:59:59 GMT",
-    "source": "BBC News",
-    "id": "46bebc92c7197d65f4fcc7619d40b271",
-    "fetched_at": "2026-10-01T22:11:41.689047+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-    "summary": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-    "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 16:31:35 GMT",
-    "source": "BBC News",
-    "id": "04d0904e35b6df80b5480fa912b77625",
-    "fetched_at": "2026-10-01T16:48:50.311202+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fires break out at French schools as students protest nationwide",
-    "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 16:34:22 GMT",
-    "source": "BBC News",
-    "id": "fbd72b694373c46d80ee3125e342fb5d",
-    "fetched_at": "2026-10-01T16:48:50.311200+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-    "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 16:40:59 GMT",
-    "source": "BBC News",
-    "id": "083a820dd3feac7b7f603f074d92f667",
-    "fetched_at": "2026-10-01T16:48:50.311198+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan raises permanent residency fee by 20 times",
-    "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 02:57:43 GMT",
-    "source": "BBC News",
-    "id": "dcd48b5cd8857432de8cd64de7e8455e",
-    "fetched_at": "2026-10-01T16:48:50.311196+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
-    "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-    "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 15:38:13 GMT",
-    "source": "BBC News",
-    "id": "7d093b5074a63c2c31e1e0bc97f4fff9",
-    "fetched_at": "2026-10-01T16:48:50.311193+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-    "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 16:45:35 GMT",
-    "source": "BBC News",
-    "id": "31753866fa158b1ee3ffef910ca06cf3",
-    "fetched_at": "2026-10-01T16:48:50.311191+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's jury reform draws fire for handing verdicts back to the state",
-    "summary": "The Supreme Court proposals would allow presiding judges to \"clarify\" questions during deliberations and reduce jury panels from six or eight members to four, changes lawyers say undermine the independence of a system that acquits at 60 times the national average in non-jury trials.",
-    "link": "https://www.euronews.com/2026/10/01/russias-jury-reform-draws-fire-for-handing-verdicts-back-to-the-state",
-    "published": "Thu, 01 Oct 2026 10:16:20 +0200",
-    "source": "News | Euronews RSS",
-    "id": "89c08c6b8f434963b51114af4ee58b1f",
-    "fetched_at": "2026-10-01T16:48:50.311189+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Onboard videos show chaotic scenes on FlyDubai flight",
-    "summary": "An Israeli passenger filmed scenes of panic aboard a FlyDubai flight after an alleged attack in the cockpit forced the plane to make an emergency landing in Tabuk, Saudi Arabia.",
-    "link": "https://www.euronews.com/video/2026/10/01/onboard-videos-show-chaotic-scenes-on-flydubai-flight",
-    "published": "Thu, 01 Oct 2026 10:18:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5915c94e05d537e51d5e597773fbb47c",
-    "fetched_at": "2026-10-01T16:48:50.311187+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Four sailors rescued after sperm whale sinks yacht in South Pacific",
-    "summary": "Four sailors were rescued after a sperm whale struck and sank their yacht in the remote South Pacific. A New Zealand Air Force surveillance aircraft helped coordinate the rescue. The crew were taken aboard a cargo ship as their yacht went under.",
-    "link": "https://www.euronews.com/video/2026/10/01/four-sailors-rescued-after-sperm-whale-sinks-yacht-in-south-pacific",
-    "published": "Thu, 01 Oct 2026 11:31:13 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ec81e83d56d9e5e27efda949ecaa2251",
-    "fetched_at": "2026-10-01T16:48:50.311185+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 1st, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-midday",
-    "published": "Thu, 01 Oct 2026 12:00:16 +0200",
-    "source": "News | Euronews RSS",
-    "id": "7877f48c388956f5ec3a29036d6391d5",
-    "fetched_at": "2026-10-01T16:48:50.311183+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bradley Whitford receives Hollywood Walk of Fame star",
-    "summary": "Bradley Whitford receives the 2,858th star on the Hollywood Walk of Fame, celebrating with family and West Wing co-stars in Los Angeles.",
-    "link": "https://www.euronews.com/video/2026/10/01/bradley-whitford-receives-hollywood-walk-of-fame-star",
-    "published": "Thu, 01 Oct 2026 12:19:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e0c9a0ca75bd144d8f226a5bd7877a78",
-    "fetched_at": "2026-10-01T16:48:50.311180+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Young martial artists train in China’s ancient mountain schools",
-    "summary": "Young students from China and abroad train in tai chi and kung fu on the Wudang Mountains, where Taoist philosophy shapes martial arts and daily life.",
-    "link": "https://www.euronews.com/video/2026/10/01/young-martial-artists-train-in-chinas-ancient-mountain-schools",
-    "published": "Thu, 01 Oct 2026 14:31:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1867626e0d417b2251aaa1334e817161",
-    "fetched_at": "2026-10-01T16:48:50.311178+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia expels Hungarian diplomats as Budapest breaks with Orbán era",
-    "summary": "Moscow ordered Hungarian embassy and consulate staff out just weeks after Budapest expelled 10 Russian diplomats on national security grounds in September, the first such move by Hungary since Russia's full-scale invasion of Ukraine in 2022.",
-    "link": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
-    "published": "Thu, 01 Oct 2026 16:18:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c2e324905004f661c711a7851c0f1151",
-    "fetched_at": "2026-10-01T16:48:50.311176+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 1st, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-evening",
-    "published": "Thu, 01 Oct 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "729a652b17a33ada5600f195095aa4f1",
-    "fetched_at": "2026-10-01T16:48:50.311173+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-    "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 12:20:02 GMT",
-    "source": "BBC News",
-    "id": "bd7975eb28caf8f74a2621b5f6416cde",
-    "fetched_at": "2026-10-01T16:48:50.311171+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-    "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 16:23:58 GMT",
-    "source": "BBC News",
-    "id": "61686459898f24ac044e10e17a401adc",
-    "fetched_at": "2026-10-01T16:48:50.311169+00:00"
   }
 ]
