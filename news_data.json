@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+    "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+    "source": "BBC News",
+    "id": "d5abb9412b535043d2f5dee55200b7be",
+    "fetched_at": "2026-10-03T07:23:08.515964+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia leads world in cat ownership — yet has 2.8 million strays",
+    "summary": "Nearly 59% of Russian households own at least one cat, the highest rate globally, but the 2022 mobilisation order left hundreds of thousands of animals abandoned when owners fled the country or were sent to the front in Ukraine. Up to 98% of Russia's stray cats and dogs were once domestic pets.",
+    "link": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
+    "published": "Sat, 03 Oct 2026 07:00:03 +0200",
+    "source": "News | Euronews RSS",
+    "id": "c2a78fb1aa14d068c41ad231f42a043d",
+    "fetched_at": "2026-10-03T07:23:07.370303+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 3rd, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
+    "published": "Sat, 03 Oct 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b8010d795b0a40d0aededc5fa91c34ad",
+    "fetched_at": "2026-10-03T07:23:06.221690+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latvians head to the polls amid concerns over rising cost of living and Russia",
+    "summary": "Partial results are expected on Saturday evening, with preliminary official results due on Sunday.",
+    "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+    "published": "Sat, 03 Oct 2026 09:00:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "930d76dd566479f2b3e930947a1c4478",
+    "fetched_at": "2026-10-03T07:23:05.027349+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+    "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 03:09:13 GMT",
+    "source": "BBC News",
+    "id": "872608e817addd40547014ac75466f65",
+    "fetched_at": "2026-10-03T07:23:03.864816+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia strikes second major bridge in Kyiv, mayor says",
+    "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 06:27:15 GMT",
+    "source": "BBC News",
+    "id": "82cec52ae0bdbc7b2f4218cab3ce0d09",
+    "fetched_at": "2026-10-03T07:23:02.724772+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazil's big political rematch: What to know",
+    "summary": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+    "published": "Fri, 02 Oct 2026 22:57:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "10525f5935ce2402974f250415a8bbc0",
+    "fetched_at": "2026-10-03T07:23:01.597070+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Women given shorts at Oktoberfest to prevent upskirting",
     "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
     "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "d5c5cd2d3763f0e670eac71e568aa5ab",
     "fetched_at": "2026-10-02T17:10:36.223820+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-    "summary": "NAZA is an acronym for <em>nezek agavi</em>, Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
-    "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-    "published": "Fri, 02 Oct 2026 10:37:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "33b835f68acb0ce018e92226006de2d5",
-    "fetched_at": "2026-10-02T17:10:35.112259+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-    "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 23:00:05 GMT",
-    "source": "BBC News",
-    "id": "03e5acd7e774bf30d4c07c9caea21f51",
-    "fetched_at": "2026-10-02T17:10:34.016691+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-    "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 14:30:48 GMT",
-    "source": "BBC News",
-    "id": "ed64320105daa329b386d2e5b54d5d28",
-    "fetched_at": "2026-10-02T17:10:32.910885+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-    "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 14:01:09 GMT",
-    "source": "BBC News",
-    "id": "20a9f50a11320a7a71a938f0be947b31",
-    "fetched_at": "2026-10-02T17:10:31.796148+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-    "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 17:05:39 GMT",
-    "source": "BBC News",
-    "id": "8eadebec76c801629ac1123fd2c1afd5",
-    "fetched_at": "2026-10-02T17:10:30.669068+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-    "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-    "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 10:04:56 GMT",
-    "source": "BBC News",
-    "id": "f2ddff84902538a619d6c1735b8db467",
-    "fetched_at": "2026-10-02T10:12:33.292496+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-    "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 05:53:51 GMT",
-    "source": "BBC News",
-    "id": "f2d1e1f843d8f45d6fdd7f996a952c49",
-    "fetched_at": "2026-10-02T10:12:33.292494+00:00"
   }
 ]
