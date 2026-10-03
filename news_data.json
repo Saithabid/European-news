@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+    "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+    "source": "BBC News",
+    "id": "c85c483d2e5793032d4a4fae5040211e",
+    "fetched_at": "2026-10-03T12:54:25.993950+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kim wins Asian Games gold to secure military exemption",
+    "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 08:51:14 GMT",
+    "source": "BBC News",
+    "id": "d79847059ef817d6002ab44a6dccb2d1",
+    "fetched_at": "2026-10-03T12:54:25.993946+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 11:20:21 GMT",
+    "source": "BBC News",
+    "id": "d8408da4bd6749379170f012b93ce1d2",
+    "fetched_at": "2026-10-03T12:54:25.993943+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
+    "summary": "The FlyDubai co-pilot who nearly crashed the Tel-Aviv bound flight is an Omani national named Hamam al-Hammami. He was barred from flying by Oman amid concerns he showed signs of extremist views. The incident threw the already hard-hit regional travel industry into crisis.",
+    "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+    "published": "Sat, 03 Oct 2026 11:27:47 +0200",
+    "source": "News | Euronews RSS",
+    "id": "de86a79a2c98ae4f2225ad9a40262b39",
+    "fetched_at": "2026-10-03T12:54:25.993939+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 3rd, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
+    "published": "Sat, 03 Oct 2026 12:00:17 +0200",
+    "source": "News | Euronews RSS",
+    "id": "460bbbcf8b01854141089de1a56692da",
+    "fetched_at": "2026-10-03T12:54:25.993913+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "China opens anti-dumping probe into EU days before Beijing trade talks",
+    "summary": "Running a €1 billion-a-day deficit with China, Brussels has nearly tripled the rate of its own trade investigations and is warning of \"harsher measures\" unless Beijing offers something concrete.",
+    "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+    "published": "Sat, 03 Oct 2026 12:09:07 +0200",
+    "source": "News | Euronews RSS",
+    "id": "72764b9c2fe1c3fad3e8005c440ebe5b",
+    "fetched_at": "2026-10-03T12:54:24.848728+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Protesters across Spain demand action over housing crisis",
+    "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 12:16:15 GMT",
+    "source": "BBC News",
+    "id": "22a3a70ff7a65bebed045ee613638cfa",
+    "fetched_at": "2026-10-03T12:54:23.722688+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
+    "summary": "Hamam al-Hammami, the 29-year-old FlyDubai co-pilot accused of stabbing the captain on a Tel Aviv-bound flight, was previously grounded by Oman Air in 2024.",
+    "link": "https://www.foxnews.com/world/flydubai-co-pilot-accused-stabbing-captain-identified-29-year-old-omani-national",
+    "published": "Sat, 03 Oct 2026 06:17:23 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "aaae754b521ceec7b0f543f117d20aaa",
+    "fetched_at": "2026-10-03T12:54:22.581880+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+    "summary": "NAZA is an acronym for <em>nezek agavi</em>, Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+    "published": "Fri, 02 Oct 2026 10:37:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "33b835f68acb0ce018e92226006de2d5",
+    "fetched_at": "2026-10-03T12:54:21.467326+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+    "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 14:30:48 GMT",
+    "source": "BBC News",
+    "id": "ed64320105daa329b386d2e5b54d5d28",
+    "fetched_at": "2026-10-03T12:54:20.332089+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+    "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 17:44:08 GMT",
+    "source": "BBC News",
+    "id": "8eadebec76c801629ac1123fd2c1afd5",
+    "fetched_at": "2026-10-03T12:54:19.191064+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+    "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 14:01:09 GMT",
+    "source": "BBC News",
+    "id": "20a9f50a11320a7a71a938f0be947b31",
+    "fetched_at": "2026-10-03T12:54:18.060910+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
     "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
     "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "BBC News",
     "id": "b9e4fb0cdaec90f5c78450c7c40242de",
     "fetched_at": "2026-10-02T17:10:38.433424+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 15:30:12 GMT",
-    "source": "BBC News",
-    "id": "8c8cb9263aef3ab40e35a905519251b5",
-    "fetched_at": "2026-10-02T17:10:38.433422+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Billion-dollar power link connecting Israel to Europe hits roadblock in bitter regional feud",
-    "summary": "Cyprus accuses Recep Tayyip Erdoğan of blocking the Great Sea Interconnector energy project linking Israel, Cyprus and Greece amid maritime disputes.",
-    "link": "https://www.foxnews.com/world/billion-dollar-power-link-connecting-israel-europe-hits-roadblock-bitter-regional-feud",
-    "published": "Thu, 01 Oct 2026 06:00:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "418db5d982c6afe900cc97da785a0fde",
-    "fetched_at": "2026-10-02T17:10:38.433420+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FlyDubai pilot showed world 'the highest form of courage,' India's PM says",
-    "summary": "India Prime Minister Narendra Modi said India is saluting Smit Machchhar for his heroics onboard a FlyDubai plane that made an emergency landing.",
-    "link": "https://www.foxnews.com/world/flydubai-pilot-showed-world-highest-form-courage-indias-pm-says",
-    "published": "Thu, 01 Oct 2026 11:52:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ddf95be520e004260098bd9b8afd9693",
-    "fetched_at": "2026-10-02T17:10:38.433417+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hezbollah received $157M in weapons in 2024, mostly from 1 nation, report says",
-    "summary": "The Israeli Center for Research of Terror Financing found Iran gave Hezbollah $129 million in rockets, missiles, drones and anti-tank missiles in 2024.",
-    "link": "https://www.foxnews.com/world/hezbollah-received-157m-weapons-2024-mostly-1-nation-report-says",
-    "published": "Thu, 01 Oct 2026 12:13:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1187312edccc63a8d02f018e0afe2fac",
-    "fetched_at": "2026-10-02T17:10:38.433415+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "EXCLUSIVE: Trump’s new security alliance faces first real-world test deep in South America as troops deploy",
-    "summary": "Donald Trump&apos;s Shield of the Americas faces its first real test as Bolivia deploys forces to strategic routes amid renewed blockade and unrest fears.",
-    "link": "https://www.foxnews.com/world/exclusive-trumps-new-security-alliance-faces-first-real-world-test-deep-south-america-troops-deploy",
-    "published": "Thu, 01 Oct 2026 12:16:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6dffc380778312af048ee54f4ccc3414",
-    "fetched_at": "2026-10-02T17:10:38.433412+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hero FlyDubai pilot says he was 'fighting for my life' as plane plunged after copilot attack",
-    "summary": "Capt. Smit Machchhar told PM Narenda Modi he felt the FlyDubai plane plunging as he lay wounded and made one last push to open the cockpit door.",
-    "link": "https://www.foxnews.com/world/hero-flydubai-pilot-fighting-life-plane-plunged-copilot-attack",
-    "published": "Fri, 02 Oct 2026 09:52:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e76307c7a51786656659f8d3c61e90dc",
-    "fetched_at": "2026-10-02T17:10:38.433410+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France’s teen riots take explosive new turn as government points finger at hard left",
-    "summary": "Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.",
-    "link": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
-    "published": "Fri, 02 Oct 2026 10:27:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1f10ffe41adbe4b111e106fe68c47d7f",
-    "fetched_at": "2026-10-02T17:10:38.433406+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
-    "summary": "President Lula promised Brazilians four years ago they'd be able to afford <em>picanha</em> again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-    "published": "Thu, 01 Oct 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "69fe2069ce69e5f0429d610cf67e946a",
-    "fetched_at": "2026-10-02T17:10:38.433403+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv",
-    "summary": "One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5986255/israels-pm-says-a-pilot-tried-to-crash-a-plane-traveling-to-tel-aviv",
-    "published": "Thu, 01 Oct 2026 06:48:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "dc775a4b605b6c8fed3c1ebc3b83e835",
-    "fetched_at": "2026-10-02T17:10:38.433399+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-    "summary": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
-    "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-    "published": "Thu, 01 Oct 2026 07:37:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "b77267cfdb908baee7a048ccc9d0ca34",
-    "fetched_at": "2026-10-02T17:10:38.433368+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-    "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-    "published": "Thu, 01 Oct 2026 10:13:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "b1068cfd21a2b0c5053adcbe49c1f3b0",
-    "fetched_at": "2026-10-02T17:10:37.331207+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
-    "summary": "New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.",
-    "link": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
-    "published": "Fri, 02 Oct 2026 07:22:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "d5c5cd2d3763f0e670eac71e568aa5ab",
-    "fetched_at": "2026-10-02T17:10:36.223820+00:00"
   }
 ]
