@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Australia investigating Flydubai co-pilot's links to country",
+    "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 06:19:17 GMT",
+    "source": "BBC News",
+    "id": "5347e0895ed41f1e797ff62a05854ac3",
+    "fetched_at": "2026-10-04T07:37:45.836471+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 4th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-morning",
+    "published": "Sun, 04 Oct 2026 07:00:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0b0704bbaeb61e5da88aef033fcbe612",
+    "fetched_at": "2026-10-04T07:37:45.836468+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bosnia votes as pro-Russian politician looms large over race and stalled EU bid dominate election",
+    "summary": "Around 3.4 million voters in Bosnia are choosing the three members of the country’s multi-ethnic presidency, lawmakers for the national Parliament, and heads of institutions for the country’s two entities.",
+    "link": "https://www.euronews.com/2026/10/04/bosnia-votes-as-pro-russian-politician-looms-large-over-race-and-a-stalled-eu-bid-dominate",
+    "published": "Sun, 04 Oct 2026 08:53:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a16014cc0cf0163155b7d927b6c84f1d",
+    "fetched_at": "2026-10-04T07:37:45.836464+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
+    "source": "BBC News",
+    "id": "efd06d01c3e21a31419cd05cb4a8dc02",
+    "fetched_at": "2026-10-04T07:37:45.836427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
+    "summary": "Violent student protests continue to spread across France, with school blockades, clashes with police and officials warning of outside agitators.",
+    "link": "https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide",
+    "published": "Thu, 01 Oct 2026 12:55:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "3196045bc7c21fe411afca1a54652b90",
+    "fetched_at": "2026-10-04T07:37:44.694344+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK man accused of planning terrorism acts against Nigel Farage also charged in murder of another politician",
+    "summary": "British prosecutors charged Ann Widdecombe murder suspect Joshua Kerry with preparing terrorist acts allegedly targeting Reform UK leader Nigel Farage.",
+    "link": "https://www.foxnews.com/world/uk-man-accused-planning-terrorism-acts-against-nigel-farage-also-charged-murder-another-politician",
+    "published": "Fri, 02 Oct 2026 17:07:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bed90528786efe5c31a712ba1adfcc06",
+    "fetched_at": "2026-10-04T07:37:43.548212+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FlyDubai co-pilot accused of cockpit attack was grounded by Oman Air before joining airline: report",
+    "summary": "The FlyDubai co-pilot was reportedly grounded by Oman Air in 2024 over visits to radical Islamic websites before being hired without a background check.",
+    "link": "https://www.foxnews.com/world/flydubai-copilot-accused-cockpit-attack-grounded-oman-air-joining-airline-report",
+    "published": "Fri, 02 Oct 2026 17:20:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2f70f092398cccb2e494e20ac9b90f06",
+    "fetched_at": "2026-10-04T07:37:42.401901+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France’s violent student protests raise warning for America: ‘A cautionary tale’",
+    "summary": "&quot;The Big Weekend Show&quot; co-host says the country&apos;s violent student protests are &quot;a cautionary tale&quot; for the U.S., warning open borders lead to unrest and misplaced anger.",
+    "link": "https://www.foxnews.com/world/frances-violent-student-protests-raise-warning-for-america-a-cautionary-tale",
+    "published": "Sat, 03 Oct 2026 21:54:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8f176ae585ae2b7bf0523fc936a41711",
+    "fetched_at": "2026-10-04T07:37:41.265716+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+    "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
+    "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+    "published": "Fri, 02 Oct 2026 14:16:07 -0400",
+    "source": "NPR Topics: World",
+    "id": "2e5436c0aeaa3604357f34b33d278bd7",
+    "fetched_at": "2026-10-04T07:37:40.125111+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Germany's political center fights for relevance after far-right and far-left gains",
+    "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism.",
+    "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+    "published": "Fri, 02 Oct 2026 15:22:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "c71ecc650f6d9664103a7363f206a119",
+    "fetched_at": "2026-10-04T07:37:38.985203+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+    "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
+    "published": "Fri, 02 Oct 2026 16:23:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "5bd62d84c6071792c76cb8d4545df6db",
+    "fetched_at": "2026-10-04T07:37:37.837898+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Riot police clash with students as education protests rage in France",
     "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
     "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "10525f5935ce2402974f250415a8bbc0",
     "fetched_at": "2026-10-03T07:23:01.597070+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Women given shorts at Oktoberfest to prevent upskirting",
-    "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 23:16:03 GMT",
-    "source": "BBC News",
-    "id": "e620598c06f7519cbdfdd9a6e767cfcb",
-    "fetched_at": "2026-10-03T00:51:30.435624+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-    "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 23:06:00 GMT",
-    "source": "BBC News",
-    "id": "b0cbec000c94eb63cce671e52a8199fb",
-    "fetched_at": "2026-10-03T00:51:30.435622+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-    "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 00:08:23 GMT",
-    "source": "BBC News",
-    "id": "57cf8874c04f2e6c7f769de4e1518ba3",
-    "fetched_at": "2026-10-03T00:51:30.435590+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain and China are cosying up - to the anger of many in the EU",
-    "summary": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 23:42:33 GMT",
-    "source": "BBC News",
-    "id": "aee58668452f14dc4c510f4a19abb44e",
-    "fetched_at": "2026-10-03T00:51:29.296666+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "DOE employee charged with trying to aid Iran-backed Houthis, feds say",
-    "summary": "Ashton Hamed Ellaboudy allegedly used his electrical engineering expertise in an attempt to aid Houthi communications, drones and homemade explosives production.",
-    "link": "https://www.foxnews.com/world/doe-employee-charged-trying-aid-iran-backed-houthis-feds-say",
-    "published": "Thu, 01 Oct 2026 20:33:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "020ac8aeb71f651b4f4b6d0b5d18d75f",
-    "fetched_at": "2026-10-03T00:51:28.131700+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump’s Iran crackdown collides with NATO ally seeking access to America’s prized fighter jet",
-    "summary": "U.S.-sanctioned Iranian airlines made at least 83 flights into Turkey after a key Treasury deadline, the Foundation for Defense of Democracies says.",
-    "link": "https://www.foxnews.com/world/trumps-iran-crackdown-collides-nato-ally-seeking-access-americas-prized-fighter-jet",
-    "published": "Fri, 02 Oct 2026 06:00:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8fb3e3e0b8ba032061e0aa03e0cac5dc",
-    "fetched_at": "2026-10-03T00:51:26.977151+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-    "summary": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a \"swap market\" of repression in Southeast Asia.",
-    "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-    "published": "Fri, 02 Oct 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "f5bd378762392538a4a309a29fbe3233",
-    "fetched_at": "2026-10-03T00:51:25.685630+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Newly released video shows Luigi Mangione’s arrest",
-    "summary": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
-    "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 20:37:34 GMT",
-    "source": "BBC News",
-    "id": "dd1049ae64738f809fd0ccff1fde49b8",
-    "fetched_at": "2026-10-03T00:51:24.501518+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-    "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 08:54:00 GMT",
-    "source": "BBC News",
-    "id": "0b3a409189028bf87fbfd76f3b872f9f",
-    "fetched_at": "2026-10-03T00:51:23.369142+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-    "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 23:53:35 GMT",
-    "source": "BBC News",
-    "id": "30afddefad90b68c54cbf5c0fd568292",
-    "fetched_at": "2026-10-03T00:51:22.177246+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-    "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 20:25:19 GMT",
-    "source": "BBC News",
-    "id": "0a8fe71e6e6bccd86f0ab064784fb4aa",
-    "fetched_at": "2026-10-02T21:39:53.164297+00:00"
   }
 ]
