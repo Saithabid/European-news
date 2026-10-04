@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+    "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 14:05:55 GMT",
+    "source": "BBC News",
+    "id": "3c8be80613e6ef9de9784b1230b841d2",
+    "fetched_at": "2026-10-04T20:45:58.270704+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 15:30:12 GMT",
+    "source": "BBC News",
+    "id": "8c8cb9263aef3ab40e35a905519251b5",
+    "fetched_at": "2026-10-04T20:45:57.138998+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "School protests send shivers down French government's spine",
+    "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+    "source": "BBC News",
+    "id": "b9e4fb0cdaec90f5c78450c7c40242de",
+    "fetched_at": "2026-10-04T20:45:55.893483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France’s teen riots take explosive new turn as government points finger at hard left",
+    "summary": "Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.",
+    "link": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
+    "published": "Fri, 02 Oct 2026 10:27:11 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1f10ffe41adbe4b111e106fe68c47d7f",
+    "fetched_at": "2026-10-04T20:45:54.751803+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Crazy' FlyDubai landing explained by Israeli pilot, who offers steps to prevent future crises",
+    "summary": "Eliran Almog, a former Israeli pilot and aviation cybersecurity CEO, explains why FlyDubai Flight 1073&apos;s emergency landing was nearly impossible.",
+    "link": "https://www.foxnews.com/world/crazy-flydubai-landing-explained-israeli-pilot-offers-steps-prevent-future-crises",
+    "published": "Sat, 03 Oct 2026 14:13:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8c059a224e99bce803b5e2abbb808f54",
+    "fetched_at": "2026-10-04T20:45:53.631274+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why has Brazil accused the US of election interference?",
+    "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+    "source": "BBC News",
+    "id": "f963cee071464cacb884d823da6f2b4b",
+    "fetched_at": "2026-10-04T20:45:52.509136+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Debris found from plane that went missing off US coast",
+    "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 03:49:06 GMT",
+    "source": "BBC News",
+    "id": "2b6709c3107c62ecf277aff99e50938e",
+    "fetched_at": "2026-10-04T20:45:51.386768+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+    "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 18:25:50 GMT",
+    "source": "BBC News",
+    "id": "446db2e4272167fd7f5af7e441caf4ca",
+    "fetched_at": "2026-10-04T20:45:50.258430+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Indian police accused of sexual harassment against journalists at protest",
     "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
     "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "239a38a80a2140a51fde9fd30027f42a",
     "fetched_at": "2026-10-04T00:16:56.741994+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "For some Brazilians, this election is a vote on Trump",
-    "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
-    "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
-    "published": "Sat, 03 Oct 2026 17:57:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "dfa905807b48a3cc2dbdea359cf79dd9",
-    "fetched_at": "2026-10-04T00:16:55.601832+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How widely used is the death penalty in the US?",
-    "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
-    "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 19:56:28 GMT",
-    "source": "BBC News",
-    "id": "2c1d9ec892ef6a04acf7c942237617bd",
-    "fetched_at": "2026-10-04T00:16:54.463235+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-    "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 21:00:41 GMT",
-    "source": "BBC News",
-    "id": "e43d06cc0e5d147c60df77c41bec0984",
-    "fetched_at": "2026-10-04T00:16:53.309011+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
-    "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
-    "link": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 21:05:03 GMT",
-    "source": "BBC News",
-    "id": "d17620bc249a051b740bab72ed52c6fd",
-    "fetched_at": "2026-10-04T00:16:52.152351+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brazil's Lula and Flávio Bolsonaro wrap up campaigns on eve of tight vote",
-    "summary": "Brazilian President Luiz Inácio Lula da Silva and Flávio Bolsonaro have a final chance on Saturday to sway voters at rallies in crucial São Paulo before a tight election marked by scandals and personal attacks.",
-    "link": "https://www.euronews.com/2026/10/03/brazils-lula-and-flavio-bolsonaro-wrap-up-campaigns-on-eve-of-tight-vote",
-    "published": "Sat, 03 Oct 2026 20:30:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8e9f103d5861b7c505530dd67d16f27e",
-    "fetched_at": "2026-10-03T20:25:34.416424+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tens of thousands take to Madrid streets demanding housing action",
-    "summary": "Tens of thousands of protesters marched through Madrid demanding affordable housing and stronger protections for renters, a day after lawmakers rejected emergency housing measures.",
-    "link": "https://www.euronews.com/video/2026/10/03/tens-of-thousands-take-to-madrid-streets-demanding-housing-action",
-    "published": "Sat, 03 Oct 2026 21:11:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8aff30862593060ce6cdcde9f4c90ded",
-    "fetched_at": "2026-10-03T20:25:33.261139+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
-    "summary": "Thousands of military personnel from Azerbaijan, Turkey and Uzbekistan, as well as other nations participating as observers, including Iran, joined forces in the “Power of Unity, 2026” military exercise for the first time, in the Hojavend district of Azerbaijan’s Karabakh region.",
-    "link": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
-    "published": "Sat, 03 Oct 2026 21:26:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1061a6de61f01e72faebb1369a9c4003",
-    "fetched_at": "2026-10-03T20:25:31.989444+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-    "source": "BBC News",
-    "id": "d9f60b4230b94963537eef9a1cafb3a2",
-    "fetched_at": "2026-10-03T20:25:30.705048+00:00"
   }
 ]
