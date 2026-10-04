@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Riot police clash with students as education protests rage in France",
+    "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 21:13:27 GMT",
+    "source": "BBC News",
+    "id": "761829da9daa94e51ea861bd77a7ad6b",
+    "fetched_at": "2026-10-04T00:17:00.196250+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cornell president says university 'must do better' after frat house rape allegations",
+    "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 00:11:25 GMT",
+    "source": "BBC News",
+    "id": "8c1678f5142a80874b80bb23157e74f7",
+    "fetched_at": "2026-10-04T00:17:00.196246+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How Brazil's two leading presidential candidates are talking about crime",
+    "summary": "Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher measures — part of a broader rightward shift across Latin America.",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5986091/how-brazils-two-leading-presidential-candidates-are-talking-about-crime",
+    "published": "Fri, 02 Oct 2026 17:07:41 -0400",
+    "source": "NPR Topics: World",
+    "id": "4cdb576c082155920be96f1541a2ee2e",
+    "fetched_at": "2026-10-04T00:17:00.196220+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+    "summary": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose.",
+    "link": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+    "published": "Sat, 03 Oct 2026 17:57:29 -0400",
+    "source": "NPR Topics: World",
+    "id": "9176b085cae868b46fdcab200bf072e1",
+    "fetched_at": "2026-10-04T00:16:59.036967+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. withdrawal from Iraq is complete",
+    "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
+    "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+    "published": "Sat, 03 Oct 2026 17:57:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "ac01224f6f0273a51655c575c0c423ad",
+    "fetched_at": "2026-10-04T00:16:57.888052+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+    "summary": "High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been arrested.",
+    "link": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+    "published": "Sat, 03 Oct 2026 17:57:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "239a38a80a2140a51fde9fd30027f42a",
+    "fetched_at": "2026-10-04T00:16:56.741994+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "For some Brazilians, this election is a vote on Trump",
+    "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
+    "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+    "published": "Sat, 03 Oct 2026 17:57:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "dfa905807b48a3cc2dbdea359cf79dd9",
+    "fetched_at": "2026-10-04T00:16:55.601832+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How widely used is the death penalty in the US?",
+    "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
+    "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 19:56:28 GMT",
+    "source": "BBC News",
+    "id": "2c1d9ec892ef6a04acf7c942237617bd",
+    "fetched_at": "2026-10-04T00:16:54.463235+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+    "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+    "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 21:00:41 GMT",
+    "source": "BBC News",
+    "id": "e43d06cc0e5d147c60df77c41bec0984",
+    "fetched_at": "2026-10-04T00:16:53.309011+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
+    "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
+    "link": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 02 Oct 2026 21:05:03 GMT",
+    "source": "BBC News",
+    "id": "d17620bc249a051b740bab72ed52c6fd",
+    "fetched_at": "2026-10-04T00:16:52.152351+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Brazil's Lula and Flávio Bolsonaro wrap up campaigns on eve of tight vote",
     "summary": "Brazilian President Luiz Inácio Lula da Silva and Flávio Bolsonaro have a final chance on Saturday to sway voters at rallies in crucial São Paulo before a tight election marked by scandals and personal attacks.",
     "link": "https://www.euronews.com/2026/10/03/brazils-lula-and-flavio-bolsonaro-wrap-up-campaigns-on-eve-of-tight-vote",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "0a8fe71e6e6bccd86f0ab064784fb4aa",
     "fetched_at": "2026-10-02T21:39:53.164297+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Debt-saddled Argentina pitches 'golden passport' scheme to woo wealthy foreigners",
-    "summary": "Argentina on Friday announced plans to offer citizenship to wealthy foreigners in exchange for cash contributions or investments in government bonds, as libertarian President Javier Milei seeks new sources of dollars for the debt-burdened nation.",
-    "link": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
-    "published": "Fri, 02 Oct 2026 19:35:42 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2a3850b9c0927d7cfcecbc190f2bac15",
-    "fetched_at": "2026-10-02T21:39:53.164295+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-    "summary": "President Luiz Inacio Lula da Silva and rival Flavio Bolsonaro are pulling no punches in a last-ditch effort to win voters ahead of Sunday's election in Brazil, where the US and Australia suspended consular services Friday over security concerns.",
-    "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
-    "published": "Fri, 02 Oct 2026 22:40:14 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2210d425eec27adda9f2e161b5a92fe4",
-    "fetched_at": "2026-10-02T21:39:53.164294+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-    "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 17:14:03 GMT",
-    "source": "BBC News",
-    "id": "6e7bd6f84724f3e9964d7d19e8a33bfd",
-    "fetched_at": "2026-10-02T21:39:53.164292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-    "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
-    "source": "BBC News",
-    "id": "efd06d01c3e21a31419cd05cb4a8dc02",
-    "fetched_at": "2026-10-02T21:39:53.164290+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
-    "summary": "Violent student protests continue to spread across France, with school blockades, clashes with police and officials warning of outside agitators.",
-    "link": "https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide",
-    "published": "Thu, 01 Oct 2026 12:55:57 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3196045bc7c21fe411afca1a54652b90",
-    "fetched_at": "2026-10-02T21:39:53.164287+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK man accused of planning terrorism acts against Nigel Farage also charged in murder of another politician",
-    "summary": "British prosecutors charged Ann Widdecombe murder suspect Joshua Kerry with preparing terrorist acts allegedly targeting Reform UK leader Nigel Farage.",
-    "link": "https://www.foxnews.com/world/uk-man-accused-planning-terrorism-acts-against-nigel-farage-also-charged-murder-another-politician",
-    "published": "Fri, 02 Oct 2026 17:07:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bed90528786efe5c31a712ba1adfcc06",
-    "fetched_at": "2026-10-02T21:39:53.164285+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FlyDubai co-pilot accused of cockpit attack was grounded by Oman Air before joining airline: report",
-    "summary": "The FlyDubai co-pilot was reportedly grounded by Oman Air in 2024 over visits to radical Islamic websites before being hired without a background check.",
-    "link": "https://www.foxnews.com/world/flydubai-copilot-accused-cockpit-attack-grounded-oman-air-joining-airline-report",
-    "published": "Fri, 02 Oct 2026 17:20:15 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "2f70f092398cccb2e494e20ac9b90f06",
-    "fetched_at": "2026-10-02T21:39:53.164282+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-    "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
-    "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-    "published": "Fri, 02 Oct 2026 14:16:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "2e5436c0aeaa3604357f34b33d278bd7",
-    "fetched_at": "2026-10-02T21:39:53.164254+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Germany's political center fights for relevance after far-right and far-left gains",
-    "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism.",
-    "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-    "published": "Fri, 02 Oct 2026 15:22:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "c71ecc650f6d9664103a7363f206a119",
-    "fetched_at": "2026-10-02T21:39:52.076754+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
-    "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
-    "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
-    "published": "Fri, 02 Oct 2026 16:23:49 -0400",
-    "source": "NPR Topics: World",
-    "id": "5bd62d84c6071792c76cb8d4545df6db",
-    "fetched_at": "2026-10-02T21:39:50.974506+00:00"
   }
 ]
