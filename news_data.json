@@ -1,6 +1,386 @@
 [
   {
     "region": "Europe",
+    "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+    "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 15:17:23 GMT",
+    "source": "BBC News",
+    "id": "a1f772ddfd5bad434b9d56d91b073c8c",
+    "fetched_at": "2026-10-05T18:59:18.085057+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+    "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 16:32:18 GMT",
+    "source": "BBC News",
+    "id": "fc025c909b0ce61cdb352adb5c715b4f",
+    "fetched_at": "2026-10-05T18:59:18.085056+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+    "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 11:34:59 GMT",
+    "source": "BBC News",
+    "id": "d6a7174e534490a9f81e1cfe8f3fa789",
+    "fetched_at": "2026-10-05T18:59:18.085055+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Medieval ruler Tsar Samuel’s remains return home to Bulgaria after 60 years",
+    "summary": "Czar Samuel’s bones are flown back to Sofia after 60 years in Greece, as both countries seal a deal to exchange historic religious relics.",
+    "link": "https://www.euronews.com/video/2026/10/05/medieval-ruler-tsar-samuels-remains-return-home-to-bulgaria-after-60-years",
+    "published": "Mon, 05 Oct 2026 11:37:13 +0200",
+    "source": "News | Euronews RSS",
+    "id": "7ed8cae58e0692fdcf237ab8ac03e35b",
+    "fetched_at": "2026-10-05T18:59:18.085054+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 5th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-midday",
+    "published": "Mon, 05 Oct 2026 12:00:16 +0200",
+    "source": "News | Euronews RSS",
+    "id": "1d27e446674fe9ea2672500b74868cb7",
+    "fetched_at": "2026-10-05T18:59:18.085053+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "The 'Terminator scenario': How realistic is the AI apocalypse?",
+    "summary": "OpenAI boss Sam Altman and Anthropic chief Dario Amodei warn of the risks of overly rapid AI development. More experts now think AI could wipe out humanity. How realistic is that? Euronews talks to AI specialist Reinhard Karger.",
+    "link": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
+    "published": "Mon, 05 Oct 2026 12:51:06 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e950eea0a56a4cfa6e5a240c3163cc7f",
+    "fetched_at": "2026-10-05T18:59:18.085052+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iran insists it controls Hormuz as rial hits record low and exports dry up",
+    "summary": "Iran's military insisted it retained full control of Hormuz and the foreign minister said the strait could reopen within seven days if Tehran's conditions were met, after US Treasury Secretary Bessent said Iran had not loaded a single barrel of crude onto tankers in September.",
+    "link": "https://www.euronews.com/2026/10/05/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up",
+    "published": "Mon, 05 Oct 2026 14:35:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9f0f5d8c0896d13991ebc58cbf3e598d",
+    "fetched_at": "2026-10-05T18:59:18.085050+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
+    "summary": "Rospotrebnadzor said tests found no pathogen linked to the deceased lab worker's work at the Irkutsk anti-plague institute, but more than 60 colleagues remained isolated inside the building and several hospitals stayed closed without explanation.",
+    "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
+    "published": "Mon, 05 Oct 2026 15:02:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "33175012f34616f0309307c044672a0e",
+    "fetched_at": "2026-10-05T18:59:18.085049+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of pilgrims make overnight journey to Luján ahead of Pope Leo’s visit",
+    "summary": "Thousands of pilgrims walked through the night to the Basilica of Our Lady of Lujan in Argentina, weeks before Pope Leo's planned visit in November 2026.",
+    "link": "https://www.euronews.com/video/2026/10/05/thousands-of-pilgrims-make-overnight-journey-to-lujan-ahead-of-pope-leos-visit",
+    "published": "Mon, 05 Oct 2026 15:22:58 +0200",
+    "source": "News | Euronews RSS",
+    "id": "09bfc1e13036c9cde82bc3020158406d",
+    "fetched_at": "2026-10-05T18:59:18.085048+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Clashes in French cities as students continue to protest over education funding",
+    "summary": "Students in Marseille and Lille escalate protests over education funding, barricading schools and clashing with police as blockades spread across France.",
+    "link": "https://www.euronews.com/video/2026/10/05/clashes-in-french-cities-as-students-continue-to-protest-over-education-funding",
+    "published": "Mon, 05 Oct 2026 17:09:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e7ad272ecafb0d64ca9fd39158dde96f",
+    "fetched_at": "2026-10-05T18:59:18.085047+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US meeting in Poland excluding France, UK, Baltics risks dividing NATO",
+    "summary": "US Undersecretary of Defense Elbridge Colby is hosting representatives from five key NATO members in Poland to discuss defence capabilities and the future of the alliance. Critics warn the exclusion of some Allies risks creating a “toxic” divide.",
+    "link": "https://www.euronews.com/2026/10/05/us-meeting-in-poland-excluding-france-uk-baltic-risks-dividing-nato",
+    "published": "Mon, 05 Oct 2026 17:33:45 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0ca252786f24ed3f2dacb917bbfe5bdb",
+    "fetched_at": "2026-10-05T18:59:18.085046+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 5th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-evening",
+    "published": "Mon, 05 Oct 2026 18:00:29 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9ea58693d64522f511647fc64f377e88",
+    "fetched_at": "2026-10-05T18:59:18.085045+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "FlyDubai co-pilot planned to crash aircraft into Tel Aviv airport",
+    "summary": "The FlyDubai co-pilot behind the hijacking attempt wanted to crash the jet into Ben Gurion Airport and previously flew the sensitive Israel route, according to multiple sources close to the investigation, amid increasingly difficult questions about the circumstances of the narrowly avoided tragedy.",
+    "link": "https://www.euronews.com/2026/10/05/flydubai-co-pilot-planned-to-crash-aircraft-into-tel-aviv-airport",
+    "published": "Mon, 05 Oct 2026 18:55:53 +0200",
+    "source": "News | Euronews RSS",
+    "id": "46333f279ca3395861ef83927fa27a2b",
+    "fetched_at": "2026-10-05T18:59:18.085043+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain and China are cosying up - to the anger of many in the EU",
+    "summary": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 23:42:33 GMT",
+    "source": "BBC News",
+    "id": "aee58668452f14dc4c510f4a19abb44e",
+    "fetched_at": "2026-10-05T18:59:18.085042+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+    "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 19:38:30 GMT",
+    "source": "BBC News",
+    "id": "efd06d01c3e21a31419cd05cb4a8dc02",
+    "fetched_at": "2026-10-05T18:59:18.085041+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+    "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+    "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+    "source": "BBC News",
+    "id": "2a59cf622cfdcd91195c7063be259b5b",
+    "fetched_at": "2026-10-05T18:59:18.085040+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish PM Sánchez calls early election after housing protests",
+    "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 10:18:47 GMT",
+    "source": "BBC News",
+    "id": "80f141265ffd4315c33635852396241d",
+    "fetched_at": "2026-10-05T18:59:18.085038+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FlyDubai co-pilot allegedly planned to crash Israel-bound jet at Ben Gurion Airport",
+    "summary": "Hamam al-Hammami allegedly planned to crash FlyDubai Flight FZ1073 into Ben Gurion Airport, according to reports on the terrorism investigation.",
+    "link": "https://www.foxnews.com/world/flydubai-copilot-allegedly-planned-crash-israel-bound-jet-ben-gurion-airport",
+    "published": "Mon, 05 Oct 2026 08:06:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "be610762814f77570e9f4b1cabca7ae6",
+    "fetched_at": "2026-10-05T18:59:18.085037+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli medical workers who treated Oct 7 wounded relive day terror hit home",
+    "summary": "Nil Kirsht-Levi&apos;s sister was taken hostage on Oct. 7 as Soroka Medical Center received 674 wounded in 24 hours with just 40 seconds between.",
+    "link": "https://www.foxnews.com/world/israeli-medical-workers-ho-treated-oct-7-wounded-relive-day-terror-hit-home",
+    "published": "Mon, 05 Oct 2026 11:06:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9ca8b3a0f3d2d9a52021ecfc92bcb519",
+    "fetched_at": "2026-10-05T18:59:18.085036+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mystery death at Russian plague lab triggers sweeping precautions as US watches closely",
+    "summary": "Darya Shipilova&apos;s death at a Siberian plague research institute triggered quarantines and mass observation, but Russia has not confirmed what killed her.",
+    "link": "https://www.foxnews.com/world/mystery-death-russian-plague-lab-triggers-sweeping-precautions-us-watches-closely",
+    "published": "Mon, 05 Oct 2026 11:23:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1a7fc921df0fb550af8cddc053a28717",
+    "fetched_at": "2026-10-05T18:59:18.085035+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teen's hand blown off by police grenade during French student protests: report",
+    "summary": "A 15-year-old lost his hand after picking up a police grenade as French school protests over underfunding and teacher shortages enter their third week.",
+    "link": "https://www.foxnews.com/world/teens-hand-blown-off-police-grenade-french-student-protests-report",
+    "published": "Mon, 05 Oct 2026 13:56:28 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "83993f7384510379422dfa265f7bf5ee",
+    "fetched_at": "2026-10-05T18:59:18.085033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+    "summary": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+    "published": "Mon, 05 Oct 2026 04:44:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "88975168c93bc0eee86f4f90d191a9e5",
+    "fetched_at": "2026-10-05T18:59:18.085032+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+    "summary": "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+    "published": "Mon, 05 Oct 2026 05:15:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "82dc32269f45aca57ace1cb72dbd5d80",
+    "fetched_at": "2026-10-05T18:59:18.085031+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+    "summary": "A judicial spokesperson confirmed that Andrew Mountbatten-Windsor had filed a claim with the High Court in London and a hearing would take place Thursday.",
+    "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
+    "published": "Mon, 05 Oct 2026 06:01:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "18cfaa5c7a8373500a1ea18345034afe",
+    "fetched_at": "2026-10-05T18:59:18.085030+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+    "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+    "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+    "published": "Mon, 05 Oct 2026 06:11:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "9b4e4ac5980bd6bda79a736f8f36f974",
+    "fetched_at": "2026-10-05T18:59:18.085029+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. Marine suspected in woman's death arrested in Japan",
+    "summary": "A U.S. Marine has been arrested on suspicion of murder in Okinawa, prompting renewed Japanese criticism of the conduct of American military personnel.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5990879/u-s-marine-suspected-in-womans-death-arrested-in-japan",
+    "published": "Mon, 05 Oct 2026 06:53:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "cce9b545960554f7c2e4dd2bbb1fcd41",
+    "fetched_at": "2026-10-05T18:59:18.085027+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+    "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+    "published": "Mon, 05 Oct 2026 06:53:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "ac0b9bd218136f1240b8d8c11027f7b8",
+    "fetched_at": "2026-10-05T18:59:18.085025+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+    "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
+    "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+    "published": "Mon, 05 Oct 2026 07:07:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "67cf6ed7a07df32cdc3f45f14d884aea",
+    "fetched_at": "2026-10-05T18:59:18.085022+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+    "summary": "Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits.",
+    "link": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+    "published": "Mon, 05 Oct 2026 07:38:26 -0400",
+    "source": "NPR Topics: World",
+    "id": "9be892e2a20a4f555c9151c04798b8ae",
+    "fetched_at": "2026-10-05T18:59:18.085021+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+    "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
+    "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+    "published": "Mon, 05 Oct 2026 07:47:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "f900b68efc2a09136c4bb715c17beb0f",
+    "fetched_at": "2026-10-05T18:59:18.085018+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+    "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+    "published": "Mon, 05 Oct 2026 08:33:20 -0400",
+    "source": "NPR Topics: World",
+    "id": "e07fd458d139d08453d2565c4e188917",
+    "fetched_at": "2026-10-05T18:59:18.084990+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Chiefs and 49ers remain unbeaten - five things from NFL week four",
+    "summary": "Five teams went into week four of the NFL season with a 100% record, but only three teams remain unbeaten after Sunday's action.",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 07:36:56 GMT",
+    "source": "BBC News",
+    "id": "14a98f7adc9ede3885ee86470ebc024a",
+    "fetched_at": "2026-10-05T18:59:16.987440+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+    "summary": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
+    "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 12:08:21 GMT",
+    "source": "BBC News",
+    "id": "334e9c09a8f01e731ee7c4337951a64f",
+    "fetched_at": "2026-10-05T18:59:15.891137+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nobel Prize awarded for revealing inner workings of the brain",
+    "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 11:04:37 GMT",
+    "source": "BBC News",
+    "id": "65b3647b1045428920f3ea273e241e4a",
+    "fetched_at": "2026-10-05T18:59:14.795904+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+    "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+    "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 08:22:41 GMT",
+    "source": "BBC News",
+    "id": "916220e733b436146f800fd4a38d809b",
+    "fetched_at": "2026-10-05T18:59:13.703121+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
+    "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America.",
+    "link": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 15:47:35 GMT",
+    "source": "BBC News",
+    "id": "f3b61ce2a3a86f59f714099e83b2711c",
+    "fetched_at": "2026-10-05T18:59:12.598962+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK insists military base is safe after US withdraws bombers",
+    "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 16:13:35 GMT",
+    "source": "BBC News",
+    "id": "af924a4df53502f7a79b280e991f72cf",
+    "fetched_at": "2026-10-05T18:59:11.497868+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+    "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 16:13:21 GMT",
+    "source": "BBC News",
+    "id": "4b6fb30ef0afa39605cb6cd33b8fc921",
+    "fetched_at": "2026-10-05T18:59:10.381445+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
     "summary": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
     "link": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
@@ -218,385 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "b3fbe16b5196cf6d5e81bf4801c9b39a",
     "fetched_at": "2026-10-05T00:21:14.302068+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says",
-    "summary": "U.S. officials are tracking an unconfirmed report of a fatal pneumonic plague case in Russia’s Irkutsk Oblast while urging transparency from Moscow.",
-    "link": "https://www.foxnews.com/world/us-monitoring-suspected-fatal-pneumonic-plague-case-russia-state-department-official-says",
-    "published": "Sun, 04 Oct 2026 20:05:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "12f251b7859ecaed04fc3509ddd45b13",
-    "fetched_at": "2026-10-05T00:21:14.302038+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "For some Brazilians, this election is a vote on Trump",
-    "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
-    "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
-    "published": "Sat, 03 Oct 2026 17:57:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "dfa905807b48a3cc2dbdea359cf79dd9",
-    "fetched_at": "2026-10-05T00:21:13.182967+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Brazil votes, with Lula facing Bolsonaro's son",
-    "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race.  If neither wins more than half the votes they'll face each other again on Oct. 25.",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-    "published": "Sun, 04 Oct 2026 17:52:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "8aedb57472ff804772965e58f3affc00",
-    "fetched_at": "2026-10-05T00:21:12.060589+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Brazil's election could shift its ties with the U.S. and China",
-    "summary": "Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
-    "published": "Sun, 04 Oct 2026 17:53:15 -0400",
-    "source": "NPR Topics: World",
-    "id": "e26b7c2a8689169afcdb18820e76fc38",
-    "fetched_at": "2026-10-05T00:21:10.936707+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
-    "summary": "Brazil's environment is a global concern. But on the campaign trail, it's struggling to get voters' attention.",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
-    "published": "Sun, 04 Oct 2026 17:57:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "e5434daaa3ec1c200dea937b4f44ea77",
-    "fetched_at": "2026-10-05T00:21:09.759511+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-    "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-    "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 21:00:41 GMT",
-    "source": "BBC News",
-    "id": "e43d06cc0e5d147c60df77c41bec0984",
-    "fetched_at": "2026-10-05T00:21:08.587325+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
-    "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities.",
-    "link": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 21:05:03 GMT",
-    "source": "BBC News",
-    "id": "d17620bc249a051b740bab72ed52c6fd",
-    "fetched_at": "2026-10-05T00:21:07.443996+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US removes all bombers from UK air base",
-    "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 21:57:32 GMT",
-    "source": "BBC News",
-    "id": "ceda15be21f84cb37e7db2fbcaa399e6",
-    "fetched_at": "2026-10-05T00:21:06.192624+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-    "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 14:05:55 GMT",
-    "source": "BBC News",
-    "id": "3c8be80613e6ef9de9784b1230b841d2",
-    "fetched_at": "2026-10-04T20:45:58.270704+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-    "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-    "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 15:30:12 GMT",
-    "source": "BBC News",
-    "id": "8c8cb9263aef3ab40e35a905519251b5",
-    "fetched_at": "2026-10-04T20:45:57.138998+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "School protests send shivers down French government's spine",
-    "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-    "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 12:43:02 GMT",
-    "source": "BBC News",
-    "id": "b9e4fb0cdaec90f5c78450c7c40242de",
-    "fetched_at": "2026-10-04T20:45:55.893483+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France’s teen riots take explosive new turn as government points finger at hard left",
-    "summary": "Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.",
-    "link": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
-    "published": "Fri, 02 Oct 2026 10:27:11 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1f10ffe41adbe4b111e106fe68c47d7f",
-    "fetched_at": "2026-10-04T20:45:54.751803+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Crazy' FlyDubai landing explained by Israeli pilot, who offers steps to prevent future crises",
-    "summary": "Eliran Almog, a former Israeli pilot and aviation cybersecurity CEO, explains why FlyDubai Flight 1073&apos;s emergency landing was nearly impossible.",
-    "link": "https://www.foxnews.com/world/crazy-flydubai-landing-explained-israeli-pilot-offers-steps-prevent-future-crises",
-    "published": "Sat, 03 Oct 2026 14:13:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8c059a224e99bce803b5e2abbb808f54",
-    "fetched_at": "2026-10-04T20:45:53.631274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why has Brazil accused the US of election interference?",
-    "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-    "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 03 Oct 2026 13:52:13 GMT",
-    "source": "BBC News",
-    "id": "f963cee071464cacb884d823da6f2b4b",
-    "fetched_at": "2026-10-04T20:45:52.509136+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Debris found from plane that went missing off US coast",
-    "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 03:49:06 GMT",
-    "source": "BBC News",
-    "id": "2b6709c3107c62ecf277aff99e50938e",
-    "fetched_at": "2026-10-04T20:45:51.386768+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-    "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
-    "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 18:25:50 GMT",
-    "source": "BBC News",
-    "id": "446db2e4272167fd7f5af7e441caf4ca",
-    "fetched_at": "2026-10-04T20:45:50.258430+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indian police accused of sexual harassment against journalists at protest",
-    "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-    "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 17:01:19 GMT",
-    "source": "BBC News",
-    "id": "6dfd83ca496f5fb07c51100c471aea01",
-    "fetched_at": "2026-10-04T17:55:52.977941+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-    "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 14:36:57 GMT",
-    "source": "BBC News",
-    "id": "90bdd2c61b95e440420028070126e1c4",
-    "fetched_at": "2026-10-04T17:55:52.977939+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-    "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-    "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 13:33:05 GMT",
-    "source": "BBC News",
-    "id": "f5b0e4769d8c36a02e394c6d1a2ef8da",
-    "fetched_at": "2026-10-04T17:55:52.977937+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-    "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 16:51:30 GMT",
-    "source": "BBC News",
-    "id": "222febf7b0750ccf5fcb7a102d82efb2",
-    "fetched_at": "2026-10-04T17:55:52.977935+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 14:25:32 GMT",
-    "source": "BBC News",
-    "id": "3aa0644b3dbfd6a8dc677b37be9b6de2",
-    "fetched_at": "2026-10-04T17:55:52.977932+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Polling stations open in Brazil for some 160 million voters",
-    "summary": "Brazilians are voting across the country, with polls open from 8:00 to 17:00 Brasília time. As voting is digital, first results should appear within three hours of closing.",
-    "link": "https://www.euronews.com/2026/10/04/polling-stations-open-in-brazil-for-some-160-million-voters",
-    "published": "Sun, 04 Oct 2026 16:32:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b44fe25d77b4eedadbf7444f16d29a8d",
-    "fetched_at": "2026-10-04T17:55:52.977930+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Has plague returned to Siberia? Panic in Russia after death of lab worker",
-    "summary": "A female staff member at an anti-plague institute in the Irkutsk region who died amid rumours of a \"black death\" outbreak was diagnosed with \"pneumonia of unknown origin\". Rospotrebnadzor insists that the situation in the region is \"stable\".",
-    "link": "https://www.euronews.com/2026/10/04/has-plague-returned-to-siberia-panic-in-russia-after-death-of-lab-worker",
-    "published": "Sun, 04 Oct 2026 17:07:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ad97f185a9c08dd5d3c075ca13199bea",
-    "fetched_at": "2026-10-04T17:55:52.977927+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "“We don't feel a sense of worry” in Europe, says the head of the Muslim World League",
-    "summary": "While in Brussels to meet with political and religious leaders, Sheikh Dr Mohammad bin Abdulkarim Al-Issa stressed the need to deepen dialogue in order to confront the turmoil facing the world and that Europe's \"civilised constitutions\" will prevent political excesses.",
-    "link": "https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league",
-    "published": "Sun, 04 Oct 2026 17:56:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "04cfa8387e47936aa9d4b86e69f6bf12",
-    "fetched_at": "2026-10-04T17:55:52.977924+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 4th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-evening",
-    "published": "Sun, 04 Oct 2026 18:00:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ec69e2483bad7b808b203760abaa2be6",
-    "fetched_at": "2026-10-04T17:55:52.977921+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-    "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 03:09:13 GMT",
-    "source": "BBC News",
-    "id": "872608e817addd40547014ac75466f65",
-    "fetched_at": "2026-10-04T17:55:52.977917+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-    "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 03 Oct 2026 16:16:49 GMT",
-    "source": "BBC News",
-    "id": "82cec52ae0bdbc7b2f4218cab3ce0d09",
-    "fetched_at": "2026-10-04T17:55:52.977891+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-    "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 03:42:15 GMT",
-    "source": "BBC News",
-    "id": "22a3a70ff7a65bebed045ee613638cfa",
-    "fetched_at": "2026-10-04T17:55:51.736255+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
-    "summary": "Hamam al-Hammami, the 29-year-old FlyDubai co-pilot accused of stabbing the captain on a Tel Aviv-bound flight, was previously grounded by Oman Air in 2024.",
-    "link": "https://www.foxnews.com/world/flydubai-co-pilot-accused-stabbing-captain-identified-29-year-old-omani-national",
-    "published": "Sat, 03 Oct 2026 06:17:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "aaae754b521ceec7b0f543f117d20aaa",
-    "fetched_at": "2026-10-04T17:55:50.485969+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "America’s Arctic war machine roars to life as commander reveals chilling new reality on Russia’s doorstep",
-    "summary": "U.S. and Canadian forces deploy HIMARS, F-35s and F-16s across western Alaska as Tundra Merlin tests rapid American Arctic combat readiness.",
-    "link": "https://www.foxnews.com/world/americas-arctic-war-machine-roars-life-commander-reveals-chilling-new-reality-russias-doorstep",
-    "published": "Sun, 04 Oct 2026 11:00:36 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f9355b7cb5d6682b15bf7b5caba2e03d",
-    "fetched_at": "2026-10-04T17:55:49.332583+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Brazil's big political rematch: What to know about the Brazilian election",
-    "summary": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
-    "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-    "published": "Fri, 02 Oct 2026 22:57:07 -0400",
-    "source": "NPR Topics: World",
-    "id": "10525f5935ce2402974f250415a8bbc0",
-    "fetched_at": "2026-10-04T17:55:48.174440+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-    "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
-    "published": "Sun, 04 Oct 2026 11:15:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "c1ac0d8d3096d921ef4caec5bea98cfe",
-    "fetched_at": "2026-10-04T17:55:47.014131+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-    "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 02 Oct 2026 17:44:08 GMT",
-    "source": "BBC News",
-    "id": "8eadebec76c801629ac1123fd2c1afd5",
-    "fetched_at": "2026-10-04T17:55:45.856039+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-    "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 16:24:48 GMT",
-    "source": "BBC News",
-    "id": "d8f2d061fed0b39b2453f433636019fc",
-    "fetched_at": "2026-10-04T17:55:44.689248+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 03 Oct 2026 04:38:31 GMT",
-    "source": "BBC News",
-    "id": "0a8fe71e6e6bccd86f0ab064784fb4aa",
-    "fetched_at": "2026-10-04T13:35:53.528817+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US father and son arrested after 'gas station heroin' deaths",
-    "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 03 Oct 2026 22:39:06 GMT",
-    "source": "BBC News",
-    "id": "619d51b8f995eae0addfb34a505d3731",
-    "fetched_at": "2026-10-04T13:35:53.528814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-    "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 11:03:20 GMT",
-    "source": "BBC News",
-    "id": "4ead012b22cb7efcf97c9630eb19dc7d",
-    "fetched_at": "2026-10-04T13:35:53.528812+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea fires intermediate-range missile, claiming evasive flight and AI features",
-    "summary": "Japan’s military said the missile landed in waters outside its exclusive economic zone, while South Korea's military, which often accuses the North of exaggerating its capabilities, said it travelled more than 700 kilometres.",
-    "link": "https://www.euronews.com/2026/10/04/north-korea-fires-intermediate-range-missile-claiming-evasive-flight-and-ai-features",
-    "published": "Sun, 04 Oct 2026 09:41:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f0dbf27a1eaf7d9a05e9e88948331f1d",
-    "fetched_at": "2026-10-04T13:35:53.528809+00:00"
   }
 ]
