@@ -1,6 +1,206 @@
 [
   {
     "region": "Europe",
+    "title": "Finland orders halt to work on two Google data centres",
+    "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 17:15:46 GMT",
+    "source": "BBC News",
+    "id": "4a40b0734a23c0ecb69de81864fac46a",
+    "fetched_at": "2026-10-06T22:05:30.330057+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tear gas in Paris and Marseille as school protests grow across France",
+    "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 18:03:19 GMT",
+    "source": "BBC News",
+    "id": "78f78811c66708bd1ab5132a0992ebce",
+    "fetched_at": "2026-10-06T22:05:30.330054+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK trial of three Iranians over alleged plot to target Iran dissident journalists",
+    "summary": "In London three Iranians go on trial accused of targeting UK-based journalists opposed to the regime in Tehran",
+    "link": "https://www.euronews.com/2026/10/06/uk-trial-of-three-iranians-over-alleged-plot-to-target-iran-dissident-journalists",
+    "published": "Tue, 06 Oct 2026 20:45:22 +0200",
+    "source": "News | Euronews RSS",
+    "id": "f05f54f56314874999d46d3d7d18396c",
+    "fetched_at": "2026-10-06T22:05:30.330052+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish PM Sánchez calls early election after housing protests",
+    "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 10:18:47 GMT",
+    "source": "BBC News",
+    "id": "80f141265ffd4315c33635852396241d",
+    "fetched_at": "2026-10-06T22:05:30.330050+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US 'watching closely' after plague researcher dies in Russia",
+    "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+    "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 07:58:19 GMT",
+    "source": "BBC News",
+    "id": "f071ad4bef08da57361c2528a091d5e2",
+    "fetched_at": "2026-10-06T22:05:30.330049+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli medical workers who treated Oct 7 wounded relive day terror hit home",
+    "summary": "Nil Kirsht-Levi&apos;s sister was taken hostage on Oct. 7 as Soroka Medical Center received 674 wounded in 24 hours with just 40 seconds between.",
+    "link": "https://www.foxnews.com/world/israeli-medical-workers-ho-treated-oct-7-wounded-relive-day-terror-hit-home",
+    "published": "Mon, 05 Oct 2026 11:06:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9ca8b3a0f3d2d9a52021ecfc92bcb519",
+    "fetched_at": "2026-10-06T22:05:30.330047+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mystery death at Russian plague lab triggers sweeping precautions as US watches closely",
+    "summary": "Darya Shipilova&apos;s death at a Siberian plague research institute triggered quarantines and mass observation, but Russia has not confirmed what killed her.",
+    "link": "https://www.foxnews.com/world/mystery-death-russian-plague-lab-triggers-sweeping-precautions-us-watches-closely",
+    "published": "Mon, 05 Oct 2026 11:23:32 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1a7fc921df0fb550af8cddc053a28717",
+    "fetched_at": "2026-10-06T22:05:30.330045+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns",
+    "summary": "Vladimir Putin faces compounding crises as a Siberian plague researcher&apos;s death adds to the Ukraine war toll and Russia&apos;s faltering economy.",
+    "link": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns",
+    "published": "Mon, 05 Oct 2026 20:32:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d34205ad24e6151ce191722a28394d17",
+    "fetched_at": "2026-10-06T22:05:30.330043+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alleged Jalisco cartel leader accused of drug trafficking and fuel smuggling arrested in Mexico",
+    "summary": "Iván Cazarín Molina, known as &quot;The Tank,&quot; was arrested in Zapopan after U.S. sanctions tied him to El Mencho&apos;s inner circle within the CJNG.",
+    "link": "https://www.foxnews.com/world/alleged-jalisco-cartel-leader-accused-drug-trafficking-fuel-smuggling-arrested-mexico",
+    "published": "Tue, 06 Oct 2026 13:57:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "deba44c64b7bcea1f145d164ec746b84",
+    "fetched_at": "2026-10-06T22:05:30.330040+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump, Waltz link France riots to mass immigration as thousands are arrested",
+    "summary": "Trump claims France&apos;s student protests are about &quot;Islam wanting to take over&quot; as Sébastien Lecornu reports the school system&apos;s heaviest toll in decades.",
+    "link": "https://www.foxnews.com/world/trump-waltz-link-france-riots-mass-immigration-thousands-arrested",
+    "published": "Tue, 06 Oct 2026 15:21:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e87bdea132b514dac3a9c09e05441b5d",
+    "fetched_at": "2026-10-06T22:05:30.330037+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US could play role in united Ireland push after Trump's backing, Irish PM says",
+    "summary": "Irish Prime Minister Micheál Martin said the United States could potentially help in a future push for a united Ireland after Trump backed it.",
+    "link": "https://www.foxnews.com/world/us-could-play-role-united-ireland-push-after-trumps-backing-irish-pm-says",
+    "published": "Tue, 06 Oct 2026 16:51:10 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9de6156f8d655cd8ad0f945def706a23",
+    "fetched_at": "2026-10-06T22:05:30.330034+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'They don't invest in us': French students protest for more resources in schools",
+    "summary": "High school students in France are fighting for more resources in schools. Some of the protests have turned violent, but it's not clear whether students or the police are to blame.",
+    "link": "https://www.npr.org/2026/10/06/nx-s1-5991807/they-dont-invest-in-us-french-students-protest-for-more-resources-in-schools",
+    "published": "Tue, 06 Oct 2026 04:51:06 -0400",
+    "source": "NPR Topics: World",
+    "id": "d5053bfb149273e0cf6a296fb5a096ed",
+    "fetched_at": "2026-10-06T22:05:30.330031+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+    "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+    "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+    "published": "Tue, 06 Oct 2026 14:05:44 -0400",
+    "source": "NPR Topics: World",
+    "id": "908e690a545e4301f673cd48566829b3",
+    "fetched_at": "2026-10-06T22:05:30.330000+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
+    "summary": "British police said they had made a seventh arrest in a murky plot that may have targeted a U.K. airbase.",
+    "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
+    "published": "Tue, 06 Oct 2026 16:53:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "000fd2842d93cad45ab12531d1528a43",
+    "fetched_at": "2026-10-06T22:05:29.190128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Amazon wins global rights to stream Emmys in six-year deal",
+    "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+    "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 19:08:21 GMT",
+    "source": "BBC News",
+    "id": "2dd21bf175c7ac29dd70b8f5da48d652",
+    "fetched_at": "2026-10-06T22:05:28.065249+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A separatist party just won power in Quebec - what does that mean?",
+    "summary": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
+    "link": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 18:23:58 GMT",
+    "source": "BBC News",
+    "id": "2e4e93d5217f0f9811dd028c068474a4",
+    "fetched_at": "2026-10-06T22:05:26.944876+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+    "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 20:40:01 GMT",
+    "source": "BBC News",
+    "id": "3bb745c519d367468778a084cb98e2cd",
+    "fetched_at": "2026-10-06T22:05:25.669197+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US resident arrested in connection with deadly British Columbia school shooting",
+    "summary": "US authorities say the 30-year-old  has been charged with conspiracy to murder persons in a foreign country. Six children died in the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4l3jrxlgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 19:49:17 GMT",
+    "source": "BBC News",
+    "id": "109b0e745e35944894ed8779d51ce553",
+    "fetched_at": "2026-10-06T22:05:24.546345+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+    "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 19:53:45 GMT",
+    "source": "BBC News",
+    "id": "720465e1468024b8c667064e136d27ea",
+    "fetched_at": "2026-10-06T22:05:23.377389+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+    "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 22:00:43 GMT",
+    "source": "BBC News",
+    "id": "00a3501588791add768b34553948ddf0",
+    "fetched_at": "2026-10-06T22:05:22.253072+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Indian opposition MPs detained in protest against election chief",
     "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
     "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
@@ -398,205 +598,5 @@
     "source": "BBC News",
     "id": "91a11d3834288a1044e8ed1a6ef74383",
     "fetched_at": "2026-10-06T08:24:05.559514+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says US moved their B-1 bombers from RAF Fairford airbase after additional threats were made",
-    "summary": "Trump detailed that additional threats received by Washington prompted their moving of the military aircraft from the UK base they were deployed in.",
-    "link": "https://www.euronews.com/2026/10/06/trump-says-us-moved-their-b-1-bombers-from-raf-fairford-airbase-after-additional-threats-w",
-    "published": "Tue, 06 Oct 2026 05:54:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "50d13e45c839dc07346a467beba30e0b",
-    "fetched_at": "2026-10-06T08:24:05.559512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Quebec separatists vow independence referendum after winning local elections but falling short of majority",
-    "summary": "Canada’s Prime Minister Mark Carney has pledged to work with the incoming separatist government in Quebec to address the needs and issues of the province, including resisting a hostile US administration, creating jobs and building housing.",
-    "link": "https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s",
-    "published": "Tue, 06 Oct 2026 06:37:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1d3d3c758f3ca40a515d2bb8a6db3680",
-    "fetched_at": "2026-10-06T08:24:05.559511+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 6th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-morning",
-    "published": "Tue, 06 Oct 2026 07:00:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "692903592394850027f880cfb29e3100",
-    "fetched_at": "2026-10-06T08:24:05.559509+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Housing protest turns violent in Barcelona with fires and arrests",
-    "summary": "Barcelona’s housing protest turned violent with fires and arrests, highlighting Spain’s affordability crisis ahead of a general strike and snap election in November.",
-    "link": "https://www.euronews.com/video/2026/10/06/housing-protest-turns-violent-in-barcelona-with-fires-and-arrests",
-    "published": "Tue, 06 Oct 2026 08:43:29 +0200",
-    "source": "News | Euronews RSS",
-    "id": "02b6d32f2d11418a739b6f0a89ed0ea3",
-    "fetched_at": "2026-10-06T08:24:05.559507+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tear gas and water cannon in Pristina as protesters clash with police",
-    "summary": "Police fired tear gas as protesters clashed outside Kosovo’s parliament over moves to limit powers of a Hague war crimes court.",
-    "link": "https://www.euronews.com/video/2026/10/06/tear-gas-and-water-cannon-in-pristina-as-protesters-clash-with-police",
-    "published": "Tue, 06 Oct 2026 09:23:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "677b1add69ad555c27e1740ba677a6eb",
-    "fetched_at": "2026-10-06T08:24:05.559505+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkey and Pakistan to send troops to Saudi Arabia under defence pact",
-    "summary": "The three signatories of the August Mecca Joint Defence Agreement met in emergency session in Riyadh and agreed to move immediately to \"rapid deployment\" of military forces, uniting NATO's second-largest army, the Islamic world's only nuclear state and the largest Gulf power.",
-    "link": "https://www.euronews.com/2026/10/06/turkey-and-pakistan-to-send-troops-to-saudi-arabia-under-defence-pact",
-    "published": "Tue, 06 Oct 2026 10:05:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5b56d4ef694cd5de2837caabb02b0f60",
-    "fetched_at": "2026-10-06T08:24:05.559483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Global oil stocks are alarmingly low and could take two years to rebuild, Aramco warns",
-    "summary": "The CEO of the world's biggest oil company warned at a conference that the global oil supply system is reaching its limit and that replenishing global oil stockpiles could take two years.",
-    "link": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
-    "published": "Tue, 06 Oct 2026 10:06:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ad2881281d9d93edbb86f9151b66dd16",
-    "fetched_at": "2026-10-06T08:24:05.559481+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belfast solicitor to represent suspected mob boss Kinahan",
-    "summary": "During the first court appearance last August, Kinahan did not have any legal representation.",
-    "link": "https://www.bbc.co.uk/news/articles/cr20w6wz4qxdo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 17:24:41 GMT",
-    "source": "BBC News",
-    "id": "75230f9c2ae23f644632b90c8167ab3c",
-    "fetched_at": "2026-10-06T08:24:05.559479+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Medvedev disqualified for hitting spectator with ball",
-    "summary": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 14:44:45 GMT",
-    "source": "BBC News",
-    "id": "41f5b4a09d67b27e0180052d2c2323db",
-    "fetched_at": "2026-10-06T08:24:05.559476+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Irish budget to tackle childcare and energy costs",
-    "summary": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 05:30:06 GMT",
-    "source": "BBC News",
-    "id": "d4a8eb0ad0236b027cdabd28e113693a",
-    "fetched_at": "2026-10-06T08:24:05.559474+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia may be using hidden 'lunchbox-size' drone devices to counter Ukraine defenses: expert",
-    "summary": "Russia may be hiding lunchbox-sized signal repeaters inside Kyiv to help guide deadly drones past defenses, a weapons expert told Fox News Digital.",
-    "link": "https://www.foxnews.com/world/russia-may-using-hidden-lunchbox-size-drone-devices-counter-ukraine-defenses-expert",
-    "published": "Sun, 04 Oct 2026 19:39:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b3fbe16b5196cf6d5e81bf4801c9b39a",
-    "fetched_at": "2026-10-06T08:24:05.559471+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bolsonaro wins first round of Brazilian presidential election, as Trump-backed candidates continue red wave",
-    "summary": "Flavio Bolsonaro won the first round of Brazil&apos;s presidential election and will now face off against incumbent Lula da Silva in a second round on October 25.",
-    "link": "https://www.foxnews.com/world/bolsonaro-wins-first-round-brazilian-presidential-election-trump-backed-candidates-continue-red-wave",
-    "published": "Sun, 04 Oct 2026 20:17:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b2e479899df84f31eb620bfc34b32978",
-    "fetched_at": "2026-10-06T08:24:05.559442+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
-    "summary": "The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
-    "link": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike",
-    "published": "Mon, 05 Oct 2026 01:22:12 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "96fe8adaa75db815441e8151da24ea9d",
-    "fetched_at": "2026-10-06T08:24:04.400548+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Coast Guard personnel exchange gunfire with shooters across US-Mexico border",
-    "summary": "Coast Guard personnel returned fire after shots came from the Mexican side of the southern border, prompting a massive troop deployment to the region.",
-    "link": "https://www.foxnews.com/world/coast-guard-personnel-exchange-gunfire-shooters-us-mexico-border",
-    "published": "Mon, 05 Oct 2026 02:45:08 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c566f602d3e73176fb69598d7d12be3c",
-    "fetched_at": "2026-10-06T08:24:03.249223+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-    "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 02:22:24 GMT",
-    "source": "BBC News",
-    "id": "40a1cc02de544a69d4556db94bfb03c9",
-    "fetched_at": "2026-10-06T08:24:02.087308+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-    "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 06:53:17 GMT",
-    "source": "BBC News",
-    "id": "f216c602b4fddafc0b1620c4931e0f6c",
-    "fetched_at": "2026-10-06T08:24:00.933881+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What are the US midterms? A simple guide",
-    "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 23:40:58 GMT",
-    "source": "BBC News",
-    "id": "d88ec9cfe83f94b3841c3b00e573239c",
-    "fetched_at": "2026-10-06T08:23:59.786821+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-    "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 23:29:02 GMT",
-    "source": "BBC News",
-    "id": "12ed0e1cf89bc611f2954b3595057533",
-    "fetched_at": "2026-10-06T08:23:58.632916+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-    "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-    "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 02:37:46 GMT",
-    "source": "BBC News",
-    "id": "832dbb8259249dd94b7134d6da84dccd",
-    "fetched_at": "2026-10-06T08:23:57.479941+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain PM pins hopes on housing crisis to help win snap election",
-    "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 19:30:50 GMT",
-    "source": "BBC News",
-    "id": "bca8010e135f711707789865bbdc92b8",
-    "fetched_at": "2026-10-06T01:03:35.029152+00:00"
   }
 ]
