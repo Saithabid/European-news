@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Former Australian bishop jailed for sexually abusing young men",
+    "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face charges of this nature.",
+    "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 03:25:48 GMT",
+    "source": "BBC News",
+    "id": "9edd164d35d51bc08b273cfbb2b9736f",
+    "fetched_at": "2026-10-07T03:37:23.152829+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+    "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+    "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 23:07:44 GMT",
+    "source": "BBC News",
+    "id": "67ee4c45c13e93ab981aa6a0f595893a",
+    "fetched_at": "2026-10-07T03:37:22.005992+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Irish budget tackles childcare and energy costs",
+    "summary": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 05:30:06 GMT",
+    "source": "BBC News",
+    "id": "d4a8eb0ad0236b027cdabd28e113693a",
+    "fetched_at": "2026-10-07T03:37:20.846939+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Belfast solicitor to represent suspected mob boss Kinahan",
+    "summary": "During the first court appearance last August, Kinahan did not have any legal representation.",
+    "link": "https://www.bbc.co.uk/news/articles/cr20w6wz4qxdo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 17:24:41 GMT",
+    "source": "BBC News",
+    "id": "75230f9c2ae23f644632b90c8167ab3c",
+    "fetched_at": "2026-10-07T03:37:19.687644+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Medvedev disqualified for hitting spectator with ball",
+    "summary": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 14:44:45 GMT",
+    "source": "BBC News",
+    "id": "41f5b4a09d67b27e0180052d2c2323db",
+    "fetched_at": "2026-10-07T03:37:18.488476+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain PM pins hopes on housing crisis to help win snap election",
+    "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 05 Oct 2026 19:30:50 GMT",
+    "source": "BBC News",
+    "id": "bca8010e135f711707789865bbdc92b8",
+    "fetched_at": "2026-10-07T03:37:17.373759+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’",
+    "summary": "A cargo ship sank and a second vessel caught fire in a combined aerial and maritime drone attack inside Bulgaria&apos;s exclusive economic zone in the Black Sea.",
+    "link": "https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike",
+    "published": "Tue, 06 Oct 2026 19:42:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "94c68c027731ec9c654c537da56fc46e",
+    "fetched_at": "2026-10-07T03:37:16.214918+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa",
+    "summary": "The U.S. military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday.",
+    "link": "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+    "published": "Tue, 06 Oct 2026 22:15:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d9979bc92e58c868aec402ce604512e8",
+    "fetched_at": "2026-10-07T03:37:15.055195+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Finland orders halt to work on two Google data centres",
     "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
     "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "c8741fc7dc6b7eeb4828dac1d6bf283e",
     "fetched_at": "2026-10-06T16:25:09.726529+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-    "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 13:36:46 GMT",
-    "source": "BBC News",
-    "id": "c470f22606ffc59cbf32e8bde41e0bd2",
-    "fetched_at": "2026-10-06T16:25:08.590997+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-    "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 13:00:54 GMT",
-    "source": "BBC News",
-    "id": "e06f4f9af731cb6e720696741180b444",
-    "fetched_at": "2026-10-06T16:25:07.447487+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-    "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 16:01:11 GMT",
-    "source": "BBC News",
-    "id": "83d01158db93a8d8e62c226f74cf0f3f",
-    "fetched_at": "2026-10-06T16:25:06.292989+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
-    "summary": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
-    "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 02:36:21 GMT",
-    "source": "BBC News",
-    "id": "7a8553e41e9cd8be471c3f34ff686d05",
-    "fetched_at": "2026-10-06T08:24:05.559521+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemeni military says it has 'secured' Red Sea waterway",
-    "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 07:43:07 GMT",
-    "source": "BBC News",
-    "id": "17b93ee2f8b076b6c577df2ffb693ca0",
-    "fetched_at": "2026-10-06T08:24:05.559519+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-    "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 23:07:08 GMT",
-    "source": "BBC News",
-    "id": "c22170f83877c451be1f028f04f3421c",
-    "fetched_at": "2026-10-06T08:24:05.559517+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-    "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 08:16:57 GMT",
-    "source": "BBC News",
-    "id": "87a2f4e7efca8a6926a10524b658bd61",
-    "fetched_at": "2026-10-06T08:24:05.559516+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-    "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
-    "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 22:28:02 GMT",
-    "source": "BBC News",
-    "id": "91a11d3834288a1044e8ed1a6ef74383",
-    "fetched_at": "2026-10-06T08:24:05.559514+00:00"
   }
 ]
