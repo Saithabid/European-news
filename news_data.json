@@ -1,6 +1,286 @@
 [
   {
     "region": "Europe",
+    "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+    "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+    "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 07:37:16 GMT",
+    "source": "BBC News",
+    "id": "d82305c19e4f5cff74652e1d1a53c9e1",
+    "fetched_at": "2026-10-07T10:45:15.025468+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+    "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 10:33:05 GMT",
+    "source": "BBC News",
+    "id": "3825b5b0490d2465546657dd15cec551",
+    "fetched_at": "2026-10-07T10:45:15.025466+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+    "summary": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+    "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 09:49:31 GMT",
+    "source": "BBC News",
+    "id": "d7e98616204b0123eccc6fa2b9dd8b22",
+    "fetched_at": "2026-10-07T10:45:15.025465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+    "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 05:02:18 GMT",
+    "source": "BBC News",
+    "id": "1c512f3f336c0a8edcc8013640ebc417",
+    "fetched_at": "2026-10-07T10:45:15.025463+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "The Caspian Sea has been shrinking for decades. Now, a new island has emerged",
+    "summary": "Scientists warn that parts of the northern Caspian could face an Aral Sea-like scenario, while climate change and human water use are adding pressure on the region.",
+    "link": "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged",
+    "published": "Wed, 07 Oct 2026 07:02:49 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8d682a58d82b3a3324d72982abf9310a",
+    "fetched_at": "2026-10-07T10:45:15.025461+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How Verifactu will affect Spanish SMEs and self-employed after its delay",
+    "summary": "The Government's delay in bringing the Verifactu e-invoicing system into force gives firms and the self-employed more time, but fuels uncertainty over its rollout.",
+    "link": "https://www.euronews.com/2026/10/07/how-verifactu-will-affect-spanish-smes-and-self-employed-after-its-delay",
+    "published": "Wed, 07 Oct 2026 08:03:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "49fc72ab20bdfe709127bdbe663e178d",
+    "fetched_at": "2026-10-07T10:45:15.025460+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Christa Pike awake a week after lethal injection as her lawyers seek answers",
+    "summary": "Christa Pike remains shackled to her hospital bed with burned and blistered arms, while Tennessee has suspended executions and its prison chief has resigned.",
+    "link": "https://www.euronews.com/2026/10/07/christa-pike-awake-a-week-after-lethal-injection-as-her-lawyers-seek-answers",
+    "published": "Wed, 07 Oct 2026 08:06:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "05de69024cb31be36b3e4c01611948ef",
+    "fetched_at": "2026-10-07T10:45:15.025458+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tear gas and fireworks as student protests turn violent in Paris",
+    "summary": "Clashes erupt in Paris as school pupils demanding better funding face riot police, amid nationwide protests over shortages and crumbling schools.",
+    "link": "https://www.euronews.com/video/2026/10/07/tear-gas-and-fireworks-as-student-protests-turn-violent-in-paris",
+    "published": "Wed, 07 Oct 2026 08:50:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "3b145379e24b10dc1d79640ecb2ef38e",
+    "fetched_at": "2026-10-07T10:45:15.025457+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israelis mourn Nova festival victims three years after Hamas attack",
+    "summary": "Ceremonies at the Nova festival site and Kfar Aza marked three years since the Hamas-led October 7 attack that sparked the Gaza war.",
+    "link": "https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack",
+    "published": "Wed, 07 Oct 2026 09:00:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "e570c91882ac43d741771eedd7df4abd",
+    "fetched_at": "2026-10-07T10:45:15.025455+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel pauses in moment of silence to remember those killed on 7 October",
+    "summary": "A group representing the bereaved families organised tributes, including a silence at 6:29am - the minute the attack began - and a ceremony that will follow tonight in Tel Aviv.",
+    "link": "https://www.euronews.com/2026/10/07/israel-pauses-in-moment-of-silence-to-remember-those-killed-on-7-october",
+    "published": "Wed, 07 Oct 2026 10:00:41 +0200",
+    "source": "News | Euronews RSS",
+    "id": "12c7dca54fe586baf6a7711939bb6ff8",
+    "fetched_at": "2026-10-07T10:45:15.025453+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia asks Vietnam for planes as illegally re-registered Western fleet falls apart",
+    "summary": "Moscow proposed wet-leasing Vietnamese aircraft, crews and maintenance, but any transfer would involve Airbus or Boeing jets, exposing Vietnamese carriers to secondary sanctions. Nearly a fifth of Russia's largest airlines' planes are already grounded, double the normal downtime rate.",
+    "link": "https://www.euronews.com/2026/10/07/russia-asks-vietnam-for-planes-as-illegally-re-registered-western-fleet-falls-apart",
+    "published": "Wed, 07 Oct 2026 10:47:18 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a9f794a2603603e4fe6dea064286ee2c",
+    "fetched_at": "2026-10-07T10:45:15.025451+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks",
+    "summary": "The motion, filed by MPs aligned with the Paydari Front, accuses Araghchi of meeting US envoy Steve Witkoff at the UN General Assembly without authorisation, a claim directly opposed by Supreme National Security Council chief Mohsen Rezaei, who said the talks had prior approval.",
+    "link": "https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks",
+    "published": "Wed, 07 Oct 2026 11:44:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fcd695cc7fd3e701b4d7002545a5b21e",
+    "fetched_at": "2026-10-07T10:45:15.025449+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 7th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-midday",
+    "published": "Wed, 07 Oct 2026 12:00:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "038036f8fca688d0fa9ecffa7baf6b61",
+    "fetched_at": "2026-10-07T10:45:15.025447+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "İzmir's centre-left mayor joins Erdoğan's AK Party, shocking Turkish opposition",
+    "summary": "Cemil Tugay, who won İzmir for the CHP with a 314,000-vote margin in 2024, received his AK Party badge from Erdoğan in Ankara on Wednesday, ending 27 years of centre-left rule in Turkey's third-largest city.",
+    "link": "https://www.euronews.com/2026/10/07/izmirs-centre-left-mayor-joins-erdogans-ak-party-shocking-turkish-opposition",
+    "published": "Wed, 07 Oct 2026 12:12:10 +0200",
+    "source": "News | Euronews RSS",
+    "id": "de8321735cb08aa7cffe53f615362041",
+    "fetched_at": "2026-10-07T10:45:15.025445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Karl Bushby completes English Channel swim",
+    "summary": "The adventurer is nearing the end of his 28-year journey home to Hull from Chile.",
+    "link": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 18:32:50 GMT",
+    "source": "BBC News",
+    "id": "494f845440d9e3a798e0fbb067ec74e3",
+    "fetched_at": "2026-10-07T10:45:15.025443+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ronaldo wants Portugal 'punishment' but not retiring",
+    "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 21:48:36 GMT",
+    "source": "BBC News",
+    "id": "76bc5cba942e153b81a0acf3c94ec6bc",
+    "fetched_at": "2026-10-07T10:45:15.025440+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What is pneumonic plague and how does it spread?",
+    "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+    "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 15:35:22 GMT",
+    "source": "BBC News",
+    "id": "b1beaae94cd30541cb8011a25c551789",
+    "fetched_at": "2026-10-07T10:45:15.025438+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+    "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 09:59:13 GMT",
+    "source": "BBC News",
+    "id": "8be882bd5c3e3242c2cf6824ece55fa5",
+    "fetched_at": "2026-10-07T10:45:15.025435+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 10:23:23 GMT",
+    "source": "BBC News",
+    "id": "9e59601769579228ecf3c10c7bdcd6ab",
+    "fetched_at": "2026-10-07T10:45:15.025432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former German spy chief arrested on suspicion of espionage, attempted treason",
+    "summary": "August Hanning, 80, who led Germany&apos;s BND from 1998 to 2005, faces espionage and attempted treason charges tied to roughly 2,000 classified documents.",
+    "link": "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
+    "published": "Tue, 06 Oct 2026 23:50:51 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "36bf0f0b4cae78bb656479c9b2cb2549",
+    "fetched_at": "2026-10-07T10:45:15.025429+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
+    "summary": "French Prime Minister Sébastien Lecornu defended the police response after a teen lost his hand and another was blinded amid student protests.",
+    "link": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
+    "published": "Wed, 07 Oct 2026 01:09:27 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7813a34b6ef3e9917326e7b872a35df3",
+    "fetched_at": "2026-10-07T10:45:15.025404+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+    "summary": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
+    "link": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
+    "published": "Wed, 07 Oct 2026 02:02:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "9a66a3d1a089a4aa7739d4ec7a3fe9d4",
+    "fetched_at": "2026-10-07T10:45:13.885280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+    "summary": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+    "published": "Wed, 07 Oct 2026 05:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "61236022c88af96521c17ae9c555a8f3",
+    "fetched_at": "2026-10-07T10:45:12.746882+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+    "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+    "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+    "published": "Wed, 07 Oct 2026 06:05:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "f49ac93153701b6f27fd030b2516673b",
+    "fetched_at": "2026-10-07T10:45:11.600454+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+    "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 18:05:53 GMT",
+    "source": "BBC News",
+    "id": "c470f22606ffc59cbf32e8bde41e0bd2",
+    "fetched_at": "2026-10-07T10:45:10.460427+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 20:18:58 GMT",
+    "source": "BBC News",
+    "id": "83d01158db93a8d8e62c226f74cf0f3f",
+    "fetched_at": "2026-10-07T10:45:09.320024+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "California pair charged with abusing at least 14 surrogate-born children",
+    "summary": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+    "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 09:38:00 GMT",
+    "source": "BBC News",
+    "id": "d07949bbcb95627d9245f4e04492fe18",
+    "fetched_at": "2026-10-07T10:45:08.190282+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Republican candidates walking a Trump tightrope",
+    "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+    "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 05:00:21 GMT",
+    "source": "BBC News",
+    "id": "1966248a21cd31e429457c6ce0b37842",
+    "fetched_at": "2026-10-07T10:45:07.055195+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Former Australian bishop jailed for sexually abusing young men",
     "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face charges of this nature.",
     "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
@@ -318,285 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "f0fa7263285516f5868f277d16b68c63",
     "fetched_at": "2026-10-06T16:25:14.321363+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ex-German intelligence chief arrested over suspected espionage",
-    "summary": "Former BND president August Hanning is accused of obtaining classified documents from his former agency, with investigators reportedly examining whether information was passed to foreign powers.",
-    "link": "https://www.euronews.com/2026/10/06/ex-german-intelligence-chief-arrested-over-suspected-espionage",
-    "published": "Tue, 06 Oct 2026 10:38:31 +0200",
-    "source": "News | Euronews RSS",
-    "id": "afcfc2c3b23c12ae5fbe6aba322cd1b5",
-    "fetched_at": "2026-10-06T16:25:14.321362+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Yemen government forces advance on Bab el-Mandeb in offensive against Houthis",
-    "summary": "Operation Yemen Dawn, backed by 100 Saudi coalition aircraft, retook the town of Dhubab just north of the strait, as the Houthis claimed they struck Riyadh's international airport, an oil refinery and military bases across Saudi Arabia, and Pakistan and Turkey agreed to deploy troops to the kingdom.",
-    "link": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
-    "published": "Tue, 06 Oct 2026 10:54:43 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d30323c924b17ed355ce7082f48fcecf",
-    "fetched_at": "2026-10-06T16:25:14.321360+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Mermaids compete in Warsaw's deepest swimming pool",
-    "summary": "Warsaw’s Mermaid Polska Deepspot Cup turns mermaiding into sport and art, with acrobatics, races and growing popularity among women and children.",
-    "link": "https://www.euronews.com/video/2026/10/06/mermaids-compete-in-warsaws-deepest-swimming-pool",
-    "published": "Tue, 06 Oct 2026 11:30:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ad1dedcfa0f6feb0c53344556c7d74fe",
-    "fetched_at": "2026-10-06T16:25:14.321359+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "18 sailors rescued after drone attack in Black Sea",
-    "summary": "Eighteen sailors were rescued after drones struck two commercial vessels off Bulgaria.",
-    "link": "https://www.euronews.com/2026/10/06/18-sailors-rescued-after-drone-attack-in-black-sea",
-    "published": "Tue, 06 Oct 2026 11:45:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "95701b1eb7a5ab3e403befb6ae5f3059",
-    "fetched_at": "2026-10-06T16:25:14.321357+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 6th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday",
-    "published": "Tue, 06 Oct 2026 12:00:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2749377aa7a7eec4b3ffef2031a79cd4",
-    "fetched_at": "2026-10-06T16:25:14.321356+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Whole world is paying' for Iran war, Qatar warns as mediation efforts continue",
-    "summary": "The Iran war has disrupted global trade as regional powers prepare to bolster Saudi Arabia’s defences. Qatar said talks to end the war remained active and backed the Mecca defence alliance, but added that it was too early to discuss joining the pact.",
-    "link": "https://www.euronews.com/2026/10/06/whole-world-is-paying-for-iran-war-qatar-warns-as-mediation-efforts-continue",
-    "published": "Tue, 06 Oct 2026 16:17:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f643d256f18de3503153833d475084eb",
-    "fetched_at": "2026-10-06T16:25:14.321354+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia denies plague death but quarantines hundreds without explanation",
-    "summary": "Rospotrebnadzor said Darya Shipilova, 28, died of \"pneumonia of unknown aetiology\" with no links to her work at the Irkutsk Anti-Plague Institute, but imposed quarantine on her contacts, confined 60 colleagues inside the facility and restricted access to hospitals including a maternity ward.",
-    "link": "https://www.euronews.com/2026/10/06/russia-denies-plague-death-but-quarantines-hundreds-without-explanation",
-    "published": "Tue, 06 Oct 2026 16:34:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "27efd1fc10cb37001ff72e8127403d6f",
-    "fetched_at": "2026-10-06T16:25:14.321353+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "One student killed, eight wounded in Istanbul school stabbing attack",
-    "summary": "A 15-year-old student disguised herself in the target school's uniform before attacking pupils at Şeyh Şamil Imam Hatip Secondary School in Başakşehir on Tuesday morning. The suspect, who attends a different school, was apprehended.",
-    "link": "https://www.euronews.com/2026/10/06/one-student-killed-eight-wounded-in-istanbul-school-stabbing-attack",
-    "published": "Tue, 06 Oct 2026 16:53:51 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bb3f65fb242e63d80cfc62fe629aab13",
-    "fetched_at": "2026-10-06T16:25:14.321351+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 6th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-evening",
-    "published": "Tue, 06 Oct 2026 18:00:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "890c735d4566aedff87c353acdbaa02b",
-    "fetched_at": "2026-10-06T16:25:14.321349+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ship sinks and crew missing after Black Sea drone attack",
-    "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 11:53:21 GMT",
-    "source": "BBC News",
-    "id": "73dfa8da11b35ed05cb564273fb54501",
-    "fetched_at": "2026-10-06T16:25:14.321348+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-    "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 09:48:37 GMT",
-    "source": "BBC News",
-    "id": "65e33cb9d40a7cfbe5a66eb5add6e501",
-    "fetched_at": "2026-10-06T16:25:14.321346+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "AfD candidate elected speaker of German regional parliament for first time",
-    "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
-    "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 14:44:03 GMT",
-    "source": "BBC News",
-    "id": "68d2d0c15583922423d05f7c69b631b2",
-    "fetched_at": "2026-10-06T16:25:14.321345+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Former German spy chief arrested for espionage and treason",
-    "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-    "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 10:05:42 GMT",
-    "source": "BBC News",
-    "id": "4736adbf9cf44096c79c3571e9e2396c",
-    "fetched_at": "2026-10-06T16:25:14.321343+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Teen's hand blown off by police grenade during French student protests: report",
-    "summary": "A 15-year-old lost his hand after picking up a police grenade as French school protests over underfunding and teacher shortages enter their third week.",
-    "link": "https://www.foxnews.com/world/teens-hand-blown-off-police-grenade-french-student-protests-report",
-    "published": "Mon, 05 Oct 2026 13:56:28 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "83993f7384510379422dfa265f7bf5ee",
-    "fetched_at": "2026-10-06T16:25:14.321341+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran turns citizens into informants as chilling crackdown spreads beyond its borders",
-    "summary": "Iran&apos;s Alaj platform crowdsources diaspora surveillance via Telegram, with an official source confirming the system to Fox News Digital.",
-    "link": "https://www.foxnews.com/world/iran-turns-citizens-informants-chilling-crackdown-spreads-beyond-its-borders",
-    "published": "Tue, 06 Oct 2026 06:00:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a5dde8ef2a00c518b22d65e37c2943a8",
-    "fetched_at": "2026-10-06T16:25:14.321340+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'UNRWA is Hamas,' Israeli attorney warns as explosive Oct 7 lawsuit rocks UN agency",
-    "summary": "The family of Yonatan Samerano, killed fleeing the Nova music festival on Oct. 7, is suing UNRWA after the Knesset stripped its diplomatic immunity.",
-    "link": "https://www.foxnews.com/world/unrwa-hamas-israeli-attorney-warns-explosive-oct-7-lawsuit-rocks-un-agency",
-    "published": "Tue, 06 Oct 2026 07:26:51 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "588ab9b58d95ff88e78e4805659a40ba",
-    "fetched_at": "2026-10-06T16:25:14.321338+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France explodes again as students riot over education",
-    "summary": "Video from France Tuesday shows protesters clashing with police and dodging tear gas as tens of thousands demand sweeping education reform nationwide.",
-    "link": "https://www.foxnews.com/world/france-explodes-students-riot-education",
-    "published": "Tue, 06 Oct 2026 12:04:23 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "494a94e592ee6d69aaaa8398237fc090",
-    "fetched_at": "2026-10-06T16:25:14.321335+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
-    "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
-    "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
-    "published": "Mon, 05 Oct 2026 07:47:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "f900b68efc2a09136c4bb715c17beb0f",
-    "fetched_at": "2026-10-06T16:25:14.321333+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-    "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
-    "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
-    "published": "Mon, 05 Oct 2026 08:33:20 -0400",
-    "source": "NPR Topics: World",
-    "id": "e07fd458d139d08453d2565c4e188917",
-    "fetched_at": "2026-10-06T16:25:14.321331+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A plague research employee in Russia died from an unknown cause. Here's what we know",
-    "summary": "There are more questions than answers regarding the death of a plague research lab employee last week in Siberia. Here's what we do and don't know.",
-    "link": "https://www.npr.org/2026/10/06/nx-s1-5991803/a-plague-research-employee-in-russia-died-from-an-unknown-cause-heres-what-we-know",
-    "published": "Tue, 06 Oct 2026 04:49:38 -0400",
-    "source": "NPR Topics: World",
-    "id": "a7359a662451dbdd7bdc234bc569f9a1",
-    "fetched_at": "2026-10-06T16:25:14.321329+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-    "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-    "published": "Tue, 06 Oct 2026 06:16:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "ecf8144b430306d11feb1540c2de63a0",
-    "fetched_at": "2026-10-06T16:25:14.321326+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What voters in 6 key states could tell us about the 2026 midterms",
-    "summary": "<em>Morning Edition</em> is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-    "published": "Tue, 06 Oct 2026 07:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "646d55fd5f11a346e376fae931e0aede",
-    "fetched_at": "2026-10-06T16:25:14.321323+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-    "summary": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-    "published": "Tue, 06 Oct 2026 07:19:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "bd319697813ed35462befcfcdafe3baf",
-    "fetched_at": "2026-10-06T16:25:14.321320+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
-    "summary": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
-    "published": "Tue, 06 Oct 2026 07:31:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "cc2630589289b0d9af2ef343ffd2c5b4",
-    "fetched_at": "2026-10-06T16:25:14.321289+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-    "summary": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-    "published": "Tue, 06 Oct 2026 07:38:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "1f00b9ee8771264cf0da570c7fc4940d",
-    "fetched_at": "2026-10-06T16:25:13.175113+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What to know about nationwide protests in India over voter list changes",
-    "summary": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
-    "published": "Tue, 06 Oct 2026 07:44:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "8d5d72bc5381edf6f087892596d7f998",
-    "fetched_at": "2026-10-06T16:25:12.030464+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-    "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
-    "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 13:31:56 GMT",
-    "source": "BBC News",
-    "id": "32f4bb681f37ed960b2f3fc8ae4409ca",
-    "fetched_at": "2026-10-06T16:25:10.864801+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-    "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 16:22:37 GMT",
-    "source": "BBC News",
-    "id": "c8741fc7dc6b7eeb4828dac1d6bf283e",
-    "fetched_at": "2026-10-06T16:25:09.726529+00:00"
   }
 ]
