@@ -1,6 +1,266 @@
 [
   {
     "region": "Europe",
+    "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+    "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 21:55:51 GMT",
+    "source": "BBC News",
+    "id": "404ef2fd3f40eb3e5af17f42c509611c",
+    "fetched_at": "2026-10-09T22:04:48.844088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+    "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+    "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 21:26:30 GMT",
+    "source": "BBC News",
+    "id": "18bee781465320ad1e9f22614bc94ad8",
+    "fetched_at": "2026-10-09T22:04:48.844087+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
+    "summary": "Ukraine’s counter-offensive on the Lyman axis collapsed the northern arm of a Russian pincer movement aimed at surrounding Ukrainian-held Donetsk, liberating up to 176 square kilometres and forcing Russian units onto the defensive, the Washington-based think tank said.",
+    "link": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
+    "published": "Fri, 09 Oct 2026 19:04:36 +0200",
+    "source": "News | Euronews RSS",
+    "id": "12387452adeadcd55645ab475965f081",
+    "fetched_at": "2026-10-09T22:04:48.844086+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rare waterspouts slam western Sicily, wrecking homes and a school",
+    "summary": "A rare pair of waterspouts swept ashore in western Sicily on Friday, damaging homes, vehicles and a school. The two funnels formed off the coast near Marsala before moving inland towards Trapani, hitting the town of Petrosino along the way.",
+    "link": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
+    "published": "Fri, 09 Oct 2026 19:49:59 +0200",
+    "source": "News | Euronews RSS",
+    "id": "72effa42c3a713d0325d609d537382b1",
+    "fetched_at": "2026-10-09T22:04:48.844085+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Flydubai co-pilot planned suicide attack in Tel Aviv airport inspired by 9/11",
+    "summary": "The Omani co-pilot was previously barred from flying in Oman over extremist views.",
+    "link": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
+    "published": "Fri, 09 Oct 2026 20:29:39 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8daf13b452bf81026331c75a95c45a11",
+    "fetched_at": "2026-10-09T22:04:48.844083+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says",
+    "summary": "Local footage showed a cathedral collapsing and a hotel facade falling onto a car in Penonomé, central Panama. No casualties were immediately reported.",
+    "link": "https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says",
+    "published": "Fri, 09 Oct 2026 20:40:56 +0200",
+    "source": "News | Euronews RSS",
+    "id": "50ac5966923aefbb6d165c16eed0689a",
+    "fetched_at": "2026-10-09T22:04:48.844082+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says US to import Russian diesel to ease prices",
+    "summary": "The US has not imported Russian oil or gas since 2022, when the Biden administration banned them because of Moscow’s full-scale invasion of Ukraine.",
+    "link": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
+    "published": "Fri, 09 Oct 2026 21:43:08 +0200",
+    "source": "News | Euronews RSS",
+    "id": "59cf7f4f5918a246d348f8ece831f792",
+    "fetched_at": "2026-10-09T22:04:48.844081+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+    "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 19:10:06 GMT",
+    "source": "BBC News",
+    "id": "fe9598b405a80365c3af1b95c5b68518",
+    "fetched_at": "2026-10-09T22:04:48.844079+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 17:14:44 GMT",
+    "source": "BBC News",
+    "id": "693ff2d27a25e30ac0b45bc3e7f473fc",
+    "fetched_at": "2026-10-09T22:04:48.844077+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Teen wearing helmet camera kills worker at Polish school amid fears of copycat attacks",
+    "summary": "A 15-year-old wearing a helmet camera allegedly killed a school employee and wounded two others in Poland&apos;s second school stabbing attack in two days.",
+    "link": "https://www.foxnews.com/world/teen-wearing-helmet-camera-kills-worker-polish-school-amid-fears-copycat-attacks",
+    "published": "Thu, 08 Oct 2026 16:27:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "986f92f2c79ee6f0803f68fc1c97ddb4",
+    "fetched_at": "2026-10-09T22:04:48.844076+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mother of dead Russian anti-plague institute worker: 'I know the truth'",
+    "summary": "Svetlana Shipilova, the mother of the anti-plague institute worker who died in Russia, has reportedly spoken out following her daughter&apos;s death.",
+    "link": "https://www.foxnews.com/world/mother-dead-russian-anti-plague-institute-worker-know-truth",
+    "published": "Thu, 08 Oct 2026 16:37:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ca74279bba73d1669870527fcd637147",
+    "fetched_at": "2026-10-09T22:04:48.844075+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iranian protester hanged hours after marrying his imprisoned fiancée over jail phone line",
+    "summary": "Alireza Sepahi married his imprisoned fiancée over a prison phone line hours before his execution at Isfahan Central Prison for anti-government protest.",
+    "link": "https://www.foxnews.com/world/iranian-protester-hanged-hours-after-marrying-imprisoned-fiancee-jail-phone-line",
+    "published": "Thu, 08 Oct 2026 18:33:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4e95e9474be434ae028cc26fca982057",
+    "fetched_at": "2026-10-09T22:04:48.844074+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
+    "summary": "Maricarmen Abascal&apos;s eviction from her Madrid apartment of 70 years sparked massive protests, and her death has deepened Spain&apos;s housing crisis.",
+    "link": "https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain",
+    "published": "Thu, 08 Oct 2026 19:20:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "60f99b4fe7e67f22fe55d9887d7b0375",
+    "fetched_at": "2026-10-09T22:04:48.844072+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police",
+    "summary": "Masked agitators clashed with riot police in Brussels as thousands of others marched against Belgium&apos;s austerity measures and cost of living crisis.",
+    "link": "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
+    "published": "Fri, 09 Oct 2026 13:48:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d74bb6e333ec66f0dae5117b05601147",
+    "fetched_at": "2026-10-09T22:04:48.844071+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
+    "summary": "Navi Pillay&apos;s 2026 Nobel Peace Prize sparked backlash from Jewish advocacy groups and UN Watch over allegations of anti-Israel bias and antisemitism.",
+    "link": "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
+    "published": "Fri, 09 Oct 2026 14:05:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c8c393ec10da3b4798c344c500c5d92d",
+    "fetched_at": "2026-10-09T22:04:48.844069+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Massive 7.7 magnitude earthquake strikes Panama as officials investigate potential tsunami threat",
+    "summary": "A powerful earthquake struck Panama&apos;s southern coast Friday, prompting officials to investigate a possible tsunami threat after the USGS lowered its magnitude estimate from 8.0 to 7.7.",
+    "link": "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
+    "published": "Fri, 09 Oct 2026 14:36:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "405e31906748215303602df9ac059cda",
+    "fetched_at": "2026-10-09T22:04:48.844067+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Did Russia play by the rules in reporting lab worker's death?",
+    "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
+    "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+    "published": "Fri, 09 Oct 2026 12:43:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "bb091c8ab2da993aa040fb1b83b601e3",
+    "fetched_at": "2026-10-09T22:04:48.844066+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+    "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+    "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "published": "Fri, 09 Oct 2026 17:24:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "2731f913ec0f58a3cdcf6fbedda409ec",
+    "fetched_at": "2026-10-09T22:04:48.844064+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+    "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
+    "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+    "published": "Fri, 09 Oct 2026 17:25:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "62d5440449698d4fae9d21a78cdcc44a",
+    "fetched_at": "2026-10-09T22:04:48.844047+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Firing squad execution to be livestreamed, Pentagon says",
+    "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 19:26:48 GMT",
+    "source": "BBC News",
+    "id": "fa94d788593e519d24b989ee0e8f2762",
+    "fetched_at": "2026-10-09T22:04:47.690513+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+    "summary": "Protests against sexual violence took place across more than 40 US states on 8 October.",
+    "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 16:19:36 GMT",
+    "source": "BBC News",
+    "id": "975bcb07e0be8fcb4337f69efc306c53",
+    "fetched_at": "2026-10-09T22:04:46.291084+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US immigration officials defend ICE agents who shot man in same car as child",
+    "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+    "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 17:36:09 GMT",
+    "source": "BBC News",
+    "id": "549f33ed03bcd0106b3a0cf124dc0054",
+    "fetched_at": "2026-10-09T22:04:45.157366+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
+    "summary": "\"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 19:45:29 GMT",
+    "source": "BBC News",
+    "id": "020a255c8fa85f029ead79606854fa90",
+    "fetched_at": "2026-10-09T22:04:44.004210+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Commentator Katie Zacharia picked as new White House press secretary",
+    "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 22:00:21 GMT",
+    "source": "BBC News",
+    "id": "5c25cb76bd18e7b42893ddecdc40b723",
+    "fetched_at": "2026-10-09T22:04:42.847419+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+    "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 21:50:47 GMT",
+    "source": "BBC News",
+    "id": "328e8cf5d97074470424b7b61e201a56",
+    "fetched_at": "2026-10-09T22:04:41.647660+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 21:54:28 GMT",
+    "source": "BBC News",
+    "id": "ccd45bdc0f79f0f34bf52aa0bf0d5b2d",
+    "fetched_at": "2026-10-09T22:04:40.485895+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
     "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
     "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
@@ -338,265 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "89946ee0bb01d20c8e3898aa8cbb85d9",
     "fetched_at": "2026-10-09T08:15:25.178681+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 9th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/09/latest-news-bulletin-october-9th-2026-morning",
-    "published": "Fri, 09 Oct 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "73df581c9a4cc7dc5655a60e0d09cf76",
-    "fetched_at": "2026-10-09T08:15:25.178680+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia slashes cancer care as defence spending hits post-Soviet record",
-    "summary": "The federal cancer programme budget falls from 44.9 billion to 3.87 billion roubles in 2027 — a nearly 40-fold reduction against 2025 levels — as defence spending reaches 35% of all federal expenditure, the highest share since the Soviet Union collapsed.",
-    "link": "https://www.euronews.com/2026/10/09/russia-slashes-cancer-care-as-defence-spending-hits-post-soviet-record",
-    "published": "Fri, 09 Oct 2026 07:00:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fe286f1dff122669e6bf094224f46d4b",
-    "fetched_at": "2026-10-09T08:15:25.178678+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe Today: French students 'retake Bastille', Trump 'unwilling' to help Ukraine",
-    "summary": "French students have “retaken the Bastille”, says Jean-Luc Mélenchon, after a mass rally in Paris. Volodymyr Zelenskyy accuses the US of “unwillingness” to help Ukraine. And former New Zealand PM Helen Clark joins us on critical minerals as MEP Rima Hassan faces fallout over flags row.",
-    "link": "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine",
-    "published": "Fri, 09 Oct 2026 08:02:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bdff2cf1ce515f365f207378fc39f149",
-    "fetched_at": "2026-10-09T08:15:25.178677+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US military will livestream the firing squad execution of Fort Hood shooter",
-    "summary": "Convicted military base shooter Nidal Hasan's execution will take place on 3 December at Fort Hood military base, where he committed the shooting. It will be the first US military execution carried out by a firing squad since World War II.",
-    "link": "https://www.euronews.com/2026/10/09/us-military-will-livestream-the-firing-squad-execution-of-fort-hood-shooter",
-    "published": "Fri, 09 Oct 2026 08:14:41 +0200",
-    "source": "News | Euronews RSS",
-    "id": "b21a6415fc8904c5d4f98b45933f8f45",
-    "fetched_at": "2026-10-09T08:15:25.178675+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Modern-day Thomas Edison': Trump awards Elon Musk top US science medal",
-    "summary": "Despite the president's glowing words at the award ceremony, Trump and Musk have navigated a rather volatile relationship in recent years.",
-    "link": "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal",
-    "published": "Fri, 09 Oct 2026 08:16:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ed8125887ad3c8b99068578a20ba476d",
-    "fetched_at": "2026-10-09T08:15:25.178674+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Chile: Santiago flooding turns streets to rivers as Kast declares state of catastrophe",
-    "summary": "Torrential rain caused severe flooding in Santiago, Chile, leaving homes, clinics and university buildings under water.",
-    "link": "https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe",
-    "published": "Fri, 09 Oct 2026 09:40:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1f3af25ea77522a0702fe471273e5c50",
-    "fetched_at": "2026-10-09T08:15:25.178672+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Cars burned and shops looted as anti-immigration protests rock South Africa",
-    "summary": "South Africa saw violent anti-immigration protests in Soweto and Durban on Thursday, 8 October, after a Constitutional Court ruling eased restrictions on asylum applications.",
-    "link": "https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa",
-    "published": "Fri, 09 Oct 2026 09:50:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "3d1f5aa7089c97d4814ee5b2a4e2cc30",
-    "fetched_at": "2026-10-09T08:15:25.178671+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK and Germany will face threats together, says Burnham in Berlin",
-    "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\".",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 15:25:08 GMT",
-    "source": "BBC News",
-    "id": "af3478a4fbcb528800cdd11a1b3828d2",
-    "fetched_at": "2026-10-09T08:15:25.178669+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least five arrested over Renoir museum theft",
-    "summary": "The two paintings by the French artist stolen in last month's heist have yet to be recovered.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn8j8ge43o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 09:31:13 GMT",
-    "source": "BBC News",
-    "id": "bd09175da800a04a54f22164ded8f42f",
-    "fetched_at": "2026-10-09T08:15:25.178668+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Caretaker killed and two teachers injured in knife attack at Poland school",
-    "summary": "Police say they foiled another school attack on Thursday, and a day after a stabbing at another Polish school.",
-    "link": "https://www.bbc.co.uk/news/articles/cq2e9xjv0jm2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 16:45:39 GMT",
-    "source": "BBC News",
-    "id": "320968557182782e15f359345f3faa67",
-    "fetched_at": "2026-10-09T08:15:25.178666+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-    "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 12:32:12 GMT",
-    "source": "BBC News",
-    "id": "acedb245997133e5d4dfbcc4561c33d9",
-    "fetched_at": "2026-10-09T08:15:25.178664+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 16:31:29 GMT",
-    "source": "BBC News",
-    "id": "13505d38c2d9a5b28d14c2878c79ff48",
-    "fetched_at": "2026-10-09T08:15:25.178662+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
-    "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 04:53:50 GMT",
-    "source": "BBC News",
-    "id": "9f85ce9a54362be8125e0a9a23464240",
-    "fetched_at": "2026-10-09T08:15:25.178659+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
-    "summary": "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
-    "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
-    "published": "Thu, 08 Oct 2026 21:35:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "311bcb9f8d314841aa59c256de6ea23d",
-    "fetched_at": "2026-10-09T08:15:25.178657+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
-    "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
-    "published": "Thu, 08 Oct 2026 01:56:02 -0400",
-    "source": "NPR Topics: World",
-    "id": "ac630d1f8df18a9b1ecdcfb23074761c",
-    "fetched_at": "2026-10-09T08:15:25.178655+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
-    "summary": "Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
-    "published": "Thu, 08 Oct 2026 04:44:37 -0400",
-    "source": "NPR Topics: World",
-    "id": "d32bf4ec85673b83ff63371e86dec442",
-    "fetched_at": "2026-10-09T08:15:25.178653+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
-    "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
-    "published": "Thu, 08 Oct 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "de339939dc77da28df9b0a992d408480",
-    "fetched_at": "2026-10-09T08:15:25.178620+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
-    "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-    "published": "Thu, 08 Oct 2026 07:25:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "bc12bbc5a7b61e8a3c81cd523d27d66a",
-    "fetched_at": "2026-10-09T08:15:24.076644+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-    "summary": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-    "published": "Thu, 08 Oct 2026 07:35:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "47b0834de1edb2fe9437a040a84e4e1f",
-    "fetched_at": "2026-10-09T08:15:22.975549+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-    "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-    "published": "Thu, 08 Oct 2026 08:01:34 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e2c4aedcc8ac42b4617bd4c49775e05",
-    "fetched_at": "2026-10-09T08:15:21.878202+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-    "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-    "published": "Thu, 08 Oct 2026 08:13:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "c8a9865d7f8758feb4128766a465128c",
-    "fetched_at": "2026-10-09T08:15:20.755952+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-    "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-    "published": "Thu, 08 Oct 2026 20:05:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "1e08594a46fad3aad1225c1603be8d18",
-    "fetched_at": "2026-10-09T08:15:19.651441+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-    "summary": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection.",
-    "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 02:09:45 GMT",
-    "source": "BBC News",
-    "id": "3831f60ea55d86ccc1039e8df004fb7e",
-    "fetched_at": "2026-10-09T08:15:18.530672+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "ICE agent shoots man in New York City",
-    "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
-    "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 04:26:19 GMT",
-    "source": "BBC News",
-    "id": "96c5fc83b620f1734dbc8aabdbac2ec3",
-    "fetched_at": "2026-10-09T08:15:17.415915+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-    "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-    "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 20:38:11 GMT",
-    "source": "BBC News",
-    "id": "730fb31558f3f6a3bdccb6c5864c221d",
-    "fetched_at": "2026-10-09T00:04:34.804472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-    "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 23:11:10 GMT",
-    "source": "BBC News",
-    "id": "8ab14e31e8ea57fb3d5da1409bb76c19",
-    "fetched_at": "2026-10-09T00:04:34.804470+00:00"
   }
 ]
