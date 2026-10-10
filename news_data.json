@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+    "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 18:22:29 GMT",
+    "source": "BBC News",
+    "id": "ddeb60da3c8e8ef5a2a7aba80c6986da",
+    "fetched_at": "2026-10-10T20:58:07.591403+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 19:08:17 GMT",
+    "source": "BBC News",
+    "id": "b44c090423ef5cbccbf181a0b2a992fa",
+    "fetched_at": "2026-10-10T20:58:07.591400+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
+    "summary": "Maricarmen Abascal&apos;s eviction from her Madrid apartment of 70 years sparked massive protests, and her death has deepened Spain&apos;s housing crisis.",
+    "link": "https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain",
+    "published": "Thu, 08 Oct 2026 19:20:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "60f99b4fe7e67f22fe55d9887d7b0375",
+    "fetched_at": "2026-10-10T20:58:07.591398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police",
+    "summary": "Masked agitators clashed with riot police in Brussels as thousands of others marched against Belgium&apos;s austerity measures and cost of living crisis.",
+    "link": "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
+    "published": "Fri, 09 Oct 2026 13:48:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "d74bb6e333ec66f0dae5117b05601147",
+    "fetched_at": "2026-10-10T20:58:07.591395+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
+    "summary": "Navi Pillay&apos;s 2026 Nobel Peace Prize sparked backlash from Jewish advocacy groups and UN Watch over allegations of anti-Israel bias and antisemitism.",
+    "link": "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
+    "published": "Fri, 09 Oct 2026 14:05:30 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c8c393ec10da3b4798c344c500c5d92d",
+    "fetched_at": "2026-10-10T20:58:07.591392+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Massive 7.7 magnitude earthquake strikes Panama as officials investigate potential tsunami threat",
+    "summary": "A powerful earthquake struck Panama&apos;s southern coast Friday, prompting officials to investigate a possible tsunami threat after the USGS lowered its magnitude estimate from 8.0 to 7.7.",
+    "link": "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
+    "published": "Fri, 09 Oct 2026 14:36:40 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "405e31906748215303602df9ac059cda",
+    "fetched_at": "2026-10-10T20:58:07.591390+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
+    "summary": "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S. Army.",
+    "link": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+    "published": "Sat, 10 Oct 2026 13:00:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "cba18c7043e614134087ca65680637c3",
+    "fetched_at": "2026-10-10T20:58:07.591385+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Did Russia play by the rules in reporting lab worker's death?",
+    "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
+    "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+    "published": "Fri, 09 Oct 2026 12:43:45 -0400",
+    "source": "NPR Topics: World",
+    "id": "bb091c8ab2da993aa040fb1b83b601e3",
+    "fetched_at": "2026-10-10T20:58:07.591355+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+    "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+    "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "published": "Fri, 09 Oct 2026 17:24:13 -0400",
+    "source": "NPR Topics: World",
+    "id": "2731f913ec0f58a3cdcf6fbedda409ec",
+    "fetched_at": "2026-10-10T20:58:06.438912+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+    "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
+    "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+    "published": "Fri, 09 Oct 2026 17:25:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "62d5440449698d4fae9d21a78cdcc44a",
+    "fetched_at": "2026-10-10T20:58:05.295133+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Commentator Katie Zacharia picked as new White House press secretary",
+    "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 22:41:21 GMT",
+    "source": "BBC News",
+    "id": "5c25cb76bd18e7b42893ddecdc40b723",
+    "fetched_at": "2026-10-10T20:58:04.136834+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
+    "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 21:50:47 GMT",
+    "source": "BBC News",
+    "id": "328e8cf5d97074470424b7b61e201a56",
+    "fetched_at": "2026-10-10T20:58:02.978652+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 14:24:14 GMT",
+    "source": "BBC News",
+    "id": "ccd45bdc0f79f0f34bf52aa0bf0d5b2d",
+    "fetched_at": "2026-10-10T20:58:01.811517+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Eight killed in mass shooting at Pennsylvania home",
+    "summary": "Two children are reported to be among the victims in the city of Eerie.",
+    "link": "https://www.bbc.co.uk/news/articles/cmed3njg5d3go?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 17:11:27 GMT",
+    "source": "BBC News",
+    "id": "a987bae69a3137a5d4a524c807e2742c",
+    "fetched_at": "2026-10-10T20:58:00.645784+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 19:28:28 GMT",
+    "source": "BBC News",
+    "id": "759a9d24c3da470381008b0b70d9bb6d",
+    "fetched_at": "2026-10-10T20:57:59.483537+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
     "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
     "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "311bcb9f8d314841aa59c256de6ea23d",
     "fetched_at": "2026-10-10T03:41:28.401731+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-    "summary": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-    "published": "Thu, 08 Oct 2026 07:35:22 -0400",
-    "source": "NPR Topics: World",
-    "id": "47b0834de1edb2fe9437a040a84e4e1f",
-    "fetched_at": "2026-10-10T03:41:27.254801+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-    "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-    "published": "Thu, 08 Oct 2026 08:01:34 -0400",
-    "source": "NPR Topics: World",
-    "id": "8e2c4aedcc8ac42b4617bd4c49775e05",
-    "fetched_at": "2026-10-10T03:41:26.101803+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-    "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
-    "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-    "published": "Thu, 08 Oct 2026 08:13:54 -0400",
-    "source": "NPR Topics: World",
-    "id": "c8a9865d7f8758feb4128766a465128c",
-    "fetched_at": "2026-10-10T03:41:24.949432+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-    "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-    "published": "Thu, 08 Oct 2026 20:05:48 -0400",
-    "source": "NPR Topics: World",
-    "id": "1e08594a46fad3aad1225c1603be8d18",
-    "fetched_at": "2026-10-10T03:41:23.810512+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-    "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 10 Oct 2026 01:58:56 GMT",
-    "source": "BBC News",
-    "id": "c49457303636450fff4e238fcd422dd8",
-    "fetched_at": "2026-10-10T03:41:22.649677+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
-    "source": "BBC News",
-    "id": "890b99ddd860c4a82386248fbbd234c5",
-    "fetched_at": "2026-10-10T03:41:21.499076+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-    "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 21:55:51 GMT",
-    "source": "BBC News",
-    "id": "404ef2fd3f40eb3e5af17f42c509611c",
-    "fetched_at": "2026-10-09T22:04:48.844088+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-    "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-    "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 21:26:30 GMT",
-    "source": "BBC News",
-    "id": "18bee781465320ad1e9f22614bc94ad8",
-    "fetched_at": "2026-10-09T22:04:48.844087+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
-    "summary": "Ukraine’s counter-offensive on the Lyman axis collapsed the northern arm of a Russian pincer movement aimed at surrounding Ukrainian-held Donetsk, liberating up to 176 square kilometres and forcing Russian units onto the defensive, the Washington-based think tank said.",
-    "link": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
-    "published": "Fri, 09 Oct 2026 19:04:36 +0200",
-    "source": "News | Euronews RSS",
-    "id": "12387452adeadcd55645ab475965f081",
-    "fetched_at": "2026-10-09T22:04:48.844086+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rare waterspouts slam western Sicily, wrecking homes and a school",
-    "summary": "A rare pair of waterspouts swept ashore in western Sicily on Friday, damaging homes, vehicles and a school. The two funnels formed off the coast near Marsala before moving inland towards Trapani, hitting the town of Petrosino along the way.",
-    "link": "https://www.euronews.com/video/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school",
-    "published": "Fri, 09 Oct 2026 19:49:59 +0200",
-    "source": "News | Euronews RSS",
-    "id": "72effa42c3a713d0325d609d537382b1",
-    "fetched_at": "2026-10-09T22:04:48.844085+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flydubai co-pilot planned suicide attack in Tel Aviv airport inspired by 9/11",
-    "summary": "The Omani co-pilot was previously barred from flying in Oman over extremist views.",
-    "link": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
-    "published": "Fri, 09 Oct 2026 20:29:39 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8daf13b452bf81026331c75a95c45a11",
-    "fetched_at": "2026-10-09T22:04:48.844083+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tsunami threat after 7.6-magnitude earthquake strikes Panama, USGS says",
-    "summary": "Local footage showed a cathedral collapsing and a hotel facade falling onto a car in Penonomé, central Panama. No casualties were immediately reported.",
-    "link": "https://www.euronews.com/2026/10/09/tsunami-threat-after-76-magnitude-earthquake-strikes-panama-usgs-says",
-    "published": "Fri, 09 Oct 2026 20:40:56 +0200",
-    "source": "News | Euronews RSS",
-    "id": "50ac5966923aefbb6d165c16eed0689a",
-    "fetched_at": "2026-10-09T22:04:48.844082+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump says US to import Russian diesel to ease prices",
-    "summary": "The US has not imported Russian oil or gas since 2022, when the Biden administration banned them because of Moscow’s full-scale invasion of Ukraine.",
-    "link": "https://www.euronews.com/2026/10/09/trump-says-us-to-import-russian-diesel-to-ease-prices",
-    "published": "Fri, 09 Oct 2026 21:43:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "59cf7f4f5918a246d348f8ece831f792",
-    "fetched_at": "2026-10-09T22:04:48.844081+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-    "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-    "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 19:10:06 GMT",
-    "source": "BBC News",
-    "id": "fe9598b405a80365c3af1b95c5b68518",
-    "fetched_at": "2026-10-09T22:04:48.844079+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-    "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 17:14:44 GMT",
-    "source": "BBC News",
-    "id": "693ff2d27a25e30ac0b45bc3e7f473fc",
-    "fetched_at": "2026-10-09T22:04:48.844077+00:00"
   }
 ]
