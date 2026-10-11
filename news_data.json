@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+    "source": "BBC News",
+    "id": "1af077532299fe84b0cd4e04b7b8b9ba",
+    "fetched_at": "2026-10-11T00:36:22.218014+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 17:14:44 GMT",
+    "source": "BBC News",
+    "id": "693ff2d27a25e30ac0b45bc3e7f473fc",
+    "fetched_at": "2026-10-11T00:36:21.070253+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Protests against voter roll revisions rock capital of world's largest democracy",
+    "summary": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
+    "link": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+    "published": "Sat, 10 Oct 2026 17:19:57 -0400",
+    "source": "NPR Topics: World",
+    "id": "d3c34ea2759f241cd99568f5abc9ceed",
+    "fetched_at": "2026-10-11T00:36:19.917385+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+    "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+    "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+    "published": "Sat, 10 Oct 2026 17:32:53 -0400",
+    "source": "NPR Topics: World",
+    "id": "7836f4958ce25e63065b75373d5dde5c",
+    "fetched_at": "2026-10-11T00:36:18.759495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+    "summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+    "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+    "published": "Sat, 10 Oct 2026 17:40:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "91fd469bc62681f5aac3b1cca29d6829",
+    "fetched_at": "2026-10-11T00:36:17.598307+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack — the latest of several in the past week on King Khalid International Airport — is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom.",
+    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+    "published": "Sat, 10 Oct 2026 19:44:15 -0400",
+    "source": "NPR Topics: World",
+    "id": "ca8cabfedb55dd934b6cf77245f52ac0",
+    "fetched_at": "2026-10-11T00:36:16.437128+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+    "source": "BBC News",
+    "id": "890b99ddd860c4a82386248fbbd234c5",
+    "fetched_at": "2026-10-11T00:36:15.294300+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
     "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
     "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "28c51eaeec651df7f6c8435789f61775",
     "fetched_at": "2026-10-10T03:41:29.566732+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police clash with protesters in Brussels as thousands march against spending cuts",
-    "summary": "Clashes broke out between police and protesters in Brussels on Friday, 9 October, as thousands marched against the Belgian government's planned spending cuts. Police estimated that 30,000 people took part in the demonstration, organised by trade unions amid growing opposition to austerity measures.",
-    "link": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
-    "published": "Sat, 10 Oct 2026 00:27:58 +0200",
-    "source": "News | Euronews RSS",
-    "id": "d60f608b71a3ed57897c002bd15e1c2d",
-    "fetched_at": "2026-10-10T03:41:29.566730+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Caretaker killed and two teachers injured in knife attack at Poland school",
-    "summary": "Police say they foiled another school attack on Thursday, and a day after a stabbing at another Polish school.",
-    "link": "https://www.bbc.co.uk/news/articles/cq2e9xjv0jm2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 16:45:39 GMT",
-    "source": "BBC News",
-    "id": "320968557182782e15f359345f3faa67",
-    "fetched_at": "2026-10-10T03:41:29.566727+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-    "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 12:32:12 GMT",
-    "source": "BBC News",
-    "id": "acedb245997133e5d4dfbcc4561c33d9",
-    "fetched_at": "2026-10-10T03:41:29.566724+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 16:31:29 GMT",
-    "source": "BBC News",
-    "id": "13505d38c2d9a5b28d14c2878c79ff48",
-    "fetched_at": "2026-10-10T03:41:29.566721+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-    "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 04:53:50 GMT",
-    "source": "BBC News",
-    "id": "9f85ce9a54362be8125e0a9a23464240",
-    "fetched_at": "2026-10-10T03:41:29.566717+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-    "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 23:11:10 GMT",
-    "source": "BBC News",
-    "id": "8ab14e31e8ea57fb3d5da1409bb76c19",
-    "fetched_at": "2026-10-10T03:41:29.566692+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
-    "summary": "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
-    "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
-    "published": "Thu, 08 Oct 2026 21:35:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "311bcb9f8d314841aa59c256de6ea23d",
-    "fetched_at": "2026-10-10T03:41:28.401731+00:00"
   }
 ]
