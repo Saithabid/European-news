@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | October 10th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-evening",
+    "published": "Sat, 10 Oct 2026 18:00:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "a930d41e929f5e4c222c16225a6d412b",
+    "fetched_at": "2026-10-12T00:52:50.964156+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+    "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+    "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 09:09:03 GMT",
+    "source": "BBC News",
+    "id": "a0363f0c0cda6c16398a7975178593ee",
+    "fetched_at": "2026-10-12T00:52:50.964153+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two Renoir paintings stolen from French museum are recovered",
+    "summary": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 14:25:18 GMT",
+    "source": "BBC News",
+    "id": "e3630bb08fd789d21024e70dcc49d09d",
+    "fetched_at": "2026-10-12T00:52:50.964151+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "France promises 3,000 extra teachers in first step to calm student protests",
+    "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 11:35:00 GMT",
+    "source": "BBC News",
+    "id": "91cd19b5305cdab55e2f662658512e9d",
+    "fetched_at": "2026-10-12T00:52:50.964147+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+    "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 20:51:12 GMT",
+    "source": "BBC News",
+    "id": "f378ee2c698b496564be1dfdab541a38",
+    "fetched_at": "2026-10-12T00:52:50.964120+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside the protest playbook to vilify Israel on 'global day of action'",
+    "summary": "Global Alliance for Palestine distributed a detailed playbook urging groups to shut down city squares and blockade corporate hubs across continents.",
+    "link": "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel",
+    "published": "Sat, 10 Oct 2026 06:31:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "93afa6fab404724236e267ff625409fa",
+    "fetched_at": "2026-10-12T00:52:49.836674+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
+    "summary": "Donald Trump&apos;s energy ceasefire could hand Vladimir Putin fresh revenue to fuel Russia&apos;s war in Ukraine, former NATO commander Breedlove warns.",
+    "link": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
+    "published": "Sun, 11 Oct 2026 17:56:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a2739fa46bff52dcdefa161a147b3af6",
+    "fetched_at": "2026-10-12T00:52:48.707762+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
+    "summary": "Iran-backed Houthis struck Saudi Arabian airports in Riyadh and Dammam, killing at least 14 and injuring over 300 as experts warn of wider war.",
+    "link": "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
+    "published": "Sun, 11 Oct 2026 20:34:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "745e4c989a2b6aa0c0a6e9c7856d68b0",
+    "fetched_at": "2026-10-12T00:52:47.585664+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+    "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+    "published": "Sun, 11 Oct 2026 17:16:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "a0fe8abd30bec07f7bb9336f05c06efe",
+    "fetched_at": "2026-10-12T00:52:46.450750+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
+    "summary": "Madi Bolanos and Anna Sussman's new podcast <em>We Are Jane Doe,</em> by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast",
+    "published": "Sun, 11 Oct 2026 17:16:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "b045f6684efea99edbe1c369cd235e64",
+    "fetched_at": "2026-10-12T00:52:45.317228+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+    "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+    "published": "Sun, 11 Oct 2026 17:16:36 -0400",
+    "source": "NPR Topics: World",
+    "id": "505b8726fbb3df65f79da54cc20f2b48",
+    "fetched_at": "2026-10-12T00:52:44.197551+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: What's behind Trump's energy ceasefire claim?",
+    "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+    "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 20:55:02 GMT",
+    "source": "BBC News",
+    "id": "f9da2b12f009eba0de2d3bbc7bdf2307",
+    "fetched_at": "2026-10-12T00:52:43.047994+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Orangutans released back into Borneo forest after devastating fires",
     "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
     "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "60f99b4fe7e67f22fe55d9887d7b0375",
     "fetched_at": "2026-10-10T20:58:07.591398+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police",
-    "summary": "Masked agitators clashed with riot police in Brussels as thousands of others marched against Belgium&apos;s austerity measures and cost of living crisis.",
-    "link": "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
-    "published": "Fri, 09 Oct 2026 13:48:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d74bb6e333ec66f0dae5117b05601147",
-    "fetched_at": "2026-10-10T20:58:07.591395+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
-    "summary": "Navi Pillay&apos;s 2026 Nobel Peace Prize sparked backlash from Jewish advocacy groups and UN Watch over allegations of anti-Israel bias and antisemitism.",
-    "link": "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
-    "published": "Fri, 09 Oct 2026 14:05:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c8c393ec10da3b4798c344c500c5d92d",
-    "fetched_at": "2026-10-10T20:58:07.591392+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Massive 7.7 magnitude earthquake strikes Panama as officials investigate potential tsunami threat",
-    "summary": "A powerful earthquake struck Panama&apos;s southern coast Friday, prompting officials to investigate a possible tsunami threat after the USGS lowered its magnitude estimate from 8.0 to 7.7.",
-    "link": "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
-    "published": "Fri, 09 Oct 2026 14:36:40 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "405e31906748215303602df9ac059cda",
-    "fetched_at": "2026-10-10T20:58:07.591390+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
-    "summary": "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S. Army.",
-    "link": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
-    "published": "Sat, 10 Oct 2026 13:00:45 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "cba18c7043e614134087ca65680637c3",
-    "fetched_at": "2026-10-10T20:58:07.591385+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Did Russia play by the rules in reporting lab worker's death?",
-    "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
-    "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-    "published": "Fri, 09 Oct 2026 12:43:45 -0400",
-    "source": "NPR Topics: World",
-    "id": "bb091c8ab2da993aa040fb1b83b601e3",
-    "fetched_at": "2026-10-10T20:58:07.591355+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-    "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "published": "Fri, 09 Oct 2026 17:24:13 -0400",
-    "source": "NPR Topics: World",
-    "id": "2731f913ec0f58a3cdcf6fbedda409ec",
-    "fetched_at": "2026-10-10T20:58:06.438912+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
-    "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
-    "published": "Fri, 09 Oct 2026 17:25:59 -0400",
-    "source": "NPR Topics: World",
-    "id": "62d5440449698d4fae9d21a78cdcc44a",
-    "fetched_at": "2026-10-10T20:58:05.295133+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Commentator Katie Zacharia picked as new White House press secretary",
-    "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 22:41:21 GMT",
-    "source": "BBC News",
-    "id": "5c25cb76bd18e7b42893ddecdc40b723",
-    "fetched_at": "2026-10-10T20:58:04.136834+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-    "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 21:50:47 GMT",
-    "source": "BBC News",
-    "id": "328e8cf5d97074470424b7b61e201a56",
-    "fetched_at": "2026-10-10T20:58:02.978652+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 10 Oct 2026 14:24:14 GMT",
-    "source": "BBC News",
-    "id": "ccd45bdc0f79f0f34bf52aa0bf0d5b2d",
-    "fetched_at": "2026-10-10T20:58:01.811517+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Eight killed in mass shooting at Pennsylvania home",
-    "summary": "Two children are reported to be among the victims in the city of Eerie.",
-    "link": "https://www.bbc.co.uk/news/articles/cmed3njg5d3go?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 10 Oct 2026 17:11:27 GMT",
-    "source": "BBC News",
-    "id": "a987bae69a3137a5d4a524c807e2742c",
-    "fetched_at": "2026-10-10T20:58:00.645784+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 10 Oct 2026 19:28:28 GMT",
-    "source": "BBC News",
-    "id": "759a9d24c3da470381008b0b70d9bb6d",
-    "fetched_at": "2026-10-10T20:57:59.483537+00:00"
   }
 ]
