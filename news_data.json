@@ -1,6 +1,236 @@
 [
   {
     "region": "Europe",
+    "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+    "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 17:36:43 GMT",
+    "source": "BBC News",
+    "id": "f8e727ed330e38860bad0cdf2b025856",
+    "fetched_at": "2026-10-13T22:07:51.476165+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+    "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 20:02:15 GMT",
+    "source": "BBC News",
+    "id": "cb0157b7a73a696692eb2d1edb4369d1",
+    "fetched_at": "2026-10-13T22:07:51.476163+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ronaldo waves Saudi flag scarf after missile alert delays Asian Champions League match in Riyadh",
+    "summary": "Cristiano Ronaldo and other footballers have shown support for Saudi Arabia as deadly Houthi attacks disrupt life in Riyadh, forcing its airport to close and delaying an Asian Champions League match amid renewed fighting in Yemen.",
+    "link": "https://www.euronews.com/2026/10/13/ronaldo-waves-saudi-flag-scarf-after-missile-alert-delays-asian-champions-league-match-in-",
+    "published": "Tue, 13 Oct 2026 19:26:19 +0200",
+    "source": "News | Euronews RSS",
+    "id": "6608af03a302fa5846f9e82745361be1",
+    "fetched_at": "2026-10-13T22:07:51.476161+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Cornell University suspends frat parties over gang rape allegations",
+    "summary": "Cornell has also appointed former US Deputy Attorney General Sally Yates to conduct a \"comprehensive independent review\" of the university's response to the rape allegations.",
+    "link": "https://www.euronews.com/2026/10/13/cornell-university-suspends-frat-parties-over-gang-rape-allegations",
+    "published": "Tue, 13 Oct 2026 22:22:57 +0200",
+    "source": "News | Euronews RSS",
+    "id": "9373b09c2fd36b88fd2bfb730feec01d",
+    "fetched_at": "2026-10-13T22:07:51.476158+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct",
+    "summary": "\"We're not happy,\" says the president about his son's ex-fiancée following reports of improper behaviour.",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgedexp6zgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 00:10:15 GMT",
+    "source": "BBC News",
+    "id": "b1d1a87db9f7a765c351bc33810305e6",
+    "fetched_at": "2026-10-13T22:07:51.476156+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Benjamin Netanyahu's legacy and political future on the line in Israel's Oct 27 election",
+    "summary": "Benjamin Netanyahu fights for his legacy in Israel&apos;s Oct. 27 vote, the first since the Oct. 7 Hamas massacre reshaped the political landscape.",
+    "link": "https://www.foxnews.com/world/benjamin-netanyahu-legacy-political-future-line-israel-oct-27-election",
+    "published": "Mon, 12 Oct 2026 02:00:35 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f36d2cadc7aab37144076be01190f1d3",
+    "fetched_at": "2026-10-13T22:07:51.476154+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy accuses Putin of defying Trump's ceasefire push, sends pointed message to White House",
+    "summary": "Volodymyr Zelenskyy accuses Vladimir Putin of attacking Ukraine&apos;s gas infrastructure hours after Trump announced an immediate energy ceasefire.",
+    "link": "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
+    "published": "Mon, 12 Oct 2026 10:36:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1bf62a6a313df6d5969e0eb1d1a07786",
+    "fetched_at": "2026-10-13T22:07:51.476152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "British adventurer returns home after 28-year walk around the world",
+    "summary": "Adventurer Karl Bushby swam the English Channel and celebrated with fish and chips after his 28-year, 30,000-mile walk from Chile to England.",
+    "link": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+    "published": "Mon, 12 Oct 2026 14:28:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "aa61e2a6b3e032ea575a55a35f9546a1",
+    "fetched_at": "2026-10-13T22:07:51.476150+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
+    "summary": "Gen. Alexus Grynkewich outlined NATO&apos;s strategy to &quot;block, blunt and break&quot; enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
+    "link": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+    "published": "Mon, 12 Oct 2026 20:22:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "04e4e0b908dc5f10de1ac02b038ffa06",
+    "fetched_at": "2026-10-13T22:07:51.476147+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says",
+    "summary": "Pope Leo XIV arrived at Gemelli Hospital in Rome for lung nodule removal after doctors said the growth was identified at a &quot;very early stage.&quot; Doctors later confirmed he had a form of lung cancer.",
+    "link": "https://www.foxnews.com/world/pope-leo-diagnosed-lung-cancer-after-surgeons-remove-part-of-right-lung-vatican",
+    "published": "Tue, 13 Oct 2026 09:24:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e3949193c70e6104722e8d9b6ff8364f",
+    "fetched_at": "2026-10-13T22:07:51.476145+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greta Thunberg joins massive French student protests as cars burn, police fire tear gas",
+    "summary": "Greta Thunberg joined student protesters in France amid over 6,100 arrests and widespread school closures as violent clashes with riot police escalate.",
+    "link": "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas",
+    "published": "Tue, 13 Oct 2026 17:31:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8782fd8d5f31318fdebd0a690e6c6381",
+    "fetched_at": "2026-10-13T22:07:51.476143+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+    "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
+    "link": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+    "published": "Mon, 12 Oct 2026 16:42:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "2320dd2e6ea31370a0a8b1c731b53585",
+    "fetched_at": "2026-10-13T22:07:51.476141+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Many Iranians who go to Turkey to find jobs are exploited",
+    "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with  nothing but more debt.",
+    "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+    "published": "Mon, 12 Oct 2026 17:37:21 -0400",
+    "source": "NPR Topics: World",
+    "id": "759689ac9c3cbc1aeb3ca82bb8416010",
+    "fetched_at": "2026-10-13T22:07:51.476138+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+    "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
+    "link": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+    "published": "Mon, 12 Oct 2026 17:43:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "dd3f99da5bf33d3296851218b674ac21",
+    "fetched_at": "2026-10-13T22:07:51.476135+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+    "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+    "published": "Tue, 13 Oct 2026 14:51:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "e7d7082e257509ecd691bfa1e317922a",
+    "fetched_at": "2026-10-13T22:07:51.476132+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How will a diesel deal with Russia impact the U.S. market?",
+    "summary": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+    "published": "Tue, 13 Oct 2026 16:03:37 -0400",
+    "source": "NPR Topics: World",
+    "id": "e2178f67735515c12620994149fe6d9b",
+    "fetched_at": "2026-10-13T22:07:51.476107+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+    "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 17:10:50 GMT",
+    "source": "BBC News",
+    "id": "5390f74d652fabd06c947629efd3c1c5",
+    "fetched_at": "2026-10-13T22:07:50.307974+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Horse carriages in New York City expected to be outlawed",
+    "summary": "Both the speaker of the city council and the mayor have expressed support for ending the practice.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 20:45:33 GMT",
+    "source": "BBC News",
+    "id": "93d967fc2a188a50984ef522a187bf14",
+    "fetched_at": "2026-10-13T22:07:49.162280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
+    "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
+    "link": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 17:04:37 GMT",
+    "source": "BBC News",
+    "id": "11a174b9c5cad5b697dea924a376bee8",
+    "fetched_at": "2026-10-13T22:07:48.050148+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+    "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+    "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 19:51:14 GMT",
+    "source": "BBC News",
+    "id": "cabe9552caf35b9346955f8072494627",
+    "fetched_at": "2026-10-13T22:07:46.938406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+    "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 18:25:28 GMT",
+    "source": "BBC News",
+    "id": "3506677c8a7e7ff3d3a81baaab168e32",
+    "fetched_at": "2026-10-13T22:07:45.820704+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 21:42:49 GMT",
+    "source": "BBC News",
+    "id": "5f84a153598bb1159d241901daf1ab20",
+    "fetched_at": "2026-10-13T22:07:44.695533+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+    "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 19:23:28 GMT",
+    "source": "BBC News",
+    "id": "94e3afec82034a84ab3f608198ab1357",
+    "fetched_at": "2026-10-13T22:07:43.527374+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ex-president named leader of new DR Congo rebel coalition",
     "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
     "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
@@ -368,235 +598,5 @@
     "source": "BBC News",
     "id": "15a3864b4d9afe891e59911f20171431",
     "fetched_at": "2026-10-13T17:16:35.922506+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-    "summary": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-    "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 04:04:57 GMT",
-    "source": "BBC News",
-    "id": "ecd99c650658d644ab27bc2491327156",
-    "fetched_at": "2026-10-13T08:47:33.621043+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "The island where locals say data centres are taking their water",
-    "summary": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 12 Oct 2026 22:30:55 GMT",
-    "source": "BBC News",
-    "id": "8fe48b24996a15af5186217e81e6d7a0",
-    "fetched_at": "2026-10-13T08:47:33.621041+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-    "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-    "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 07:31:10 GMT",
-    "source": "BBC News",
-    "id": "45b8cf61800df3e7642144f3655ec9d4",
-    "fetched_at": "2026-10-13T08:47:33.621039+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Emergency calls from botched Christa Pike execution released to US media",
-    "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-    "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 08:20:07 GMT",
-    "source": "BBC News",
-    "id": "7528515958c66187945b2b01e1f17630",
-    "fetched_at": "2026-10-13T08:47:33.621038+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rent surges in Georgia and Armenia as Russians flee fearing mobilisation",
-    "summary": "Monthly rents in Yerevan now run to €800–900 for a two-room flat, up 23.5% year on year in August, while Tbilisi rents have stabilised after 60–70% jumps following the full-scale invasion of Ukraine in 2022. Russian nationals account for 72% of all foreign property transactions in Armenia.",
-    "link": "https://www.euronews.com/2026/10/13/rent-spikes-in-georgia-and-armenia-as-russians-flee-fearing-mobilisation",
-    "published": "Tue, 13 Oct 2026 07:00:28 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4ead92bb4dbed2a4111ed41b95319170",
-    "fetched_at": "2026-10-13T08:47:33.621036+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 13th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/13/latest-news-bulletin-october-13th-2026-morning",
-    "published": "Tue, 13 Oct 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0b4e2e95291fa18cbd8fac36aa1b64be",
-    "fetched_at": "2026-10-13T08:47:33.621034+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgium: 9 minors arrested as clashes erupt near Brussels-Midi",
-    "summary": "Clashes near Brussels-Midi station leave around ten arrested, including nine minors, as student and anti-austerity protests continue in Belgium.",
-    "link": "https://www.euronews.com/video/2026/10/13/belgium-9-minors-arrested-as-clashes-erupt-near-brussels-midi",
-    "published": "Tue, 13 Oct 2026 07:55:45 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2918a81b1d13c059e506284824e726d9",
-    "fetched_at": "2026-10-13T08:47:33.621033+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US theme park operator Six Flags shuts nine roller coasters after man dies",
-    "summary": "Police are investigating after TV footage showed riders being evacuated from the 60-metre high Goliath ride.",
-    "link": "https://www.euronews.com/2026/10/13/us-theme-park-operator-six-flags-shuts-nine-roller-coasters-after-man-dies",
-    "published": "Tue, 13 Oct 2026 07:59:54 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c5093ab43370c972df07aecf83ba5996",
-    "fetched_at": "2026-10-13T08:47:33.621031+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US actress Selma Blair accused of attacking cabin crew members on flight to New York",
-    "summary": "US media said that Blair punched one flight attendant and bit another. The 54-year-old then reportedly assaulted a police officer and nurse as she was transported to hospital.",
-    "link": "https://www.euronews.com/2026/10/13/us-actress-selma-blair-accused-of-attacking-cabin-crew-members-on-flight-to-new-york",
-    "published": "Tue, 13 Oct 2026 08:22:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ee404b66a32e526eeba7e52b89b7f5db",
-    "fetched_at": "2026-10-13T08:47:33.621029+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "German nationals among those airlifted to safety as storms kill five in Mexico",
-    "summary": "Heavy rain and strong winds have caused serious damage in Baja California and Guerrero, where authorities seek six missing and deploy thousands of rescue workers amid further flood risk.",
-    "link": "https://www.euronews.com/2026/10/13/german-nationals-among-those-airlifted-to-safety-as-storms-kill-five-in-mexico",
-    "published": "Tue, 13 Oct 2026 08:39:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "e6131ed0c72ed1dfdecd8a5809c51d5f",
-    "fetched_at": "2026-10-13T08:47:33.621027+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ceuta awaits King Felipe after summer migration crisis",
-    "summary": "Ceuta braces for a symbolic royal visit by King Felipe VI and Queen Letizia after a mass migration crisis strained the enclave’s social cohesion.",
-    "link": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis",
-    "published": "Tue, 13 Oct 2026 08:50:05 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8724539eb3c7261e6ca3bdb05376f0bc",
-    "fetched_at": "2026-10-13T08:47:33.621025+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pakistan: Passenger train derailment kills at least five, injures more than 30",
-    "summary": "At least five people were killed and more than 30 injured when the Rehman Baba Express derailed near Multan, Pakistan, early on Tuesday, 13 October. An investigation has been launched into the cause of the accident.",
-    "link": "https://www.euronews.com/video/2026/10/13/pakistan-passenger-train-derailment-kills-at-least-five-injures-more-than-30",
-    "published": "Tue, 13 Oct 2026 10:04:08 +0200",
-    "source": "News | Euronews RSS",
-    "id": "1e22797d2df9ce61b7180e77eeaf4473",
-    "fetched_at": "2026-10-13T08:47:33.621023+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man rescued after being trapped in Sardinian cave for 26 hours",
-    "summary": "The 31-year-old cave expert was found alive, 32ft underground, after more than 100 emergency personnel worked to free him.",
-    "link": "https://www.bbc.co.uk/news/articles/cw98zgy3466qo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 02:45:29 GMT",
-    "source": "BBC News",
-    "id": "edd538dc98642a8f7f507ee13f3b2b97",
-    "fetched_at": "2026-10-13T08:47:33.621020+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 05:02:34 GMT",
-    "source": "BBC News",
-    "id": "ebac3c90dcfd81183a7f1a6c50cacbc5",
-    "fetched_at": "2026-10-13T08:47:33.621018+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
-    "summary": "Donald Trump&apos;s energy ceasefire could hand Vladimir Putin fresh revenue to fuel Russia&apos;s war in Ukraine, former NATO commander Breedlove warns.",
-    "link": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
-    "published": "Sun, 11 Oct 2026 17:56:55 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a2739fa46bff52dcdefa161a147b3af6",
-    "fetched_at": "2026-10-13T08:47:33.621014+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
-    "summary": "Iran-backed Houthis struck Saudi Arabian airports in Riyadh and Dammam, killing at least 14 and injuring over 300 as experts warn of wider war.",
-    "link": "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
-    "published": "Sun, 11 Oct 2026 20:34:53 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "745e4c989a2b6aa0c0a6e9c7856d68b0",
-    "fetched_at": "2026-10-13T08:47:33.620985+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
-    "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
-    "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-    "published": "Sun, 11 Oct 2026 17:16:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "a0fe8abd30bec07f7bb9336f05c06efe",
-    "fetched_at": "2026-10-13T08:47:32.503165+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
-    "summary": "Madi Bolanos and Anna Sussman's new podcast <em>We Are Jane Doe,</em> by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.",
-    "link": "https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast",
-    "published": "Sun, 11 Oct 2026 17:16:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "b045f6684efea99edbe1c369cd235e64",
-    "fetched_at": "2026-10-13T08:47:31.369422+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
-    "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.",
-    "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
-    "published": "Sun, 11 Oct 2026 17:16:36 -0400",
-    "source": "NPR Topics: World",
-    "id": "505b8726fbb3df65f79da54cc20f2b48",
-    "fetched_at": "2026-10-13T08:47:30.256950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-    "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
-    "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-    "published": "Mon, 12 Oct 2026 02:41:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "e70cc308ac08bd4c9c868ba3cfd97680",
-    "fetched_at": "2026-10-13T08:47:29.131339+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
-    "summary": "DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.",
-    "link": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
-    "published": "Tue, 13 Oct 2026 01:42:28 -0400",
-    "source": "NPR Topics: World",
-    "id": "0801acdca062b11b998afbb948e54d6b",
-    "fetched_at": "2026-10-13T08:47:28.010248+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump faces growing backlash over plans to import diesel from Russia",
-    "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-    "source": "BBC News",
-    "id": "87036ac97da6aebb91fc7216ea61ceb4",
-    "fetched_at": "2026-10-13T08:47:26.872751+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Where the US midterm elections will be won and lost",
-    "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-    "link": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 05:02:44 GMT",
-    "source": "BBC News",
-    "id": "45dd2372e621c7446dbe79856a8ba5bb",
-    "fetched_at": "2026-10-13T08:47:25.738503+00:00"
   }
 ]
