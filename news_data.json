@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 01:56:57 GMT",
+    "source": "BBC News",
+    "id": "95436438eb654a7524a0bef97572d0f9",
+    "fetched_at": "2026-10-14T02:58:38.866014+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zimbabwean author denies using AI to write award-winning story",
+    "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 23:31:10 GMT",
+    "source": "BBC News",
+    "id": "6567ea4413da0dff5c4bf150ee4c4082",
+    "fetched_at": "2026-10-14T02:58:38.865985+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 23:42:22 GMT",
+    "source": "BBC News",
+    "id": "202b31c25078a7dd9b6797d2b1f9e449",
+    "fetched_at": "2026-10-14T02:58:37.616941+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man rescued after being trapped in Sardinian cave for 26 hours",
+    "summary": "The 31-year-old cave expert was found alive, 32ft underground, after more than 100 emergency personnel worked to free him.",
+    "link": "https://www.bbc.co.uk/news/articles/cw98zgy3466qo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 02:45:29 GMT",
+    "source": "BBC News",
+    "id": "edd538dc98642a8f7f507ee13f3b2b97",
+    "fetched_at": "2026-10-14T02:58:36.455877+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+    "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+    "source": "BBC News",
+    "id": "ebac3c90dcfd81183a7f1a6c50cacbc5",
+    "fetched_at": "2026-10-14T02:58:35.296076+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
+    "summary": "Iran-backed Houthis struck Saudi Arabian airports in Riyadh and Dammam, killing at least 14 and injuring over 300 as experts warn of wider war.",
+    "link": "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
+    "published": "Sun, 11 Oct 2026 20:34:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "745e4c989a2b6aa0c0a6e9c7856d68b0",
+    "fetched_at": "2026-10-14T02:58:34.117515+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
+    "summary": "DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.",
+    "link": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
+    "published": "Tue, 13 Oct 2026 01:42:28 -0400",
+    "source": "NPR Topics: World",
+    "id": "0801acdca062b11b998afbb948e54d6b",
+    "fetched_at": "2026-10-14T02:58:32.958586+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Where the US midterm elections will be won and lost",
+    "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 05:02:44 GMT",
+    "source": "BBC News",
+    "id": "45dd2372e621c7446dbe79856a8ba5bb",
+    "fetched_at": "2026-10-14T02:58:31.767048+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+    "summary": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+    "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 22:59:37 GMT",
+    "source": "BBC News",
+    "id": "4c294a00ee69baa117733352caaf39c9",
+    "fetched_at": "2026-10-14T02:58:30.612049+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Argentina targets UK in legal claim over Falklands oil exploration",
     "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
     "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "6640f5051c2a107b5aa32a88ddb791e1",
     "fetched_at": "2026-10-13T17:16:43.856073+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's diesel deal with Putin angers Europe",
-    "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
-    "link": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
-    "published": "Tue, 13 Oct 2026 04:44:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "39cd5973edcb49a0fd1a648c0b60070f",
-    "fetched_at": "2026-10-13T17:16:43.856071+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-    "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
-    "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-    "published": "Tue, 13 Oct 2026 06:51:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "c579f291d1cc1a3b72f1a6cf421705a0",
-    "fetched_at": "2026-10-13T17:16:43.856041+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-    "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
-    "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-    "published": "Tue, 13 Oct 2026 07:08:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "d0e480cbb648ade438213c10b17af5ea",
-    "fetched_at": "2026-10-13T17:16:42.727844+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Immigration agents search congresswoman Ilhan Omar's home",
-    "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 10:37:39 GMT",
-    "source": "BBC News",
-    "id": "3fc8889c4dd1a585bf892032fd5d7b38",
-    "fetched_at": "2026-10-13T17:16:41.589292+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US actress Selma Blair accused of assault after incident with flight attendants",
-    "summary": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
-    "link": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 04:52:28 GMT",
-    "source": "BBC News",
-    "id": "1b9a846cf9c8c24f06c479ca2bcd0927",
-    "fetched_at": "2026-10-13T17:16:40.438465+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-    "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 15:59:07 GMT",
-    "source": "BBC News",
-    "id": "28bf5453dd6234a488ad4204f868163e",
-    "fetched_at": "2026-10-13T17:16:39.326279+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Influencers spread false theory about Democrat Talarico",
-    "summary": "Texas Democrat James Talarico was missing from the Senate campaign trail for nine days and said he had flu. Some conservative influencers falsely claimed he was receiving treatment at an Ohio mental health facility.",
-    "link": "https://www.bbc.co.uk/news/videos/c6kg51yn7dgvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 13:31:47 GMT",
-    "source": "BBC News",
-    "id": "b5bb909dfe90b7a3bed2895cf234b24a",
-    "fetched_at": "2026-10-13T17:16:38.201865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How Breaking Bad's RJ Mitte changed the way we see cerebral palsy",
-    "summary": "The star, who has died at the age of 34, fought for better representation of disabilities on screen.",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8gj20j2ljo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 14:07:33 GMT",
-    "source": "BBC News",
-    "id": "0b5f593fb6f94c0f8085ba1f570092a2",
-    "fetched_at": "2026-10-13T17:16:37.060692+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
-    "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 09:11:08 GMT",
-    "source": "BBC News",
-    "id": "15a3864b4d9afe891e59911f20171431",
-    "fetched_at": "2026-10-13T17:16:35.922506+00:00"
   }
 ]
