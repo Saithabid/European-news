@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Student protesters attack government buildings in Tirana",
+    "summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 20:29:05 GMT",
+    "source": "BBC News",
+    "id": "44867163a8f50d6a4fa07ecdf6918aed",
+    "fetched_at": "2026-10-14T22:54:32.632845+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Indonesia: Bali fuel supply delays spark panic buying and hours-long queues",
+    "summary": "Indonesia's resort island of Bali faced long queues at petrol stations on Wednesday, 14 October, as disrupted fuel deliveries left motorists waiting for hours.",
+    "link": "https://www.euronews.com/video/2026/10/14/indonesia-bali-fuel-supply-delays-spark-panic-buying-and-hours-long-queues",
+    "published": "Wed, 14 Oct 2026 23:27:20 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b10cf94f04b098ddb0af8e7e224a72a8",
+    "fetched_at": "2026-10-14T22:54:32.632842+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 13:41:51 GMT",
+    "source": "BBC News",
+    "id": "202b31c25078a7dd9b6797d2b1f9e449",
+    "fetched_at": "2026-10-14T22:54:32.632840+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy accuses Putin of defying Trump's ceasefire push, sends pointed message to White House",
+    "summary": "Volodymyr Zelenskyy accuses Vladimir Putin of attacking Ukraine&apos;s gas infrastructure hours after Trump announced an immediate energy ceasefire.",
+    "link": "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
+    "published": "Mon, 12 Oct 2026 10:36:46 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1bf62a6a313df6d5969e0eb1d1a07786",
+    "fetched_at": "2026-10-14T22:54:32.632837+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "British adventurer returns home after 28-year walk around the world",
+    "summary": "Adventurer Karl Bushby swam the English Channel and celebrated with fish and chips after his 28-year, 30,000-mile walk from Chile to England.",
+    "link": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+    "published": "Mon, 12 Oct 2026 14:28:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "aa61e2a6b3e032ea575a55a35f9546a1",
+    "fetched_at": "2026-10-14T22:54:32.632806+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
+    "summary": "Gen. Alexus Grynkewich outlined NATO&apos;s strategy to &quot;block, blunt and break&quot; enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
+    "link": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+    "published": "Mon, 12 Oct 2026 20:22:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "04e4e0b908dc5f10de1ac02b038ffa06",
+    "fetched_at": "2026-10-14T22:54:31.531772+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says",
+    "summary": "Pope Leo XIV arrived at Gemelli Hospital in Rome for lung nodule removal after doctors said the growth was identified at a &quot;very early stage.&quot; Doctors later confirmed he had a form of lung cancer.",
+    "link": "https://www.foxnews.com/world/pope-leo-diagnosed-lung-cancer-after-surgeons-remove-part-of-right-lung-vatican",
+    "published": "Tue, 13 Oct 2026 09:24:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e3949193c70e6104722e8d9b6ff8364f",
+    "fetched_at": "2026-10-14T22:54:30.431150+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cartels use drones to scout border agents and map smuggling routes, expert warns",
+    "summary": "The U.S. military detected 378 cartel drone incursions along the Mexico border in 30 days, and experts warn cartels will continue to innovate.",
+    "link": "https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns",
+    "published": "Wed, 14 Oct 2026 15:51:45 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4a167ed5d2ac3aab89215f8b7eb6151f",
+    "fetched_at": "2026-10-14T22:54:29.331077+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Woman found floating in sea after going overboard from Royal Caribbean ship",
+    "summary": "A 44-year-old woman clung to a lifebuoy for 20 hours in the Ionian Sea after reportedly jumping from Royal Caribbean&apos;s Odyssey of the Seas near Zakynthos.",
+    "link": "https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship",
+    "published": "Wed, 14 Oct 2026 16:44:29 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c541f8437450e8c573502ff8b327eaf4",
+    "fetched_at": "2026-10-14T22:54:28.236754+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+    "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 02:05:32 GMT",
+    "source": "BBC News",
+    "id": "d634a51909068e3742d6f973890a153a",
+    "fetched_at": "2026-10-14T22:54:27.127266+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+    "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+    "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 22:19:13 GMT",
+    "source": "BBC News",
+    "id": "37673338c30dda6bb48fb1c7cfb4e9e3",
+    "fetched_at": "2026-10-14T22:54:26.022458+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+    "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+    "source": "BBC News",
+    "id": "997c316f72372db2b429d03a7bb63cf4",
+    "fetched_at": "2026-10-14T22:54:24.912892+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
     "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
     "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "fc1e2f6cbd63fc8b1202bdcd9bd93b54",
     "fetched_at": "2026-10-14T09:10:52.581002+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish police take pro-opposition channel Halk TV off air and arrest 11 in Istanbul raid",
-    "summary": "The move came just hours before the start of the defence's arguments in the sprawling corruption trial of jailed Istanbul mayor Ekrem İmamoğlu and some 400 other defendants.",
-    "link": "https://www.euronews.com/2026/10/14/turkish-police-take-pro-opposition-channel-halk-tv-off-air-and-arrest-11-in-istanbul-raid",
-    "published": "Wed, 14 Oct 2026 10:11:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "993e23ef89721cf5d3f476f07a519f7c",
-    "fetched_at": "2026-10-14T09:10:52.581000+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Storm chaos in Santiago as hail, floods and power cuts slam Chile’s capital",
-    "summary": "Heavy rain, hail and thunderstorms flooded Santiago, Chile, on Tuesday, 13 October, disrupting transport and leaving over 36,000 electricity customers without power. Chile’s disaster agency, Senapred, declared a red alert across the Metropolitan Region.",
-    "link": "https://www.euronews.com/video/2026/10/14/storm-chaos-in-santiago-as-hail-floods-and-power-cuts-slam-chiles-capital",
-    "published": "Wed, 14 Oct 2026 10:13:23 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9d19dc2d003a6e340405b7014e663cd6",
-    "fetched_at": "2026-10-14T09:10:52.580999+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World’s oldest shipwreck discovered off Turkey’s Mediterranean coast",
-    "summary": "Archaeologists say a 4,400- to 4,700-year-old shipwreck found near Kekova Island in southern Turkey carried ceramic storage pots and stone anchors across the Mediterranean.",
-    "link": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast",
-    "published": "Wed, 14 Oct 2026 10:22:48 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9de4c8d01a957d42a75945baf5b25061",
-    "fetched_at": "2026-10-14T09:10:52.580997+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Africa records world's fastest gains in disaster resilience, new study shows",
-    "summary": "The World Risk Poll, which surveyed 143,000 people across 140 countries, found North Africa up five points and Southern Africa up four, driven by expanding internet access and household preparedness. Yet 220 million people affected by disasters in the past five years received no warning.",
-    "link": "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows",
-    "published": "Wed, 14 Oct 2026 10:23:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "c1351b83017e8bbb551dcf94af11b27e",
-    "fetched_at": "2026-10-14T09:10:52.580995+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump faces backlash after posting 'sick' video of UK man killed by tiger",
-    "summary": "The man in the real video, identified by the BBC as William Chapman, later died from his injuries following the Saturday incident, police said.",
-    "link": "https://www.euronews.com/2026/10/14/trump-faces-backlash-after-posting-sick-video-of-uk-man-killed-by-tiger",
-    "published": "Wed, 14 Oct 2026 10:40:30 +0200",
-    "source": "News | Euronews RSS",
-    "id": "148abc7dd70640de34deeb5ba82a22c8",
-    "fetched_at": "2026-10-14T09:10:52.580993+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Duane Davis gets minimum 40 years in prison for orchestrating murder of Tupac Shakur",
-    "summary": "Shakur was a key figure in a hip-hop rivalry pitting the US East Coast against the West Coast. He was just 25 when he was gunned down in Las Vegas.",
-    "link": "https://www.euronews.com/2026/10/14/duane-davis-gets-minimum-40-years-in-prison-for-orchestrating-murder-of-tupac-shakur",
-    "published": "Wed, 14 Oct 2026 11:04:06 +0200",
-    "source": "News | Euronews RSS",
-    "id": "03c4c61c96badad17bf9674da2d49d48",
-    "fetched_at": "2026-10-14T09:10:52.580992+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia arrests Japanese journalist on spying charges",
-    "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 14 Oct 2026 08:00:03 GMT",
-    "source": "BBC News",
-    "id": "74637df5367d580a238b426466e4d1fe",
-    "fetched_at": "2026-10-14T09:10:52.580960+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "World's oldest shipwreck found off coast of Turkey",
-    "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-    "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 14 Oct 2026 05:00:35 GMT",
-    "source": "BBC News",
-    "id": "1605547fe5d885ac65e62621c5b0cadf",
-    "fetched_at": "2026-10-14T09:10:51.487981+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkish police raid opposition TV station, halting live broadcasts",
-    "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 14 Oct 2026 09:08:47 GMT",
-    "source": "BBC News",
-    "id": "d4b7dcafff6e7ea413e6eba1724a26ff",
-    "fetched_at": "2026-10-14T09:10:50.384431+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's diesel deal with Putin angers Europe",
-    "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
-    "link": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
-    "published": "Tue, 13 Oct 2026 04:44:19 -0400",
-    "source": "NPR Topics: World",
-    "id": "39cd5973edcb49a0fd1a648c0b60070f",
-    "fetched_at": "2026-10-14T09:10:49.286138+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-    "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
-    "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-    "published": "Tue, 13 Oct 2026 06:51:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "c579f291d1cc1a3b72f1a6cf421705a0",
-    "fetched_at": "2026-10-14T09:10:48.197926+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-    "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
-    "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-    "published": "Tue, 13 Oct 2026 07:08:14 -0400",
-    "source": "NPR Topics: World",
-    "id": "d0e480cbb648ade438213c10b17af5ea",
-    "fetched_at": "2026-10-14T09:10:47.099059+00:00"
   }
 ]
