@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Russia arrests Japanese journalist on spying charges",
+    "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 08:00:03 GMT",
+    "source": "BBC News",
+    "id": "74637df5367d580a238b426466e4d1fe",
+    "fetched_at": "2026-10-15T02:38:08.094708+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "World's oldest shipwreck found off coast of Turkey",
+    "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+    "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 05:00:35 GMT",
+    "source": "BBC News",
+    "id": "1605547fe5d885ac65e62621c5b0cadf",
+    "fetched_at": "2026-10-15T02:38:06.959941+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkish police raid opposition TV station, halting live broadcasts",
+    "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 10:50:11 GMT",
+    "source": "BBC News",
+    "id": "d4b7dcafff6e7ea413e6eba1724a26ff",
+    "fetched_at": "2026-10-15T02:38:05.817786+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's diesel deal with Putin angers Europe",
+    "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
+    "published": "Tue, 13 Oct 2026 04:44:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "39cd5973edcb49a0fd1a648c0b60070f",
+    "fetched_at": "2026-10-15T02:38:04.677055+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+    "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+    "published": "Tue, 13 Oct 2026 06:51:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "c579f291d1cc1a3b72f1a6cf421705a0",
+    "fetched_at": "2026-10-15T02:38:03.534606+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+    "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
+    "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+    "published": "Tue, 13 Oct 2026 07:08:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "d0e480cbb648ade438213c10b17af5ea",
+    "fetched_at": "2026-10-15T02:38:02.389605+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 01:56:32 GMT",
+    "source": "BBC News",
+    "id": "1a470d5cb9c4df786739dfcb7f834be6",
+    "fetched_at": "2026-10-15T02:38:01.245616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How backlash against data centres could shape the US midterm elections",
+    "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+    "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 14 Oct 2026 23:02:57 GMT",
+    "source": "BBC News",
+    "id": "9e843df59074b3a14e145309b797bb45",
+    "fetched_at": "2026-10-15T02:38:00.101158+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Student protesters attack government buildings in Tirana",
     "summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
     "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "a6d51a065a2876dfe0f413ad06414c6e",
     "fetched_at": "2026-10-14T14:48:25.519337+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-    "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-    "link": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
-    "published": "Wed, 14 Oct 2026 06:44:30 -0400",
-    "source": "NPR Topics: World",
-    "id": "9775478328fe9e7c0d716149f6768273",
-    "fetched_at": "2026-10-14T14:48:24.357317+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-    "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
-    "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-    "published": "Wed, 14 Oct 2026 07:38:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "d18ee9f4273f3598b164ad2cd5989b7c",
-    "fetched_at": "2026-10-14T14:48:23.190541+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US inflation rises more than expected ahead of midterm elections",
-    "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 14 Oct 2026 13:40:36 GMT",
-    "source": "BBC News",
-    "id": "6f43a6d2c1a7c05b4b0744436d909455",
-    "fetched_at": "2026-10-14T14:48:22.014822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
-    "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 14 Oct 2026 07:21:50 GMT",
-    "source": "BBC News",
-    "id": "945fdcf2f953daeec3ef3a368809d8a0",
-    "fetched_at": "2026-10-14T09:10:52.581007+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 14th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-morning",
-    "published": "Wed, 14 Oct 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "259f721b1a32b325e32cac8d7fc5d61c",
-    "fetched_at": "2026-10-14T09:10:52.581006+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe Today: Spanish FM on Euronews, Black Sea drone attacks, EU-China reset",
-    "summary": "Spain is under pressure on multiple fronts: war in Ukraine, a housing crisis, snap elections, and tension with Morocco over Ceuta. In an exclusive interview, Foreign Minister Albares tells how Madrid is coping. Plus: Drone attacks in the Black Sea, an EU-China reset, and Ireland's EU budget plan.",
-    "link": "https://www.euronews.com/2026/10/14/europe-today-spanish-fm-on-euronews-black-sea-drone-attacks-eu-china-reset",
-    "published": "Wed, 14 Oct 2026 08:02:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8e0c70fce55f9d159f930160b148b838",
-    "fetched_at": "2026-10-14T09:10:52.581004+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: Russian missiles hit Kyiv homes and power plant, killing 3 and injuring 22",
-    "summary": "Russian missile and drone strikes on Kyiv killed at least three people, injured 22 and damaged homes and power plants, leaving over 600,000 without electricity.",
-    "link": "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22",
-    "published": "Wed, 14 Oct 2026 09:49:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "ccc6f194ee6600f037b12254aa23cb08",
-    "fetched_at": "2026-10-14T09:10:52.581003+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump blasts 'not nice' Houthis as attack hits Saudi Aramco facility",
-    "summary": "An Aramco building in Dhahran caught fire, and four people were wounded by intercepted missile debris in Riyadh, as Houthi attacks continued after a strike on the capital’s airport killed 13 people in the worst attack on Saudi soil since 2015.",
-    "link": "https://www.euronews.com/2026/10/14/trump-blasts-not-nice-houthis-as-attack-hits-saudi-aramco-facility",
-    "published": "Wed, 14 Oct 2026 10:07:18 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fc1e2f6cbd63fc8b1202bdcd9bd93b54",
-    "fetched_at": "2026-10-14T09:10:52.581002+00:00"
   }
 ]
