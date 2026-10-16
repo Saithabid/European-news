@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Trump's new press secretary leaves after less than a week following controversy",
+    "summary": "Zacharia has long described herself as a lawyer while working as a commentator for conservative outlets such as Fox News and Newsmax.",
+    "link": "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy",
+    "published": "Fri, 16 Oct 2026 21:29:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "8dbbd92d768760b1e9f9fdf24303e795",
+    "fetched_at": "2026-10-16T22:21:52.955627+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Are student protests being manipulated ahead of France's presidential election?",
+    "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+    "source": "BBC News",
+    "id": "1d28e79a543505e287649e22735c9fdc",
+    "fetched_at": "2026-10-16T22:21:52.955624+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump denies limiting Ukraine access to Starlink network",
+    "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 19:33:48 GMT",
+    "source": "BBC News",
+    "id": "94e2e679ba5f0895c651cf07a63b226f",
+    "fetched_at": "2026-10-16T22:21:52.955621+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
+    "summary": "President Donald Trump revealed Pope Leo XIV&apos;s brother is a friend and avid MAGA supporter with memorabilia &quot;all over&quot; his house while wishing the pontiff well.",
+    "link": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
+    "published": "Wed, 14 Oct 2026 23:38:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1fd1539c98b0a410936d8a703abd95ce",
+    "fetched_at": "2026-10-16T22:21:52.955618+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown",
+    "summary": "Salvadoran President Nayib Bukele unveiled a plan to free up to half of 90,000 detainees arrested under the state of emergency targeting gangs.",
+    "link": "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
+    "published": "Thu, 15 Oct 2026 03:01:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "5c12608ec07c9b7d734b5c87832df0b6",
+    "fetched_at": "2026-10-16T22:21:52.955614+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine says its Starshield access is back",
+    "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+    "published": "Thu, 15 Oct 2026 04:46:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "b3ff723582f040736938f93a200bacc9",
+    "fetched_at": "2026-10-16T22:21:52.955587+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "summary": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+    "published": "Thu, 15 Oct 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "b4ac7cd39c8108a5bd988b85c7eceec7",
+    "fetched_at": "2026-10-16T22:21:51.830724+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+    "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+    "published": "Thu, 15 Oct 2026 06:05:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "32d7626948b939d327b1fe29d5e48eba",
+    "fetched_at": "2026-10-16T22:21:50.693057+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+    "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+    "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+    "published": "Thu, 15 Oct 2026 07:31:25 -0400",
+    "source": "NPR Topics: World",
+    "id": "1f095afd005e3b779d098dfb15550471",
+    "fetched_at": "2026-10-16T22:21:49.551554+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US police identify remains of man found in barrel in shrinking reservoir",
+    "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago.",
+    "link": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 01:35:40 GMT",
+    "source": "BBC News",
+    "id": "e7ab2837fb0d51f8ef0ed49d71199736",
+    "fetched_at": "2026-10-16T22:21:48.422018+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tip-off foiled US teen's plot to attack Hindu temple, police say",
+    "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:27:21 GMT",
+    "source": "BBC News",
+    "id": "941fe4dff7e1bc902a62d9ab65cfaef9",
+    "fetched_at": "2026-10-16T22:21:47.282065+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
+    "summary": "The Canadian prime minister is in Alberta for two days to make a final push for unity ahead of Monday’s separation referendum.",
+    "link": "https://www.bbc.co.uk/news/articles/c9rky2vrr5vzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 13:31:07 GMT",
+    "source": "BBC News",
+    "id": "6c1774018d03a21fecfbc5417346d7f4",
+    "fetched_at": "2026-10-16T22:21:46.142643+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we learned from heated US midterm Senate debates",
+    "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+    "source": "BBC News",
+    "id": "2eec5272f81b9f22d1ecb720d963e0fb",
+    "fetched_at": "2026-10-16T22:21:45.009126+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "India's 'cockroach' party founder detained ahead of protest",
     "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
     "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "59cadf7640c0e36b1777c451b8d5a3ec",
     "fetched_at": "2026-10-16T14:26:21.781131+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-    "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-    "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-    "published": "Fri, 16 Oct 2026 07:30:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "a7316600d85f5e01812979b84339f971",
-    "fetched_at": "2026-10-16T14:26:20.660046+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
-    "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-    "published": "Fri, 16 Oct 2026 09:26:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "f76faabd90f25d2d2846c7c395f41e1b",
-    "fetched_at": "2026-10-16T14:26:19.546486+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen?",
-    "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 11:14:58 GMT",
-    "source": "BBC News",
-    "id": "13bbdb917a020c4ec45961cb9a4739d9",
-    "fetched_at": "2026-10-16T14:26:18.450722+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-    "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 17:47:22 GMT",
-    "source": "BBC News",
-    "id": "88a3d7334c3676a2c94595db8e0ba115",
-    "fetched_at": "2026-10-16T14:26:17.323173+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 05:00:17 GMT",
-    "source": "BBC News",
-    "id": "59970a9d40120b9f0878bf37c156f7b4",
-    "fetched_at": "2026-10-16T08:38:53.501557+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three children and one teacher killed in Oregon elementary school shooting",
-    "summary": "Between 400 and 450 children attend Silver Rail Elementary, where more than 40 staff work, a police spokesperson had said earlier.",
-    "link": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
-    "published": "Fri, 16 Oct 2026 05:23:21 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fa1930ed18642aaf13943ce522c93f3c",
-    "fetched_at": "2026-10-16T08:38:53.501555+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 16th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning",
-    "published": "Fri, 16 Oct 2026 07:00:32 +0200",
-    "source": "News | Euronews RSS",
-    "id": "90d9d32a4ea2f9960bb95db8b81eca44",
-    "fetched_at": "2026-10-16T08:38:53.501551+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Candlelight vigil honours victims of Oregon school shooting",
-    "summary": "People gather in Bend, Oregon, to mourn three children and a teacher killed in an elementary school shooting.",
-    "link": "https://www.euronews.com/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting",
-    "published": "Fri, 16 Oct 2026 07:47:37 +0200",
-    "source": "News | Euronews RSS",
-    "id": "bc044bd149ce067ed0d5b3bfec515436",
-    "fetched_at": "2026-10-16T08:38:53.501548+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New White House press secretary Katie Zacharia says China lacked 'proper' toilets",
-    "summary": "Zacharia is already under scrutiny over her legal credentials, after giving an inconclusive answer about where she had passed the bar exam, a prerequisite for practicing law in the United States.",
-    "link": "https://www.euronews.com/2026/10/16/new-white-house-press-secretary-katie-zacharia-says-china-lacked-proper-toilets",
-    "published": "Fri, 16 Oct 2026 08:13:09 +0200",
-    "source": "News | Euronews RSS",
-    "id": "004086496d787234d2b1ec75628d3a4e",
-    "fetched_at": "2026-10-16T08:38:53.501545+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkey: Worst rainfall in 80 years unleashes deadly floods near Istanbul",
-    "summary": "Torrential rain has turned streets into rivers near Istanbul, overturning vehicles and cutting off power. At least 3 people have died and 5 remain missing as emergency crews clear the wreckage.",
-    "link": "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul",
-    "published": "Fri, 16 Oct 2026 08:49:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "208a16456f8320bf7b92d7136d730d3a",
-    "fetched_at": "2026-10-16T08:38:53.501542+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Syria arrests 'Butcher of Baniyas' accused of 2013 coastal massacres",
-    "summary": "Ali Kayali, 70, known as Mihrac Ural, commanded al-Assad-affiliated militia forces that carried out summary executions of more than 450 civilians in Bayda and Baniyas in May 2013.",
-    "link": "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres",
-    "published": "Fri, 16 Oct 2026 09:33:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "827f5c26e9e2ba4b5c9f21496e0e0f16",
-    "fetched_at": "2026-10-16T08:38:53.501538+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030",
-    "summary": "With the planned tax increase, the German government is aiming to raise an additional €12 billion over four years.",
-    "link": "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030",
-    "published": "Fri, 16 Oct 2026 09:44:01 +0200",
-    "source": "News | Euronews RSS",
-    "id": "2a5d7d78dc37614ef99838a489261606",
-    "fetched_at": "2026-10-16T08:38:53.501512+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "They fled Russia, but the West sent them back",
-    "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 04:57:28 GMT",
-    "source": "BBC News",
-    "id": "cfe2ffa6df33ddbf53e87ad9b6d4ce64",
-    "fetched_at": "2026-10-16T08:38:52.406108+00:00"
   }
 ]
