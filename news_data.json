@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 05:00:17 GMT",
+    "source": "BBC News",
+    "id": "59970a9d40120b9f0878bf37c156f7b4",
+    "fetched_at": "2026-10-16T08:38:53.501557+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Three children and one teacher killed in Oregon elementary school shooting",
+    "summary": "Between 400 and 450 children attend Silver Rail Elementary, where more than 40 staff work, a police spokesperson had said earlier.",
+    "link": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
+    "published": "Fri, 16 Oct 2026 05:23:21 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fa1930ed18642aaf13943ce522c93f3c",
+    "fetched_at": "2026-10-16T08:38:53.501555+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 16th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning",
+    "published": "Fri, 16 Oct 2026 07:00:32 +0200",
+    "source": "News | Euronews RSS",
+    "id": "90d9d32a4ea2f9960bb95db8b81eca44",
+    "fetched_at": "2026-10-16T08:38:53.501551+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Candlelight vigil honours victims of Oregon school shooting",
+    "summary": "People gather in Bend, Oregon, to mourn three children and a teacher killed in an elementary school shooting.",
+    "link": "https://www.euronews.com/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting",
+    "published": "Fri, 16 Oct 2026 07:47:37 +0200",
+    "source": "News | Euronews RSS",
+    "id": "bc044bd149ce067ed0d5b3bfec515436",
+    "fetched_at": "2026-10-16T08:38:53.501548+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New White House press secretary Katie Zacharia says China lacked 'proper' toilets",
+    "summary": "Zacharia is already under scrutiny over her legal credentials, after giving an inconclusive answer about where she had passed the bar exam, a prerequisite for practicing law in the United States.",
+    "link": "https://www.euronews.com/2026/10/16/new-white-house-press-secretary-katie-zacharia-says-china-lacked-proper-toilets",
+    "published": "Fri, 16 Oct 2026 08:13:09 +0200",
+    "source": "News | Euronews RSS",
+    "id": "004086496d787234d2b1ec75628d3a4e",
+    "fetched_at": "2026-10-16T08:38:53.501545+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkey: Worst rainfall in 80 years unleashes deadly floods near Istanbul",
+    "summary": "Torrential rain has turned streets into rivers near Istanbul, overturning vehicles and cutting off power. At least 3 people have died and 5 remain missing as emergency crews clear the wreckage.",
+    "link": "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul",
+    "published": "Fri, 16 Oct 2026 08:49:25 +0200",
+    "source": "News | Euronews RSS",
+    "id": "208a16456f8320bf7b92d7136d730d3a",
+    "fetched_at": "2026-10-16T08:38:53.501542+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Syria arrests 'Butcher of Baniyas' accused of 2013 coastal massacres",
+    "summary": "Ali Kayali, 70, known as Mihrac Ural, commanded al-Assad-affiliated militia forces that carried out summary executions of more than 450 civilians in Bayda and Baniyas in May 2013.",
+    "link": "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres",
+    "published": "Fri, 16 Oct 2026 09:33:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "827f5c26e9e2ba4b5c9f21496e0e0f16",
+    "fetched_at": "2026-10-16T08:38:53.501538+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany set to hike tobacco tax: Cigarette packs could reach close to €12 by 2030",
+    "summary": "With the planned tax increase, the German government is aiming to raise an additional €12 billion over four years.",
+    "link": "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030",
+    "published": "Fri, 16 Oct 2026 09:44:01 +0200",
+    "source": "News | Euronews RSS",
+    "id": "2a5d7d78dc37614ef99838a489261606",
+    "fetched_at": "2026-10-16T08:38:53.501512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "They fled Russia, but the West sent them back",
+    "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 04:57:28 GMT",
+    "source": "BBC News",
+    "id": "cfe2ffa6df33ddbf53e87ad9b6d4ce64",
+    "fetched_at": "2026-10-16T08:38:52.406108+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Are student protests being manipulated ahead of France's presidential election?",
+    "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+    "source": "BBC News",
+    "id": "1d28e79a543505e287649e22735c9fdc",
+    "fetched_at": "2026-10-16T08:38:51.301644+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine says its Starshield access is back",
+    "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+    "published": "Thu, 15 Oct 2026 04:46:09 -0400",
+    "source": "NPR Topics: World",
+    "id": "b3ff723582f040736938f93a200bacc9",
+    "fetched_at": "2026-10-16T08:38:50.198495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "summary": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+    "published": "Thu, 15 Oct 2026 06:00:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "b4ac7cd39c8108a5bd988b85c7eceec7",
+    "fetched_at": "2026-10-16T08:38:49.100157+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+    "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+    "published": "Thu, 15 Oct 2026 06:05:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "32d7626948b939d327b1fe29d5e48eba",
+    "fetched_at": "2026-10-16T08:38:47.988969+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+    "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+    "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+    "published": "Thu, 15 Oct 2026 07:31:25 -0400",
+    "source": "NPR Topics: World",
+    "id": "1f095afd005e3b779d098dfb15550471",
+    "fetched_at": "2026-10-16T08:38:46.879686+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Tip-off foiled US teen's plot to attack Hindu temple, police say",
+    "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:27:21 GMT",
+    "source": "BBC News",
+    "id": "941fe4dff7e1bc902a62d9ab65cfaef9",
+    "fetched_at": "2026-10-16T08:38:45.779748+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
     "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
     "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "e6f39b3947ffc85f81bbd746af5ba8eb",
     "fetched_at": "2026-10-15T14:35:12.190905+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-    "summary": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
-    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 12:28:26 GMT",
-    "source": "BBC News",
-    "id": "646f12735cab4dc05c22e6811c2fca56",
-    "fetched_at": "2026-10-15T14:35:12.190904+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-    "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 14:34:22 GMT",
-    "source": "BBC News",
-    "id": "88a3d7334c3676a2c94595db8e0ba115",
-    "fetched_at": "2026-10-15T14:35:12.190902+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 15th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
-    "published": "Thu, 15 Oct 2026 12:00:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "82dca1afc2270ddf597fe36d18cb3f10",
-    "fetched_at": "2026-10-15T14:35:12.190901+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia detains Swedish citizen as Moscow eyes future prisoner swaps",
-    "summary": "The FSB arrested the Swedish citizen in Pskov region on terrorism charges and Japanese journalist Yuki Imai on Sakhalin on espionage charges, days after former president Medvedev wrote that Russia may need to “fill up the exchange pool with European and American idiots” to recover Russians abroad.",
-    "link": "https://www.euronews.com/2026/10/15/russia-detains-swedish-citizen-as-moscow-eyes-future-prisoner-swaps",
-    "published": "Thu, 15 Oct 2026 12:25:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "9cc809e865979757c4524c142fbb7a9a",
-    "fetched_at": "2026-10-15T14:35:12.190899+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Azerbaijan engineers rare summit with in-conflict Middle East and Asian leaders",
-    "summary": "Israel and Iran have met for a rare “confidence-building measures” summit in Baku, with Azerbaijan saying it serves as “a connecting hub in the Eurasian space.”",
-    "link": "https://www.euronews.com/2026/10/15/azerbaijan-engineers-rare-summit-with-in-conflict-middle-east-and-asian-leaders",
-    "published": "Thu, 15 Oct 2026 12:44:22 +0200",
-    "source": "News | Euronews RSS",
-    "id": "dafdd39eded7c2706ec270c806a2eb9a",
-    "fetched_at": "2026-10-15T14:35:12.190897+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
-    "summary": "A school roof collapsed in Peshawar, northwestern Pakistan, on Thursday 15 October, killing at least 32 pupils and a teacher. Officials said the roof was structurally weak and had been overloaded by construction work. The school’s owner was arrested and an investigation launched.",
-    "link": "https://www.euronews.com/video/2026/10/15/pakistan-classrooms-reduced-to-rubble-in-deadly-school-disaster-at-leat-32-pupils-killed",
-    "published": "Thu, 15 Oct 2026 15:03:19 +0200",
-    "source": "News | Euronews RSS",
-    "id": "f57ad0b9e6ce622ee4b06e85b59e1c1c",
-    "fetched_at": "2026-10-15T14:35:12.190896+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK: Frieze London blurs the lines between art, gaming and reality",
-    "summary": "Visitors to Frieze London in the UK are becoming part of the artworks themselves, climbing a giant interactive spider, entering virtual worlds and taking part in installations that turn spectators into participants.",
-    "link": "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality",
-    "published": "Thu, 15 Oct 2026 16:12:02 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4b9e8e8ddce103c67c558d05bf2fa25b",
-    "fetched_at": "2026-10-15T14:35:12.190894+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-    "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-    "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 10:05:29 GMT",
-    "source": "BBC News",
-    "id": "04115ee8281373ade6a2ef1f7cec5b25",
-    "fetched_at": "2026-10-15T14:35:12.190892+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-    "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 12:03:51 GMT",
-    "source": "BBC News",
-    "id": "5ab7ecc06b7b73aa74c0e58235e34315",
-    "fetched_at": "2026-10-15T14:35:12.190890+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "African nations on ‘knife’s edge’ as US embassy warns Americans of long-range attacks",
-    "summary": "With regional tensions mounting, the Horn of Africa risks war between Ethiopia and Eritrea. Following attacks in Addis Ababa, the U.S. Embassy warned citizens of long-range threats.",
-    "link": "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks",
-    "published": "Wed, 14 Oct 2026 10:39:14 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c3078832f6e21abf15f07d95a3781ab3",
-    "fetched_at": "2026-10-15T14:35:12.190888+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN inquiry member says some genocide claims against Israel unverified as Gaza reports population growth",
-    "summary": "Experts say Palestinian Ministry of Health mortality figures contradict famine declarations and genocide allegations as Gaza&apos;s population grew in 2025.",
-    "link": "https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth",
-    "published": "Thu, 15 Oct 2026 08:37:38 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0598f351670f0bd3e4bbe0f1a510ad04",
-    "fetched_at": "2026-10-15T14:35:12.190885+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Not wanted': Irish hotel reportedly cancels 70 rooms reserved for antisemitism conference attendees",
-    "summary": "Jewish Representative Council of Ireland chairman Maurice Cohen says a Dublin hotel rejected an antisemitism conference after its manager questioned IDF involvement.",
-    "link": "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
-    "published": "Thu, 15 Oct 2026 09:30:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c451875d855dafe1401fcbbf40a32ffc",
-    "fetched_at": "2026-10-15T14:35:12.190883+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Albania rioters clash with police for Socialist government as European unrest spreads",
-    "summary": "Albanian Prime Minister Edi Rama vowed not to resign as protests in Tirana erupted for a third day, with police deploying tear gas and water cannons.",
-    "link": "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
-    "published": "Thu, 15 Oct 2026 09:44:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6fe967da959703f6eb4e04ceb6f8e353",
-    "fetched_at": "2026-10-15T14:35:12.190881+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "These workers help train robots who could one day steal their jobs",
-    "summary": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
-    "link": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-    "published": "Wed, 14 Oct 2026 05:28:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "a6d51a065a2876dfe0f413ad06414c6e",
-    "fetched_at": "2026-10-15T14:35:12.190846+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
-    "summary": "NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.",
-    "link": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
-    "published": "Thu, 15 Oct 2026 04:46:05 -0400",
-    "source": "NPR Topics: World",
-    "id": "0326afe5a91ac6e5858921102c339678",
-    "fetched_at": "2026-10-15T14:35:11.090189+00:00"
   }
 ]
