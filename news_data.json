@@ -1,6 +1,66 @@
 [
   {
     "region": "Europe",
+    "title": "Pope pictured for first time since surgery and cancer diagnosis",
+    "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 23:20:37 GMT",
+    "source": "BBC News",
+    "id": "74873596d5baf69dfc2fd8a97bb266b4",
+    "fetched_at": "2026-10-17T19:55:25.973648+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former US ambassador says South Korea prosecuted him over speech made on American soil",
+    "summary": "Ambassador Morse Tan faces trial in South Korea over comments he made about crimes allegedly committed by its president, claims Korean authorities have refuted.",
+    "link": "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
+    "published": "Sat, 17 Oct 2026 13:31:01 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "516864e18713bc44a0efeaf21ccb87d6",
+    "fetched_at": "2026-10-17T19:55:24.867041+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
+    "summary": "Three men were sentenced to 158 years each in Ensenada, Baja California, for the murders of surfers Callum and Jake Robinson and Carter Redd Rhoad.",
+    "link": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
+    "published": "Sat, 17 Oct 2026 13:38:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1e1355396b3a67423a141505f76806a",
+    "fetched_at": "2026-10-17T19:55:23.740107+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
+    "summary": "The Canadian prime minister is in Alberta for two days to make a final push for unity ahead of Monday’s separation referendum.",
+    "link": "https://www.bbc.co.uk/news/articles/c9rky2vrr5vzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 13:31:07 GMT",
+    "source": "BBC News",
+    "id": "6c1774018d03a21fecfbc5417346d7f4",
+    "fetched_at": "2026-10-17T19:55:22.636974+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US police identify remains of man found in barrel in shrinking reservoir",
+    "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago.",
+    "link": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 01:35:40 GMT",
+    "source": "BBC News",
+    "id": "e7ab2837fb0d51f8ef0ed49d71199736",
+    "fetched_at": "2026-10-17T19:55:21.526630+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we learned from heated US midterm Senate debates",
+    "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+    "source": "BBC News",
+    "id": "2eec5272f81b9f22d1ecb720d963e0fb",
+    "fetched_at": "2026-10-17T19:55:20.402810+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
     "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
     "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
@@ -538,65 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "8dbbd92d768760b1e9f9fdf24303e795",
     "fetched_at": "2026-10-16T22:21:52.955627+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Are student protests being manipulated ahead of France's presidential election?",
-    "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 23:25:06 GMT",
-    "source": "BBC News",
-    "id": "1d28e79a543505e287649e22735c9fdc",
-    "fetched_at": "2026-10-16T22:21:52.955624+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump denies limiting Ukraine access to Starlink network",
-    "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 19:33:48 GMT",
-    "source": "BBC News",
-    "id": "94e2e679ba5f0895c651cf07a63b226f",
-    "fetched_at": "2026-10-16T22:21:52.955621+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
-    "summary": "President Donald Trump revealed Pope Leo XIV&apos;s brother is a friend and avid MAGA supporter with memorabilia &quot;all over&quot; his house while wishing the pontiff well.",
-    "link": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
-    "published": "Wed, 14 Oct 2026 23:38:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "1fd1539c98b0a410936d8a703abd95ce",
-    "fetched_at": "2026-10-16T22:21:52.955618+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown",
-    "summary": "Salvadoran President Nayib Bukele unveiled a plan to free up to half of 90,000 detainees arrested under the state of emergency targeting gangs.",
-    "link": "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
-    "published": "Thu, 15 Oct 2026 03:01:59 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5c12608ec07c9b7d734b5c87832df0b6",
-    "fetched_at": "2026-10-16T22:21:52.955614+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine says its Starshield access is back",
-    "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
-    "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
-    "published": "Thu, 15 Oct 2026 04:46:09 -0400",
-    "source": "NPR Topics: World",
-    "id": "b3ff723582f040736938f93a200bacc9",
-    "fetched_at": "2026-10-16T22:21:52.955587+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
-    "summary": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
-    "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-    "published": "Thu, 15 Oct 2026 06:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "b4ac7cd39c8108a5bd988b85c7eceec7",
-    "fetched_at": "2026-10-16T22:21:51.830724+00:00"
   }
 ]
