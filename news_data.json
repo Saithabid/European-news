@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+    "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 22:09:50 GMT",
+    "source": "BBC News",
+    "id": "6f9e3a657de63ca8d4f78a14af2c2195",
+    "fetched_at": "2026-10-17T23:41:05.937003+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+    "summary": "Rioters set fire to the historic Limoges Town Hall, collapsing its roof and destroying much of the landmark as France&apos;s protests rage on.",
+    "link": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
+    "published": "Sat, 17 Oct 2026 18:56:37 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "57e4069527343acd2cc8ce4683385436",
+    "fetched_at": "2026-10-17T23:41:04.797353+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group",
+    "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+    "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+    "published": "Fri, 16 Oct 2026 07:30:31 -0400",
+    "source": "NPR Topics: World",
+    "id": "a7316600d85f5e01812979b84339f971",
+    "fetched_at": "2026-10-17T23:41:03.648286+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+    "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
+    "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+    "published": "Fri, 16 Oct 2026 09:26:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "f76faabd90f25d2d2846c7c395f41e1b",
+    "fetched_at": "2026-10-17T23:41:02.498460+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen?",
+    "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
+    "link": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 11:14:58 GMT",
+    "source": "BBC News",
+    "id": "13bbdb917a020c4ec45961cb9a4739d9",
+    "fetched_at": "2026-10-17T23:41:01.353782+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+    "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+    "source": "BBC News",
+    "id": "88a3d7334c3676a2c94595db8e0ba115",
+    "fetched_at": "2026-10-17T23:41:00.204448+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+    "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 19:13:21 GMT",
+    "source": "BBC News",
+    "id": "4c192b0010469ce9729f1c2d0328ccce",
+    "fetched_at": "2026-10-17T23:40:59.003403+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+    "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 01:55:45 GMT",
+    "source": "BBC News",
+    "id": "d31ce62d4cf9558630636e8489cb8804",
+    "fetched_at": "2026-10-17T23:40:57.841442+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "At least 17 dead in crush at Hindu festival event in India",
     "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
     "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "59cadf7640c0e36b1777c451b8d5a3ec",
     "fetched_at": "2026-10-17T08:10:03.827209+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 07:41:01 GMT",
-    "source": "BBC News",
-    "id": "75ef65a0b0191769cc026f733865936b",
-    "fetched_at": "2026-10-17T08:10:02.675162+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-    "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 05:00:17 GMT",
-    "source": "BBC News",
-    "id": "59970a9d40120b9f0878bf37c156f7b4",
-    "fetched_at": "2026-10-17T02:26:19.242860+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Katie Zacharia leaving her White House role less than five days on the job",
-    "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
-    "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 21:05:05 GMT",
-    "source": "BBC News",
-    "id": "a7423586ec665272525f59dfb4cc703a",
-    "fetched_at": "2026-10-17T02:26:19.242857+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-    "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 01:19:04 GMT",
-    "source": "BBC News",
-    "id": "b5023ce66fd312d22bbcd65aba07f122",
-    "fetched_at": "2026-10-17T02:26:19.242853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "They fled Russia, but the West sent them back",
-    "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 04:57:28 GMT",
-    "source": "BBC News",
-    "id": "cfe2ffa6df33ddbf53e87ad9b6d4ce64",
-    "fetched_at": "2026-10-17T02:26:19.242851+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-    "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 23:07:18 GMT",
-    "source": "BBC News",
-    "id": "c54191d67ceac278ebf7db3f551c1419",
-    "fetched_at": "2026-10-17T02:26:19.242847+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-    "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 23:54:35 GMT",
-    "source": "BBC News",
-    "id": "7998c1c7c09b6a52b8ccbf835606a586",
-    "fetched_at": "2026-10-17T02:26:19.242819+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-    "summary": "Pope Leo called Vladimir Putin from his hospital bed to urge a ceasefire in Oleshky, Ukraine, where food deliveries have been blocked since May.",
-    "link": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-    "published": "Fri, 16 Oct 2026 19:10:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7a2e0654e6d19cc2c04020a4a871a059",
-    "fetched_at": "2026-10-17T02:26:18.087142+00:00"
   }
 ]
