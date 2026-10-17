@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "At least 17 dead in crush at Hindu festival event in India",
+    "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 19:19:16 GMT",
+    "source": "BBC News",
+    "id": "c61c28c715da5fb974884ee629aa4ea2",
+    "fetched_at": "2026-10-17T21:55:09.674016+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 18:38:57 GMT",
+    "source": "BBC News",
+    "id": "f77abaf8e1d318017ff3feb802fb070e",
+    "fetched_at": "2026-10-17T21:55:08.579079+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "summary": "Limoges town hall, a 143-year-old building in central France, was set on fire amid unrest following nationwide protests over the cost of living.",
+    "link": "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+    "published": "Sat, 17 Oct 2026 22:55:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "638e4fe0f1446b6fe6358ab6e0ee74ec",
+    "fetched_at": "2026-10-17T21:55:07.470563+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anti-government protesters battle with police in Albania",
+    "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 20:53:00 GMT",
+    "source": "BBC News",
+    "id": "fef00bd28322490eed66ae1a58b41e31",
+    "fetched_at": "2026-10-17T21:55:06.363472+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+    "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 20:52:17 GMT",
+    "source": "BBC News",
+    "id": "30aae8c7e104a205956d9b78a9afe7ee",
+    "fetched_at": "2026-10-17T21:55:05.263842+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+    "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+    "published": "Sat, 17 Oct 2026 17:18:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "df439570f17a9fcb37a58583093f4e1b",
+    "fetched_at": "2026-10-17T21:55:04.163598+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student protests widen into greater social unrest in France",
+    "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+    "published": "Sat, 17 Oct 2026 17:18:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "ec3b43828c6a2c145963979f3cf4c8ab",
+    "fetched_at": "2026-10-17T21:55:03.048456+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Pope pictured for first time since surgery and cancer diagnosis",
     "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
     "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "7a2e0654e6d19cc2c04020a4a871a059",
     "fetched_at": "2026-10-17T02:26:18.087142+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-    "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-    "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-    "published": "Fri, 16 Oct 2026 07:30:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "a7316600d85f5e01812979b84339f971",
-    "fetched_at": "2026-10-17T02:26:16.941727+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
-    "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-    "published": "Fri, 16 Oct 2026 09:26:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "f76faabd90f25d2d2846c7c395f41e1b",
-    "fetched_at": "2026-10-17T02:26:15.800045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen?",
-    "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 11:14:58 GMT",
-    "source": "BBC News",
-    "id": "13bbdb917a020c4ec45961cb9a4739d9",
-    "fetched_at": "2026-10-17T02:26:14.654838+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-    "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 17:47:22 GMT",
-    "source": "BBC News",
-    "id": "88a3d7334c3676a2c94595db8e0ba115",
-    "fetched_at": "2026-10-17T02:26:13.489855+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Evacuation orders as fast-moving California wildfire burns homes",
-    "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 01:36:39 GMT",
-    "source": "BBC News",
-    "id": "4c192b0010469ce9729f1c2d0328ccce",
-    "fetched_at": "2026-10-17T02:26:12.344565+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-    "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 01:55:45 GMT",
-    "source": "BBC News",
-    "id": "d31ce62d4cf9558630636e8489cb8804",
-    "fetched_at": "2026-10-17T02:26:11.190996+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump's new press secretary leaves after less than a week following controversy",
-    "summary": "Zacharia has long described herself as a lawyer while working as a commentator for conservative outlets such as Fox News and Newsmax.",
-    "link": "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy",
-    "published": "Fri, 16 Oct 2026 21:29:33 +0200",
-    "source": "News | Euronews RSS",
-    "id": "8dbbd92d768760b1e9f9fdf24303e795",
-    "fetched_at": "2026-10-16T22:21:52.955627+00:00"
   }
 ]
