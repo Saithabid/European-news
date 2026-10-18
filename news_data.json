@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+    "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+    "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 19:53:27 GMT",
+    "source": "BBC News",
+    "id": "c86429f6d299f3c3cd9372aeb45cda92",
+    "fetched_at": "2026-10-18T22:08:03.135889+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+    "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+    "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+    "source": "BBC News",
+    "id": "dad5519d5dafd6251e47f84bed0db656",
+    "fetched_at": "2026-10-18T22:08:02.014775+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
+    "summary": "Three men were sentenced to 158 years each in Ensenada, Baja California, for the murders of surfers Callum and Jake Robinson and Carter Redd Rhoad.",
+    "link": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
+    "published": "Sat, 17 Oct 2026 13:38:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e1e1355396b3a67423a141505f76806a",
+    "fetched_at": "2026-10-18T22:08:00.898977+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "French newspaper rips Macron after riots erupt across France: ‘Indelible stain’",
+    "summary": "The scathing critique in newspaper Le Figaro took aim at Macron, France’s justice system and immigration policies after nationwide protests erupted into violence.",
+    "link": "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
+    "published": "Sun, 18 Oct 2026 16:54:03 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "58af347b9fa095cb01929e0dffcca81a",
+    "fetched_at": "2026-10-18T22:07:59.776980+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Priest killed by falling crucifix during livestreamed Mass as worshippers rush to help",
+    "summary": "Video captures the moment a large wooden crucifix fell on Father Patricio Alfredo Sánchez Molinari during a livestreamed Mass in Guayaquil, Ecuador.",
+    "link": "https://www.foxnews.com/world/priest-killed-falling-crucifix-livestreamed-mass-worshippers-rush-help",
+    "published": "Sun, 18 Oct 2026 17:00:55 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bda6159b0302655448c1590e14718731",
+    "fetched_at": "2026-10-18T22:07:58.640385+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+    "published": "Sun, 18 Oct 2026 17:00:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "75d9957052277e81fd940be582db7416",
+    "fetched_at": "2026-10-18T22:07:57.517505+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Political rivals implicated under Pakistan's anti-terror law",
+    "summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+    "published": "Sun, 18 Oct 2026 17:00:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "9ae116f50ba976d0c0f363cac1b9de13",
+    "fetched_at": "2026-10-18T22:07:56.348123+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we learned from heated US midterm Senate debates",
+    "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+    "source": "BBC News",
+    "id": "2eec5272f81b9f22d1ecb720d963e0fb",
+    "fetched_at": "2026-10-18T22:07:55.215267+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Macron calls for calm in France and warns rioting must not escalate",
     "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
     "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "BBC News",
     "id": "4c192b0010469ce9729f1c2d0328ccce",
     "fetched_at": "2026-10-17T23:40:59.003403+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-    "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 01:55:45 GMT",
-    "source": "BBC News",
-    "id": "d31ce62d4cf9558630636e8489cb8804",
-    "fetched_at": "2026-10-17T23:40:57.841442+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least 17 dead in crush at Hindu festival event in India",
-    "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-    "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 19:19:16 GMT",
-    "source": "BBC News",
-    "id": "c61c28c715da5fb974884ee629aa4ea2",
-    "fetched_at": "2026-10-17T21:55:09.674016+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 18:38:57 GMT",
-    "source": "BBC News",
-    "id": "f77abaf8e1d318017ff3feb802fb070e",
-    "fetched_at": "2026-10-17T21:55:08.579079+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Historic Limoges town hall engulfed in flames amid protests in France",
-    "summary": "Limoges town hall, a 143-year-old building in central France, was set on fire amid unrest following nationwide protests over the cost of living.",
-    "link": "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
-    "published": "Sat, 17 Oct 2026 22:55:12 +0200",
-    "source": "News | Euronews RSS",
-    "id": "638e4fe0f1446b6fe6358ab6e0ee74ec",
-    "fetched_at": "2026-10-17T21:55:07.470563+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anti-government protesters battle with police in Albania",
-    "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 20:53:00 GMT",
-    "source": "BBC News",
-    "id": "fef00bd28322490eed66ae1a58b41e31",
-    "fetched_at": "2026-10-17T21:55:06.363472+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-    "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 20:52:17 GMT",
-    "source": "BBC News",
-    "id": "30aae8c7e104a205956d9b78a9afe7ee",
-    "fetched_at": "2026-10-17T21:55:05.263842+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
-    "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
-    "published": "Sat, 17 Oct 2026 17:18:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "df439570f17a9fcb37a58583093f4e1b",
-    "fetched_at": "2026-10-17T21:55:04.163598+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Student protests widen into greater social unrest in France",
-    "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
-    "published": "Sat, 17 Oct 2026 17:18:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "ec3b43828c6a2c145963979f3cf4c8ab",
-    "fetched_at": "2026-10-17T21:55:03.048456+00:00"
   }
 ]
