@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Macron calls for calm in France and warns rioting must not escalate",
+    "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
+    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 19:14:10 GMT",
+    "source": "BBC News",
+    "id": "4ac472c24219bb0b1ad543f064b62ce2",
+    "fetched_at": "2026-10-18T19:55:25.373864+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Violence erupts at France protests as Macron warns unrest is being exploited",
+    "summary": "French President Emmanuel Macron called for calm as tear gas, water cannons and over 8,000 arrests mark weeks of violent clashes across the country.",
+    "link": "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
+    "published": "Sat, 17 Oct 2026 12:03:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "178c39a41d1c2946a14d77cc99cf770f",
+    "fetched_at": "2026-10-18T19:55:24.219365+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian PM Carney says 4 service members killed, dozens injured in military base fire",
+    "summary": "Canadian Prime Minister Mark Carney confirmed four service members died after fierce 62 mph winds fueled flames at CFB Wainwright, Alberta.",
+    "link": "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
+    "published": "Sun, 18 Oct 2026 13:54:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "8736080cbeceeb8a278659d8c1c3ecc9",
+    "fetched_at": "2026-10-18T19:55:23.085592+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+    "published": "Sat, 17 Oct 2026 10:25:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "968ddf41fb81da22f0710d10b7a43afc",
+    "fetched_at": "2026-10-18T19:55:21.926943+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+    "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+    "published": "Sat, 17 Oct 2026 11:10:14 -0400",
+    "source": "NPR Topics: World",
+    "id": "21741e7c9ff512c331f9540d59e72dcf",
+    "fetched_at": "2026-10-18T19:55:20.781843+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
+    "summary": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+    "published": "Sat, 17 Oct 2026 11:57:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "de2079a6b2352e20f823a1ad9846b1b0",
+    "fetched_at": "2026-10-18T19:55:19.643940+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+    "published": "Sun, 18 Oct 2026 14:38:49 -0400",
+    "source": "NPR Topics: World",
+    "id": "900472b0067e420237a8abeee37ec73b",
+    "fetched_at": "2026-10-18T19:55:18.508127+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we know so far about deadly fire at Canadian military base",
+    "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 19:42:37 GMT",
+    "source": "BBC News",
+    "id": "49dcdeaa688fe382e96c93beeae4624a",
+    "fetched_at": "2026-10-18T19:55:17.355093+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Search for Amelia Earhart's plane resumes after stormy weather",
     "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
     "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "NPR Topics: World",
     "id": "ec3b43828c6a2c145963979f3cf4c8ab",
     "fetched_at": "2026-10-17T21:55:03.048456+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope pictured for first time since surgery and cancer diagnosis",
-    "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 23:20:37 GMT",
-    "source": "BBC News",
-    "id": "74873596d5baf69dfc2fd8a97bb266b4",
-    "fetched_at": "2026-10-17T19:55:25.973648+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former US ambassador says South Korea prosecuted him over speech made on American soil",
-    "summary": "Ambassador Morse Tan faces trial in South Korea over comments he made about crimes allegedly committed by its president, claims Korean authorities have refuted.",
-    "link": "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
-    "published": "Sat, 17 Oct 2026 13:31:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "516864e18713bc44a0efeaf21ccb87d6",
-    "fetched_at": "2026-10-17T19:55:24.867041+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
-    "summary": "Three men were sentenced to 158 years each in Ensenada, Baja California, for the murders of surfers Callum and Jake Robinson and Carter Redd Rhoad.",
-    "link": "https://www.foxnews.com/world/three-men-158-years-murdering-american-australian-surfers-dumping-bodies-mexican-well",
-    "published": "Sat, 17 Oct 2026 13:38:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e1e1355396b3a67423a141505f76806a",
-    "fetched_at": "2026-10-17T19:55:23.740107+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada PM warns 'stakes are high' as Alberta separation vote nears",
-    "summary": "The Canadian prime minister is in Alberta for two days to make a final push for unity ahead of Monday’s separation referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/c9rky2vrr5vzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 13:31:07 GMT",
-    "source": "BBC News",
-    "id": "6c1774018d03a21fecfbc5417346d7f4",
-    "fetched_at": "2026-10-17T19:55:22.636974+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US police identify remains of man found in barrel in shrinking reservoir",
-    "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago.",
-    "link": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 01:35:40 GMT",
-    "source": "BBC News",
-    "id": "e7ab2837fb0d51f8ef0ed49d71199736",
-    "fetched_at": "2026-10-17T19:55:21.526630+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What we learned from heated US midterm Senate debates",
-    "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
-    "link": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 19:09:37 GMT",
-    "source": "BBC News",
-    "id": "2eec5272f81b9f22d1ecb720d963e0fb",
-    "fetched_at": "2026-10-17T19:55:20.402810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-    "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 00:38:34 GMT",
-    "source": "BBC News",
-    "id": "045700eeec2f0ea797ea7c57c29df826",
-    "fetched_at": "2026-10-17T16:46:04.440173+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tourism office set ablaze during cost-of-living protests in Lyon",
-    "summary": "A branch of Lyon’s tourist office was vandalised and set on fire during nationwide protests over rising prices in France.",
-    "link": "https://www.euronews.com/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon",
-    "published": "Sat, 17 Oct 2026 17:30:55 +0200",
-    "source": "News | Euronews RSS",
-    "id": "6318dd4600406ccf3b0fd720d02fed2e",
-    "fetched_at": "2026-10-17T16:46:04.440170+00:00"
   }
 ]
