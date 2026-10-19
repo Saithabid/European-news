@@ -1,6 +1,166 @@
 [
   {
     "region": "Europe",
+    "title": "Australian Greens senator denies claims of misconduct towards women",
+    "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 01:32:40 GMT",
+    "source": "BBC News",
+    "id": "cb23f142ed9f57a3fece7de127b54dfe",
+    "fetched_at": "2026-10-19T02:40:24.610532+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+    "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 01:50:48 GMT",
+    "source": "BBC News",
+    "id": "40a781710260392d98690e671c73ebdb",
+    "fetched_at": "2026-10-19T02:40:24.610529+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Historic Limoges town hall engulfed in flames amid protests in France",
+    "summary": "Limoges town hall, a 143-year-old building in central France, was set on fire amid unrest following nationwide protests over the cost of living.",
+    "link": "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+    "published": "Sat, 17 Oct 2026 22:55:12 +0200",
+    "source": "News | Euronews RSS",
+    "id": "638e4fe0f1446b6fe6358ab6e0ee74ec",
+    "fetched_at": "2026-10-19T02:40:24.610526+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Anti-government protesters battle with police in Albania",
+    "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+    "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 20:53:00 GMT",
+    "source": "BBC News",
+    "id": "fef00bd28322490eed66ae1a58b41e31",
+    "fetched_at": "2026-10-19T02:40:24.610523+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+    "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+    "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 23:28:45 GMT",
+    "source": "BBC News",
+    "id": "3a1b5196ae7835905eb908cbcbb371bd",
+    "fetched_at": "2026-10-19T02:40:24.610520+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+    "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+    "source": "BBC News",
+    "id": "7d6d1ee5fe72f00a02bd5669f6b72671",
+    "fetched_at": "2026-10-19T02:40:24.610516+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 23:20:15 GMT",
+    "source": "BBC News",
+    "id": "2051d7a91bb62540fcd5524836f76b53",
+    "fetched_at": "2026-10-19T02:40:24.610513+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+    "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+    "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 22:22:51 GMT",
+    "source": "BBC News",
+    "id": "73ceb2089f7c960b27fa4a0da6175149",
+    "fetched_at": "2026-10-19T02:40:24.610508+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "4 Canadian soldiers killed, dozens injured after fast-moving fire erupts at military base",
+    "summary": "Four service members were killed and 39 hospitalized after high winds fueled a fast-moving fire at a Canadian military base in Alberta, officials said.",
+    "link": "https://www.foxnews.com/world/4-canadian-soldiers-killed-dozens-injured-fast-moving-fire-erupts-military-base",
+    "published": "Sun, 18 Oct 2026 13:54:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a0cce0803d8acd1d31714103119abdff",
+    "fetched_at": "2026-10-19T02:40:24.610479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia on edge: Iconic Kingdom Centre sends workers home amid Houthi attacks",
+    "summary": "Kingdom Centre in Riyadh ordered all office employees to work remotely as Iran-backed Houthi missile and drone attacks rattled Saudi Arabia.",
+    "link": "https://www.foxnews.com/world/saudi-arabia-edge-iconic-kingdom-centre-sends-workers-home-amid-houthi-attacks",
+    "published": "Sun, 18 Oct 2026 20:45:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "2ed7c192f872340ad66f2bb48d708692",
+    "fetched_at": "2026-10-19T02:40:23.468153+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+    "summary": "Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.",
+    "link": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+    "published": "Sun, 18 Oct 2026 22:23:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "186c88652bc08c91a0811820eb9b8a77",
+    "fetched_at": "2026-10-19T02:40:22.315516+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+    "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+    "published": "Sat, 17 Oct 2026 17:18:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "df439570f17a9fcb37a58583093f4e1b",
+    "fetched_at": "2026-10-19T02:40:21.175190+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Student protests widen into greater social unrest in France",
+    "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+    "published": "Sat, 17 Oct 2026 17:18:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "ec3b43828c6a2c145963979f3cf4c8ab",
+    "fetched_at": "2026-10-19T02:40:20.016233+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+    "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 17 Oct 2026 01:55:45 GMT",
+    "source": "BBC News",
+    "id": "d31ce62d4cf9558630636e8489cb8804",
+    "fetched_at": "2026-10-19T02:40:18.867366+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The father and son on opposite sides of Alberta’s separation referendum",
+    "summary": "Albertans are voting on Monday on whether to stay in Canada or pursue independence, splitting even some close-knit families.",
+    "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 00:42:51 GMT",
+    "source": "BBC News",
+    "id": "950bcab368f3bf2e1499aa0b7b53513a",
+    "fetched_at": "2026-10-19T02:40:17.702270+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Major fire at Canada military base leaves four dead, dozens injured",
+    "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+    "source": "BBC News",
+    "id": "90face6a6999e8d189cb29a04522d930",
+    "fetched_at": "2026-10-19T02:40:16.554939+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
     "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
     "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
@@ -438,165 +598,5 @@
     "source": "BBC News",
     "id": "a7423586ec665272525f59dfb4cc703a",
     "fetched_at": "2026-10-18T08:27:14.944090+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Several dead or injured in major fire at Canada military base",
-    "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 08:05:49 GMT",
-    "source": "BBC News",
-    "id": "eed15b56c82fa90f6cbceaa52ebfb555",
-    "fetched_at": "2026-10-18T08:27:13.785729+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-    "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 05:04:31 GMT",
-    "source": "BBC News",
-    "id": "e8528724fa67374934ef2572cd50ce3d",
-    "fetched_at": "2026-10-18T08:27:12.634388+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-    "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 09:58:17 GMT",
-    "source": "BBC News",
-    "id": "b5023ce66fd312d22bbcd65aba07f122",
-    "fetched_at": "2026-10-18T02:26:15.803439+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-    "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 23:07:18 GMT",
-    "source": "BBC News",
-    "id": "c54191d67ceac278ebf7db3f551c1419",
-    "fetched_at": "2026-10-18T02:26:14.690238+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-    "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-    "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 23:54:35 GMT",
-    "source": "BBC News",
-    "id": "7998c1c7c09b6a52b8ccbf835606a586",
-    "fetched_at": "2026-10-18T02:26:13.361177+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
-    "summary": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
-    "link": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 00:49:42 GMT",
-    "source": "BBC News",
-    "id": "bbf212c829ddc894342a8a9aabbbd7a6",
-    "fetched_at": "2026-10-18T02:26:12.258950+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-    "summary": "Pope Leo called Vladimir Putin from his hospital bed to urge a ceasefire in Oleshky, Ukraine, where food deliveries have been blocked since May.",
-    "link": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-    "published": "Fri, 16 Oct 2026 19:10:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7a2e0654e6d19cc2c04020a4a871a059",
-    "fetched_at": "2026-10-18T02:26:11.150032+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three takeaways from Elon Musk's latest political donations",
-    "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 00:41:06 GMT",
-    "source": "BBC News",
-    "id": "ea1466c363801c3fc9c2131d0647102d",
-    "fetched_at": "2026-10-18T02:26:09.835563+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 01:10:25 GMT",
-    "source": "BBC News",
-    "id": "75ef65a0b0191769cc026f733865936b",
-    "fetched_at": "2026-10-18T02:26:08.716664+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-    "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 22:09:50 GMT",
-    "source": "BBC News",
-    "id": "6f9e3a657de63ca8d4f78a14af2c2195",
-    "fetched_at": "2026-10-17T23:41:05.937003+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
-    "summary": "Rioters set fire to the historic Limoges Town Hall, collapsing its roof and destroying much of the landmark as France&apos;s protests rage on.",
-    "link": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
-    "published": "Sat, 17 Oct 2026 18:56:37 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "57e4069527343acd2cc8ce4683385436",
-    "fetched_at": "2026-10-17T23:41:04.797353+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group",
-    "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-    "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-    "published": "Fri, 16 Oct 2026 07:30:31 -0400",
-    "source": "NPR Topics: World",
-    "id": "a7316600d85f5e01812979b84339f971",
-    "fetched_at": "2026-10-17T23:41:03.648286+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-    "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
-    "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-    "published": "Fri, 16 Oct 2026 09:26:43 -0400",
-    "source": "NPR Topics: World",
-    "id": "f76faabd90f25d2d2846c7c395f41e1b",
-    "fetched_at": "2026-10-17T23:41:02.498460+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen?",
-    "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
-    "link": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 16 Oct 2026 11:14:58 GMT",
-    "source": "BBC News",
-    "id": "13bbdb917a020c4ec45961cb9a4739d9",
-    "fetched_at": "2026-10-17T23:41:01.353782+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-    "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 15 Oct 2026 17:47:22 GMT",
-    "source": "BBC News",
-    "id": "88a3d7334c3676a2c94595db8e0ba115",
-    "fetched_at": "2026-10-17T23:41:00.204448+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-    "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 17 Oct 2026 19:13:21 GMT",
-    "source": "BBC News",
-    "id": "4c192b0010469ce9729f1c2d0328ccce",
-    "fetched_at": "2026-10-17T23:40:59.003403+00:00"
   }
 ]
