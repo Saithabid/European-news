@@ -1,6 +1,226 @@
 [
   {
     "region": "Europe",
+    "title": "Nigeria confirms Ebola case linked to East Africa",
+    "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 12:39:34 GMT",
+    "source": "BBC News",
+    "id": "9386538e6587a333b3fdca81376a036b",
+    "fetched_at": "2026-10-21T14:47:20.624363+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Family of prison officer killed by IRA receives state apology",
+    "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+    "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 13:35:27 GMT",
+    "source": "BBC News",
+    "id": "92ce8852d621607f805f1d94ed3a6cde",
+    "fetched_at": "2026-10-21T14:47:20.624361+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 14:04:28 GMT",
+    "source": "BBC News",
+    "id": "b729368e04951389c0ef99cbe5456845",
+    "fetched_at": "2026-10-21T14:47:20.624358+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More Russians are settling in the EU with each year of war in Ukraine",
+    "summary": "Eurostat data show 876,600 Russian nationals held valid EU residence permits at the end of 2025, with Germany, Spain and Estonia hosting the largest communities.",
+    "link": "https://www.euronews.com/2026/10/21/more-russians-are-settling-in-the-eu-with-each-year-of-war-in-ukraine",
+    "published": "Wed, 21 Oct 2026 11:24:28 +0200",
+    "source": "News | Euronews RSS",
+    "id": "15d558572a9463840fda250b8df943a1",
+    "fetched_at": "2026-10-21T14:47:20.624356+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 21st, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-midday",
+    "published": "Wed, 21 Oct 2026 12:00:15 +0200",
+    "source": "News | Euronews RSS",
+    "id": "be5c04fb87da761ac3be1ee6a565d367",
+    "fetched_at": "2026-10-21T14:47:20.624353+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Large crowds watch as rescuers try to save stranded shark in South Korea",
+    "summary": "Officials in Busan made a third attempt to guide a trapped shark out of a canal and back to sea. The animal has drawn over a million visitors.",
+    "link": "https://www.euronews.com/video/2026/10/21/large-crowds-watch-as-rescuers-try-to-save-stranded-shark-in-south-korea",
+    "published": "Wed, 21 Oct 2026 12:39:33 +0200",
+    "source": "News | Euronews RSS",
+    "id": "b02f165bdfac451f829c0640b7db8c8c",
+    "fetched_at": "2026-10-21T14:47:20.624351+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia frees detained American Stephen Hubbard during US envoy's visit",
+    "summary": "Around two dozen Americans are still being held in Russian prisons for various reasons, according to the Foley Foundation, a hostage advocacy group.",
+    "link": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit",
+    "published": "Wed, 21 Oct 2026 13:45:30 +0200",
+    "source": "News | Euronews RSS",
+    "id": "81e736070a573429ca1c8e2ce73ffdb7",
+    "fetched_at": "2026-10-21T14:47:20.624348+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
+    "summary": "French president concludes his state visit by reinforcing the strategic partnership with Qatar. He declares his Gulf tour objectives achieved after securing a crucial gas deal with Qatar as he seeks to lower tensions over living costs in France.",
+    "link": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france",
+    "published": "Wed, 21 Oct 2026 16:31:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "61225b018ed0c464e341cde2ea87d105",
+    "fetched_at": "2026-10-21T14:47:20.624345+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+    "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 20:49:00 GMT",
+    "source": "BBC News",
+    "id": "3228fa4f503a1ab6d240279cf48eb6f3",
+    "fetched_at": "2026-10-21T14:47:20.624343+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+    "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+    "source": "BBC News",
+    "id": "7d6d1ee5fe72f00a02bd5669f6b72671",
+    "fetched_at": "2026-10-21T14:47:20.624340+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+    "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 20 Oct 2026 12:08:06 GMT",
+    "source": "BBC News",
+    "id": "f211336a2838e6e8e407e9195082e181",
+    "fetched_at": "2026-10-21T14:47:20.624338+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Murder arrest over British tourist's Greece death",
+    "summary": "Jacqueline Causton, 66, died on the island of Zakynthos in May, an inquest hears.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd6d7y19el1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 14:11:54 GMT",
+    "source": "BBC News",
+    "id": "aa04b6cd6d051bac393df0b94d2fdcf2",
+    "fetched_at": "2026-10-21T14:47:20.624334+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hungary and Poland defend tough migration policies as France reels from violent unrest",
+    "summary": "Violent unrest in France and Italy fuels the migration debate as Hungary and Poland defend tougher border controls and warn Europe against repeating past mistakes.",
+    "link": "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest",
+    "published": "Mon, 19 Oct 2026 15:21:01 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "984f73384e0bd72fe2457031875d1295",
+    "fetched_at": "2026-10-21T14:47:20.624332+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
+    "summary": "American Stephen Hubbard has been released from Russian custody after Trump urged Putin to free the retired teacher imprisoned on Ukraine mercenary charges.",
+    "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
+    "published": "Wed, 21 Oct 2026 05:43:13 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "b27094120e108d1eee4c1b50df13c133",
+    "fetched_at": "2026-10-21T14:47:20.624328+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says he&apos;s open to freezing the front lines of the Ukraine-Russia war as a real path to end the conflict.",
+    "link": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+    "published": "Wed, 21 Oct 2026 10:11:52 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "9360ddab575ed962e55931bcb4c5b7f2",
+    "fetched_at": "2026-10-21T14:47:20.624301+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+    "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+    "published": "Wed, 21 Oct 2026 04:40:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "8669cf5c5d31ee5a2f81c8ecfb1799a6",
+    "fetched_at": "2026-10-21T14:47:19.474880+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+    "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+    "published": "Wed, 21 Oct 2026 04:42:10 -0400",
+    "source": "NPR Topics: World",
+    "id": "af7a981f42985e3058396852d5fbca6b",
+    "fetched_at": "2026-10-21T14:47:18.328287+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+    "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+    "published": "Wed, 21 Oct 2026 06:20:50 -0400",
+    "source": "NPR Topics: World",
+    "id": "ea1e28095e0a469688404000f855368b",
+    "fetched_at": "2026-10-21T14:47:17.180096+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+    "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+    "published": "Wed, 21 Oct 2026 06:56:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "78c9c3c4cdc2ad032aefe3cf3014b4de",
+    "fetched_at": "2026-10-21T14:47:16.020139+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+    "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+    "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+    "published": "Wed, 21 Oct 2026 07:46:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "f53909ced168a6521fda4a100e03357b",
+    "fetched_at": "2026-10-21T14:47:14.855620+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+    "summary": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian olive harvesters.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+    "published": "Wed, 21 Oct 2026 09:28:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "fbf29cd12bfebf5e9486c9616c90d3d9",
+    "fetched_at": "2026-10-21T14:47:13.675719+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+    "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 13:49:50 GMT",
+    "source": "BBC News",
+    "id": "ed3e9da6ae99394ba8773669d0286901",
+    "fetched_at": "2026-10-21T14:47:12.513151+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
     "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
     "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
@@ -378,225 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "c4da9af4f9f1b727d8e5c3e02d8d087b",
     "fetched_at": "2026-10-20T22:51:49.558814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Time to make a deal,' Trump tells Zelenskyy as he complains US has got 'nothing back' from Ukraine",
-    "summary": "Trump's comments came shortly after Zelenskyy met with a US delegation headed by special envoy Steve Witkoff in Oslo.",
-    "link": "https://www.euronews.com/2026/10/20/time-to-make-a-deal-trump-tells-zelenskyy-as-he-complains-us-has-got-nothing-back-from-ukr",
-    "published": "Tue, 20 Oct 2026 22:10:10 +0200",
-    "source": "News | Euronews RSS",
-    "id": "93f96ece17233a1d0ae16beecc9a1819",
-    "fetched_at": "2026-10-20T22:51:49.558810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-    "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-    "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 18 Oct 2026 23:28:45 GMT",
-    "source": "BBC News",
-    "id": "3a1b5196ae7835905eb908cbcbb371bd",
-    "fetched_at": "2026-10-20T22:51:49.558807+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-    "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-    "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 19 Oct 2026 06:29:55 GMT",
-    "source": "BBC News",
-    "id": "75b3193f6e904123bbdbbf0a26a3fd0c",
-    "fetched_at": "2026-10-20T22:51:49.558804+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-    "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 21:27:39 GMT",
-    "source": "BBC News",
-    "id": "d4fe96c8234b82cefa3131f2804fbc6f",
-    "fetched_at": "2026-10-20T22:51:49.558802+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "WHO'S WHO: Inside France's 'Chaos Inc' franchise of communist groups, labor unions and global activists",
-    "summary": "Communist leader Vijay Prashad celebrated France student protests as 54 organizations, from communist youth to labor unions, fuel a global rebellion",
-    "link": "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists",
-    "published": "Mon, 19 Oct 2026 04:00:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f1a52de319031d7ace319dff91cf8410",
-    "fetched_at": "2026-10-20T22:51:49.558799+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
-    "summary": "French President Emmanuel Macron cited the Iran war and its impact on fuel and living costs while addressing the ongoing protests and unrest across France.",
-    "link": "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
-    "published": "Mon, 19 Oct 2026 18:02:58 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "6d0f701520035603ad952ea111fce1a3",
-    "fetched_at": "2026-10-20T22:51:49.558795+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
-    "summary": "Iran claims two oil tankers struck sea mines in the Strait of Hormuz as the IMO warns the critical shipping lane remains too unsafe to transit.",
-    "link": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
-    "published": "Tue, 20 Oct 2026 14:26:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c13528ad22b18076c84bdceaf221e793",
-    "fetched_at": "2026-10-20T22:51:49.558792+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control",
-    "summary": "French Prime Minister Lecornu says a massive police operation backed by the military will counter the next protest set for this weekend in France.",
-    "link": "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
-    "published": "Tue, 20 Oct 2026 15:57:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9571fad4d8e63213356eedaa0e4a9ddb",
-    "fetched_at": "2026-10-20T22:51:49.558788+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alberta voters decide whether to take a step toward separating from Canada",
-    "summary": "In Canada, the oil-rich province of Alberta votes in a referendum that could set it on a path toward separation, as Prime Minister Mark Carney warns of threats to Canadian unity.",
-    "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-    "published": "Mon, 19 Oct 2026 18:29:57 -0400",
-    "source": "NPR Topics: World",
-    "id": "0b8913b3c8c5e758051cb6012983df62",
-    "fetched_at": "2026-10-20T22:51:49.558784+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-    "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
-    "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-    "published": "Tue, 20 Oct 2026 02:02:40 -0400",
-    "source": "NPR Topics: World",
-    "id": "7d6ad9ee867ba1c626b55ed53749f9c0",
-    "fetched_at": "2026-10-20T22:51:49.558754+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-    "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
-    "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-    "published": "Tue, 20 Oct 2026 16:19:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "2abd08ae658ef9702ce1c7d149957af5",
-    "fetched_at": "2026-10-20T22:51:48.446309+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Current U.S. support for Ukraine looks very different than it did",
-    "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
-    "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
-    "published": "Tue, 20 Oct 2026 16:27:23 -0400",
-    "source": "NPR Topics: World",
-    "id": "86de3793bff8601c15b6bfc5c026c7c8",
-    "fetched_at": "2026-10-20T22:51:47.344309+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-    "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-    "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 19:42:32 GMT",
-    "source": "BBC News",
-    "id": "95d336fc54611271f1b6f9ae1ac155b0",
-    "fetched_at": "2026-10-20T22:51:46.247343+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-    "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 19:08:06 GMT",
-    "source": "BBC News",
-    "id": "2fd2b45096f823ba38986139344fbce4",
-    "fetched_at": "2026-10-20T22:51:45.117998+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'Let's move on': Albertans react to referendum vote",
-    "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity.",
-    "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 19:31:35 GMT",
-    "source": "BBC News",
-    "id": "fdd7983792c7de6b1cae8c174f80a65a",
-    "fetched_at": "2026-10-20T22:51:43.999599+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Elon Musk says Tesla-SpaceX merger being considered",
-    "summary": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
-    "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 22:43:56 GMT",
-    "source": "BBC News",
-    "id": "02d0a294e66bee8836ea3db260993a37",
-    "fetched_at": "2026-10-20T22:51:42.882158+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump sued over Canadian tariffs in latest legal challenge",
-    "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 19:30:05 GMT",
-    "source": "BBC News",
-    "id": "c7ed80e0f44e06606af41803ec51daa8",
-    "fetched_at": "2026-10-20T22:51:41.768408+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-    "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 13:23:32 GMT",
-    "source": "BBC News",
-    "id": "b3150ea9feba03ef68678db3cd39d1a1",
-    "fetched_at": "2026-10-20T18:13:10.044736+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-    "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 15:58:57 GMT",
-    "source": "BBC News",
-    "id": "a9c90112c621dfcaa68ba8aceabd4592",
-    "fetched_at": "2026-10-20T18:13:10.044735+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-    "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-    "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 17:30:15 GMT",
-    "source": "BBC News",
-    "id": "d980fc3aa5aedd649860ba12d8f04bb7",
-    "fetched_at": "2026-10-20T18:13:10.044734+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fireworks, petrol bombs and water cannon as unrest escalates in Albania",
-    "summary": "Protesters threw petrol bombs and fireworks at police in Tirana on Monday, as anti-government demonstrations escalated and riot police responded with water cannon, tear gas and rubber bullets.",
-    "link": "https://www.euronews.com/video/2026/10/20/fireworks-petrol-bombs-and-water-cannon-as-unrest-escalates-in-albania",
-    "published": "Tue, 20 Oct 2026 13:12:38 +0200",
-    "source": "News | Euronews RSS",
-    "id": "5ff1155e5b0fc0fe93438f36ff8576cf",
-    "fetched_at": "2026-10-20T18:13:10.044732+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "King Charles welcomes Oman’s Sultan Haitham for state visit to UK",
-    "summary": "King Charles III and Queen Camilla, joined by Prince William and Princess Catherine, have welcomed Oman’s Sultan Haitham bin Tarik to Windsor at the start of a three-day state visit.",
-    "link": "https://www.euronews.com/video/2026/10/20/king-charles-welcomes-omans-sultan-haitham-for-state-visit-to-uk",
-    "published": "Tue, 20 Oct 2026 14:18:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "838c4562cf52ba3586eefb0d8a42b72e",
-    "fetched_at": "2026-10-20T18:13:10.044731+00:00"
   }
 ]
