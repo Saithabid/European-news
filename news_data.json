@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+    "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 05:46:33 GMT",
+    "source": "BBC News",
+    "id": "da9f6a118b75157af4bfa4ba58d691e0",
+    "fetched_at": "2026-10-22T02:44:49.146484+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+    "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+    "published": "Wed, 21 Oct 2026 06:56:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "78c9c3c4cdc2ad032aefe3cf3014b4de",
+    "fetched_at": "2026-10-22T02:44:48.052559+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+    "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+    "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+    "published": "Wed, 21 Oct 2026 07:46:59 -0400",
+    "source": "NPR Topics: World",
+    "id": "f53909ced168a6521fda4a100e03357b",
+    "fetched_at": "2026-10-22T02:44:46.943772+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+    "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+    "published": "Wed, 21 Oct 2026 09:28:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "fbf29cd12bfebf5e9486c9616c90d3d9",
+    "fetched_at": "2026-10-22T02:44:45.842046+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "AIPAC halts endorsements and direct contributions to candidates",
+    "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
+    "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+    "published": "Wed, 21 Oct 2026 20:22:48 -0400",
+    "source": "NPR Topics: World",
+    "id": "6de715ebd7c697100aede18342cf71aa",
+    "fetched_at": "2026-10-22T02:44:44.735412+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+    "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 22:54:58 GMT",
+    "source": "BBC News",
+    "id": "30c425c7be7f32888a5325ed514bcf4d",
+    "fetched_at": "2026-10-22T02:44:43.631540+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+    "summary": "The 74-year-old former teacher, who was captured in 2022, has been released without any \"swap\" required, Trump says.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 20:42:43 GMT",
+    "source": "BBC News",
+    "id": "ed3e9da6ae99394ba8773669d0286901",
+    "fetched_at": "2026-10-22T02:44:42.521539+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
     "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
     "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "f211336a2838e6e8e407e9195082e181",
     "fetched_at": "2026-10-21T14:47:20.624338+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Murder arrest over British tourist's Greece death",
-    "summary": "Jacqueline Causton, 66, died on the island of Zakynthos in May, an inquest hears.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd6d7y19el1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 21 Oct 2026 14:11:54 GMT",
-    "source": "BBC News",
-    "id": "aa04b6cd6d051bac393df0b94d2fdcf2",
-    "fetched_at": "2026-10-21T14:47:20.624334+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hungary and Poland defend tough migration policies as France reels from violent unrest",
-    "summary": "Violent unrest in France and Italy fuels the migration debate as Hungary and Poland defend tougher border controls and warn Europe against repeating past mistakes.",
-    "link": "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest",
-    "published": "Mon, 19 Oct 2026 15:21:01 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "984f73384e0bd72fe2457031875d1295",
-    "fetched_at": "2026-10-21T14:47:20.624332+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-    "summary": "American Stephen Hubbard has been released from Russian custody after Trump urged Putin to free the retired teacher imprisoned on Ukraine mercenary charges.",
-    "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
-    "published": "Wed, 21 Oct 2026 05:43:13 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b27094120e108d1eee4c1b50df13c133",
-    "fetched_at": "2026-10-21T14:47:20.624328+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says he&apos;s open to freezing the front lines of the Ukraine-Russia war as a real path to end the conflict.",
-    "link": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-    "published": "Wed, 21 Oct 2026 10:11:52 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9360ddab575ed962e55931bcb4c5b7f2",
-    "fetched_at": "2026-10-21T14:47:20.624301+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-    "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
-    "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-    "published": "Wed, 21 Oct 2026 04:40:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "8669cf5c5d31ee5a2f81c8ecfb1799a6",
-    "fetched_at": "2026-10-21T14:47:19.474880+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-    "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
-    "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-    "published": "Wed, 21 Oct 2026 04:42:10 -0400",
-    "source": "NPR Topics: World",
-    "id": "af7a981f42985e3058396852d5fbca6b",
-    "fetched_at": "2026-10-21T14:47:18.328287+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-    "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
-    "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-    "published": "Wed, 21 Oct 2026 06:20:50 -0400",
-    "source": "NPR Topics: World",
-    "id": "ea1e28095e0a469688404000f855368b",
-    "fetched_at": "2026-10-21T14:47:17.180096+00:00"
   }
 ]
