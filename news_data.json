@@ -1,6 +1,176 @@
 [
   {
     "region": "Europe",
+    "title": "Oil spill washes up on UAE beaches after tanker strike",
+    "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 15:30:47 GMT",
+    "source": "BBC News",
+    "id": "0ac69ac3f426217ea9c1e7157115a64c",
+    "fetched_at": "2026-10-23T19:41:00.493668+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 23rd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
+    "published": "Fri, 23 Oct 2026 18:00:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "0a1a7636374d88eb1de0cd7c5ededb9e",
+    "fetched_at": "2026-10-23T19:41:00.493666+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UN chief race enters decisive phase as new contender arrives",
+    "summary": "UAE’s star diplomat Lana Nusseibeh has entered the race for the UN secretary-general position, challenging front-runner Rebeca Grynspan at a decisive time for the global organisation's future. The UN chief race could now lead to the first ever female secretary-general.",
+    "link": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
+    "published": "Fri, 23 Oct 2026 18:12:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "864010839ee3981523ca690742abf481",
+    "fetched_at": "2026-10-23T19:41:00.493664+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US designates helium as critical material as Europe faces supply squeeze",
+    "summary": "The US has declared helium a critical material as war in the Middle East and export curbs by Russia and China squeeze global supplies of a gas vital to chipmaking, leaving Europe scrambling to secure its share.",
+    "link": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
+    "published": "Fri, 23 Oct 2026 21:02:40 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fc525b2f56bbb86627e298d6457d58f7",
+    "fetched_at": "2026-10-23T19:41:00.493662+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope does not need further treatment after lung cancer surgery",
+    "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 20:09:10 GMT",
+    "source": "BBC News",
+    "id": "28eefb922e3f6e3b4fb97fedb0556443",
+    "fetched_at": "2026-10-23T19:41:00.493661+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+    "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 17:07:03 GMT",
+    "source": "BBC News",
+    "id": "09835107d7e82401bb21124fd1ac7174",
+    "fetched_at": "2026-10-23T19:41:00.493658+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+    "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 18:52:17 GMT",
+    "source": "BBC News",
+    "id": "ef15efd82e9abdd514f8745af7fba397",
+    "fetched_at": "2026-10-23T19:41:00.493656+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department says Trump is 'spot on' with France protests after Macron decries 'stupid' comments",
+    "summary": "The State Department says Trump is &quot;spot on&quot; about France&apos;s protests and mass migration after Emmanuel Macron criticized comments from world leaders.",
+    "link": "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments",
+    "published": "Fri, 23 Oct 2026 13:07:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "621ef021134ebc7771f584612a7e3892",
+    "fetched_at": "2026-10-23T19:41:00.493654+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism",
+    "summary": "King Abdullah II vowed the &quot;harshest retaliation&quot; after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, killing at least seven.",
+    "link": "https://www.foxnews.com/world/gunmen-kill-7-christian-church-jordan-king-calls-act-terrorism",
+    "published": "Fri, 23 Oct 2026 14:01:47 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "7b66930124a42e6c0f2fa0a8a028ccd9",
+    "fetched_at": "2026-10-23T19:41:00.493651+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "CHAOS INC.: Who's who in the global mayhem network? Communists, Antifa, agitators in the red-green alliance.",
+    "summary": "The Communist Youth of Greece backed French student protests, linking education demands to anti-austerity activism across Europe and beyond.",
+    "link": "https://www.foxnews.com/world/chaos-inc-whos-who-global-mayhem-network-communists-antifa-agitators-red-green-alliance",
+    "published": "Fri, 23 Oct 2026 15:33:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ca4c13a5a57e098c45dc31a90a82a66d",
+    "fetched_at": "2026-10-23T19:41:00.493623+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+    "summary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+    "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+    "published": "Thu, 22 Oct 2026 09:50:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "b25ebd67de31e7df69e4338f0525a3e1",
+    "fetched_at": "2026-10-23T19:40:59.348589+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+    "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+    "published": "Thu, 22 Oct 2026 18:17:04 -0400",
+    "source": "NPR Topics: World",
+    "id": "19ac9f4d6a92c77c1be537cb5b2b5634",
+    "fetched_at": "2026-10-23T19:40:58.229803+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+    "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 22:27:53 GMT",
+    "source": "BBC News",
+    "id": "8ed74f2c00284259a7c9ff76c05fca7c",
+    "fetched_at": "2026-10-23T19:40:57.081739+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+    "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
+    "link": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 15:24:35 GMT",
+    "source": "BBC News",
+    "id": "e62fc30af0c06d83e26151a9ad2e5cb9",
+    "fetched_at": "2026-10-23T19:40:55.953884+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US justice department investigating Corey Lewandowski over DHS role",
+    "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 14:58:19 GMT",
+    "source": "BBC News",
+    "id": "bba8e6ea39df6b65978506004add5f56",
+    "fetched_at": "2026-10-23T19:40:54.798087+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+    "summary": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wv9p0p9e3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 18:45:47 GMT",
+    "source": "BBC News",
+    "id": "29472276547c371dca53f6219e1b1c0c",
+    "fetched_at": "2026-10-23T19:40:53.665587+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration sues to block certification of upcoming Alaska election",
+    "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+    "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 18:49:14 GMT",
+    "source": "BBC News",
+    "id": "7c5c0ea7c9135e68d06fcba74ea2fa46",
+    "fetched_at": "2026-10-23T19:40:52.541661+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "PSG v Lyon moved as Paris prepares for more protests",
     "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
     "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
@@ -428,175 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "633c4210caff557cf685b0da44900a14",
     "fetched_at": "2026-10-23T08:58:29.748610+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU-Canada 'love story' needs more than warm words, senior MEP warns",
-    "summary": "European Parliament’s point man on Canada, Tobias Cremer, told Euronews that the planned “associate membership” should include an institutional framework formalising closer ties between the EU and Canada.",
-    "link": "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns",
-    "published": "Fri, 23 Oct 2026 08:00:46 +0200",
-    "source": "News | Euronews RSS",
-    "id": "cec410e44d933e4e8e3c3280b436da3c",
-    "fetched_at": "2026-10-23T08:58:29.748607+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-    "summary": "Towering waves crashed against Taiwan's coastline as Typhoon Champi swept past the island on Friday, leaving one person dead, 94 injured and hundreds of flights cancelled.",
-    "link": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures",
-    "published": "Fri, 23 Oct 2026 09:30:03 +0200",
-    "source": "News | Euronews RSS",
-    "id": "979af9180bbdbb06657616c613599931",
-    "fetched_at": "2026-10-23T08:58:29.748604+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Albania: Parliament descends into chaos as MPs clash over protests",
-    "summary": "Heated exchanges and chaotic scenes gripped Albania's parliament in Tirana on Thursday as rival MPs clashed inside, while student demonstrators continued their protests outside for a tenth day.",
-    "link": "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests",
-    "published": "Fri, 23 Oct 2026 10:05:15 +0200",
-    "source": "News | Euronews RSS",
-    "id": "79430e3442e3ac810a8b3a7ad25c8ef2",
-    "fetched_at": "2026-10-23T08:58:29.748600+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flash floods swamp southeast Australia as record October rainfall forces school closures",
-    "summary": "A television reporter abandoned his shoes and glasses and dived into rising floodwaters to save a driver whose car was sinking fast in Morayfield, Queensland.",
-    "link": "https://www.euronews.com/2026/10/23/flash-floods-swamp-southeast-australia-as-record-october-rainfall-forces-school-closures",
-    "published": "Fri, 23 Oct 2026 10:29:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "4704c461047925481d9a4d1a1507e7ec",
-    "fetched_at": "2026-10-23T08:58:29.748574+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First human case of Shamonda virus detected in France, officials say",
-    "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-    "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 13:53:32 GMT",
-    "source": "BBC News",
-    "id": "b0ecf8f9732567dfafc85d187ae756b1",
-    "fetched_at": "2026-10-23T08:58:28.595507+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "At least four dead after storm brings flooding to southern France",
-    "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-    "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 11:23:16 GMT",
-    "source": "BBC News",
-    "id": "a24753611783490d78f820718ab7b370",
-    "fetched_at": "2026-10-23T08:58:27.447760+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-    "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-    "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 19:25:26 GMT",
-    "source": "BBC News",
-    "id": "01da6bdc1c8dc1a99308f2f675976d0c",
-    "fetched_at": "2026-10-23T08:58:26.285436+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-    "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
-    "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 23:16:20 GMT",
-    "source": "BBC News",
-    "id": "4c0759e9da22ca3d382dc99993c95a91",
-    "fetched_at": "2026-10-23T08:58:25.137734+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-    "summary": "Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.",
-    "link": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
-    "published": "Fri, 23 Oct 2026 04:05:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4f0a1827337b435a6df77e7ed09967c4",
-    "fetched_at": "2026-10-23T08:58:23.987931+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-    "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
-    "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
-    "published": "Fri, 23 Oct 2026 04:17:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "495efaab9cf158f2ed96b1277966cbff",
-    "fetched_at": "2026-10-23T08:58:22.839395+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: 'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-    "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-    "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 20:48:56 GMT",
-    "source": "BBC News",
-    "id": "9d4c6982d62c170816339a7c813c1306",
-    "fetched_at": "2026-10-23T08:58:21.684122+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-    "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 23:16:16 GMT",
-    "source": "BBC News",
-    "id": "60f374dc646a4d6e27c24f81451c7c5f",
-    "fetched_at": "2026-10-23T02:48:53.217535+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
-    "summary": "Iran claims two oil tankers struck sea mines in the Strait of Hormuz as the IMO warns the critical shipping lane remains too unsafe to transit.",
-    "link": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
-    "published": "Tue, 20 Oct 2026 14:26:18 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c13528ad22b18076c84bdceaf221e793",
-    "fetched_at": "2026-10-23T02:48:53.217531+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control",
-    "summary": "French Prime Minister Lecornu says a massive police operation backed by the military will counter the next protest set for this weekend in France.",
-    "link": "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
-    "published": "Tue, 20 Oct 2026 15:57:06 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "9571fad4d8e63213356eedaa0e4a9ddb",
-    "fetched_at": "2026-10-23T02:48:53.217517+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bibas family relative takes fight to ICC after mother, two young boys murdered by Hamas",
-    "summary": "A relative of murdered mother Shiri Bibas and her sons Kfir and Ariel is pressing the ICC to act against Iranian leaders after the family’s devastating losses in the Oct. 7 attacks.",
-    "link": "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas",
-    "published": "Wed, 21 Oct 2026 14:39:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7cbd09b1737f39ca2ecf0f47c52bac99",
-    "fetched_at": "2026-10-23T02:48:53.217445+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Macron has one more chance to save the country or ‘it’s lost for France,’ business owner warns",
-    "summary": "A French business owner who had five family stores destroyed by looters warns of growing insecurity and urges authorities to protect businesses ahead of another weekend of protests.",
-    "link": "https://www.foxnews.com/world/macron-has-one-more-chance-save-country-its-lost-france-business-owner-warns",
-    "published": "Thu, 22 Oct 2026 06:19:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bd560eaf7ab5a8ebea5bc8b091a23e78",
-    "fetched_at": "2026-10-23T02:48:52.056814+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-    "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
-    "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
-    "published": "Thu, 22 Oct 2026 04:56:58 -0400",
-    "source": "NPR Topics: World",
-    "id": "37935e2e168b4089a88b25958a7e053e",
-    "fetched_at": "2026-10-23T02:48:50.936065+00:00"
   }
 ]
