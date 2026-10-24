@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
+    "summary": "A fire broke out at the Eagle's Nest, Adolf Hitler's former mountain retreat in southern Germany. Police say a suspect has been detained, and around 200 firefighters were deployed to tackle the blaze.",
+    "link": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
+    "published": "Sat, 24 Oct 2026 16:11:34 +0200",
+    "source": "News | Euronews RSS",
+    "id": "30881ac0f6a76f96d3c5bc58d30105bf",
+    "fetched_at": "2026-10-24T17:07:41.056811+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+    "summary": "Days before tight elections are due to be held in Israel, Prime Minister Benjamin Netanyahu has announced a massive operation on the West Bank after two Israeli soldiers were killed by militants at a checkpoint.",
+    "link": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
+    "published": "Sat, 24 Oct 2026 16:31:04 +0200",
+    "source": "News | Euronews RSS",
+    "id": "81be9ec9505c0eb6062d53ed7dfc98b2",
+    "fetched_at": "2026-10-24T17:07:41.056808+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 24th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
+    "published": "Sat, 24 Oct 2026 18:00:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "84af3bde769dd7dc4f88f3b8880f2f29",
+    "fetched_at": "2026-10-24T17:07:41.056804+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "CHAOS INC.: Who's who in the global mayhem network? Communists, Antifa, agitators in the red-green alliance.",
+    "summary": "The Communist Youth of Greece backed French student protests, linking education demands to anti-austerity activism across Europe and beyond.",
+    "link": "https://www.foxnews.com/world/chaos-inc-whos-who-global-mayhem-network-communists-antifa-agitators-red-green-alliance",
+    "published": "Fri, 23 Oct 2026 15:33:53 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ca4c13a5a57e098c45dc31a90a82a66d",
+    "fetched_at": "2026-10-24T17:07:41.056775+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll rises to 9 in church attack as officials blame 'extremist' Islamist ideology",
+    "summary": "Footage shows gunmen armed with pistols and a rifle storming a Greek Orthodox church in Karak during a funeral service, killing nine in Jordan.",
+    "link": "https://www.foxnews.com/world/death-toll-rises-9-church-attack-officials-blame-extremist-islamist-ideology",
+    "published": "Sat, 24 Oct 2026 12:04:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1b242a9bb36b3e52b94c2cf515e07cdf",
+    "fetched_at": "2026-10-24T17:07:39.901451+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+    "summary": "Israel's Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldiers.",
+    "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+    "published": "Fri, 23 Oct 2026 17:38:54 -0400",
+    "source": "NPR Topics: World",
+    "id": "22de41a676fe4f5e513a6a72369a6870",
+    "fetched_at": "2026-10-24T17:07:38.745222+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+    "summary": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wv9p0p9e3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 18:45:47 GMT",
+    "source": "BBC News",
+    "id": "29472276547c371dca53f6219e1b1c0c",
+    "fetched_at": "2026-10-24T17:07:37.609715+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump administration sues to block certification of upcoming Alaska election",
+    "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+    "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 18:49:14 GMT",
+    "source": "BBC News",
+    "id": "7c5c0ea7c9135e68d06fcba74ea2fa46",
+    "fetched_at": "2026-10-24T17:07:36.444573+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 07:17:44 GMT",
+    "source": "BBC News",
+    "id": "b771d4c334c4d64ab6cf887e34eafde0",
+    "fetched_at": "2026-10-24T17:07:35.289696+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six Flags adding seat belts to Goliath rollercoaster following death",
+    "summary": "The CEO of the amusement park chain said the company is evaluating its safety procedures at all of its 34 locations, including adding seat belts to some rides.",
+    "link": "https://www.bbc.co.uk/news/articles/c60rl9r59g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 16:29:31 GMT",
+    "source": "BBC News",
+    "id": "0eef3af2dd9e5a314c048e25bd1a86b0",
+    "fetched_at": "2026-10-24T17:07:34.149860+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+    "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 14:45:30 GMT",
+    "source": "BBC News",
+    "id": "bac9e5dffecc55e7e92c216ecf4c4ae2",
+    "fetched_at": "2026-10-24T17:07:32.989748+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
     "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "86cf67646e9c8b1d01e8dfb3549c9a6a",
     "fetched_at": "2026-10-23T22:47:29.151835+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
-    "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
-    "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
-    "published": "Fri, 23 Oct 2026 04:17:06 -0400",
-    "source": "NPR Topics: World",
-    "id": "495efaab9cf158f2ed96b1277966cbff",
-    "fetched_at": "2026-10-23T22:47:28.006370+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 22:25:06 GMT",
-    "source": "BBC News",
-    "id": "716b45e8ed622efb63ebd6b113440086",
-    "fetched_at": "2026-10-23T22:47:26.857119+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oil spill washes up on UAE beaches after tanker strike",
-    "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 15:30:47 GMT",
-    "source": "BBC News",
-    "id": "0ac69ac3f426217ea9c1e7157115a64c",
-    "fetched_at": "2026-10-23T19:41:00.493668+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 23rd, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening",
-    "published": "Fri, 23 Oct 2026 18:00:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "0a1a7636374d88eb1de0cd7c5ededb9e",
-    "fetched_at": "2026-10-23T19:41:00.493666+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UN chief race enters decisive phase as new contender arrives",
-    "summary": "UAE’s star diplomat Lana Nusseibeh has entered the race for the UN secretary-general position, challenging front-runner Rebeca Grynspan at a decisive time for the global organisation's future. The UN chief race could now lead to the first ever female secretary-general.",
-    "link": "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives",
-    "published": "Fri, 23 Oct 2026 18:12:26 +0200",
-    "source": "News | Euronews RSS",
-    "id": "864010839ee3981523ca690742abf481",
-    "fetched_at": "2026-10-23T19:41:00.493664+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US designates helium as critical material as Europe faces supply squeeze",
-    "summary": "The US has declared helium a critical material as war in the Middle East and export curbs by Russia and China squeeze global supplies of a gas vital to chipmaking, leaving Europe scrambling to secure its share.",
-    "link": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-    "published": "Fri, 23 Oct 2026 21:02:40 +0200",
-    "source": "News | Euronews RSS",
-    "id": "fc525b2f56bbb86627e298d6457d58f7",
-    "fetched_at": "2026-10-23T19:41:00.493662+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope does not need further treatment after lung cancer surgery",
-    "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 21 Oct 2026 20:09:10 GMT",
-    "source": "BBC News",
-    "id": "28eefb922e3f6e3b4fb97fedb0556443",
-    "fetched_at": "2026-10-23T19:41:00.493661+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-    "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 17:07:03 GMT",
-    "source": "BBC News",
-    "id": "09835107d7e82401bb21124fd1ac7174",
-    "fetched_at": "2026-10-23T19:41:00.493658+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-    "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 18:52:17 GMT",
-    "source": "BBC News",
-    "id": "ef15efd82e9abdd514f8745af7fba397",
-    "fetched_at": "2026-10-23T19:41:00.493656+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "State Department says Trump is 'spot on' with France protests after Macron decries 'stupid' comments",
-    "summary": "The State Department says Trump is &quot;spot on&quot; about France&apos;s protests and mass migration after Emmanuel Macron criticized comments from world leaders.",
-    "link": "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments",
-    "published": "Fri, 23 Oct 2026 13:07:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "621ef021134ebc7771f584612a7e3892",
-    "fetched_at": "2026-10-23T19:41:00.493654+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism",
-    "summary": "King Abdullah II vowed the &quot;harshest retaliation&quot; after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, killing at least seven.",
-    "link": "https://www.foxnews.com/world/gunmen-kill-7-christian-church-jordan-king-calls-act-terrorism",
-    "published": "Fri, 23 Oct 2026 14:01:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7b66930124a42e6c0f2fa0a8a028ccd9",
-    "fetched_at": "2026-10-23T19:41:00.493651+00:00"
   }
 ]
