@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Latest news bulletin | October 24th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening",
+    "published": "Sat, 24 Oct 2026 18:00:26 +0200",
+    "source": "News | Euronews RSS",
+    "id": "84af3bde769dd7dc4f88f3b8880f2f29",
+    "fetched_at": "2026-10-25T22:12:43.033990+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+    "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 22:06:26 GMT",
+    "source": "BBC News",
+    "id": "cf1c84103e57e19215045bdcbdb69e37",
+    "fetched_at": "2026-10-25T22:12:43.033959+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death toll rises to 9 in church attack; officials blame 'extremist' Islamist ideology",
+    "summary": "Footage shows gunmen armed with pistols and a rifle storming a Greek Orthodox church in Karak during a funeral service, killing nine in Jordan.",
+    "link": "https://www.foxnews.com/world/death-toll-rises-9-church-attack-officials-blame-extremist-islamist-ideology",
+    "published": "Sat, 24 Oct 2026 12:04:18 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "1b242a9bb36b3e52b94c2cf515e07cdf",
+    "fetched_at": "2026-10-25T22:12:41.916061+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+    "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+    "published": "Sun, 25 Oct 2026 17:22:40 -0400",
+    "source": "NPR Topics: World",
+    "id": "e586ab2773c959c93588e5e19c701f84",
+    "fetched_at": "2026-10-25T22:12:40.802412+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+    "summary": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+    "published": "Sun, 25 Oct 2026 17:22:43 -0400",
+    "source": "NPR Topics: World",
+    "id": "84717a1a3bf2c8b992382b93d43360ff",
+    "fetched_at": "2026-10-25T22:12:39.687888+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 07:17:44 GMT",
+    "source": "BBC News",
+    "id": "b771d4c334c4d64ab6cf887e34eafde0",
+    "fetched_at": "2026-10-25T22:12:38.579232+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six Flags adding seatbelts to Goliath rollercoaster following death",
+    "summary": "The CEO of the amusement park chain says the company is evaluating safety procedures at all of its 34 locations.",
+    "link": "https://www.bbc.co.uk/news/articles/c60rl9r59g0do?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 16:29:31 GMT",
+    "source": "BBC News",
+    "id": "0eef3af2dd9e5a314c048e25bd1a86b0",
+    "fetched_at": "2026-10-25T22:12:37.463457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "British Columbia's new premier lucks into the job in unexpected political turn",
+    "summary": "An electoral gamble by the Canadian province's outgoing premier, David Eby,  backfired as the provincial Conservatives take power for the first time since 1928.",
+    "link": "https://www.bbc.co.uk/news/articles/cxj0ln19j3jvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 20:58:39 GMT",
+    "source": "BBC News",
+    "id": "78c98be9b9f76b0140eb31e0d4b30960",
+    "fetched_at": "2026-10-25T22:12:36.359464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+    "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 19:12:51 GMT",
+    "source": "BBC News",
+    "id": "bac9e5dffecc55e7e92c216ecf4c4ae2",
+    "fetched_at": "2026-10-25T22:12:35.245111+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Gabon says access to social media restored after eight-month ban",
     "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
     "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
@@ -508,95 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "68a9c1dd0248cd1081d07c0cbd03c5f9",
     "fetched_at": "2026-10-24T20:02:09.088189+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-    "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 18:52:17 GMT",
-    "source": "BBC News",
-    "id": "ef15efd82e9abdd514f8745af7fba397",
-    "fetched_at": "2026-10-24T20:02:07.949689+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-    "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 22 Oct 2026 17:07:03 GMT",
-    "source": "BBC News",
-    "id": "09835107d7e82401bb21124fd1ac7174",
-    "fetched_at": "2026-10-24T20:02:06.774719+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "State Department says Trump is 'spot on' with France protests after Macron decries 'stupid' comments",
-    "summary": "The State Department says Trump is &quot;spot on&quot; about France&apos;s protests and mass migration after Emmanuel Macron criticized comments from world leaders.",
-    "link": "https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments",
-    "published": "Fri, 23 Oct 2026 13:07:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "621ef021134ebc7771f584612a7e3892",
-    "fetched_at": "2026-10-24T20:02:05.611546+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism",
-    "summary": "King Abdullah II vowed the &quot;harshest retaliation&quot; after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, killing at least seven.",
-    "link": "https://www.foxnews.com/world/gunmen-kill-7-christian-church-jordan-king-calls-act-terrorism",
-    "published": "Fri, 23 Oct 2026 14:01:47 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7b66930124a42e6c0f2fa0a8a028ccd9",
-    "fetched_at": "2026-10-24T20:02:04.456309+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nearly 1,000 arrested across France as police find potential weapons on protestors: officials",
-    "summary": "French Interior Minister Laurent Nuñez says nearly 1,000 people were arrested as 70,000 police officers deployed across the country amid nationwide protests.",
-    "link": "https://www.foxnews.com/world/nearly-1000-arrested-across-france-police-find-potential-weapons-protestors",
-    "published": "Sat, 24 Oct 2026 13:51:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "7dbe436b94b5e88dfc0dfbd634ebaf17",
-    "fetched_at": "2026-10-24T20:02:03.304682+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine says Starlink is back to normal after disruptions",
-    "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-    "published": "Sat, 24 Oct 2026 13:54:25 -0400",
-    "source": "NPR Topics: World",
-    "id": "4428c82885015fce12edabf775ae3d33",
-    "fetched_at": "2026-10-24T20:02:02.160494+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-    "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-    "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 00:36:47 GMT",
-    "source": "BBC News",
-    "id": "716b45e8ed622efb63ebd6b113440086",
-    "fetched_at": "2026-10-24T20:02:01.013656+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
-    "summary": "A fire broke out at the Eagle's Nest, Adolf Hitler's former mountain retreat in southern Germany. Police say a suspect has been detained, and around 200 firefighters were deployed to tackle the blaze.",
-    "link": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
-    "published": "Sat, 24 Oct 2026 16:11:34 +0200",
-    "source": "News | Euronews RSS",
-    "id": "30881ac0f6a76f96d3c5bc58d30105bf",
-    "fetched_at": "2026-10-24T17:07:41.056811+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-    "summary": "Days before tight elections are due to be held in Israel, Prime Minister Benjamin Netanyahu has announced a massive operation on the West Bank after two Israeli soldiers were killed by militants at a checkpoint.",
-    "link": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
-    "published": "Sat, 24 Oct 2026 16:31:04 +0200",
-    "source": "News | Euronews RSS",
-    "id": "81be9ec9505c0eb6062d53ed7dfc98b2",
-    "fetched_at": "2026-10-24T17:07:41.056808+00:00"
   }
 ]
