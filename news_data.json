@@ -1,5 +1,75 @@
 [
   {
+    "region": "Europe",
+    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+    "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 03:20:16 GMT",
+    "source": "BBC News",
+    "id": "57fd14f473d343adc69629cc709227fc",
+    "fetched_at": "2026-10-25T08:51:30.275818+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+    "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+    "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 23:50:02 GMT",
+    "source": "BBC News",
+    "id": "ba81f8de89f4954685deedbf1b908716",
+    "fetched_at": "2026-10-25T08:51:29.108170+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 05:15:52 GMT",
+    "source": "BBC News",
+    "id": "a029c9115eca79daf39d0424a2b8bb87",
+    "fetched_at": "2026-10-25T08:51:27.891992+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
+    "summary": "The Trump administration has repeatedly stated that its goal is to bring about a change in Havana's leadership, with President Donald Trump himself having claimed the country is \"ready to fall.\"",
+    "link": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
+    "published": "Sat, 24 Oct 2026 09:28:46 +0200",
+    "source": "News | Euronews RSS",
+    "id": "fa7a8a952c0f84171363fc4b76b37883",
+    "fetched_at": "2026-10-25T08:51:26.751392+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 25th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning",
+    "published": "Sun, 25 Oct 2026 08:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "4c29ddba68367eda180ebc9ccc6b2557",
+    "fetched_at": "2026-10-25T08:51:25.637168+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 08:15:24 GMT",
+    "source": "BBC News",
+    "id": "cf65eabe018d21e2555393413d52046c",
+    "fetched_at": "2026-10-25T08:51:24.509162+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+    "summary": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+    "published": "Sun, 25 Oct 2026 03:15:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "8f5aa2830eefaa3ef11d6c20a50d76f0",
+    "fetched_at": "2026-10-25T08:51:23.377403+00:00"
+  },
+  {
     "region": "USA",
     "title": "Rubio urges Cubans to work with CIA to bring political change to communist-run island",
     "summary": "Secretary of State Marco Rubio urged Cubans to form a &quot;discrete partnership with the CIA&quot; as Trump floated sending him to Cuba to cut a deal.",
@@ -528,75 +598,5 @@
     "source": "NPR Topics: World",
     "id": "3fdd92b332dbe734894251a338572bba",
     "fetched_at": "2026-10-24T13:45:28.893672+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-    "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-    "published": "Sat, 24 Oct 2026 07:59:08 -0400",
-    "source": "NPR Topics: World",
-    "id": "a93da5d06198378c2ab9a436bf0017e6",
-    "fetched_at": "2026-10-24T13:45:27.785716+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-    "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 07:36:02 GMT",
-    "source": "BBC News",
-    "id": "9c9fc1818fe51c2a8fb9784eba392f6f",
-    "fetched_at": "2026-10-24T13:45:26.681942+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-    "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-    "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 23:11:31 GMT",
-    "source": "BBC News",
-    "id": "29995eeb8b8ab41f46855cfbdebed34f",
-    "fetched_at": "2026-10-24T13:45:25.571626+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australian MP's condition improves after alleged car attack",
-    "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-    "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 01:55:15 GMT",
-    "source": "BBC News",
-    "id": "c68a944405f17bf44e2609d7950afc22",
-    "fetched_at": "2026-10-24T08:32:06.293331+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 00:05:43 GMT",
-    "source": "BBC News",
-    "id": "6d5aa2519790222ff3e84f2280505ef1",
-    "fetched_at": "2026-10-24T08:32:06.293327+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 23:08:23 GMT",
-    "source": "BBC News",
-    "id": "764ed8f60868c80e42a2897cf4084a2d",
-    "fetched_at": "2026-10-24T08:32:06.293324+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-    "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 03:51:25 GMT",
-    "source": "BBC News",
-    "id": "8ae991c1e07b65c7a7ce417c0e4b4573",
-    "fetched_at": "2026-10-24T08:32:06.293320+00:00"
   }
 ]
