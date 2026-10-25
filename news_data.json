@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+    "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 10:55:33 GMT",
+    "source": "BBC News",
+    "id": "b36ae4b8e827d84c475ca5b6e4ec81da",
+    "fetched_at": "2026-10-25T14:02:25.183016+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 25th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-midday",
+    "published": "Sun, 25 Oct 2026 12:00:16 +0100",
+    "source": "News | Euronews RSS",
+    "id": "52578d591908aec808b2a8604b368280",
+    "fetched_at": "2026-10-25T14:02:25.183013+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+    "summary": "The move comes as part of a wider clampdown in the occupied West Bank after two Israeli soldiers were killed by Palestinian gunmen in the city of Hebron earlier this week.",
+    "link": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+    "published": "Sun, 25 Oct 2026 12:21:13 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b770178fc1a6244f60cb269bf7fa3474",
+    "fetched_at": "2026-10-25T14:02:25.183009+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+    "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 15:21:44 GMT",
+    "source": "BBC News",
+    "id": "8ae991c1e07b65c7a7ce417c0e4b4573",
+    "fetched_at": "2026-10-25T14:02:25.182982+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+    "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 23:08:23 GMT",
+    "source": "BBC News",
+    "id": "764ed8f60868c80e42a2897cf4084a2d",
+    "fetched_at": "2026-10-25T14:02:24.035979+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former IDF chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger",
+    "summary": "A decorated former Israeli army chief has emerged as a leading election challenger after serving in the war cabinet and suffering devastating personal losses following the Oct. 7 attacks.",
+    "link": "https://www.foxnews.com/world/former-israeli-army-chief-gadi-eisenkot-emerges-netanyahus-leading-election-challenger",
+    "published": "Sun, 25 Oct 2026 06:00:15 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "715a6a1e36b6aeb5a91fa1ec370354cf",
+    "fetched_at": "2026-10-25T14:02:22.880475+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazil becomes next test for Latin America’s surging conservative movement",
+    "summary": "Lula da Silva seeks a fourth presidential term in Brazil in a closely contested second round election with Senator Flavio Bolsonaro, as security and safety concerns weigh heavily.",
+    "link": "https://www.foxnews.com/world/brazil-becomes-next-test-latin-americas-surging-conservative-movement",
+    "published": "Sun, 25 Oct 2026 07:00:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "19f1a5cdb2f1eb1c0f2f6ab64c94efc9",
+    "fetched_at": "2026-10-25T14:02:21.732447+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+    "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+    "published": "Sat, 24 Oct 2026 07:59:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "a93da5d06198378c2ab9a436bf0017e6",
+    "fetched_at": "2026-10-25T14:02:20.576436+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+    "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+    "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+    "published": "Sun, 25 Oct 2026 07:24:58 -0400",
+    "source": "NPR Topics: World",
+    "id": "6462626f6bcf72d9195dcb868d84eaee",
+    "fetched_at": "2026-10-25T14:02:19.397849+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+    "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 07:36:02 GMT",
+    "source": "BBC News",
+    "id": "9c9fc1818fe51c2a8fb9784eba392f6f",
+    "fetched_at": "2026-10-25T14:02:18.250479+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+    "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 23:11:31 GMT",
+    "source": "BBC News",
+    "id": "29995eeb8b8ab41f46855cfbdebed34f",
+    "fetched_at": "2026-10-25T14:02:17.104323+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
     "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
     "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "0ac5c4ddac765c8c91496464d150029b",
     "fetched_at": "2026-10-24T13:45:33.287082+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Soldiers patrol Milan streets as shops board up ahead of protests",
-    "summary": "Milan is on alert ahead of expected protests, with additional soldiers deployed and shops boarding up their windows a week after looting and clashes with police.",
-    "link": "https://www.euronews.com/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests",
-    "published": "Sat, 24 Oct 2026 14:06:25 +0200",
-    "source": "News | Euronews RSS",
-    "id": "776365d77d80fd235788916b934ff255",
-    "fetched_at": "2026-10-24T13:45:33.287081+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-    "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 06:26:25 GMT",
-    "source": "BBC News",
-    "id": "276e95204ae360f96de611676295e549",
-    "fetched_at": "2026-10-24T13:45:33.287080+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Denmark to ban mink farming in government U-turn",
-    "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 12:17:45 GMT",
-    "source": "BBC News",
-    "id": "3da85c33ed15ec295352e7800c857a44",
-    "fetched_at": "2026-10-24T13:45:33.287079+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-    "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 23 Oct 2026 19:42:08 GMT",
-    "source": "BBC News",
-    "id": "37d6ddf4d0306a92ec27c1075a34caef",
-    "fetched_at": "2026-10-24T13:45:33.287078+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine says Starlink connection 'now stable' after network limits",
-    "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 24 Oct 2026 12:12:40 GMT",
-    "source": "BBC News",
-    "id": "fbfc9c6bc73e065077ef71d254555aed",
-    "fetched_at": "2026-10-24T13:45:33.287077+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
-    "summary": "On the 43rd anniversary of the Beirut barracks terror attack that killed 241 Americans, a rabbi recalls how he and two Christian chaplains rushed to aid the wounded and comfort the survivors.",
-    "link": "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
-    "published": "Fri, 23 Oct 2026 08:17:46 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "839cbaf456adec5109be3ffe6a8b131f",
-    "fetched_at": "2026-10-24T13:45:33.287076+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fifty Antifa groups in France join vast network to ensure chaos in weekend protests",
-    "summary": "A Fox News Digital investigation identified 50 militant Antifa cells mobilizing protesters to descend on Orléans for the National Rally congress.",
-    "link": "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
-    "published": "Fri, 23 Oct 2026 08:31:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "8fcac07026900d745a8725e596094c0d",
-    "fetched_at": "2026-10-24T13:45:33.287069+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Serbia’s longtime leader faces biggest political test as students mount election challenge",
-    "summary": "Serbian President Aleksandar Vucic resigned to run for prime minister, facing his biggest electoral challenge in 14 years by a political party founded by student protesters.",
-    "link": "https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge",
-    "published": "Fri, 23 Oct 2026 10:03:19 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "14d3b4913fcaafe58a67e93bd4e86d40",
-    "fetched_at": "2026-10-24T13:45:32.191980+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-    "summary": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-    "published": "Fri, 23 Oct 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "2bed0c79fbb3a61a79ef0cf600685a3a",
-    "fetched_at": "2026-10-24T13:45:31.089947+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-    "summary": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
-    "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-    "published": "Fri, 23 Oct 2026 05:00:00 -0400",
-    "source": "NPR Topics: World",
-    "id": "92d8756b7baeb53f08de8b0233f4ec7c",
-    "fetched_at": "2026-10-24T13:45:29.993030+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "European student protests take aim at Serbia's elections",
-    "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-    "published": "Sat, 24 Oct 2026 07:42:11 -0400",
-    "source": "NPR Topics: World",
-    "id": "3fdd92b332dbe734894251a338572bba",
-    "fetched_at": "2026-10-24T13:45:28.893672+00:00"
   }
 ]
