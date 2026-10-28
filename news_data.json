@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+    "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 01:46:38 GMT",
+    "source": "BBC News",
+    "id": "3ea3c8b8e4a3f8cdb91bddfc76f908ae",
+    "fetched_at": "2026-10-28T07:47:04.347294+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "India evacuates tens of thousands as Cyclone Arnab makes landfall",
+    "summary": "Cyclone Arnab strengthened into a “very severe” cyclonic storm late Tuesday with gusting winds and heavy rain reported in several coastal areas.",
+    "link": "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall",
+    "published": "Wed, 28 Oct 2026 05:23:20 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d88521d2b3511df2aa4e192dd3aa0ca0",
+    "fetched_at": "2026-10-28T07:47:04.347292+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 28th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning",
+    "published": "Wed, 28 Oct 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "a1ce41d4d344bd0928e30247d602e10e",
+    "fetched_at": "2026-10-28T07:47:04.347252+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe Today: Israel faces deadlock after vote, Nordic leaders hold rare Putin call",
+    "summary": "Israel's election has ended in apparent deadlock, with neither Benjamin Netanyahu nor Gadi Eisenkot on track for a majority. Finland's and Norway's leaders have phoned Vladimir Putin as Europe seeks a seat at the table. We also cover Serbia's vote, the upcoming US midterms, and Mbappé's China row.",
+    "link": "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call",
+    "published": "Wed, 28 Oct 2026 08:01:50 +0100",
+    "source": "News | Euronews RSS",
+    "id": "8aa0812e95c254af172b47482dae7f94",
+    "fetched_at": "2026-10-28T07:47:03.226543+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
+    "summary": "Pakistan’s Supreme Court upheld a Christian man’s death sentence for blasphemy in a historic ruling that advocates warn could have far-reaching consequences.",
+    "link": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
+    "published": "Tue, 27 Oct 2026 10:48:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fee307c2746e820a9645d21f91fde4ad",
+    "fetched_at": "2026-10-28T07:47:02.110910+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+    "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
+    "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+    "published": "Tue, 27 Oct 2026 07:39:52 -0400",
+    "source": "NPR Topics: World",
+    "id": "8da86be312cbaa44527c9998e9f3f703",
+    "fetched_at": "2026-10-28T07:47:01.002635+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A 'Green Army' is out to thwart El Niño flooding",
+    "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+    "published": "Tue, 27 Oct 2026 10:12:35 -0400",
+    "source": "NPR Topics: World",
+    "id": "2b9014a254aa433529109d2a302f1314",
+    "fetched_at": "2026-10-28T07:46:59.862045+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+    "summary": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+    "published": "Tue, 27 Oct 2026 10:41:17 -0400",
+    "source": "NPR Topics: World",
+    "id": "50857b9db9b4dcbd3c002cea86b8a400",
+    "fetched_at": "2026-10-28T07:46:58.729236+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+    "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+    "published": "Tue, 27 Oct 2026 21:58:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "e83d9683ab624ebf1ad03b70e310c6b9",
+    "fetched_at": "2026-10-28T07:46:57.491893+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
+    "summary": "The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 02:47:45 GMT",
+    "source": "BBC News",
+    "id": "b70fff8b541481e7810d618ab79642df",
+    "fetched_at": "2026-10-28T07:46:56.364690+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
     "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
     "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "BBC News",
     "id": "bc57836f215762fcea3cc928f3e730b3",
     "fetched_at": "2026-10-27T15:38:22.377536+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
-    "summary": "A Russian missile and drone attack on Kyiv killed one person and injured 15. Emergency workers rescued a dog from the rubble, while strikes damaged university buildings and a major bridge.",
-    "link": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
-    "published": "Tue, 27 Oct 2026 10:35:08 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d42b7643b3b78b5bed9e1d66d1d298d0",
-    "fetched_at": "2026-10-27T15:38:22.377534+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkey: tornado kills at least four workers at Antalya construction site",
-    "summary": "At least four workers died when a tornado struck a construction site in Antalya, overturning accommodation cabins and a tower crane. Heavy rain also flooded roads in Istanbul.",
-    "link": "https://www.euronews.com/video/2026/10/27/turkey-tornado-kills-at-least-four-workers-at-antalya-construction-site",
-    "published": "Tue, 27 Oct 2026 11:39:29 +0100",
-    "source": "News | Euronews RSS",
-    "id": "461f1c32723f85fd6bbf398b09e3b0be",
-    "fetched_at": "2026-10-27T15:38:22.377533+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 27th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-midday",
-    "published": "Tue, 27 Oct 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "51c4999d083164706a435a0d20879cc0",
-    "fetched_at": "2026-10-27T15:38:22.377531+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian archaeologists discover links to tomb of Jesus underneath Jerusalem's Church of the Holy Sepulchre",
-    "summary": "Italian researchers have found a burial ground beneath Jerusalem's Church of the Holy Sepulchre, matching biblical accounts of the location of Jesus' burial.",
-    "link": "https://www.euronews.com/2026/10/27/italian-archaeologists-discover-links-to-tomb-of-jesus-underneath-jerusalems-church-of-the",
-    "published": "Tue, 27 Oct 2026 15:04:50 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9444662b97c5e949eb515857d00c33c1",
-    "fetched_at": "2026-10-27T15:38:22.377530+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Unacceptable violation': Syria condemns Jordan airstrikes",
-    "summary": "A government spokesperson said Jordan had \"avoided\" civilian sites and that it regretted \"unintended casualties,\" stressing that the country had \"deep respect\" for the Syrian state and people.",
-    "link": "https://www.euronews.com/2026/10/27/unacceptable-violation-syria-condemns-jordan-airstrikes",
-    "published": "Tue, 27 Oct 2026 15:42:02 +0100",
-    "source": "News | Euronews RSS",
-    "id": "c1f17bb0e2260bee2ab28cf1630d5bc0",
-    "fetched_at": "2026-10-27T15:38:22.377528+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "source": "BBC News",
-    "id": "cf65eabe018d21e2555393413d52046c",
-    "fetched_at": "2026-10-27T15:38:22.377526+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netherlands pulls out of Eurovision again over Israel participation",
-    "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 11:23:19 GMT",
-    "source": "BBC News",
-    "id": "00e553ccccd59c741fe1a3ff1888d746",
-    "fetched_at": "2026-10-27T15:38:22.377525+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway and Finland leaders hold rare call with Putin",
-    "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 14:23:05 GMT",
-    "source": "BBC News",
-    "id": "1f1bb92ac137db538f421fd0358d3c37",
-    "fetched_at": "2026-10-27T15:38:22.377523+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Israeli PM emerges as wild card in high-stakes election with Middle East's future at stake",
-    "summary": "Naftali Bennett&apos;s Middle East vision includes expanding the Abraham Accords, but polls show him trailing Gadi Eisenkot and Prime Minister Netanyahu ahead of Israel&apos;s election.",
-    "link": "https://www.foxnews.com/world/former-israeli-pm-emerges-wildcard-high-stakes-election-middle-easts-future-stake",
-    "published": "Mon, 26 Oct 2026 10:49:56 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "086f738374ce931d890aff174cebe88e",
-    "fetched_at": "2026-10-27T15:38:22.377521+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ceasefire negotiated by Melania Trump holds in Russia-occupied Ukrainian city",
-    "summary": "A ceasefire in the Russian-held Ukrainian city of Oleshky, where first lady Melania Trump said the situation &quot;is dire,&quot; went into effect on Tuesday.",
-    "link": "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city",
-    "published": "Tue, 27 Oct 2026 08:41:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "16c180cddb21621cb223a9ab0b684b54",
-    "fetched_at": "2026-10-27T15:38:22.377518+00:00"
   }
 ]
