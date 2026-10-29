@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Girl seriously injured in wolf attack at German wildlife park",
+    "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 22:08:52 GMT",
+    "source": "BBC News",
+    "id": "68acadd71e5374e91e37eb91844be7cf",
+    "fetched_at": "2026-10-29T01:27:55.829991+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Support for UN vote to end US embargo on Cuba falls to 30-year low",
+    "summary": "Similar resolutions have been approved almost every year since 1992, but usually by overwhelming margins.",
+    "link": "https://www.euronews.com/2026/10/28/support-for-un-vote-to-end-us-embargo-on-cuba-falls-to-30-year-low",
+    "published": "Wed, 28 Oct 2026 22:45:20 +0100",
+    "source": "News | Euronews RSS",
+    "id": "55bb1d626deb8932820441e9c059241c",
+    "fetched_at": "2026-10-29T01:27:55.829988+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+    "summary": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations.",
+    "link": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
+    "published": "Thu, 29 Oct 2026 00:10:38 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b46957a431ac09af7e4b29b7e41fea4b",
+    "fetched_at": "2026-10-29T01:27:55.829984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putellas wins record-equalling third Ballon d'Or",
+    "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 23:14:39 GMT",
+    "source": "BBC News",
+    "id": "05c7fd534250325124f427c03e7ff5a6",
+    "fetched_at": "2026-10-29T01:27:55.829982+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+    "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+    "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 13:25:54 GMT",
+    "source": "BBC News",
+    "id": "e65ddd22b0efd33e797f67616c0e8063",
+    "fetched_at": "2026-10-29T01:27:55.829978+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 22:11:08 GMT",
+    "source": "BBC News",
+    "id": "33ab72d6b471a853da3214244c6a5adf",
+    "fetched_at": "2026-10-29T01:27:55.829950+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "High-speed train crash kills at least 68 people in Spain",
+    "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 21:38:54 GMT",
+    "source": "BBC News",
+    "id": "66c7cc47fd052fb31e156e1afb550be2",
+    "fetched_at": "2026-10-29T01:27:54.674996+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+    "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+    "published": "Tue, 27 Oct 2026 16:45:39 -0400",
+    "source": "NPR Topics: World",
+    "id": "5c5cc2e27308034019bb42342d6c2458",
+    "fetched_at": "2026-10-29T01:27:53.535417+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
+    "summary": "Brazil's defeated candidate Flávio Bolsonaro arrives in the U.S. after a multi-country journey as Washington says it will issue him a visa.",
+    "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/bolsonaro-brazil-lula-election-trump",
+    "published": "Tue, 27 Oct 2026 21:58:08 -0400",
+    "source": "NPR Topics: World",
+    "id": "651a0522fd3a9344555c36322496ca43",
+    "fetched_at": "2026-10-29T01:27:52.388971+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+    "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+    "published": "Wed, 28 Oct 2026 17:46:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "e6661c3f48fa29af1b3ac7a883ac2e91",
+    "fetched_at": "2026-10-29T01:27:51.212578+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+    "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+    "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 21:46:43 GMT",
+    "source": "BBC News",
+    "id": "75ecb27658a5da663ec30db104f8d586",
+    "fetched_at": "2026-10-29T01:27:50.071269+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+    "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 21:16:30 GMT",
+    "source": "BBC News",
+    "id": "3bf5e16794cf4de8828193bef5816e82",
+    "fetched_at": "2026-10-29T01:27:48.954379+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 23:11:00 GMT",
+    "source": "BBC News",
+    "id": "75dde5e51c0faca5db2e3c125e171d75",
+    "fetched_at": "2026-10-29T01:27:47.805280+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "How could Israel break election deadlock? Here are four scenarios",
     "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
     "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "NPR Topics: World",
     "id": "1005ddf3e90d9df68de315c584ffb030",
     "fetched_at": "2026-10-28T14:44:36.533261+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Partial results from Israel's contentious election show no clear winner",
-    "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-    "published": "Wed, 28 Oct 2026 04:46:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "ac4ac29d51eafaf4865a177406271a82",
-    "fetched_at": "2026-10-28T14:44:35.404804+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
-    "summary": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
-    "published": "Wed, 28 Oct 2026 04:47:18 -0400",
-    "source": "NPR Topics: World",
-    "id": "e6dfc38eeaae6cfbb226b7902507dc5f",
-    "fetched_at": "2026-10-28T14:44:34.274226+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dozens are dead in a high-speed train crash in Spain",
-    "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-    "published": "Wed, 28 Oct 2026 06:09:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "0dd9eca69122d782b474d266c99c20c3",
-    "fetched_at": "2026-10-28T14:44:33.153291+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-    "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-    "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-    "published": "Wed, 28 Oct 2026 07:28:55 -0400",
-    "source": "NPR Topics: World",
-    "id": "251ad95c4004f25bcfd8eb4a746bbecf",
-    "fetched_at": "2026-10-28T14:44:32.028265+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-    "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 06:15:24 GMT",
-    "source": "BBC News",
-    "id": "4b66a165f18a624cf8dd0798d85348c7",
-    "fetched_at": "2026-10-28T14:44:30.896268+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four investigations Democrats could launch if they win control of Congress",
-    "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 11:00:12 GMT",
-    "source": "BBC News",
-    "id": "bb80d659581f63afdd7eede1ae3012d3",
-    "fetched_at": "2026-10-28T14:44:29.737021+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-    "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 01:46:38 GMT",
-    "source": "BBC News",
-    "id": "3ea3c8b8e4a3f8cdb91bddfc76f908ae",
-    "fetched_at": "2026-10-28T07:47:04.347294+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India evacuates tens of thousands as Cyclone Arnab makes landfall",
-    "summary": "Cyclone Arnab strengthened into a “very severe” cyclonic storm late Tuesday with gusting winds and heavy rain reported in several coastal areas.",
-    "link": "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall",
-    "published": "Wed, 28 Oct 2026 05:23:20 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d88521d2b3511df2aa4e192dd3aa0ca0",
-    "fetched_at": "2026-10-28T07:47:04.347292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 28th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning",
-    "published": "Wed, 28 Oct 2026 07:00:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "a1ce41d4d344bd0928e30247d602e10e",
-    "fetched_at": "2026-10-28T07:47:04.347252+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe Today: Israel faces deadlock after vote, Nordic leaders hold rare Putin call",
-    "summary": "Israel's election has ended in apparent deadlock, with neither Benjamin Netanyahu nor Gadi Eisenkot on track for a majority. Finland's and Norway's leaders have phoned Vladimir Putin as Europe seeks a seat at the table. We also cover Serbia's vote, the upcoming US midterms, and Mbappé's China row.",
-    "link": "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call",
-    "published": "Wed, 28 Oct 2026 08:01:50 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8aa0812e95c254af172b47482dae7f94",
-    "fetched_at": "2026-10-28T07:47:03.226543+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
-    "summary": "Pakistan’s Supreme Court upheld a Christian man’s death sentence for blasphemy in a historic ruling that advocates warn could have far-reaching consequences.",
-    "link": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
-    "published": "Tue, 27 Oct 2026 10:48:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fee307c2746e820a9645d21f91fde4ad",
-    "fetched_at": "2026-10-28T07:47:02.110910+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-    "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-    "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-    "published": "Tue, 27 Oct 2026 07:39:52 -0400",
-    "source": "NPR Topics: World",
-    "id": "8da86be312cbaa44527c9998e9f3f703",
-    "fetched_at": "2026-10-28T07:47:01.002635+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A 'Green Army' is out to thwart El Niño flooding",
-    "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
-    "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-    "published": "Tue, 27 Oct 2026 10:12:35 -0400",
-    "source": "NPR Topics: World",
-    "id": "2b9014a254aa433529109d2a302f1314",
-    "fetched_at": "2026-10-28T07:46:59.862045+00:00"
   }
 ]
