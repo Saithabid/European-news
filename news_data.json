@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+    "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+    "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 06:24:56 GMT",
+    "source": "BBC News",
+    "id": "4393e8f54934746d71ac67cee586b40a",
+    "fetched_at": "2026-10-29T07:53:58.564861+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+    "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+    "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 23:11:59 GMT",
+    "source": "BBC News",
+    "id": "1573ad194f2a5bec2a52e8d5d8d74aea",
+    "fetched_at": "2026-10-29T07:53:58.564858+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 19:15:58 GMT",
+    "source": "BBC News",
+    "id": "5d580a8ced6cd99d82aa693091182f03",
+    "fetched_at": "2026-10-29T07:53:58.564855+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bolsonaro claims he is Brazil's true leader after fleeing to US",
+    "summary": "US President Donald Trump's administration has strong links to Bolsonaro and his father Jair Bolsonaro, who is under house arrest in Brazil after attempting to overturn his own electoral loss to Lula in 2022.",
+    "link": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us",
+    "published": "Thu, 29 Oct 2026 06:09:19 +0100",
+    "source": "News | Euronews RSS",
+    "id": "40cca2cfcab0a94f7450415546dfe006",
+    "fetched_at": "2026-10-29T07:53:58.564852+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 29th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning",
+    "published": "Thu, 29 Oct 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "ec254a88edc5838b92fc40e4be4ced9c",
+    "fetched_at": "2026-10-29T07:53:58.564849+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe Today: Second high-speed rail disaster in nine months leaves Spain in grief",
+    "summary": "At least 68 people died when two high-speed trains collided south of Madrid, Spain's second deadly rail crash this year. In Montreal, EU leaders meet Mark Carney to launch an 'Alliance for the Future'. We also look at next week's US midterms, Ukraine's defence capabilities, and rising oil prices.",
+    "link": "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief",
+    "published": "Thu, 29 Oct 2026 08:01:59 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2a1699ef661600c7fcd9c2b41170afa6",
+    "fetched_at": "2026-10-29T07:53:58.564845+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
+    "summary": "Pakistan’s Supreme Court upheld a Christian man’s death sentence for blasphemy in a historic ruling that advocates warn could have far-reaching consequences.",
+    "link": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
+    "published": "Tue, 27 Oct 2026 10:48:54 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "fee307c2746e820a9645d21f91fde4ad",
+    "fetched_at": "2026-10-29T07:53:58.564817+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "A U.S. cruise ship suspends a global voyage due to fuel costs, stranding 200 passengers",
+    "summary": "A U.S. cruise ship on an around-the-world voyage that touted its cabins as floating homes suspended its three-year journey in Cambodia due to fuel costs, forcing hundreds of passengers to disembark.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-fuel-costs",
+    "published": "Wed, 28 Oct 2026 03:57:51 -0400",
+    "source": "NPR Topics: World",
+    "id": "6e2adbdb0ae64be372e746ed2c30cdef",
+    "fetched_at": "2026-10-29T07:53:57.450868+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Partial results from Israel's contentious election show no clear winner",
+    "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
+    "published": "Wed, 28 Oct 2026 04:46:47 -0400",
+    "source": "NPR Topics: World",
+    "id": "ac4ac29d51eafaf4865a177406271a82",
+    "fetched_at": "2026-10-29T07:53:56.345483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
+    "summary": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
+    "published": "Wed, 28 Oct 2026 04:47:18 -0400",
+    "source": "NPR Topics: World",
+    "id": "e6dfc38eeaae6cfbb226b7902507dc5f",
+    "fetched_at": "2026-10-29T07:53:55.231632+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dozens are dead in a high-speed train crash in Spain",
+    "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+    "published": "Wed, 28 Oct 2026 06:09:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "0dd9eca69122d782b474d266c99c20c3",
+    "fetched_at": "2026-10-29T07:53:54.101076+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+    "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+    "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+    "published": "Wed, 28 Oct 2026 07:28:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "251ad95c4004f25bcfd8eb4a746bbecf",
+    "fetched_at": "2026-10-29T07:53:52.982692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+    "summary": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+    "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+    "published": "Thu, 29 Oct 2026 02:10:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "d9a3fb7ef8d9a1115ea801ffb85a8089",
+    "fetched_at": "2026-10-29T07:53:51.848199+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Four investigations Democrats could launch if they win control of Congress",
+    "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 11:00:12 GMT",
+    "source": "BBC News",
+    "id": "bb80d659581f63afdd7eede1ae3012d3",
+    "fetched_at": "2026-10-29T07:53:50.728927+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Girl seriously injured in wolf attack at German wildlife park",
     "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
     "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "0a02c121a81a1c12657ad039eb2f9139",
     "fetched_at": "2026-10-28T14:44:37.670577+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First aerial images show scene of deadly train crash in Toledo, Spain",
-    "summary": "Aerial footage shows the aftermath of a collision between two high-speed trains near Urda, in Spain's Toledo province, as emergency crews continue rescue and response operations.",
-    "link": "https://www.euronews.com/2026/10/28/first-aerial-images-show-scene-of-deadly-train-crash-in-toledo-spain",
-    "published": "Wed, 28 Oct 2026 12:12:05 +0100",
-    "source": "News | Euronews RSS",
-    "id": "343939ac02f71cbc55ca9b5483294257",
-    "fetched_at": "2026-10-28T14:44:37.670576+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
-    "summary": "On Monday, Bolsonaro described the travel ban as an attempt to intimidate him, insisting he had no plans to leave Brazil.",
-    "link": "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a",
-    "published": "Wed, 28 Oct 2026 12:14:24 +0100",
-    "source": "News | Euronews RSS",
-    "id": "778ab6b7b9e31b0e4ba0af51002a2bad",
-    "fetched_at": "2026-10-28T14:44:37.670575+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain: First footage reveals wreckage of deadly high-speed train crash",
-    "summary": "At least 10 people died when a high-speed train struck another near Toledo, Spain. Two carriages derailed, leaving rescuers searching through the wreckage as authorities warned the death toll could rise.",
-    "link": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-    "published": "Wed, 28 Oct 2026 12:16:14 +0100",
-    "source": "News | Euronews RSS",
-    "id": "3750692f57301d4e26fbfcd4064ccf3a",
-    "fetched_at": "2026-10-28T14:44:37.670574+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump rolls back methane rules for US oil and gas industry",
-    "summary": "Trump is seeking to lower energy costs ahead of next week's midterm elections, as rising oil prices linked to the US war with Iran fuel voter frustration.",
-    "link": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
-    "published": "Wed, 28 Oct 2026 14:29:45 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9400ef2496378dbc40365db816423983",
-    "fetched_at": "2026-10-28T14:44:37.670573+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "source": "BBC News",
-    "id": "cf65eabe018d21e2555393413d52046c",
-    "fetched_at": "2026-10-28T14:44:37.670571+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Goodbye to the everyman who gatecrashed the greats",
-    "summary": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 07:14:18 GMT",
-    "source": "BBC News",
-    "id": "22641a5daee76326093a6ae86c6c9ecc",
-    "fetched_at": "2026-10-28T14:44:37.670570+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netherlands pulls out of Eurovision again over Israel participation",
-    "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 11:23:19 GMT",
-    "source": "BBC News",
-    "id": "00e553ccccd59c741fe1a3ff1888d746",
-    "fetched_at": "2026-10-28T14:44:37.670569+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Norway and Finland leaders hold rare call with Putin",
-    "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 18:28:23 GMT",
-    "source": "BBC News",
-    "id": "1f1bb92ac137db538f421fd0358d3c37",
-    "fetched_at": "2026-10-28T14:44:37.670568+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-    "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-    "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 20:42:38 GMT",
-    "source": "BBC News",
-    "id": "5042d52247f39a69a02a61ee85517f35",
-    "fetched_at": "2026-10-28T14:44:37.670566+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ceasefire negotiated by Melania Trump holds in Russia-occupied Ukrainian city",
-    "summary": "A ceasefire in the Russian-held Ukrainian city of Oleshky, where first lady Melania Trump said the situation &quot;is dire,&quot; went into effect on Tuesday.",
-    "link": "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city",
-    "published": "Tue, 27 Oct 2026 08:41:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "16c180cddb21621cb223a9ab0b684b54",
-    "fetched_at": "2026-10-28T14:44:37.670564+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu defies exit polls as vote shifts in his favor, but majority remains elusive",
-    "summary": "With 70% of votes counted, Benjamin Netanyahu&apos;s Likud leads, but three possible paths to government formation keep Israel&apos;s election uncertain.",
-    "link": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
-    "published": "Wed, 28 Oct 2026 06:10:20 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "355a5d7b8d05604944747015450d86b4",
-    "fetched_at": "2026-10-28T14:44:37.670563+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain high-speed train crash kills at least 10",
-    "summary": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 10 people on Wednesday.",
-    "link": "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
-    "published": "Wed, 28 Oct 2026 07:08:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "dce9a371f555dfe8168ffb8edfe4880f",
-    "fetched_at": "2026-10-28T14:44:37.670561+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Attacker shouting 'Allahu Akbar' killed outside Israeli Embassy in Serbia, police say",
-    "summary": "An assailant shouting Allahu Akbar attacked a Gendarmerie officer outside the Israeli Embassy in Belgrade before being fatally shot by the officer.",
-    "link": "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
-    "published": "Wed, 28 Oct 2026 08:17:34 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e676d212c0089ddf67e4c77522b9b901",
-    "fetched_at": "2026-10-28T14:44:37.670527+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-    "summary": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
-    "published": "Wed, 28 Oct 2026 03:57:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "1005ddf3e90d9df68de315c584ffb030",
-    "fetched_at": "2026-10-28T14:44:36.533261+00:00"
   }
 ]
