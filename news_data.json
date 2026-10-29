@@ -1,6 +1,306 @@
 [
   {
     "region": "Europe",
+    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 12:49:17 GMT",
+    "source": "BBC News",
+    "id": "6ba1d5798c63e519ba9d4bbf87323427",
+    "fetched_at": "2026-10-29T14:51:55.561777+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+    "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+    "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 13:25:07 GMT",
+    "source": "BBC News",
+    "id": "a9e2d114b23c8979497411d20e941ed5",
+    "fetched_at": "2026-10-29T14:51:55.561775+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Bahamas: King Charles III dances with locals during Caribbean visit",
+    "summary": "King Charles III showed off his dance moves during a colourful Junkanoo street parade in Nassau, the capital of the Bahamas, on Wednesday, 28 October, as part of his first Caribbean tour since becoming monarch.",
+    "link": "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit",
+    "published": "Thu, 29 Oct 2026 08:56:10 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5d21b23bf0d30e5b2b2f694f8e88334e",
+    "fetched_at": "2026-10-29T14:51:55.561773+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin calls Elon Musk a 'genius' as Russia builds its own Starlink rival",
+    "summary": "Russian President Vladimir Putin has praised Elon Musk as a “genius” for deploying thousands of satellites into orbit. Speaking in Moscow, Putin highlighted Russia’s efforts to develop its own satellite internet network to rival Musk’s Starlink.",
+    "link": "https://www.euronews.com/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival",
+    "published": "Thu, 29 Oct 2026 09:34:40 +0100",
+    "source": "News | Euronews RSS",
+    "id": "13ee25e91a69c427f36ae6de4ba1b0da",
+    "fetched_at": "2026-10-29T14:51:55.561771+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain: cranes clear twisted train wreckage as rescuers work through the night",
+    "summary": "Rescue teams worked through the night at the site of a train collision that killed 68 people near Toledo. Cranes continued clearing the wreckage as authorities set up a temporary morgue to identify victims.",
+    "link": "https://www.euronews.com/video/2026/10/29/spain-cranes-clear-twisted-train-wreckage-as-rescuers-work-through-the-night",
+    "published": "Thu, 29 Oct 2026 11:32:27 +0100",
+    "source": "News | Euronews RSS",
+    "id": "ee87b6d87f8c0fa43dda3011da8308f0",
+    "fetched_at": "2026-10-29T14:51:55.561769+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 29th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday",
+    "published": "Thu, 29 Oct 2026 12:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "c49382fbbe730db90bb16f89f4d02345",
+    "fetched_at": "2026-10-29T14:51:55.561767+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israel: protesters demand Arab-Jewish unity government after election",
+    "summary": "Protesters took to the streets of Tel Aviv to demand a government bringing together Jewish and Arab parties. With Israel's election producing no clear winner, police moved in to disperse activists blocking traffic.",
+    "link": "https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election",
+    "published": "Thu, 29 Oct 2026 12:20:33 +0100",
+    "source": "News | Euronews RSS",
+    "id": "c08ab27364530a74fefd710dbc0829f3",
+    "fetched_at": "2026-10-29T14:51:55.561765+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: Fuel crisis strands 200 passengers aboard luxury cruise ship Odyssey",
+    "summary": "Around 200 passengers on a residential cruise ship have been left stranded in Cambodia after its operator suspended operations amid soaring fuel costs. The MV Odyssey began its continuous world voyage from Belfast in October 2024, with some residents paying six figures for cabins.",
+    "link": "https://www.euronews.com/2026/10/29/watch-fuel-crisis-strands-200-passengers-aboard-luxury-cruise-ship-odyssey",
+    "published": "Thu, 29 Oct 2026 12:31:36 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d73d852c9d54eeab5bd53b7d56176f3f",
+    "fetched_at": "2026-10-29T14:51:55.561763+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "JD Vance contacts senior Iranian official in bid to revive peace talks",
+    "summary": "With less than a week until the US congressional midterm elections, the Wall Street Journal has reported that JD Vance has written to Mohsen Rezaei in a bid to revive negotiations, as Trump continues to warn of possible renewed strikes again",
+    "link": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
+    "published": "Thu, 29 Oct 2026 14:32:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b8c68e48ecca0cf03e7713d18595f802",
+    "fetched_at": "2026-10-29T14:51:55.561761+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rembrandt's masterpieces become tattoos in the Netherlands",
+    "summary": "Visitors to the Rembrandt House Museum in Amsterdam, the Netherlands, can once again take home a piece of the Dutch master's art, permanently tattooed on their skin.",
+    "link": "https://www.euronews.com/video/2026/10/29/rembrandts-masterpieces-become-tattoos-in-the-netherlands",
+    "published": "Thu, 29 Oct 2026 14:37:29 +0100",
+    "source": "News | Euronews RSS",
+    "id": "f48cef5b64dff44931bfbbb37e1d739c",
+    "fetched_at": "2026-10-29T14:51:55.561759+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "After the victory: The foreign policy and governing challenges facing Serbia’s student movement",
+    "summary": "The victory of Serbia’s Student List has fundamentally changed the country’s political landscape. But winning the election may prove to have been the easier part.",
+    "link": "https://www.euronews.com/2026/10/29/after-the-victory-the-foreign-policy-and-governing-challenges-facing-serbias-student-movem",
+    "published": "Thu, 29 Oct 2026 14:46:45 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7519f2174f2b9c726ba1d6f1d0fef803",
+    "fetched_at": "2026-10-29T14:51:55.561757+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Albania: opposition MPs disrupt parliament with smoke flares",
+    "summary": "Opposition MPs disrupted a parliamentary session in Albania by brandishing smoke flares and displaying photographs of injured protesters. They accused police of using violence against demonstrators demanding Prime Minister Edi Rama's resignation.",
+    "link": "https://www.euronews.com/video/2026/10/29/albania-opposition-mps-disrupt-parliament-with-smoke-flares",
+    "published": "Thu, 29 Oct 2026 15:08:58 +0100",
+    "source": "News | Euronews RSS",
+    "id": "0367323a7eb9e55c65997325a99e85e7",
+    "fetched_at": "2026-10-29T14:51:55.561755+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Norway and Finland leaders hold rare call with Putin",
+    "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 18:28:23 GMT",
+    "source": "BBC News",
+    "id": "1f1bb92ac137db538f421fd0358d3c37",
+    "fetched_at": "2026-10-29T14:51:55.561753+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 20:42:38 GMT",
+    "source": "BBC News",
+    "id": "5042d52247f39a69a02a61ee85517f35",
+    "fetched_at": "2026-10-29T14:51:55.561751+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+    "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+    "source": "BBC News",
+    "id": "6cf17b3c620e2fcc32ed9f67552f08e8",
+    "fetched_at": "2026-10-29T14:51:55.561749+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+    "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+    "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 13:44:39 GMT",
+    "source": "BBC News",
+    "id": "d1f48c92a7640c19af9796707dc41426",
+    "fetched_at": "2026-10-29T14:51:55.561747+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+    "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 14:08:23 GMT",
+    "source": "BBC News",
+    "id": "0feae1e5d2796c3ee246b1a7333e2517",
+    "fetched_at": "2026-10-29T14:51:55.561745+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 14:17:35 GMT",
+    "source": "BBC News",
+    "id": "370c168bb3fc55507621ba3ca0a63fe7",
+    "fetched_at": "2026-10-29T14:51:55.561742+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu defies exit polls as vote shifts in his favor, but majority remains elusive",
+    "summary": "With 70% of votes counted, Benjamin Netanyahu&apos;s Likud leads, but three possible paths to government formation keep Israel&apos;s election uncertain.",
+    "link": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
+    "published": "Wed, 28 Oct 2026 06:10:20 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "355a5d7b8d05604944747015450d86b4",
+    "fetched_at": "2026-10-29T14:51:55.561740+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Attacker shouting 'Allahu Akbar' killed outside Israeli Embassy in Serbia, police say",
+    "summary": "An assailant shouting Allahu Akbar attacked a Gendarmerie officer outside the Israeli Embassy in Belgrade before being fatally shot by the officer.",
+    "link": "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
+    "published": "Wed, 28 Oct 2026 08:17:34 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e676d212c0089ddf67e4c77522b9b901",
+    "fetched_at": "2026-10-29T14:51:55.561736+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu alleges fraud as Arab parties score record gains — emerge as potential kingmakers",
+    "summary": "Benjamin Netanyahu alleges Israel&apos;s election was &quot;stolen by Arab parties,&quot; demanding police investigate as Arab voter turnout hit record levels.",
+    "link": "https://www.foxnews.com/world/netanyahu-alleges-fraud-arab-parties-score-record-gains-emerge-potential-kingmakers",
+    "published": "Thu, 29 Oct 2026 06:12:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "956a442f0379d302dfe383bb1c8eaff5",
+    "fetched_at": "2026-10-29T14:51:55.561734+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu falls short of majority as Israel faces three possible paths to a new government",
+    "summary": "Benjamin Netanyahu&apos;s coalition falls short of a majority as Arab parties surge to 19 seats, giving the opposition a potential 67-seat block.",
+    "link": "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge",
+    "published": "Thu, 29 Oct 2026 09:47:49 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "417ff432472f565a16c470912a5184b3",
+    "fetched_at": "2026-10-29T14:51:55.561731+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How AI drones are influencing the course of the Ukraine war",
+    "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+    "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+    "published": "Thu, 29 Oct 2026 05:02:00 -0400",
+    "source": "NPR Topics: World",
+    "id": "63f588c85f07b4255f0dbbd91e5795fd",
+    "fetched_at": "2026-10-29T14:51:55.561700+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+    "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+    "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+    "published": "Thu, 29 Oct 2026 07:34:30 -0400",
+    "source": "NPR Topics: World",
+    "id": "2c01e8a8fc3dda7357f9b812b392b156",
+    "fetched_at": "2026-10-29T14:51:54.299795+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US conservative activists charged with unlawful voting in election stunt",
+    "summary": "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people.",
+    "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 01:17:32 GMT",
+    "source": "BBC News",
+    "id": "69f9bad0f933905dd4ad430e601aa448",
+    "fetched_at": "2026-10-29T14:51:53.139878+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 01:27:40 GMT",
+    "source": "BBC News",
+    "id": "d78f2efce86e738479f72c8bc38ca873",
+    "fetched_at": "2026-10-29T14:51:51.888152+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+    "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 03:09:10 GMT",
+    "source": "BBC News",
+    "id": "516a66284040f58320e2931280b56305",
+    "fetched_at": "2026-10-29T14:51:50.739304+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+    "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 12:27:31 GMT",
+    "source": "BBC News",
+    "id": "a9fabc18892752e9485193e85cdf6816",
+    "fetched_at": "2026-10-29T14:51:49.464907+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Voter voices: Which issues matter most to Americans?",
+    "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots.",
+    "link": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 10:52:33 GMT",
+    "source": "BBC News",
+    "id": "3fcbf9341f1c3fdb29d17951a6d27322",
+    "fetched_at": "2026-10-29T14:51:48.307410+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+    "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 11:27:05 GMT",
+    "source": "BBC News",
+    "id": "8cd4aea413aa07cf15c06cf2f0a63b2a",
+    "fetched_at": "2026-10-29T14:51:47.158382+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
     "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
     "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
@@ -298,305 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "498aa7c1f81fffd58ef46e6c92ef5e0c",
     "fetched_at": "2026-10-28T20:42:25.589071+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "60.000 runners, two million spectators, one city: New York gets ready for marathon day",
-    "summary": "New York will become the running capital of the world this Sunday. On November 1, nearly 60,000 people will line up at the start of the NYC Marathon, one of the world’s most iconic races. But what’s getting people running?",
-    "link": "https://www.euronews.com/2026/10/28/60000-runners-two-million-spectators-one-city-new-york-gets-ready-for-marathon-day",
-    "published": "Wed, 28 Oct 2026 17:48:39 +0100",
-    "source": "News | Euronews RSS",
-    "id": "3e51d7b1c9a6083ace99a6a6ff5675e1",
-    "fetched_at": "2026-10-28T20:42:25.589069+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 28th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening",
-    "published": "Wed, 28 Oct 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "558935a797068c6a7ea38b122d5beea1",
-    "fetched_at": "2026-10-28T20:42:25.589067+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dutch zookeeper dies after being mauled by leopard",
-    "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 19:30:37 GMT",
-    "source": "BBC News",
-    "id": "e080525e7af5c75c62b07b6efb485fda",
-    "fetched_at": "2026-10-28T20:42:25.589065+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-    "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 17:16:03 GMT",
-    "source": "BBC News",
-    "id": "9f605b0013167f1990c6503168faff31",
-    "fetched_at": "2026-10-28T20:42:25.589063+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What we know so far about deadly Spain train crash",
-    "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-    "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 15:36:11 GMT",
-    "source": "BBC News",
-    "id": "ef2b2040942cd6e24935530dbc8d4bc2",
-    "fetched_at": "2026-10-28T20:42:25.589061+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UK charges 2 men in suspected Iran-linked incident at RAF Fairford after US bombers pulled",
-    "summary": "Two men face charges under the U.K.&apos;s National Security Act after a September incident at RAF Fairford, a key base for U.S. military bombers.",
-    "link": "https://www.foxnews.com/world/uk-charges-2-men-suspected-iran-linked-incident-raf-fairford-us-bombers-pulled",
-    "published": "Tue, 27 Oct 2026 11:42:39 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "5ae2b32eaf37dafc54d9e85a6c0767f8",
-    "fetched_at": "2026-10-28T20:42:25.589059+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Serbia’s student movement topples Vucic’s party after 14 years, but political agenda remains unclear",
-    "summary": "Aleksandar Vucic conceded defeat to the Student List after a landslide victory ended his 14-year rule over Serbia in a historic election day.",
-    "link": "https://www.foxnews.com/world/serbias-student-movement-topples-vucics-party-after-14-years-political-agenda-remains-unclear",
-    "published": "Tue, 27 Oct 2026 13:59:28 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "08c9140b2e9aad86702675fb55646a88",
-    "fetched_at": "2026-10-28T20:42:25.589057+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Sen Flávio Bolsonaro flees Brazil for US after election loss, will be issued visas: State Department",
-    "summary": "The Brazilian far-right senator has reportedly headed to Florida two days after losing the presidential runoff to leftist incumbent Luiz Inácio Lula da Silva.",
-    "link": "https://www.foxnews.com/world/sen-flavio-bolsonaro-reportedly-flees-brazil-us-election-loss",
-    "published": "Tue, 27 Oct 2026 15:25:32 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "79d7cc2cf10210d43508d78929dea425",
-    "fetched_at": "2026-10-28T20:42:25.589055+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu gains overnight as Israel election heads toward political deadlock",
-    "summary": "Israel election exit polls show Benjamin Netanyahu&apos;s Likud and Gadi Eisenkot&apos;s Yashar locked in a fight with neither bloc reaching 61 Knesset seats.",
-    "link": "https://www.foxnews.com/world/israelis-vote-record-numbers-first-national-election-since-oct-7-hamas-massacre",
-    "published": "Tue, 27 Oct 2026 16:10:31 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "e2bdfbf23180c805d1dffbec3d9da824",
-    "fetched_at": "2026-10-28T20:42:25.589053+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain high-speed railway crash kills at least 68 after train stopped on tracks",
-    "summary": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 68 people on Wednesday.",
-    "link": "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
-    "published": "Wed, 28 Oct 2026 07:08:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "d33c004bd21460bec49be6ae34b8d0f2",
-    "fetched_at": "2026-10-28T20:42:25.589050+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Holocaust educator says Mamdani could learn from UK's targeted approach to antisemitism in schools",
-    "summary": "Britain accepted all 27 school antisemitism recommendations, drawing a sharp contrast with New York City Mayor Zohran Mamdani&apos;s broader plan.",
-    "link": "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools",
-    "published": "Wed, 28 Oct 2026 10:56:21 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "3248cdd31896a7e8ee163b3e6a558503",
-    "fetched_at": "2026-10-28T20:42:25.589047+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "GOP lawmakers urge Rubio to weigh visa restrictions on corrupt officials as Albania rocked by protests",
-    "summary": "Two Republican Congressmen urge Marco Rubio to impose visa restrictions on corrupt Albanian officials as violent protests demand Edi Rama&apos;s resignation.",
-    "link": "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests",
-    "published": "Wed, 28 Oct 2026 12:54:42 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0ca2dfee54b64621a9894295ab4e53f2",
-    "fetched_at": "2026-10-28T20:42:25.589045+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-    "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-    "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-    "published": "Tue, 27 Oct 2026 15:53:12 -0400",
-    "source": "NPR Topics: World",
-    "id": "f2363c43136c9915dfe37f3a80ba179a",
-    "fetched_at": "2026-10-28T20:42:25.589042+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-Israeli diplomat calls opposition's refusal to work with Arab parties 'reckless'",
-    "summary": "Why a stronger showing for Arab parties may not translate into political power in Israel.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
-    "published": "Wed, 28 Oct 2026 04:46:16 -0400",
-    "source": "NPR Topics: World",
-    "id": "39a11d790c48324d7f3a4e5f2f094635",
-    "fetched_at": "2026-10-28T20:42:25.589012+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
-    "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
-    "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 27 Oct 2026 19:56:02 GMT",
-    "source": "BBC News",
-    "id": "1f79677f748b37383aa87c0dc1fbd053",
-    "fetched_at": "2026-10-28T20:42:24.423653+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Jalen Hurts played with blood clot and what it means for NFL",
-    "summary": "Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.",
-    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 06:49:03 GMT",
-    "source": "BBC News",
-    "id": "4bafe2ae793ec640236f39c56e2ad060",
-    "fetched_at": "2026-10-28T20:42:23.252079+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Winner claims massive Canada lotto prize hours before expiration",
-    "summary": "It's rare for such a large lottery jackpot to go unclaimed - this one is worth C$40m (£21.4m).",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg039x08g2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 20:35:01 GMT",
-    "source": "BBC News",
-    "id": "a6ccd735d42c716f469595b065afb09c",
-    "fetched_at": "2026-10-28T20:42:22.116604+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
-    "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-    "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 19:42:42 GMT",
-    "source": "BBC News",
-    "id": "04f12f4f26a299d9167dd6209288bdee",
-    "fetched_at": "2026-10-28T20:42:20.950568+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US civil rights leader Dolores Huerta dies aged 96",
-    "summary": "Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 18:48:15 GMT",
-    "source": "BBC News",
-    "id": "0a1a7f0616816d1ae97e415258b3e233",
-    "fetched_at": "2026-10-28T20:42:19.787584+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How did Flávio Bolsonaro end up in Miami?",
-    "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-    "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 18:51:05 GMT",
-    "source": "BBC News",
-    "id": "40a92afde546ab145df9bc5ef79af909",
-    "fetched_at": "2026-10-28T20:42:18.617294+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-    "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 20:22:49 GMT",
-    "source": "BBC News",
-    "id": "fdec5cca9eeb7822dd5a4ca61569df6d",
-    "fetched_at": "2026-10-28T20:42:17.444674+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-    "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 04:32:36 GMT",
-    "source": "BBC News",
-    "id": "a80b7a8348cdad11c8724a8f2844ff32",
-    "fetched_at": "2026-10-28T14:44:37.670586+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-    "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-    "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 08:28:39 GMT",
-    "source": "BBC News",
-    "id": "8a0e5419979b7301684b84fe8f25a7e3",
-    "fetched_at": "2026-10-28T14:44:37.670585+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-    "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
-    "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 10:18:40 GMT",
-    "source": "BBC News",
-    "id": "7e3b764a6d43e2264db0ad7c4b9292ff",
-    "fetched_at": "2026-10-28T14:44:37.670583+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-    "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 10:17:54 GMT",
-    "source": "BBC News",
-    "id": "f60ff430c1b33f976261391e35810ae6",
-    "fetched_at": "2026-10-28T14:44:37.670582+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-    "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-    "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 10:31:22 GMT",
-    "source": "BBC News",
-    "id": "80819365fc82a34a161eb53eccdc638c",
-    "fetched_at": "2026-10-28T14:44:37.670581+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Africa tests 7.6-kilometre freight train in bid to break world record",
-    "summary": "South Africa's state-owned logistics company Transnet says it has tested the world's longest freight train. Measuring 7.6 kilometres and made up of 696 empty wagons, the train travelled 860 kilometres from Saldanha Bay to an inland iron ore mine.",
-    "link": "https://www.euronews.com/2026/10/28/south-africa-tests-76-kilometre-freight-train-in-bid-to-break-world-record",
-    "published": "Wed, 28 Oct 2026 07:38:58 +0100",
-    "source": "News | Euronews RSS",
-    "id": "645926b5665ff79726d0fc9d1c319696",
-    "fetched_at": "2026-10-28T14:44:37.670580+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: massive fire engulfs buildings after Russian strike on Kharkiv",
-    "summary": "Five people, including a 4-year-old child, were injured in an overnight Russian drone strike on Kharkiv. The attack set several buildings ablaze, with firefighters working under the threat of further strikes.",
-    "link": "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv",
-    "published": "Wed, 28 Oct 2026 08:43:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8bcc96952bf47bf4feab38ffb8c76171",
-    "fetched_at": "2026-10-28T14:44:37.670579+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Brazil: Lula celebrates 81st birthday after re-election victory",
-    "summary": "Brazil's re-elected President Luiz Inácio Lula da Silva celebrated his 81st birthday on Tuesday, 27 October, with dozens of supporters outside the Alvorada presidential palace in Brasília, just two days after winning a closely contested election.",
-    "link": "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory",
-    "published": "Wed, 28 Oct 2026 09:30:31 +0100",
-    "source": "News | Euronews RSS",
-    "id": "a5e51bc8ecdef8ed777de4e7d5516a1c",
-    "fetched_at": "2026-10-28T14:44:37.670578+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 28th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-midday",
-    "published": "Wed, 28 Oct 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "0a02c121a81a1c12657ad039eb2f9139",
-    "fetched_at": "2026-10-28T14:44:37.670577+00:00"
   }
 ]
