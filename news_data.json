@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 01:30:43 GMT",
+    "source": "BBC News",
+    "id": "75dde5e51c0faca5db2e3c125e171d75",
+    "fetched_at": "2026-10-30T01:29:04.741016+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+    "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 20:21:54 GMT",
+    "source": "BBC News",
+    "id": "7321dfb1abf8dbd74d5315649bb01619",
+    "fetched_at": "2026-10-30T01:29:04.741013+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain: minute of silence for train crash victims as king visits hospital",
+    "summary": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a minute of silence is held at the crash site.",
+    "link": "https://www.euronews.com/video/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital",
+    "published": "Thu, 29 Oct 2026 23:47:58 +0100",
+    "source": "News | Euronews RSS",
+    "id": "a074905dcd416f8d28063d3138cd786c",
+    "fetched_at": "2026-10-30T01:29:04.741010+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+    "summary": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed at opening humanitarian routes.",
+    "link": "https://www.euronews.com/video/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv",
+    "published": "Fri, 30 Oct 2026 00:15:02 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2cff1dfa7b287f07541195813ade0bff",
+    "fetched_at": "2026-10-30T01:29:04.741007+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 22:11:08 GMT",
+    "source": "BBC News",
+    "id": "33ab72d6b471a853da3214244c6a5adf",
+    "fetched_at": "2026-10-30T01:29:04.741003+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Girl seriously injured in wolf attack at German wildlife park",
+    "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 22:08:52 GMT",
+    "source": "BBC News",
+    "id": "68acadd71e5374e91e37eb91844be7cf",
+    "fetched_at": "2026-10-30T01:29:04.740975+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
+    "summary": "Kevin T has been charged with murder and attempted murder in connection with a terrorist enterprise.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 19:19:23 GMT",
+    "source": "BBC News",
+    "id": "4b6d0c644bdfe7713c3c8fc866c5835d",
+    "fetched_at": "2026-10-30T01:29:03.577997+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dozens are dead in a high-speed train crash in Spain",
+    "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+    "published": "Wed, 28 Oct 2026 06:09:46 -0400",
+    "source": "NPR Topics: World",
+    "id": "0dd9eca69122d782b474d266c99c20c3",
+    "fetched_at": "2026-10-30T01:29:02.414176+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+    "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+    "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+    "published": "Wed, 28 Oct 2026 07:28:55 -0400",
+    "source": "NPR Topics: World",
+    "id": "251ad95c4004f25bcfd8eb4a746bbecf",
+    "fetched_at": "2026-10-30T01:29:01.261582+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+    "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+    "published": "Wed, 28 Oct 2026 17:46:27 -0400",
+    "source": "NPR Topics: World",
+    "id": "e6661c3f48fa29af1b3ac7a883ac2e91",
+    "fetched_at": "2026-10-30T01:29:00.097557+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+    "summary": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
+    "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+    "published": "Thu, 29 Oct 2026 02:10:11 -0400",
+    "source": "NPR Topics: World",
+    "id": "d9a3fb7ef8d9a1115ea801ffb85a8089",
+    "fetched_at": "2026-10-30T01:28:58.916416+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 22:17:52 GMT",
+    "source": "BBC News",
+    "id": "370caab08a4b5cc25dda52824b1982f0",
+    "fetched_at": "2026-10-30T01:28:57.752881+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sir Patrick Stewart: The life of an iconic actor",
+    "summary": "Over seven decades, Sir Patrick received multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.",
+    "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 21:57:04 GMT",
+    "source": "BBC News",
+    "id": "289220812801c1e02b357b3c45a34db6",
+    "fetched_at": "2026-10-30T01:28:56.588372+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Vatican: Century of Mercedes-Benz popemobiles goes on display",
     "summary": "From silk-lined limousines to vehicles fitted with bulletproof glass, eight historic popemobiles go on display at the Vatican Museums. The exhibition traces how papal transport has evolved over nearly a century.",
     "link": "https://www.euronews.com/video/2026/10/29/vatican-century-of-mercedes-benz-popemobiles-goes-on-display",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "d78f2efce86e738479f72c8bc38ca873",
     "fetched_at": "2026-10-29T14:51:51.888152+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
-    "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 03:09:10 GMT",
-    "source": "BBC News",
-    "id": "516a66284040f58320e2931280b56305",
-    "fetched_at": "2026-10-29T14:51:50.739304+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-    "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 12:27:31 GMT",
-    "source": "BBC News",
-    "id": "a9fabc18892752e9485193e85cdf6816",
-    "fetched_at": "2026-10-29T14:51:49.464907+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Voter voices: Which issues matter most to Americans?",
-    "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots.",
-    "link": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 10:52:33 GMT",
-    "source": "BBC News",
-    "id": "3fcbf9341f1c3fdb29d17951a6d27322",
-    "fetched_at": "2026-10-29T14:51:48.307410+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-    "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 11:27:05 GMT",
-    "source": "BBC News",
-    "id": "8cd4aea413aa07cf15c06cf2f0a63b2a",
-    "fetched_at": "2026-10-29T14:51:47.158382+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-    "summary": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-    "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 06:24:56 GMT",
-    "source": "BBC News",
-    "id": "4393e8f54934746d71ac67cee586b40a",
-    "fetched_at": "2026-10-29T07:53:58.564861+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-    "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-    "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 23:11:59 GMT",
-    "source": "BBC News",
-    "id": "1573ad194f2a5bec2a52e8d5d8d74aea",
-    "fetched_at": "2026-10-29T07:53:58.564858+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-    "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 28 Oct 2026 19:15:58 GMT",
-    "source": "BBC News",
-    "id": "5d580a8ced6cd99d82aa693091182f03",
-    "fetched_at": "2026-10-29T07:53:58.564855+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Bolsonaro claims he is Brazil's true leader after fleeing to US",
-    "summary": "US President Donald Trump's administration has strong links to Bolsonaro and his father Jair Bolsonaro, who is under house arrest in Brazil after attempting to overturn his own electoral loss to Lula in 2022.",
-    "link": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us",
-    "published": "Thu, 29 Oct 2026 06:09:19 +0100",
-    "source": "News | Euronews RSS",
-    "id": "40cca2cfcab0a94f7450415546dfe006",
-    "fetched_at": "2026-10-29T07:53:58.564852+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 29th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning",
-    "published": "Thu, 29 Oct 2026 07:00:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ec254a88edc5838b92fc40e4be4ced9c",
-    "fetched_at": "2026-10-29T07:53:58.564849+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe Today: Second high-speed rail disaster in nine months leaves Spain in grief",
-    "summary": "At least 68 people died when two high-speed trains collided south of Madrid, Spain's second deadly rail crash this year. In Montreal, EU leaders meet Mark Carney to launch an 'Alliance for the Future'. We also look at next week's US midterms, Ukraine's defence capabilities, and rising oil prices.",
-    "link": "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief",
-    "published": "Thu, 29 Oct 2026 08:01:59 +0100",
-    "source": "News | Euronews RSS",
-    "id": "2a1699ef661600c7fcd9c2b41170afa6",
-    "fetched_at": "2026-10-29T07:53:58.564845+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pakistan’s top court upholds Christian man’s death sentence for blasphemy",
-    "summary": "Pakistan’s Supreme Court upheld a Christian man’s death sentence for blasphemy in a historic ruling that advocates warn could have far-reaching consequences.",
-    "link": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
-    "published": "Tue, 27 Oct 2026 10:48:54 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "fee307c2746e820a9645d21f91fde4ad",
-    "fetched_at": "2026-10-29T07:53:58.564817+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "A U.S. cruise ship suspends a global voyage due to fuel costs, stranding 200 passengers",
-    "summary": "A U.S. cruise ship on an around-the-world voyage that touted its cabins as floating homes suspended its three-year journey in Cambodia due to fuel costs, forcing hundreds of passengers to disembark.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-fuel-costs",
-    "published": "Wed, 28 Oct 2026 03:57:51 -0400",
-    "source": "NPR Topics: World",
-    "id": "6e2adbdb0ae64be372e746ed2c30cdef",
-    "fetched_at": "2026-10-29T07:53:57.450868+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Partial results from Israel's contentious election show no clear winner",
-    "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-    "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-    "published": "Wed, 28 Oct 2026 04:46:47 -0400",
-    "source": "NPR Topics: World",
-    "id": "ac4ac29d51eafaf4865a177406271a82",
-    "fetched_at": "2026-10-29T07:53:56.345483+00:00"
   }
 ]
