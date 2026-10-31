@@ -1,6 +1,96 @@
 [
   {
     "region": "Europe",
+    "title": "Ethiopian PM puts ministers through military training",
+    "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 14:28:15 GMT",
+    "source": "BBC News",
+    "id": "0c1ad1d73bcbfa2beb6fd719c7d474a2",
+    "fetched_at": "2026-10-31T19:39:07.475984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+    "source": "BBC News",
+    "id": "cd0cd3f8734cf869c55ef5b9b61b69c8",
+    "fetched_at": "2026-10-31T19:39:07.475956+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 16:32:08 GMT",
+    "source": "BBC News",
+    "id": "9428defcc77a7423d2a63c7d75d15d3d",
+    "fetched_at": "2026-10-31T19:39:06.317829+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+    "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+    "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+    "source": "BBC News",
+    "id": "003ada5ed759a525cdfc0784c821b28a",
+    "fetched_at": "2026-10-31T19:39:05.166897+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | October 31st, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening",
+    "published": "Sat, 31 Oct 2026 18:00:26 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d1c39fcdc6bf38cc4cebea0599571669",
+    "fetched_at": "2026-10-31T19:39:04.014995+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
+    "summary": "Emmanuel Macron&apos;s government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
+    "link": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
+    "published": "Sat, 31 Oct 2026 10:27:09 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ee5e31c1e3a41ffdeffcfcc6a511ae7a",
+    "fetched_at": "2026-10-31T19:39:02.864553+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+    "summary": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
+    "link": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
+    "published": "Sat, 31 Oct 2026 11:38:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f2d1699e9afa07f8f7d0950960bc93c5",
+    "fetched_at": "2026-10-31T19:39:01.723219+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+    "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+    "published": "Sat, 31 Oct 2026 14:42:33 -0400",
+    "source": "NPR Topics: World",
+    "id": "70ffd4613776deba2fc6522b3f572645",
+    "fetched_at": "2026-10-31T19:39:00.571776+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France seethes again as youth-led protests sweep Europe",
+    "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+    "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+    "published": "Sat, 31 Oct 2026 15:30:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "a569a2fcab9e20ba0e02845b07b363e7",
+    "fetched_at": "2026-10-31T19:38:59.398622+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
     "summary": "Kärcher, best known for its pressure washers, recorded €3.5 billion in sales in 2025 and employs 17,000 people worldwide. Its CEO warns of a 'perfect storm' and calls for a fitness plan for Germany and Europe.",
     "link": "https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again",
@@ -508,95 +598,5 @@
     "source": "NPR Topics: World",
     "id": "93102121020aa6e82ae4d034849cb629",
     "fetched_at": "2026-10-30T20:17:10.197274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-    "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
-    "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-    "published": "Thu, 29 Oct 2026 11:53:46 -0400",
-    "source": "NPR Topics: World",
-    "id": "56fd9409fad32a3a48a4be9913d394bd",
-    "fetched_at": "2026-10-30T20:17:10.197270+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-    "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-    "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-    "published": "Thu, 29 Oct 2026 11:58:27 -0400",
-    "source": "NPR Topics: World",
-    "id": "dc35c07469b9315f947c0f6fb4a38892",
-    "fetched_at": "2026-10-30T20:17:10.197242+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What killed 500-plus penguins? How scientists solved the mystery",
-    "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
-    "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-    "published": "Thu, 29 Oct 2026 16:03:26 -0400",
-    "source": "NPR Topics: World",
-    "id": "70f48d6334f8a1f153f904cc3b821728",
-    "fetched_at": "2026-10-30T20:17:09.079014+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-    "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-    "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 15:17:11 GMT",
-    "source": "BBC News",
-    "id": "28c30d79e1a6e80b02c4a2f1ce6548d3",
-    "fetched_at": "2026-10-30T20:17:07.971947+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-    "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 17:25:20 GMT",
-    "source": "BBC News",
-    "id": "11db944dec5f342059cb253261c95f8c",
-    "fetched_at": "2026-10-30T20:17:06.757397+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-    "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-    "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 14:48:22 GMT",
-    "source": "BBC News",
-    "id": "b5c580b7c30fc4705d3617ccf6a24874",
-    "fetched_at": "2026-10-30T20:17:05.592166+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's at stake for Trump in the US midterms?",
-    "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-    "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 10:19:48 GMT",
-    "source": "BBC News",
-    "id": "548c49945925a5136ca9cfd1c593dbf8",
-    "fetched_at": "2026-10-30T20:17:04.476259+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-    "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 17:00:32 GMT",
-    "source": "BBC News",
-    "id": "48f5b0dbb18fd6e3be6264daf82e25b6",
-    "fetched_at": "2026-10-30T20:17:03.320898+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-    "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 17:47:01 GMT",
-    "source": "BBC News",
-    "id": "dd4041fdd724317cd1b7703d3370766b",
-    "fetched_at": "2026-10-30T20:17:02.213929+00:00"
   }
 ]
