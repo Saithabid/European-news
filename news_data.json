@@ -1,6 +1,76 @@
 [
   {
     "region": "Europe",
+    "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 00:12:07 GMT",
+    "source": "BBC News",
+    "id": "cdd2744444250e6ba45d77f938bb34e4",
+    "fetched_at": "2026-11-01T03:39:07.871909+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 01:59:57 GMT",
+    "source": "BBC News",
+    "id": "9970edb16c1129c607d4b00337cdcdc2",
+    "fetched_at": "2026-11-01T03:39:06.721697+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+    "summary": "According to Argentina's migration authorities, Bolsonaro boarded a private plane in the northeastern city of Puerto Iguazú on Tuesday evening, just 40 minutes after crossing into the country by land.",
+    "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+    "published": "Fri, 30 Oct 2026 21:07:10 +0100",
+    "source": "News | Euronews RSS",
+    "id": "03a5994395d42d82921f038a85cfe492",
+    "fetched_at": "2026-11-01T03:39:05.572845+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+    "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+    "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 00:55:06 GMT",
+    "source": "BBC News",
+    "id": "2a45aace112e8f037ef28c158951d1c8",
+    "fetched_at": "2026-11-01T03:39:04.409310+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "ASRA NOMANI: 106 far-left groups in 'red-green' alliance target global ports",
+    "summary": "Communist parties, Palestinian solidarity groups and socialist activists are coordinating strikes at 113 ports across five continents on Oct. 30.",
+    "link": "https://www.foxnews.com/world/asra-nomani-106-far-left-groups-red-green-alliance-target-global-ports",
+    "published": "Thu, 29 Oct 2026 13:35:12 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "27964284a6fec98c8fb323bf37273e2b",
+    "fetched_at": "2026-11-01T03:39:03.248820+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Houthis hold 37 UN food workers as Trump-backed WFP chief inherits humanitarian crises across globe",
+    "summary": "Luke Lindberg says 37 World Food Programme employees are detained by Houthis in Yemen, with some separated from families for nearly two years.",
+    "link": "https://www.foxnews.com/world/houthis-hold-37-un-food-workers-trump-backed-wfp-chief-inherits-humanitarian-crises-across-globe",
+    "published": "Thu, 29 Oct 2026 13:41:36 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ed09c3fff7c066490bc227da092292db",
+    "fetched_at": "2026-11-01T03:39:02.075812+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Albanian opposition lawmakers disrupt parliament with smoke flares and furious attacks on socialist PM",
+    "summary": "Sali Berisha&apos;s microphone was cut after he declared ruling lawmakers &quot;deserve tear gas&quot; as Democratic Party members lit flares inside parliament.",
+    "link": "https://www.foxnews.com/world/albanian-opposition-lawmakers-disrupt-parliament-smoke-flares-furious-attacks-socialist-pm",
+    "published": "Thu, 29 Oct 2026 16:04:33 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "815acaeb4340bc76ea84d9880a6c6fa9",
+    "fetched_at": "2026-11-01T03:39:00.906846+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
     "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
@@ -528,75 +598,5 @@
     "source": "BBC News",
     "id": "af2d1db7c93eb3f06f5d05eea331c4d5",
     "fetched_at": "2026-10-31T01:18:17.941422+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US approves sale of 500 Patriot missiles to Ukraine",
-    "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 00:40:43 GMT",
-    "source": "BBC News",
-    "id": "252e660d812aa1233dc45f6c4efa00be",
-    "fetched_at": "2026-10-31T01:18:16.776938+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 20:10:56 GMT",
-    "source": "BBC News",
-    "id": "db231a9734ed38566489887d4b176cb7",
-    "fetched_at": "2026-10-30T20:17:10.197306+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian independent newspaper Novaya Gazeta says it will shut down following pressure from Kremlin",
-    "summary": "The paper is one of the few Russian outlets that has been openly critical of Russia's war in Ukraine, but it has come under increasing pressure from Moscow.",
-    "link": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
-    "published": "Fri, 30 Oct 2026 16:08:00 +0100",
-    "source": "News | Euronews RSS",
-    "id": "166e95afa5a5097893ce3aa24e20f55e",
-    "fetched_at": "2026-10-30T20:17:10.197304+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction",
-    "summary": "Coffee with a side of alpacas? At a zoo near Islamabad, visitors can enjoy drinks and snacks while watching, feeding and petting the animals. The attraction features ten imported alpacas, a first for Pakistan according to the zoo.",
-    "link": "https://www.euronews.com/video/2026/10/30/pakistan-islamabad-zoo-introduces-coffee-with-alpaca-attraction",
-    "published": "Fri, 30 Oct 2026 16:16:43 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ee29e142d3bd218a6737fe9627148f0c",
-    "fetched_at": "2026-10-30T20:17:10.197302+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkic states press on with Asia-Europe transport projects as new opportunities emerge",
-    "summary": "The Ankara Declaration highlighted the trade and transport cooperation of the Turkish states. Uzbekistan proposed 100 industrial projects spanning critical minerals and green technology, while Turkey signed new agreements with Uzbekistan and reaffirmed a $15bn (€13.5bn) trade goal with Kazakhstan.",
-    "link": "https://www.euronews.com/2026/10/30/turkic-states-press-on-with-asia-europe-transport-projects-as-new-opportunities-emerge",
-    "published": "Fri, 30 Oct 2026 17:44:16 +0100",
-    "source": "News | Euronews RSS",
-    "id": "66fd4fd3d3f08421a87eaceca935f724",
-    "fetched_at": "2026-10-30T20:17:10.197300+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 30th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening",
-    "published": "Fri, 30 Oct 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "70fbbce3efa8c915d508f504aaf04478",
-    "fetched_at": "2026-10-30T20:17:10.197299+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
-    "summary": "The meeting in Atlanta will go ahead as planned, ahead of a G20 leaders’ summit hosted by President Donald Trump at his Miami golf club in December.",
-    "link": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
-    "published": "Fri, 30 Oct 2026 18:03:13 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8cdc1e674dc1f7549f600ba93861ab93",
-    "fetched_at": "2026-10-30T20:17:10.197297+00:00"
   }
 ]
