@@ -1,6 +1,106 @@
 [
   {
     "region": "Europe",
+    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 00:15:30 GMT",
+    "source": "BBC News",
+    "id": "c633a56e847e8238d7127fc570767f88",
+    "fetched_at": "2026-11-02T01:09:30.367448+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 22:38:24 GMT",
+    "source": "BBC News",
+    "id": "fe5259b0d77030af9caf3a45b2c163ab",
+    "fetched_at": "2026-11-02T01:09:30.367445+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+    "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+    "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 30 Oct 2026 20:41:51 GMT",
+    "source": "BBC News",
+    "id": "94448e1d14944c185f51745152b4ccd2",
+    "fetched_at": "2026-11-02T01:09:30.367416+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+    "source": "BBC News",
+    "id": "ee04dd626db3e3ed1d22d8309a978a29",
+    "fetched_at": "2026-11-02T01:09:29.228558+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu's bloc falls short as longtime allies reportedly weigh move that could end his rule",
+    "summary": "Netanyahu&apos;s bloc secured only 53 Knesset seats as ultra-Orthodox allies reportedly explore breaking ranks to back Gadi Eisenkot&apos;s opposition.",
+    "link": "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
+    "published": "Fri, 30 Oct 2026 10:04:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a48a093fcb86e869dba896aa4217a6fc",
+    "fetched_at": "2026-11-02T01:09:27.969300+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks",
+    "summary": "The State Department accused South African politicians of endangering Afrikaners&apos; lives after a farmer was allegedly tortured and a woman beaten to death.",
+    "link": "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
+    "published": "Sat, 31 Oct 2026 09:00:43 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "c49d23b7d9f97ae3f3a6e7e3f4e99d9b",
+    "fetched_at": "2026-11-02T01:09:26.764859+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+    "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+    "link": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+    "published": "Sun, 01 Nov 2026 19:28:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e9e36229b7a3786cd6e2e1c3c1557fa8",
+    "fetched_at": "2026-11-02T01:09:25.568698+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France seethes again as youth-led protests sweep Europe",
+    "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+    "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+    "published": "Sat, 31 Oct 2026 15:30:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "a569a2fcab9e20ba0e02845b07b363e7",
+    "fetched_at": "2026-11-02T01:09:24.450590+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+    "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+    "published": "Sun, 01 Nov 2026 17:19:13 -0500",
+    "source": "NPR Topics: World",
+    "id": "e4f788ac8a6279c3998315a87eaca775",
+    "fetched_at": "2026-11-02T01:09:23.301664+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This legendary board game could take decades to complete",
+    "summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game <em>Campaign for North Africa.</em> The is so complex it could take decades to finish.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+    "published": "Sun, 01 Nov 2026 17:30:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "c982d46ac44cdcb702bb7c577719e59f",
+    "fetched_at": "2026-11-02T01:09:22.166955+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
     "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
     "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
@@ -498,105 +598,5 @@
     "source": "NPR Topics: World",
     "id": "ba55892cfc41e357613b7f1fd4153778",
     "fetched_at": "2026-10-31T22:57:06.857266+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-    "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 20:34:46 GMT",
-    "source": "BBC News",
-    "id": "dd4041fdd724317cd1b7703d3370766b",
-    "fetched_at": "2026-10-31T22:57:05.705727+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-    "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 17:00:32 GMT",
-    "source": "BBC News",
-    "id": "48f5b0dbb18fd6e3be6264daf82e25b6",
-    "fetched_at": "2026-10-31T22:57:04.562989+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ethiopian PM puts ministers through military training",
-    "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 14:28:15 GMT",
-    "source": "BBC News",
-    "id": "0c1ad1d73bcbfa2beb6fd719c7d474a2",
-    "fetched_at": "2026-10-31T19:39:07.475984+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-    "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 15:16:20 GMT",
-    "source": "BBC News",
-    "id": "cd0cd3f8734cf869c55ef5b9b61b69c8",
-    "fetched_at": "2026-10-31T19:39:07.475956+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 16:32:08 GMT",
-    "source": "BBC News",
-    "id": "9428defcc77a7423d2a63c7d75d15d3d",
-    "fetched_at": "2026-10-31T19:39:06.317829+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-    "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
-    "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 19:22:26 GMT",
-    "source": "BBC News",
-    "id": "003ada5ed759a525cdfc0784c821b28a",
-    "fetched_at": "2026-10-31T19:39:05.166897+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | October 31st, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this October 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening",
-    "published": "Sat, 31 Oct 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d1c39fcdc6bf38cc4cebea0599571669",
-    "fetched_at": "2026-10-31T19:39:04.014995+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
-    "summary": "Emmanuel Macron&apos;s government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
-    "link": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
-    "published": "Sat, 31 Oct 2026 10:27:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ee5e31c1e3a41ffdeffcfcc6a511ae7a",
-    "fetched_at": "2026-10-31T19:39:02.864553+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
-    "summary": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
-    "link": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
-    "published": "Sat, 31 Oct 2026 11:38:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f2d1699e9afa07f8f7d0950960bc93c5",
-    "fetched_at": "2026-10-31T19:39:01.723219+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
-    "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
-    "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-    "published": "Sat, 31 Oct 2026 14:42:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "70ffd4613776deba2fc6522b3f572645",
-    "fetched_at": "2026-10-31T19:39:00.571776+00:00"
   }
 ]
