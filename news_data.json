@@ -1,6 +1,196 @@
 [
   {
     "region": "Europe",
+    "title": "Trump to remove Rwanda and South Africa from US trade deal",
+    "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 19:33:10 GMT",
+    "source": "BBC News",
+    "id": "a3cad8ed21657d3e047fdcafb9527ccb",
+    "fetched_at": "2026-11-03T01:56:08.737096+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man guilty of stealing cash from farm owned by South African president",
+    "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 20:08:51 GMT",
+    "source": "BBC News",
+    "id": "d7757dc3a11e2c76bf2e18bc0f94e36a",
+    "fetched_at": "2026-11-03T01:56:08.737094+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 01:23:03 GMT",
+    "source": "BBC News",
+    "id": "6b261816e0334cf32b370cae1c158664",
+    "fetched_at": "2026-11-03T01:56:08.737092+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Legal challenge to Australia's social media ban to start in High Court",
+    "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 23:37:31 GMT",
+    "source": "BBC News",
+    "id": "59d30f5ecbfe14be66fe5e9189079fc0",
+    "fetched_at": "2026-11-03T01:56:08.737091+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 00:07:05 GMT",
+    "source": "BBC News",
+    "id": "869da353fc438cfda0c6ea5eadce9238",
+    "fetched_at": "2026-11-03T01:56:08.737090+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "British adventurer returns home after 28-year journey around the world",
+    "summary": "British adventurer Karl Bushby returns to his mother’s home in Hull after completing a 28-year, 50,000-kilometre journey from Chile.",
+    "link": "https://www.euronews.com/video/2026/11/02/british-adventurer-returns-home-after-28-year-journey-around-the-world",
+    "published": "Mon, 02 Nov 2026 22:25:52 +0100",
+    "source": "News | Euronews RSS",
+    "id": "316dfe5cd749100eea8b30e941f0715a",
+    "fetched_at": "2026-11-03T01:56:08.737088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "University of Cambridge scientist among those who died in Spanish train crash",
+    "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 17:05:18 GMT",
+    "source": "BBC News",
+    "id": "64fa42530986781757ec98477e5a48b4",
+    "fetched_at": "2026-11-03T01:56:08.737086+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape",
+    "summary": "Abelardo de la Espriella claims over 32,000 arrests in 10 weeks as Colombia joins Trump&apos;s anti-cartel coalition, pivoting away from predecessor&apos;s policies.",
+    "link": "https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape",
+    "published": "Sun, 01 Nov 2026 06:00:57 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e6e720c707d3f20a39ce005e4553d386",
+    "fetched_at": "2026-11-03T01:56:08.737084+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
+    "summary": "A State Department spokesperson called the Turkey-Libya maritime accord &quot;unhelpful and provocative&quot; as diplomatic tensions escalate in the region.",
+    "link": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
+    "published": "Sun, 01 Nov 2026 11:49:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ec45bbeeb2e31ffc40f5291cd9bb8e05",
+    "fetched_at": "2026-11-03T01:56:08.737081+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+    "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+    "link": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+    "published": "Sun, 01 Nov 2026 19:28:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e9e36229b7a3786cd6e2e1c3c1557fa8",
+    "fetched_at": "2026-11-03T01:56:08.737079+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin",
+    "summary": "Zelenskyy says Russia plans a massive attack on Ukraine&apos;s energy infrastructure while the world watches Tuesday&apos;s U.S. midterm elections unfold.",
+    "link": "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
+    "published": "Mon, 02 Nov 2026 18:35:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "085f811fc0e6031b825e5cbb093acdda",
+    "fetched_at": "2026-11-03T01:56:08.737076+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
+    "summary": "U.S. Special Envoy Steve Witkoff announced U.S.-mediated peace talks between Ukraine and Russia on Nov. 10 and 11, focusing on security arrangements and de-escalation.",
+    "link": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
+    "published": "Mon, 02 Nov 2026 19:47:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f607263fe4f3e31c78a9483ebb090499",
+    "fetched_at": "2026-11-03T01:56:08.737040+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France seethes again as youth-led protests sweep Europe",
+    "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+    "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+    "published": "Sat, 31 Oct 2026 15:30:19 -0400",
+    "source": "NPR Topics: World",
+    "id": "a569a2fcab9e20ba0e02845b07b363e7",
+    "fetched_at": "2026-11-03T01:56:07.633264+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
+    "summary": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
+    "published": "Sun, 01 Nov 2026 08:15:28 -0500",
+    "source": "NPR Topics: World",
+    "id": "1a3567168c7cd53982317fb16b8f32b0",
+    "fetched_at": "2026-11-03T01:56:06.530206+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+    "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+    "published": "Sun, 01 Nov 2026 17:19:13 -0500",
+    "source": "NPR Topics: World",
+    "id": "e4f788ac8a6279c3998315a87eaca775",
+    "fetched_at": "2026-11-03T01:56:05.414362+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "This legendary board game could take decades to complete",
+    "summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game <em>Campaign for North Africa.</em> The is so complex it could take decades to finish.",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+    "published": "Sun, 01 Nov 2026 17:30:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "c982d46ac44cdcb702bb7c577719e59f",
+    "fetched_at": "2026-11-03T01:56:04.298761+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What Florida jet audio and flight data tells us about its final moments",
+    "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+    "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 19:49:22 GMT",
+    "source": "BBC News",
+    "id": "43dbc59021a0e32a1e727d4c57ea6fdc",
+    "fetched_at": "2026-11-03T01:56:03.195611+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Who are the victims of the deadly Florida jet crash?",
+    "summary": "Sunday's crash killed all nine people aboard, including a tech entrepreneur and his young family, as well as the 20-year-old copilot.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 00:54:40 GMT",
+    "source": "BBC News",
+    "id": "c2208a21dcf1c284fb5a678168d60374",
+    "fetched_at": "2026-11-03T01:56:02.067648+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+    "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 02 Nov 2026 20:54:44 GMT",
+    "source": "BBC News",
+    "id": "28eefad6926be806f8c8314df1b8b0a1",
+    "fetched_at": "2026-11-03T01:56:00.931403+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Uganda begins withdrawing troops from Somalia after 20 years",
     "summary": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
     "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
@@ -408,195 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "635775d57a8b3f1ba4842c888dc7a03f",
     "fetched_at": "2026-11-02T08:41:29.499653+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "All nine on board Learjet killed in Florida plane crash near Trump's resort home",
-    "summary": "The crash occurred near Cresthaven, a neighbourhood in Palm Beach County that is less than 11 kilometres from Trump's resort home Mar-a-Lago.",
-    "link": "https://www.euronews.com/2026/11/02/all-nine-on-board-learjet-killed-in-florida-plane-crash-near-trumps-resort-home",
-    "published": "Mon, 02 Nov 2026 08:30:17 +0100",
-    "source": "News | Euronews RSS",
-    "id": "a2b7d2594a4d5ae527ecbbd409f0c5f7",
-    "fetched_at": "2026-11-02T08:41:29.499651+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Londoners revive medieval jousting on electric bikes in Halloween spectacle",
-    "summary": "Londoners dressed as medieval knights raced into battle on electric bikes at a Halloween jousting event, drawing hundreds of spectators for a quirky modern twist on the medieval sport.",
-    "link": "https://www.euronews.com/video/2026/11/02/londoners-revive-medieval-jousting-on-electric-bikes-in-halloween-spectacle",
-    "published": "Mon, 02 Nov 2026 09:16:34 +0100",
-    "source": "News | Euronews RSS",
-    "id": "c49cd9b7ed3de0acc42d9d765df6dd1b",
-    "fetched_at": "2026-11-02T08:41:29.499648+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
-    "summary": "Emmanuel Macron&apos;s government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
-    "link": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
-    "published": "Sat, 31 Oct 2026 10:27:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ee5e31c1e3a41ffdeffcfcc6a511ae7a",
-    "fetched_at": "2026-11-02T08:41:29.499645+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
-    "summary": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
-    "link": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
-    "published": "Sat, 31 Oct 2026 11:38:48 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "f2d1699e9afa07f8f7d0950960bc93c5",
-    "fetched_at": "2026-11-02T08:41:29.499643+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
-    "summary": "Ukraine&apos;s Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
-    "link": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
-    "published": "Sun, 01 Nov 2026 21:10:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "bfee6c56ff24886e74dbc1bfb580ed21",
-    "fetched_at": "2026-11-02T08:41:29.499639+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Key takeaways from this week's political meeting in Beijing",
-    "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
-    "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-    "published": "Sat, 31 Oct 2026 14:42:33 -0400",
-    "source": "NPR Topics: World",
-    "id": "70ffd4613776deba2fc6522b3f572645",
-    "fetched_at": "2026-11-02T08:41:29.499612+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-    "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
-    "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
-    "published": "Mon, 02 Nov 2026 02:19:35 -0500",
-    "source": "NPR Topics: World",
-    "id": "34019be2cf1eb674df493dde979224c8",
-    "fetched_at": "2026-11-02T08:41:28.358190+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-    "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 20:34:46 GMT",
-    "source": "BBC News",
-    "id": "dd4041fdd724317cd1b7703d3370766b",
-    "fetched_at": "2026-11-02T08:41:27.205852+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge dismisses Trump administration's  lawsuit over two Dan Sullivans in Alaska election",
-    "summary": "The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses.",
-    "link": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 01 Nov 2026 23:43:49 GMT",
-    "source": "BBC News",
-    "id": "a8d84d8afe3aac43ef37500735b57df9",
-    "fetched_at": "2026-11-02T08:41:26.070180+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-    "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-    "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 17:00:32 GMT",
-    "source": "BBC News",
-    "id": "48f5b0dbb18fd6e3be6264daf82e25b6",
-    "fetched_at": "2026-11-02T08:41:24.928970+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrats have high hopes for midterms - but are the polls right?",
-    "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-    "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 00:25:12 GMT",
-    "source": "BBC News",
-    "id": "be6a1bd3206c16ed88d464cccd4c652a",
-    "fetched_at": "2026-11-02T08:41:23.784194+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nine killed as small jet crashes on Florida street",
-    "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 07:33:17 GMT",
-    "source": "BBC News",
-    "id": "d7e573828c4f68affb63c5655fa1ee51",
-    "fetched_at": "2026-11-02T08:41:22.626466+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump makes fevered campaign push in final weekend before election",
-    "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-    "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 04:04:28 GMT",
-    "source": "BBC News",
-    "id": "3e5054540ec34110b869e0da32c537a4",
-    "fetched_at": "2026-11-02T08:41:21.458291+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 00:15:30 GMT",
-    "source": "BBC News",
-    "id": "c633a56e847e8238d7127fc570767f88",
-    "fetched_at": "2026-11-02T01:09:30.367448+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-    "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 01 Nov 2026 22:38:24 GMT",
-    "source": "BBC News",
-    "id": "fe5259b0d77030af9caf3a45b2c163ab",
-    "fetched_at": "2026-11-02T01:09:30.367445+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-    "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-    "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 20:41:51 GMT",
-    "source": "BBC News",
-    "id": "94448e1d14944c185f51745152b4ccd2",
-    "fetched_at": "2026-11-02T01:09:30.367416+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-    "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 31 Oct 2026 17:53:35 GMT",
-    "source": "BBC News",
-    "id": "ee04dd626db3e3ed1d22d8309a978a29",
-    "fetched_at": "2026-11-02T01:09:29.228558+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu's bloc falls short as longtime allies reportedly weigh move that could end his rule",
-    "summary": "Netanyahu&apos;s bloc secured only 53 Knesset seats as ultra-Orthodox allies reportedly explore breaking ranks to back Gadi Eisenkot&apos;s opposition.",
-    "link": "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
-    "published": "Fri, 30 Oct 2026 10:04:16 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a48a093fcb86e869dba896aa4217a6fc",
-    "fetched_at": "2026-11-02T01:09:27.969300+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks",
-    "summary": "The State Department accused South African politicians of endangering Afrikaners&apos; lives after a farmer was allegedly tortured and a woman beaten to death.",
-    "link": "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
-    "published": "Sat, 31 Oct 2026 09:00:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c49d23b7d9f97ae3f3a6e7e3f4e99d9b",
-    "fetched_at": "2026-11-02T01:09:26.764859+00:00"
   }
 ]
