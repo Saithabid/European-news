@@ -1,6 +1,156 @@
 [
   {
     "region": "Europe",
+    "title": "US strikes Iranian island ahead of midterm elections",
+    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 11:33:33 GMT",
+    "source": "BBC News",
+    "id": "47321ac3a7ae2ca51915b97af404bc4e",
+    "fetched_at": "2026-11-04T04:14:50.053921+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US midterms: Democrats projected to flip House of Representatives",
+    "summary": "Millions of Americans have cast their votes to elect representatives in the US Senate and the US House of Representatives.",
+    "link": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us",
+    "published": "Wed, 04 Nov 2026 00:35:24 +0100",
+    "source": "News | Euronews RSS",
+    "id": "50ca018eee8facd6d75f108ead470832",
+    "fetched_at": "2026-11-04T04:14:50.053920+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 00:07:05 GMT",
+    "source": "BBC News",
+    "id": "869da353fc438cfda0c6ea5eadce9238",
+    "fetched_at": "2026-11-04T04:14:50.053918+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+    "summary": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
+    "link": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
+    "published": "Sat, 31 Oct 2026 11:38:48 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f2d1699e9afa07f8f7d0950960bc93c5",
+    "fetched_at": "2026-11-04T04:14:50.053917+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
+    "summary": "Ukraine&apos;s Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
+    "link": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
+    "published": "Sun, 01 Nov 2026 21:10:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bfee6c56ff24886e74dbc1bfb580ed21",
+    "fetched_at": "2026-11-04T04:14:50.053916+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+    "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+    "published": "Mon, 02 Nov 2026 02:19:35 -0500",
+    "source": "NPR Topics: World",
+    "id": "34019be2cf1eb674df493dde979224c8",
+    "fetched_at": "2026-11-04T04:14:50.053915+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'A brighter future' - why Americans came out to vote",
+    "summary": "Voters in Iowa, Georgia and Ohio spoke to BBC reporters as millions of Americans decide who will control Congress.",
+    "link": "https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 00:26:48 GMT",
+    "source": "BBC News",
+    "id": "bc903143696c9a4af18295b679dec458",
+    "fetched_at": "2026-11-04T04:14:50.053914+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US voters name economy and state of democracy as top issues, poll says",
+    "summary": "A major election day survey suggests voters are the most unhappy with the economy.",
+    "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 02:47:37 GMT",
+    "source": "BBC News",
+    "id": "783574feba2ad8675af862acbce725ad",
+    "fetched_at": "2026-11-04T04:14:50.053906+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+    "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 02:38:07 GMT",
+    "source": "BBC News",
+    "id": "589842ae3fb43860871f0c4cef86a0ac",
+    "fetched_at": "2026-11-04T04:14:48.848784+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "When will we know the results?",
+    "summary": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
+    "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 00:56:05 GMT",
+    "source": "BBC News",
+    "id": "8ecdcfeef23d0af5ae3b9c93e538a531",
+    "fetched_at": "2026-11-04T04:14:47.713202+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+    "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 02:11:40 GMT",
+    "source": "BBC News",
+    "id": "4d1a5e3406ab8bf9ebbef1a3e956129d",
+    "fetched_at": "2026-11-04T04:14:46.573348+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrat Roy Cooper flips key North Carolina Senate seat from Republicans",
+    "summary": "It's the first time the state has elected a Democratic senator since 2008.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn5vndlgdgdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 02:31:02 GMT",
+    "source": "BBC News",
+    "id": "4e0e6c6833de667ae0f36e0714ae0cb9",
+    "fetched_at": "2026-11-04T04:14:45.446745+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "South Carolina elects Democratic senator for first time in almost three decades",
+    "summary": "President Trump handpicked Darline Graham to take over the seat held by her brother, influential Senator Lindsey Graham, after his death.",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 03:24:34 GMT",
+    "source": "BBC News",
+    "id": "fb70a7d3b820bce31fcb6cbd8971de71",
+    "fetched_at": "2026-11-04T04:14:44.252232+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Sarah Smith on Democrats flipping the House of Representatives",
+    "summary": "The BBC's North America editor Sarah Smith delivers the news: Democrats are projected to flip the House of Representatives from a Republican majority to a Democratic one.",
+    "link": "https://www.bbc.co.uk/news/videos/cwly37l351neo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 03:40:15 GMT",
+    "source": "BBC News",
+    "id": "f61e4e5fdd82a8a8de8ecdaffd08b4ed",
+    "fetched_at": "2026-11-04T04:14:43.121420+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
+    "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 03:34:58 GMT",
+    "source": "BBC News",
+    "id": "57bd63ee8e18fa1ec76d559017bd5173",
+    "fetched_at": "2026-11-04T04:14:41.921188+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "NTSB says crucial plane parts found three miles from Florida crash site",
     "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
     "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
@@ -448,155 +598,5 @@
     "source": "BBC News",
     "id": "09f53f8579f4ce0d72472abc4db83613",
     "fetched_at": "2026-11-03T17:27:30.792605+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Rubio urges Venezuela to release remaining political prisoners",
-    "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-    "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 12:09:20 GMT",
-    "source": "BBC News",
-    "id": "216b7dde3f839060e422ee75ee5e20d2",
-    "fetched_at": "2026-11-03T17:27:29.706561+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Voter voices: Trump's influence on US midterm voters",
-    "summary": "We asked voters whether they supported Trump in 2024, and how his performance in office is shaping their choices this time.",
-    "link": "https://www.bbc.co.uk/news/videos/cqj346nndl0yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 10:55:05 GMT",
-    "source": "BBC News",
-    "id": "678b8c948f0cdd07ae1dc710b5de6178",
-    "fetched_at": "2026-11-03T17:27:28.591565+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Three scenarios for how the US midterm results could unfold",
-    "summary": "Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.",
-    "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 10:32:56 GMT",
-    "source": "BBC News",
-    "id": "a65596ed080a032d6053ded7ef299fb7",
-    "fetched_at": "2026-11-03T17:27:27.469064+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-    "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 07:15:17 GMT",
-    "source": "BBC News",
-    "id": "305ca55d1ad6a9b367f1fe99d28eb35e",
-    "fetched_at": "2026-11-03T08:56:19.709370+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-    "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 00:08:14 GMT",
-    "source": "BBC News",
-    "id": "d7e573828c4f68affb63c5655fa1ee51",
-    "fetched_at": "2026-11-03T08:56:19.709368+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US strikes Iran's Qeshm Island ahead of midterm elections",
-    "summary": "The strikes on Iran come on the eve of US midterm elections, and just hours after Trump signalled progress in negotiations with Tehran.",
-    "link": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
-    "published": "Tue, 03 Nov 2026 05:27:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "e4849d300858ef426562136d3eac8599",
-    "fetched_at": "2026-11-03T08:56:19.709366+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 3rd, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-morning",
-    "published": "Tue, 03 Nov 2026 07:00:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d674ba3c3e55cd824257c0ce1e9f0920",
-    "fetched_at": "2026-11-03T08:56:19.709364+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea slams FBI claims it was behind €5bn Binance hack and test fires missiles",
-    "summary": "A 2024 United Nations report said proceeds from North Korean cyberattacks had \"reportedly helped to fund the country's development of weapons of mass destruction\".",
-    "link": "https://www.euronews.com/2026/11/03/north-korea-slams-fbi-claims-it-was-behind-5bn-binance-hack-and-test-fires-missiles",
-    "published": "Tue, 03 Nov 2026 07:53:07 +0100",
-    "source": "News | Euronews RSS",
-    "id": "a9b085a0ed46dd310d263a7121304a04",
-    "fetched_at": "2026-11-03T08:56:19.709362+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rhodes floods: Cars swept away after torrential rain in Greece",
-    "summary": "Floodwaters swept vehicles and debris through Archangelos on Rhodes, damaging dozens of homes and businesses as more storms remain possible.",
-    "link": "https://www.euronews.com/video/2026/11/03/rhodes-floods-cars-swept-away-after-torrential-rain-in-greece",
-    "published": "Tue, 03 Nov 2026 08:49:20 +0100",
-    "source": "News | Euronews RSS",
-    "id": "860e9c9980d8790a27f66dcc2815177c",
-    "fetched_at": "2026-11-03T08:56:19.709361+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "King Charles and Queen Camilla caught in heavy rain during Antigua celebrations",
-    "summary": "King Charles III and Queen Camilla were caught in a downpour while attending Antigua and Barbuda’s Independence Day celebrations at Sir Vivian Richards Stadium.",
-    "link": "https://www.euronews.com/2026/11/03/king-charles-and-queen-camilla-caught-in-heavy-rain-during-antigua-celebrations",
-    "published": "Tue, 03 Nov 2026 09:26:14 +0100",
-    "source": "News | Euronews RSS",
-    "id": "edbc6b1f59a22ee10db1c505405b7541",
-    "fetched_at": "2026-11-03T08:56:19.709358+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-    "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-    "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 14:35:01 GMT",
-    "source": "BBC News",
-    "id": "fe5259b0d77030af9caf3a45b2c163ab",
-    "fetched_at": "2026-11-03T08:56:19.709357+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 02 Nov 2026 00:15:30 GMT",
-    "source": "BBC News",
-    "id": "c633a56e847e8238d7127fc570767f88",
-    "fetched_at": "2026-11-03T08:56:19.709355+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 07:53:03 GMT",
-    "source": "BBC News",
-    "id": "25637153fdbd4ae5d2cecfdd33645142",
-    "fetched_at": "2026-11-03T08:56:19.709353+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks",
-    "summary": "The State Department accused South African politicians of endangering Afrikaners&apos; lives after a farmer was allegedly tortured and a woman beaten to death.",
-    "link": "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
-    "published": "Sat, 31 Oct 2026 09:00:43 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "c49d23b7d9f97ae3f3a6e7e3f4e99d9b",
-    "fetched_at": "2026-11-03T08:56:19.709351+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
-    "summary": "Emmanuel Macron&apos;s government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
-    "link": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
-    "published": "Sat, 31 Oct 2026 10:27:09 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "ee5e31c1e3a41ffdeffcfcc6a511ae7a",
-    "fetched_at": "2026-11-03T08:56:19.709348+00:00"
   }
 ]
