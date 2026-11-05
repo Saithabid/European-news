@@ -1,6 +1,146 @@
 [
   {
     "region": "Europe",
+    "title": "Zelenski makes surprise visit to Madrid for talks with Sánchez and Latin American leaders",
+    "summary": "Zelensky visits Madrid to meet Sánchez, Felipe VI and Latin American leaders at the Ibero-American Summit, aiming to boost support for Ukraine and closer ties with Latin America.",
+    "link": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders",
+    "published": "Wed, 04 Nov 2026 22:33:02 +0100",
+    "source": "News | Euronews RSS",
+    "id": "44dabf87c796a9f932fd7c76fa0488f6",
+    "fetched_at": "2026-11-05T01:55:32.981865+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc",
+    "summary": "Spain is hosting the 30th Ibero-American Summit in Madrid, bringing together leaders from Spanish- and Portuguese-speaking nations. The gathering aims to strengthen cooperation across Europe and Latin America.",
+    "link": "https://www.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc",
+    "published": "Wed, 04 Nov 2026 23:08:08 +0100",
+    "source": "News | Euronews RSS",
+    "id": "49fa0194ea3d232da13ad85edc4a5f12",
+    "fetched_at": "2026-11-05T01:55:32.981864+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Seven flights across Europe targeted by suspected bomb threats",
+    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 20:42:47 GMT",
+    "source": "BBC News",
+    "id": "b2be8df80becfbeced458ef439587e9f",
+    "fetched_at": "2026-11-05T01:55:32.981863+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 22:45:59 GMT",
+    "source": "BBC News",
+    "id": "4022b61a3ae1ec61ee1586af8241b2e7",
+    "fetched_at": "2026-11-05T01:55:32.981860+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
+    "summary": "A State Department spokesperson called the Turkey-Libya maritime accord &quot;unhelpful and provocative&quot; as diplomatic tensions escalate in the region.",
+    "link": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
+    "published": "Sun, 01 Nov 2026 11:49:16 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "ec45bbeeb2e31ffc40f5291cd9bb8e05",
+    "fetched_at": "2026-11-05T01:55:32.981858+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+    "summary": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+    "link": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+    "published": "Sun, 01 Nov 2026 19:28:38 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "e9e36229b7a3786cd6e2e1c3c1557fa8",
+    "fetched_at": "2026-11-05T01:55:32.981856+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
+    "summary": "Ukraine&apos;s Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
+    "link": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
+    "published": "Sun, 01 Nov 2026 21:10:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "bfee6c56ff24886e74dbc1bfb580ed21",
+    "fetched_at": "2026-11-05T01:55:32.981822+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin",
+    "summary": "Zelenskyy says Russia plans a massive attack on Ukraine&apos;s energy infrastructure while the world watches Tuesday&apos;s U.S. midterm elections unfold.",
+    "link": "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
+    "published": "Mon, 02 Nov 2026 18:35:21 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "085f811fc0e6031b825e5cbb093acdda",
+    "fetched_at": "2026-11-05T01:55:31.785986+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
+    "summary": "U.S. Special Envoy Steve Witkoff announced U.S.-mediated peace talks between Ukraine and Russia on Nov. 10 and 11, focusing on security arrangements and de-escalation.",
+    "link": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
+    "published": "Mon, 02 Nov 2026 19:47:08 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "f607263fe4f3e31c78a9483ebb090499",
+    "fetched_at": "2026-11-05T01:55:30.659986+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
+    "summary": "Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.",
+    "link": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
+    "published": "Wed, 04 Nov 2026 17:14:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "10c0644157376bb36d0f4764e1488d60",
+    "fetched_at": "2026-11-05T01:55:29.497050+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+    "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+    "published": "Tue, 03 Nov 2026 17:25:15 -0500",
+    "source": "NPR Topics: World",
+    "id": "7992c3f92094fa99ee4e4a489771abf4",
+    "fetched_at": "2026-11-05T01:55:28.308333+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 23:50:40 GMT",
+    "source": "BBC News",
+    "id": "68756a7a3f3902ca021c5c84c3ee19bd",
+    "fetched_at": "2026-11-05T01:55:27.149869+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Could Democrats in Congress end the war in Iran?",
+    "summary": "The BBC's Asma Khalid looks at how the two chambers of the US Congress could put an end to the months-long conflict, which began in February.",
+    "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 22:14:41 GMT",
+    "source": "BBC News",
+    "id": "ed114b2650efd59212826d4fab70a872",
+    "fetched_at": "2026-11-05T01:55:25.961199+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Anthony Zurcher: Midterm carnage weakens Trump but he still wields power for now",
+    "summary": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
+    "link": "https://www.bbc.co.uk/news/articles/cmpdg093e589o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 20:35:07 GMT",
+    "source": "BBC News",
+    "id": "317426065c9c387d1c28715926ec1c3c",
+    "fetched_at": "2026-11-05T01:55:24.818229+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israel's president begins consultations with parties after election deadlock",
     "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
     "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
@@ -458,145 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "1e0bae2a8c0545360166574dbf345a98",
     "fetched_at": "2026-11-04T13:34:34.237131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Portugal: Housing protesters return to Lisbon square after court ruling",
-    "summary": "Housing protesters have returned to Lisbon's historic Rossio Square, setting up around 100 tents following a court ruling. The demonstration comes as Portugal's government faces growing pressure over housing.",
-    "link": "https://www.euronews.com/video/2026/11/04/portugal-housing-protesters-return-to-lisbon-square-after-court-ruling",
-    "published": "Wed, 04 Nov 2026 11:19:36 +0100",
-    "source": "News | Euronews RSS",
-    "id": "aa509020099908e1be1ea2f217001692",
-    "fetched_at": "2026-11-04T13:34:34.237130+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hockey nations refuse to play Russia as Germany weighs pulling out as host",
-    "summary": "Finland, Norway, the Czech Republic, Latvia, Denmark and Sweden have said they will not face Russia at the 2027 championship, after a court ruling overturned a four-year ban on Russian national teams. Germany’s federation said the ruling “fundamentally changes the situation” for it as host nation.",
-    "link": "https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host",
-    "published": "Wed, 04 Nov 2026 11:57:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "e16f4dda4238fd3da26b6f190764470d",
-    "fetched_at": "2026-11-04T13:34:34.237129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 4th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-midday",
-    "published": "Wed, 04 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "f5b7e34a71e2e8a488c25c19ed1d777e",
-    "fetched_at": "2026-11-04T13:34:34.237128+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "After US midterms, a weakened Trump may pose a greater threat to Europe",
-    "summary": "After the midterms, Europe will not get a weaker Trump but one who turns even more to global politics, warns US expert Josef Braml. Europe cannot wait this Trump out.",
-    "link": "https://www.euronews.com/2026/11/04/after-us-midterms-a-weakened-trump-may-pose-a-greater-threat-to-europe",
-    "published": "Wed, 04 Nov 2026 14:27:02 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ac578488d8695bf8146551b0c07a1203",
-    "fetched_at": "2026-11-04T13:34:34.237126+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 20:53:03 GMT",
-    "source": "BBC News",
-    "id": "25637153fdbd4ae5d2cecfdd33645142",
-    "fetched_at": "2026-11-04T13:34:34.237125+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Football world mourns Tenerife striker De Miguel",
-    "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 03 Nov 2026 23:37:12 GMT",
-    "source": "BBC News",
-    "id": "ed279e3fc314c471f0501fafbf2dc503",
-    "fetched_at": "2026-11-04T13:34:34.237123+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sharp objects found in Halloween sweets in three European nations",
-    "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 12:34:33 GMT",
-    "source": "BBC News",
-    "id": "8223d87d3eba8d6958aa20d57aab80dc",
-    "fetched_at": "2026-11-04T13:34:34.237122+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
-    "summary": "Benjamin Netanyahu faces a critical test as President Isaac Herzog decides who will receive the mandate to form Israel&apos;s next government.",
-    "link": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
-    "published": "Wed, 04 Nov 2026 01:45:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "75f8324b048bc0c0f8ca63dae9ad0307",
-    "fetched_at": "2026-11-04T13:34:34.237119+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-    "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
-    "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-    "published": "Wed, 04 Nov 2026 07:18:39 -0500",
-    "source": "NPR Topics: World",
-    "id": "a66e95d72686c4dbfaed16187934a16f",
-    "fetched_at": "2026-11-04T13:34:34.237117+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "World reacts to Democrats' midterm elections victory",
-    "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations.",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-    "published": "Wed, 04 Nov 2026 07:34:35 -0500",
-    "source": "NPR Topics: World",
-    "id": "03afb0e94dd1a1f23d27a4efab3e6f84",
-    "fetched_at": "2026-11-04T13:34:34.237115+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Canada bars Russia & Belarus from junior tournament",
-    "summary": "Canada will not ​let ice hockey players from Russia or Belarus take part ‌in the World Junior Championships next month.",
-    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/c6dxw090qvnzo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 07:58:39 GMT",
-    "source": "BBC News",
-    "id": "9fb8d22d94a275cedc3c3b80b17965c7",
-    "fetched_at": "2026-11-04T13:34:34.237081+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Amy Acton wins Ohio governor race after opponent's attack ad marred bitter campaign",
-    "summary": "The raced heated up in its final weeks after the Republican contender released an ad featuring Acton's mother.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2dlz8574jo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 07:30:52 GMT",
-    "source": "BBC News",
-    "id": "a4f7715c5d5e6f83912479d2ef00c4da",
-    "fetched_at": "2026-11-04T13:34:33.135586+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Republican Susan Collins loses Maine seat to Democrat, ending nearly 30 years in the Senate",
-    "summary": "Maine's Senate race was mired in controversy after Democratic nominee Graham Planter withdrew following multiple scandals.",
-    "link": "https://www.bbc.co.uk/news/articles/cred3jj69jvqo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 07:29:51 GMT",
-    "source": "BBC News",
-    "id": "f31fcc0135f02986b440f186ac617ad4",
-    "fetched_at": "2026-11-04T13:34:32.040973+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-    "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 05:39:36 GMT",
-    "source": "BBC News",
-    "id": "403c25d026814a3cba68d7a9250355d9",
-    "fetched_at": "2026-11-04T13:34:30.935614+00:00"
   }
 ]
