@@ -1,6 +1,276 @@
 [
   {
     "region": "Europe",
+    "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+    "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 02:09:23 GMT",
+    "source": "BBC News",
+    "id": "22058ffab812e2d1c7c4a8803c6b9dac",
+    "fetched_at": "2026-11-05T08:50:39.439475+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+    "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+    "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 23:12:47 GMT",
+    "source": "BBC News",
+    "id": "eec47e8de56946bceacadf0a41e60550",
+    "fetched_at": "2026-11-05T08:50:39.439473+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Italian chef fired after refusing to put pineapple on pizza",
+    "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 07:56:53 GMT",
+    "source": "BBC News",
+    "id": "b3a0c0b530bebb537ab53dc839cb70b7",
+    "fetched_at": "2026-11-05T08:50:39.439472+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 08:07:22 GMT",
+    "source": "BBC News",
+    "id": "0f4646baeba500d2921c889eedcbcc46",
+    "fetched_at": "2026-11-05T08:50:39.439470+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Arab airlines set to record a collective net loss of €3.82 billion in 2026, AACO report reveals",
+    "summary": "At its AGM held this week in Doha, the Arab Air Carriers’ Organization raised concerns over EU carbon regulations, as airlines look to boost European connectivity amid ongoing regional uncertainty.",
+    "link": "https://www.euronews.com/2026/11/05/arab-airlines-set-to-record-a-collective-net-loss-of-382-billion-in-2026-aaco-report-revea",
+    "published": "Thu, 05 Nov 2026 07:00:40 +0100",
+    "source": "News | Euronews RSS",
+    "id": "50aeeff7ae03c174738273b418504df1",
+    "fetched_at": "2026-11-05T08:50:39.439469+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years for collusion",
+    "summary": "Wong rose to prominence during Hong Kong's 2014 protests, known as the Umbrella Movement, and has been in and out of jail since 2017.",
+    "link": "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion",
+    "published": "Thu, 05 Nov 2026 07:24:58 +0100",
+    "source": "News | Euronews RSS",
+    "id": "93227a1c415ae859dff40100efe0bd81",
+    "fetched_at": "2026-11-05T08:50:39.439467+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Crises have taken their classrooms. But education cannot wait",
+    "summary": "\"Today, the education of 258 million school-aged children worldwide is disrupted by crises,\" says Reem Alabali Radovan, Germany's Minister for Development in an exclusive op-ed for Euronews. That is why Germany is providing €20 million in funding for education in emergencies over the coming years.",
+    "link": "https://www.euronews.com/2026/11/05/crises-have-taken-their-classrooms-but-education-cannot-wait",
+    "published": "Thu, 05 Nov 2026 08:00:11 +0100",
+    "source": "News | Euronews RSS",
+    "id": "20c0fbb12e743aeadb36a9929a733b60",
+    "fetched_at": "2026-11-05T08:50:39.439465+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe Today: Trump loses Congress. Will he now be even more unpredictable?",
+    "summary": "Democrats have seized control of the US Congress in a nationwide rejection of Trump. In Europe, hackers targeted a French blood bank and supermarket fridges, raising fears of a new front in hybrid warfare. Plus: we talk to Reza Pahlavi, one of the main leaders of the opposition to the Tehran regime.",
+    "link": "https://www.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable",
+    "published": "Thu, 05 Nov 2026 08:02:45 +0100",
+    "source": "News | Euronews RSS",
+    "id": "afcf4368da5df8ccc0683e2f4aa47fe4",
+    "fetched_at": "2026-11-05T08:50:39.439464+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "‘Zeptoverse’: CERN scientists uncover evidence of extraordinarily rare particle decay",
+    "summary": "Scientists at CERN have found evidence of an extraordinarily rare particle decay using the Large Hadron Collider. The process is predicted to occur just once in every 10 billion cases, offering researchers a new way to explore the subatomic world.",
+    "link": "https://www.euronews.com/2026/11/05/zeptoverse-cern-scientists-uncover-evidence-of-extraordinarily-rare-particle-decay",
+    "published": "Thu, 05 Nov 2026 08:02:53 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2f8252f8c6e70daeb4243d23a05de2db",
+    "fetched_at": "2026-11-05T08:50:39.439462+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "New Zealand: Dead whales found as rescuers battle mass stranding",
+    "summary": "Volunteers in New Zealand are working to save pilot whales stranded along the Wairarapa coast, near Cape Palliser. At least 14 have been helped back into the water, but many others have died along the remote coastline.",
+    "link": "https://www.euronews.com/video/2026/11/05/new-zealand-dead-whales-found-as-rescuers-battle-mass-stranding",
+    "published": "Thu, 05 Nov 2026 08:20:00 +0100",
+    "source": "News | Euronews RSS",
+    "id": "0889fcf48f5639caa5df51583f2fbb87",
+    "fetched_at": "2026-11-05T08:50:39.439460+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
+    "summary": "On Wednesday, Ukraine's President Volodymyr Zelenskyy awarded the first lady a national honour for her role in brokering a partial ceasefire that allowed the evacuation of civilians from a Russian-occupied town.",
+    "link": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house",
+    "published": "Thu, 05 Nov 2026 08:26:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7956fe6beb1fda4fbd7de3cc2b40aee9",
+    "fetched_at": "2026-11-05T08:50:39.439458+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gaza: Displaced Palestinian builds wind turbine to generate electricity",
+    "summary": "A displaced Palestinian in Gaza has built a makeshift wind turbine to bring electricity to tents in Khan Younis. Unable to afford solar panels, he has found a way to harness the wind to power everyday essentials.",
+    "link": "https://www.euronews.com/video/2026/11/05/gaza-displaced-palestinian-builds-wind-turbine-to-generate-electricity",
+    "published": "Thu, 05 Nov 2026 09:16:24 +0100",
+    "source": "News | Euronews RSS",
+    "id": "8ed052a57cf12da34e4543812c8e67b4",
+    "fetched_at": "2026-11-05T08:50:39.439457+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "NASA astronauts cast US election votes from the International Space Station",
+    "summary": "In a rare event, three American astronauts voted in Tuesday's US midterm elections from the International Space Station, using advanced links to send electronic ballots to officials on Earth.",
+    "link": "https://www.euronews.com/2026/11/05/nasa-astronauts-cast-us-election-votes-from-the-international-space-station",
+    "published": "Thu, 05 Nov 2026 09:34:58 +0100",
+    "source": "News | Euronews RSS",
+    "id": "0e91fe11020b81d0aaf8665d4c165e17",
+    "fetched_at": "2026-11-05T08:50:39.439455+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "‘It would destroy the Democrat Party’: Trump dismisses impeachment threat",
+    "summary": "US President Donald Trump has warned that impeaching him would damage the Democratic Party, after Republicans suffered major losses in the midterm elections.",
+    "link": "https://www.euronews.com/2026/11/05/it-would-destroy-the-democrat-party-trump-dismisses-impeachment-threat",
+    "published": "Thu, 05 Nov 2026 09:46:27 +0100",
+    "source": "News | Euronews RSS",
+    "id": "959d7059f9c586bf2b1c55bb6c085fa9",
+    "fetched_at": "2026-11-05T08:50:39.439454+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Football world mourns Tenerife striker De Miguel",
+    "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 03 Nov 2026 23:37:12 GMT",
+    "source": "BBC News",
+    "id": "ed279e3fc314c471f0501fafbf2dc503",
+    "fetched_at": "2026-11-05T08:50:39.439452+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Sharp objects found in Halloween sweets in three European nations",
+    "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
+    "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 12:34:33 GMT",
+    "source": "BBC News",
+    "id": "8223d87d3eba8d6958aa20d57aab80dc",
+    "fetched_at": "2026-11-05T08:50:39.439450+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
+    "summary": "Benjamin Netanyahu faces a critical test as President Isaac Herzog decides who will receive the mandate to form Israel&apos;s next government.",
+    "link": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
+    "published": "Wed, 04 Nov 2026 01:45:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "75f8324b048bc0c0f8ca63dae9ad0307",
+    "fetched_at": "2026-11-05T08:50:39.439447+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Marine dies in training incident at Japan military base, officials say",
+    "summary": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
+    "link": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
+    "published": "Thu, 05 Nov 2026 00:38:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a21a272bbed56db108d741590e5a25df",
+    "fetched_at": "2026-11-05T08:50:39.439445+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+    "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+    "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+    "published": "Wed, 04 Nov 2026 07:18:39 -0500",
+    "source": "NPR Topics: World",
+    "id": "a66e95d72686c4dbfaed16187934a16f",
+    "fetched_at": "2026-11-05T08:50:39.439442+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+    "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+    "published": "Wed, 04 Nov 2026 07:34:35 -0500",
+    "source": "NPR Topics: World",
+    "id": "03afb0e94dd1a1f23d27a4efab3e6f84",
+    "fetched_at": "2026-11-05T08:50:39.439415+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+    "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+    "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+    "published": "Thu, 05 Nov 2026 00:29:56 -0500",
+    "source": "NPR Topics: World",
+    "id": "d16669220d793f3014b859280555336e",
+    "fetched_at": "2026-11-05T08:50:38.301651+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+    "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+    "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+    "published": "Thu, 05 Nov 2026 02:02:12 -0500",
+    "source": "NPR Topics: World",
+    "id": "97d0467c8d5f482581391b7ac9df04c4",
+    "fetched_at": "2026-11-05T08:50:37.138173+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race",
+    "summary": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 00:51:45 GMT",
+    "source": "BBC News",
+    "id": "8d9ff5e45bc0c88daa9cfe7183e340f5",
+    "fetched_at": "2026-11-05T08:50:35.993790+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+    "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 06:01:05 GMT",
+    "source": "BBC News",
+    "id": "85b1ee445dff345c43bd999439e74a0b",
+    "fetched_at": "2026-11-05T08:50:34.856780+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Hopefully things get done': Americans react to historic political shift",
+    "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+    "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 22:34:08 GMT",
+    "source": "BBC News",
+    "id": "dcbf251745c353380b6d3ac3cb8044cc",
+    "fetched_at": "2026-11-05T08:50:33.720713+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What Democrats can and can't do with their new power after taking Congress",
+    "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+    "source": "BBC News",
+    "id": "327749fee9b6935883ea4e9dd45d1e74",
+    "fetched_at": "2026-11-05T08:50:32.576286+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+    "source": "BBC News",
+    "id": "8072a7aa57481347f0c2cb931ab21373",
+    "fetched_at": "2026-11-05T08:50:31.424315+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Zelenski makes surprise visit to Madrid for talks with Sánchez and Latin American leaders",
     "summary": "Zelensky visits Madrid to meet Sánchez, Felipe VI and Latin American leaders at the Ibero-American Summit, aiming to boost support for Ukraine and closer ties with Latin America.",
     "link": "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders",
@@ -328,275 +598,5 @@
     "source": "NPR Topics: World",
     "id": "678be798cb6445397db7d8f9ac1aa363",
     "fetched_at": "2026-11-04T20:37:40.061266+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-    "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
-    "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-    "published": "Mon, 02 Nov 2026 07:19:54 -0500",
-    "source": "NPR Topics: World",
-    "id": "e061349a28888d705914d942ccffca9b",
-    "fetched_at": "2026-11-04T20:37:40.061263+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-    "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-    "published": "Tue, 03 Nov 2026 06:01:14 -0500",
-    "source": "NPR Topics: World",
-    "id": "11e0561c9babc2e5b51a62f6148c45c5",
-    "fetched_at": "2026-11-04T20:37:40.061261+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-    "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-    "published": "Tue, 03 Nov 2026 06:43:49 -0500",
-    "source": "NPR Topics: World",
-    "id": "d2e0c725070e04f41982e59213a65825",
-    "fetched_at": "2026-11-04T20:37:40.061258+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-    "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-    "published": "Tue, 03 Nov 2026 09:13:58 -0500",
-    "source": "NPR Topics: World",
-    "id": "5317ecb5ebcb807a285c034056086666",
-    "fetched_at": "2026-11-04T20:37:40.061256+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-    "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-    "published": "Tue, 03 Nov 2026 10:54:39 -0500",
-    "source": "NPR Topics: World",
-    "id": "39e6df3dfb86ebcb6572f372db6bbd7a",
-    "fetched_at": "2026-11-04T20:37:40.061253+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-    "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-    "published": "Wed, 04 Nov 2026 08:38:09 -0500",
-    "source": "NPR Topics: World",
-    "id": "56379b6e171b0e9f979d783e4dcd2a8c",
-    "fetched_at": "2026-11-04T20:37:40.061250+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-    "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 15:18:03 GMT",
-    "source": "BBC News",
-    "id": "db526e1193477d1ff00a45fe15245405",
-    "fetched_at": "2026-11-04T20:37:40.061247+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The young politicians with African roots making history in the US midterms",
-    "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 16:34:32 GMT",
-    "source": "BBC News",
-    "id": "f021c0e2f101ff200ee313d75a4f83ac",
-    "fetched_at": "2026-11-04T20:37:40.061243+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-    "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 18:01:31 GMT",
-    "source": "BBC News",
-    "id": "c80cbbff185ae3a858997eadd8f35141",
-    "fetched_at": "2026-11-04T20:37:40.061212+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-    "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 15:51:37 GMT",
-    "source": "BBC News",
-    "id": "e38596b34cc5bb8e8d4d83d47fc5cda8",
-    "fetched_at": "2026-11-04T20:37:38.913156+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
-    "summary": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 17:21:32 GMT",
-    "source": "BBC News",
-    "id": "0aa7e51a5e7797841c2b2f9377074415",
-    "fetched_at": "2026-11-04T20:37:37.753623+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump's loss limits powers at home, but it will likely be different abroad",
-    "summary": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
-    "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 18:35:07 GMT",
-    "source": "BBC News",
-    "id": "8c318154fd8ecb159e102b11c9e0f5fe",
-    "fetched_at": "2026-11-04T20:37:36.416510+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrats 'got their wish': Voters react to midterm results",
-    "summary": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidency.",
-    "link": "https://www.bbc.co.uk/news/videos/cqe8le668e13o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 19:01:37 GMT",
-    "source": "BBC News",
-    "id": "e96ea8bdffc5673b9dd100fdbeaf4571",
-    "fetched_at": "2026-11-04T20:37:35.258652+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How America voted in maps and charts",
-    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 09:53:18 GMT",
-    "source": "BBC News",
-    "id": "4e9602f3f3f5c605cc135c5e3b3d0ba4",
-    "fetched_at": "2026-11-04T20:37:34.066298+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Five reasons why Republicans lost so badly",
-    "summary": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 12:44:19 GMT",
-    "source": "BBC News",
-    "id": "0ab3479ea5a2797639ca2741247fc74d",
-    "fetched_at": "2026-11-04T20:37:32.904683+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-    "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 13:33:30 GMT",
-    "source": "BBC News",
-    "id": "4b2e4f52ef3e459bcf736f5319cb807f",
-    "fetched_at": "2026-11-04T20:37:31.738123+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-    "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-    "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 11:46:09 GMT",
-    "source": "BBC News",
-    "id": "143999b5bdbe4b30d12b4b54fd441f7a",
-    "fetched_at": "2026-11-04T13:34:34.237144+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "ANC under pressure to reverse South Africa decline",
-    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 11:47:44 GMT",
-    "source": "BBC News",
-    "id": "f90df15df1aad1f2e4537920f4f0efbf",
-    "fetched_at": "2026-11-04T13:34:34.237143+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-    "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-    "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 07:39:38 GMT",
-    "source": "BBC News",
-    "id": "c022edf02dee0cf6ad3e6d8f212336e6",
-    "fetched_at": "2026-11-04T13:34:34.237142+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iran's chief negotiator says Americans voted 'no to war'",
-    "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 12:21:21 GMT",
-    "source": "BBC News",
-    "id": "d3731d80d08e25e17ead91730fa48801",
-    "fetched_at": "2026-11-04T13:34:34.237140+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Florida Republicans fend off Democrats as state elects first black governor",
-    "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 07:12:21 GMT",
-    "source": "BBC News",
-    "id": "ebd75a021559356b2921dd40647eafa4",
-    "fetched_at": "2026-11-04T13:34:34.237139+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "‘Democrats did a good job’: Trump congratulates Democrats on midterm wins",
-    "summary": "US President Donald Trump has acknowledged that rising petrol prices linked to the war in Iran contributed to his Republican Party's defeat in the midterm elections. He said voters supported his actions against Iran but were reluctant to pay more at the pump. Trump also praised Democrats.",
-    "link": "https://www.euronews.com/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
-    "published": "Wed, 04 Nov 2026 08:25:10 +0100",
-    "source": "News | Euronews RSS",
-    "id": "61d8443bbbcf77fa9f3236af6d1b81dd",
-    "fetched_at": "2026-11-04T13:34:34.237137+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Abdul El-Sayed makes history as first Muslim elected to US Senate",
-    "summary": "Democrat Abdul El-Sayed has won Michigan's Senate race against Republican Mike Rogers, becoming the first Muslim elected to the US Senate. The 42-year-old physician, who represents the progressive wing of the Democratic Party, secured a seat that Republicans had hoped to flip.",
-    "link": "https://www.euronews.com/2026/11/04/abdul-el-sayed-makes-history-as-first-muslim-elected-to-us-senate",
-    "published": "Wed, 04 Nov 2026 08:37:25 +0100",
-    "source": "News | Euronews RSS",
-    "id": "47b65f9a70cff75eee78d7dbb74a2c5e",
-    "fetched_at": "2026-11-04T13:34:34.237136+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "‘We will take back the House in 2028’: US House Speaker Johnson promises Republican comeback",
-    "summary": "US House Speaker Mike Johnson has urged Republicans not to lose hope after Democrats made major gains in the 2026 midterm elections. Johnson vowed that Republicans would double down on their agenda and seek to retake the House in 2028.",
-    "link": "https://www.euronews.com/2026/11/04/we-will-take-back-the-house-in-2028-us-house-speaker-johnson-promises-republican-comeback",
-    "published": "Wed, 04 Nov 2026 08:48:54 +0100",
-    "source": "News | Euronews RSS",
-    "id": "1290ac24d6baf338b067245fec5c29a2",
-    "fetched_at": "2026-11-04T13:34:34.237135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US midterm elections: Cheers erupt as Talarico's Texas victory is projected",
-    "summary": "Supporters erupted in celebration in Austin as Democrat James Talarico was projected to win a US Senate seat in Texas, a state where his party has not won a Senate election since 1988.",
-    "link": "https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected",
-    "published": "Wed, 04 Nov 2026 09:28:03 +0100",
-    "source": "News | Euronews RSS",
-    "id": "a5259d9044363f0b816fdc02d7a91281",
-    "fetched_at": "2026-11-04T13:34:34.237134+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: 33 dead, over 50 missing after Russian bombing in Zaporizhzhia",
-    "summary": "Russian strikes on a humanitarian aid site in Ukraine's Zaporizhzhia region have killed 33 people, with more than 50 still missing, on Monday 2 November. Survivors and rescuers are being treated for severe injuries.",
-    "link": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
-    "published": "Wed, 04 Nov 2026 10:26:29 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4ab3a4bdc023bf21c562e69e7af62198",
-    "fetched_at": "2026-11-04T13:34:34.237133+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Iranian MP tells Euronews Tehran's missiles will strike Europe if US uses its bases there",
-    "summary": "Ahmad Bakhshayesh Ardestani, a member of Iranian parliament’s security committee, said Iran would fire on any European base used against it, including in Italy and Germany. State-run media said any new confrontation could reach “the heart of Europe\".",
-    "link": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there",
-    "published": "Wed, 04 Nov 2026 11:03:28 +0100",
-    "source": "News | Euronews RSS",
-    "id": "1e0bae2a8c0545360166574dbf345a98",
-    "fetched_at": "2026-11-04T13:34:34.237131+00:00"
   }
 ]
