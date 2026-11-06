@@ -1,6 +1,266 @@
 [
   {
     "region": "Europe",
+    "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+    "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 07:33:41 GMT",
+    "source": "BBC News",
+    "id": "6777872e476642a1ace711d18eb92c3d",
+    "fetched_at": "2026-11-06T13:31:52.224143+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Somalia's top court rejects president's term extension amid political crisis",
+    "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+    "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 08:18:10 GMT",
+    "source": "BBC News",
+    "id": "e3bed5684cbd552209721fbf73d2f5c0",
+    "fetched_at": "2026-11-06T13:31:52.224141+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 09:57:04 GMT",
+    "source": "BBC News",
+    "id": "0db495f27a4b0c6dc7faf19dacc3201c",
+    "fetched_at": "2026-11-06T13:31:52.224139+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:41:44 GMT",
+    "source": "BBC News",
+    "id": "5b7e23b22bb86fd1f2afaa8b1b299554",
+    "fetched_at": "2026-11-06T13:31:52.224137+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:54:04 GMT",
+    "source": "BBC News",
+    "id": "cea03d0095aef7040e15d76680791220",
+    "fetched_at": "2026-11-06T13:31:52.224135+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 6th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning",
+    "published": "Fri, 06 Nov 2026 07:00:33 +0100",
+    "source": "News | Euronews RSS",
+    "id": "3d05213122353701c1c5a6751004cd53",
+    "fetched_at": "2026-11-06T13:31:52.224133+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe Today: Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi",
+    "summary": "With the midterms over, attention turns to Donald Trump's next move on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes. Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats on European flights and a new book on Emmanuel Macron.",
+    "link": "https://www.euronews.com/2026/11/06/europe-today-trump-weighs-iran-strikes-as-ukraine-talks-head-to-abu-dhabi",
+    "published": "Fri, 06 Nov 2026 08:01:47 +0100",
+    "source": "News | Euronews RSS",
+    "id": "c551be81c272612bdf9acc35b95d838c",
+    "fetched_at": "2026-11-06T13:31:52.224131+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Paraguay: Thousands protest banking scandal as president faces impeachment",
+    "summary": "Thousands of Paraguayans have taken to the streets over a banking scandal that has left nearly half the population without access to their savings. Protesters are demanding President Santiago Peña face impeachment despite his offer to resign.",
+    "link": "https://www.euronews.com/video/2026/11/06/paraguay-thousands-protest-banking-scandal-as-president-faces-impeachment",
+    "published": "Fri, 06 Nov 2026 09:06:58 +0100",
+    "source": "News | Euronews RSS",
+    "id": "0cc1816fc24defd9689ff38e636e6f77",
+    "fetched_at": "2026-11-06T13:31:52.224129+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Grizzly bear hunt underway after mother and daughter killed in Canada",
+    "summary": "A mother and her daughter have been found dead following a suspected bear attack near Bella Coola, in British Columbia. Conservation officers say multiple grizzlies may have been involved, with trapping efforts underway. Authorities have imposed a curfew as the investigation continues.",
+    "link": "https://www.euronews.com/2026/11/06/grizzly-bear-hunt-underway-after-mother-and-daughter-killed-in-canada",
+    "published": "Fri, 06 Nov 2026 10:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d82648bf44aa1d0a173488f35cb80c69",
+    "fetched_at": "2026-11-06T13:31:52.224127+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Judge blocks construction of Trump's massive 'triumphal arch'",
+    "summary": "Trump has said the structure would be turned into a \"top grade military complex\" housing drones, snipers and ammunition.",
+    "link": "https://www.euronews.com/2026/11/06/judge-blocks-construction-of-trumps-massive-triumphal-arch",
+    "published": "Fri, 06 Nov 2026 10:19:17 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2c8b97ae4a2218e2afb986485d043d9a",
+    "fetched_at": "2026-11-06T13:31:52.224125+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 6th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday",
+    "published": "Fri, 06 Nov 2026 12:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "4a180f25877077d8f9002c7446413e73",
+    "fetched_at": "2026-11-06T13:31:52.224123+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hormuz standoff ‘not sustainable’, senior Iranian lawmaker tells Euronews",
+    "summary": "MP and foreign minister under Ahmadinejad, Manouchehr Mottaki, told Euronews that multiple ships a day were being disabled as the IRGC Navy worked to bring unauthorised transit to zero. He called on Washington to lift its naval blockade strangling the Iranian economy before talks resume.",
+    "link": "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews",
+    "published": "Fri, 06 Nov 2026 12:02:35 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7564c5e7722c4d0cc7449e1e252a0024",
+    "fetched_at": "2026-11-06T13:31:52.224121+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Japan: Commuters flock to see two goats grazing at Tokyo station",
+    "summary": "Two white goats have become unlikely celebrities in central Tokyo after being recruited to clear overgrown vegetation near Yotsuya railway station. Their eco-friendly gardening duties are attracting crowds of delighted onlookers.",
+    "link": "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station",
+    "published": "Fri, 06 Nov 2026 12:03:47 +0100",
+    "source": "News | Euronews RSS",
+    "id": "92aec1692313eaf3d144c8b60c2cd085",
+    "fetched_at": "2026-11-06T13:31:52.224119+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Five people rescued off Kiribati after months drifting at sea",
+    "summary": "In a statement shared on Sunday, the governor of Micronesia's Chuuk state, Alexander Narruhn, said he was in talks with the Kiribati government to bring the survivors home.",
+    "link": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
+    "published": "Fri, 06 Nov 2026 12:29:33 +0100",
+    "source": "News | Euronews RSS",
+    "id": "be68a4e37f982f32cc9e56500a71227c",
+    "fetched_at": "2026-11-06T13:31:52.224117+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK: Thousands gather as London switches on its Christmas lights",
+    "summary": "Thousands of people gathered on London's Regent Street on Thursday 5 November as the famous shopping destination welcomed the Christmas season with a spectacular lights switch-on and fireworks display.",
+    "link": "https://www.euronews.com/video/2026/11/06/uk-thousands-gather-as-london-switches-on-its-christmas-lights",
+    "published": "Fri, 06 Nov 2026 14:09:04 +0100",
+    "source": "News | Euronews RSS",
+    "id": "55eeff851c8723435526d81d7dc0b443",
+    "fetched_at": "2026-11-06T13:31:52.224114+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+    "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 06:00:46 GMT",
+    "source": "BBC News",
+    "id": "6d2ced3fe7dd21bec18c70ca0cf00689",
+    "fetched_at": "2026-11-06T13:31:52.224111+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Two dead after bus crashes in France, officials say",
+    "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:27:33 GMT",
+    "source": "BBC News",
+    "id": "1c78bf808ad65a8d7ebd03dab22e7963",
+    "fetched_at": "2026-11-06T13:31:52.224107+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Self-styled 'king of Germany' goes on trial accused of heading criminal group",
+    "summary": "Peter Fitzek is a member of a banned Reichsbürger group that sought to set up the \"Kingdom of Germany\" (KRD).",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjxxmz7mxro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:00:14 GMT",
+    "source": "BBC News",
+    "id": "c39dfaa4e6f29d4480338778fff5f94d",
+    "fetched_at": "2026-11-06T13:31:52.224103+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+    "summary": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:31:34 GMT",
+    "source": "BBC News",
+    "id": "c16380c896a58731aa51130a20996d34",
+    "fetched_at": "2026-11-06T13:31:52.224072+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian extremist group denies sending hoax bomb threats",
+    "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:51:38 GMT",
+    "source": "BBC News",
+    "id": "371239d0c2069f7edff5886a7b52bc98",
+    "fetched_at": "2026-11-06T13:31:51.071993+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
+    "summary": "OpenAI&apos;s Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
+    "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
+    "published": "Fri, 06 Nov 2026 05:00:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4047fb3d1495856cf89cc805b99d4fcf",
+    "fetched_at": "2026-11-06T13:31:49.916398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+    "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+    "published": "Fri, 06 Nov 2026 04:19:57 -0500",
+    "source": "NPR Topics: World",
+    "id": "86f43d77f6336e9f6b7820263f8a2bc1",
+    "fetched_at": "2026-11-06T13:31:48.763151+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+    "published": "Fri, 06 Nov 2026 07:24:52 -0500",
+    "source": "NPR Topics: World",
+    "id": "f58eb06a258f4dc1351c853bf567efac",
+    "fetched_at": "2026-11-06T13:31:47.610616+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+    "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 11:21:35 GMT",
+    "source": "BBC News",
+    "id": "f25e0ef6957338279fb03cdaf461a853",
+    "fetched_at": "2026-11-06T13:31:46.448812+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Six dead and others injured in fire at New York City building",
+    "summary": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
+    "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 15:00:12 GMT",
+    "source": "BBC News",
+    "id": "17954d99cf6886eca2c63cbe3698519d",
+    "fetched_at": "2026-11-06T13:31:45.295928+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 13:25:50 GMT",
+    "source": "BBC News",
+    "id": "3945e2d3a810a143225ce60714ce4fbb",
+    "fetched_at": "2026-11-06T13:31:44.140599+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
     "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
     "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
@@ -338,265 +598,5 @@
     "source": "BBC News",
     "id": "253b3c8574b622bf556dead6184accff",
     "fetched_at": "2026-11-05T23:05:53.709282+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-    "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-    "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 09:04:42 GMT",
-    "source": "BBC News",
-    "id": "d96444eca4d211e90e8f147494862a56",
-    "fetched_at": "2026-11-05T17:46:48.498745+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russell Brand is being investigated over two new rape complaints, police say",
-    "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 15:44:49 GMT",
-    "source": "BBC News",
-    "id": "2e76ef075a7a42b8a49c940f9a2d859a",
-    "fetched_at": "2026-11-05T17:46:48.498744+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-    "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-    "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 10:33:21 GMT",
-    "source": "BBC News",
-    "id": "bcb637e2b269abd8d41093f0dea2187a",
-    "fetched_at": "2026-11-05T17:46:48.498743+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Paraguay President Santiago Peña resigns after bank collapse",
-    "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-    "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 17:40:40 GMT",
-    "source": "BBC News",
-    "id": "bc9abfcd7f048245b613da55efa36219",
-    "fetched_at": "2026-11-05T17:46:48.498742+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 5th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-midday",
-    "published": "Thu, 05 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "53e61b77873668f4e79974e12ae329f4",
-    "fetched_at": "2026-11-05T17:46:48.498741+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France: Mass protests and school blockades mark fourth national strike",
-    "summary": "Hundreds of thousands joined a fourth nationwide day of protests across France. Police used tear gas outside a Paris school, while major demonstrations disrupted Marseille and Nantes.",
-    "link": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs",
-    "published": "Thu, 05 Nov 2026 12:55:12 +0100",
-    "source": "News | Euronews RSS",
-    "id": "cc4f5fd90a8a2738f9005c7aed5d10ef",
-    "fetched_at": "2026-11-05T17:46:48.498740+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
-    "summary": "Argentine President Javier Milei and Spanish Prime Minister Pedro Sánchez exchanged a brief and frosty greeting at the Ibero-American Summit in Madrid on Wednesday. Their encounter comes two weeks after Milei called Sánchez an “unpresentable dictator”.",
-    "link": "https://www.euronews.com/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit",
-    "published": "Thu, 05 Nov 2026 13:00:08 +0100",
-    "source": "News | Euronews RSS",
-    "id": "995da0c6b7d5d120aaed424d5382807c",
-    "fetched_at": "2026-11-05T17:46:48.498738+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "South Korea plans to extend anti-piracy patrols closer to Strait of Hormuz",
-    "summary": "Seoul said pirates have recently ventured further from the Somali coast and added that it wanted to send a patrol aircraft to protect merchant ships off Oman while keeping its forces out of the ongoing Iran war.",
-    "link": "https://www.euronews.com/2026/11/05/south-korea-plans-to-extend-anti-piracy-patrols-closer-to-strait-of-hormuz",
-    "published": "Thu, 05 Nov 2026 13:07:23 +0100",
-    "source": "News | Euronews RSS",
-    "id": "f74a6f75de7505b24ca6fbeb05a625f2",
-    "fetched_at": "2026-11-05T17:46:48.498737+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France: Up to 55,000 march in Lyon amid clashes and tear gas",
-    "summary": "Tens of thousands marched through Lyon area during a nationwide strike over wages and purchasing power. Police charged demonstrators and used tear gas as clashes erupted along the protest route.",
-    "link": "https://www.euronews.com/video/2026/11/05/france-up-to-55000-march-in-lyon-amid-clashes-and-tear-gas",
-    "published": "Thu, 05 Nov 2026 15:08:48 +0100",
-    "source": "News | Euronews RSS",
-    "id": "e241c737c27104a2bfdb69ae27682b78",
-    "fetched_at": "2026-11-05T17:46:48.498736+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ueno Bank collapse in Paraguay prompts President Santiago Peña to resign",
-    "summary": "The accounting black hole at Ueno Bank wipes out public funds, leaves thousands without access to their deposits and drives Paraguay into its worst institutional crisis in years.",
-    "link": "https://www.euronews.com/2026/11/05/ueno-bank-collapse-in-paraguay-prompts-president-santiago-pena-to-resign",
-    "published": "Thu, 05 Nov 2026 15:38:17 +0100",
-    "source": "News | Euronews RSS",
-    "id": "63ff71461ce9097fc315e52c909a5807",
-    "fetched_at": "2026-11-05T17:46:48.498735+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Putin seizes Russian operations of cigarette giant Japan Tobacco International",
-    "summary": "The decree transferred JTI’s four factories, around 4,000 employees and roughly 40% of the Russian cigarette market to a state-linked holding company. The latest seizure added to a list that includes Nestlé, Auchan, Leroy Merlin and Metro.",
-    "link": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
-    "published": "Thu, 05 Nov 2026 17:21:54 +0100",
-    "source": "News | Euronews RSS",
-    "id": "592e84b25db64cd844f441d18944fd78",
-    "fetched_at": "2026-11-05T17:46:48.498734+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 5th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-evening",
-    "published": "Thu, 05 Nov 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8ca3bca43a8bba0d62bcf5d659aa4fe7",
-    "fetched_at": "2026-11-05T17:46:48.498732+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Greece: Students march in Athens demanding more education funding",
-    "summary": "Thousands of pupils, students and teachers marched through central Athens on Thursday in a nationwide push for better-funded schools, joining a protest wave that has spread from France across southern Europe.",
-    "link": "https://www.euronews.com/video/2026/11/05/greece-students-march-in-athens-demanding-more-education-funding",
-    "published": "Thu, 05 Nov 2026 18:35:05 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4b72d338c0ded0861ac85ddd8138071f",
-    "fetched_at": "2026-11-05T17:46:48.498731+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British comedian Russell Brand found guilty of rape and three sexual assaults by London jury",
-    "summary": "Russell Brand was convicted of four sexual offences, one rape and three sexual assaults, involving four women between 2005 and 2009 in different locations.",
-    "link": "https://www.euronews.com/2026/11/05/british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults-by-london-ju",
-    "published": "Thu, 05 Nov 2026 18:42:23 +0100",
-    "source": "News | Euronews RSS",
-    "id": "395bb89226561b1bc1c9b54f05874274",
-    "fetched_at": "2026-11-05T17:46:48.498729+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ronaldo retires from Portugal duty",
-    "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 12:28:01 GMT",
-    "source": "BBC News",
-    "id": "6a98ae772d320c084de646e831c47152",
-    "fetched_at": "2026-11-05T17:46:48.498728+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pound rises to its highest level since the Brexit referendum",
-    "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 04:21:35 GMT",
-    "source": "BBC News",
-    "id": "e2df2e5e52a8b8f054886a33a605eb98",
-    "fetched_at": "2026-11-05T17:46:48.498726+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-    "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 17:39:48 GMT",
-    "source": "BBC News",
-    "id": "2e1991d0e1fecbf9fe4beaadeeefa055",
-    "fetched_at": "2026-11-05T17:46:48.498725+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France holds new strikes and protests as unions demand immediate answers",
-    "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 15:43:15 GMT",
-    "source": "BBC News",
-    "id": "0258a28f7258f66abdc958754c0172dd",
-    "fetched_at": "2026-11-05T17:46:48.498723+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Multiple flights in Europe diverted because of bomb threats",
-    "summary": "At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded.",
-    "link": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
-    "published": "Thu, 05 Nov 2026 07:33:26 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0cd0a2b7d7dcd4c72f991a51297dc630",
-    "fetched_at": "2026-11-05T17:46:48.498720+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Protests erupt across France after left-wing groups call for mobilization",
-    "summary": "An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron&apos;s government.",
-    "link": "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
-    "published": "Thu, 05 Nov 2026 10:36:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b612642fe3a981d56bdc3ee240fa3fe7",
-    "fetched_at": "2026-11-05T17:46:48.498718+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-    "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-    "published": "Tue, 03 Nov 2026 06:43:49 -0500",
-    "source": "NPR Topics: World",
-    "id": "d2e0c725070e04f41982e59213a65825",
-    "fetched_at": "2026-11-05T17:46:48.498716+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-    "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-    "published": "Tue, 03 Nov 2026 09:13:58 -0500",
-    "source": "NPR Topics: World",
-    "id": "5317ecb5ebcb807a285c034056086666",
-    "fetched_at": "2026-11-05T17:46:48.498679+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-    "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-    "published": "Tue, 03 Nov 2026 10:54:39 -0500",
-    "source": "NPR Topics: World",
-    "id": "39e6df3dfb86ebcb6572f372db6bbd7a",
-    "fetched_at": "2026-11-05T17:46:47.396429+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-    "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-    "published": "Wed, 04 Nov 2026 08:38:09 -0500",
-    "source": "NPR Topics: World",
-    "id": "56379b6e171b0e9f979d783e4dcd2a8c",
-    "fetched_at": "2026-11-05T17:46:46.293431+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-    "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-    "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-    "published": "Thu, 05 Nov 2026 07:02:24 -0500",
-    "source": "NPR Topics: World",
-    "id": "74033beb87bf5e00cdb6e0998daf92ec",
-    "fetched_at": "2026-11-05T17:46:45.182567+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The last time a Kansas Democrat was in the Senate, Judy Garland was filming the Wizard of Oz",
-    "summary": "Adam Hamilton, a pastor, has made history as the first Kansas Democrat to win the Senate in almost 100 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx29rxkld84o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 04 Nov 2026 17:21:32 GMT",
-    "source": "BBC News",
-    "id": "0aa7e51a5e7797841c2b2f9377074415",
-    "fetched_at": "2026-11-05T17:46:44.061575+00:00"
   }
 ]
