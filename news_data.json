@@ -1,6 +1,136 @@
 [
   {
     "region": "Europe",
+    "title": "Pope in 'pretty good health' as he starts Latin America tour",
+    "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+    "source": "BBC News",
+    "id": "a218bea10d7a95ba8febe9d159970a32",
+    "fetched_at": "2026-11-07T08:05:32.747046+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Paraguay's president impeached and under house arrest after bank collapse",
+    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+    "source": "BBC News",
+    "id": "a22b4e5bd0705af79db7ad401e640082",
+    "fetched_at": "2026-11-07T08:05:32.747043+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'We have proven ourselves': UAE vows to remain reliable energy supplier to Europe",
+    "summary": "One of the UAE's most senior energy officials told Euronews diversification has carried the country's energy sector through months of regional crisis, as Europe looks to the Gulf for secure supply.",
+    "link": "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe",
+    "published": "Sat, 07 Nov 2026 07:00:12 +0100",
+    "source": "News | Euronews RSS",
+    "id": "c1e82f4dfcfbb567525c7dda3469bd4c",
+    "fetched_at": "2026-11-07T08:05:32.747041+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 7th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning",
+    "published": "Sat, 07 Nov 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "ac6ad017e519022ffb25a2703612ac6a",
+    "fetched_at": "2026-11-07T08:05:32.747038+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+    "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 00:02:57 GMT",
+    "source": "BBC News",
+    "id": "2921cd2afcfe57fddb1c9ac687001627",
+    "fetched_at": "2026-11-07T08:05:32.747034+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+    "summary": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:31:34 GMT",
+    "source": "BBC News",
+    "id": "c16380c896a58731aa51130a20996d34",
+    "fetched_at": "2026-11-07T08:05:32.747007+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian extremist group denies sending hoax bomb threats",
+    "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 12:51:38 GMT",
+    "source": "BBC News",
+    "id": "371239d0c2069f7edff5886a7b52bc98",
+    "fetched_at": "2026-11-07T08:05:31.615864+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
+    "summary": "Benjamin Netanyahu faces a critical test as President Isaac Herzog decides who will receive the mandate to form Israel&apos;s next government.",
+    "link": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
+    "published": "Wed, 04 Nov 2026 01:45:04 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "75f8324b048bc0c0f8ca63dae9ad0307",
+    "fetched_at": "2026-11-07T08:05:30.465398+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Marine dies in training incident at Japan military base, officials say",
+    "summary": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
+    "link": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
+    "published": "Thu, 05 Nov 2026 00:38:44 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "a21a272bbed56db108d741590e5a25df",
+    "fetched_at": "2026-11-07T08:05:29.335922+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
+    "summary": "OpenAI&apos;s Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
+    "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
+    "published": "Fri, 06 Nov 2026 05:00:17 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "4047fb3d1495856cf89cc805b99d4fcf",
+    "fetched_at": "2026-11-07T08:05:28.193625+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+    "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+    "published": "Fri, 06 Nov 2026 04:19:57 -0500",
+    "source": "NPR Topics: World",
+    "id": "86f43d77f6336e9f6b7820263f8a2bc1",
+    "fetched_at": "2026-11-07T08:05:27.035258+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+    "published": "Fri, 06 Nov 2026 07:24:52 -0500",
+    "source": "NPR Topics: World",
+    "id": "f58eb06a258f4dc1351c853bf567efac",
+    "fetched_at": "2026-11-07T08:05:25.896074+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Texas mayor instructs police to limit co-operation with ICE",
+    "summary": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 07 Nov 2026 03:31:54 GMT",
+    "source": "BBC News",
+    "id": "8ab71ad49fc11678015fcf6d42dcd7a3",
+    "fetched_at": "2026-11-07T08:05:24.542518+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
     "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
     "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
@@ -468,135 +598,5 @@
     "source": "BBC News",
     "id": "cea03d0095aef7040e15d76680791220",
     "fetched_at": "2026-11-06T13:31:52.224135+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 6th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-morning",
-    "published": "Fri, 06 Nov 2026 07:00:33 +0100",
-    "source": "News | Euronews RSS",
-    "id": "3d05213122353701c1c5a6751004cd53",
-    "fetched_at": "2026-11-06T13:31:52.224133+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe Today: Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi",
-    "summary": "With the midterms over, attention turns to Donald Trump's next move on Iran, as US officials reportedly warn Gulf allies to prepare for new strikes. Ukraine talks head to Abu Dhabi next week. We also look at the wave of bomb threats on European flights and a new book on Emmanuel Macron.",
-    "link": "https://www.euronews.com/2026/11/06/europe-today-trump-weighs-iran-strikes-as-ukraine-talks-head-to-abu-dhabi",
-    "published": "Fri, 06 Nov 2026 08:01:47 +0100",
-    "source": "News | Euronews RSS",
-    "id": "c551be81c272612bdf9acc35b95d838c",
-    "fetched_at": "2026-11-06T13:31:52.224131+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Paraguay: Thousands protest banking scandal as president faces impeachment",
-    "summary": "Thousands of Paraguayans have taken to the streets over a banking scandal that has left nearly half the population without access to their savings. Protesters are demanding President Santiago Peña face impeachment despite his offer to resign.",
-    "link": "https://www.euronews.com/video/2026/11/06/paraguay-thousands-protest-banking-scandal-as-president-faces-impeachment",
-    "published": "Fri, 06 Nov 2026 09:06:58 +0100",
-    "source": "News | Euronews RSS",
-    "id": "0cc1816fc24defd9689ff38e636e6f77",
-    "fetched_at": "2026-11-06T13:31:52.224129+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Grizzly bear hunt underway after mother and daughter killed in Canada",
-    "summary": "A mother and her daughter have been found dead following a suspected bear attack near Bella Coola, in British Columbia. Conservation officers say multiple grizzlies may have been involved, with trapping efforts underway. Authorities have imposed a curfew as the investigation continues.",
-    "link": "https://www.euronews.com/2026/11/06/grizzly-bear-hunt-underway-after-mother-and-daughter-killed-in-canada",
-    "published": "Fri, 06 Nov 2026 10:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d82648bf44aa1d0a173488f35cb80c69",
-    "fetched_at": "2026-11-06T13:31:52.224127+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Judge blocks construction of Trump's massive 'triumphal arch'",
-    "summary": "Trump has said the structure would be turned into a \"top grade military complex\" housing drones, snipers and ammunition.",
-    "link": "https://www.euronews.com/2026/11/06/judge-blocks-construction-of-trumps-massive-triumphal-arch",
-    "published": "Fri, 06 Nov 2026 10:19:17 +0100",
-    "source": "News | Euronews RSS",
-    "id": "2c8b97ae4a2218e2afb986485d043d9a",
-    "fetched_at": "2026-11-06T13:31:52.224125+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 6th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday",
-    "published": "Fri, 06 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4a180f25877077d8f9002c7446413e73",
-    "fetched_at": "2026-11-06T13:31:52.224123+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Hormuz standoff ‘not sustainable’, senior Iranian lawmaker tells Euronews",
-    "summary": "MP and foreign minister under Ahmadinejad, Manouchehr Mottaki, told Euronews that multiple ships a day were being disabled as the IRGC Navy worked to bring unauthorised transit to zero. He called on Washington to lift its naval blockade strangling the Iranian economy before talks resume.",
-    "link": "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews",
-    "published": "Fri, 06 Nov 2026 12:02:35 +0100",
-    "source": "News | Euronews RSS",
-    "id": "7564c5e7722c4d0cc7449e1e252a0024",
-    "fetched_at": "2026-11-06T13:31:52.224121+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan: Commuters flock to see two goats grazing at Tokyo station",
-    "summary": "Two white goats have become unlikely celebrities in central Tokyo after being recruited to clear overgrown vegetation near Yotsuya railway station. Their eco-friendly gardening duties are attracting crowds of delighted onlookers.",
-    "link": "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station",
-    "published": "Fri, 06 Nov 2026 12:03:47 +0100",
-    "source": "News | Euronews RSS",
-    "id": "92aec1692313eaf3d144c8b60c2cd085",
-    "fetched_at": "2026-11-06T13:31:52.224119+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five people rescued off Kiribati after months drifting at sea",
-    "summary": "In a statement shared on Sunday, the governor of Micronesia's Chuuk state, Alexander Narruhn, said he was in talks with the Kiribati government to bring the survivors home.",
-    "link": "https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea",
-    "published": "Fri, 06 Nov 2026 12:29:33 +0100",
-    "source": "News | Euronews RSS",
-    "id": "be68a4e37f982f32cc9e56500a71227c",
-    "fetched_at": "2026-11-06T13:31:52.224117+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK: Thousands gather as London switches on its Christmas lights",
-    "summary": "Thousands of people gathered on London's Regent Street on Thursday 5 November as the famous shopping destination welcomed the Christmas season with a spectacular lights switch-on and fireworks display.",
-    "link": "https://www.euronews.com/video/2026/11/06/uk-thousands-gather-as-london-switches-on-its-christmas-lights",
-    "published": "Fri, 06 Nov 2026 14:09:04 +0100",
-    "source": "News | Euronews RSS",
-    "id": "55eeff851c8723435526d81d7dc0b443",
-    "fetched_at": "2026-11-06T13:31:52.224114+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-    "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 06:00:46 GMT",
-    "source": "BBC News",
-    "id": "6d2ced3fe7dd21bec18c70ca0cf00689",
-    "fetched_at": "2026-11-06T13:31:52.224111+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two dead after bus crashes in France, officials say",
-    "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 12:27:33 GMT",
-    "source": "BBC News",
-    "id": "1c78bf808ad65a8d7ebd03dab22e7963",
-    "fetched_at": "2026-11-06T13:31:52.224107+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Self-styled 'king of Germany' goes on trial accused of heading criminal group",
-    "summary": "Peter Fitzek is a member of a banned Reichsbürger group that sought to set up the \"Kingdom of Germany\" (KRD).",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjxxmz7mxro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 12:00:14 GMT",
-    "source": "BBC News",
-    "id": "c39dfaa4e6f29d4480338778fff5f94d",
-    "fetched_at": "2026-11-06T13:31:52.224103+00:00"
   }
 ]
