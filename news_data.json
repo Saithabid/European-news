@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+    "source": "BBC News",
+    "id": "9792a9eb785653750f3e6e8829c85c9e",
+    "fetched_at": "2026-11-08T08:24:38.422896+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 8th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning",
+    "published": "Sun, 08 Nov 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "e91c26f4b5eb80f58814f6e98a80bf36",
+    "fetched_at": "2026-11-08T08:24:38.422893+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'",
+    "summary": "Trump and White have forged a close relationship over the years, with Trump a regular attendee at UFC events and White having spoken at a number of the president's rallies.",
+    "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+    "published": "Sun, 08 Nov 2026 08:04:37 +0100",
+    "source": "News | Euronews RSS",
+    "id": "0188d706c3fdeba5e1c21af601385f5c",
+    "fetched_at": "2026-11-08T08:24:38.422890+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+    "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+    "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 08 Nov 2026 00:48:59 GMT",
+    "source": "BBC News",
+    "id": "b4ebdae009cb225c76f738634fc4e50a",
+    "fetched_at": "2026-11-08T08:24:38.422861+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
+    "summary": "Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.",
+    "link": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
+    "published": "Wed, 04 Nov 2026 17:14:59 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "10c0644157376bb36d0f4764e1488d60",
+    "fetched_at": "2026-11-08T08:24:37.277691+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war",
+    "summary": "Melania Trump called the Oleshky ceasefire &quot;a spark in a world of darkness&quot; as Russian and Ukrainian envoys praised the deal at a rare White House event.",
+    "link": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
+    "published": "Thu, 05 Nov 2026 13:26:07 -0400",
+    "source": "Latest World News on Fox News",
+    "id": "13e8f66d6076a80fe1923cb39f2d84a8",
+    "fetched_at": "2026-11-08T08:24:36.144159+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+    "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+    "published": "Fri, 06 Nov 2026 15:42:51 -0500",
+    "source": "NPR Topics: World",
+    "id": "88f370356708d3be33b833223a791f7e",
+    "fetched_at": "2026-11-08T08:24:35.003891+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+    "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+    "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 23:46:08 GMT",
+    "source": "BBC News",
+    "id": "2000a4d3877b198e043a6d6d7e0d1d79",
+    "fetched_at": "2026-11-08T08:24:33.858517+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+    "summary": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues.",
+    "link": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 22:22:51 GMT",
+    "source": "BBC News",
+    "id": "eb7df33f869fb418e8ebf8ceb2e11331",
+    "fetched_at": "2026-11-08T08:24:32.717191+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "With Stephen Miller pick, Trump readies for a battle",
+    "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+    "source": "BBC News",
+    "id": "ce8fed0c1a50b9653051e7af751a8a20",
+    "fetched_at": "2026-11-08T08:24:31.577402+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+    "source": "BBC News",
+    "id": "c19482809ca1a95d3fc2b0f70af3c725",
+    "fetched_at": "2026-11-08T08:24:30.429573+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "BBC News",
     "id": "2921cd2afcfe57fddb1c9ac687001627",
     "fetched_at": "2026-11-07T08:05:32.747034+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
-    "summary": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 12:31:34 GMT",
-    "source": "BBC News",
-    "id": "c16380c896a58731aa51130a20996d34",
-    "fetched_at": "2026-11-07T08:05:32.747007+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian extremist group denies sending hoax bomb threats",
-    "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 12:51:38 GMT",
-    "source": "BBC News",
-    "id": "371239d0c2069f7edff5886a7b52bc98",
-    "fetched_at": "2026-11-07T08:05:31.615864+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
-    "summary": "Benjamin Netanyahu faces a critical test as President Isaac Herzog decides who will receive the mandate to form Israel&apos;s next government.",
-    "link": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
-    "published": "Wed, 04 Nov 2026 01:45:04 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "75f8324b048bc0c0f8ca63dae9ad0307",
-    "fetched_at": "2026-11-07T08:05:30.465398+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Marine dies in training incident at Japan military base, officials say",
-    "summary": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
-    "link": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
-    "published": "Thu, 05 Nov 2026 00:38:44 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "a21a272bbed56db108d741590e5a25df",
-    "fetched_at": "2026-11-07T08:05:29.335922+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
-    "summary": "OpenAI&apos;s Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
-    "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
-    "published": "Fri, 06 Nov 2026 05:00:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4047fb3d1495856cf89cc805b99d4fcf",
-    "fetched_at": "2026-11-07T08:05:28.193625+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-    "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-    "published": "Fri, 06 Nov 2026 04:19:57 -0500",
-    "source": "NPR Topics: World",
-    "id": "86f43d77f6336e9f6b7820263f8a2bc1",
-    "fetched_at": "2026-11-07T08:05:27.035258+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-    "published": "Fri, 06 Nov 2026 07:24:52 -0500",
-    "source": "NPR Topics: World",
-    "id": "f58eb06a258f4dc1351c853bf567efac",
-    "fetched_at": "2026-11-07T08:05:25.896074+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Texas mayor instructs police to limit co-operation with ICE",
-    "summary": "The new policy, which comes after a Democratic sweep of the state, will limit the people it will inform the immigration agency about to those who have been arrested for jailable offences.",
-    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 07 Nov 2026 03:31:54 GMT",
-    "source": "BBC News",
-    "id": "8ab71ad49fc11678015fcf6d42dcd7a3",
-    "fetched_at": "2026-11-07T08:05:24.542518+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-    "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-    "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 15:30:42 GMT",
-    "source": "BBC News",
-    "id": "67fdfa337a33fddc523ab4c0adc57ad9",
-    "fetched_at": "2026-11-07T01:29:22.732527+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who could be behind hoax bomb threats to European air travel?",
-    "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 05 Nov 2026 19:58:40 GMT",
-    "source": "BBC News",
-    "id": "ea0a856a2315077f00bb778c3c7f73b3",
-    "fetched_at": "2026-11-07T01:29:22.732524+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 07:56:19 GMT",
-    "source": "BBC News",
-    "id": "343e9e3401709cf3b2584e52e631e7af",
-    "fetched_at": "2026-11-07T01:29:22.732521+00:00"
   }
 ]
