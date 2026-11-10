@@ -1,6 +1,226 @@
 [
   {
     "region": "Europe",
+    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 01:55:22 GMT",
+    "source": "BBC News",
+    "id": "9b3344ebbcee96742da44c7c516ac268",
+    "fetched_at": "2026-11-10T03:54:52.630705+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+    "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+    "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 00:14:03 GMT",
+    "source": "BBC News",
+    "id": "ff5cf8dfcc2933dc64f7c29bc3f08da3",
+    "fetched_at": "2026-11-10T03:54:52.630702+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 01:44:53 GMT",
+    "source": "BBC News",
+    "id": "1d4d916193d8e423f1f3fbb83d3b660d",
+    "fetched_at": "2026-11-10T03:54:52.630699+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+    "summary": "The United Nations COP31 climate summit has opened in Antalya after a year marked by deadly heatwaves and devastating floods. Delegates face fresh challenges as the war in Iran disrupts global energy supplies.",
+    "link": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+    "published": "Mon, 09 Nov 2026 22:23:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "132120cad26cfaf524b7211c7bfb0225",
+    "fetched_at": "2026-11-10T03:54:52.630695+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
+    "summary": "Poland's President and Prime Minister set aside their political differences to honour the six victims of a deadly shooting in Kraków. The two leaders laid candles and knelt together at a vigil in the historic city centre.",
+    "link": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
+    "published": "Mon, 09 Nov 2026 22:34:14 +0100",
+    "source": "News | Euronews RSS",
+    "id": "c880240b806411883bf4444d95dd2caf",
+    "fetched_at": "2026-11-10T03:54:52.630692+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
+    "summary": "A devastating explosion at the Habaş iron and steelworks in Aliağa, in western Turkey has killed 17 people. Witnesses described an earthquake-like blast, while footage shows flames, thick smoke and distressed relatives outside the factory.",
+    "link": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+    "published": "Mon, 09 Nov 2026 23:02:16 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7aa0b8e08f71c4b14968d523413e6de4",
+    "fetched_at": "2026-11-10T03:54:52.630688+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+    "source": "BBC News",
+    "id": "15665ca2ba51ebfdcaf9f3e17c01d4c3",
+    "fetched_at": "2026-11-10T03:54:52.630685+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+    "source": "BBC News",
+    "id": "583bf3aba1e5b919b4ddbacbfde8ccdc",
+    "fetched_at": "2026-11-10T03:54:52.630682+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
+    "summary": "A senior United Arab Emirates official says he is cautiously optimistic about U.S.-Iran nuclear talks through Qatari mediation but won&apos;t rule out war.",
+    "link": "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
+    "published": "Sat, 07 Nov 2026 04:00:39 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "271348bf87ab23957efe845dcacf97c8",
+    "fetched_at": "2026-11-10T03:54:52.630679+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
+    "summary": "Videos and photos show tear gas and fires throughout Paris as 70,000 security forces deploy against France protests despite police bans on gatherings.",
+    "link": "https://www.foxnews.com/world/paris-agitators-defy-police-orders-renew-nationwide-protests-centered-paris",
+    "published": "Sat, 07 Nov 2026 14:32:27 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "d8eeb2960b50a3263016ad46dd5e4931",
+    "fetched_at": "2026-11-10T03:54:52.630675+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
+    "summary": "Iran&apos;s IRGC lifted its 2,000-kilometer ballistic missile-range limit and threatened new weapons hours after U.S. Central Command launched a new task force.",
+    "link": "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
+    "published": "Sun, 08 Nov 2026 18:08:57 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "9ca0952e9c29f52719aa29c298ae0ba9",
+    "fetched_at": "2026-11-10T03:54:52.630671+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
+    "summary": "President Donald Trump says a Russia deal could involve &quot;all of Europe&quot; as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
+    "link": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
+    "published": "Sun, 08 Nov 2026 18:48:13 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "2d00bf4b7cfd9134029c99182e84ca4e",
+    "fetched_at": "2026-11-10T03:54:52.630668+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+    "published": "Sun, 08 Nov 2026 11:46:15 -0500",
+    "source": "NPR Topics: World",
+    "id": "b511c3772f10de5c38347cfcfcec5a4f",
+    "fetched_at": "2026-11-10T03:54:52.630664+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+    "published": "Sun, 08 Nov 2026 14:25:30 -0500",
+    "source": "NPR Topics: World",
+    "id": "ad53081f126ba6ef558ef78678af36f7",
+    "fetched_at": "2026-11-10T03:54:52.630660+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+    "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+    "published": "Sun, 08 Nov 2026 17:04:09 -0500",
+    "source": "NPR Topics: World",
+    "id": "c624e8a364469e0343afaf9361e4fa3e",
+    "fetched_at": "2026-11-10T03:54:52.630633+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+    "published": "Sun, 08 Nov 2026 17:04:13 -0500",
+    "source": "NPR Topics: World",
+    "id": "6a4619479aea641531632fd9610032ad",
+    "fetched_at": "2026-11-10T03:54:51.538854+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+    "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "published": "Mon, 09 Nov 2026 17:30:49 -0500",
+    "source": "NPR Topics: World",
+    "id": "9c5e6a56e615522c4324f242d11b96f2",
+    "fetched_at": "2026-11-10T03:54:50.446796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+    "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 21:48:38 GMT",
+    "source": "BBC News",
+    "id": "17fe46d178bd19bdc293b09088adace9",
+    "fetched_at": "2026-11-10T03:54:49.328455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dana White declines Trump’s offer to be White House press secretary",
+    "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 22:46:27 GMT",
+    "source": "BBC News",
+    "id": "3cb568321147fde387d14ef335b190d5",
+    "fetched_at": "2026-11-10T03:54:48.231687+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+    "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 23:28:53 GMT",
+    "source": "BBC News",
+    "id": "0ba5b0f451796e33d87e08913d13de59",
+    "fetched_at": "2026-11-10T03:54:47.083753+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Californians reject wealth tax for billionaires",
+    "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
+    "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 03:34:46 GMT",
+    "source": "BBC News",
+    "id": "000c4b389cb486bc5232c9bbf2cc06a0",
+    "fetched_at": "2026-11-10T03:54:45.973890+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 02:38:00 GMT",
+    "source": "BBC News",
+    "id": "94b9b78646d2ad52cf71e0523b7a0d87",
+    "fetched_at": "2026-11-10T03:54:44.864199+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
     "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
@@ -378,225 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "8c839950e633fed50390558087d6ba67",
     "fetched_at": "2026-11-09T08:54:58.044969+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 9th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-morning",
-    "published": "Mon, 09 Nov 2026 07:00:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "6cfd1d5ddba8fce4f5dd74e024e390f0",
-    "fetched_at": "2026-11-09T08:54:58.044967+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US President Donald Trump plans to meet Putin and Xi in China next week",
-    "summary": "US President Donald Trump said he would possibly meet with Vladimir Putin and Xi Jinping in China to discuss \"denuclearisation\" and how to end the Iran war.",
-    "link": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w",
-    "published": "Mon, 09 Nov 2026 08:08:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "5f196bf74f0a1201ffed4b0e4147df2f",
-    "fetched_at": "2026-11-09T08:54:58.044965+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Argentina: Pope Leo XIV welcomed by Javier Milei for historic visit",
-    "summary": "Pope Leo XIV has arrived in Argentina, on Sunday 8 November, for the first papal visit to the country in nearly 40 years. President Javier Milei welcomed him at Buenos Aires airport, while the city's iconic obelisk was illuminated in his honour.",
-    "link": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-welcomed-by-javier-milei-for-historic-visit",
-    "published": "Mon, 09 Nov 2026 08:52:54 +0100",
-    "source": "News | Euronews RSS",
-    "id": "2b26fd677a70eae7c03579b57b197765",
-    "fetched_at": "2026-11-09T08:54:58.044963+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Senegal: Dakar surf school helps young Africans reclaim the waves",
-    "summary": "On the beaches of Dakar, a surf school is making the waves accessible to local children. Founder Ibra Samb, who learnt to surf on plywood, hopes to inspire a new generation.",
-    "link": "https://www.euronews.com/video/2026/11/09/senegal-dakar-surf-school-helps-young-africans-reclaim-the-waves",
-    "published": "Mon, 09 Nov 2026 09:33:53 +0100",
-    "source": "News | Euronews RSS",
-    "id": "7554df0694d01e718a596bb1f2fca86f",
-    "fetched_at": "2026-11-09T08:54:58.044961+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump calls Nvidia chief Jensen Huang an 'honorable guy' amid spy allegations",
-    "summary": "US President Donald Trump has defended Nvidia CEO Jensen Huang after reports that he had an intimate relationship with a businesswoman suspected of working for Chinese intelligence. Trump said Huang was an \"honorable guy\".",
-    "link": "https://www.euronews.com/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations",
-    "published": "Mon, 09 Nov 2026 09:38:42 +0100",
-    "source": "News | Euronews RSS",
-    "id": "e07e3529397b3de1c6aaf8cf22b20759",
-    "fetched_at": "2026-11-09T08:54:58.044958+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-    "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 17:44:02 GMT",
-    "source": "BBC News",
-    "id": "4e8ca8bca92c09bf42923fd2fc5bee14",
-    "fetched_at": "2026-11-09T08:54:58.044956+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New wave of bomb threats hit European airlines",
-    "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 15:25:35 GMT",
-    "source": "BBC News",
-    "id": "8db7a4157eae09acdce155bb457c3ca1",
-    "fetched_at": "2026-11-09T08:54:58.044953+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Krakow shooting suspect has died in hospital, police say",
-    "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-    "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 09 Nov 2026 07:26:09 GMT",
-    "source": "BBC News",
-    "id": "ff3d15a693a57a24e4d2604a8af62d9d",
-    "fetched_at": "2026-11-09T08:54:58.044919+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Multiple flights in Europe diverted because of bomb threats",
-    "summary": "At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded.",
-    "link": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
-    "published": "Thu, 05 Nov 2026 07:33:26 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "0cd0a2b7d7dcd4c72f991a51297dc630",
-    "fetched_at": "2026-11-09T08:54:56.933823+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Protests erupt across France after left-wing groups call for mobilization",
-    "summary": "An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron&apos;s government.",
-    "link": "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
-    "published": "Thu, 05 Nov 2026 10:36:30 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "b612642fe3a981d56bdc3ee240fa3fe7",
-    "fetched_at": "2026-11-09T08:54:55.837425+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war",
-    "summary": "Melania Trump called the Oleshky ceasefire &quot;a spark in a world of darkness&quot; as Russian and Ukrainian envoys praised the deal at a rare White House event.",
-    "link": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
-    "published": "Thu, 05 Nov 2026 13:26:07 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "13e8f66d6076a80fe1923cb39f2d84a8",
-    "fetched_at": "2026-11-09T08:54:54.741153+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
-    "summary": "Gadi Eisenkot secured 67 Knesset endorsements over Benjamin Netanyahu, but deep coalition divisions over Arab parties and conscription cloud his path.",
-    "link": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
-    "published": "Sat, 07 Nov 2026 17:17:37 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "96c767cc16facfabd69c402192d9696f",
-    "fetched_at": "2026-11-09T08:54:53.643245+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-    "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-    "published": "Mon, 09 Nov 2026 01:20:44 -0500",
-    "source": "NPR Topics: World",
-    "id": "dd794c8ade33420caf8c034bdb501937",
-    "fetched_at": "2026-11-09T08:54:52.534262+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-    "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-    "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 06 Nov 2026 23:46:08 GMT",
-    "source": "BBC News",
-    "id": "2000a4d3877b198e043a6d6d7e0d1d79",
-    "fetched_at": "2026-11-09T08:54:51.437850+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 07 Nov 2026 07:27:44 GMT",
-    "source": "BBC News",
-    "id": "c19482809ca1a95d3fc2b0f70af3c725",
-    "fetched_at": "2026-11-09T08:54:50.316048+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian foreign minister says hackers leaked his personal data",
-    "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 07 Nov 2026 16:50:06 GMT",
-    "source": "BBC News",
-    "id": "afc983e342585bf3a8fd5c3a72487cb8",
-    "fetched_at": "2026-11-09T01:20:18.936839+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-    "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 08 Nov 2026 21:37:36 GMT",
-    "source": "BBC News",
-    "id": "ffed4e5d1ad9a0eaf9bd44e7a6ede654",
-    "fetched_at": "2026-11-09T01:20:18.936837+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Poland: Kraków mourns six victims as shooting site reopens",
-    "summary": "Kraków's historic main square in southern Poland reopened to the public on Sunday 8 November, just over 24 hours after a deadly shooting left six people dead and 15 others injured. Residents are lighting candles in memory of the victims, while bullet marks remain visible on café windows.",
-    "link": "https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens",
-    "published": "Sun, 08 Nov 2026 23:06:27 +0100",
-    "source": "News | Euronews RSS",
-    "id": "adb199e4f1801625ed4fa7e6600c24c0",
-    "fetched_at": "2026-11-09T01:20:18.936835+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
-    "summary": "Tens of thousands of people, many dressed in red, marched through Amsterdam in the Netherlands on Sunday 8 November, demanding that the Dutch government take stronger action against Israel over the war in Gaza.",
-    "link": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
-    "published": "Sun, 08 Nov 2026 23:18:56 +0100",
-    "source": "News | Euronews RSS",
-    "id": "601cf3943289a679f0eb42b70eaf38e6",
-    "fetched_at": "2026-11-09T01:20:18.936832+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 07 Nov 2026 12:49:36 GMT",
-    "source": "BBC News",
-    "id": "8036bb2cbf585b73c00e040cdab8f7a7",
-    "fetched_at": "2026-11-09T01:20:18.936830+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What we know so far after Krakow gun attack",
-    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 08 Nov 2026 14:32:52 GMT",
-    "source": "BBC News",
-    "id": "010bedcd6b803cb36791acb646762efa",
-    "fetched_at": "2026-11-09T01:20:18.936828+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman opens fire from moving car in European tourist hot spot, leaving 6 dead and at least 15 wounded",
-    "summary": "A gunman, reportedly wearing military-style fatigues, allegedly opened fire from a moving vehicle on Kraków, Poland&apos;s Main Square, killing five and injuring at least 15.",
-    "link": "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
-    "published": "Sat, 07 Nov 2026 12:37:33 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "cd52764505a1eee2bb31ccc0d0fcdda1",
-    "fetched_at": "2026-11-09T01:20:18.936825+00:00"
   }
 ]
