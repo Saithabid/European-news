@@ -1,6 +1,326 @@
 [
   {
     "region": "Europe",
+    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+    "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 13:25:47 GMT",
+    "source": "BBC News",
+    "id": "58d39487ee88880a8cdd1dba5e3b98ee",
+    "fetched_at": "2026-11-11T17:36:36.949532+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+    "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 12:53:11 GMT",
+    "source": "BBC News",
+    "id": "ebb1cc8a80246e28167795864e1a2ffc",
+    "fetched_at": "2026-11-11T17:36:36.949531+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Art group unveils statue satirising Trump’s military service record",
+    "summary": "Visitors photograph The Foot Soldier, a National Mall statue mocking Donald Trump’s Vietnam War draft deferment, created by protest group Secret Handshake.",
+    "link": "https://www.euronews.com/video/2026/11/11/art-group-unveils-statue-satirising-trumps-military-service-record",
+    "published": "Wed, 11 Nov 2026 10:39:46 +0100",
+    "source": "News | Euronews RSS",
+    "id": "90c24fcab84db7e71257b99bffc9bd97",
+    "fetched_at": "2026-11-11T17:36:36.949529+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ottoman marching band welcomes world leaders to COP31 in Turkey",
+    "summary": "An Ottoman-style military band welcomes international delegates to COP31 in Antalya, Turkey, with traditional marches and lively rhythms.",
+    "link": "https://www.euronews.com/video/2026/11/11/ottoman-marching-band-welcomes-world-leaders-to-cop31-in-turkey",
+    "published": "Wed, 11 Nov 2026 11:15:33 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b33fdceb97698f0674b1077726bc1e23",
+    "fetched_at": "2026-11-11T17:36:36.949527+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump’s defamation lawsuit against the BBC over Panorama edit can proceed, judge rules",
+    "summary": "A second claim brought under a Florida consumer protection law was thrown out, halving the original $10bn lawsuit to $5bn, but the US president has still hailed the ruling as “A Huge Victory”.",
+    "link": "https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules",
+    "published": "Wed, 11 Nov 2026 11:57:02 +0100",
+    "source": "News | Euronews RSS",
+    "id": "67f0b81b41fb6547d5ac1b7e0b0a7466",
+    "fetched_at": "2026-11-11T17:36:36.949526+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 11th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-midday",
+    "published": "Wed, 11 Nov 2026 12:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "118b0e62349df7098e80a3974fcbdafc",
+    "fetched_at": "2026-11-11T17:36:36.949524+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia’s last openly critical newspaper Novaya Gazeta shuts its Moscow office",
+    "summary": "The paper said security services and censors forced it to stop operating after they evicted it, shut down its donation system, blocked its printing, and revoked its media registration.",
+    "link": "https://www.euronews.com/2026/11/11/russias-last-openly-critical-newspaper-novaya-gazeta-shuts-its-moscow-office",
+    "published": "Wed, 11 Nov 2026 12:33:11 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d8de80c627e808a8edacca893e109718",
+    "fetched_at": "2026-11-11T17:36:36.949523+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Protesters outside Israel’s Knesset oppose Arab lawmakers, call for new elections",
+    "summary": "Demonstrators gathered outside Israel’s parliament in Jerusalem, calling for new elections and expressing opposition to the presence and role of Arab lawmakers in the Knesset.",
+    "link": "https://www.euronews.com/video/2026/11/11/protesters-outside-israels-knesset-oppose-arab-lawmakers-call-for-new-elections",
+    "published": "Wed, 11 Nov 2026 12:55:10 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2766793835da691c598367ceb8af92f7",
+    "fetched_at": "2026-11-11T17:36:36.949521+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
+    "summary": "EU Ambassador to Qatar Antonino Maggiore tells Euronews that Europe plans to strengthen defence cooperation with Qatar and the Gulf countries, as \"every crisis brings opportunities,\" while also deepening political and economic cooperation with the region.",
+    "link": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
+    "published": "Wed, 11 Nov 2026 14:13:43 +0100",
+    "source": "News | Euronews RSS",
+    "id": "2303a8c5f93bc008dd561fc5d896d494",
+    "fetched_at": "2026-11-11T17:36:36.949520+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Storm Charles: Heavy rain and strong winds batter Portugal",
+    "summary": "Heavy rain, rough seas and strong winds hit Costa da Caparica in Portugal, with coastal facilities closed and streets left waterlogged.",
+    "link": "https://www.euronews.com/video/2026/11/11/storm-charles-heavy-rain-and-strong-winds-batter-portugal",
+    "published": "Wed, 11 Nov 2026 14:27:43 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9d80bbe459e820ab27c3c3c0750261f9",
+    "fetched_at": "2026-11-11T17:36:36.949518+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trinidad and Tobago highest court overturns gay sex ban",
+    "summary": "The island nation's highest court overturned a 1986 law criminalising consensual sexual relations between adults of the same sex.",
+    "link": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
+    "published": "Wed, 11 Nov 2026 17:27:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "ec6d43caec4f341212067fbd7fa3d222",
+    "fetched_at": "2026-11-11T17:36:36.949517+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 11th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 11th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
+    "published": "Wed, 11 Nov 2026 18:00:26 +0100",
+    "source": "News | Euronews RSS",
+    "id": "4fd9af21d36f798901b0eaa8ec93dc1d",
+    "fetched_at": "2026-11-11T17:36:36.949515+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 14:56:11 GMT",
+    "source": "BBC News",
+    "id": "0f7a548e748889daae556905b0a58d7d",
+    "fetched_at": "2026-11-11T17:36:36.949513+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+    "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 12:30:29 GMT",
+    "source": "BBC News",
+    "id": "5d8828507b970080b87a090be42cda83",
+    "fetched_at": "2026-11-11T17:36:36.949512+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain sees widespread disruption in first general strike for 14 years",
+    "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 14:06:27 GMT",
+    "source": "BBC News",
+    "id": "c7da0a9cfd1f7a652d8badc6cf6d91a7",
+    "fetched_at": "2026-11-11T17:36:36.949510+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 15:05:11 GMT",
+    "source": "BBC News",
+    "id": "003d15eaa924ac33d84d41f0e55ec3da",
+    "fetched_at": "2026-11-11T17:36:36.949508+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+    "summary": "Trump met Qatar&apos;s prime minister at the White House as Marco Rubio warns Iran negotiations are far from a breakthrough amid Strait of Hormuz chaos.",
+    "link": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
+    "published": "Mon, 09 Nov 2026 13:27:23 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "b2fe4bbaa50d7426b5d356abdfe3ef20",
+    "fetched_at": "2026-11-11T17:36:36.949507+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Riot-torn France struggles with chaos at home as Macron eyes military mission thousands of miles away",
+    "summary": "French President Emmanuel Macron&apos;s Lebanon military force plan hits resistance from Italy as Marco Rubio floats a civilian alternative to UNIFIL.",
+    "link": "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
+    "published": "Tue, 10 Nov 2026 11:22:36 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "ebfe8ab01298d9216736d33ee6ce3948",
+    "fetched_at": "2026-11-11T17:36:36.949505+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
+    "summary": "Inside Dubai&apos;s Crossroads of Civilizations Museum, founder Ahmed Obaid Al Mansoori reveals how a temporary Holocaust tribute became a permanent gallery.",
+    "link": "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
+    "published": "Wed, 11 Nov 2026 09:24:26 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "543a1956be0c55d3abf0244792b37403",
+    "fetched_at": "2026-11-11T17:36:36.949503+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+    "summary": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+    "published": "Tue, 10 Nov 2026 07:01:04 -0500",
+    "source": "NPR Topics: World",
+    "id": "a45059760cae3d1ed5c9658a26e731a0",
+    "fetched_at": "2026-11-11T17:36:36.949501+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+    "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+    "published": "Tue, 10 Nov 2026 09:01:14 -0500",
+    "source": "NPR Topics: World",
+    "id": "ab2bd12232a0346aefef2a2e6b2adf79",
+    "fetched_at": "2026-11-11T17:36:36.949499+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+    "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+    "published": "Tue, 10 Nov 2026 09:16:53 -0500",
+    "source": "NPR Topics: World",
+    "id": "82bd4e7dc0b55e3c589dbb8b2a69cf43",
+    "fetched_at": "2026-11-11T17:36:36.949497+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. boycotts U.N. human rights review for second year running",
+    "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+    "published": "Tue, 10 Nov 2026 13:53:34 -0500",
+    "source": "NPR Topics: World",
+    "id": "636cc5f53d59e39dd8fbec8088c97edb",
+    "fetched_at": "2026-11-11T17:36:36.949495+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+    "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+    "published": "Wed, 11 Nov 2026 04:16:01 -0500",
+    "source": "NPR Topics: World",
+    "id": "5d1e44ad990323f1c78d82caf73c865d",
+    "fetched_at": "2026-11-11T17:36:36.949492+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+    "summary": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+    "published": "Wed, 11 Nov 2026 04:54:54 -0500",
+    "source": "NPR Topics: World",
+    "id": "0acedb2fec69905e9d0f058a1bb8bf13",
+    "fetched_at": "2026-11-11T17:36:36.949462+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+    "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+    "published": "Wed, 11 Nov 2026 05:02:54 -0500",
+    "source": "NPR Topics: World",
+    "id": "37c931014b5e3230324ea80c59b8d310",
+    "fetched_at": "2026-11-11T17:36:35.792484+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+    "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+    "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+    "published": "Wed, 11 Nov 2026 07:21:59 -0500",
+    "source": "NPR Topics: World",
+    "id": "f31d50f5c4e27f731b0ca25ea8c7aa6f",
+    "fetched_at": "2026-11-11T17:36:34.641034+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+    "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
+    "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+    "published": "Wed, 11 Nov 2026 08:30:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "02ac10706e8365b721454b44dcdebbfd",
+    "fetched_at": "2026-11-11T17:36:33.484042+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+    "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
+    "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+    "published": "Wed, 11 Nov 2026 12:23:10 -0500",
+    "source": "NPR Topics: World",
+    "id": "e19ef4ebb780345f5edd8982db0f060c",
+    "fetched_at": "2026-11-11T17:36:32.338406+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Dua Lipa to become first female British headliner at Coachella 2027",
+    "summary": "Tame Impala and SZA join the top of the bill for the US festival, which also features Madonna and Diljit Dosanjh.",
+    "link": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 10:53:47 GMT",
+    "source": "BBC News",
+    "id": "d3c674e9c10eb3042bec5b015de9825f",
+    "fetched_at": "2026-11-11T17:36:31.185926+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+    "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 13:24:29 GMT",
+    "source": "BBC News",
+    "id": "810407298a79bb1469c8b8a8646c5560",
+    "fetched_at": "2026-11-11T17:36:30.040420+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 16:45:11 GMT",
+    "source": "BBC News",
+    "id": "2ae127f60e5b9a655dc4c2603a379541",
+    "fetched_at": "2026-11-11T17:36:28.890601+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
     "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
     "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
@@ -278,325 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "eca42f10dab725be31a9c15fa20685f4",
     "fetched_at": "2026-11-11T00:21:01.815025+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Argentina: Pope Leo XIV celebrates Mass before 650,000 in Córdoba",
-    "summary": "Pope Leo XIV celebrated Mass before an estimated 650,000 people in Córdoba, Argentina. The pontiff greeted crowds from his popemobile before urging worshippers to open their hearts and embrace their faith.",
-    "link": "https://www.euronews.com/video/2026/11/10/argentina-pope-leo-xiv-celebrates-mass-before-650000-in-cordoba",
-    "published": "Tue, 10 Nov 2026 23:19:02 +0100",
-    "source": "News | Euronews RSS",
-    "id": "23b72694f45f887d456882034665ebdb",
-    "fetched_at": "2026-11-11T00:21:01.815023+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Spain: 69 candles lit at Toledo Cathedral for train crash victims",
-    "summary": "Spain's King Felipe VI and Queen Letizia attended a state funeral at Toledo Cathedral on Tuesday 10 November for the 69 people killed in a devastating high-speed train collision near Urda on 28 October.",
-    "link": "https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims",
-    "published": "Tue, 10 Nov 2026 23:53:11 +0100",
-    "source": "News | Euronews RSS",
-    "id": "77d14e137899336d4b6cadbd5025ab57",
-    "fetched_at": "2026-11-11T00:21:01.815022+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First day of Ukraine peace talks constructive, Zelensky says",
-    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 21:21:55 GMT",
-    "source": "BBC News",
-    "id": "583bf3aba1e5b919b4ddbacbfde8ccdc",
-    "fetched_at": "2026-11-11T00:21:01.815020+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
-    "summary": "Iran&apos;s IRGC lifted its 2,000-kilometer ballistic missile-range limit and threatened new weapons hours after U.S. Central Command launched a new task force.",
-    "link": "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
-    "published": "Sun, 08 Nov 2026 18:08:57 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "9ca0952e9c29f52719aa29c298ae0ba9",
-    "fetched_at": "2026-11-11T00:21:01.815017+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
-    "summary": "President Donald Trump says a Russia deal could involve &quot;all of Europe&quot; as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
-    "link": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
-    "published": "Sun, 08 Nov 2026 18:48:13 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "2d00bf4b7cfd9134029c99182e84ca4e",
-    "fetched_at": "2026-11-11T00:21:01.815016+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "TV anchor found dead with gunshot wound to head, officials arrest husband",
-    "summary": "The broadcaster’s husband claimed he was playing with a firearm when it discharged inside their home, according to a provincial official",
-    "link": "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
-    "published": "Tue, 10 Nov 2026 14:59:04 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "17621d9eb5bb573af4ac8ee3a491cf4f",
-    "fetched_at": "2026-11-11T00:21:01.815013+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
-    "summary": "Mohsen Rezaei once warned that ceasefire talks could last decades, as JD Vance reportedly reached out to him about resuming U.S.-Iran peace talks.",
-    "link": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
-    "published": "Tue, 10 Nov 2026 16:33:04 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "d33abb4f412f695e8c98500257ef6d6f",
-    "fetched_at": "2026-11-11T00:21:01.814984+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Senior US Army soldier arrested in UK on suspicion of spying for Russia",
-    "summary": "U.K. police arrested a senior U.S. Army soldier in a Russia-linked espionage probe, drawing a sharp warning from FBI Director Kash Patel.",
-    "link": "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
-    "published": "Tue, 10 Nov 2026 16:51:09 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "a74deba271928b8788d0f2b144d216cf",
-    "fetched_at": "2026-11-11T00:21:00.694853+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American girl, 7, killed during Mexican cartel operation; mother blames police helicopter: report",
-    "summary": "Aranza Aidelany Pardo&apos;s mother says a Tamaulipas state police helicopter fired the shot that killed her 7-year-old during a Gulf Cartel operation.",
-    "link": "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
-    "published": "Tue, 10 Nov 2026 16:59:56 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "fbfbfa251f020ab647a2346ba3413308",
-    "fetched_at": "2026-11-11T00:20:59.547093+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran denies it was behind cyber fridge attacks targeting France",
-    "summary": "The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at around 700 retail sites, which spoiled millions of dollars' worth of food.",
-    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-    "published": "Mon, 09 Nov 2026 17:30:49 -0500",
-    "source": "NPR Topics: World",
-    "id": "9c5e6a56e615522c4324f242d11b96f2",
-    "fetched_at": "2026-11-11T00:20:58.417457+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dana White declines Trump’s offer to be White House press secretary",
-    "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
-    "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 09 Nov 2026 22:46:27 GMT",
-    "source": "BBC News",
-    "id": "3cb568321147fde387d14ef335b190d5",
-    "fetched_at": "2026-11-11T00:20:57.283676+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-    "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 09 Nov 2026 23:28:53 GMT",
-    "source": "BBC News",
-    "id": "0ba5b0f451796e33d87e08913d13de59",
-    "fetched_at": "2026-11-11T00:20:56.083746+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Californians reject wealth tax for billionaires",
-    "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-    "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 03:34:46 GMT",
-    "source": "BBC News",
-    "id": "000c4b389cb486bc5232c9bbf2cc06a0",
-    "fetched_at": "2026-11-11T00:20:54.517539+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump says more US attacks on Iran 'highly unlikely'",
-    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 09:40:31 GMT",
-    "source": "BBC News",
-    "id": "94b9b78646d2ad52cf71e0523b7a0d87",
-    "fetched_at": "2026-11-11T00:20:53.386631+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US federal authorities could have prevented Epstein crimes, report finds",
-    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 17:59:02 GMT",
-    "source": "BBC News",
-    "id": "22a569e8e7612b8bc22eca8ac6f5d91d",
-    "fetched_at": "2026-11-10T19:27:13.620244+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 18:04:18 GMT",
-    "source": "BBC News",
-    "id": "5d30cae9c4eafd0a4908a95a4f7dc991",
-    "fetched_at": "2026-11-10T19:27:13.620243+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-    "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 15:21:18 GMT",
-    "source": "BBC News",
-    "id": "2218f53c1d1b194054bb7a88dffc2220",
-    "fetched_at": "2026-11-10T19:27:13.620241+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israel's new parliament sworn in as leaders compete to form government",
-    "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 17:03:16 GMT",
-    "source": "BBC News",
-    "id": "e13c1e74c6740f6e84aabe2d8456227c",
-    "fetched_at": "2026-11-10T19:27:13.620240+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 18:33:51 GMT",
-    "source": "BBC News",
-    "id": "ae48d428637a97573000c748b56ce989",
-    "fetched_at": "2026-11-10T19:27:13.620238+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
-    "summary": "A day after Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani met Trump at the White House, a Qatari foreign ministry spokesman said both sides were making positive statements about a diplomatic solution but that “we cannot say how close or how far away an agreement is.”",
-    "link": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
-    "published": "Tue, 10 Nov 2026 14:31:40 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8845c77c4ae14461fcc3ae95be41bf5f",
-    "fetched_at": "2026-11-10T19:27:13.620237+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "GCC members agree to station forces at new military command post in Kuwait",
-    "summary": "The new post in Kuwait will be part of the six Gulf countries’ joint military command, based in Riyadh, GCC announced on Tuesday.",
-    "link": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
-    "published": "Tue, 10 Nov 2026 16:19:03 +0100",
-    "source": "News | Euronews RSS",
-    "id": "7f8f50e84b0197f922558b9f3c327352",
-    "fetched_at": "2026-11-10T19:27:13.620235+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Belgium: Prince Harry and Meghan visit EU Parliament for child safety event",
-    "summary": "Prince Harry and his wife Meghan visited the European Parliament in Brussels, on Tuesday 10 November, to discuss the dangers children face online. The couple met families affected by online abuse before Harry addressed the gathering.",
-    "link": "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event",
-    "published": "Tue, 10 Nov 2026 16:37:43 +0100",
-    "source": "News | Euronews RSS",
-    "id": "06b9d14f9014dddc7c7375b85c15bf53",
-    "fetched_at": "2026-11-10T19:27:13.620234+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia’s ‘unfriendly countries’ list now targets property, child custody and debts",
-    "summary": "Moscow’s list of states it deems unfriendly was set in March 2022 for foreign economic policy, but decrees and court rulings now apply it to child custody, vehicle registration and debt repayment.",
-    "link": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts",
-    "published": "Tue, 10 Nov 2026 16:40:07 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4b5e06d6dfe3512e8301e9d0bf70cdd7",
-    "fetched_at": "2026-11-10T19:27:13.620232+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 10th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 10th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening",
-    "published": "Tue, 10 Nov 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "289ff249639fd7e70bd2f55536f2f1ac",
-    "fetched_at": "2026-11-10T19:27:13.620231+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Democrats took the House, Senate and a good deal of Republican pride: So who are the real winners and losers?",
-    "summary": "As of Tuesday, projections gave the Democrats 254 seats and the Republicans 165, with 16 races still undecided.",
-    "link": "https://www.euronews.com/2026/11/10/democrats-took-the-house-senate-and-a-good-deal-of-republican-pride-so-who-are-the-real-wi",
-    "published": "Tue, 10 Nov 2026 19:55:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4b5eedd826e716dc959cb3ace61cf03b",
-    "fetched_at": "2026-11-10T19:27:13.620229+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Turkey steel factory blast kills at least 17 people",
-    "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 09 Nov 2026 20:42:04 GMT",
-    "source": "BBC News",
-    "id": "f02a2de7b5d8d148a2de6160ea512896",
-    "fetched_at": "2026-11-10T19:27:13.620228+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-    "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 16:19:48 GMT",
-    "source": "BBC News",
-    "id": "85ce72d1e86d87d84f375271a4cbd238",
-    "fetched_at": "2026-11-10T19:27:13.620226+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-    "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-    "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 13:23:54 GMT",
-    "source": "BBC News",
-    "id": "c77e5908cc5b55759eda5b20690ee214",
-    "fetched_at": "2026-11-10T19:27:13.620224+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-    "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 16:07:51 GMT",
-    "source": "BBC News",
-    "id": "bd6fceb3947a8e9b60a636c046bf8e8e",
-    "fetched_at": "2026-11-10T19:27:13.620223+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-    "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 17:00:11 GMT",
-    "source": "BBC News",
-    "id": "14d1abbb56f67a843374208e51742b4b",
-    "fetched_at": "2026-11-10T19:27:13.620221+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
-    "summary": "OpenAI&apos;s Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
-    "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
-    "published": "Fri, 06 Nov 2026 05:00:17 -0400",
-    "source": "Latest World News on Fox News",
-    "id": "4047fb3d1495856cf89cc805b99d4fcf",
-    "fetched_at": "2026-11-10T19:27:13.620219+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
-    "summary": "The Krakow shooter, 24, died Monday after police shot him during Saturday&apos;s mass shooting that killed six and wounded 15 in the historic square.",
-    "link": "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
-    "published": "Mon, 09 Nov 2026 04:05:26 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "8c3601dcfa0b694bc150e7eca27f3b69",
-    "fetched_at": "2026-11-10T19:27:13.620217+00:00"
   }
 ]
