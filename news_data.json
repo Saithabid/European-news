@@ -1,6 +1,116 @@
 [
   {
     "region": "Europe",
+    "title": "Australian teen missing in bush for six days rescued alive",
+    "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 02:40:18 GMT",
+    "source": "BBC News",
+    "id": "0df2f5439b0f581e49b2918efbeeabbf",
+    "fetched_at": "2026-11-12T05:11:42.015157+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Survivor pulled from rubble of deadly building collapse in New York",
+    "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
+    "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 02:33:12 GMT",
+    "source": "BBC News",
+    "id": "c8a7bae6f4f37c24c47de22e3cd77ea6",
+    "fetched_at": "2026-11-12T05:11:42.015155+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 05:06:27 GMT",
+    "source": "BBC News",
+    "id": "d3b520921be1d485d8aa8d49c7d53719",
+    "fetched_at": "2026-11-12T05:11:42.015152+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "At least two dead while others are trapped in the rubble after a building collapse in New York City",
+    "summary": "One resident of the collapsed building, Anderson Velez, recounted that he was at work when his wife phoned and said that their two children, aged 2 and 7, were among those trapped in the rubble, local media reported.",
+    "link": "https://www.euronews.com/2026/11/12/at-least-two-dead-while-others-are-trapped-in-the-rubble-after-a-building-collapse-in-new-",
+    "published": "Thu, 12 Nov 2026 05:07:38 +0100",
+    "source": "News | Euronews RSS",
+    "id": "fc7986987f85894c2bb43759d1e1df7f",
+    "fetched_at": "2026-11-12T05:11:42.015117+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Spain's king and queen attend memorial service for rail crash victims",
+    "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 20:46:40 GMT",
+    "source": "BBC News",
+    "id": "46ee5dacdbb76954f1baa15eb65579d5",
+    "fetched_at": "2026-11-12T05:11:40.924998+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
+    "summary": "Wimbledon champion Linda Noskova dismantles Coco Gauff to become the first player to reach the last four at the WTA Finals.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 23:59:03 GMT",
+    "source": "BBC News",
+    "id": "e3a8d2222ebf2659df275319a87609a3",
+    "fetched_at": "2026-11-12T05:11:39.836818+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
+    "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
+    "link": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
+    "published": "Tue, 10 Nov 2026 19:53:31 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "a2f46cd11ccb7f1bb3b903f25f5068fb",
+    "fetched_at": "2026-11-12T05:11:38.748961+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+    "summary": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
+    "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
+    "published": "Wed, 11 Nov 2026 20:04:45 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "d9262712fae3e39869bbb2ee20c340b3",
+    "fetched_at": "2026-11-12T05:11:37.643692+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 11:47:22 GMT",
+    "source": "BBC News",
+    "id": "d8b8149e16a8853dddf4859033b7cff1",
+    "fetched_at": "2026-11-12T05:11:36.551726+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
+    "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near RAF Fairford, which is used by US armed forces.",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 16:59:34 GMT",
+    "source": "BBC News",
+    "id": "70544be1e4f947c97940e4e019632396",
+    "fetched_at": "2026-11-12T05:11:35.442808+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+    "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
+    "link": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 02:02:37 GMT",
+    "source": "BBC News",
+    "id": "71545dfc654c4eb284836542c76f6ead",
+    "fetched_at": "2026-11-12T05:11:34.321092+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
     "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
     "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
@@ -488,115 +598,5 @@
     "source": "NPR Topics: World",
     "id": "0acedb2fec69905e9d0f058a1bb8bf13",
     "fetched_at": "2026-11-11T17:36:36.949462+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-    "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-    "published": "Wed, 11 Nov 2026 05:02:54 -0500",
-    "source": "NPR Topics: World",
-    "id": "37c931014b5e3230324ea80c59b8d310",
-    "fetched_at": "2026-11-11T17:36:35.792484+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-    "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-    "published": "Wed, 11 Nov 2026 07:21:59 -0500",
-    "source": "NPR Topics: World",
-    "id": "f31d50f5c4e27f731b0ca25ea8c7aa6f",
-    "fetched_at": "2026-11-11T17:36:34.641034+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-    "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-    "published": "Wed, 11 Nov 2026 08:30:00 -0500",
-    "source": "NPR Topics: World",
-    "id": "02ac10706e8365b721454b44dcdebbfd",
-    "fetched_at": "2026-11-11T17:36:33.484042+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-    "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-    "published": "Wed, 11 Nov 2026 12:23:10 -0500",
-    "source": "NPR Topics: World",
-    "id": "e19ef4ebb780345f5edd8982db0f060c",
-    "fetched_at": "2026-11-11T17:36:32.338406+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dua Lipa to become first female British headliner at Coachella 2027",
-    "summary": "Tame Impala and SZA join the top of the bill for the US festival, which also features Madonna and Diljit Dosanjh.",
-    "link": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 10:53:47 GMT",
-    "source": "BBC News",
-    "id": "d3c674e9c10eb3042bec5b015de9825f",
-    "fetched_at": "2026-11-11T17:36:31.185926+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-    "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 13:24:29 GMT",
-    "source": "BBC News",
-    "id": "810407298a79bb1469c8b8a8646c5560",
-    "fetched_at": "2026-11-11T17:36:30.040420+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-    "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 16:45:11 GMT",
-    "source": "BBC News",
-    "id": "2ae127f60e5b9a655dc4c2603a379541",
-    "fetched_at": "2026-11-11T17:36:28.890601+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-    "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-    "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 00:17:42 GMT",
-    "source": "BBC News",
-    "id": "be28ca983b5720501dec06c3849303d7",
-    "fetched_at": "2026-11-11T08:41:41.559872+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-    "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-    "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 00:19:42 GMT",
-    "source": "BBC News",
-    "id": "941d70513cb101f95441e250a840307b",
-    "fetched_at": "2026-11-11T08:41:41.559870+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 02:47:59 GMT",
-    "source": "BBC News",
-    "id": "ae4e2fb207d0945ac3df358c2b751b8a",
-    "fetched_at": "2026-11-11T08:41:41.559870+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US Army soldier suspected of spying for Russia arrested in UK",
-    "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 20:20:04 GMT",
-    "source": "BBC News",
-    "id": "632950631241ca0aa1883a210ad2d9bf",
-    "fetched_at": "2026-11-11T08:41:41.559868+00:00"
   }
 ]
