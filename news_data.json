@@ -1,6 +1,246 @@
 [
   {
     "region": "Europe",
+    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+    "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+    "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 07:01:43 GMT",
+    "source": "BBC News",
+    "id": "9f3c44d9bea48c929fa37e131825798a",
+    "fetched_at": "2026-11-13T11:45:53.444488+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 02:48:29 GMT",
+    "source": "BBC News",
+    "id": "346ffba03f958b77457c8606a5152fd2",
+    "fetched_at": "2026-11-13T11:45:53.444486+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: How Microsoft services went down around the world",
+    "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+    "source": "BBC News",
+    "id": "64b15e8c20f023941b5c8230fe325bef",
+    "fetched_at": "2026-11-13T11:45:53.444485+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What we know about the global Microsoft outage",
+    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 10:53:40 GMT",
+    "source": "BBC News",
+    "id": "3f86df29eb74a4ac92b03630fd56c6c5",
+    "fetched_at": "2026-11-13T11:45:53.444484+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+    "summary": "Chris Van Hollen, who has support from some of the more vocal progressives within the Democratic party, is the first to openly challenge long-term Democratic Senate leader Chuck Schumer's bid.",
+    "link": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader",
+    "published": "Fri, 13 Nov 2026 05:16:44 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d8f3305fd977704d9c8629f501e9eccb",
+    "fetched_at": "2026-11-13T11:45:53.444482+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 13th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-morning",
+    "published": "Fri, 13 Nov 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9cde0228ef48347ec1accde7c5c3c95e",
+    "fetched_at": "2026-11-13T11:45:53.444481+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "US pushes for European presence at Ukraine-Russia talks, which Moscow refuses to confirm",
+    "summary": "\"Both sides have now agreed to expand the next round of negotiations to include our European partners,\" US special envoy Jared Kushner said. Moscow has not confirmed whether it has agreed to include European negotiators in subsequent talks.",
+    "link": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks",
+    "published": "Fri, 13 Nov 2026 08:41:27 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5bf9c048b990014bffdd4c696a5e8716",
+    "fetched_at": "2026-11-13T11:45:53.444479+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Peru: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+    "summary": "Thousands of young Catholics gathered at Peru's National Stadium in Lima on Thursday 12 November for a prayer vigil led by Pope Leo XIV, transforming the venue into a sea of lights, The stands lit up with thousands of mobile phone lights as the pontiff led an evening of songs, prayer and reflection.",
+    "link": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium",
+    "published": "Fri, 13 Nov 2026 09:11:29 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5e7eabe5d64f78884af4e9a6400ea49a",
+    "fetched_at": "2026-11-13T11:45:53.444478+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Portugal: Humanoid robots take centre stage at Web Summit 2026",
+    "summary": "Dancing humanoid robots and robotic dogs stole the show at Web Summit 2026 in Lisbon. The technology conference has generated nearly €2.5 billion for Portugal's economy over the past decade, according to a study.",
+    "link": "https://www.euronews.com/video/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026",
+    "published": "Fri, 13 Nov 2026 09:32:51 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5bb2596242f176f1accee68a1661a2c7",
+    "fetched_at": "2026-11-13T11:45:53.444476+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "IRGC says it destroyed US radar in Bahrain after attack on southern Iran",
+    "summary": "Despite rising military tensions, diplomatic efforts mediated by Qatar and Pakistan are continuing. Tehran has made any resumption of formal negotiations with Washington conditional on its demands being met.",
+    "link": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+    "published": "Fri, 13 Nov 2026 10:39:16 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5ede40d4fc51a877eab671a0bb7bf328",
+    "fetched_at": "2026-11-13T11:45:53.444474+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dementia risk increases with number of cigarettes smoked per day",
+    "summary": "Researchers found that dementia risk increases with the number of cigarettes smoked per day, rising by 16% for those who smoke 10 a day and by 34% for those who smoke 20, compared with people who have never smoked.",
+    "link": "https://www.euronews.com/2026/11/13/dementia-risk-increases-with-number-of-cigarettes-smoked-per-day",
+    "published": "Fri, 13 Nov 2026 11:11:16 +0100",
+    "source": "News | Euronews RSS",
+    "id": "979dfaecc1aec71e0285dc2922e36dcb",
+    "fetched_at": "2026-11-13T11:45:53.444473+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa",
+    "summary": "Russian overnight attacks on Ukraine killed at least two person in Odesa and injured another at a hospital in Kyiv. Rescuers evacuated patients, including people using wheelchairs and crutches, as firefighters battled the flames.",
+    "link": "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa",
+    "published": "Fri, 13 Nov 2026 11:46:23 +0100",
+    "source": "News | Euronews RSS",
+    "id": "f8b3e9e4ad3fa3a39c906289f02c9e7c",
+    "fetched_at": "2026-11-13T11:45:53.444471+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How a new ‘green energy corridor’ from the Caspian Sea could help Eastern Europe kick fossil fuels",
+    "summary": "The partnership signed at the COP31 climate summit aims to transform Azerbaijan into an interregional electricity hub.",
+    "link": "https://www.euronews.com/2026/11/13/how-a-new-green-energy-corridor-from-the-caspian-sea-could-help-eastern-europe-kick-fossil",
+    "published": "Fri, 13 Nov 2026 11:56:07 +0100",
+    "source": "News | Euronews RSS",
+    "id": "1072a337aace625469802d9f80999011",
+    "fetched_at": "2026-11-13T11:45:53.444469+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 13th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday",
+    "published": "Fri, 13 Nov 2026 12:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "1408e2bddf0d76eefa01fd98eca29984",
+    "fetched_at": "2026-11-13T11:45:53.444466+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+    "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 07:59:33 GMT",
+    "source": "BBC News",
+    "id": "19b5604fc2b475f24ddeb220e9d8f9bc",
+    "fetched_at": "2026-11-13T11:45:53.444464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+    "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
+    "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+    "published": "Wed, 11 Nov 2026 12:23:10 -0500",
+    "source": "NPR Topics: World",
+    "id": "e19ef4ebb780345f5edd8982db0f060c",
+    "fetched_at": "2026-11-13T11:45:53.444461+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+    "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+    "published": "Thu, 12 Nov 2026 04:29:30 -0500",
+    "source": "NPR Topics: World",
+    "id": "dde1b16526f822a69d92ec9255bcf663",
+    "fetched_at": "2026-11-13T11:45:53.444431+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+    "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+    "published": "Thu, 12 Nov 2026 04:29:50 -0500",
+    "source": "NPR Topics: World",
+    "id": "e61d2f788cd478b2c1ccff53aa7c3e30",
+    "fetched_at": "2026-11-13T11:45:52.297320+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
+    "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6026458/drought-threatens-iraqs-marshes-risking-one-of-the-oldest-ways-of-life",
+    "published": "Thu, 12 Nov 2026 04:31:34 -0500",
+    "source": "NPR Topics: World",
+    "id": "11c002830ebc17d60f4461f878d7a55e",
+    "fetched_at": "2026-11-13T11:45:51.141292+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+    "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+    "published": "Thu, 12 Nov 2026 04:38:46 -0500",
+    "source": "NPR Topics: World",
+    "id": "3d2f9f45d7af82702d834e2b9658bff3",
+    "fetched_at": "2026-11-13T11:45:49.976329+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+    "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
+    "published": "Thu, 12 Nov 2026 04:39:39 -0500",
+    "source": "NPR Topics: World",
+    "id": "d72d8de221a0f8d922e1fff34622c553",
+    "fetched_at": "2026-11-13T11:45:48.826863+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+    "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
+    "published": "Thu, 12 Nov 2026 04:40:31 -0500",
+    "source": "NPR Topics: World",
+    "id": "d2debfdaa335d8290e09b970d053191b",
+    "fetched_at": "2026-11-13T11:45:47.676829+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
+    "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+    "published": "Thu, 12 Nov 2026 07:15:48 -0500",
+    "source": "NPR Topics: World",
+    "id": "f52534c7c58b2a9e3ac097f2f88948fe",
+    "fetched_at": "2026-11-13T11:45:46.522227+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "How could the Nvidia CEO’s affair threaten US national security?",
+    "summary": "BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China.",
+    "link": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 02:15:59 GMT",
+    "source": "BBC News",
+    "id": "6769f741df7095aa4a0966654535a2f0",
+    "fetched_at": "2026-11-13T11:45:45.360480+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Australian footballers will not be charged after hotel incident, police say",
     "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
     "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
@@ -358,245 +598,5 @@
     "source": "BBC News",
     "id": "1b6e69b532d16ee55b6f9ff049fe44f2",
     "fetched_at": "2026-11-12T21:59:03.272828+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What we know about Brooklyn building collapse that killed eight people",
-    "summary": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 19:09:25 GMT",
-    "source": "BBC News",
-    "id": "c99df1b205e7422ca25c590fd39d8dca",
-    "fetched_at": "2026-11-12T21:59:03.272793+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 18:47:35 GMT",
-    "source": "BBC News",
-    "id": "302cccebfb981b651d6f8a6795b063bb",
-    "fetched_at": "2026-11-12T21:59:02.155713+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-    "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 14:12:55 GMT",
-    "source": "BBC News",
-    "id": "f9ec39da7ad7675d68b1b2fb9bb94e1d",
-    "fetched_at": "2026-11-12T21:59:01.040455+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 12:56:55 GMT",
-    "source": "BBC News",
-    "id": "853429a369f16519976d7dea4538e4a2",
-    "fetched_at": "2026-11-12T21:58:59.911929+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 17:11:48 GMT",
-    "source": "BBC News",
-    "id": "887419722537bc249e81d938e8b1bad3",
-    "fetched_at": "2026-11-12T21:58:58.779274+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
-    "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 21:52:58 GMT",
-    "source": "BBC News",
-    "id": "6e4de982885bab7a3db11a5c32e4dd9c",
-    "fetched_at": "2026-11-12T21:58:57.659641+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "New York Mayor Mamdani praises 'heroism' of building collapse responders",
-    "summary": "\"People are alive today due to their heroism yesterday,\" Mamdani tells reporters at a news conference.",
-    "link": "https://www.bbc.co.uk/news/videos/cmvg2lkv0lz9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 18:26:54 GMT",
-    "source": "BBC News",
-    "id": "cecc47450cb5892fe1254e286ec5bffe",
-    "fetched_at": "2026-11-12T21:58:56.556194+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
-    "summary": "The accident rattled the usually calm immigrant neighbourhood of Flatbush, New York. At least eight residents, including two children, died in the rubble.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 18:36:15 GMT",
-    "source": "BBC News",
-    "id": "6c77c672fce910f7f997d22633d36086",
-    "fetched_at": "2026-11-12T21:58:55.444106+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British woman missing from cruise ship in Atlantic",
-    "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 10:13:35 GMT",
-    "source": "BBC News",
-    "id": "94dcebee8077cb6a229a7cdfae887011",
-    "fetched_at": "2026-11-12T14:24:03.475824+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-    "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 07:45:52 GMT",
-    "source": "BBC News",
-    "id": "e9899147b5f481c14510cf4e7d85d64a",
-    "fetched_at": "2026-11-12T14:24:03.475823+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 13:02:37 GMT",
-    "source": "BBC News",
-    "id": "5417693d9d3710f53563266a86cb17a8",
-    "fetched_at": "2026-11-12T14:24:03.475822+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Democrat Scott Colom wins Mississippi Senate seat in historic upset",
-    "summary": "His margin of fewer than 5,000 votes caps a midterm wave that has handed Democrats control of both chambers of Congress.",
-    "link": "https://www.euronews.com/2026/11/12/democrat-scott-colom-wins-mississippi-senate-seat-in-historic-upset",
-    "published": "Thu, 12 Nov 2026 09:42:23 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d18a6b96f36ffcc0c509eee4cdb37222",
-    "fetched_at": "2026-11-12T14:24:03.475820+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US: Survivor pulled alive from rubble after deadly Brooklyn collapse",
-    "summary": "At least two people have died and 17 others were injured after a three-storey building partially collapsed in Brooklyn, shortly after 4 pm on Wednesday, 11 November. Rescuers pulled four survivors from the rubble as firefighters continued searching for people feared trapped beneath the wreckage.",
-    "link": "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse",
-    "published": "Thu, 12 Nov 2026 09:55:47 +0100",
-    "source": "News | Euronews RSS",
-    "id": "f36c18f91239640b893911b0aa559c46",
-    "fetched_at": "2026-11-12T14:24:03.475818+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Pope Leo XIV welcomed by millions on return to his second home Peru",
-    "summary": "The Holy Father starts in Lima the final stage of his Latin American tour: a six-day visit to the country where he served for decades, reaffirming his bond with Peru and urging just healing of past wounds.",
-    "link": "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru",
-    "published": "Thu, 12 Nov 2026 10:00:13 +0100",
-    "source": "News | Euronews RSS",
-    "id": "6aeac9c2022154f780c468d3c8122fd8",
-    "fetched_at": "2026-11-12T14:24:03.475817+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
-    "summary": "Pope Leo XIV received a rapturous welcome in Peru, on 11 November, where he spent more than two decades as a missionary and bishop. Greeted by President Keiko Fujimori, he described his return as a homecoming.",
-    "link": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
-    "published": "Thu, 12 Nov 2026 10:07:55 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d8ae007886e8254d1674abe4958ee017",
-    "fetched_at": "2026-11-12T14:24:03.475815+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drones deliver food to chimpanzees stranded by flooding",
-    "summary": "Flooding at a chimpanzee sanctuary in Fort Pierce, Florida, has made it difficult for staff to reach some of the animals. Workers have turned to drones to deliver food, including bananas, while large parts of the property remain underwater.",
-    "link": "https://www.euronews.com/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding",
-    "published": "Thu, 12 Nov 2026 11:35:51 +0100",
-    "source": "News | Euronews RSS",
-    "id": "526a06925d8ead212e2cface9fabab20",
-    "fetched_at": "2026-11-12T14:24:03.475814+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Baby buried in dog crate in US found alive after 24 hours",
-    "summary": "Cool temperatures and a towel that created an air pocket probably kept him alive, according to the local sheriff.",
-    "link": "https://www.euronews.com/2026/11/12/baby-buried-in-dog-crate-in-us-found-alive-after-24-hours",
-    "published": "Thu, 12 Nov 2026 11:36:33 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4c8f066d1cd63f0e493970a759b41cc8",
-    "fetched_at": "2026-11-12T14:24:03.475812+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
-    "summary": "Kyiv rarely claims responsibility for such attacks on Russian troops, but Ukrainian forces have previously used similar blasts to show that Russia’s security services are vulnerable.",
-    "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-    "published": "Thu, 12 Nov 2026 11:48:52 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ab91fb673e0a9504b849fc9180fc7622",
-    "fetched_at": "2026-11-12T14:24:03.475811+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Doomsday study calculated humanity's end on Friday 13 November 2026",
-    "summary": "According to a study, the end of the world was supposed to come on 13 November. It sounds dramatic and would be quite urgent – if the study were not already \"outdated\". Still, it is fascinating.",
-    "link": "https://www.euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026",
-    "published": "Thu, 12 Nov 2026 11:54:52 +0100",
-    "source": "News | Euronews RSS",
-    "id": "b68055c8be130052fe39a27824946724",
-    "fetched_at": "2026-11-12T14:24:03.475810+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 12th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 12th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
-    "published": "Thu, 12 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "92a3724f1f13ea366e809842d5c58c34",
-    "fetched_at": "2026-11-12T14:24:03.475808+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Slovenia: Red Bull human catapult sets two Guinness World Records",
-    "summary": "Two BASE jumpers made history in Trbovlje, Slovenia, after being launched into the sky from a 360-metre industrial chimney using what organisers describe as the world's largest human catapult.",
-    "link": "https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records",
-    "published": "Thu, 12 Nov 2026 12:50:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "728c23c5e5fd002cf21dcf9ca82d0dcc",
-    "fetched_at": "2026-11-12T14:24:03.475806+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "British soldier charged with rape of woman serving in Cyprus",
-    "summary": "L/Cpl Nicholas Horne, serving in the Highlanders, was arrested and charged in October.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr28re6n9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 11 Nov 2026 22:34:37 GMT",
-    "source": "BBC News",
-    "id": "eb0e2693beb137a1383241be9b89ce26",
-    "fetched_at": "2026-11-12T14:24:03.475805+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Why did a day off for Finland's embassy in Australia go viral?",
-    "summary": "Sleuths shared their \"despair\" when Finland's embassy in Australia's capital closed for 24 hours to hold a planning day and expressed \"relief\" when it reopened.",
-    "link": "https://www.bbc.co.uk/news/videos/ckedq17174v3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 07:12:19 GMT",
-    "source": "BBC News",
-    "id": "590f4abcba76486ba6748b5e4429fed5",
-    "fetched_at": "2026-11-12T14:24:03.475803+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 12:39:39 GMT",
-    "source": "BBC News",
-    "id": "f5b3d5575a2bf97e6e07faabc1995947",
-    "fetched_at": "2026-11-12T14:24:03.475802+00:00"
   }
 ]
