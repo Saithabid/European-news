@@ -1,6 +1,226 @@
 [
   {
     "region": "Europe",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+    "source": "BBC News",
+    "id": "51201e7d55f60c048e6c18b12a94991b",
+    "fetched_at": "2026-11-14T00:35:07.942492+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+    "summary": "A tanker struck and partially submerged a New Orleans river cruise carrying around 129 passengers. Multiple people were rescued as search-and-rescue operations continued.",
+    "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und",
+    "published": "Fri, 13 Nov 2026 22:04:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b0a7a75b7272d28e2edc2292ca921924",
+    "fetched_at": "2026-11-14T00:35:07.942490+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 11 Nov 2026 14:56:11 GMT",
+    "source": "BBC News",
+    "id": "0f7a548e748889daae556905b0a58d7d",
+    "fetched_at": "2026-11-14T00:35:07.942488+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+    "source": "BBC News",
+    "id": "4891be742b7341c4a569bf5e20518be5",
+    "fetched_at": "2026-11-14T00:35:07.942485+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
+    "summary": "Inside Dubai&apos;s Crossroads of Civilizations Museum, founder Ahmed Obaid Al Mansoori reveals how a temporary Holocaust tribute became a permanent gallery.",
+    "link": "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything",
+    "published": "Wed, 11 Nov 2026 09:24:26 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "543a1956be0c55d3abf0244792b37403",
+    "fetched_at": "2026-11-14T00:35:07.942483+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israel's political shake-up enters new phase as former PM plays kingmaker — and deadline looms",
+    "summary": "Benjamin Netanyahu called for unity, but Gadi Eisenkot canceled Likud talks after calling the outgoing prime minister&apos;s speech &quot;delusional.&quot;",
+    "link": "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
+    "published": "Wed, 11 Nov 2026 12:36:36 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "545b6b1a4ef2843a57e86dab328a5180",
+    "fetched_at": "2026-11-14T00:35:07.942480+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
+    "summary": "Russia&apos;s ambassador to the United States Alexander Darchiev, 66, had been appointed by Putin to lead a rapprochement with the Trump administration.",
+    "link": "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
+    "published": "Wed, 11 Nov 2026 14:02:20 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "6ee50b1b3fc1e56a5f4a5da31699215c",
+    "fetched_at": "2026-11-14T00:35:07.942478+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
+    "summary": "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said.",
+    "link": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
+    "published": "Wed, 11 Nov 2026 15:59:30 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "5f6478d8262b57b04bb440ad48c6676a",
+    "fetched_at": "2026-11-14T00:35:07.942476+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
+    "summary": "Spain&apos;s first general strike in 14 years turned violent in Barcelona as protesters set fires and launched fireworks at riot police on Paseo de Gracia.",
+    "link": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
+    "published": "Wed, 11 Nov 2026 16:46:50 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "65ba3a79660d1d05cb86077fd8de6c49",
+    "fetched_at": "2026-11-14T00:35:07.942473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+    "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman&apos;s Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
+    "link": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+    "published": "Wed, 11 Nov 2026 17:48:03 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "51d63d1ac89e195a0c06aebee5cc05a6",
+    "fetched_at": "2026-11-14T00:35:07.942471+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+    "summary": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
+    "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
+    "published": "Wed, 11 Nov 2026 20:04:45 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "d9262712fae3e39869bbb2ee20c340b3",
+    "fetched_at": "2026-11-14T00:35:07.942468+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+    "summary": "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.",
+    "link": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
+    "published": "Thu, 12 Nov 2026 10:10:49 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "a0db3ca5bc7f9aadc0fcebe15b12e7a6",
+    "fetched_at": "2026-11-14T00:35:07.942464+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+    "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+    "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+    "published": "Thu, 12 Nov 2026 09:22:50 -0500",
+    "source": "NPR Topics: World",
+    "id": "2e594951962a4d9dbb6b3c1b22db2c52",
+    "fetched_at": "2026-11-14T00:35:07.942461+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+    "summary": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "published": "Thu, 12 Nov 2026 10:26:34 -0500",
+    "source": "NPR Topics: World",
+    "id": "994c73c72c1bc99da7e8414760bc971e",
+    "fetched_at": "2026-11-14T00:35:07.942457+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What's Trump's strategy now with Iran? To keep things as they are",
+    "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "published": "Fri, 13 Nov 2026 14:02:04 -0500",
+    "source": "NPR Topics: World",
+    "id": "3864f13a8f03d63049dab460207c445e",
+    "fetched_at": "2026-11-14T00:35:07.942431+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What could El Niño mean for winter weather in the US and Canada?",
+    "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+    "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 18:50:15 GMT",
+    "source": "BBC News",
+    "id": "019a21a20a29245d39fb58ea6f560aa5",
+    "fetched_at": "2026-11-14T00:35:06.791168+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 21:15:41 GMT",
+    "source": "BBC News",
+    "id": "a953d26c01b8b33509dd94caf324d7ce",
+    "fetched_at": "2026-11-14T00:35:05.638763+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: How the Microsoft outage affected North America",
+    "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still experience intermittent access issues\".",
+    "link": "https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 20:12:05 GMT",
+    "source": "BBC News",
+    "id": "a3c9adb3ac636c6b687c541ca29823ca",
+    "fetched_at": "2026-11-14T00:35:04.471952+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+    "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+    "source": "BBC News",
+    "id": "0c4c42e6e27d40ad1062cb290fef8a25",
+    "fetched_at": "2026-11-14T00:35:03.308622+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Setback for SpaceX Starship rocket's double-catch test",
+    "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+    "source": "BBC News",
+    "id": "e35e5c15c29c3bd689ef9b4fd877c4f3",
+    "fetched_at": "2026-11-14T00:35:02.153473+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+    "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 21:15:24 GMT",
+    "source": "BBC News",
+    "id": "869a7f71b2b4dac31061f872f5aa2d4d",
+    "fetched_at": "2026-11-14T00:35:01.015529+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+    "source": "BBC News",
+    "id": "7f14d0aa1a779030d92805fecdb297a8",
+    "fetched_at": "2026-11-14T00:34:59.875778+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Rosalía scoops historic third best album award at Latin Grammys",
     "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
     "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
@@ -378,225 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "5ede40d4fc51a877eab671a0bb7bf328",
     "fetched_at": "2026-11-13T11:45:53.444474+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dementia risk increases with number of cigarettes smoked per day",
-    "summary": "Researchers found that dementia risk increases with the number of cigarettes smoked per day, rising by 16% for those who smoke 10 a day and by 34% for those who smoke 20, compared with people who have never smoked.",
-    "link": "https://www.euronews.com/2026/11/13/dementia-risk-increases-with-number-of-cigarettes-smoked-per-day",
-    "published": "Fri, 13 Nov 2026 11:11:16 +0100",
-    "source": "News | Euronews RSS",
-    "id": "979dfaecc1aec71e0285dc2922e36dcb",
-    "fetched_at": "2026-11-13T11:45:53.444473+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa",
-    "summary": "Russian overnight attacks on Ukraine killed at least two person in Odesa and injured another at a hospital in Kyiv. Rescuers evacuated patients, including people using wheelchairs and crutches, as firefighters battled the flames.",
-    "link": "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa",
-    "published": "Fri, 13 Nov 2026 11:46:23 +0100",
-    "source": "News | Euronews RSS",
-    "id": "f8b3e9e4ad3fa3a39c906289f02c9e7c",
-    "fetched_at": "2026-11-13T11:45:53.444471+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "How a new ‘green energy corridor’ from the Caspian Sea could help Eastern Europe kick fossil fuels",
-    "summary": "The partnership signed at the COP31 climate summit aims to transform Azerbaijan into an interregional electricity hub.",
-    "link": "https://www.euronews.com/2026/11/13/how-a-new-green-energy-corridor-from-the-caspian-sea-could-help-eastern-europe-kick-fossil",
-    "published": "Fri, 13 Nov 2026 11:56:07 +0100",
-    "source": "News | Euronews RSS",
-    "id": "1072a337aace625469802d9f80999011",
-    "fetched_at": "2026-11-13T11:45:53.444469+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 13th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday",
-    "published": "Fri, 13 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "1408e2bddf0d76eefa01fd98eca29984",
-    "fetched_at": "2026-11-13T11:45:53.444466+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-    "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 12 Nov 2026 07:59:33 GMT",
-    "source": "BBC News",
-    "id": "19b5604fc2b475f24ddeb220e9d8f9bc",
-    "fetched_at": "2026-11-13T11:45:53.444464+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-    "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-    "published": "Wed, 11 Nov 2026 12:23:10 -0500",
-    "source": "NPR Topics: World",
-    "id": "e19ef4ebb780345f5edd8982db0f060c",
-    "fetched_at": "2026-11-13T11:45:53.444461+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
-    "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-    "published": "Thu, 12 Nov 2026 04:29:30 -0500",
-    "source": "NPR Topics: World",
-    "id": "dde1b16526f822a69d92ec9255bcf663",
-    "fetched_at": "2026-11-13T11:45:53.444431+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-    "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
-    "published": "Thu, 12 Nov 2026 04:29:50 -0500",
-    "source": "NPR Topics: World",
-    "id": "e61d2f788cd478b2c1ccff53aa7c3e30",
-    "fetched_at": "2026-11-13T11:45:52.297320+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
-    "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6026458/drought-threatens-iraqs-marshes-risking-one-of-the-oldest-ways-of-life",
-    "published": "Thu, 12 Nov 2026 04:31:34 -0500",
-    "source": "NPR Topics: World",
-    "id": "11c002830ebc17d60f4461f878d7a55e",
-    "fetched_at": "2026-11-13T11:45:51.141292+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-    "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-    "published": "Thu, 12 Nov 2026 04:38:46 -0500",
-    "source": "NPR Topics: World",
-    "id": "3d2f9f45d7af82702d834e2b9658bff3",
-    "fetched_at": "2026-11-13T11:45:49.976329+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
-    "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
-    "published": "Thu, 12 Nov 2026 04:39:39 -0500",
-    "source": "NPR Topics: World",
-    "id": "d72d8de221a0f8d922e1fff34622c553",
-    "fetched_at": "2026-11-13T11:45:48.826863+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
-    "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
-    "published": "Thu, 12 Nov 2026 04:40:31 -0500",
-    "source": "NPR Topics: World",
-    "id": "d2debfdaa335d8290e09b970d053191b",
-    "fetched_at": "2026-11-13T11:45:47.676829+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-    "published": "Thu, 12 Nov 2026 07:15:48 -0500",
-    "source": "NPR Topics: World",
-    "id": "f52534c7c58b2a9e3ac097f2f88948fe",
-    "fetched_at": "2026-11-13T11:45:46.522227+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "How could the Nvidia CEO’s affair threaten US national security?",
-    "summary": "BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China.",
-    "link": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 02:15:59 GMT",
-    "source": "BBC News",
-    "id": "6769f741df7095aa4a0966654535a2f0",
-    "fetched_at": "2026-11-13T11:45:45.360480+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australian footballers will not be charged after hotel incident, police say",
-    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 01:03:59 GMT",
-    "source": "BBC News",
-    "id": "d683bf77d4285de260ae34d8f44efea6",
-    "fetched_at": "2026-11-13T02:27:57.530857+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 00:20:24 GMT",
-    "source": "BBC News",
-    "id": "877d4593c7c77d3ba45a5337eab388ee",
-    "fetched_at": "2026-11-13T02:27:57.530855+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 02:01:35 GMT",
-    "source": "BBC News",
-    "id": "82814dd2c0d9b881199c4de2d0ffe6d5",
-    "fetched_at": "2026-11-13T02:27:57.530853+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US: New Congress members pose for traditional photo at Capitol",
-    "summary": "Newly elected US lawmakers gathered on Capitol Hill on Thursday 12 November for a traditional group photograph ahead of the opening of the 120th Congress. The incoming House members are attending orientation following the November midterm elections.",
-    "link": "https://www.euronews.com/video/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol",
-    "published": "Fri, 13 Nov 2026 00:08:05 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9f73bfcf09272f266962dec7c197b20a",
-    "fetched_at": "2026-11-13T02:27:57.530851+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-    "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 16:07:51 GMT",
-    "source": "BBC News",
-    "id": "bd6fceb3947a8e9b60a636c046bf8e8e",
-    "fetched_at": "2026-11-13T02:27:57.530850+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "First day of Ukraine peace talks constructive, Zelensky says",
-    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 10 Nov 2026 21:21:55 GMT",
-    "source": "BBC News",
-    "id": "583bf3aba1e5b919b4ddbacbfde8ccdc",
-    "fetched_at": "2026-11-13T02:27:57.530848+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "American girl, 7, killed during Mexican cartel operation; mother blames police helicopter: report",
-    "summary": "Aranza Aidelany Pardo&apos;s mother says a Tamaulipas state police helicopter fired the shot that killed her 7-year-old during a Gulf Cartel operation.",
-    "link": "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
-    "published": "Tue, 10 Nov 2026 16:59:56 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "fbfbfa251f020ab647a2346ba3413308",
-    "fetched_at": "2026-11-13T02:27:57.530845+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
-    "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
-    "link": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
-    "published": "Tue, 10 Nov 2026 19:53:31 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "a2f46cd11ccb7f1bb3b903f25f5068fb",
-    "fetched_at": "2026-11-13T02:27:57.530843+00:00"
   }
 ]
