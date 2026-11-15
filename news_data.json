@@ -1,6 +1,56 @@
 [
   {
     "region": "Europe",
+    "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+    "source": "BBC News",
+    "id": "2528919d6b5f47d554376c34d2f37e82",
+    "fetched_at": "2026-11-15T01:27:36.062228+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+    "summary": "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation.",
+    "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+    "published": "Sat, 14 Nov 2026 19:51:47 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "4abb5dfb7638cd5c2194363da220e69c",
+    "fetched_at": "2026-11-15T01:27:34.980632+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
+    "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 20:06:46 GMT",
+    "source": "BBC News",
+    "id": "64ca3168ec8ffc9a6677734e02ff3c6c",
+    "fetched_at": "2026-11-15T01:27:33.898677+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 14 Nov 2026 22:27:06 GMT",
+    "source": "BBC News",
+    "id": "8f5ebcdeb0879635d2bbcfa83527b108",
+    "fetched_at": "2026-11-15T01:27:32.812098+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+    "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 14 Nov 2026 22:15:52 GMT",
+    "source": "BBC News",
+    "id": "e35e5c15c29c3bd689ef9b4fd877c4f3",
+    "fetched_at": "2026-11-15T01:27:31.715924+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
     "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
     "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
@@ -548,55 +598,5 @@
     "source": "NPR Topics: World",
     "id": "994c73c72c1bc99da7e8414760bc971e",
     "fetched_at": "2026-11-14T00:35:07.942457+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's Trump's strategy now with Iran? To keep things as they are",
-    "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-    "published": "Fri, 13 Nov 2026 14:02:04 -0500",
-    "source": "NPR Topics: World",
-    "id": "3864f13a8f03d63049dab460207c445e",
-    "fetched_at": "2026-11-14T00:35:07.942431+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What could El Niño mean for winter weather in the US and Canada?",
-    "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
-    "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 18:50:15 GMT",
-    "source": "BBC News",
-    "id": "019a21a20a29245d39fb58ea6f560aa5",
-    "fetched_at": "2026-11-14T00:35:06.791168+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 21:15:41 GMT",
-    "source": "BBC News",
-    "id": "a953d26c01b8b33509dd94caf324d7ce",
-    "fetched_at": "2026-11-14T00:35:05.638763+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Watch: How the Microsoft outage affected North America",
-    "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still experience intermittent access issues\".",
-    "link": "https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 20:12:05 GMT",
-    "source": "BBC News",
-    "id": "a3c9adb3ac636c6b687c541ca29823ca",
-    "fetched_at": "2026-11-14T00:35:04.471952+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-    "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-    "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 13 Nov 2026 22:12:33 GMT",
-    "source": "BBC News",
-    "id": "0c4c42e6e27d40ad1062cb290fef8a25",
-    "fetched_at": "2026-11-14T00:35:03.308622+00:00"
   }
 ]
