@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+    "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 08:17:41 GMT",
+    "source": "BBC News",
+    "id": "61a3a9acd205f33129cf97a6e5369f68",
+    "fetched_at": "2026-11-15T08:41:10.869471+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+    "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 03:21:04 GMT",
+    "source": "BBC News",
+    "id": "b1fe230f725fd6759b843e36c033f791",
+    "fetched_at": "2026-11-15T08:41:09.747613+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 02:49:45 GMT",
+    "source": "BBC News",
+    "id": "ea5494587393f4dc502a898485d0d356",
+    "fetched_at": "2026-11-15T08:41:08.654757+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 15th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+    "published": "Sun, 15 Nov 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d06211d2aada47ce68a3079c4877ab5f",
+    "fetched_at": "2026-11-15T08:41:07.530186+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "What's Trump's strategy now with Iran? To keep things as they are",
+    "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "published": "Fri, 13 Nov 2026 14:02:04 -0500",
+    "source": "NPR Topics: World",
+    "id": "3864f13a8f03d63049dab460207c445e",
+    "fetched_at": "2026-11-15T08:41:06.384291+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 21:15:41 GMT",
+    "source": "BBC News",
+    "id": "a953d26c01b8b33509dd94caf324d7ce",
+    "fetched_at": "2026-11-15T08:41:05.244695+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Watch: How the Microsoft outage affected North America",
+    "summary": "The BBC's Nadine Yousif's reports that Microsoft services like Outlook are slowly coming back online, but the company noted users \"may still experience intermittent access issues\".",
+    "link": "https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 20:12:05 GMT",
+    "source": "BBC News",
+    "id": "a3c9adb3ac636c6b687c541ca29823ca",
+    "fetched_at": "2026-11-15T08:41:04.145065+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+    "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+    "source": "BBC News",
+    "id": "0c4c42e6e27d40ad1062cb290fef8a25",
+    "fetched_at": "2026-11-15T08:41:02.985411+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "545b6b1a4ef2843a57e86dab328a5180",
     "fetched_at": "2026-11-14T00:35:07.942480+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
-    "summary": "Russia&apos;s ambassador to the United States Alexander Darchiev, 66, had been appointed by Putin to lead a rapprochement with the Trump administration.",
-    "link": "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
-    "published": "Wed, 11 Nov 2026 14:02:20 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "6ee50b1b3fc1e56a5f4a5da31699215c",
-    "fetched_at": "2026-11-14T00:35:07.942478+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
-    "summary": "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said.",
-    "link": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
-    "published": "Wed, 11 Nov 2026 15:59:30 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "5f6478d8262b57b04bb440ad48c6676a",
-    "fetched_at": "2026-11-14T00:35:07.942476+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
-    "summary": "Spain&apos;s first general strike in 14 years turned violent in Barcelona as protesters set fires and launched fireworks at riot police on Paseo de Gracia.",
-    "link": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
-    "published": "Wed, 11 Nov 2026 16:46:50 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "65ba3a79660d1d05cb86077fd8de6c49",
-    "fetched_at": "2026-11-14T00:35:07.942473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-    "summary": "Iran claims its Revolutionary Guard struck navigation equipment on Oman&apos;s Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
-    "link": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
-    "published": "Wed, 11 Nov 2026 17:48:03 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "51d63d1ac89e195a0c06aebee5cc05a6",
-    "fetched_at": "2026-11-14T00:35:07.942471+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-    "summary": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
-    "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
-    "published": "Wed, 11 Nov 2026 20:04:45 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "d9262712fae3e39869bbb2ee20c340b3",
-    "fetched_at": "2026-11-14T00:35:07.942468+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
-    "summary": "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.",
-    "link": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
-    "published": "Thu, 12 Nov 2026 10:10:49 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "a0db3ca5bc7f9aadc0fcebe15b12e7a6",
-    "fetched_at": "2026-11-14T00:35:07.942464+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-    "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-    "published": "Thu, 12 Nov 2026 09:22:50 -0500",
-    "source": "NPR Topics: World",
-    "id": "2e594951962a4d9dbb6b3c1b22db2c52",
-    "fetched_at": "2026-11-14T00:35:07.942461+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-    "summary": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-    "published": "Thu, 12 Nov 2026 10:26:34 -0500",
-    "source": "NPR Topics: World",
-    "id": "994c73c72c1bc99da7e8414760bc971e",
-    "fetched_at": "2026-11-14T00:35:07.942457+00:00"
   }
 ]
