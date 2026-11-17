@@ -1,6 +1,376 @@
 [
   {
     "region": "Europe",
+    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+    "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 11:17:32 GMT",
+    "source": "BBC News",
+    "id": "e3240b03647653eda9926c83df43cd97",
+    "fetched_at": "2026-11-17T17:15:58.510101+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "BBC reports from Kyiv bridge hit by Russian attack",
+    "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:54:15 GMT",
+    "source": "BBC News",
+    "id": "8caf1212e6d8f16ca0658ec2143b0b47",
+    "fetched_at": "2026-11-17T17:15:58.510099+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 09:27:44 GMT",
+    "source": "BBC News",
+    "id": "adc33b2dccf4ba738bd5ef662d80eb66",
+    "fetched_at": "2026-11-17T17:15:58.510097+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:36:11 GMT",
+    "source": "BBC News",
+    "id": "66b1f531c0354751b462f8004f206c07",
+    "fetched_at": "2026-11-17T17:15:58.510096+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kim Jong Un tours ski resort with wife and daughter",
+    "summary": "North Korea's Kim Jong Un tours a ski resort in Samjiyon with his family, smiling and smoking in photos.",
+    "link": "https://www.euronews.com/video/2026/11/17/kim-jong-un-tours-ski-resort-with-wife-and-daughter",
+    "published": "Tue, 17 Nov 2026 11:30:46 +0100",
+    "source": "News | Euronews RSS",
+    "id": "49b348d53acbb9c63e3299c1abf700a7",
+    "fetched_at": "2026-11-17T17:15:58.510094+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 17th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-midday",
+    "published": "Tue, 17 Nov 2026 12:00:15 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b3f8f79af37bd6a4ecadbe2b4dc86694",
+    "fetched_at": "2026-11-17T17:15:58.510093+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Moment Ukrainian drones strike the Kerch Bridge linking Crimea to Russia",
+    "summary": "Ukraine struck the Kerch Bridge linking Russia to annexed Crimea for a second consecutive night, forcing its closure. Ukrainian President Volodymyr Zelenskyy described the operation as unprecedented, saying it had been prepared over several weeks.",
+    "link": "https://www.euronews.com/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia",
+    "published": "Tue, 17 Nov 2026 13:41:39 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9ce4f095d8671a585901d8eda633fe4b",
+    "fetched_at": "2026-11-17T17:15:58.510091+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
+    "summary": "Qatar warns the US and Iran to \"avoid any escalation\" as Iran's new attacks in Bahrain and its strikes on Gulf shipping are putting diplomacy under pressure. Qatar's foreign ministry announces new talks with Tehran, aiming to bridge the divide between US and Iran.",
+    "link": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran",
+    "published": "Tue, 17 Nov 2026 13:51:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "53447e033e7d4f6dde5690ada41b1781",
+    "fetched_at": "2026-11-17T17:15:58.510090+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Drivers battle blizzard conditions in England’s Yorkshire Dales",
+    "summary": "Early snow brings blizzard conditions to northern England, with drivers navigating treacherous roads and poor visibility across the Yorkshire Dales.",
+    "link": "https://www.euronews.com/video/2026/11/17/drivers-battle-blizzard-conditions-in-englands-yorkshire-dales",
+    "published": "Tue, 17 Nov 2026 14:00:08 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7ccf18e1ce104a23775e1c7fc18a0b9e",
+    "fetched_at": "2026-11-17T17:15:58.510088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'Absurd': France rejects claim its troops are directly participating in Ukraine war",
+    "summary": "Russia said on Tuesday it was aware of French troops deployed to Ukraine, calling it \"direct participation\" in the war and saying a message had been issued to Paris. France has rejected the claim troops are directly involved in fighting as \"absurd.\"",
+    "link": "https://www.euronews.com/2026/11/17/french-troops-deployed-on-secret-mission-in-ukraine-for-months-media-says",
+    "published": "Tue, 17 Nov 2026 14:12:31 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5155880abe9f1fda76bb08cd685f85ed",
+    "fetched_at": "2026-11-17T17:15:58.510086+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Egypt pitches reforms and energy plans at World Economic Forum meeting",
+    "summary": "At a World Economic Forum meeting in Cairo, Egyptian President Abdel Fattah el-Sisi pledged to simplify business procedures and outlined plans for industry, energy and AI. The government is preparing a 2027–2030 economic programme to boost productivity and give private businesses a larger role.",
+    "link": "https://www.euronews.com/2026/11/17/egypt-pitches-reforms-and-energy-plans-at-world-economic-forum-meeting",
+    "published": "Tue, 17 Nov 2026 15:45:36 +0100",
+    "source": "News | Euronews RSS",
+    "id": "eaeed34b48465055988e31303006b7fa",
+    "fetched_at": "2026-11-17T17:15:58.510085+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Watch: today’s top No Comment videos from around the world",
+    "summary": "A robot pianist takes on a human musician in Italy, Pope Leo XIV has an unexpected encounter in Peru, and snow transforms the English countryside. Meanwhile, gamers compete for the European Tetris title in Denmark, while Kim Jong Un showcases North Korea's latest ski resort.",
+    "link": "https://www.euronews.com/video/2026/11/17/watch-todays-top-no-comment-videos-from-around-the-world",
+    "published": "Tue, 17 Nov 2026 16:00:30 +0100",
+    "source": "News | Euronews RSS",
+    "id": "002aef4bb6ba52d583706bcda6dd8bd9",
+    "fetched_at": "2026-11-17T17:15:58.510083+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump warns Iran over allegations of dirty bomb threat to Washington",
+    "summary": "Iran denied media reports based on US intelligence that it may be planning a dirty bomb attack in the US capital, with questions swirling about its actual intentions or real capabilities for such an act, but Trump issued a strong warning against Tehran \"because they happen to be crazy.\"",
+    "link": "https://www.euronews.com/2026/11/17/trump-warns-iran-over-allegations-of-dirty-bomb-threat-to-washington",
+    "published": "Tue, 17 Nov 2026 17:10:42 +0100",
+    "source": "News | Euronews RSS",
+    "id": "bb3e43a9d15c7945decce177135dc09a",
+    "fetched_at": "2026-11-17T17:15:58.510082+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 17th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-evening",
+    "published": "Tue, 17 Nov 2026 18:00:27 +0100",
+    "source": "News | Euronews RSS",
+    "id": "d02b6448a51c02d9aafad74dd6d348c9",
+    "fetched_at": "2026-11-17T17:15:58.510079+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Police ban protests near 10 schools and five universities in Paris",
+    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 22:28:54 GMT",
+    "source": "BBC News",
+    "id": "df4e0d3f2c37005231cf154f8016086e",
+    "fetched_at": "2026-11-17T17:15:58.510078+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+    "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 07:44:17 GMT",
+    "source": "BBC News",
+    "id": "dc63976e8fc6778fafeedc75826011f1",
+    "fetched_at": "2026-11-17T17:15:58.510076+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Dozens injured after trains collide head-on in Prague",
+    "summary": "The low speed collision outside the Czech capital's main station triggered a massive emergency response.",
+    "link": "https://www.bbc.co.uk/news/articles/c6reg7r589nro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 11:48:09 GMT",
+    "source": "BBC News",
+    "id": "d7b9041dab26d11ed52fc625a7f176cd",
+    "fetched_at": "2026-11-17T17:15:58.510074+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 05:59:01 GMT",
+    "source": "BBC News",
+    "id": "9bf0944d59814d4310dd46caacdbea43",
+    "fetched_at": "2026-11-17T17:15:58.510073+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+    "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+    "source": "BBC News",
+    "id": "477324cbfe61dc3df3c546b04002c172",
+    "fetched_at": "2026-11-17T17:15:58.510071+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+    "summary": "The Guadalajara cartel boss convicted in DEA agent Enrique &quot;Kiki&quot; Camarena&apos;s murder died at 80, decades after the killing triggered Operation Leyenda.",
+    "link": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+    "published": "Sun, 15 Nov 2026 20:54:06 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "dfe9ee8c73166673189748a0077c7681",
+    "fetched_at": "2026-11-17T17:15:58.510069+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
+    "summary": "The State Department is pressing Egypt to protect religious freedom as a Christian convert faces possible execution or 25 years in prison, raising concerns over his trial.",
+    "link": "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution",
+    "published": "Tue, 17 Nov 2026 06:00:46 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "7e6d04715e951d8d3a54fd6f0506ab06",
+    "fetched_at": "2026-11-17T17:15:58.510067+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes",
+    "summary": "Iran&apos;s IRGC claims it struck a U.S. radar system at the Sheikh Isa base in Bahrain, home to the Fifth Fleet, the third attack in five days after a lull.",
+    "link": "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
+    "published": "Tue, 17 Nov 2026 07:42:29 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "0ee34eef2fbeba60e65e3329721617cc",
+    "fetched_at": "2026-11-17T17:15:58.510066+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "After UN peacekeeping mission ends, Morocco says Western Sahara dispute enters new phase",
+    "summary": "Western Sahara talks enter a new phase as a senior Sahrawi official says Morocco will implement its autonomy proposal even if the Polisario Front refuses to agree.",
+    "link": "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase",
+    "published": "Tue, 17 Nov 2026 09:59:36 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "9158f26f03832e51d50d3aeda57b4fad",
+    "fetched_at": "2026-11-17T17:15:58.510064+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+    "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+    "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+    "published": "Mon, 16 Nov 2026 07:08:14 -0500",
+    "source": "NPR Topics: World",
+    "id": "1b9eabc3e274b9fb5f353756c2d5b570",
+    "fetched_at": "2026-11-17T17:15:58.510062+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+    "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+    "published": "Tue, 17 Nov 2026 04:46:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "d728d5d7d0f549af52e6d9a8d80dfc37",
+    "fetched_at": "2026-11-17T17:15:58.510061+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+    "summary": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday.",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+    "published": "Tue, 17 Nov 2026 04:50:45 -0500",
+    "source": "NPR Topics: World",
+    "id": "b2e2cf8b2d318c22d10efe29e1f81262",
+    "fetched_at": "2026-11-17T17:15:58.510058+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump arrives in Philippines to kick off Asia trip",
+    "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+    "published": "Tue, 17 Nov 2026 05:43:55 -0500",
+    "source": "NPR Topics: World",
+    "id": "e7cd2cdb166f9304902081b5774dc386",
+    "fetched_at": "2026-11-17T17:15:58.510055+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+    "published": "Tue, 17 Nov 2026 07:20:57 -0500",
+    "source": "NPR Topics: World",
+    "id": "4bc3006dede45e8a7164bc82a5aba2d5",
+    "fetched_at": "2026-11-17T17:15:58.510053+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US bank services returning to normal after major outage",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:04:24 GMT",
+    "source": "BBC News",
+    "id": "7bea3e59bdbec8730f96202b229c9e4e",
+    "fetched_at": "2026-11-17T17:15:58.510050+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+    "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 02:38:08 GMT",
+    "source": "BBC News",
+    "id": "a260e998cd7e5847f001528396302b02",
+    "fetched_at": "2026-11-17T17:15:58.510020+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "We couldn't afford a house alone, so we bought one with strangers",
+    "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+    "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 00:00:02 GMT",
+    "source": "BBC News",
+    "id": "7afee35f9163bbd5eed35bdf49a603d7",
+    "fetched_at": "2026-11-17T17:15:57.424990+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 16:42:11 GMT",
+    "source": "BBC News",
+    "id": "ed7c5be106882bcb49d8ec2d4fdfdf62",
+    "fetched_at": "2026-11-17T17:15:56.319926+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+    "summary": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipation.",
+    "link": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 16:38:50 GMT",
+    "source": "BBC News",
+    "id": "aa00d23c2dd49a7c40359e8ebc986f9b",
+    "fetched_at": "2026-11-17T17:15:55.220554+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 17:10:03 GMT",
+    "source": "BBC News",
+    "id": "5fb731da3017ff526fd1cdadd2aa165b",
+    "fetched_at": "2026-11-17T17:15:54.099567+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 17:09:32 GMT",
+    "source": "BBC News",
+    "id": "941e05d68629cc2463efbcd1d198503a",
+    "fetched_at": "2026-11-17T17:15:52.974630+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+    "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:17:49 GMT",
+    "source": "BBC News",
+    "id": "67b05f21bc92a0cba3bc1d4b7844b2ad",
+    "fetched_at": "2026-11-17T17:15:51.844429+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 12:54:32 GMT",
+    "source": "BBC News",
+    "id": "b59e81fb35d960462b3f0f0dba03e83e",
+    "fetched_at": "2026-11-17T17:15:50.734973+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
     "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
     "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
@@ -228,375 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "19021495b172b08fa7ef248b04c44cca",
     "fetched_at": "2026-11-16T23:55:44.626483+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 16th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-evening",
-    "published": "Mon, 16 Nov 2026 18:00:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "2ab91c73729ae504c079f6d912a6fd1a",
-    "fetched_at": "2026-11-16T23:55:44.626482+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italian schools hit by new wave of bomb and poison threats",
-    "summary": "Under new security guidelines, Italian schools are no longer automatically evacuated in response to vague, mass-distributed threats, with the decision left to the discretion of law enforcement and security officials.",
-    "link": "https://www.euronews.com/2026/11/16/italian-schools-hit-by-new-wave-of-bomb-and-poison-threats",
-    "published": "Mon, 16 Nov 2026 18:41:21 +0100",
-    "source": "News | Euronews RSS",
-    "id": "af954206f72665b0c1b689a7d3852ae7",
-    "fetched_at": "2026-11-16T23:55:44.626480+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows rocket failure that destroys 40 Amazon satellites",
-    "summary": "A United Launch Alliance Vulcan rocket suffered an in-flight failure minutes after liftoff from Florida, leaving 40 Amazon internet satellites unable to reach orbit.",
-    "link": "https://www.euronews.com/2026/11/16/video-shows-rocket-failure-that-destroys-40-amazon-satellites",
-    "published": "Mon, 16 Nov 2026 20:29:53 +0100",
-    "source": "News | Euronews RSS",
-    "id": "2b3b0f1a194503bf9ce38fdaf6cd2e73",
-    "fetched_at": "2026-11-16T23:55:44.626478+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 14:58:12 GMT",
-    "source": "BBC News",
-    "id": "7addc4ff184dce223f0db1ba298a4cd7",
-    "fetched_at": "2026-11-16T23:55:44.626475+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
-    "summary": "Two African governments signed deals with Russia&apos;s Alabuga drone factory zone as a Ukrainian probe alleges deceptive recruitment of young African women.",
-    "link": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
-    "published": "Sun, 15 Nov 2026 09:00:46 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "acda5ef2a700ea6b767fbead0b79d040",
-    "fetched_at": "2026-11-16T23:55:44.626473+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
-    "summary": "Ukraine struck Vladimir Putin&apos;s prized Crimea bridge in what Russia called the war&apos;s largest drone attack, setting industrial facilities ablaze.",
-    "link": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
-    "published": "Mon, 16 Nov 2026 13:15:50 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "2ed7b6ff388419b584592e66addebd06",
-    "fetched_at": "2026-11-16T23:55:44.626471+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo XIV hit in the face by flying rosary during farewell Mass in Peru, video shows",
-    "summary": "Pope Leo XIV was struck near the eye by a rosary tossed at his popemobile in Lima, Peru, video shows, but the pontiff continued the farewell Mass.",
-    "link": "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows",
-    "published": "Mon, 16 Nov 2026 15:33:32 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "3f0691f8956eb00b351ad377f802ac9e",
-    "fetched_at": "2026-11-16T23:55:44.626469+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
-    "summary": "President Emmanuel Macron&apos;s France reportedly runs covert &quot;Volia&quot; mission training Ukrainian troops as Zelenskyy holds fresh peace talks with the US.",
-    "link": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
-    "published": "Mon, 16 Nov 2026 17:44:05 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "81f8d2915ee4b82c87b659ff5d404a9e",
-    "fetched_at": "2026-11-16T23:55:44.626438+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "What's Trump's strategy now with Iran? To keep things as they are",
-    "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-    "published": "Fri, 13 Nov 2026 14:02:04 -0500",
-    "source": "NPR Topics: World",
-    "id": "3864f13a8f03d63049dab460207c445e",
-    "fetched_at": "2026-11-16T23:55:43.482027+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-    "summary": "Sen. Chris Van Hollen told NPR's <em>Morning Edition</em> why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-    "published": "Mon, 16 Nov 2026 06:39:14 -0500",
-    "source": "NPR Topics: World",
-    "id": "35d7ef4875543e2f40dcc34012fe0464",
-    "fetched_at": "2026-11-16T23:55:42.353001+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-    "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-    "published": "Mon, 16 Nov 2026 13:04:50 -0500",
-    "source": "NPR Topics: World",
-    "id": "c212c653be773eca258703f0f6e5ad75",
-    "fetched_at": "2026-11-16T23:55:41.201772+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 01:47:57 GMT",
-    "source": "BBC News",
-    "id": "c621dae003c45dc3df83d580fb42675a",
-    "fetched_at": "2026-11-16T23:55:40.059099+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-    "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 15 Nov 2026 15:57:03 GMT",
-    "source": "BBC News",
-    "id": "b1fe230f725fd6759b843e36c033f791",
-    "fetched_at": "2026-11-16T23:55:38.905884+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-    "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
-    "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 21:12:13 GMT",
-    "source": "BBC News",
-    "id": "71dcb7db764360404a1926d0da857576",
-    "fetched_at": "2026-11-16T23:55:37.764176+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-    "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 19:30:30 GMT",
-    "source": "BBC News",
-    "id": "75b8060f9c8a4a0e9146ce19cd98552e",
-    "fetched_at": "2026-11-16T23:55:36.609846+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-    "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-    "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 12:42:14 GMT",
-    "source": "BBC News",
-    "id": "cf93439dac6679d4f3655cbf7252f70e",
-    "fetched_at": "2026-11-16T14:25:47.721292+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Two mass shootings in South Africa leave 17 dead",
-    "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 10:57:48 GMT",
-    "source": "BBC News",
-    "id": "3677167d1e94b4bf998f77531da5e744",
-    "fetched_at": "2026-11-16T14:25:47.721290+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-    "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 08:56:04 GMT",
-    "source": "BBC News",
-    "id": "7cdd3a5555164b504d6804a29e2fddc2",
-    "fetched_at": "2026-11-16T14:25:47.721288+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Man sentenced over 'horrific' attempted murder of three children",
-    "summary": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 12:27:15 GMT",
-    "source": "BBC News",
-    "id": "e95e65ced0a9bf6456a5ed1e15557982",
-    "fetched_at": "2026-11-16T14:25:47.721286+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-    "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 12:54:44 GMT",
-    "source": "BBC News",
-    "id": "75a9c08479fc932b14ab91c790330a38",
-    "fetched_at": "2026-11-16T14:25:47.721284+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Australian MP Helen Haines leaves hospital after losing both legs in alleged car attack",
-    "summary": "The attack has sparked much soul-searching in a country where political violence is rare but where police have documented a steady rise in threats towards elected officials.",
-    "link": "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack",
-    "published": "Mon, 16 Nov 2026 07:42:33 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9fd844150ad6591636c89b2679c079a4",
-    "fetched_at": "2026-11-16T14:25:47.721282+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "More than 2,000 migrants arrive in Spain’s Canary Islands in two days",
-    "summary": "Nearly 2,200 migrants reached Spain's Canary Islands in two days, with rescue teams assisting crowded boats off El Hierro.",
-    "link": "https://www.euronews.com/video/2026/11/16/more-than-2000-migrants-arrive-in-spains-canary-islands-in-two-days",
-    "published": "Mon, 16 Nov 2026 08:10:36 +0100",
-    "source": "News | Euronews RSS",
-    "id": "90a66917b0b37de1b0d48e3a0dcdeef0",
-    "fetched_at": "2026-11-16T14:25:47.721280+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Peruvians honour Pope Leo XIV with procession through Lima",
-    "summary": "In Peru, crowds escort the Lord of Miracles through Lima while Catholics camp outside Las Palmas Air Base ahead of Pope Leo XIV's final Mass.",
-    "link": "https://www.euronews.com/video/2026/11/16/peruvians-honour-pope-leo-xiv-with-procession-through-lima",
-    "published": "Mon, 16 Nov 2026 09:55:08 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9c17bc2f6481723dc45ad273664acfa7",
-    "fetched_at": "2026-11-16T14:25:47.721278+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Israeli opposition chiefs denounce Netanyahu over 'attempted coup'",
-    "summary": "Netanyahu's main rival, former army chief of staff Gadi Eisenkot, wrote on Sunday that the caretaker prime minister \"cannot remain at the head of the government for a minute longer\".",
-    "link": "https://www.euronews.com/2026/11/16/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
-    "published": "Mon, 16 Nov 2026 09:58:46 +0100",
-    "source": "News | Euronews RSS",
-    "id": "3ee0f4323f6cb1c61d336d1f081f709a",
-    "fetched_at": "2026-11-16T14:25:47.721275+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Fewer students are traveling from abroad to study at US universities, new report shows",
-    "summary": "US campuses saw a 9% decrease in international enrolment this autumn compared to last year, according to a survey from the Institute of International Education.",
-    "link": "https://www.euronews.com/2026/11/16/fewer-students-are-traveling-from-abroad-to-study-at-us-universities-new-report-shows",
-    "published": "Mon, 16 Nov 2026 11:40:39 +0100",
-    "source": "News | Euronews RSS",
-    "id": "63cea075ce22d542e330dd7962b91752",
-    "fetched_at": "2026-11-16T14:25:47.721273+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 16th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-midday",
-    "published": "Mon, 16 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "cc29ef096e26264eba7ccf4a7ada63b1",
-    "fetched_at": "2026-11-16T14:25:47.721271+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Millions of red crabs begin annual migration on Australia’s Christmas Island",
-    "summary": "Millions of red crabs have begun their annual journey from Christmas Island’s forests to the coast, crossing roads and specially built bridges to reach the sea and breed.",
-    "link": "https://www.euronews.com/video/2026/11/16/millions-of-red-crabs-begin-annual-migration-on-australias-christmas-island",
-    "published": "Mon, 16 Nov 2026 12:18:41 +0100",
-    "source": "News | Euronews RSS",
-    "id": "c56e71386252a78d0d060fe8d60be95b",
-    "fetched_at": "2026-11-16T14:25:47.721269+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
-    "summary": "A sudden rise in Iranian attacks on ships in the Strait of Hormuz follows an increasing number of air strikes between the US and Iran, as both sides trade intensifying warning shots, bringing the region closer to a new all-out war, while a third US aircraft carrier arrives in the region.",
-    "link": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
-    "published": "Mon, 16 Nov 2026 12:42:16 +0100",
-    "source": "News | Euronews RSS",
-    "id": "759e65204b2a09b457af353e7cfe895f",
-    "fetched_at": "2026-11-16T14:25:47.721266+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US airports slowly return to normal after three days of disruption caused by take-off ban",
-    "summary": "Throughout the weekend, stranded passengers wandered through chaotic airports and sat on floors, waiting for updates or to be rebooked.",
-    "link": "https://www.euronews.com/2026/11/16/us-airports-slowly-return-to-normal-after-three-days-of-disruption-caused-by-take-off-ban",
-    "published": "Mon, 16 Nov 2026 13:11:16 +0100",
-    "source": "News | Euronews RSS",
-    "id": "19c5283ce2b1962401377c507b57e2aa",
-    "fetched_at": "2026-11-16T14:25:47.721264+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moulin Rouge dancers kick off Paris Christmas celebrations",
-    "summary": "Moulin Rouge dancers and Republican Guard musicians launch Christmas lights in Paris, France, with a French cancan performance near the Madeleine church.",
-    "link": "https://www.euronews.com/video/2026/11/16/moulin-rouge-dancers-kick-off-paris-christmas-celebrations",
-    "published": "Mon, 16 Nov 2026 15:04:49 +0100",
-    "source": "News | Euronews RSS",
-    "id": "8118cb93042ed00813c5f500345f2421",
-    "fetched_at": "2026-11-16T14:25:47.721261+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-    "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 14 Nov 2026 18:00:10 GMT",
-    "source": "BBC News",
-    "id": "ab3b520e2fa6af132a786ec1b706ccbf",
-    "fetched_at": "2026-11-16T14:25:47.721258+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy fines Meta €805m over accessing users' photos",
-    "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 14 Nov 2026 18:28:06 GMT",
-    "source": "BBC News",
-    "id": "8fdb9c30ac57eea179e2af08bfa7282f",
-    "fetched_at": "2026-11-16T14:25:47.721256+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 13:40:56 GMT",
-    "source": "BBC News",
-    "id": "8e1c3d2059a27617a178573910399b40",
-    "fetched_at": "2026-11-16T14:25:47.721252+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Two Americans drown after Caribbean current pulls them out to sea",
-    "summary": "Two American tourists drowned off Birimi island after swimming beyond a warning sign area and being swept out by a strong current, Bahamas police said.",
-    "link": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say",
-    "published": "Sat, 14 Nov 2026 13:42:12 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "778b1948905728c1953935919bc6d6bb",
-    "fetched_at": "2026-11-16T14:25:47.721224+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
-    "summary": "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation.",
-    "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
-    "published": "Sat, 14 Nov 2026 19:51:47 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "4abb5dfb7638cd5c2194363da220e69c",
-    "fetched_at": "2026-11-16T14:25:46.640667+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Spain's Canary Islands flooded by thousands of migrants as country declares emergency",
-    "summary": "Spain&apos;s Canary Islands processed over 2,200 migrants in two days as violent protests over housing costs and skyrocketing rents erupted nationwide.",
-    "link": "https://www.foxnews.com/world/spain-canary-islands-flooded-thousands-migrants-country-declares-emergency",
-    "published": "Mon, 16 Nov 2026 08:39:43 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "21e8717c511d41155253d8846adc75cc",
-    "fetched_at": "2026-11-16T14:25:45.558826+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-    "published": "Mon, 16 Nov 2026 05:00:00 -0500",
-    "source": "NPR Topics: World",
-    "id": "9fcc67e10dc40ce81d6b9f4f3f005f5e",
-    "fetched_at": "2026-11-16T14:25:44.474101+00:00"
   }
 ]
