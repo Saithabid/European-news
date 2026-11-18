@@ -1,6 +1,396 @@
 [
   {
     "region": "Europe",
+    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 17:34:25 GMT",
+    "source": "BBC News",
+    "id": "5a5d562f5d22b38f21095e39bca2f14d",
+    "fetched_at": "2026-11-18T18:32:01.937312+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 13:04:48 GMT",
+    "source": "BBC News",
+    "id": "2e7a375deae548feba277629b23733a4",
+    "fetched_at": "2026-11-18T18:32:01.937311+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 17:51:47 GMT",
+    "source": "BBC News",
+    "id": "e9c69912892c1040b87d75972a6188ff",
+    "fetched_at": "2026-11-18T18:32:01.937310+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump and Putin shake hands in first encounter since 2025",
+    "summary": "Donald Trump, Vladimir Putin and Xi Jinping are preparing for historic three-way talks in China, bringing the three leaders together in person for the first time.",
+    "link": "https://www.euronews.com/2026/11/18/trump-and-putin-shake-hands-in-first-encounter-since-2025",
+    "published": "Wed, 18 Nov 2026 14:13:00 +0100",
+    "source": "News | Euronews RSS",
+    "id": "6d992450c529bae92f326eb7a9834ad7",
+    "fetched_at": "2026-11-18T18:32:01.937308+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iraq pumps oil to Turkey again after 12 years to bypass Hormuz disruption",
+    "summary": "The line, which can carry up to 750,000 barrels a day, was shut in 2014 after attacks by the so-called Islamic State terrorist group, and Iraq and Turkey agreed in August on a one-year arrangement for shipments while talks on a longer deal continue.",
+    "link": "https://www.euronews.com/2026/11/18/iraq-pumps-oil-to-turkey-again-after-12-years-to-bypass-hormuz-disruption",
+    "published": "Wed, 18 Nov 2026 14:53:07 +0100",
+    "source": "News | Euronews RSS",
+    "id": "a5fd464ad9e960d0a87bc80ebeaf21a3",
+    "fetched_at": "2026-11-18T18:32:01.937307+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Baku, Tbilisi and Astana join forces to expand Middle Corridor as Belgian firms eye investment",
+    "summary": "Azerbaijan, Georgia and Kazakhstan have drawn up a joint plan to increase Middle Corridor freight capacity to around 30 million tonnes a year by 2029, as Belgian companies discuss a logistics hub in Kazakhstan and digital upgrades to the Asia-Europe trade route.",
+    "link": "https://www.euronews.com/2026/11/18/baku-tbilisi-and-astana-join-forces-to-expand-middle-corridor-as-belgian-firms-eye-investm",
+    "published": "Wed, 18 Nov 2026 15:14:22 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9814fd5b29dec8906fc64fb74b5c92e4",
+    "fetched_at": "2026-11-18T18:32:01.937306+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Iraqi court jails six French Islamic State members for life",
+    "summary": "More than 5,700 Islamic State detainees whom the US moved from Syria to Iraq are due to go on trial from Sunday, while rights groups question whether Iraq’s courts are fair.",
+    "link": "https://www.euronews.com/2026/11/18/iraqi-court-jails-six-french-islamic-state-members-for-life",
+    "published": "Wed, 18 Nov 2026 15:20:41 +0100",
+    "source": "News | Euronews RSS",
+    "id": "fed753b4b83fd48efc4d4ea3365d4eba",
+    "fetched_at": "2026-11-18T18:32:01.937305+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "GTA 6 countdown begins as billboards go up from Tokyo to Sydney",
+    "summary": "GTA VI fever grips Australia, Japan and New Zealand ahead of its 19 November release, with record downloads expected.",
+    "link": "https://www.euronews.com/video/2026/11/18/gta-6-countdown-begins-as-billboards-go-up-from-tokyo-to-sydney",
+    "published": "Wed, 18 Nov 2026 15:38:01 +0100",
+    "source": "News | Euronews RSS",
+    "id": "288286b16b3db512ae49b25c27c7d15e",
+    "fetched_at": "2026-11-18T18:32:01.937304+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Robots serve ice cream and coffee in China's tech hub",
+    "summary": "In Shenzhen, China, humanoid robots serve coffee and ice cream while AI developers use human-recorded movements to train machines for everyday jobs.",
+    "link": "https://www.euronews.com/video/2026/11/18/robots-serve-ice-cream-and-coffee-in-chinas-tech-hub",
+    "published": "Wed, 18 Nov 2026 16:20:22 +0100",
+    "source": "News | Euronews RSS",
+    "id": "6c7c71986f8fd1cf8935f184be6be7fb",
+    "fetched_at": "2026-11-18T18:32:01.937303+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Israeli military launches new operation on central Gaza despite ceasefire",
+    "summary": "The military says it is targeting Hamas infrastructure near two refugee camps, while Hamas has accused Israel of violating the truce in place since October 2025.",
+    "link": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire",
+    "published": "Wed, 18 Nov 2026 17:01:27 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9b6ddff1d994881bba58328d463195eb",
+    "fetched_at": "2026-11-18T18:32:01.937302+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Waymo pulls driverless taxis off US highways after California ban",
+    "summary": "Regulators called the robotaxis an \"imminent hazard\" after one tried to overtake police cars and three others drove into a live roadworks zone, just as the company prepares to expand into Europe.",
+    "link": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban",
+    "published": "Wed, 18 Nov 2026 17:55:30 +0100",
+    "source": "News | Euronews RSS",
+    "id": "49c960aa241d9b32d4399c4e2e1d5725",
+    "fetched_at": "2026-11-18T18:32:01.937301+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 18th, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-evening",
+    "published": "Wed, 18 Nov 2026 18:00:26 +0100",
+    "source": "News | Euronews RSS",
+    "id": "7fd8a22ca11389bb8d766598efb043a6",
+    "fetched_at": "2026-11-18T18:32:01.937300+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
+    "summary": "The New York Democrat secured 251 votes in favour and 11 against, but faces pressure from progressive lawmakers demanding commitments on healthcare, immigration and other key issues.",
+    "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
+    "published": "Wed, 18 Nov 2026 18:44:05 +0100",
+    "source": "News | Euronews RSS",
+    "id": "39df196ea1dc1a9c72b8fa0a1e4aca15",
+    "fetched_at": "2026-11-18T18:32:01.937299+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Former Spain midfielder Mata retires aged 38",
+    "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 10:12:46 GMT",
+    "source": "BBC News",
+    "id": "6db74130769a9e4a30bff7c583bfb68d",
+    "fetched_at": "2026-11-18T18:32:01.937297+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Budget Fiat 500s complete 4,000km Rome challenge",
+    "summary": "Stuart Bailey and a group of men took £500 Fiats from Heathrow to Rome in three days, raising £13,000.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d93zpnyxeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 16:24:04 GMT",
+    "source": "BBC News",
+    "id": "0483f1c447927c415d811168547e4618",
+    "fetched_at": "2026-11-18T18:32:01.937296+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+    "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 16:33:16 GMT",
+    "source": "BBC News",
+    "id": "a40bc5dff572e8852d99187e8e9409e5",
+    "fetched_at": "2026-11-18T18:32:01.937295+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+    "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 10:53:21 GMT",
+    "source": "BBC News",
+    "id": "97c59b4f1f7688a109c0ee4b692cac02",
+    "fetched_at": "2026-11-18T18:32:01.937294+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+    "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 15:39:57 GMT",
+    "source": "BBC News",
+    "id": "0ca3360d6a34deb27d86d497bb4cd547",
+    "fetched_at": "2026-11-18T18:32:01.937293+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+    "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+    "source": "BBC News",
+    "id": "7e417b8e5100b891f1c60d4b5f8cfbfc",
+    "fetched_at": "2026-11-18T18:32:01.937291+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+    "source": "BBC News",
+    "id": "dd668e3aac3abb44093233dffccb9e62",
+    "fetched_at": "2026-11-18T18:32:01.937290+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran targets US air base in Kuwait after US defensive strikes amid criticism from Gulf states",
+    "summary": "Iranian state media says Iran&apos;s army targeted U.S. assets at Ali Al Salem in Kuwait, as Kuwait&apos;s air defense intercepted hostile drone strikes.",
+    "link": "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states",
+    "published": "Wed, 18 Nov 2026 09:39:08 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "7c10d84bda299a4e94fc301d336a8889",
+    "fetched_at": "2026-11-18T18:32:01.937289+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "German chancellor warns Islamic immigrants, others to honor nation's Holocaust legacy or leave",
+    "summary": "Chancellor Friedrich Merz told Jewish athletes that immigrants from Islamic countries and elsewhere must honor Germany&apos;s Holocaust responsibility or leave the country.",
+    "link": "https://www.foxnews.com/world/german-chancellor-warns-islamic-immigrants-others-honor-nations-holocaust-legacy-leave",
+    "published": "Wed, 18 Nov 2026 10:51:03 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "98fb7c8afa8bd4c7db504a545169cd08",
+    "fetched_at": "2026-11-18T18:32:01.937288+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Protesters call for regime change in Iran following deadly crash that killed 13 oil and gas workers",
+    "summary": "Hundreds take to the streets in western Iran after 13 oil workers are killed, with demonstrations escalating into political protests against Tehran&apos;s leadership.",
+    "link": "https://www.foxnews.com/world/protesters-call-regime-change-iran-following-deadly-crash-killed-13-oil-gas-workers",
+    "published": "Wed, 18 Nov 2026 11:17:58 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "7da3501e41fa0cdb6d896ebf4f79e645",
+    "fetched_at": "2026-11-18T18:32:01.937286+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Rare anti-government protests erupt in Iran over workers' deaths",
+    "summary": "Hundreds of Iranians chanted &quot;Death to the dictator!&quot; in Abdanan after a bus crash killed 13 oil refinery employees, with at least seven people arrested.",
+    "link": "https://www.foxnews.com/world/rare-anti-government-protests-erupt-iran-workers-deaths",
+    "published": "Wed, 18 Nov 2026 11:20:00 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "bb5cda127142084d2c82e8ff2ae71d20",
+    "fetched_at": "2026-11-18T18:32:01.937285+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+    "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+    "published": "Wed, 18 Nov 2026 04:43:28 -0500",
+    "source": "NPR Topics: World",
+    "id": "56ba6c9157c4bc72008c2330ab126923",
+    "fetched_at": "2026-11-18T18:32:01.937283+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+    "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+    "published": "Wed, 18 Nov 2026 04:43:44 -0500",
+    "source": "NPR Topics: World",
+    "id": "7e859e4d278968a45b3edc5a1d1ddda3",
+    "fetched_at": "2026-11-18T18:32:01.937281+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
+    "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+    "published": "Wed, 18 Nov 2026 05:00:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "d8c63953fd7c4bb92170bd02452856e1",
+    "fetched_at": "2026-11-18T18:32:01.937280+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+    "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+    "published": "Wed, 18 Nov 2026 05:00:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "24f54b3fd0d8ea17125e3ce4efe4f6a8",
+    "fetched_at": "2026-11-18T18:32:01.937277+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+    "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+    "published": "Wed, 18 Nov 2026 05:32:03 -0500",
+    "source": "NPR Topics: World",
+    "id": "975a6ceec6fc56309ccf2f0d84194ddc",
+    "fetched_at": "2026-11-18T18:32:01.937274+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+    "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "published": "Wed, 18 Nov 2026 06:00:00 -0500",
+    "source": "NPR Topics: World",
+    "id": "e60f1aba39a1fd242dc33532b7f15700",
+    "fetched_at": "2026-11-18T18:32:01.937272+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
+    "summary": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
+    "published": "Wed, 18 Nov 2026 06:57:06 -0500",
+    "source": "NPR Topics: World",
+    "id": "a468c8a8a1c94d804d9d86e358a0dfed",
+    "fetched_at": "2026-11-18T18:32:01.937270+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+    "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+    "published": "Wed, 18 Nov 2026 06:57:10 -0500",
+    "source": "NPR Topics: World",
+    "id": "1785c614f0138be2e3e6b5431889bf63",
+    "fetched_at": "2026-11-18T18:32:01.937237+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "published": "Wed, 18 Nov 2026 07:14:28 -0500",
+    "source": "NPR Topics: World",
+    "id": "481762c5c8be9a09671245167f0cfce7",
+    "fetched_at": "2026-11-18T18:32:00.807455+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+    "summary": "On NPR's <em>Morning Edition</em>, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+    "published": "Wed, 18 Nov 2026 13:15:59 -0500",
+    "source": "NPR Topics: World",
+    "id": "bd580824f9023506efc0d4f3dd9b3087",
+    "fetched_at": "2026-11-18T18:31:59.565142+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
+    "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 14:35:18 GMT",
+    "source": "BBC News",
+    "id": "67b05f21bc92a0cba3bc1d4b7844b2ad",
+    "fetched_at": "2026-11-18T18:31:58.445522+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 13:55:14 GMT",
+    "source": "BBC News",
+    "id": "847fc3b7d42c8e895cbbaa48cc774a19",
+    "fetched_at": "2026-11-18T18:31:57.234971+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+    "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 16:05:26 GMT",
+    "source": "BBC News",
+    "id": "15758005a920adc3b9040d4a91c06b6e",
+    "fetched_at": "2026-11-18T18:31:56.084052+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 17:34:23 GMT",
+    "source": "BBC News",
+    "id": "e01856a08c4b0f0f9b8f06e2aed18d5f",
+    "fetched_at": "2026-11-18T18:31:54.943035+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+    "source": "BBC News",
+    "id": "d5e34963a66d0ab023b0faaef96b320e",
+    "fetched_at": "2026-11-18T18:31:53.745608+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Ghana's new $60m presidential jet sparks public outrage",
     "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
     "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
@@ -208,395 +598,5 @@
     "source": "BBC News",
     "id": "9c83373bd004557bd7dcce8624ac55d8",
     "fetched_at": "2026-11-18T00:19:15.089592+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Thomas Markle charged over child sex abuse material in Philippines",
-    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 22:44:15 GMT",
-    "source": "BBC News",
-    "id": "01db04f7ef9072dce9aa256a1d63a0d6",
-    "fetched_at": "2026-11-18T00:19:15.089590+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Beyond the green premium: Competitive advantage through decarbonization",
-    "summary": "'The opportunities that decarbonization offers have never been greater', explains Noam Boussidan, Head of the First Movers Coalition, in an op-ed for Euronews. In stable conditions, fossil-based inputs may look cheaper, but that advantage is quickly lost when supply is disrupted or prices spike.",
-    "link": "https://www.euronews.com/2026/11/17/beyond-the-green-premium-competitive-advantage-through-decarbonization",
-    "published": "Tue, 17 Nov 2026 18:35:33 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9660655fe6b4d21491d54a6ebd3d9ac5",
-    "fetched_at": "2026-11-18T00:19:15.089589+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New anti-regime protests erupt in flashpoint Iranian city",
-    "summary": "A protest sparked by a deadly bus crash in a western Iranian city turned into a new anti-regime protest with hundreds chanting \"Death to the dictator.\"",
-    "link": "https://www.euronews.com/2026/11/17/new-anti-regime-protests-erupt-in-flashpoint-iranian-city",
-    "published": "Tue, 17 Nov 2026 20:06:03 +0100",
-    "source": "News | Euronews RSS",
-    "id": "59c29a5bd5742e4f891b6e67a8329908",
-    "fetched_at": "2026-11-18T00:19:15.089587+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
-    "summary": "Iran says the US military carried out several attacks on Qeshm Island in southern Iran, while at least five ships were set on fire by mines in the Strait of Hormuz earlier in the day.",
-    "link": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz",
-    "published": "Tue, 17 Nov 2026 21:54:43 +0100",
-    "source": "News | Euronews RSS",
-    "id": "32ab2f5d8cc3111da688079ac35f1594",
-    "fetched_at": "2026-11-18T00:19:15.089586+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dead Melbourne Cup racehorse found dumped in Sydney waste facility",
-    "summary": "REC Equine Specialists said So You Are had been euthanised before being collected by a \"contracted provider\" and taken to a \"licensed landfill.\" The practice has apologised and said the horse should have been \"promptly and respectfully buried.\"",
-    "link": "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility",
-    "published": "Tue, 17 Nov 2026 22:10:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "dc14dc3f717d081268601363cbcb1c27",
-    "fetched_at": "2026-11-18T00:19:15.089584+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five viral moments from Pope Leo XIV's South American tour",
-    "summary": "Pope Leo XIV's South American tour brought several memorable moments, from an unexpected encounter with a flying rosary bracelet to a helicopter journey into Peru's remote Andes.",
-    "link": "https://www.euronews.com/2026/11/17/five-viral-moments-from-pope-leo-xivs-south-american-tour",
-    "published": "Tue, 17 Nov 2026 23:10:25 +0100",
-    "source": "News | Euronews RSS",
-    "id": "5de0e3cdd92300c1cb6eab3589d40996",
-    "fetched_at": "2026-11-18T00:19:15.089582+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US criticises Ukraine's 'deep strike' campaign against Russia",
-    "summary": "German Defence Minister Boris Pistorius called the US' warning \"quite a stupid thing,\" while his British counterpart Wes Streeting said there was \"no doubt\" in his mind that Ukraine's long-range strikes had \"helped to degrade Putin's war machine.\"",
-    "link": "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia",
-    "published": "Tue, 17 Nov 2026 23:34:29 +0100",
-    "source": "News | Euronews RSS",
-    "id": "db9ba2ef27f77d8911b2b68c88d1c8d6",
-    "fetched_at": "2026-11-18T00:19:15.089581+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 13:40:56 GMT",
-    "source": "BBC News",
-    "id": "8e1c3d2059a27617a178573910399b40",
-    "fetched_at": "2026-11-18T00:19:15.089579+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Five EU countries announce migrant deportation centre in Rwanda",
-    "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 16 Nov 2026 23:20:45 GMT",
-    "source": "BBC News",
-    "id": "75a9c08479fc932b14ab91c790330a38",
-    "fetched_at": "2026-11-18T00:19:15.089578+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian military plane crashes, killing all 19 on board",
-    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 21:06:11 GMT",
-    "source": "BBC News",
-    "id": "226a2d946756a91a689cf06ee6e051e1",
-    "fetched_at": "2026-11-18T00:19:15.089577+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Who to watch in Spain's election race",
-    "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 18:13:45 GMT",
-    "source": "BBC News",
-    "id": "a662594684defb7d7986302a85860da7",
-    "fetched_at": "2026-11-18T00:19:15.089574+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 17:19:57 GMT",
-    "source": "BBC News",
-    "id": "baf9100e9e8d53f366d41d4664703bff",
-    "fetched_at": "2026-11-18T00:19:15.089572+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ukraine releases video showing damage to Putin's prized bridge following 'unprecedented operation' in Crimea",
-    "summary": "Videos released by Ukrainian authorities show part of a key bridge in Crimea missing after the Kremlin claimed a drone attack only caused minor damage.",
-    "link": "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea",
-    "published": "Tue, 17 Nov 2026 12:15:42 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "12b748f2bc359f76dfae2bf614e1bf24",
-    "fetched_at": "2026-11-18T00:19:15.089570+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Ex-hostage recounts captivity in Iran-backed militia stronghold now targeted by Iraqi prime minister",
-    "summary": "Israeli-Russian researcher Elizabeth Tsurkov describes where Iran-backed Iraqi terrorists held her captive for months as Iraq&apos;s Trump-backed prime minister orders a crackdown on the militia.",
-    "link": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
-    "published": "Tue, 17 Nov 2026 13:04:00 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "41ae59505f5b879758c7d1978c03123d",
-    "fetched_at": "2026-11-18T00:19:15.089567+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Vance’s midterm blame game hits snag as Trump’s own Israel ambassador disputes key claim",
-    "summary": "Mike Huckabee rejects JD Vance&apos;s claim that Israel cost Republicans the midterms, blaming voter apathy and low evangelical turnout for the GOP defeat.",
-    "link": "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim",
-    "published": "Tue, 17 Nov 2026 14:52:03 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "485d236a312d610739d6a3029cbbe3a9",
-    "fetched_at": "2026-11-18T00:19:15.089507+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-    "summary": "U.S. jets struck an IRGC missile site on Iran’s Qeshm Island Tuesday in self-defense, officials told Fox News.",
-    "link": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island",
-    "published": "Tue, 17 Nov 2026 15:32:27 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "ea71652676bac523b2ea8f72a8291ead",
-    "fetched_at": "2026-11-18T00:19:13.904630+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Europe assassination scheme emerges as Iran denies DC 'dirty bomb' plot amid Trump warning",
-    "summary": "President Donald Trump warned Iran would pay a price like no other as Tehran&apos;s deputy foreign minister called the chemical weapons report a &quot;shameful lie.&quot;",
-    "link": "https://www.foxnews.com/world/europe-assassination-scheme-emerges-iran-denies-dirty-bomb-plot-amid-trump-warning",
-    "published": "Tue, 17 Nov 2026 17:28:42 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "d04a44173a1a1407af26a85bfaa3a2ea",
-    "fetched_at": "2026-11-18T00:19:12.733321+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-    "summary": "Sen. Chris Van Hollen told NPR's <em>Morning Edition</em> why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-    "published": "Mon, 16 Nov 2026 06:39:14 -0500",
-    "source": "NPR Topics: World",
-    "id": "35d7ef4875543e2f40dcc34012fe0464",
-    "fetched_at": "2026-11-18T00:19:11.568610+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-    "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-    "published": "Mon, 16 Nov 2026 13:04:50 -0500",
-    "source": "NPR Topics: World",
-    "id": "c212c653be773eca258703f0f6e5ad75",
-    "fetched_at": "2026-11-18T00:19:10.368815+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-    "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-    "published": "Tue, 17 Nov 2026 13:34:31 -0500",
-    "source": "NPR Topics: World",
-    "id": "19e502fde38601f60bb449413335ee98",
-    "fetched_at": "2026-11-18T00:19:09.237953+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-    "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-    "published": "Tue, 17 Nov 2026 17:41:53 -0500",
-    "source": "NPR Topics: World",
-    "id": "5ded417eeda533a8061193c601e8e7cb",
-    "fetched_at": "2026-11-18T00:19:07.901764+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-    "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 23:03:39 GMT",
-    "source": "BBC News",
-    "id": "438fa12620a95d795eb7a55df089e114",
-    "fetched_at": "2026-11-18T00:19:06.722981+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-    "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 11:17:32 GMT",
-    "source": "BBC News",
-    "id": "e3240b03647653eda9926c83df43cd97",
-    "fetched_at": "2026-11-17T17:15:58.510101+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "BBC reports from Kyiv bridge hit by Russian attack",
-    "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 15:54:15 GMT",
-    "source": "BBC News",
-    "id": "8caf1212e6d8f16ca0658ec2143b0b47",
-    "fetched_at": "2026-11-17T17:15:58.510099+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 09:27:44 GMT",
-    "source": "BBC News",
-    "id": "adc33b2dccf4ba738bd5ef662d80eb66",
-    "fetched_at": "2026-11-17T17:15:58.510097+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 15:36:11 GMT",
-    "source": "BBC News",
-    "id": "66b1f531c0354751b462f8004f206c07",
-    "fetched_at": "2026-11-17T17:15:58.510096+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Kim Jong Un tours ski resort with wife and daughter",
-    "summary": "North Korea's Kim Jong Un tours a ski resort in Samjiyon with his family, smiling and smoking in photos.",
-    "link": "https://www.euronews.com/video/2026/11/17/kim-jong-un-tours-ski-resort-with-wife-and-daughter",
-    "published": "Tue, 17 Nov 2026 11:30:46 +0100",
-    "source": "News | Euronews RSS",
-    "id": "49b348d53acbb9c63e3299c1abf700a7",
-    "fetched_at": "2026-11-17T17:15:58.510094+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 17th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-midday",
-    "published": "Tue, 17 Nov 2026 12:00:15 +0100",
-    "source": "News | Euronews RSS",
-    "id": "b3f8f79af37bd6a4ecadbe2b4dc86694",
-    "fetched_at": "2026-11-17T17:15:58.510093+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Moment Ukrainian drones strike the Kerch Bridge linking Crimea to Russia",
-    "summary": "Ukraine struck the Kerch Bridge linking Russia to annexed Crimea for a second consecutive night, forcing its closure. Ukrainian President Volodymyr Zelenskyy described the operation as unprecedented, saying it had been prepared over several weeks.",
-    "link": "https://www.euronews.com/2026/11/17/moment-ukrainian-drones-strike-the-kerch-bridge-linking-crimea-to-russia",
-    "published": "Tue, 17 Nov 2026 13:41:39 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9ce4f095d8671a585901d8eda633fe4b",
-    "fetched_at": "2026-11-17T17:15:58.510091+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
-    "summary": "Qatar warns the US and Iran to \"avoid any escalation\" as Iran's new attacks in Bahrain and its strikes on Gulf shipping are putting diplomacy under pressure. Qatar's foreign ministry announces new talks with Tehran, aiming to bridge the divide between US and Iran.",
-    "link": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran",
-    "published": "Tue, 17 Nov 2026 13:51:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "53447e033e7d4f6dde5690ada41b1781",
-    "fetched_at": "2026-11-17T17:15:58.510090+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Drivers battle blizzard conditions in England’s Yorkshire Dales",
-    "summary": "Early snow brings blizzard conditions to northern England, with drivers navigating treacherous roads and poor visibility across the Yorkshire Dales.",
-    "link": "https://www.euronews.com/video/2026/11/17/drivers-battle-blizzard-conditions-in-englands-yorkshire-dales",
-    "published": "Tue, 17 Nov 2026 14:00:08 +0100",
-    "source": "News | Euronews RSS",
-    "id": "7ccf18e1ce104a23775e1c7fc18a0b9e",
-    "fetched_at": "2026-11-17T17:15:58.510088+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'Absurd': France rejects claim its troops are directly participating in Ukraine war",
-    "summary": "Russia said on Tuesday it was aware of French troops deployed to Ukraine, calling it \"direct participation\" in the war and saying a message had been issued to Paris. France has rejected the claim troops are directly involved in fighting as \"absurd.\"",
-    "link": "https://www.euronews.com/2026/11/17/french-troops-deployed-on-secret-mission-in-ukraine-for-months-media-says",
-    "published": "Tue, 17 Nov 2026 14:12:31 +0100",
-    "source": "News | Euronews RSS",
-    "id": "5155880abe9f1fda76bb08cd685f85ed",
-    "fetched_at": "2026-11-17T17:15:58.510086+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Egypt pitches reforms and energy plans at World Economic Forum meeting",
-    "summary": "At a World Economic Forum meeting in Cairo, Egyptian President Abdel Fattah el-Sisi pledged to simplify business procedures and outlined plans for industry, energy and AI. The government is preparing a 2027–2030 economic programme to boost productivity and give private businesses a larger role.",
-    "link": "https://www.euronews.com/2026/11/17/egypt-pitches-reforms-and-energy-plans-at-world-economic-forum-meeting",
-    "published": "Tue, 17 Nov 2026 15:45:36 +0100",
-    "source": "News | Euronews RSS",
-    "id": "eaeed34b48465055988e31303006b7fa",
-    "fetched_at": "2026-11-17T17:15:58.510085+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Watch: today’s top No Comment videos from around the world",
-    "summary": "A robot pianist takes on a human musician in Italy, Pope Leo XIV has an unexpected encounter in Peru, and snow transforms the English countryside. Meanwhile, gamers compete for the European Tetris title in Denmark, while Kim Jong Un showcases North Korea's latest ski resort.",
-    "link": "https://www.euronews.com/video/2026/11/17/watch-todays-top-no-comment-videos-from-around-the-world",
-    "published": "Tue, 17 Nov 2026 16:00:30 +0100",
-    "source": "News | Euronews RSS",
-    "id": "002aef4bb6ba52d583706bcda6dd8bd9",
-    "fetched_at": "2026-11-17T17:15:58.510083+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Trump warns Iran over allegations of dirty bomb threat to Washington",
-    "summary": "Iran denied media reports based on US intelligence that it may be planning a dirty bomb attack in the US capital, with questions swirling about its actual intentions or real capabilities for such an act, but Trump issued a strong warning against Tehran \"because they happen to be crazy.\"",
-    "link": "https://www.euronews.com/2026/11/17/trump-warns-iran-over-allegations-of-dirty-bomb-threat-to-washington",
-    "published": "Tue, 17 Nov 2026 17:10:42 +0100",
-    "source": "News | Euronews RSS",
-    "id": "bb3e43a9d15c7945decce177135dc09a",
-    "fetched_at": "2026-11-17T17:15:58.510082+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 17th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-evening",
-    "published": "Tue, 17 Nov 2026 18:00:27 +0100",
-    "source": "News | Euronews RSS",
-    "id": "d02b6448a51c02d9aafad74dd6d348c9",
-    "fetched_at": "2026-11-17T17:15:58.510079+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Police ban protests near 10 schools and five universities in Paris",
-    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 15 Nov 2026 22:28:54 GMT",
-    "source": "BBC News",
-    "id": "df4e0d3f2c37005231cf154f8016086e",
-    "fetched_at": "2026-11-17T17:15:58.510078+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-    "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 07:44:17 GMT",
-    "source": "BBC News",
-    "id": "dc63976e8fc6778fafeedc75826011f1",
-    "fetched_at": "2026-11-17T17:15:58.510076+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Dozens injured after trains collide head-on in Prague",
-    "summary": "The low speed collision outside the Czech capital's main station triggered a massive emergency response.",
-    "link": "https://www.bbc.co.uk/news/articles/c6reg7r589nro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 11:48:09 GMT",
-    "source": "BBC News",
-    "id": "d7b9041dab26d11ed52fc625a7f176cd",
-    "fetched_at": "2026-11-17T17:15:58.510074+00:00"
   }
 ]
