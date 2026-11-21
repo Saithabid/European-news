@@ -1,6 +1,186 @@
 [
   {
     "region": "Europe",
+    "title": "Trafalgar Square Christmas tree felled in Norway",
+    "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 08:10:03 GMT",
+    "source": "BBC News",
+    "id": "97ab0143dff9f835f6ac7a926424604c",
+    "fetched_at": "2026-11-21T09:01:03.801097+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Man convicted of starting Palisades fire in Los Angeles",
+    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 04:34:00 GMT",
+    "source": "BBC News",
+    "id": "8ab0570f108d8939d99fae367c049385",
+    "fetched_at": "2026-11-21T09:01:03.801096+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 07:31:05 GMT",
+    "source": "BBC News",
+    "id": "173194a69fb28bf36112cc76851365c6",
+    "fetched_at": "2026-11-21T09:01:03.801095+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 06:00:09 GMT",
+    "source": "BBC News",
+    "id": "c98b1787bd1997d513c1af5dfe64c72b",
+    "fetched_at": "2026-11-21T09:01:03.801094+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+    "source": "BBC News",
+    "id": "b62083d88ed83d9b6345561163d771d0",
+    "fetched_at": "2026-11-21T09:01:03.801093+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Latest news bulletin | November 21st, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "link": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-morning",
+    "published": "Sat, 21 Nov 2026 07:00:32 +0100",
+    "source": "News | Euronews RSS",
+    "id": "6bd465fe36a8dde26221a56e88de18e9",
+    "fetched_at": "2026-11-21T09:01:03.801092+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Putin a 'killer,' Zelenskyy says after Trump calls Russian leader his 'friend'",
+    "summary": "It comes after Russian forces launched a major wave of strikes against Ukraine from Thursday night into Friday morning, killing at least seven people in Kyiv and damaging key bridges across the Dnipro River.",
+    "link": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
+    "published": "Sat, 21 Nov 2026 08:07:09 +0100",
+    "source": "News | Euronews RSS",
+    "id": "f9a8c6a231cc01ffc3f829ac0d8667d0",
+    "fetched_at": "2026-11-21T09:01:03.801090+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Second judge blocks construction of Trump's massive 'triumphal arch'",
+    "summary": "Trump, who has embarked on a campaign to remodel Washington since his return to the White House in January 2025, has said the structure would be turned into a \"top grade military complex.\"",
+    "link": "https://www.euronews.com/2026/11/21/second-judge-blocks-construction-of-trumps-massive-triumphal-arch",
+    "published": "Sat, 21 Nov 2026 09:01:28 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5a3e7569a702dff2c138029f39e7672d",
+    "fetched_at": "2026-11-21T09:01:03.801088+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Fossil fuel row sees COP31 talks spill into overtime",
+    "summary": "A number of countries, including France and Panama, released a letter on Friday insisting that a deal include \"a clear transition away from fossil fuels.\"",
+    "link": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
+    "published": "Sat, 21 Nov 2026 09:56:33 +0100",
+    "source": "News | Euronews RSS",
+    "id": "aaaded523f2968cd840fe5ad35c058a9",
+    "fetched_at": "2026-11-21T09:01:03.801086+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 23:28:03 GMT",
+    "source": "BBC News",
+    "id": "61266b878572ee0a4ec7d7e89f899821",
+    "fetched_at": "2026-11-21T09:01:03.801083+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 00:50:24 GMT",
+    "source": "BBC News",
+    "id": "0c36d812a09f572d4c329cebdca0d600",
+    "fetched_at": "2026-11-21T09:01:03.801046+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "What does the new Brexit deal mean for Northern Ireland?",
+    "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 14:41:53 GMT",
+    "source": "BBC News",
+    "id": "c6bb739f29e8da56960817ae7c71686d",
+    "fetched_at": "2026-11-21T09:01:02.674272+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 13:01:16 GMT",
+    "source": "BBC News",
+    "id": "d07cd85ea690f003fca64f5a2441bb74",
+    "fetched_at": "2026-11-21T09:01:01.541796+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "The U.K. and EU hold a rare summit to strengthen ties",
+    "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+    "published": "Fri, 20 Nov 2026 04:14:41 -0500",
+    "source": "NPR Topics: World",
+    "id": "cb9a0eeee5ad5b2d18c8b1e158657cf9",
+    "fetched_at": "2026-11-21T09:01:00.425732+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+    "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+    "published": "Sat, 21 Nov 2026 03:08:01 -0500",
+    "source": "NPR Topics: World",
+    "id": "4f2f660d76e3e67888565ffdc6753c05",
+    "fetched_at": "2026-11-21T09:00:59.273675+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US declassifies more UFO footage filmed in the Middle East",
+    "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+    "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 23:15:20 GMT",
+    "source": "BBC News",
+    "id": "798a9fd334d62225aebb564f60ed8470",
+    "fetched_at": "2026-11-21T09:00:58.126508+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+    "summary": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 03:49:09 GMT",
+    "source": "BBC News",
+    "id": "a13064dcb4add980e4a6b71406587b09",
+    "fetched_at": "2026-11-21T09:00:56.974306+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 01:02:39 GMT",
+    "source": "BBC News",
+    "id": "5e7cb9364b3d2c5473c4cbe7926cd685",
+    "fetched_at": "2026-11-21T09:00:55.832528+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
     "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
@@ -418,185 +598,5 @@
     "source": "Latest World News on Fox News",
     "id": "73141140d9a9895efa94f97f0e7b8262",
     "fetched_at": "2026-11-20T18:12:02.274636+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund",
-    "summary": "A suspected Houthi missile strike hit the Saudi Public Investment Fund Tower in Riyadh, destroying windows across up to eight floors, reports said.",
-    "link": "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund",
-    "published": "Thu, 19 Nov 2026 13:32:17 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "5391bdaf0b60fd3f4b61192b8fd655de",
-    "fetched_at": "2026-11-20T18:12:02.274634+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia",
-    "summary": "The State Department calls for independent investigations after at least 34 people were killed in Ethiopia&apos;s Arsi Zone, most said to be Ethiopian Orthodox Christians.",
-    "link": "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia",
-    "published": "Fri, 20 Nov 2026 09:33:56 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "c97c637730b6be676e65722b1e211458",
-    "fetched_at": "2026-11-20T18:12:02.274633+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
-    "summary": "Hours after Vladimir Putin joined Donald Trump and Xi Jinping in China, Russia fired more than 400 drones and 110 missiles at Ukraine, killing at least eight.",
-    "link": "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
-    "published": "Fri, 20 Nov 2026 10:13:39 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "d7c0ca219996063459488001d2c57632",
-    "fetched_at": "2026-11-20T18:12:02.274631+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-    "summary": "On NPR's <em>Morning Edition</em>, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
-    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-    "published": "Wed, 18 Nov 2026 13:15:59 -0500",
-    "source": "NPR Topics: World",
-    "id": "bd580824f9023506efc0d4f3dd9b3087",
-    "fetched_at": "2026-11-20T18:12:02.274630+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-    "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-    "published": "Thu, 19 Nov 2026 04:44:40 -0500",
-    "source": "NPR Topics: World",
-    "id": "f348175535031a7f11b4f6d336ee1dcb",
-    "fetched_at": "2026-11-20T18:12:02.274628+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-    "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-    "published": "Thu, 19 Nov 2026 04:46:24 -0500",
-    "source": "NPR Topics: World",
-    "id": "eb99318a504622f333e4cb757201ec41",
-    "fetched_at": "2026-11-20T18:12:02.274626+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-    "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-    "published": "Thu, 19 Nov 2026 07:26:01 -0500",
-    "source": "NPR Topics: World",
-    "id": "06cf6a22e2dca9ab31fe3cd60dde21b4",
-    "fetched_at": "2026-11-20T18:12:02.274624+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-    "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-    "published": "Thu, 19 Nov 2026 07:29:41 -0500",
-    "source": "NPR Topics: World",
-    "id": "90f3bcda1bee30920dff7126beeea944",
-    "fetched_at": "2026-11-20T18:12:02.274622+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-    "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-    "published": "Fri, 20 Nov 2026 06:37:35 -0500",
-    "source": "NPR Topics: World",
-    "id": "d340eaa2d310d29265b3a1c5d3efa245",
-    "fetched_at": "2026-11-20T18:12:02.274620+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-    "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-    "published": "Fri, 20 Nov 2026 07:04:57 -0500",
-    "source": "NPR Topics: World",
-    "id": "6aff30d5eeebeaaf9e9cef3b28b261c1",
-    "fetched_at": "2026-11-20T18:12:02.274618+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Trump holds press conference after meeting with Xi and Putin",
-    "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "published": "Fri, 20 Nov 2026 10:00:00 -0500",
-    "source": "NPR Topics: World",
-    "id": "90c23d8b17b7753537e3f5a891baf90a",
-    "fetched_at": "2026-11-20T18:12:02.274580+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Analysis: Trilateral summit high on spectacle, short on substance",
-    "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 17:55:15 GMT",
-    "source": "BBC News",
-    "id": "27b51df6b1115c3c1ad690e35994fd36",
-    "fetched_at": "2026-11-20T18:12:01.177921+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "White House removes cyber-security chief after series of tech outages",
-    "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 13:28:32 GMT",
-    "source": "BBC News",
-    "id": "c5e60aca71c8400ef5ebb5c4b46f762c",
-    "fetched_at": "2026-11-20T18:12:00.031805+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Airbnb's divisive new house rules come into force",
-    "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 15:48:35 GMT",
-    "source": "BBC News",
-    "id": "ab8976d14e6ffc36ef01936d7b003754",
-    "fetched_at": "2026-11-20T18:11:58.907865+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
-    "summary": "The game's fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\".",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 16:29:18 GMT",
-    "source": "BBC News",
-    "id": "7dafb7f580311a9468826ba6abaf07b0",
-    "fetched_at": "2026-11-20T18:11:57.763198+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 17:54:37 GMT",
-    "source": "BBC News",
-    "id": "08cb41a7713fb305128d53241d0dc149",
-    "fetched_at": "2026-11-20T18:11:56.633305+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Texas death-row inmate screams as execution takes more than one hour",
-    "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 12:42:37 GMT",
-    "source": "BBC News",
-    "id": "2cca48a1a6464b5b16b2d5fe9f916460",
-    "fetched_at": "2026-11-20T18:11:55.509206+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-    "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 17:36:29 GMT",
-    "source": "BBC News",
-    "id": "427436e6cda2b4647623f416fb3f6dac",
-    "fetched_at": "2026-11-20T18:11:54.355239+00:00"
   }
 ]
