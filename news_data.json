@@ -1,6 +1,236 @@
 [
   {
     "region": "Europe",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 21:57:07 GMT",
+    "source": "BBC News",
+    "id": "54011d0c820e2de695b2f91ea094219c",
+    "fetched_at": "2026-11-21T01:00:05.495992+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+    "source": "BBC News",
+    "id": "9a2289013d534d1bb11f0483d2b95a24",
+    "fetched_at": "2026-11-21T01:00:05.495990+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
+    "summary": "Speaking at a White House following his trip to Asia, Trump defended his ties with Xi and Putin, claiming the Russian leader wanted to end the war in Ukraine through diplomacy. He also called for a \"real deal\" with Iran.",
+    "link": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
+    "published": "Fri, 20 Nov 2026 19:55:06 +0100",
+    "source": "News | Euronews RSS",
+    "id": "9e14b5c4585a47e8f523ad08ee227fd5",
+    "fetched_at": "2026-11-21T01:00:05.495988+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany intensifies engagement with South Caucasus as 'region of opportunities'",
+    "summary": "Germany's foreign minister visited Azerbaijan and Armenia to develop projects of “strategic importance to Europe both economically and politically,\" in the context of Russia's aggression against Ukraine and the economic situation in Europe.",
+    "link": "https://www.euronews.com/2026/11/20/germany-intensifies-engagement-with-south-caucasus-as-region-of-opportunities",
+    "published": "Fri, 20 Nov 2026 20:24:23 +0100",
+    "source": "News | Euronews RSS",
+    "id": "60c98083d290ecf59031b6ce0cd4e558",
+    "fetched_at": "2026-11-21T01:00:05.495986+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Video shows dramatic helicopter rescue of woman trapped in flood channel",
+    "summary": "Los Angeles County firefighters rescued a woman trapped in a fast-moving flood control channel using a helicopter and an airborne paramedic.",
+    "link": "https://www.euronews.com/2026/11/20/video-shows-dramatic-helicopter-rescue-of-woman-trapped-in-flood-channel",
+    "published": "Fri, 20 Nov 2026 22:18:14 +0100",
+    "source": "News | Euronews RSS",
+    "id": "5e2f3c138bbaf0566159472e21a4e69e",
+    "fetched_at": "2026-11-21T01:00:05.495984+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Germany: Berlin student protest targets rearmament and compulsory service",
+    "summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
+    "link": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
+    "published": "Fri, 20 Nov 2026 23:54:22 +0100",
+    "source": "News | Euronews RSS",
+    "id": "48dceb340226fb492505fb90ef7dd94a",
+    "fetched_at": "2026-11-21T01:00:05.495982+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 19:45:20 GMT",
+    "source": "BBC News",
+    "id": "5ecbec3f09b7718d6ecd38fac40a864a",
+    "fetched_at": "2026-11-21T01:00:05.495980+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:37:09 GMT",
+    "source": "BBC News",
+    "id": "1c7169b136005bdd0eb012b3a6f65eb4",
+    "fetched_at": "2026-11-21T01:00:05.495978+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+    "summary": "An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.",
+    "link": "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
+    "published": "Thu, 19 Nov 2026 06:30:05 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "949a8fb3febd93a18e4f9d85550391be",
+    "fetched_at": "2026-11-21T01:00:05.495977+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Syria's Christian leaders warn of 'grave' threat to community's future amid wave of attacks",
+    "summary": "Syria&apos;s top Christian leaders warn that escalating attacks, kidnappings and violence threaten their community&apos;s future, as the State Department voices concern over religious persecution.",
+    "link": "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks",
+    "published": "Thu, 19 Nov 2026 10:55:51 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "bc834ed3291fbb035579eaf78943d941",
+    "fetched_at": "2026-11-21T01:00:05.495975+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea",
+    "summary": "Russian President Vladimir Putin said I &quot;believe our response will be far more painful than what the Kyiv regime did&quot; to the Kerch Strait bridge this week.",
+    "link": "https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea",
+    "published": "Thu, 19 Nov 2026 12:48:56 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "07eeeaa1c8cd91adea6b9165ee171731",
+    "fetched_at": "2026-11-21T01:00:05.495973+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "China could exploit US technology to threaten American forces, congressional watchdog leaders warn",
+    "summary": "China could gain access to American chips and AI infrastructure without companies’ knowledge, congressional watchdog leaders warn, potentially advancing weapons that threaten U.S. forces.",
+    "link": "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn",
+    "published": "Thu, 19 Nov 2026 13:08:52 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "8fbb749137e5489c8cdc191700ba23b5",
+    "fetched_at": "2026-11-21T01:00:05.495970+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
+    "summary": "Two Iranian twin sisters allege the judge hearing their torture complaint was the official who assaulted them during interrogation, their cousin says.",
+    "link": "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
+    "published": "Thu, 19 Nov 2026 14:14:51 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "3b34a5f2927a71f067d19e17f5865a71",
+    "fetched_at": "2026-11-21T01:00:05.495968+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+    "summary": "Jared Kushner said Russia agreed to multilateral Ukraine war talks involving Europe after Zelenskyy urged the Trump administration to move quickly.",
+    "link": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+    "published": "Thu, 19 Nov 2026 18:20:13 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "29bd0664aeea9de71bad6a864829d57d",
+    "fetched_at": "2026-11-21T01:00:05.495965+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+    "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+    "published": "Thu, 19 Nov 2026 06:20:37 -0500",
+    "source": "NPR Topics: World",
+    "id": "0a16e0f95b8d981c3deab9ebdaccc1c1",
+    "fetched_at": "2026-11-21T01:00:05.495962+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Another day of survival for a family in Ukraine",
+    "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+    "published": "Fri, 20 Nov 2026 16:32:31 -0500",
+    "source": "NPR Topics: World",
+    "id": "3db2da2aa0b81b654480368b6a7fd1d0",
+    "fetched_at": "2026-11-21T01:00:05.495913+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+    "summary": "Trump's comments came a week after a historic ground stop halted flights in the US for hours.",
+    "link": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:50:38 GMT",
+    "source": "BBC News",
+    "id": "3a6368ab37e78537116bb1e2d9d900ce",
+    "fetched_at": "2026-11-21T01:00:04.331033+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 00:01:39 GMT",
+    "source": "BBC News",
+    "id": "0480dec44dc56dd47fa9bcc7e70a532c",
+    "fetched_at": "2026-11-21T01:00:03.186918+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+    "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+    "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 18:48:48 GMT",
+    "source": "BBC News",
+    "id": "9cc8d2e1a5a2cd0e885de579c4f1c3f0",
+    "fetched_at": "2026-11-21T01:00:02.035521+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+    "source": "BBC News",
+    "id": "2a8893f9c55d503bd48418beafcd4b7c",
+    "fetched_at": "2026-11-21T01:00:00.863488+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
+    "summary": "The location of the hat and the 2,400-pound animal's anatomy made removal unfeasible, the zoo said.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:14:33 GMT",
+    "source": "BBC News",
+    "id": "9f670e46666b8ab6c9c7550bfc1d73c0",
+    "fetched_at": "2026-11-21T00:59:59.693838+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+    "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
+    "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 21:40:45 GMT",
+    "source": "BBC News",
+    "id": "f6b7a68881eb0005b83bddd4b330589f",
+    "fetched_at": "2026-11-21T00:59:58.537432+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "source": "BBC News",
+    "id": "cc3c28b42118f8f9f7a6e55390910080",
+    "fetched_at": "2026-11-21T00:59:57.393455+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
     "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
     "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
@@ -368,235 +598,5 @@
     "source": "BBC News",
     "id": "427436e6cda2b4647623f416fb3f6dac",
     "fetched_at": "2026-11-20T18:11:54.355239+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Nigeria moves to end jail terms for attempted suicide",
-    "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 06:32:17 GMT",
-    "source": "BBC News",
-    "id": "24ea50f37af1892598397fef04539f8b",
-    "fetched_at": "2026-11-20T09:29:47.856323+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK and EU to agree youth mobility scheme, BBC understands",
-    "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 07:14:46 GMT",
-    "source": "BBC News",
-    "id": "a9f733f18fbeee7f5e9c26a6835ea4fe",
-    "fetched_at": "2026-11-20T09:29:47.856322+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US sells first deep-sea mining leases off American Samoa, days after court ruled against process",
-    "summary": "The Trump administration pressed ahead with the auction despite a federal judge’s finding that regulators broke wildlife protection law and conservation groups vowed to have the leases voided.",
-    "link": "https://www.euronews.com/2026/11/20/us-sells-first-deep-sea-mining-leases-off-american-samoa-days-after-court-ruled-against-pr",
-    "published": "Fri, 20 Nov 2026 06:19:16 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9320d3085ef807b2a5347a86e50a6709",
-    "fetched_at": "2026-11-20T09:29:47.856321+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Latest news bulletin | November 20th, 2026 – Morning",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "link": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-morning",
-    "published": "Fri, 20 Nov 2026 07:00:32 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9c941fdff43991bdee8f18578cfd5c5c",
-    "fetched_at": "2026-11-20T09:29:47.856319+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "White House national cyber director fired after wave of tech outages",
-    "summary": "The national cyber director is tasked with advising the president on cybersecurity policy and strategy, including information security and data protection as well as deterrence of \"malicious\" activity.",
-    "link": "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages",
-    "published": "Fri, 20 Nov 2026 08:03:40 +0100",
-    "source": "News | Euronews RSS",
-    "id": "4bb3af11bd7e89c0b599117c17b567f2",
-    "fetched_at": "2026-11-20T09:29:47.856318+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "217-day underwater patrol of UK's nuclear submarine HMS Vengeance worries experts",
-    "summary": "The Royal Navy's HMS Vengeance nuclear submarine has set a new record by completing a 217-day mission. For about seven months, the crew had almost no contact with the outside world.",
-    "link": "https://www.euronews.com/2026/11/20/217-day-underwater-patrol-of-uks-nuclear-submarine-hms-vengeance-worries-experts",
-    "published": "Fri, 20 Nov 2026 08:42:47 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ff84a4bb2e2c725279468cb2eaa7ed8c",
-    "fetched_at": "2026-11-20T09:29:47.856316+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Ukraine: Kyiv metro stations become overnight shelters amid air raids",
-    "summary": "Residents of Kyiv, Ukraine, sought refuge in underground metro stations overnight on Thursday 19 November 2026, as repeated air raid alerts warned of further Russian attacks on the capital. Strikes on the Ukrainian capital killed at least one person, injured five and damaged two embassies.",
-    "link": "https://www.euronews.com/video/2026/11/20/ukraine-kyiv-metro-stations-become-overnight-shelters-amid-air-raids",
-    "published": "Fri, 20 Nov 2026 09:06:11 +0100",
-    "source": "News | Euronews RSS",
-    "id": "0cb4a56b38b3466d257b01ad373b1480",
-    "fetched_at": "2026-11-20T09:29:47.856315+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Japan: The dark secret behind an island paradise full of rabbits",
-    "summary": "Hundreds of rabbits roam freely on Japan's Okunoshima Island, delighting visitors from around the world. But behind its idyllic scenery lies a troubling history of secret chemical weapons production.",
-    "link": "https://www.euronews.com/video/2026/11/20/japan-the-dark-secret-behind-an-island-paradise-full-of-rabbits",
-    "published": "Fri, 20 Nov 2026 09:28:27 +0100",
-    "source": "News | Euronews RSS",
-    "id": "115053a726ba2d5ce3e44e27e8e47b13",
-    "fetched_at": "2026-11-20T09:29:47.856313+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "US: Protesters demand human control over AI after Anthropic's IPO",
-    "summary": "Protesters gathered outside Anthropic’s San Francisco headquarters on 19 November 2026 to demand tighter regulation and greater human control over artificial intelligence, following the company’s $2 trillion stock market debut.",
-    "link": "https://www.euronews.com/video/2026/11/20/us-protesters-demand-human-control-over-ai-after-anthropics-ipo",
-    "published": "Fri, 20 Nov 2026 09:49:48 +0100",
-    "source": "News | Euronews RSS",
-    "id": "ec6c4fd0774d737a7522eab7433e75ba",
-    "fetched_at": "2026-11-20T09:29:47.856311+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Video shows isolated Awá Indigenous people make contact with government team in Brazil",
-    "summary": "Around 20 members of Brazil’s isolated Awá Indigenous group have approached a government outpost in the Amazon, asking for yams before returning to the forest. The rare encounter has raised concerns about their health and possible food shortages.",
-    "link": "https://www.euronews.com/2026/11/20/video-shows-isolated-awa-indigenous-people-make-contact-with-government-team-in-brazil",
-    "published": "Fri, 20 Nov 2026 10:17:17 +0100",
-    "source": "News | Euronews RSS",
-    "id": "9af63c2a4b9d4a0789761373da2101d5",
-    "fetched_at": "2026-11-20T09:29:47.856309+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian military plane crashes, killing all 19 on board",
-    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 21:06:11 GMT",
-    "source": "BBC News",
-    "id": "226a2d946756a91a689cf06ee6e051e1",
-    "fetched_at": "2026-11-20T09:29:47.856307+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 18 Nov 2026 23:28:03 GMT",
-    "source": "BBC News",
-    "id": "61266b878572ee0a4ec7d7e89f899821",
-    "fetched_at": "2026-11-20T09:29:47.856305+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-    "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 00:49:19 GMT",
-    "source": "BBC News",
-    "id": "7039cd93e407358de4a391a7cfad4baa",
-    "fetched_at": "2026-11-20T09:29:47.856264+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New EU-UK deal should reduce 'Irish Sea border' impact",
-    "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 09:15:34 GMT",
-    "source": "BBC News",
-    "id": "c6bb739f29e8da56960817ae7c71686d",
-    "fetched_at": "2026-11-20T09:29:46.725053+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Three Kyiv bridges hit during major Russian missile attack",
-    "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 09:29:11 GMT",
-    "source": "BBC News",
-    "id": "d07cd85ea690f003fca64f5a2441bb74",
-    "fetched_at": "2026-11-20T09:29:45.567600+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
-    "summary": "Thousands marched in Haiti to thank Nayib Bukele for sending troops to battle violent gangs, prompting an emotional response from the Salvadoran president.",
-    "link": "https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown",
-    "published": "Wed, 18 Nov 2026 21:12:36 -0500",
-    "source": "Latest World News on Fox News",
-    "id": "9f247130e68f41a4429dd477e5790a25",
-    "fetched_at": "2026-11-20T09:29:44.416424+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.K. and EU hold a rare summit to strengthen ties",
-    "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-    "published": "Fri, 20 Nov 2026 04:14:41 -0500",
-    "source": "NPR Topics: World",
-    "id": "cb9a0eeee5ad5b2d18c8b1e158657cf9",
-    "fetched_at": "2026-11-20T09:29:43.296049+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US army warns detonation of unstable explosives will create toxic plume",
-    "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 01:27:27 GMT",
-    "source": "BBC News",
-    "id": "caa4611820aa1257dd2c82cb34987271",
-    "fetched_at": "2026-11-20T09:29:42.158755+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "GTA 6 breaks records as estimated sales top $2.3bn",
-    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 02:54:40 GMT",
-    "source": "BBC News",
-    "id": "f6c44cb4d98b385147dc40359c969154",
-    "fetched_at": "2026-11-20T09:29:41.043314+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Why Canada is embracing AI data centres while the US pushes back",
-    "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:13:24 GMT",
-    "source": "BBC News",
-    "id": "b8f828cded7206a555ee0f7334f9c8e6",
-    "fetched_at": "2026-11-20T09:29:39.873657+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:50:24 GMT",
-    "source": "BBC News",
-    "id": "0c36d812a09f572d4c329cebdca0d600",
-    "fetched_at": "2026-11-20T01:34:15.843088+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-    "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:13:21 GMT",
-    "source": "BBC News",
-    "id": "ba884fb7daba647b5692a18062776006",
-    "fetched_at": "2026-11-20T01:34:15.843086+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "New regional security architecture will also benefit Europe, Pakistani FM tells Euronews",
-    "summary": "In an exclusive interview for Euronews’ World Conversation show, Pakistan’s deputy prime minister revealed the backstage efforts that led to the US-Israel agreement to end the war in June. He also outlined Pakistan's strategy towards a new regional security architecture in coordination with Europe.",
-    "link": "https://www.euronews.com/2026/11/19/new-regional-security-architecture-will-also-benefit-europe-pakistani-fm-tells-euronews",
-    "published": "Thu, 19 Nov 2026 20:17:35 +0100",
-    "source": "News | Euronews RSS",
-    "id": "154ff71f04ec054404a99e40b0a91ab7",
-    "fetched_at": "2026-11-20T01:34:15.843085+00:00"
   }
 ]
