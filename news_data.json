@@ -1,6 +1,86 @@
 [
   {
     "region": "Europe",
+    "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
+    "summary": "A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse. The attack killed two people and injured at least 10 others.",
+    "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+    "published": "Sun, 22 Nov 2026 00:05:47 +0100",
+    "source": "News | Euronews RSS",
+    "id": "b730538a9c5837df5402f858befcb27c",
+    "fetched_at": "2026-11-22T04:25:46.253115+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 19:45:20 GMT",
+    "source": "BBC News",
+    "id": "5ecbec3f09b7718d6ecd38fac40a864a",
+    "fetched_at": "2026-11-22T04:25:45.139452+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 10:26:36 GMT",
+    "source": "BBC News",
+    "id": "54011d0c820e2de695b2f91ea094219c",
+    "fetched_at": "2026-11-22T04:25:43.998045+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:37:09 GMT",
+    "source": "BBC News",
+    "id": "1c7169b136005bdd0eb012b3a6f65eb4",
+    "fetched_at": "2026-11-22T04:25:42.842086+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
+    "summary": "Two Iranian twin sisters allege the judge hearing their torture complaint was the official who assaulted them during interrogation, their cousin says.",
+    "link": "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture",
+    "published": "Thu, 19 Nov 2026 14:14:51 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "3b34a5f2927a71f067d19e17f5865a71",
+    "fetched_at": "2026-11-22T04:25:41.729801+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
+    "summary": "Jared Kushner said Russia agreed to multilateral Ukraine war talks involving Europe after Zelenskyy urged the Trump administration to move quickly.",
+    "link": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
+    "published": "Thu, 19 Nov 2026 18:20:13 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "29bd0664aeea9de71bad6a864829d57d",
+    "fetched_at": "2026-11-22T04:25:40.574623+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Another day of survival for a family in Ukraine",
+    "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+    "published": "Fri, 20 Nov 2026 16:32:31 -0500",
+    "source": "NPR Topics: World",
+    "id": "3db2da2aa0b81b654480368b6a7fd1d0",
+    "fetched_at": "2026-11-22T04:25:39.424861+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 21 Nov 2026 01:02:39 GMT",
+    "source": "BBC News",
+    "id": "5e7cb9364b3d2c5473c4cbe7926cd685",
+    "fetched_at": "2026-11-22T04:25:38.230281+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Lock of former US President George Washington's hair sells for $4,000",
     "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
     "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
@@ -518,85 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "aaaded523f2968cd840fe5ad35c058a9",
     "fetched_at": "2026-11-21T09:01:03.801086+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 18 Nov 2026 23:28:03 GMT",
-    "source": "BBC News",
-    "id": "61266b878572ee0a4ec7d7e89f899821",
-    "fetched_at": "2026-11-21T09:01:03.801083+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 00:50:24 GMT",
-    "source": "BBC News",
-    "id": "0c36d812a09f572d4c329cebdca0d600",
-    "fetched_at": "2026-11-21T09:01:03.801046+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "What does the new Brexit deal mean for Northern Ireland?",
-    "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 14:41:53 GMT",
-    "source": "BBC News",
-    "id": "c6bb739f29e8da56960817ae7c71686d",
-    "fetched_at": "2026-11-21T09:01:02.674272+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 13:01:16 GMT",
-    "source": "BBC News",
-    "id": "d07cd85ea690f003fca64f5a2441bb74",
-    "fetched_at": "2026-11-21T09:01:01.541796+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "The U.K. and EU hold a rare summit to strengthen ties",
-    "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-    "published": "Fri, 20 Nov 2026 04:14:41 -0500",
-    "source": "NPR Topics: World",
-    "id": "cb9a0eeee5ad5b2d18c8b1e158657cf9",
-    "fetched_at": "2026-11-21T09:01:00.425732+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-    "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
-    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-    "published": "Sat, 21 Nov 2026 03:08:01 -0500",
-    "source": "NPR Topics: World",
-    "id": "4f2f660d76e3e67888565ffdc6753c05",
-    "fetched_at": "2026-11-21T09:00:59.273675+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US declassifies more UFO footage filmed in the Middle East",
-    "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-    "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 20 Nov 2026 23:15:20 GMT",
-    "source": "BBC News",
-    "id": "798a9fd334d62225aebb564f60ed8470",
-    "fetched_at": "2026-11-21T09:00:58.126508+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
-    "summary": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 21 Nov 2026 03:49:09 GMT",
-    "source": "BBC News",
-    "id": "a13064dcb4add980e4a6b71406587b09",
-    "fetched_at": "2026-11-21T09:00:56.974306+00:00"
   }
 ]
