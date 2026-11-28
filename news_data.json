@@ -1,6 +1,126 @@
 [
   {
     "region": "Europe",
+    "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+    "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 27 Nov 2026 17:19:31 GMT",
+    "source": "BBC News",
+    "id": "c5af789cccb782cdd33b07cb5b3bcb9e",
+    "fetched_at": "2026-11-28T05:45:36.363324+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Eight killed in Peruvian military helicopter crash",
+    "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 28 Nov 2026 04:19:16 GMT",
+    "source": "BBC News",
+    "id": "a45bd669c1eaa7d11737239d59f8e0c3",
+    "fetched_at": "2026-11-28T05:45:36.363322+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 27 Nov 2026 18:00:40 GMT",
+    "source": "BBC News",
+    "id": "fe3c098e3351068ecae8ab02e5227d2e",
+    "fetched_at": "2026-11-28T05:45:36.363319+00:00"
+  },
+  {
+    "region": "Europe",
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 28 Nov 2026 04:13:45 GMT",
+    "source": "BBC News",
+    "id": "be6b98f78b4ae19c6115af80694ba6c0",
+    "fetched_at": "2026-11-28T05:45:36.363316+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+    "summary": "Wes Streeting says the United Kingdom is contacting former service members to update its strategic reserve as Russian sabotage rises across Europe.",
+    "link": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat",
+    "published": "Thu, 26 Nov 2026 16:14:20 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "809778833cab94beca59bef0b71ea761",
+    "fetched_at": "2026-11-28T05:45:36.363293+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+    "summary": "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian &quot;false flag&quot; staged to get President Donald Trump&apos;s attention.",
+    "link": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention",
+    "published": "Thu, 26 Nov 2026 18:19:59 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "bceebe3a09a6484f6914eba604dfa546",
+    "fetched_at": "2026-11-28T05:45:35.269975+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
+    "summary": "A massive blackout crippled Crimea, testing Vladimir Putin&apos;s grip as outages hit Sevastopol and Simferopol and Zelenskyy warned of a new Russian strike.",
+    "link": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike",
+    "published": "Thu, 26 Nov 2026 21:25:49 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "22d59f29a9e98a08ab2782da75b7380f",
+    "fetched_at": "2026-11-28T05:45:34.168830+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
+    "summary": "The Taliban reportedly banned women&apos;s names from official records in an Afghan province, five years after reclaiming power amid Biden&apos;s chaotic withdrawal.",
+    "link": "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother",
+    "published": "Fri, 27 Nov 2026 20:42:28 -0500",
+    "source": "Latest World News on Fox News",
+    "id": "98542e871034a85b4ec391f6694e0b96",
+    "fetched_at": "2026-11-28T05:45:33.066744+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+    "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "published": "Wed, 25 Nov 2026 06:50:05 -0500",
+    "source": "NPR Topics: World",
+    "id": "195cafb8459505ff76589e3ba2deb667",
+    "fetched_at": "2026-11-28T05:45:31.971071+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 26 Nov 2026 10:38:35 GMT",
+    "source": "BBC News",
+    "id": "8ad2f2a3a54a1e1087d15d3965848c37",
+    "fetched_at": "2026-11-28T05:45:30.862604+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Two American Airlines planes clip wings before takeoff at Reagan airport in 'tense' moment",
+    "summary": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 28 Nov 2026 01:31:28 GMT",
+    "source": "BBC News",
+    "id": "b448df721da9105e4fd4fcc5ce89118d",
+    "fetched_at": "2026-11-28T05:45:29.728722+00:00"
+  },
+  {
+    "region": "USA",
+    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+    "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+    "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 28 Nov 2026 01:55:33 GMT",
+    "source": "BBC News",
+    "id": "1b51349fd98ee941b1ebb5adc128c98d",
+    "fetched_at": "2026-11-28T05:45:28.630408+00:00"
+  },
+  {
+    "region": "Europe",
     "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
     "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
     "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
@@ -478,125 +598,5 @@
     "source": "News | Euronews RSS",
     "id": "1d66f4565d1b6d77a212bf7926652643",
     "fetched_at": "2026-11-27T13:22:01.301208+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Son of Myanmar's Suu Kyi 'relieved' by first call in five years, questions military's motives",
-    "summary": "Speaking to Euronews’ The World Conversation, Kim Aris described his relief at hearing his mother’s voice after five years, called for tougher sanctions enforcement and defended her record on the Rohingya genocide ruling.",
-    "link": "https://www.euronews.com/2026/11/27/son-of-myanmars-suu-kyi-relieved-by-first-call-in-five-years-questions-militarys-motives",
-    "published": "Fri, 27 Nov 2026 13:29:26 +0100",
-    "source": "News | Euronews RSS",
-    "id": "504014d1b8bd7af4a91194aa56edbe1d",
-    "fetched_at": "2026-11-27T13:22:01.301205+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "North Korea halts Russia military aid over Seoul row, Kyiv says",
-    "summary": "Ukraine's military intelligence said Kim Jong-un personally ordered the suspension after Russia's deputy foreign minister said it would help ease tensions between Seoul and Pyongyang.",
-    "link": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
-    "published": "Fri, 27 Nov 2026 13:53:58 +0100",
-    "source": "News | Euronews RSS",
-    "id": "7e3455ce0b4baf66a4d01a5e79076f79",
-    "fetched_at": "2026-11-27T13:22:01.301203+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "UK to pay 'participation' fee to deliver EU deals",
-    "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-    "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 26 Nov 2026 23:17:12 GMT",
-    "source": "BBC News",
-    "id": "79ce82f063ff3747a8c8c6468ffc45db",
-    "fetched_at": "2026-11-27T13:22:01.301200+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-    "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 26 Nov 2026 00:23:27 GMT",
-    "source": "BBC News",
-    "id": "d41dfc2e96aef87a935544bb402d2e36",
-    "fetched_at": "2026-11-27T13:22:01.301197+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-    "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-    "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 27 Nov 2026 07:28:10 GMT",
-    "source": "BBC News",
-    "id": "61776b5a2e4f5b535834e46884715549",
-    "fetched_at": "2026-11-27T13:22:01.301195+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "EU leaders fail to bridge budget splits as talks stall",
-    "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 27 Nov 2026 06:11:55 GMT",
-    "source": "BBC News",
-    "id": "10e3566d5f7cd6567c4b114b54d1aead",
-    "fetched_at": "2026-11-27T13:22:01.301191+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-    "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
-    "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 27 Nov 2026 06:09:31 GMT",
-    "source": "BBC News",
-    "id": "36836b3fa01bddee47e68d1e612d5304",
-    "fetched_at": "2026-11-27T13:22:01.301164+00:00"
-  },
-  {
-    "region": "Europe",
-    "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-    "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 27 Nov 2026 06:03:39 GMT",
-    "source": "BBC News",
-    "id": "70b8d3b561308b003b7d4b97a96faafe",
-    "fetched_at": "2026-11-27T13:22:00.221285+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-    "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
-    "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-    "published": "Fri, 27 Nov 2026 01:12:45 -0500",
-    "source": "NPR Topics: World",
-    "id": "92f8a0369d1e63247a0e65cb073f4853",
-    "fetched_at": "2026-11-27T13:21:59.141905+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "As UN Secretary General's last day approaches, search for his replacement continues",
-    "summary": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
-    "published": "Fri, 27 Nov 2026 04:46:13 -0500",
-    "source": "NPR Topics: World",
-    "id": "af29725070d253d129fa2fe51e0198a8",
-    "fetched_at": "2026-11-27T13:21:58.046798+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-    "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-    "published": "Fri, 27 Nov 2026 06:49:50 -0500",
-    "source": "NPR Topics: World",
-    "id": "7a725e7b5df91e43165ca5b5e7d6e923",
-    "fetched_at": "2026-11-27T13:21:56.960097+00:00"
-  },
-  {
-    "region": "USA",
-    "title": "US announces new tariffs on host of countries including China",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 26 Nov 2026 04:10:58 GMT",
-    "source": "BBC News",
-    "id": "9ad0632cefa959086f74a629987e38c2",
-    "fetched_at": "2026-11-27T13:21:55.883970+00:00"
   }
 ]
